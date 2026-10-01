@@ -1,0 +1,948 @@
+SAHPGL-MD-03_v4 
+Page 1 of 22
+ 
+ 
+ 
+13 December 2024 
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: ADVERSE EVENTS 
+REPORTING 
+FOR 
+HOLDERS 
+OF 
+A 
+MEDICAL 
+DEVICE 
+ESTABLISHMENT LICENCE (LICENSEE) / HOLDERS OF A 
+CERTIFICATE OF REGISTRATION OF A MEDICAL DEVICE 
+(INCLUDING AN IVD) 
+This document has been prepared to serve as a recommendation to a holder of a medical device establishment license (Licensee) / 
+Holder of a Certificate of Registration of a medical device (including an IVD) (HCR) regarding adverse event reporting for medical 
+devices (including IVDs), and the South African Health Products Regulatory Authority (SAHPRA) current thinking on the safety, quality 
+and performance of medical devices. SAHPRA reserves the right to request for any additional information to establish the safety, 
+quality and performance of a medical device (including IVDs) and may make amendments in keeping with the knowledge which is 
+current at the time of consideration of data which has been submitted regarding adverse events for medical devices (including IVDs). 
+SAHPRA is committed to ensure that all medical devices (including IVDs), that are registered are of the required quality, safety and 
+perform as intended. It is important for applicants to adhere to these requirements. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+− 
+First issue 
+− 
+Industrial comments incorporated 
+− 
+Integration of the Recall Adverse event and post-marketing vigilance 
+guidelines for medical devices and IVDs into one guideline 
+− 
+Addition of Annexures 1 & 2 for reporting to the Regulatory 
+Authority, and 
+− 
+Published for implementation 
+August 2015 
+2 
+Updated version following comments received 
+April 2017  
+3 
+Administrative updates: 
+- MCC changed to SAHPRA 
+- Registrar of Medicine changed to Chief Executive Officer 
+November 2019 
+4 
+- Content structured on the new SAHPRA Guideline Template 
+- Previous Guideline No.: 8.04 changed to a new document number 
+(SAHPGL-MD-03). 
+- Separate Adverse Event Reporting Guideline from Guideline for Recall or 
+Withdrawal of a Medical Device (including IVDs). New Guideline name is 
+October 2024  
+SAHPGL-MD-03_v4 
+Page 2 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+Medical Device Vigilance: Adverse Events Reporting for Licensed 
+Holders: SAHPGL-MD-03_v4 New Guideline is based on new medical 
+device regulations. 
+- Include reference to the form for reporting adverse events for medical 
+devices (including IVDs). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-MD-03_v4 
+Page 3 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 6 
+1.1 
+Purpose ...................................................................................................................................................... 6 
+1.2 
+Scope .......................................................................................................................................................... 7 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 7 
+3. 
+VIGILANCE .................................................................................................................................................. 7 
+3.1 
+Vigilance Exchange ..................................................................................................................................... 7 
+4. 
+ADVERSE EVENT ......................................................................................................................................... 9 
+4.1 
+Reportable Adverse Events ........................................................................................................................ 9 
+4.2 
+Reporting an adverse event associated with a Medical Device (including an IVD) ................................. 10 
+4.3 
+Exemption from Reporting an Adverse Event to the Regulatory Authority ............................................ 11 
+4.4 
+Timeframes for submitting an adverse event report to SAHPRA ............................................................ 12 
+4.5 
+Timeframes for submitting clinical studies adverse event report to SAHPRA ......................................... 12 
+4.6 
+Adverse event reporting .......................................................................................................................... 13 
+4.7 
+Access to medical devices involved in an adverse event ......................................................................... 14 
+4.8 
+How to report an adverse event .............................................................................................................. 15 
+5. 
+REFERENCES ............................................................................................................................................. 15 
+6. 
+VALIDITY ................................................................................................................................................... 15 
+7. 
+APPENDICES ............................................................................................................................................. 17 
+7.1 
+Appendix 1: Decision Tree Flow Chart for Adverse Event Reporting ....................................................... 17 
+7.2 
+Appendix 2: Table of Adverse Event Reporting Exemption Rules and Examples .................................... 18 
+7.3 
+Appendix 3: Examples of Reportable Adverse Events.............................................................................. 21 
+7.4 
+Appendix 4: Examples of an Adverse Event Involving Public Health Concerns ....................................... 22 
+ 
+ 
+ 
+SAHPGL-MD-03_v4 
+Page 4 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Adverse Event 
+means possible failure/s of a medical device or lVD or difficulties in the use of 
+or an undesirable outcome associated with the use of a medical device or lVD 
+that can or does result in either death, serious injury or serious deterioration 
+in the state of health of a patient, user, or other person – or - no death or 
+serious injury/ serious deterioration in state of health of a patient, user or 
+other person has occurred but the event is likely to lead to death or serious 
+injury of a patient, user or other person if the event recurs. 
+Device Malfunctions 
+ 
+Failures that may affect device performance but do not necessarily result in 
+adverse health outcomes. 
+Field Safety Corrective 
+Action (FSCA) 
+an action taken by the holder of a medical device establishment licence 
+(“licensee”) and the holder of a certificate of registration (CHR) to reduce a 
+risk of death or serious deterioration in the state of health associated with the 
+use of a medical device that is already placed on the market.  
+GMDN 
+Global Medical Device Nomenclature. 
+GMDN Code 
+A list of generic names used to identify all medical device products. Such 
+products include those used in the diagnosis, prevention, monitoring, 
+treatment or alleviation of disease or injury in humans 
+(https://www.gmdnagency.org/). 
+HCR  
+Holder of Certificate of Registration 
+IVD  
+In Vitro Diagnostic Medical Device, a medical device, whether used alone or in 
+combination, intended by the manufacturer for the in vitro examination of 
+specimens derived from the body solely or principally to provide information 
+for diagnostic, monitoring or compatibility purposes. 
+Licensee or licence holder 
+Holder of a medical device establishment licence as contemplated in section 
+22C(1)(a) 
+Near Adverse Event 
+is an event that might have led to a death or serious injury. It may be that due 
+to the timely intervention of a healthcare practitioner a death or serious injury 
+did not occur. 
+For an event to be defined as a near-adverse event, it is sufficient that: 
+• 
+an event associated with the device happened. 
+• 
+if the event occurred again, it might lead to a public health threat, 
+death or serious injury testing or examination of the device or the 
+information supplied with the device, or scientific literature indicated 
+some factor that could lead to a death or serious injury. 
+QMS 
+Quality Management System 
+SAHPRA  
+South African Health Products Regulatory Authority 
+Serious Injury  
+(Also known as serious deterioration in state of health) is either: 
+• 
+Life-threatening illness or injury, and 
+SAHPGL-MD-03_v4 
+Page 5 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+Abbreviation/ Term 
+Meaning 
+• 
+Permanent impairment of a body function or permanent damage to a 
+body structure. 
+• 
+A condition necessitating medical or surgical intervention to prevent 
+permanent impairment of a body function or permanent damage to a 
+body structure. 
+Serious public health 
+threat 
+Any event type, which results in imminent risk of death, serious injury, or 
+serious illness that requires prompt remedial action. 
+Use Error 
+Act, or omission of an act, that has a different result to that intended by the 
+manufacturer or expected by the operator. 
+USADE 
+Unanticipated Serious Adverse Device Effect. 
+Vigilance  
+In relation to a medicine, medical device or IVD, means the continuous 
+monitoring and evaluation of its safety, efficacy and performance profile 
+and the management of any risk throughout its life cycle. 
+ 
+ 
+ 
+SAHPGL-MD-03_v4 
+Page 6 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+1. 
+INTRODUCTION 
+This guideline provides a reference document detailing the regulatory requirements for the reporting of an 
+adverse event for a medical device (including an IVD) in South Africa and describes the information to be 
+supplied to the South African Health Products Regulatory Authority (SAHPRA). This guideline is intended for 
+the holder of a medical device establishment licence (referred to as the “licensee)” and the Holder of a 
+Certificate of Registration (HCR) for the purposes of reporting of an adverse event associated with the use of 
+a medical device (including an IVD). 
+A medical device (including an IVD) made available for sale in South Africa must meet all the regulatory, safety 
+and performance requirements and any other applicable standards. To improve the monitoring of the 
+performance of a medical device supplied in South Africa, the Regulatory Authority requires the reporting of 
+adverse events by the licensee and HCR of a medical device (including an IVD). 
+If there is a problem with a medical device or the way in which it is being used, the licensee and HCR will first 
+conduct an analysis and decide on the appropriate action. One of these actions may require notifying or 
+obtaining further advice from the Regulatory Authority (SAHPRA). 
+Some actions that may need to be taken include:  
+(a) follow corrective/preventive actions/procedures under the manufacturer’s/ distributor’s quality 
+management system,  
+(b) inform the users of the medical device (including an IVD),  
+(c) make corrections to the medical device (including an IVD),  
+(d) remove, i.e., recall the medical device (including an IVD) from the market. 
+The Regulatory Authority has established procedures for the ongoing monitoring, vigilance and recall of 
+medical devices (including IVDs) supplied in South Africa. Whenever there is doubt, the licensee and HCR are 
+advised to report and/or consult SAHPRA for confirmation and/or clarification regarding reporting; refer to the 
+guideline for completing the medical device adverse event form for licensed holders. 
+1.1 
+Purpose 
+The purpose of this guideline is to outline the format and data requirements for reporting adverse events 
+relating to Medical Devices (including IVDs). This guideline details the requirements for the licensee and 
+HCR to inform the Regulatory Authority of relevant reportable adverse events, within the appropriate 
+SAHPGL-MD-03_v4 
+Page 7 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+timeframes and to also ensure timely and appropriate action is taken. 
+1.2 
+Scope 
+This guideline document is intended as a supplement to the medical device regulations, to aid in the 
+interpretation of the adverse event reporting requirements for a medical device (including an IVD). This 
+guideline is relevant to all medical devices (including IVDs).  
+This guideline is intended to assist the licensee and HCR of a medical device (including an IVD) in the 
+reporting of an adverse event associated with the use of a medical device (including an IVD). 
+The guideline is only relevant for the reporting of an adverse event associated with the use of medical 
+devices (including IVDs). Separate guidelines apply to the reporting of adverse events and 
+pharmacovigilance of human medicines including biological and complementary medicines, Safety 
+Reporting During Clinical Trials In South Africa, and the recall of a medical device (including an IVD) from 
+the marketplace, refer to the current guideline for medical device recalls: Guideline for Recall or Withdrawal 
+of a Medical Device (including IVDs). 
+2. 
+LEGAL PROVISION 
+This guideline is based on the requirements of the Medicines and Related Substances Act, 101 of 1965, as 
+amended and the Regulations relating to Medical Devices and in vitro diagnostic medical devices (IVDs). 
+3. 
+VIGILANCE 
+A well-structured vigilance system is the backbone of a robust regulatory framework to ensure quality and 
+promote the safe use of medical devices (including IVDs). The adverse event reporting provisions in the 
+Regulations are intended to improve monitoring and reduce the recurrence of adverse events related to 
+medical devices (including IVDs) in South Africa, and to ensure that the risk to South Africans of problematic 
+medical devices (including IVDs) is managed appropriately.  
+3.1 
+Vigilance Exchange 
+Through various Mutual Recognition Agreements for medical device (including IVDs) regulation, the 
+Regulatory Authority has an obligation to exchange vigilance information with other national regulatory 
+authorities. Information will be exchanged on adverse events, where reportable adverse events associated 
+with a medical device (including IVDs) that have led or are highly likely to lead to unanticipated serious 
+public health threat and fulfill the following criteria: 
+(a) Death of a patient, user or other person. 
+SAHPGL-MD-03_v4 
+Page 8 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+(b) Serious injury of a patient, user or other person. 
+(c) No death or serious injury occurred but the event might lead to death or serious injury of a patient, 
+user or other person if the event recurs. Some jurisdictions refer to these events as near events. 
+(d) upon request or other regulatory authorities where corrective action or a recall, is to be taken. 
+(e) There is a serious risk to the safety of patients or other users, but where the corrective action is 
+still to be determined. 
+SAHPRA may share and/ or request information from other regulatory authorities about a specific device 
+or class/ group of devices concerning: 
+Adverse events: 
+(a) The frequency of the adverse event associated with the device where it is significantly higher than 
+the frequency recorded in the manufacturer's file or significantly higher than the frequency 
+observed with similar devices.  
+(b) The event has led or is highly likely to lead to a serious public health threat.    
+(c) An increased seriousness or frequency to what was previously reported to the regulatory 
+authority. 
+(d) Major deviations regarding the licensee or the holder of a registration certificate’s Quality 
+Management System (QMS).  
+(e) Regulatory status changes of a device(s). 
+ 
+The consequences of which: 
+(a) have led or are highly likely to lead to serious public health threat, and 
+(b) may affect other jurisdictions. 
+ 
+ 
+SAHPGL-MD-03_v4 
+Page 9 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+SAHPRA can ask other regulatory authorities about similar experience(s) and what actions were initiated or 
+are being discussed to address the issue, e.g., recalls or Field Safety Corrective Actions (FSCA). SAHPRA will 
+consult the licensee and HCR when preparing a vigilance report to be sent to other regulatory authorities. 
+It is the responsibility of the licensee and HCR to ensure that the original manufacturer is aware of the 
+Regulatory Authority vigilance report, and that any comments that are made by the original manufacturer 
+are submitted to the Regulatory Authority for consideration. 
+4. 
+ADVERSE EVENT 
+4.1 
+Reportable Adverse Events 
+Any adverse event that meets the three basic reporting criteria, even if it does not involve a patient or user, 
+should be reported to the Regulatory Authority: 
+4.1.1 An adverse event has occurred 
+An adverse event related to a medical device that has led or may lead to a mild or moderate or serious 
+threat to public health or death or serious injury, and if one or more of the following events occur but not 
+limited to:  
+(a) A malfunction or deterioration in the characteristics or performance;  
+(b) The discovery of a design flaw during design review;  
+(c) An inaccuracy in the labelling, instructions for use and/or promotional materials. Inaccuracies 
+include omissions and deficiencies. Omissions do not include the absence of information that 
+should generally be known by the intended users. 
+(d) The discovery of a serious public health threat; 
+(e) This can include an event that is of a significant and unexpected nature such that it becomes 
+alarming as a potential public health hazard, e.g. human immunodeficiency virus (HIV) or 
+Creutzfeldt-Jacob Disease (CJD). 
+4.1.2 The medical device is associated with the adverse event  
+In assessing the link between the medical device (including an IVD) and the event, the following should be 
+taken into account:  
+(a) The opinion, based on available information, from users and healthcare professionals; 
+SAHPGL-MD-03_v4 
+Page 10 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+(b) Information concerning previous, similar events; 
+(c) Complaint trends; and 
+(d) Other information held by the original manufacturer. 
+4.1.3 The adverse event has led to the following outcomes:  
+(a) Death of a patient or user 
+(b) A serious injury  
+(c) A near adverse event. 
+It is possible that the reporter will not have enough information to decide on the reportability of an adverse 
+event. In such a case, the reporter should make reasonable efforts to obtain additional information to aid 
+in the decision. Where applicable, the reporter should consult with the healthcare professional involved 
+and make all reasonable efforts to retrieve the medical device for evaluation. 
+The event is considered “adverse” if in the case of reoccurrence, it could lead to death or serious injury. 
+This applies also if the examination of the device or a deficiency in the information supplied with the device, 
+or any information associated with the device, indicates some factor which could lead to an event involving 
+death or serious injury. 
+NOTE: Refer to the decision tree related to evaluating the reportability of an adverse event (Appendix 1). 
+4.2 
+Reporting an adverse event associated with a Medical Device (including an IVD) 
+The Authorised Representative of the licensee and HCR in respect of a medical device or IVD must inform 
+the Authority, in the manner and within the time frame determined by the Authority, of a suspected 
+adverse event, reported to him or her, occurring as a result of the use of the medical device or IVD, as 
+outlined in the condition of sale of a medical device (including an IVD) in South Africa. Breaching conditions 
+may lead to suspension or cancellation of the sale of the medical device or IVD as well as constituting an 
+offence. The Authorised Representative of the licensee and HCR is responsible for forwarding reports of all 
+adverse events to the original manufacturer for assessment under the original manufacturers surveillance 
+systems. 
+It is possible that the licensee and HCR will not have enough information to decide if the problem should 
+be reported to the Regulatory Authority. The Authorised Representative of the licensee and HCR should 
+SAHPGL-MD-03_v4 
+Page 11 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+make reasonable efforts to obtain additional information to assist in making this decision. A record of 
+decisions made (with supporting documentation) must be retained by the licensee and HCR. 
+In assessing the link between the device and the event, the Authorised Representative of the licensee and 
+HCR should take into account: 
+(a) the opinion, based on available information, from a healthcare professional, 
+(b) information concerning previous, similar events, 
+(c) other information held by the Authorised Representative of the licensee and HCR.  
+In complex situations, it should be assumed that the medical device was associated with the event. If there 
+is any doubt about whether a report should be submitted, the report should be submitted. 
+Where possible, the Authorised Representative of the licensee and HCR should consult with the user and/ 
+or healthcare professional(s) or health facilities involved and do their utmost to retrieve the medical device 
+for purposes of inspection where possible. 
+4.2.1 Examples of Reportable Adverse Events 
+Refer to Appendix 3. 
+4.2.2 Examples of Reportable Adverse Events Involving Public Health Concerns 
+Refer to Appendix 4. 
+In certain circumstances it is not necessary to report an adverse event to SAHPRA – refer to section 4.3 
+below. Where exemption is not applicable, only an adverse event that occurs in South Africa must be 
+reported to the Regulatory Authority, using the Medical Device Adverse Event Reporting Form (GLF-MD-
+11A, refer to section 4.8 which indicates where the form is to be submitted). Any remedial or corrective 
+action that arises outside of South Africa for a medical device that is also supplied in South Africa should be 
+held in the records of the licensee and be available to SAHPRA on request. Adverse events for medical 
+devices (including IVDs) that occur outside of South Africa for medical devices (including IVDs) also supplied 
+in South Africa do not need to be reported to the Regulatory Authority, however, records of these events 
+should be available if requested.  
+4.3 
+Exemption from Reporting an Adverse Event to the Regulatory Authority 
+There are eight exemption rules that can apply (see Appendix 2 for a table of exemption rules). However, 
+SAHPGL-MD-03_v4 
+Page 12 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+these rules do NOT apply when: 
+4.3.1 A medical device (including an IVD), event or issue specifically identified by the Regulatory Authority 
+as an issue that requires close monitoring— the affected licensee(s) and the HCR will be notified by 
+the Regulatory Authority when this occurs. 
+4.3.2 An adverse event normally subject to a reporting exemption, where a change in trend (usually an 
+increase in frequency) or pattern is identified. 
+4.3.3 Use error related to medical devices, which did not result in death or serious injury or serious public 
+health threat, need not be reported. Such events should be handled within the manufacturer’s 
+quality and risk management system and are a part of the manufacturers’ responsibility to investigate 
+complaints and where necessary make changes to labelling or training. The manufacturers QMS, 
+decisions and documented rational are subject to inspection from any number of regulators. 
+If a licensee and HCR believes an exemption rule applies to reporting an adverse event, the reasons for not 
+reporting the event should be documented and retained on record.  
+4.4 
+Timeframes for submitting an adverse event report to SAHPRA 
+The period in which the Authorised Representative of the licensee and HCR must give information to the 
+Regulatory Authority is: 
+4.4.1 if the information relates to an event or other occurrence that represents a serious threat to public 
+health - 48 hours after the person becomes aware of the event or occurrence; and 
+4.4.2 if the information relates to an event or other occurrence that led to the death, or a serious 
+deterioration in the state of health, of a patient, a user of the device, or another person – 10 calendar 
+days after the person becomes aware of the event or occurrence; and 
+4.4.3 If the information relates to an event or other occurrence a recurrence of which might lead to the 
+death, or a serious deterioration in the state of health, of a patient, a user of the device, or another 
+person - 30 days after the person becomes aware of the event or occurrence. 
+4.5 
+Timeframes for submitting clinical studies adverse event report to SAHPRA  
+4.5.1 In clinical studies, report serious adverse events which have been determined to represent a serious 
+health threat to the study population must be reported by the sponsor within 48 hours following the 
+determination that the serious health threat exists. 
+SAHPGL-MD-03_v4 
+Page 13 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+4.5.2 In clinical studies, report within 10 calendar days after becoming aware the following; Unanticipated 
+Serious Adverse Device Effect (USADE) and serious adverse event, adverse event resulting in death, 
+or resulting in a serious deterioration in the health of the subject that either: adverse event resulted 
+in a life-threatening illness or injury, adverse event resulted in a permanent impairment of a body 
+structure or a body function and serious adverse event, other than unanticipated serious adverse 
+device effect(s) that have led to foetal distress, foetal death or a congenital abnormality or birth 
+defect 
+4.5.3 In clinical studies, report within 30 days; a serious adverse event other than unanticipated serious 
+adverse device effect, resulting in a serious deterioration in the health of the subject that either: 
+required in-patient hospitalisation or prolongation of existing hospitalisation, adverse event resulted 
+in medical or surgical intervention to prevent life-threatening illness or injury or permanent 
+impairment to a body structure or a body function. Any device deficiency that might have led to a 
+serious adverse event if either: suitable action had not been taken; intervention had not been made; 
+or circumstances had been less fortunate.  
+If, after becoming aware of a potentially reportable adverse event, there is uncertainty about whether the 
+event is reportable, the sponsor must submit a report within the timeframe required for that type of event. 
+4.6 
+Adverse event reporting  
+The Medical Device Adverse Event Reporting Form (GLF-MD-11A) should be submitted as per timelines and 
+include one of the following report types with the following information: 
+4.6.1 Initial report: defined as the first information submitted by the licensee and HCR about a reportable 
+event, but the information may be incomplete and supplementary information will need to be 
+submitted. This includes immediate notification.  
+4.6.2 Follow-up report: defined as a report that provides supplemental information about a reportable 
+event that was not previously available).  
+4.6.3 Final report: defined as the last report that the licensee and HCR expect to submit about the 
+reportable event. A final report may also be the first report or the follow-up report depending on the 
+information available. 
+For details to be included in an adverse event report, refer to the Guideline for completing an adverse event 
+report form for licensed holders.   
+SAHPGL-MD-03_v4 
+Page 14 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+The report submitted to SAHPRA should be dated and signed by the Authorised Representative and should 
+not be unduly delayed if the information is incomplete, a follow-up report should be submitted as soon as 
+it is available. It is important to get this process underway as additional information can be provided later. 
+4.7 
+Access to medical devices involved in an adverse event 
+Where possible, the Authorised Representative of the licensee and HCR should consult with the user of the 
+medical device about the event before a report is submitted to the Regulatory Authority. The licensee and 
+HCR may also wish to have access to the medical device involved in the event to help decide whether the 
+event should be reported to the Regulatory Authority. Such access would be at the discretion of the user 
+or healthcare facility concerned, but they are advised to assist the licensee and HCR to determine the root 
+cause of the event. All precautions required for the transportation of biohazardous materials should be 
+undertaken and medical device (including IVD) kits with biohazardous packaging should be used. 
+If the licensee and/or HCR has access to the medical device and cannot transport the used medical device 
+without cleaning or decontamination process which may involve altering the device in a way that may affect 
+subsequent analysis, the HCR/licensed manufacturer/licensed distributor should, through the Authorised 
+Representative, inform the Regulatory Authority as part of its report.  
+The outcome of any investigation may include one or more: 
+4.7.1 Referral to other areas of the Regulatory Authority for regulatory actions, such as auditing of the 
+manufacturer. 
+4.7.2 Implementation of a Field Safety Corrective Action relating to the affected medical device (including 
+an IVD) might lead to the following actions (For further information Refer to the Guideline for Recall 
+or Withdrawal of a Medical Device (including IVDs): 
+(a) recall the type of medical device (including IVD) from the market and prevent further sale of such 
+medical device (including IVD) until written approval by SAHPRA to do so. 
+(b) withdraw the affected medical device (including an IVD) from supply in South Africa. 
+(c) allow correction at the user’s site following the issuing of a Safety Alert where there is a need to 
+reinforce the manufacturer’s Instructions for Use to those responsible for the use of the medical 
+device or those affected by the problem. 
+4.7.3 Product improvement for problems that are not safety-related - carried out by the manufacturer 
+SAHPGL-MD-03_v4 
+Page 15 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+report on the Regulatory Authority website and/ or appropriate communication. 
+ 
+4.8 
+How to report an adverse event  
+The Regulatory Authority should be contacted on the below contact details for medical device related 
+adverse events or vigilance reporting as required by these guidelines: 
+Email 
+: mdvigilance@sahpra.org.za 
+Tel 
+: 012 501 0476 
+Physical address 
+: Loftus Park 
+ 
+  Building A 
+ 
+  Kirkness Road, Arcadia 
+ 
+  Pretoria 
+5. 
+REFERENCES 
+The following related documents are referenced: 
+5.1 
+Medicines and Related Substances Act, 101 of 1965, as amended. 
+5.2 
+Regulations relating to Medical Devices. Government Notice No. 1515, Government Gazette No. 
+40480 09 December 2016. 
+5.3 
+GHTF/SG2/N54R8:2006 Post Market Surveillance: Global Guidance for Adverse Event Reporting for 
+Medical Devices. 
+5.4 
+GHTF/SG2/N87:2012 Medical Devices: Post Market Surveillance:  An XML Schema for the electronic 
+transfer of adverse event data between manufacturers, authorized representatives and National 
+Competent Authorities. 
+5.5 
+GHTF/SG5/N5:2012 Reportable Events During Pre-Market Clinical Investigations. 
+5.6 
+IMDRF IMDRF/AE WG/N43FINAL:2020 IMDRF terminologies for categorized Adverse Event Reporting 
+(AER):  terms, terminology structure and codes. 
+ 
+6. 
+VALIDITY 
+SAHPGL-MD-03_v4 
+Page 16 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the previous 
+Guideline No.: 8.04 referred to as Recall, Adverse Event and Post-Marketing Vigilance Reporting of Medical 
+Devices and IVDs and is divided into two guidelines with a new document number (SAHPGL-MD-03). It will be 
+reviewed on this timeframe or as and when required. 
+ 
+SAHPGL-MD-03_v4 
+Page 17 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+7. 
+APPENDICES 
+7.1 
+Appendix 1: Decision Tree Flow Chart for Adverse Event Reporting 
+ 
+ 
+ 
+  YES
+                   YES
+                   NO
+                 YES
+                  NO  
+                YES
+                    NO
+              YES
+                 NO
+Is the medical 
+device ( incl. IVD) 
+suspected to 
+have contributed 
+Does the event 
+result in a 
+serious  Public 
+Health Threat?
+REPORT 
+WITHIN 48 
+HOURS 
+NO REPORT 
+REQUIRED
+Reporting
+exemptions 
+apply?
+NO REPORT 
+REQUIRED
+NO REPORT 
+REQUIRED
+Did the event lead 
+to death or 
+serious injury or 
+USADE ?
+Could the 
+reccurence of the 
+event  lead to 
+death or serious 
+injury?
+NO REPORT 
+REQUIRED
+NO REPORT 
+REQUIRED
+REPORT
+WITHIN 10 
+DAYS
+REPORT
+WITHIN 30 
+DAYS
+REPORTING REQUIRED
+NO REPORTING REQUIRED
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+7.2 
+Appendix 2: Table of Adverse Event Reporting Exemption Rules and Examples 
+Rule 
+No. 
+Exemption Rule 
+Examples of adverse events exempt from reporting 
+1. 
+ 
+Deficiency of a new device found by the user prior to its use regardless of the 
+existence of provisions in the Instruction for Use provided by the manufacturer, 
+deficiencies of devices that will be always detected by the user and where no 
+serious injury has occurred, do not need to be reported. 
+ 
+Please note: If the device is used the exemption does not apply—the event must be 
+reported. 
+ 
+A user performs an inflation test (standard procedure) prior to inserting the balloon 
+catheter in the patient as required in the Instructions for Use accompanying the 
+device. Malfunction on inflation is identified. Another balloon is used. Patient is not 
+injured. 
+ 
+Sterile single-use device packaging is labelled with the caution ‘do not use if package 
+is opened or damaged’. Open package seals are discovered prior to use, and the 
+device is not used. 
+ 
+An intravenous administration set tip protector has fallen off the set during 
+distribution resulting in a non-sterile fluid pathway.  The intravenous administration 
+set was not used. 
+2. 
+ 
+Adverse event caused solely by patient conditions. 
+ 
+When the manufacturer has information that the root cause of the adverse event 
+is due to patient condition, the event does not need to be reported. These 
+conditions could be pre-existing or occurring during device use. 
+ 
+To justify not reporting, the manufacturer should have information available to 
+conclude that the device performed as intended and did not cause or contribute 
+to a death or serious injury. A person qualified to make a medical judgement would 
+accept the same conclusion. 
+ 
+An orthopaedic surgeon implants a hip joint and warns against sports-related use. 
+Patient chooses to go water skiing and subsequently requires premature revision. 
+ 
+The early revision of an orthopaedic implant due to loosening caused by the patient 
+developing osteoporosis. 
+ 
+A patient died after dialysis treatment. The patient had end- stage-renal disease and 
+died of renal failure. 
+3. 
+ 
+Service life or shelf life of the medical device. 
+ 
+The service life or shelf life is defined as ‘the time or usage that a device is intended 
+to remain functional after it is manufactured, placed into use, and maintained as 
+specified’. The service life must be specified by the device manufacturer and 
+included in the master record (technical file). 
+ 
+When the only cause for the adverse event was that the device exceeded its 
+service life or shelf life as specified by the manufacturer and the failure mode is 
+not unusual, the adverse event does not need to be reported. The service life or 
+ 
+Loss of sensing after a pacemaker has reached its end of life. The elective 
+replacement indicator has shown up in due time according to the device 
+specification. Surgical explanation of pacemaker is required. 
+ 
+A drill bit was used beyond the end of its specified life. It fractured during invasive 
+operation. Operation time was prolonged due to the difficulty to retrieve the broken 
+parts. 
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+Rule 
+No. 
+Exemption Rule 
+Examples of adverse events exempt from reporting 
+shelf life must be specified by the device manufacturer in the product labelling or 
+instructions for use.  
+4. 
+ 
+Protection against a fault functioned correctly. 
+ 
+Adverse events that did not lead to serious injury or death, because a design 
+feature protected against a fault becoming a hazardous situation (in accordance 
+with relevant standards or documented design inputs) do not need to be reported. 
+ 
+An infusion pump stops, due to a malfunction, but gives an appropriate alarm (for 
+example, in compliance with relevant standards) and there was no injury to the patient. 
+ 
+Microprocessor-controlled radiant warmers malfunction and provide an audible 
+appropriate alarm, in compliance with relevant standards and there was no injury to 
+the patient. 
+ 
+During radiation treatment, the automatic exposure control is engaged, and the 
+treatment stops. Although the patient receives less than an optimal dose, the patient 
+is not exposed to excess radiation. 
+5. 
+ 
+Remote likelihood of occurrence of death or serious injury 
+ 
+Adverse events that could lead, but have not yet led, to death or serious injury, but 
+have a remote likelihood of causing death or serious injury, and which have been 
+established and documented as acceptable after risk assessment do not need to be 
+reported. 
+ 
+If an adverse event resulting in death or serious injury occurs, the adverse event is 
+reportable, and a reassessment of the risk is necessary. If reassessment determines 
+that the risk remains remote, previous reports of near events of the same type do 
+not need to be reported retrospectively. Decisions not to report subsequent failures 
+of the same type must be documented. 
+ 
+Please note: A change in the trend (usually an increase in frequency) of these non-
+serious outcomes must be reported. 
+ 
+The manufacturer of a pacemaker supplied to the market identified a software bug and 
+determined that the likelihood of occurrence of a serious injury with a particular setting 
+is remote. No patients experienced any adverse health effects. 
+ 
+The manufacturer of blood donor sets obtains repeated complaints of minor leaks of 
+blood from these sets. No patient injuries from blood loss or infections of staff have 
+been reported. The chance of infection or blood loss has been re-evaluated by 
+manufacturer and deemed remote. 
+6. 
+ 
+Expected and foreseeable side effects that are documented in manufacturer’s 
+Instructions for Use or labelling. 
+ 
+Side effects that are clearly identified in the manufacturer’s labelling or are clinically 
+ 
+A patient receives a second-degree burn during the use of an external defibrillator in 
+an emergency. The risk assessment documents that such a burn has been accepted in 
+view of the potential patient benefit and a warning is provided in the Instructions for 
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+Rule 
+No. 
+Exemption Rule 
+Examples of adverse events exempt from reporting 
+well known as being foreseeable and having a certain functional or numerical 
+predictability when the device was used as intended need not be reported. 
+ 
+Some of these events are well known in the medical, scientific, or technology fields. 
+Others may have been clearly identified during clinical investigation and labelled by 
+the manufacturer. 
+ 
+Documentation, including the risk assessment, for the particular side effect should 
+be available in the device master record prior to the occurrence of adverse events. 
+The manufacturer cannot conclude in the face of events that they are foreseeable 
+unless there is prior supporting information. 
+Use. The frequency of burns is occurring within range specified in the device master 
+record. 
+ 
+A patient has an undesirable tissue reaction that is previously known and documented 
+in the device master record. 
+ 
+A patient who has a mechanical heart valve developed endocarditis ten years after 
+implantation and then died. 
+ 
+Placement of central line catheter results in an anxiety reaction and shortness of 
+breath. Both reactions are known and labelled side effects. 
+7. 
+ 
+Adverse events described in an advisory notice. 
+ 
+Adverse events that occur after the manufacturer has issued an advisory notice need 
+not be reported individually if they are specified in the notice. Advisory notices 
+include removals from the market, corrective actions, and product recalls. The 
+manufacturer should provide a summary report, the content and frequency of which 
+should be agreed with the Regulatory Authority. 
+ 
+A manufacturer issued an advisory notice and undertook a recall of a coronary stent 
+that migrated due to inadequate inflation of an attached balloon mechanism. 
+Subsequent examples of stent migration were summarised in quarterly reports 
+required for the recall action and individual adverse events did not have to be reported. 
+8. 
+ 
+Reporting exemptions granted by the Regulatory Authority 
+ 
+Upon request by the applicant, common and well-documented events may be 
+exempted by the Regulatory Authority from reporting or changed to periodic 
+reporting on a case-by-case basis. 
+ 
+However, those adverse events involving particular issues of public health concern 
+as determined by the should be reported regardless of exemption criteria.  
+ 
+Similarly, those adverse events which are subject to an exemption become 
+reportable to the Authority if a change in trend (usually an increase in frequency) or 
+pattern is identified.  
+ 
+SAHPGL-MD-03_v4 
+Page 21 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+7.3 
+Appendix 3: Examples of Reportable Adverse Events 
+ 
+ 
+1. 
+An infusion pump stops, due to a malfunction, but fails to give an alarm. The patient receives 
+an under-infusion of needed fluids. 
+2. 
+During the use of an external defibrillator on a patient, the defibrillator failed to deliver the 
+programmed level of energy due to a malfunction. 
+3. 
+An intravenous set separates and the comatose patient’s blood leaks onto the floor, resulting 
+in significant blood loss. 
+4. 
+Loss of sensing after a pacemaker has reached end of life. Elective replacement indicator did 
+not show up in due time, although it should have according to device specification.  
+5. 
+It was reported that a monitor suspension system fell from the ceiling when the bolts holding 
+the swivel joint broke off. Nobody was injured in the surgical theatre at that time, but a report 
+is necessary (near event). The system was installed, maintained, and used according to 
+manufacturer’s instructions.  
+6. 
+An infusion pump stops, due to a malfunction, but fails to give an alarm. Patient receives 
+under-infusion of needed fluids and requires extra days in hospital to correct.  
+a) Manufacturer of a pacemaker released on the market identified a software bug. Initial risk 
+assessment determined risk of serious injury as remote. Subsequent failure results in new 
+risk assessment by manufacturer and the determination that the likelihood of occurrence 
+of a serious injury is not remote. Medical Devices: Post Market Surveillance: Global 
+Guidance for Adverse Event Reporting for Medical Devices – GHTF/SG2/N54R8:2006 
+Study Group 2 Final Document 30 November 2006 Page 9 of 37 
+7. 
+During the use of an external defibrillator on a patient, the defibrillator failed to deliver the 
+programmed level of energy due to malfunction. Patient died.  
+8. 
+An- intravenous set separates, the comatose patient’s blood leaks onto the floor, the patient 
+bleeds to death.  
+9. 
+Unprotected ECG cable plugged into the main electricity supply – patient died. 
+SAHPGL-MD-03_v4 
+Page 22 of 22
+GUIDELINE FOR MEDICAL DEVICE VIGILANCE: Adverse Events Reporting 
+13 December 2024 
+ 
+ 
+7.4 
+Appendix 4: Examples of an Adverse Event Involving Public Health Concerns 
+ 
+1. 
+Fatigue testing performed on a commercialised heart valve bio prosthesis demonstrates 
+premature failure, which would indicate that a risk to public health could occur. 
+2. 
+After delivery of an orthopaedic implant, errors were discovered in the heat treatment records 
+raising questions about the effectiveness of the implant’s materials that would create a risk to 
+public health. 
+3. 
+A manufacturer provides insufficient details on cleaning methods for reusable surgical 
+instruments used in brain surgery, despite the obvious risk of transmission of Creuzfeld-Jacob 
+Disease (CJD). 
+4. 
+A manufacturer suspects risk of Bovine Spongiform Encephalopathy (BSE) cross contamination 
+from materials of animal or biological origin that could result in progressively degenerative 
+neurological diseases known as transmissible spongiform encephalopathies (TSEs).  
+

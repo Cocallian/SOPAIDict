@@ -1,0 +1,891 @@
+SAHPGL-RDN-XR-11_v1 
+Page 1 of 15
+ 
+ 
+ 
+26 August 2022 
+GENERAL GUIDELINES WITH REGARD TO THE DESIGN OF X-RAY 
+ROOMS 
+The guideline if intend to educate the license holders about the design requirements and recommendation of 
+X-Ray rooms. 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+October 2009 
+1 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-XR-11 allocated to this 
+Guideline 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-11_v1 
+Page 2 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+DESIGN OF X-RAY ROOMS REQUIREMENTS .............................................................................................. 4 
+3.1 General/ Fluoroscopy Rooms .................................................................................................................... 4 
+4. 
+SPECIAL PROCEDURE ROOMS.................................................................................................................... 7 
+4.1 Computed tomography ............................................................................................................................. 7 
+4.2 Cath Lab ..................................................................................................................................................... 7 
+4.3 PAN/CEPH Dental Unit ............................................................................................................................... 7 
+4.4 Dental X-Ray Unit ...................................................................................................................................... 8 
+4.5 Fixed C-Arm (or mobile used as a fixed unit) ............................................................................................ 8 
+4.6 Mammographic Unit ................................................................................................................................. 8 
+4.7 Mini C-Arm Fluoroscopy Systems .............................................................................................................. 8 
+5. 
+REFERENCES ............................................................................................................................................... 9 
+6. 
+VALIDITY .................................................................................................................................................... 9 
+7. 
+ANNEXURES ............................................................................................................................................. 10 
+7.1 Annexure A - TEST PROCEDURE FOR DIAGNOSTIC X-RAY UNITS – ......................................................... 10 
+7.2 DISPLAY AND FORMAT OF RADIATION WARNING SIGNS AT ENTRANCES TO ROOMS CONTAINING X-RAY 
+UNITS ............................................................................................................................................................... 13 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-11_v1 
+Page 3 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ALARA  
+As low as reasonably achievable 
+CT 
+Computed Tomography 
+CEPH 
+Cephalometric 
+PAN 
+Panoramic  
+ICRP 
+International Commission of Radiation Protection  
+NCRP 
+National Commission of radiation Protection and Measurements 
+C-Arm 
+X-Ray Imaging medical device in C-shaped arm 
+CATH LAB 
+X-Ray diagnostic imaging equipment used in the Catheterization laboratory 
+procedures 
+Fluoroscopy 
+a medical procedure that makes a real-time video of the movements inside a 
+part of the body by passing X-Rays through the body over a period 
+Lead equivalent  
+the thickness of lead affording the same attenuation, under specified 
+conditions, as the material in question. 
+ 
+ 
+ 
+SAHPGL-RDN-XR-11_v1 
+Page 4 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Several factors need to be considered to ensure an effective X-Ray room design. X‐ray rooms should be of a 
+size that allows unhindered access and ease of movement around the equipment, the patient table and the 
+operator’s console. Another consideration regarding the location of the room and the position of the 
+equipment in the room must be planned to limit radiation exposure to patients, workers, and the public. As 
+such dose limits should be kept as low as reasonably achievable (ALARA Principle). 
+1.1 
+Purpose 
+The purpose of this guideline is to set the requirements for the design of general X-Ray rooms and special 
+procedure rooms to ensure safety of the radiation workers and the public in limiting the dose limits.  
+1.2 
+Scope 
+The schematic diagram of the facility/room is required before licensing a radiation emitting devices and 
+must meet the requirements stipulated. 
+2. 
+LEGAL PROVISION 
+The Regulation R1332 of the hazardous substances act 15 of 1973; requires that a joint product and premises 
+licence be obtained for X-Ray equipment before it may be installed and commissioned. 
+a) 
+Licences are not transferable and are issued to a specific person or institution. 
+b) 
+For specific equipment and its application, and 
+c) 
+For specific premises. 
+It is the responsibility of the prospective user of an X-Ray unit to be in possession of a licence from the regulator 
+prior to installation of the unit. Practitioners may be assisted by the supplier of the equipment in this process. 
+3. 
+DESIGN OF X-RAY ROOMS REQUIREMENTS 
+NOTE: Shielding thickness could be decreased by an increase in distance and/or a decrease in workload. 
+3.1 
+General/ Fluoroscopy Rooms  
+3.1.1 
+Room size  
+i. 
+General radiographic rooms should be approximately 16 m2. There should be sufficient 
+space for a permanently built protective cubicle. 
+SAHPGL-RDN-XR-11_v1 
+Page 5 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+ii. 
+Fluoroscopic rooms should be approximately 25 m2. 
+iii. 
+Special procedure rooms should be considered individually.  
+3.1.2 
+Doors and Walls  
+i. 
+Access doors should be of the sliding type giving better radiation protection.  
+ii. 
+A clearing of 1.5 m is recommended. The overlap should be 100 mm each side.  
+iii. 
+The doors should be lined with lead sheet of 2 mm thickness.  
+iv. 
+The walls should be 230 mm kiln baked solid clay brick or 2 mm lead sheet sandwiched 
+between partitioning or 115 mm brick with 6 mm barium plaster.  
+v. 
+Lead equivalence see table 1. 
+vi. 
+Barium Plaster mix: 
+• 
+1-part coarse barium sulphate  
+• 
+1-part fine barium sulphate  
+• 
+1 part cement  
+vii. 
+Walls should be protected up to a height of 2.2 meter. 
+Table 1: Shielding material with the required lead equivalent 
+Material 
+Thickness of 
+material (in mm) 
+Lead equivalence (in mm) at tube voltage  
+ 
+100 kV  
+150 kV  
+brick  
+115  
+1.0  
+0.9  
+brick  
+230  
+2.4  
+2.0  
+barium plaster  
+6  
+1.0  
+0.55  
+barium plaster  
+11 
+ 
+1.0  
+3.1.3 
+Ceiling and floors  
+i. 
+X-Ray rooms should preferably be sited on the ground floor of a building.  
+ii. 
+If the X-Ray room is above ground level the solid concrete slab of density 2.35 g/cm3 must 
+be of 150 mm thickness.  
+SAHPGL-RDN-XR-11_v1 
+Page 6 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+iii. 
+Thickness of ceiling slabs, if space above is occupied, should not be less than 100 mm.  
+iv. 
+Single storey buildings do not require a ceiling slab.  
+3.1.4 
+Windows and air conditioning units  
+i. 
+Windows and air conditioning units should be sited at least 2 m above the floor. 
+Alternatively access near the window must be prevented effectively.  
+ii. 
+Windows of upper floor X-Ray rooms can be of normal height.  
+3.1.5 
+Protective cubicle  
+i. 
+A protective cubicle allowing space for the control as well as the operator should be 
+constructed in the X-Ray room.  
+ii. 
+The cubicle should be located such that unattenuated direct scatter radiation originating on 
+the examination table or the erect bucky do not reach the operator in the cubicle.  
+iii. 
+The X-Ray control for the system should be fixed within the cubicle and should be at least 
+1.02 m from any open edge of the cubicle wall which is nearest to the examination table.  
+iv. 
+The cubicle should have at least one viewing window which will be so placed that the 
+operator can view the patient during any exposure.  
+v. 
+The size of the window should be at least 30 cm x 30 cm.  
+vi. 
+The minimum height of the cubicle is 2.2 meter.  
+vii. 
+The lead equivalence of the wall or panel as well as the protective glass should be at 2 mm, 
+i.e., 230 mm brick or 115 mm brick barium plastered (6 mm) or 2 mm leadsheet. 
+viii. 
+The lead glass and protective material must overlap each other by at least 25 mm. 
+3.1.6 
+Change cubicles 
+i. 
+Should the change cubicles lead into the X-Ray room the doors must be lined with at least 
+1.5 mm leadsheet. 
+ii. 
+Access doors into the X-Ray room must be lockable from the X-Ray room side to prevent 
+entrance during radiation exposures. 
+SAHPGL-RDN-XR-11_v1 
+Page 7 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+3.1.7 
+Radiation warning notices / lights 
+i. 
+Warning lights are required at the entrances to fluoroscopy rooms. The light must be 
+connected to the generator in such a way that it will illuminate only during activation of the 
+tube. 
+ii. 
+A radiation warning notice must be displayed at all entrances to X-Ray rooms. 
+4. 
+SPECIAL PROCEDURE ROOMS 
+General guidelines for special procedure rooms:  
+4.1 
+Computed tomography  
+• 
+Doors - lined with 1.6mm lead sheet  
+• 
+Walls - The walls should be 230 mm kiln baked solid clay brick or 1.6 mm lead sheet sandwiched 
+between partitioning or 115 mm brick with 4 mm barium plaster.  
+• 
+Protective glass –1.5 mm lead glass (90 mm plate glass).  
+• 
+Warning lights are required outside all entrances to CT rooms. The light must be connected to 
+the generator in such a way that it will illuminate only during activation of the tube.  
+4.2 
+Cath Lab  
+• 
+Doors - lined with 2 mm lead sheet  
+• 
+Walls - The walls should be 230 mm kiln baked solid clay brick or 2 mm lead sheet sandwiched 
+between partitioning or 115 mm brick with 6 mm barium plaster.  
+• 
+Protective glass - The lead equivalence of the viewing window must be at least 1 mm of lead.  
+• 
+Warning lights are required outside all direct entrances to Cath Labs. The light must be 
+connected to the generator in such a way that it will illuminate only during activation of the 
+tube.  
+4.3 
+PAN/CEPH Dental Unit  
+• 
+Doors - lined with 1 mm lead sheet  
+• 
+Walls 115 mm brick or 1 mm lead sheet 
+SAHPGL-RDN-XR-11_v1 
+Page 8 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+ 
+4.4 
+Dental X-Ray Unit 
+No special requirements. In case where partition walls are used, lead plate with dimensions 1m x 1m and 
+1mm thick, should be attached to the wall. The height of the plate should be 0.5m above the floor in order 
+to fully intercept radiation from the primary beam. This is required only in cases where for example the 
+waiting room is adjacent to the X-Ray room with patients sitting at distances less than ±3m from the tube 
+head of the X-Ray unit.  
+4.5 
+Fixed C-Arm (or mobile used as a fixed unit) 
+• 
+Doors - lined with 1 mm lead sheet  
+• 
+Walls - 115 mm brick or 1 mm lead sheet  
+4.6 
+Mammographic Unit 
+• 
+No requirements  
+• 
+NOTE: Specific shielding requirements for radiographic installations can be determined as set 
+out in the attached table 5 of NCRP 49.  
+4.7 
+Mini C-Arm Fluoroscopy Systems 
+4.7.1 
+Shielding 
+No additional shielding is required if all non-radiation workers are at a distance of more than 2 m away from 
+the tube-head during operation (provided that the exposure rate due to scattered radiation at a distance 
+of 30 cm at any point from the source is less than 20 mR/h). 
+4.7.2 
+Operator & Application 
+Fluoroscopic X-Ray examinations with mini-C-Arm units may only be carried out by qualified radiographers, 
+radiologists and orthopedic surgeons specifically trained in fluoroscopy procedures with a Mini C-Arm. The 
+C-Arm units may be used only for X-Ray examinations in a theatre. 
+The policy is based on International Guidelines as stated in the following documents: 
+• 
+NCRP Report No. 102 {1989; paragraph 3.3.4 (e) & (o)};  
+• 
+NCRP Report No. 107 {1990; p. 54}; and 
+SAHPGL-RDN-XR-11_v1 
+Page 9 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+• 
+ICRP Publication 57 {1989; paragraph 193}. 
+5. 
+REFERENCES 
+The following related documents are referenced: 
+5.1 
+NCRP 49: Structural Shielding Design and Evaluation for Medical Use of X-Rays and Gamma-Rays up 
+to 10 MeV 
+5.2 
+NCRP Report No. 102, Medical X-Ray, Electron Beam and Gamma-Ray Protection for Energies Up to 
+50 MeV (Equipment Design, Performance and Use 
+5.3 
+NCRP Report No. 107, Implementation of the Principle of As Low As Reasonably Achievable (ALARA) 
+for Medical and Dental Personnel 
+5.4 
+ICRP, 1990. Radiological Protection of the Worker in Medicine and Dentistry. ICRP Publication 57. 
+Ann. ICRP 20 (3). 
+5.5 
+The Design of Diagnostic Medical Facilities where Ionizing Radiation is used; RPII. June 2009 
+5.6 
+South 
+Africa, 
+1973. 
+ 
+Hazardous 
+Substances 
+Act, 
+1973 
+(Act 
+of 
+15 
+of 
+1973). 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/   
+5.7 
+South Africa, 1973.  Regulations Concerning the Control of Electronic Products.  Regulation Gazette 
+No 3991. https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+6. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Design of X-Ray Rooms, revised October 2009. It will be reviewed on this timeframe or as and when 
+required. 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-11_v1 
+Page 10 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+7. 
+ANNEXURES 
+7.1 
+Annexure A - TEST PROCEDURE FOR DIAGNOSTIC X-RAY UNITS –  
+A. SHIELDING EVALUATION 
+ 
+Name of licence Holder (user) 
+ 
+Make 
+ 
+Model 
+ 
+Serial no. 
+ 
+ 
+Inspector no  
+Name of person that perform 
+Test  
+ 
+User License No 
+ 
+ROOM NO1                                                       TYPE OF INSTALLATION2                                               Date 
+ 
+Position 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+RADIATION3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P/T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+W6 
+Patient /week 
+(Wp) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WA7 mA-min/patient (excluding CT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ws7 – slices per patient CT - Axial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ws7– scan length per patient CT - 
+Helical 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SETTINGS 
+kV8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mA-min (MA9) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scl10 
+Scan length CT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WAS for CT = Ws divided by Scl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SHIELDED MEASUREMENT in mSv 
+(Ds11) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CALCULATED VALUE12 mSv/w 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SHIELDING 
+X13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-11_v1 
+Page 11 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+B. SHIELDING WORKLOAD  
+ 
+ 
+ROOM TYPE 
+ 
+WORKLOAD PER 
+PATIENT (mA 
+min/pat) 
+ 
+NUMBER OF 
+PATIENTS 
+PER WEEK 
+ 
+NOTES 
+ 
+ 
+ 
+ 
+Average  Busy 
+ 
+Gen Radiography 
+Chess wall  
+0.6 
+120 
+160 
+ 
+ 
+Table ⇒ floor 
+ 
+1.69 
+120 
+160 
+ 
+ 
+Cross table  
+ 
+0.17 
+120 
+160 
+ 
+ 
+Other wall (2) 
+ 
+0.038 
+120 
+160 
+ 
+ 
+Tot floor and walls 
+(1 + 2)   
+1.9 
+120 
+160 
+Workload for scatter 
+measurements on 
+table 
+ 
+ 
+Rad total 
+ 
+2.5 
+120 
+160 
+ 
+Chest Room  
+ 
+0.22 
+200 
+400 
+ 
+Fluoru Tube (R&F 
+room) 
+ 
+13 
+20 
+30 
+ 
+Rad Tube (R&F 
+room) 
+ 
+1.5 
+25 
+40 
+ 
+Mammo room 
+ 
+6.7 
+80 
+160 
+ 
+Cardiac 
+Angiography 
+ 
+160 
+20 
+30 
+ 
+Peripheral 
+Angiography 
+ 
+64 
+20 
+30 
+ 
+CT - Axial – single 
+slice 
+ 
+40 slices per patient 
+60 
+150 
+Use 10 mm single 
+and one rotation for 
+measurement 
+CT - Helical – Multi-
+slice 
+ 
+400 to 600 mm per 
+patient 
+100 
+200 
+Single rotation and 
+use total width (sum 
+of all slices 
+e.g. 16 slices of 2 
+mm each = 32 mm 
+ 
+ 
+RECOMMENDED OCCUPANCY FACTORS, T, Table 2 
+ 
+Controlled areas  
+Uncontrolled areas 
+Secretarial office, shops, living quarters, kids’ play area, laundry, dark room, attended waiting room  
+Nurses’ station, patient examination & treatment rooms, kitchens, cafeterias  
+Corridors, patient rooms, employee lounge  
+Toilets, vending areas, storage rooms, outdoor area with seating  
+Outdoor areas with only transient pedestrian or vehicular traffic: Minimal occupancy areas; transient traffic, 
+attics, stairways, patient holding areas 
+Unattended: Waiting & dressing rooms, parking lots, elevators, etc 
+ 
+1 
+ 
+1 
+ 
+½ 
+ 
+1/8 
+ 
+1/20 
+ 
+ 
+140 
+ 
+ 
+ 
+SAHPGL-RDN-XR-11_v1 
+Page 12 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+1. Attached a drawing 
+2. Diagnostic room; Dedicated chest unit; CT room; etc. – column 1 of Table 1 
+3. Primary (P) or Secondary (S) 
+4. P = Design dose; Controlled area = 0.1 mSv per week, Uncontrolled area = 0.02 mSv per week, Darkroom = 
+0.025 mSv per week and loaded cassettes must be protected to receive not more than 0.5 μSv (e.g. hatch) – 
+see page 81 - 82 
+5. T = Occupancy - see table 2 (page 31 table 4.1). 
+6. WP = Workload (number of patients per week) – see Table 1. May use higher patient numbers 
+7. For WA and WS see Table 1 (mA min/pat) 
+8. See table 4.2, page 35 – 36 of NCRP 147) 
+For Gen rad and for table work use 90 kV and 120 kV for vertical bucky (chest) and for Chest room use 120 kV. 
+For all Fluoroscopy procedures use 100 kV 
+OR if the highest setting is lower use it. 
+Use 30 kV for Mammo. 
+For CT use average kV (120-140) used 
+9. For MA please remember that mAs/60 = mA-min. 
+10. Scl see Table 1 
+11. Please remember that: 
+a. Primary measurement must be performed without a patient/scatter material in the beam. 
+b. For general radiography, an area that must be protected from primary will also receive secondary 
+(scatter), therefore perform measurement also for secondary. Workload for secondary (WA) = Total 
+workload (2.5 mA min/patient) minus Primary mA min/patient 
+12. Short cut: Ds x Wp x WA / MA = mSv per week and if this is ≤ P/T, acceptable. If 11b is applicable, add 
+secondary to primary first. For CT: Ds x Wp x WAS = mSv per week and if this is ≤ P/T, acceptable. 
+13.  √ = Shielding sufficient or X = Shielding insufficient. 
+If shielding is insufficient (just not enough, be careful) it could be that more sophisticated procedures are 
+required! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-11_v1 
+Page 13 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+ 
+7.2 
+Annexure B - DISPLAY AND FORMAT OF RADIATION WARNING SIGNS AT 
+ENTRANCES TO ROOMS CONTAINING X-RAY UNITS 
+1. DISPLAY OF RADIATION WARNING SIGNS 
+1.1  Radiation warning signs must be displayed at the entrances to all areas where the operator of an X-ray 
+unit in that room or area is subjected to individual monitoring. 
+2. FORMAT OF RADIATION WARNING SIGNS 
+The sign (fig 2) shall be triangular in shape, has a golden yellow background (suitable SABS 1091 colour) and a 
+black border.  
+2.2  
+The minimum length for the legs of the triangle shall be 150mm. 
+2.3  
+The basic symbol shall be black with the design and proportions as in fig 1. 
+2.4  
+At least 50% of the area of the sign shall be yellow; consequently, the relative sizes of the triangle 
+and the symbol have to satisfy the following conditions: 
+ 
+ 
+𝑙𝑙 ≥27𝑅𝑅 
+2.5 
+ The sign must be fixed in a prominent position and easily visible. 
+ 
+Fig 1 Basic symbol  
+ 
+ 
+ 
+ 
+Fig 2 Warning sign 
+ 
+SAHPGL-RDN-XR-11_v1 
+Page 14 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+2.6 
+Explanatory wording, however not compulsory, may be used to give information about access or to 
+identify an area. Wording must be kept to a minimum. The wording must be put on a supplementary 
+sign that shall be oblong or square with the text in black on a background which is white or golden 
+yellow. 
+2.7  
+A warning sign and its supplementary sign may, if desired, be mounted on a common white 
+background. Examples of warning and supplementary signs are given in figures 3, 4 & 5. 
+2.8 
+The material of the warning and supplementary signs must be water and oil resistant. 
+ 
+Fig 3 Entry of controlled area 
+ 
+ 
+ 
+ 
+ 
+Fig 4 Storage cabinet 
+     
+                                                                      
+ 
+ 
+Fig 5 Sign on the door of an x-ray room 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-11_v1 
+Page 15 of 15
+General Guidelines with Regards to The Design of X-Ray Rooms 
+26 August 2022 
+ 
+ 
+Safety Series No 115 of 1996 
+Documents of the NRPB, Occupational, Public and Medical Exposure, vol. 4 no. 2 1993 
+Documents of the NRPB, Occupational, Public and Medical Exposure, vol. 4 no. 2 1993 
+Documents of the NRPB, Occupational, Public and Medical Exposure, vol. 4 no. 2 1993 
+SABS Standard 1186-1 
+Institute of Physics and Engineering in Medicine with support of: NRPB, Health and Safety  
+Executive, Health Departments and Environmental Agencies 
+

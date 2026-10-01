@@ -1,0 +1,238 @@
+SAHPGL-RDN-XR-17_v1 
+Page 1 of 6
+ 
+ 
+ 
+29 August 2022 
+GUIDELINE ON DISPOSAL OF X-RAY UNITS AND TUBES 
+CONTAINING BERYLLIUM 
+The objective of this guideline is to provide X-Ray equipment licence holders on how and where to dispose of 
+electronic equipment that has reached end of life. The unit must be confirmed to be in in a state where it will 
+never be used for production of X-Rays. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+Jan 2013 
+1 
+− 
+Content structured on the new SAHPRA Guideline Template 
+− 
+A unique document number SAHPGL-RDN-XR-17 allocated to this 
+Guideline 
+− 
+Form RC002 changed to GLF-RDN-XR-02A 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-17_v1 
+Page 2 of 6
+Guideline for Disposal of X-Ray Units and Tubes Containing Beryllium 
+29 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+X-RAY UNIT ................................................................................................................................................ 4 
+4. 
+X-RAY TUBE CONTAINING BERYLLIUM ...................................................................................................... 5 
+5. 
+REFERENCES ............................................................................................................................................... 6 
+6. 
+VALIDITY .................................................................................................................................................... 6 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-17_v1 
+Page 3 of 6
+Guideline for Disposal of X-Ray Units and Tubes Containing Beryllium 
+29 August 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ACT 
+Hazardous substances Act 15 of 1973 
+PCB 
+polychlorinated biphenyls oil 
+Beryllium 
+Silvery white metal used in X-Ray tubes to increase electrical and thermal 
+conductivity. It is transparent to X-Rays; X-Rays pass through it without being 
+absorbed. That is why it is sometimes used to make windows for some X-Ray 
+machines 
+H:H 
+Hazard Rating deemed to be ranging from high risk to extreme risk 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SANS 
+South African National Standards 
+ 
+ 
+ 
+SAHPGL-RDN-XR-17_v1 
+Page 4 of 6
+Guideline for Disposal of X-Ray Units and Tubes Containing Beryllium 
+29 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Equipment capable of producing ionising radiation must be rendered inoperable before disposal. The 
+equipment is inoperable when it is not practicable for a person to restore the unit to a condition capable of 
+producing radiation 
+X-Ray tube oil may contain polychlorinated biphenyls (PCBs). A determination regarding the presence of PCB 
+in the X-Ray tube oil must be made prior to disposal. The disposal of oil becomes a regulated activity if the 
+concentration of PCB is above a certain level Some X-Ray tubes made before 1979 contain PCBs in cooling oil. 
+Transformers in some X-Ray equipment manufactured before 1979 may contain PCB dielectric oil. You must 
+determine if the transformer contains PCB prior to disposal. The disposal of PCB dielectric oil is regulated if the 
+concentration of PCB is above a certain level. 
+Housings are generally made of lead or cast steel with a lead lining. A scrap-metal dealer may recycle the 
+housing. A prescribed waste determination of the lead contained in the housing must be performed if disposal 
+of the housing is the preferred option. 
+X-Ray tubes with beryllium windows require a prescribed waste determination before disposal. Removing the 
+head from the unit and cutting the electric cord. 
+1.1 
+Purpose 
+The purpose of this guideline document gives general recommendations and advice to licence holders on 
+how to deal with X-Ray units which have been dismantled and are ready for disposal. 
+1.2 
+Scope 
+The scope of this guideline is to provide a framework with which dismantled X-Ray units can be disposed of 
+in a safe manner.  
+2. 
+LEGAL PROVISION 
+The guideline is implemented in promulgating the Hazardous Substances Act 15, 1973 (Act15 of 1973) the 
+related Regulations R.1332. Condition of the license for X-Ray units in South Africa is to notify SAHPRA 
+Radiation Control of the disposal of an X-Ray unit. 
+3. 
+X-RAY UNIT 
+If an obsolete X-Ray unit cannot be returned to the manufacturer or supplier, the unit may be disposed of at 
+any waste landfill site provided that: 
+3.1 
+The X-Ray tube DOES NOT contain beryllium. Should any doubt exist, treat the unit as if it does 
+contain beryllium (see paragraph 2 below).  
+3.2 
+The unit is regarded inoperable only if it is not possible for anyone to restore it to a point where it 
+SAHPGL-RDN-XR-17_v1 
+Page 5 of 6
+Guideline for Disposal of X-Ray Units and Tubes Containing Beryllium 
+29 August 2022 
+ 
+ 
+could again produce radiation. The X-Ray unit must be rendered inoperable as follows:  
+• 
+Remove the tube from the unit. 
+• 
+cut the electric cord  
+• 
+Destroy vital components of the X-Ray generator.  
+3.3 
+Approval has been obtained from the SAHPRA: Radiation Control using the application form GLF-
+RDN-XR-02A (old Form RC002). 
+4. 
+X-RAY TUBE CONTAINING BERYLLIUM 
+4.1 
+According to the Hazardous Substances Act, Act 15 of 1973, Beryllium is classified as a Group 1 
+category B substance. As such any waste containing beryllium should be considered hazardous and 
+be managed accordingly.  
+4.2 
+The management of this waste is explained in the document "Minimum Requirements for the 
+handling, classification and disposal of hazardous waste" that was published by the Department of 
+Water Affairs and Forestry in 2005. 
+According to SANS (South African National Standards) 10228 document, waste containing beryllium 
+is classified as Class 6.1 hazardous waste and as such, be managed as follows: 
+• 
+All containers containing such waste should be securely closed.  
+• 
+All containers containing such waste should be clearly labelled.  
+• 
+All such waste should be disposed of at an (H:H) Hazardous Waste Landfill Site.  
+4.3 
+Any of the approved H:H Hazardous Waste Landfill Sites in the RSA can be contacted regarding 
+specific requirements for the disposal of X-Ray tubes containing beryllium. 
+List of approved H:H Hazardous Waste can be found from http://sawic.environment.gov.za/?menu=75 » List of 
+licensed Waste Management Activities. 
+ 
+ 
+SAHPGL-RDN-XR-17_v1 
+Page 6 of 6
+Guideline for Disposal of X-Ray Units and Tubes Containing Beryllium 
+29 August 2022 
+ 
+ 
+5. 
+REFERENCES 
+The following related documents are referenced: 
+5.1 
+Department of Water Affairs and Forestry, 2005. Waste Management Series. Minimum 
+Requirements for the Handling, Classification and Disposal Hazardous Waste. 
+5.2 
+SANS 10228: 2012 Edition 6. Published by SABS Standards Division. 
+5.3 
+National Environmental Management: Waste Act, 2008 
+5.4 
+National Norms and Standards for Disposal of Waste to Landfill, 2013 
+5.5 
+Government Notice R636 of 2013 
+5.6 
+Published in Government Gazette no. 36784 on 23 August 2013 
+5.7 
+Waste in South Africa is currently governed by means of several pieces of legislation, including: 
+ 
+• 
+The South African Constitution (Act 108 of 1996) 
+• 
+Hazardous Substances Act (Act 5 of 1973) 
+• 
+Health Act (Act 63 of 1977) 
+• 
+Environment Conservation Act (Act 73 of 1989) 
+• 
+Occupational Health and Safety Act (Act 85 of 1993) 
+• 
+National Water Act (Act 36 of 1998) 
+• 
+The National Environmental Management Act (Act 107 of 1998) 
+• 
+Municipal Structures Act (Act 117 of 1998) 
+• 
+Municipal Systems Act (Act 32 of 2000) 
+• 
+Mineral and Petroleum Resources Development Act (Act 28 of 2002) 
+• 
+Air Quality Act (Act 39 of 2004) 
+• 
+National Environmental Management: Waste Act, 2008 (Act 59 of 2008) 
+• 
+National Environmental Management: Waste Amendment Act, 2014 (Act 26 of 201 
+6. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guidelines 
+for Disposal of X-Ray Units and Tubes Containing Beryllium, revised January 2013. It will be reviewed on this 
+timeframe or as and when required. 
+

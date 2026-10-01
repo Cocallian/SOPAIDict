@@ -1,0 +1,1505 @@
+SAHPGL-CEM-PV-06_v2 
+Page 1 of 30
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 2025 
+GUIDELINE FOR ADVERSE DRUG REACTIONS (ADRs) REPORTING FOR 
+HEALTHCARE PROFESSIONALS 
+This document has been prepared to serve as a guideline for healthcare professionals reporting adverse drug reactions 
+and product quality problems. It represents the South African Health Products Regulatory Authority’s (SAHPRA)’s current 
+thinking on the safety, quality and efficacy of medicines. It is not intended as an exclusive approach. SAHPRA reserves 
+the right to request any additional information to establish the safety, quality, and efficacy of medicines and may make 
+amendments in keeping with the current knowledge at the time of consideration of safety data. 
+ 
+Guidelines and ADR Reporting & Quality Problem Forms are available from the SAHPRA website. The ADR Reporting 
+Form is also available as Appendix A of this document. 
+ 
+Document History 
+Version
+Reason for Amendment
+Effective Date
+ 
+0 
+First publication released for comments 
+April – August 2020 
+0 
+Change in Table below the title, Table of contents, Abbreviations and 
+Acronyms, 1, 1.1, 1.2, 2, 2.1, 2.3, 2.5, 2.6,   2.9, 
+2.10, 2.11, 2.12, 2.13, 2.17, 2.18, 2.19, 2.20, 2.21, 2.22, 2.23, 2.25, 
+2.26, 2.28, 2.30, 2.33, 2.34, 2.35, 2.36, 2.37, 2.39, 3.1, 3.2,   Table 
+1, Diagrams 1 and 2, 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 6, 7 Diagram 3 
+and the addition of the AEFI definition. 
+December 2020 
+1 
+Date for implementation 
+May 2021 
+2 
+Template review 
+Addition of ‘Validity’ of the guideline 
+August 2022 
+3 
+Deletion of reference to adverse events following immunisation (AEFI) 
+and inclusion of reporting timelines for serious and non-serious adverse 
+drug reactions 
+September 2022 
+4 
+ 
+Addition under Abbreviations, addition of 4.3.1; 4.3.2 
+ 
+Updated ADR reporting form, sections 3.2 and 4.7, Table 1 
+ 
+Replaced 4.6.4 with 4.6.4, removed 4.6.4 
+30 June 2025 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-PV-06_v4 
+Page 2 of 30 
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+Contents 
+Document History ........................................................................................................................ 1 
+Glossary....................................................................................................................................... 4 
+Abbreviations and Acronyms ...................................................................................................... 11 
+1. 
+INTRODUCTION .................................................................................................................. 12 
+1.1 
+The South African Health Products Regulatory Authority (SAHPRA) ............................ 12 
+2. 
+The Pharmacovigilance obligation of the healthcare professional ........................................ 12 
+3. 
+PHARMACOVIGILANCE ....................................................................................................... 13 
+3.1 
+Why is pharmacovigilance and reporting of ADRs important? .................................... 13 
+3.2 
+Pharmacovigilance System in South Africa ................................................................. 13 
+4. 
+PROCEDURES FOR REPORTING ............................................................................................ 16 
+4.1 
+How do healthcare professionals/providers identify ADRs? ........................................ 16 
+4.1.1 
+Obtain patient history and perform an appropriate examination ................................ 16 
+4.1.2 
+Effect of dechallenge and rechallenge should be determined (when necessary) .......... 16 
+4.1.3 
+Where possible, check the known pharmacology of the medicine .............................. 16 
+4.2 
+What to report? ....................................................................................................... 17 
+4.3 
+When to report an ADR? ........................................................................................... 19 
+4.3.1 Minimum information required .................................................................................... 19 
+4.3.2 Reporting timelines ...................................................................................................... 19 
+4.4 
+Information to consider when reporting? .................................................................. 19 
+4.4.1 
+What to consider? .................................................................................................... 19 
+4.4.2 
+Follow-up reports ..................................................................................................... 21 
+4.5 
+Who should report ADRs? ......................................................................................... 21 
+4.6 
+How to report? ......................................................................................................... 21 
+4.6.1 
+Med Safety App ........................................................................................................ 21 
+4.6.2 
+Using eReporting link to VigiFlow® ............................................................................ 23 
+4.6.3 
+Adverse Drug Reactions & Quality Problem Reporting Form ....................................... 23 
+4.7 
+What happens after reporting? ................................................................................. 23 
+5. 
+WHAT HAPPENS TO THE REPORTER? ................................................................................... 25 
+5.1 
+Will reporting have any negative consequences on the healthcare professional or the 
+SAHPGL-CEM-PV-06_v4 
+Page 3 of 30 
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+patient? ................................................................................................................... 25 
+5.2 
+Confidentiality ......................................................................................................... 25 
+6. 
+VALIDITY ............................................................................................................................ 25 
+7. 
+REFERENCES ....................................................................................................................... 26 
+8. 
+ APPENDICES ...................................................................................................................... 28 
+APPENDIX A: ADR REPORTING FORM..................................................................................... 28 
+APPENDIX B: MED SAFETY APPLICATION ................................................................................ 30 
+ 
+ 
+ 
+SAHPGL-CEM-PV-06_v4 
+Page 4 of 30 
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+Term
+Meaning
+Adverse 
+Drug 
+Reaction 
+(ADR) or Adverse Reaction 
+An adverse drug reaction (ADR) means a noxious and unintended response to a 
+medicine, including lack of efficacy, and which occurs at doses commonly used in 
+man and which can also result from overdose, misuse or abuse of a medicine. 
+The reaction may be a known side effect of the medicine, or it may be new and 
+previously unrecognised. An ADR can be caused by any therapeutic agent, 
+including prescribed and over-the-counter (OTC) medicines. All such adverse 
+effects should be reported. 
+ 
+A reaction, contrary to an event, is characterised by the occurrence of a 
+suspected causal relationship between the medicine and the reaction, as 
+determined by the reporter or a reviewing healthcare professional/provider. The 
+fact that the healthcare professional/provider is making a report serves as an 
+indication that the observed event may be caused by the medicine. 
+Adverse Event 
+An adverse event is any untoward medical occurrence that may present during 
+treatment with a medicine, but which does not necessarily have a causal 
+relationship with this treatment. An adverse event can be any unfavourable and 
+unintended sign, symptom or disease temporarily associated with the use of a 
+medicine, whether considered related to the medicine or not. 
+Adverse Effect 
+An adverse effect is a harmful patient outcome that seems to be associated with 
+treatment, including the absence of any effect. 
+Causality assessment
+Causality assessment is defined as the evaluation of the likelihood that a 
+medicine was the causative agent of an observed adverse drug reaction. 
+Congenital Anomalies
+Congenital anomalies are defined as structural and/or functional abnormalities, 
+usually irreversible, that develop/occur during the period of conception and/or 
+embryo-foetal development during one or more trimesters of pregnancy, 
+affecting one or more of the following domains: genetic material, histology, 
+anatomy, organ system, development, growth, differentiation, physiological 
+function and/or metabolic function and/or homeostatic mechanisms which may 
+be identifiable either prenatally and/or at birth or later in life. Congenital 
+anomalies are also known as birth defects, congenital disorders, congenital 
+defects or congenital malformations. 
+Consumer 
+A consumer in relation to healthcare means a person who uses or is a potential 
+user of health services, as well as their family and caregivers. 
+Counterfeit or falsified 
+medicines 
+Counterfeit or falsified medicine means a medicine in respect of which deliberate 
+false representation has been made about its contents, identity or source by any 
+means, including its labelling and packaging. 
+Substandard medicines 
+Substandard medical products are those that fail to meet quality standards and 
+specifications, typically due to poor manufacturing practices or inadequate 
+Glossary 
+SAHPGL-CEM-PV-06_v4 
+Page 5 of 30 
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+quality control.  
+Clinical Trial
+A study is performed to investigate the safety or efficacy of a medicine. For 
+human medicines, these studies are conducted with human participants. 
+Drug overdose
+A drug overdose is the accidental or intentional use of a drug or medicine in an 
+amount that is higher than is usually used. 
+Dechallenge 
+Dechallenge means a withdrawal /reduction in the dose of a medicine from the 
+patient's therapeutic regimen. 
+Negative dechallenge means the continued presence of an adverse experience 
+after withdrawal of the medicine. 
+Positive dechallenge refers to the partial or complete disappearance of an 
+adverse event after the withdrawal of the medicine. 
+eReporting 
+eReporting is a module of the VigiFlow® system that allows for seamless 
+electronic reporting of an individual case safety report (ICSR) directly from the 
+source into the VigiFlow® system. It reduces the workload of manual data entry 
+from ADR paper forms into VigiFlow® system. 
+Essential Medicines List 
+(EML) Clinical Guide 
+The EML Clinical Guide is a National Department of Health Mobile Application 
+(App) that contains the Primary Healthcare Standard Treatment Guidelines, 
+Hospital Level Adult Guidelines, Tertiary and Quaternary Level EML 
+Recommendations, and the Essential Medicines List for 2015. It includes an ADR 
+reporting module which is used to report ADRs. 
+Healthcare 
+Professional/Provider 
+Healthcare professional or healthcare provider means a person providing health 
+services in terms of any law, including in terms of the: 
+ 
+Allied Health Professions Act, 1982 (Act No. 63 of 1982) 
+ 
+Health Professions Act, 1982 (Act No. 56 of 1982) 
+ 
+Nursing Act, 1978 (Act No. 50 of 1978); 
+ 
+Pharmacy Act, 1974 (Act No. 53 of 1974) 
+ 
+Dental Technicians Act, 1979 (Act No. 19 of 1979) 
+Hypothesis 
+A hypothesis is an idea which is suggested as a possible explanation for a 
+particular situation or condition, but which has not yet been proved to be correct.
+Holder of a certificate of 
+registration/applicant 
+A holder of a certificate of registration is a person/company in whose name a 
+registration certificate has been granted, and who is responsible for all aspects 
+of the medicine, including quality, safety, effectiveness, and compliance with the 
+conditions of registration. 
+Individual 
+Case 
+Safety 
+Report (ICSR) 
+ICSR is a detailed record of all relevant data associated with the use of a medicine 
+in a subject or patient. 
+An individual case safety report is the information provided by a primary source 
+to describe suspected adverse reactions or adverse events following 
+immunisations related to the administration of one or more medicines to an 
+individual patient at a particular point in time. 
+In vitro diagnostic (IVD)
+IVD means a medical device, whether used alone or in combination, intended by 
+the manufacturer for the in vitro examination of specimens derived from the 
+SAHPGL-CEM-PV-06_v4 
+Page 6 of 30 
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+human body solely or principally to provide information for diagnostic, 
+monitoring or compatibility purposes. 
+Lack of efficacy 
+Lack of efficacy is defined as failure to produce the expected outcome for which 
+the medicine was indicated. Lack of efficacy applies to registered medicines, 
+including when used for an unapproved indication. 
+Medical device 
+Medical device means any instrument, apparatus, implement, machine, 
+appliance, implant, reagent for in vitro use, software, material or other similar or 
+related article, including Group III and IV Hazardous Substances contemplated in 
+the Hazardous Substances Act, 1973 (Act 15 of 1973) - intended by the 
+manufacturer to be used, alone or in combination, for humans or animals, for 
+one or more of the following: 
+ 
+diagnosis, prevention, monitoring, treatment or alleviation of disease; 
+ 
+diagnosis, monitoring, treatment, alleviation of or compensation for an 
+injury; 
+ 
+investigation, replacement, modification or support of the anatomy or of 
+a physiological process; 
+ 
+supporting or sustaining life; 
+ 
+control of conception; 
+ 
+disinfection of medical devices; or 
+ 
+providing information for medical or diagnostic purposes by means of in 
+vitro examination of specimens derived from the human body; and 
+ 
+which does not achieve its primary intended action by pharmacological, 
+immunological or metabolic means, in or on human or animal body, but 
+which may be assisted in its intended function by such means. 
+Medication error
+Medication error is any preventable event that may cause or lead to 
+inappropriate medication use or patient harm while the medication is under the 
+control of the healthcare professional, patient, or consumer. Such events may be 
+related to professional practice, healthcare products, procedures, and systems, 
+including: 
+ 
+prescribing errors; 
+ 
+dispensing errors; 
+ 
+medicine preparation errors; 
+ 
+administration errors and 
+ 
+monitoring errors. 
+Medication errors and medicine-related adverse events have important 
+implications – from increased length of hospitalisation and costs to undue 
+discomfort and disability or increased mortality. Thus, minimising of medication 
+errors, through early detection and clinical audit, is of paramount importance in 
+healthcare by promoting compliance, adherence, recovery and the general well-
+being of patients. 
+Medicine 
+Means any substance or mixture of substances used or purporting to be suitable 
+for use or manufactured or sold for use in - 
+ 
+the diagnosis, treatment, mitigation, modification or prevention of 
+SAHPGL-CEM-PV-06_v4 
+Page 7 of 30 
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+disease, abnormal physical or mental state or the symptoms thereof in 
+humans; or 
+ 
+restoring, correcting or modifying any somatic, psychic or organic 
+function in humans; and 
+ 
+includes any veterinary medicine. 
+Med Safety App 
+The Med Safety App is a smartphone app for reporting of suspected ADRs to 
+Regulatory Authorities, and it is developed by the United Kingdom Medicines and 
+Healthcare Products Regulatory Agency (UK MHRA) as part of the Innovative 
+Medicines Initiative WEB-Recognising Adverse Drug Reactions (WEB-RADR) 
+project. 
+Misuse of medicine 
+Misuse of medicine is defined as the use of a medicine outside label directions 
+or in a way other than prescribed or directed by a healthcare practitioner. This 
+includes patients using a medicine for a different condition than that for which 
+the medicine is prescribed, patients taking more medicines than prescribed or at 
+different dosing intervals, and individuals using a drug not prescribed for them, 
+although for therapeutic purposes. 
+Minimum 
+information 
+required for a report 
+It is information required for a case to be deemed meaningful for data capturing 
+and it includes the following: 
+ 
+information about the patient, 
+ 
+which medicine is suspected to have caused the reaction, 
+ 
+the reaction that has occurred, and 
+ 
+information about the reporter. A report may be nullified if it lacks the 
+minimum information. 
+ 
+For further information required to ensure the report is clinical meaningful, see 
+point 4.4.1. 
+Pharmacovigilance 
+Pharmacovigilance is defined as the science and activities concerned with the 
+detection, assessment, understanding and prevention of adverse reactions (and 
+adverse events following immunisation) to medicines/vaccines. The ultimate 
+goal of this activity is to improve the safe and rational use of medicines, thereby 
+improving patient care and public health. 
+Post-marketing 
+surveillance 
+Post-marketing surveillance is the practice of monitoring the safety of a 
+medicine, medical device or IVD after it has been released on the market. It is a 
+crucial aspect of the science of pharmacovigilance. Medicines are 
+approved/authorised to be used by the public on the basis of clinical trials, which 
+involve relatively small numbers of participants who have been selected for such 
+purposes.  
+Post-marketing surveillance is used to confirm or disprove the safety of a 
+medicine after it is used in the general population by large numbers of people 
+who have a wide variety of medical conditions, by using approaches such as 
+spontaneous ADR reporting procedures, pregnancy registries, etc. 
+Product Quality Problem 
+Product quality problems include concerns about the quality, authenticity, 
+performance, or safety of any medical device or IVD. Problems with product 
+SAHPGL-CEM-PV-06_v4 
+Page 8 of 30 
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+quality may occur during manufacturing, distribution, or storage and include a 
+suspect counterfeit product; product contamination; defective components; 
+poor packaging or product mix-up; questionable stability; medical device 
+malfunctions and labelling concerns. 
+Rechallenge 
+Rechallenge refers to the reintroduction of a product suspected of causing an 
+adverse event after a successful dechallenge. 
+Negative rechallenge means that, when reintroduced, the medicine fails to 
+produce signs or symptoms similar to those observed when it was initially 
+introduced. 
+Positive rechallenge means reoccurrence of similar signs and symptoms upon 
+reintroduction of a medicine. 
+Serious 
+Adverse 
+Drug 
+Event or Adverse Drug 
+Reaction 
+A serious adverse event or reaction is any untoward medical occurrence that at 
+any dose: 
+ 
+results in death; 
+ 
+is life-threatening; 
+ 
+requires 
+patient 
+hospitalisation 
+or 
+prolongation 
+of 
+existing 
+hospitalisation; 
+ 
+results in an abortion, premature delivery, congenital anomaly/birth 
+defects; 
+ 
+results in persistent or significant disability/incapability; or 
+ 
+is a medically significant/ important event or reaction. 
+ 
+The term “life-threatening” in the definition of “serious” refers to a 
+reaction/event in which the patient was at risk of death at the time of the 
+reaction/event; it does not refer to an event that, hypothetically, might have 
+caused death if it were more severe. Medical and scientific judgement should be 
+exercised when deciding whether other situations are serious or not. Such 
+instances could include medical events that may not be immediately life-
+threatening or result in death or hospitalisation, but which may jeopardise the 
+patient or may require intervention to prevent one of the outcomes listed in the 
+definition above. Examples include blood dyscrasias or convulsions not resulting 
+in hospitalisation, or development of drug dependency or drug abuse.  
+ 
+The term “severe” is often used to describe the intensity (severity) of a specific 
+event. This is not the same as “serious, which is based on patient/event outcome 
+or action criteria. 
+Signal
+A signal refers to ‘reported information on a possible causal relationship between 
+an adverse event and a medicine, the relationship being unknown or 
+incompletely documented previously. Usually, more than a single report is 
+required to generate a signal, depending upon the seriousness of the event and 
+the quality of the information. 
+Spontaneous ADR report 
+A spontaneous report is a communication to a pharmaceutical company, 
+regulatory authority or other organisation that describes a suspected ADR in a 
+SAHPGL-CEM-PV-06_v4 
+Page 9 of 30 
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+patient given one or more medicines, and which does not derive from a study. 
+Teratogen
+A teratogen is any substance/agent (e.g. medicine) that can harm/damage the 
+sperm, ovum, the conceptus, developing embryo and/or foetus during one or 
+more trimesters of pregnancy, affecting structure and/or function across one or 
+more of the following domains: genetic material, histology, anatomy, organ 
+system development, growth and differentiation, physiological function and/or 
+metabolic function and/or homeostatic mechanisms which may be detectable 
+prenatally, at birth or later in life. 
+Unlisted adverse reaction 
+An adverse reaction that is not included explicitly as a suspected adverse effect 
+in the professional information (previously known as package insert) or other 
+scientific reference. This includes an adverse reaction whose nature, severity, 
+specificity or outcome is not consistent with the information in the professional 
+information or other scientific reference. 
+Uppsala Monitoring Centre 
+(UMC) 
+UMC is the WHO Collaborating Centre for International Drug Monitoring. UMC 
+works by collecting, assessing, and communicating information from member 
+countries' national pharmacovigilance centres concerning the benefits, harm, 
+effectiveness, and risks of medicines. UMC is responsible for: 
+ 
+co-ordination of WHO Programme for International Drug Monitoring and 
+its member countries; 
+ 
+collection, assessment and communication of information from member 
+countries about the benefits, harms and risks of medicines and other 
+substances used in medicines to improve patient therapy and public 
+health worldwide; 
+ 
+collaborating with member countries in the development and practice of 
+the science of pharmacovigilance. 
+VigiAccess® 
+VigiAccess® is a web application that allows the public to access VigiBase® 
+database and retrieve statistical data on the suspected ADRs to medicines 
+reported to the World Health Organization (WHO) Programme for International 
+Drug Monitoring (PIDM). 
+VigiBase® 
+VigiBase® is the WHO global database of individual case safety reports (ICSRs). It 
+is developed and maintained by the Uppsala Monitoring Centre (UMC) on behalf 
+of WHO and its member countries. It consists of reports of ADRs to medicines 
+received from member countries since 1968. It is updated with incoming case 
+reports continuously. The purpose is to ensure that early signs of previously 
+unknown medicine-related safety problems are identified as rapidly as possible. 
+Contrary to VigiAccess®, consumers and healthcare professionals/providers do 
+not have access to VigiBase® database. 
+VigiFlow® 
+VigiFlow® is a web-based ICSR management system that is available for use by 
+national pharmacovigilance centres, e.g. SAHPRA, used by the WHO Programme 
+for International Drug Monitoring. VigiFlow® supports the collection, processing 
+and sharing of data of ICSRs to facilitate effective data analysis. 
+SAHPGL-CEM-PV-06_v4 
+Page 10 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+ 
+Vigilance 
+Vigilance in relation to a medicine, medical device, or IVD means the continuous 
+monitoring and evaluation of its safety, efficacy, and performance profile, as well 
+as the management of any risks throughout its life cycle. 
+VigiLyze
+VigiLyze® is the search and analysis tool used to retrieve global ICSR data from 
+VigiBase® database. Consumers and healthcare professionals/providers do not 
+have access to this tool. 
+Web-Recognising Adverse 
+Drug 
+Reactions 
+(WEB-
+RADR) project 
+Web-RADR project, launched in September 2014, sought to utilise the powers of 
+social media and new technologies for pharmacovigilance purposes. The project 
+developed mobile applications (apps) enabling patients, caregivers, and 
+healthcare professionals/providers to report ADRs and receive up-to-date 
+information and news alerts. 
+World Health Organisation 
+(WHO) 
+Programme 
+for 
+International 
+Drug 
+Monitoring (PIDM) 
+The PIDM was established in 1968, to ensure that evidence about harm to 
+patients was collected from as many sources as possible. This would enable 
+individual countries to be alerted to patterns of harm that were emerging across 
+the world, and which might not be evident from their local data alone. The PIDM 
+consists of a group of more than 150 member countries (South Africa became a 
+member in 1992) that share the vision of safer and more effective use of 
+medicines. They work nationally and collaborate internationally to monitor and 
+identify the harm caused by medicines, to reduce the risks to patients and to 
+establish worldwide pharmacovigilance standards and systems. UMC has been 
+responsible for the technical and operational aspects of the programme since 
+1978. 
+SAHPGL-CEM-PV-06_v4 
+Page 11 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+Abbreviations and Acronyms 
+ 
+ADRs 
+Adverse Drug Reactions 
+AIDS 
+Acquired Immune Deficiency Syndrome 
+DHCPLs 
+Dear Healthcare Professional Letters 
+DoH-PvPHP 
+Department of Health Pharmacovigilance Centre for Public Health Programmes  
+DRC 
+Directorate of Radiation Control 
+DTC 
+Drug and Therapeutic Committee 
+EML 
+Essential Medicines List 
+EPI 
+Extended Programme for Immunisation 
+HCR 
+Holder of Certificate of Registration 
+HCP 
+HealthCare Professional 
+HIV 
+Human Immunodeficiency virus 
+ICSR 
+Individual Case Safety Report 
+IVD 
+In vitro diagnostics 
+NADEMC 
+National Adverse Drug Event Monitoring Centre 
+MCC 
+Medicines Control Council 
+NSAIDs 
+Non-Steroidal Anti-inflammatory Drugs 
+OTC 
+Over the counter 
+PHP 
+Public Health Programmes 
+PI
+Professional Information
+PIDM
+Programme for International Drug Monitoring
+SAHPRA
+South African Health Products Regulatory Authority 
+SOP
+Standard Operating Procedure
+TB
+Tuberculosis
+UMC
+Uppsala Monitoring Centre
+WEB-RADR
+WEB-Recognising Adverse Drug Reactions 
+WHO
+World Health Organisation
+ 
+For the purpose of this guideline: 
+1 
+the terms “holder of certificate of registration” and “applicant” are used interchangeably. 
+2 
+the terms “medicine”, “drug”, “therapeutic agent” and “causative agent” are also used 
+interchangeably. 
+3 
+the terms “pharmaceutical product”, “health product” and “product” are also used 
+interchangeably. 
+4 
+the terms “adverse drug reaction”, “reaction” and “adverse event” are used interchangeably. 
+5 
+the terms “Authority” and “South African Health Products Regulatory Authority” are used 
+interchangeably. 
+ 
+SAHPGL-CEM-PV-06_v4 
+Page 12 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+1. INTRODUCTION 
+This guideline is intended to assist healthcare professionals/providers in the participation in the very 
+important process of continuous surveillance of safety and efficacy of the medicines, which are used 
+in their clinical practice. Continuous evaluation of a medicine’s benefit and harm helps achieve the 
+ultimate goal of providing safe and effective treatments to patients. 
+The guideline is intended to assist healthcare professionals/providers in the reporting of suspected 
+adverse drug reactions (ADRs) and product quality issues associated with the use of medicines. 
+ 
+1.1 
+The South African Health Products Regulatory Authority (SAHPRA) 
+This SAHPRA is a Section 3A public entity formed by the South African government to oversee the 
+regulation of all health products, including medicines, medical devices, in vitro diagnostics (IVDs), and 
+radiation-emitting products used in healthcare and industry. SAHPRA replaced the Medicines Control 
+Council (MCC) and the Directorate of Radiation Control (DRC). 
+The Medicines and Related Substances Act mandate SAHPRA, 1965 (Act No. 101 of 1965) as 
+amended, to regulate (i.e., monitor, evaluate, investigate, inspect, register and review) all health 
+products and their use in South Africa. 
+SAHPRA has also been delegated the task of overseeing radiation control in South Africa. This 
+function is governed by the Hazardous Substances Act (Act 15 of 1973) which aims to protect the 
+public (workers, patients, etc.) against radiation used in both health settings and industry. 
+SAHPRA’s function is therefore to promote public health and safety by ensuring that all medicines, 
+medical devices, and IVDs available and used in South Africa are safe, effective, of good quality, and 
+of acceptable performance. 
+ 
+2. The Pharmacovigilance obligation of the healthcare professional 
+According to Regulation 40 of the Medicines and Related Substances Act, 1965 (Act 101 of 1965) as 
+amended: A healthcare professional /provider, veterinarian or any other person should inform the 
+Authority, in the manner as determined by the Authority, of any: 
+ 
+suspected ADRs; or 
+ 
+new or existing safety, quality or effectiveness concerns, occurring as a result of the use of 
+any medicine or scheduled substance. 
+SAHPGL-CEM-PV-06_v4 
+Page 13 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+ 
+3. PHARMACOVIGILANCE 
+3.1 
+Why is pharmacovigilance and reporting of ADRs important? 
+When a health product is first registered and made available in South Africa, information about its 
+safety and effectiveness is usually only available from clinical trials. Clinical trials, through different 
+test phases, provide information about many of the possible adverse events associated with a health 
+product, but do not detect all possible adverse events because they: 
+• 
+usually do not continue for long enough to detect adverse events that take a long time 
+to develop, 
+• 
+do not include enough patients to detect adverse events that occur rarely and 
+• 
+do not include all of the different types of people who might eventually use the product 
+and who might be more vulnerable to some adverse events, such as older people, 
+children, pregnant women or people with other medical conditions. 
+Rare ADRs, occurring in only a small percentage of cases, after a long period of use or when a 
+medicine interacts with a particular combination of other medicines or conditions, may not be 
+detected during clinical trials. For ADRs that were not discovered during clinical trials to be detected, 
+investigated, and communicated, and for the appropriate action to be taken, it is therefore vital that 
+post-marketing pharmacovigilance of all medicines is comprehensive. Effective pharmacovigilance 
+should take into account trends in use, as well as the occurrence of ADRs, enabling more effective 
+advice to be given to those prescribing and using medicines and should ensure better standards of 
+safety and efﬁcacy. 
+SAHPRA, like other Regulatory Authorities around the world, monitors the safety of health products 
+to contribute to a better understanding of their potential adverse events when used outside the 
+controlled conditions of clinical trials. Continuous reporting by health professionals/providers and 
+consumers provides important information for the pharmacovigilance system in South Africa. 
+ 
+3.2 
+Pharmacovigilance System in South Africa 
+To prevent undesirable effects in patients resulting from substandard health products and the 
+inappropriate or unsafe use of health products, an ADR monitoring system was established in South 
+Africa in 1987. The regulatory pharmacovigilance unit of SAHPRA coordinates this system. The 
+regulatory pharmacovigilance unit works in collaboration with programmatic units based at the 
+SAHPGL-CEM-PV-06_v4 
+Page 14 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+National Department of Health (NDoH) head office in Pretoria. The programmatic units are: 
+• 
+the Extended Programme on Immunisation (EPI) unit 
+• 
+the Department of Health Pharmacovigilance Centre for Public Health Programmes (DoH-
+PvPHP). 
+Table 1: Overarching Pharmacovigilance Bodies 
+ 
+Characteristic
+Regulatory
+Public Health 
+Manufacturer/HCR
+Focal Point
+SAHPRA 
+DoH-PvPHP
+EPI
+Company Pharmacovigilance 
+Programme 
+Medicines under 
+focus 
+All medicines available in 
+the country 
+HIV/AIDS and 
+TB medicines 
+Vaccin
+es 
+All medicines registered or 
+authorised for marketing by 
+the particular company. 
+Objectives
+Ensure marketed 
+medicines are safe, 
+effective and of good 
+quality in the interest of 
+the public. 
+Minimise preventable harm 
+and maintain public trust in 
+the programmes and the 
+medicines it employs 
+Ensure that marketed 
+medicines are safe, effective, 
+and of good quality, as per the 
+product conditions of 
+registration. Minimise 
+preventable harm and maintain 
+public safety with the 
+medicines marketed. 
+Communication of
+ results and 
+corrective actions 
+Through regulatory 
+decision-making, market 
+withdrawal, labelling 
+changes, Public Health 
+Advisories, Dear 
+Healthcare Professional 
+Letters (DHCPLs) Press 
+Statements and 
+medicines safety alerts 
+Epidemiological 
+newsletters, press 
+statements, guidelines, 
+training and educational 
+materials, local or 
+international publications, 
+infrastructural changes 
+and changes in conditions 
+of drug use 
+Through reporting to the 
+Authority, 
+decision-
+making, labelling and 
+professional information 
+changes, market 
+withdrawal, dear healthcare 
+professional letters (DHCPLs), 
+guidelines, training and 
+educational materials, local or 
+international publications. 
+Developed by Dr Ushma Mehta 
+The regulatory pharmacovigilance unit’s key role is safety monitoring of all 
+medicines available in the South African market. Its core activity is the 
+collection and evaluation of ADR reports submitted by healthcare 
+professionals/providers, consumers, and HCRs in the country. The ultimate 
+goal of this activity is to contribute to the rational and safe use of medicines 
+and to continuously monitor the risks and benefits of all medicines available 
+at every level of healthcare. Ensuring safety of medicines is the responsibility 
+of all stakeholders involved in the medicines chain. 
+The diagram below illustrates the various stakeholders involved in 
+pharmacovigilance and their respective key responsibilities. 
+ 
+ 
+SAHPGL-CEM-PV-06_v4 
+Page 15 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+PEOPLE 
+FUNCTIONS 
+ 
+Diagram 1: Professional groups/associations and their functions 
+ 
+STRUCTURES
+ Reporters 
+
+Doctors  
+
+Pharmacists  
+
+Nurses 
+
+Consumers/ Patients 
+
+Other healthcare 
+workers 
+Manufacturers
+Licence
+holdersDistributors & 
+ 
+Data Collation and Evaluation
+
+Collate data, conduct initial analysis 
+Causality Analysis and Risk Determination
+
+Assess causal association between product and 
+event and determine whether and what type of 
+additional information is required to improve 
+certainty of causal association. 
+
+Assess risk through epidemiological studies. 
+
+Pharmacovigilance
+Center 
+
+Drug & Therapeutics 
+Committee (DTC) 
+
+Pharmacy 
+
+Therapeutics 
+Committee (PTC) 
+ 
+Decision Making and Appropriate Action
+Professional 
+information 
+amendments, 
+warnings, 
+scheduling 
+changes, 
+risk 
+management, 
+market 
+withdrawal, and product recall, etc. 
+Reporting (Detection and Generation) 
+
+Report side effects and suspected adverse events
+Evaluators
+
+Regulatory 
+Authorities  
+& 
+
+Pharmaceutical 
+Industries - i.e., HCRs
+
+Regulatory Authority  
+
+Industry 
+
+Health Services  
+
+Professional Groups  
+
+Advisory 
+Committees 
+
+Media 
+SAHPGL-CEM-PV-06_v4 
+Page 16 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+ 
+4. PROCEDURES FOR REPORTING 
+4.1 How do healthcare professionals/providers identify ADRs? 
+4.1.1 
+Obtain patient history and perform an appropriate examination 
+i) 
+Take a proper history 
+• 
+A full medical history should be appropriately performed. 
+• 
+Can this ADR be explained by other causes, e.g., the patient’s underlying disease, other 
+prescription medicine/s or OTC medicines, toxins or foods? 
+• 
+It is essential that the patient is thoroughly investigated to establish the actual cause of any new 
+medical problem. A medicine-related cause should be considered, especially when other causes 
+do not explain the patient’s condition. 
+ii) 
+Where necessary, perform a thorough physical examination with appropriate laboratory, imaging and 
+other relevant investigations, 
+• 
+Few medicines produce distinctive physical signs (exceptions include fixed drug eruptions, 
+steroid-induced dermal atrophy, and acute extrapyramidal reactions). 
+• 
+Laboratory tests are critical if the medicine is considered essential in improving patient care or if 
+the laboratory test results will improve management of the patient. 
+• 
+Describe the reaction as clearly as possible. Where possible, provide an accurate diagnosis and/or 
+supply pictures. 
+In summary, some reactions occur immediately after a medicine is administered, while other responses take 
+time to develop. Thus, the time from the start of therapy to the time of onset of the suspected reaction must 
+be logical. 
+4.1.2 
+Effect of dechallenge and rechallenge should be determined (when necessary) 
+• 
+Positive dechallenge (partial or complete disappearance of a reaction when dechallenge is 
+instituted) is a strong, although not conclusive, indication of a medicine-induced reaction. 
+• 
+Rechallenge (reintroducing the medicine after a dechallenge) is justifiable when the benefit of 
+reintroducing the medicine to the patient outweighs the risk of recurrence of the reaction. This is 
+rare. In some cases, the reaction may be more severe on repeat exposure. 
+4.1.3 
+Where possible, check the known pharmacology of the medicine 
+• 
+Is the reaction known to occur with the particular medicine as stated in the Professional 
+Information (PI)/ medicine labelling or other scientific reference? 
+• 
+If the reaction is not documented in the PI, it does not mean that the reaction cannot occur with 
+SAHPGL-CEM-PV-06_v4 
+Page 17 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+that particular medicine. 
+4.2 What to report? 
+ADRs resulting from prescription medicines or OTC medicines should be reported. All ADRs should be reported. 
+Most importantly, serious, undocumented and unexpected ADRs are to be reported. If there is any doubt 
+about whether the ADR should be reported, it is always best practice to submit a report, as causality does not 
+need to have been established. 
+i) 
+ADRs in children 
+All suspected ADRs occurring in children under the age of 18 should be reported regardless of whether the 
+medicine is registered for use in children. 
+ii) 
+ADRs in the elderly 
+Healthcare professionals/providers should be particularly aware that the elderly may be more susceptible to 
+ADRs. It is therefore important to monitor drug safety in this age group. Elderly patients are more likely to be 
+taking multiple medicines and may also metabolise them less effectively or be more sensitive to their effects. 
+iii) 
+ADR reports on lack of efficacy 
+Lack of efficacy for medicines used in the treatment of life-threatening diseases (e.g., antimicrobial agents), 
+vaccines, contraceptives or other classes of medicines where lack of efficacy could result in serious 
+consequences, requires reporting. The normal progression of disease does not imply a lack of efficacy. The 
+batch/lot number of the suspected medicine for a report of lack of efficacy must be included in the report. 
+iv) 
+Delayed drug effects 
+Some reactions may become manifest months or years after exposure. Any suspicion of such an association 
+should always be reported. Examples of delayed reactions that might need to be reported include: 
+• 
+kidney disease from long-term usage of analgesics or non-steroidal anti-inflammatory drugs (NSAIDs); 
+• 
+disabling and potentially permanent side effects which involve tendons, muscles, joints, nerves and 
+the central nervous system (i.e., tendonitis, tendon rupture, arthralgia, pain in extremities, gait 
+disturbance, neuropathies associated with paraesthesia, depression, fatigue, memory impairment, 
+sleep disorders, and impaired hearing, vision, taste and smell) following the use of fluoroquinolone 
+antibiotics. 
+v) 
+Interactions 
+If an adverse effect is suspected to be related to an interaction between two or more medicines, it should be 
+reported as an ADR. 
+SAHPGL-CEM-PV-06_v4 
+Page 18 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+vi) 
+Medication errors 
+Medication errors, whether resulting in an adverse drug reaction or not, should be reported. 
+vii) 
+Overdose 
+Suspected ADRs associated with an overdose should be reported, as well as other reactions that may have 
+occurred due to the overdose. 
+viii) 
+Reports relating to pregnancy and breastfeeding 
+The healthcare professional/provider should report suspected ADRs related to pregnancy or breastfeeding 
+regardless of whether the medicine is contraindicated in pregnancy and/or lactation. 
+ix) 
+Serious adverse drug reactions 
+All serious suspected reactions should be reported within seven calendar days of identification, while non-
+serious ADRs should be reported within 15 calendar days. The side effects of an established medicine may be 
+well known but if a severe reaction occurs it should always be reported regardless of whether it is expected 
+or not. 
+x) 
+Product quality problem 
+Healthcare professionals/providers are encouraged to report product quality problems, whether or not they 
+result in an adverse drug reaction. The batch/lot number of the suspected medicines must be included in the 
+report. 
+xi) 
+Teratogenicity and congenital anomalies 
+The following information should be provided for reports on congenital anomalies or teratogenicity: 
+• 
+age and sex of the infant, 
+• 
+the birth date or the date on which the pregnancy was ended; (duration of pregnancy/gestational age 
+of foetus/baby), 
+• 
+date and/or duration of exposure to teratogen/substance/medicine in the preconception period, 
+and/or any or all trimesters of pregnancy, 
+• 
+the teratogen/substance(s) or medicine(s) exposed to and the dose in case of a medicine and reason(s) 
+for exposure or treatment with the medicine(s), 
+• 
+the type of congenital anomaly/malformation/adverse event/ reaction noticed at or after birth, and 
+the seriousness thereof, 
+• 
+whether the congenital anomaly/malformation/adverse event/reaction resulted in death, was life-
+threatening, required hospitalisation or prolongation of existing hospitalisation, was a medically 
+significant/important 
+reaction/event 
+or 
+would 
+have 
+persistent 
+and/or 
+significant 
+disability/incapability consequences, and 
+SAHPGL-CEM-PV-06_v4 
+Page 19 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+• 
+any adverse reactions experienced by the mother must be considered a new initial case report and 
+should be reported separately. 
+Suspected ADRs should also be reported in cases where a baby is born with a congenital abnormality or where 
+a pregnancy results in a malformed or aborted foetus. The report should include details of all medicines taken 
+during pregnancy. 
+ 
+4.3 When to report an ADR? 
+A healthcare professional/provider should report when they have identified an ADR suspected to have been 
+caused by a medicine. Healthcare professionals/providers are encouraged to report suspected ADRs even 
+when they do not have all the facts or are uncertain that the medicine is definitely responsible for causing the 
+reaction.  
+4.3.1 Minimum information required  
+Healthcare professionals should note that even if all the facts are not available at the time of reporting, the 
+minimum information required for a meaningful case (i.e., information about the patient, suspected medicine, 
+the reaction and information about the reporter) should always be included in the report. However, it is 
+important that healthcare professionals/providers make every effort to ensure that all facts are included in 
+the report to provide a meaningful assessment. 
+4.3.2 Reporting timelines 
+Serious adverse drug reactions should be reported within 24 hours of identification, while non-serious adverse 
+drug reactions should be reported within 15 calendar days of identification. 
+ 
+4.4 Information to consider when reporting? 
+4.4.1 
+What to consider? 
+When completing the form, the healthcare professional/provider should include the minimum information 
+required for a case to be deemed meaningful, which is as follows: 
+• 
+information about the patient: 
+o patient’s initials, 
+o local identiﬁcation/ reference number [any number or code that identiﬁes the patient to the 
+reporter, but not to SAHPRA (e.g., hospital number; file number)], 
+o gender, 
+o age at the time of the ADR or date of birth and 
+SAHPGL-CEM-PV-06_v4 
+Page 20 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+o weight (if known), 
+• 
+which medicine is suspected to have caused the reaction, 
+o 
+name (preferably proprietary name), 
+o dose, frequency and route used, 
+o therapy date, 
+o indication for use, 
+o batch/lot number, 
+o 
+expiration date, 
+• 
+the reaction that has occurred, 
+o description of the reaction, 
+o onset date of the reaction, 
+o outcome of the reaction after use of the medicine was stopped or reduced, 
+o information about the reaction, in instances where there is repeat exposure of the medicine, 
+• 
+information about the reporter, 
+o name or initials, email address and telephone number, 
+o occupation, 
+o health institution/facility. 
+Further information that is required to ensure that the report is clinically meaningful is as follows, but is not 
+limited to: 
+• 
+concomitant medicines, therapy dates, 
+• 
+other relevant patient information/ history, 
+• 
+date of the report and 
+• 
+relevant tests/laboratory data (if available). 
+These are important points to note when reporting an ADR: 
+• 
+It should be noted that by supplying these anonymised details, a healthcare professional/provider will 
+not breach the confidentiality agreement they have with the patient. Although explicit consent from 
+the patient is not required, it is best practice to inform the patient if a report will be submitted. 
+• 
+Healthcare professionals/providers should submit ALL the relevant information available at the time 
+of initial identification of an ADR, not only the minimum information required for a report. The 
+attachment of discharge summaries, post-mortem reports, relevant laboratory data and other 
+additional clinical data is encouraged. 
+• 
+Additional information, not available at the time of the initial report, should be provided when 
+available, as a follow-up report (using the same reference number as the initial report). 
+• 
+The healthcare professional/provider who initially reported the suspected ADR is required to submit 
+SAHPGL-CEM-PV-06_v4 
+Page 21 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+their names or initials, institution, email address, telephone number and qualifications. 
+ 
+4.4.2 
+Follow-up reports 
+Any follow-up information from the healthcare professional/provider relating to an initial ADR report 
+submitted to SAHPRA, should be cross-referenced to the reference number (if applicable) on the initial report. 
+The follow-up report, which follows a previous (first) communication to SAHPRA, should be clearly marked as 
+a follow-up. This is the only reliable way to minimise duplication of reports submitted by reporters in the 
+VigiFlow® system. 
+4.5 Who should report ADRs? 
+All healthcare professionals/providers, including doctors, dentists, pharmacists, nurses and other healthcare 
+professionals/providers are requested to report all suspected adverse reactions severe ADRs and those related 
+to new medicines. Consumers should be encouraged to report all suspected ADRs, preferably via their 
+healthcare professionals/providers. 
+ 
+4.6 How to report? 
+All ADRs should be reported to SAHPRA’s Pharmacovigilance Unit through one of the channels stipulated 
+below: 
+ 
+4.6.1 
+Med Safety App 
+Med Safety App is a mobile application developed to engage both patients and healthcare providers on 
+medicines safety issues. It was developed by the United Kingdom Medicines and Healthcare Products 
+Regulatory Agency (UK MHRA) as part of the Innovative Medicines Initiative WEB-Recognising Adverse Drug 
+Reactions (WEB-RADR) project. The app is designed to simplify and promote the reporting of suspected 
+adverse drug reactions (ADRs), including adverse events following immunisation (AEFIs), by both the public 
+and healthcare providers. The App also allows the public and healthcare providers to learn about medicine 
+safety news from SAHPRA, thereby creating an awareness of medicines, their potential adverse effects and 
+pharmacovigilance. The Medsafety app is currently the most preferred tool for reporting suspected AEFIs and 
+ADRs. 
+ 
+Where to find Med Safety app? 
+The Med Safety App is available for download from: 
+ 
+App store (For iOS devices) 
+ 
+Google Play (For Android devices) 
+ 
+SAHPGL-CEM-PV-06_v4 
+Page 22 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+How to download the Med Safety app: 
+ 
+Open the Play Store (Android) or the App Store (IOS) 
+ 
+Search for Med Safety icon 
+ 
+Tap the Med Safety icon 
+ 
+Tap to install to download the App 
+ 
+Tap Open 
+ 
+Select a region, in this case South Africa. Sometimes it selects automatically depending on the 
+settings you already have on your phone 
+ 
+Click continue as guest or create an account 
+ 
+Report ADRs and/or product quality problems 
+Upon successful submission of the report, a message is displayed on the app to confirm submission, and an 
+email acknowledgement is sent to the reporter. For more information about the Med Safety App, please visit 
+the SAHPRA website, under the E-Services tab, there is more information, including the videos of how to use 
+the app and recorded related trainings.  
+ 
+Why use Med Safety app? 
+ 
+The Medsafety app provides several benefits: 
+ 
+The App facilitates reporting of ADRs by the public and healthcare practitioners. 
+ 
+The app provides feedback to reporters on a platform that is readily available to reporters. 
+ 
+Users can create a watch list which enables users to view information that is relevant to them by 
+following products of interest. 
+ 
+The user can change the language within the app, and the language is automatically adapted to 
+the language to which the device is configured. 
+ 
+Reports can be created and saved without an internet connection and submitted later when a 
+connection becomes available.  
+ 
+View and submit updates to previously submitted reports. 
+ 
+See immediate acceptance of your reports. 
+ 
+ 
+SAHPGL-CEM-PV-06_v2 
+Page 23 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+ 
+ 
+  
+4.6.2 
+Using eReporting link to VigiFlow® 
+ 
+Healthcare professionals (and consumers) can report ADR through the eReporting module (accessible 
+from the SAHPRA website) directly into VigiFlow®. 
+ 
+eReporting allows for seamless electronic reporting of ADR reports, thus reducing the workload of 
+manual data entry from ADR paper forms into VigiFlow®. 
+ 
+Pharmacovigilance unit personnel need only to enter a small amount of data, which allows more time 
+for the pharmacovigilance team to verify the coding and to conduct causality assessment of cases of 
+interest. 
+4.6.3 Adverse Drug Reactions & Quality Problem Reporting Form 
+ADR reports should be sent via email at adr@sahpra.org.za or to the relevant pharmaceutical company 
+(contact details can be found on the outer packaging of the health product). 
+4.7 What happens after reporting? 
+Once an ADR report has been received: 
+ 
+SAHPRA (Pharmacovigilance Unit) staff capture the information onto the VigiFlow® system in a 
+structured format. 
+ 
+In turn, the VigiFlow® system assigns a unique identification number. 
+ 
+The captured information for each report is checked for quality and completeness before being sent 
+to the global database known as VigiBase®, where it is confidentially stored. 
+ 
+An acknowledgement letter (which quotes the unique identiﬁcation number assigned to the report 
+and the local/reference number) is then sent to the reporter. Acknowledgement letters for reports 
+that have been assessed to determine the causal link are prioritised. 
+ 
+At any point during this process, the reporter may be asked by the SAHPRA Pharmacovigilance Unit to 
+provide clariﬁcation or further information about the ADR report. SAHPRA’s Pharmacovigilance Unit 
+personnel, using referenced data from other sources (e.g. case reports in the literature; pre- and post-
+marketing clinical trials; epidemiological studies; record-linkage databases; data from other drug 
+regulatory authorities), conduct preliminary causality assessments and prepare reports on ADR cases 
+with emerging drug safety problems. The report reviews are then presented to the Pharmacovigilance 
+Advisory Committee (PVC) and its sub-committee for expert advice in identifying the possible risk 
+factors contributing to the reaction and causal association. 
+When safety concerns are identiﬁed, the overall ADR proﬁle for the medicine is compared with the relevant 
+therapeutic alternatives, and its beneﬁts in terms of efﬁcacy, the therapeutic indication, and target patient 
+population(s). Again, the PVC advises the Authority on drug safety, enabling regulatory decisions to be made 
+SAHPGL-CEM-PV-06_v2 
+Page 24 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+on whether changes in the use of a medicine are necessary. The possible regulatory changes may include: 
+ 
+product label change 
+ 
+product withdrawal/suspension 
+ 
+“Dear healthcare professional” letters (DHCPLs) 
+ 
+press statements 
+ 
+medicines safety alerts 
+ 
+product restrictions (up-scheduling, limited packaging, limited prescribers) 
+ 
+an educational programme 
+Following consideration of the advice provided by the PVC, the Authority engages with industry to alert the 
+HCRs about safety concerns related to their products and communicate regulatory decisions related to 
+products implicated as suspect medicines to ADRs. 
+ 
+ 
+SAHPGL-CEM-PV-06_v2 
+Page 25 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+Diagram 1: Flow diagram: ADR Form Life cycle 
+ 
+ 
+5. WHAT HAPPENS TO THE REPORTER? 
+5.1 Will reporting have any negative consequences on the healthcare professional or the patient? 
+The ADR report does not constitute an admission that the reporter or any other healthcare professional 
+contributed to the ADR in any way. The details of the report will be stored confidentially in VigiBase® database. 
+The names of the reporter or any other health professionals named on a report and the patient will be 
+removed before any details about a specific ADR are used or communicated to others. The information 
+obtained from the report will not be used for commercial purposes. The information is intended to enhance 
+our understanding of safety in relation to the use of medicines in South Africa. 
+5.2 Confidentiality 
+SAHPRA will maintain strict confidentiality regarding the identities of the patient and the reporter. 
+6.  VALIDITY 
+This guideline is valid for a period of five (5) years from the effective date of revision. It will be reviewed as and when 
+required. 
+ 
+ 
+ADR is suspected
+ADR is reported
+ADR is recorded
+Information sharing
+Acknowledgement letter
+Regulatory decision
+communicated 
+Decision making
+Data analysis
+SAHPGL-CEM-PV-06_v2 
+Page 26 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+7. REFERENCES 
+1. 
+Board of Science of the British Medical Association. 2006. Reporting Adverse Drug Reactions. A Guide for 
+Healthcare Professionals. BMA Report. 
+2. 
+C3i Solutions. An HCL Technologies Company. Challenges, Prechallenges, Dechallenges and Rechallenges.
+https://www.c3isolutions.com/blog/challenges-prechallenges-dechallenges-and- rechallenges/ (Accessed on 
+20 January 2020). 
+3. 
+"Front Pharmacol. 2018; 9: 1407. https://www.frontiersin.org/articles/10.3389/fphar.2018.00315/full 
+(Accessed on 18 September 2020). 
+4. 
+Guidance for Industry: Guideline for Post marketing Reporting of Adverse Drug Experiences. 
+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guideline-postmarketing- 
+reporting-adverse-drug-experiences (Accessed on 28 January 2020). 
+5. 
+Guidelines to detect and report ADRs in Burundi Health System. 
+6. 
+Guidelines 
+for 
+the 
+National 
+PV 
+System 
+in. 
+Kenya 
+developed- 
+ver 
+2.0 
+(2009). 
+https://www.who.int/hiv/topics/pharmacovigilance/kenya.pdf?ua=1 (Accessed 06 January 2021). 
+7. 
+Management Sciences for Health. 2012. MDS-3: Managing Access to Medicines and Health Technologies. 
+Arlington, VA: Management Sciences for Health. 
+8. 
+Medicines Related Substances Act, 1965 (Act 101 of 1965) as amended. 
+9. 
+National Health Act 61 of 2003. 
+10. NSW Health Consumers. 2019. Consumers Toolkit. NSW. http://hcnsw.org.au/consumers-toolkit/who-is- 
+health-consumer-and-other-definitions (Accessed on 20 January 2020). 
+11. Post-Marketing Reporting of Adverse Drug Reactions to Human Medicines in South Africa. Version 6. 
+https://www.sahpra.org.za/wp- 
+content/uploads/2020/03/2.33_ADR_reporting_postmarketing_v6_Jan2020.pdf (Accessed on 20 January 
+2020). 
+12. Smith, Shannon M et al. “Classification and definition of misuse, abuse, and related events in clinical trials: 
+ACTTION systematic review and recommendations.” Pain 
+vol. 154, 
+11 
+(2013): 2287-96. 
+doi:10.1016/j.pain.2013.05.053. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5460151 (Accessed on 
+11 December 2020). 
+13. The 
+Theory 
+and 
+Definitions 
+of 
+Drug 
+Safety 
+— 
+Pharmacovigilance. 
+https://www.worldscientific.com/doi/pdf/10.1142/9789813278851_0001 (Accessed on 20 January 2020). 
+14. The Rules Governing Medicinal Products in the European Union. (EMEA) 2008. Volume 9A. Guidelines on 
+Pharmacovigilance for Medicinal Products for Human Use.  
+15. Uppsala Monitoring Centre. 2019. Global Pharmacovigilance. Glossary of Pharmacovigilance Terms. 
+https://www.who-umc.org/global-pharmacovigilance/publications/glossary/. (Accessed on 28 January 
+2020). 
+16. UMC 
+– 
+Med 
+Safety 
+App: 
+An 
+International 
+Mobile 
+Tool 
+for 
+Drug 
+Safety. 
+SAHPGL-CEM-PV-06_v2 
+Page 27 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+https://allaboutpharmacovigilance.org/umc-med-safety-app-an-international-mobile-tool-for-drug-
+safety/ (Accessed 05 February 2021, Updated 06 July 2020). 
+17. Uppsala Reports – Covering The World of Pharmacovigilance. Med Safety App: An International Mobile Tool 
+for Drug Safety https://www.uppsalareports.org/articles/med-safety-app-an-international-mobile-tool-
+for- drug-safety/ (Accessed on 05 February 2021). 
+18. WEB-RADR: Recognising Adverse Drug Reactions. Working together to improve pharmacovigilance through 
+new technology. https://web-radr.eu/(Accessed on 05 February 2021). 
+SAHPGL-CEM-PV-06_v2 
+Page 28 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+8.  APPENDICES 
+APPENDIX A: ADR REPORTING FORM 
+ 
+SAHPGL-CEM-PV-06_v2 
+Page 29 of 30
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+ 
+ 
+ 
+Page 30 of 30
+SAHPGL-CEM-PV-06_v2 
+ADRs REPORTING BY HCPs 
+June 2025 
+ 
+                                                                                                                       
+ 
+ 
+ 
+ 
+APPENDIX B: MED SAFETY APPLICATION 
+ 
+Other reporting tools available at SAHPRA include:  
+Med Safety Application 
+The Med Safety Application is a mobile application designed for the public and healthcare professionals to report 
+suspected ADRs. It is the preferred reporting tool by SAHPRA and allows for a seamless electronic submission of ADR 
+reports directly from the source into SAHPRA’s reporting systems. The app can be downloaded onto a smart mobile phone 
+directly from the SAHPRA website, https://medsafety.sahpra.org.za. 
+ 
+Figure 1: Benefits of the Med Safety App 
+ 
+ 
+Confidentiality: Identities of the reporter and patient will remain strictly confidential.  
+ 
+Your support of the South African Health Products Regulatory Authority’s adverse drug reaction monitoring 
+programme is much appreciated. Information supplied by you will contribute to the improvement of medicine 
+safety and therapy in South Africa.  
+ 
+ 
+ 
+

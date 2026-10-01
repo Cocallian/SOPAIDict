@@ -1,0 +1,885 @@
+SAHPGL-PEM-VET-02_v2 
+Page 1 of 21
+ 
+ 
+ 
+20 September 2022 
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+This guideline is intended to provide recommendations to applicants wishing to submit clinical applications 
+for the registration of veterinary medicines containing specified substances.  In addition to this guideline, 
+SAHPRA reserves the right to request any additional information to establish the quality, safety, and efficacy 
+of a medicine in keeping with the knowledge current at the time of evaluation.  SAHPRA is committed to 
+ensure that all registered medicines will be of the required quality, safety, and efficacy. Guidelines and 
+application forms are available from the office of the Chief Executive Officer and the website. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+Implementation date V_1 
+[20 February 2020] 
+2 
+Administrative changes V_2 
+[01 September 2022] 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-PEM-VET-02_v2 
+Page 2 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+CTD MODULES 2.4, 2.6 & 4: NON-CLINICAL PHARMACO-TOXICOLOGICAL DATA .................................... 5 
+4. 
+TOXICOLOGICAL STUDIES .......................................................................................................................... 7 
+5. 
+SAFETY TO USERS....................................................................................................................................... 9 
+6. 
+RISK ASSESSMENT OF VETERINARY MEDICINES ........................................................................................ 9 
+7. 
+RESIDUES IN FOOD F ANIMAL ORIGIN: RESIDUE STUDIES ...................................................................... 10 
+8.      CTD MODULES 2.5, 2.7 & 5: EFFICACY DATA ……………………………………………………………………………………..15 
+9.      REFERENCES ………………………………………………………………………………………………………………………………………18 
+10.    VALIDITY ……………………………………………………………………………………………………………………………………………18 
+11. ADDENDUM …………………………………………………………………………………………………………………………………………19 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-VET-02_v2 
+Page 3 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+APVMA 
+Australian Pesticide and Veterinary Medicinal Products 
+CTD 
+Common Technical Document 
+CVMP 
+Committee for Veterinary Medicinal Products of EMA 
+EMA 
+European Medicines Agency 
+HC 
+Health Canada 
+JMAFF 
+Japan Ministry of Agriculture Forestry and Fisheries 
+ROS 
+Residue Overall Summary 
+RRA 
+Recognised Regulatory Authority 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SmPC 
+Summary of Medicinal Product Characteristics 
+Bioequivalence 
+the absence of a difference (within predefined acceptance criteria) in the 
+bioavailability of the API or its metabolites at the site of action when 
+administered at the same molar dose under similar conditions in an 
+appropriately designed study. 
+Maximum Residue Limits 
+The maximum residue limit of a chemical allowed in food destined for human 
+consumption.  This value can be defined from the ADI or extrapolated 
+according to current scientific knowledge, subject to approval by the 
+Directorate: Food Control. 
+Residue depletion studies 
+Studies to demonstrate the depletion of a marker residue in a particular 
+target species using a specific route of administration upon cessation of drug 
+treatment to a regulatory safe level. 
+Withdrawal period 
+The interval between the time of last administration of the veterinary 
+medicine and the time when the animal can safely be slaughtered for food 
+purposes. 
+ 
+ 
+SAHPGL-PEM-VET-02_v2 
+Page 4 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+The diversity across animal species' physiology and the numerous dosage forms used in veterinary practice 
+result in unique formulations and dosage routes to be addressed during drug development for food 
+producing and companion animals, and wildlife. Veterinary medicine is a medical specialty concerned with 
+the prevention, control, diagnosis, and treatment of diseases affecting the health of domestic and wild 
+animals and with the prevention of transmission of animal diseases to people. Veterinarians ensure a safe 
+food supply for people by monitoring and maintaining the health of food-producing animals. As such, 
+technical requirements for registration of veterinary medicines are constantly evolving because of 
+scientific developments and harmonisation of requirements with the more mature regulatory authorities 
+such as the members of the VICH. SAHPRA endeavours to keep abreast of such developments and keep its 
+application requirements and evaluation policies in line with best international practice.   
+1.1 
+Purpose 
+This guideline is intended to provide recommendations to applicants wishing to submit clinical applications 
+for the registration of veterinary medicines.  In addition to this guideline, SAHPRA reserves the right to 
+request any additional information to establish the quality, safety, and efficacy of a medicine in keeping 
+with the knowledge current at the time of evaluation. 
+1.2 
+Scope 
+This guideline outlines SAHPRA’s evaluation pathways for veterinary clinical applications and the 
+associated data requirements to satisfy: 
+• 
+Safety and toxicology 
+• 
+User safety 
+• 
+Environmental risk assessment 
+• 
+Food residues and withdrawal periods 
+• 
+Establishment of maximum residue limits 
+• 
+Efficacy 
+• 
+The different review pathways and documents to be submitted. 
+2. 
+LEGAL PROVISION 
+Legislation requires that SAHPRA shall register every medicine before it may be sold / marketed. The 
+registration of veterinary medicines in South Africa is governed by the provisions and requirements of 
+the Medicines and Related Substances Act, 1965 (Act No. 101 of 1965) as amended and the regulations 
+and guidelines published in terms thereof.  
+ 
+SAHPGL-PEM-VET-02_v2 
+Page 5 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+3. 
+CTD MODULES 2.4; 2.6 & 4 (Non-Clinical Pharmaco-Toxicological Data) 
+3.1 
+General information 
+The information in this part is required for new pharmaceutical active ingredients. A new species 
+indication, or an increased daily dose or different inactive pharmaceutical ingredients may result in the 
+need for additional pharmaco-toxicological data. The objective of toxicological/safety studies is to define 
+the pharmacological actions (pharmacodynamics and pharmacokinetics) and toxicological effects of the 
+active ingredient in test animals and target species, users, consumers, and the environment. This normally 
+involves initial studies in laboratory animals and later pre-clinical studies in the target species, which 
+should take into consideration the following: 
+a. Selection of the relevant animal species 
+b. Age of the animals 
+c. Physiological state of the animals  
+d. The manner of drug delivery, including dose, route of administration and treatment regimen and the 
+effect on the animals 
+e. Stability of the test medicine under the condition of use 
+f. Safety of personnel. 
+3.2 Data presentation 
+The pre-clinical documentation should be presented in the following sequence: 
+a. Pharmacology 
+b. Toxicology 
+c. Discussion and conclusion 
+d. Expert report 
+3.3 
+Toxicology of the medicine to be addressed 
+a. A summary, or Expert Report, should be submitted for each animal species studied, with information on the 
+sex of the animals, number of animals, dosage, route of administration, duration of study and toxic 
+manifestations. 
+b. Important points to consider that pertain to pre-clinical toxicity, are: 
+• 
+Dose-response relationship 
+• 
+Time-response relationship 
+• 
+Species specificity 
+• 
+Consistency of findings across studies with different species 
+• 
+Target organ specificity 
+• 
+Reversibility/irreversibility of toxic effects 
+3.4  Pharmacodynamics 
+Provide a full description of tests performed to establish the pharmacological actions that are relevant to 
+SAHPGL-PEM-VET-02_v2 
+Page 6 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+the proposed indication(s) and mechanism of action. Where possible it will be helpful to relate the 
+pharmacodynamics of the medicine to available data (in terms of selectivity, safety, potency etc.) on other 
+medicines in the same class. 
+3.5 
+Other Actions (Desired/Undesired) 
+Give an evaluation summary of action(s) other than those of therapeutic use. The results of two or three 
+dosage levels studied should be submitted, with the lowest level representing the ED50 for the API's 
+primary action on the animal species being investigated. For effects, which may be expected to have 
+significant adverse reactions, attempts should be made to estimate the threshold levels. Due to the local 
+climatic conditions, the phototoxic potential of a medicine should be considered. 
+3.6 
+Pharmacodynamic interactions 
+The applicant must submit data either to establish that such interactions do not occur or that they are 
+clearly recognised and defined. Discuss the pharmacodynamic interactions and mechanisms of interaction 
+of the API with other compounds/ other substances, which are relevant to the proposed therapeutic use. 
+Where there is evidence of antagonism or additive/synergistic effects, these should be well explained. In 
+cases of fixed dose combination or combination packs, appropriate data to justify the benefit of 
+combination compared to a single API should be given. Special consideration must be given to antibiotic 
+combinations considering antibiotic resistance. 
+3.7 
+Pharmacokinetics 
+Pharmacokinetics studies should be made with single dose by various routes. Repeated dose studies 
+should also be performed when relevant, to establish the pharmacokinetics of chronic medicine 
+administration. Metabolic studies should be conducted in the species used in toxicological and 
+reproduction studies using the proposed clinical routes of administration. Where radioactive labelled 
+materials are used in studies, the position of label stability and specificity of material should be stated. 
+Where the product contains a combination of medicines, the effect of use of two or more medicines on 
+the pharmacokinetics of one or the other medicines should be established. Provide studies done to 
+establish the pattern and time course of absorption, distribution, biotransformation, pharmacokinetic 
+interactions, and excretion of the API and/or its metabolites as described below. 
+3.8 
+Absorption 
+Provide a summary of mechanism of absorption, factors affecting absorption, rate and extent of 
+absorption, plasma levels of the API and metabolites (peak levels, half-life, etc.). This information should 
+SAHPGL-PEM-VET-02_v2 
+Page 7 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+be discussed for different routes. Correlation between plasma levels and pharmacological effects should 
+be discussed. 
+3.9 
+Distribution of the API and Metabolites 
+Provide a summary and time course of distribution of the API and its metabolites in body fluids, tissues, 
+and organs. Accumulation, retention of the medicine/metabolites in tissues, organs, penetration of blood-
+brain and placental barriers, plasma binding of all these parameters should be reported in quantitative 
+form. 
+3.10 Pharmacokinetic Interactions 
+Discuss the pharmacokinetic interactions and mechanisms of interactions of the API with other compounds 
+(medicine or other substances), which are relevant to the proposed therapeutic use. Where there is 
+evidence of antagonism or additive/synergistic effects, these should be well explained. 
+3.11 Excretion 
+Summarise the routes and extent of excretion of the medicine and its metabolites. State also its excretion 
+in milk in case of lactating animals. Discuss the rate of elimination and factors influencing elimination. 
+4. Toxicological Studies 
+The scope of toxicological evaluation should be described in relation to the proposed clinical use. 
+Information obtained from experimental and biological studies of all aspects of toxicology (general toxicity, 
+acute toxicity studies, sub-acute toxicity and long term toxicity studies including teratology, reproduction 
+effects, carcinogenicity, genotoxicity, immunogenicity, Microbial affects (e.g. development of resistance), 
+local tolerance (potential for adverse effects at site of administration, etc) is required to establish the safe 
+use of the medicine and must be submitted for all new medicine applications. 
+The investigation should, if possible, include experiments conducted with the medicine in the vehicle 
+intended for therapeutic application or its final pharmaceutical formulation (product). 
+4.1 General Toxicity Studies 
+In general toxicity studies, at least three or more routes of administration should be used including one for 
+therapeutic use and at least one other which ensures systemic absorption, i.e., intravenous, intramuscular, 
+or subcutaneous. 
+Different dose levels spaced logarithmically should be used. The maximum tolerated dose should be 
+SAHPGL-PEM-VET-02_v2 
+Page 8 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+indicated. All animals dying during the experiment should be autopsied and cause of death determined 
+where possible. Full post-mortem should be carried out on all animals and histopathological studies 
+undertaken on control and dosed groups. Results should be tabulated. Full data for all parameters 
+measured, with mean, range for groups, should be included. If it is expected that the product will be used 
+in young animals, studies should be conducted on both adult and young (weaning) animals. Due to the 
+local climatic conditions, the phototoxic potential of certain medicines should be considered. 
+4.2 
+Acute, sub-acute and long-term toxicity studies 
+Principles governing general toxicity studies shall be applicable to acute, sub-acute and long- term toxicity 
+studies and local tolerance studies. 
+4.3 
+Generic and well-established dosage forms 
+In the case of generic or interchangeable multi-source medicines and established dosage forms, provide 
+bioequivalence studies data corroborated with literature review. 
+4.4 
+Presentation and safety studies 
+All toxicity studies shall be properly presented under the following headings: 
+i. 
+Objectives 
+ii. 
+Experimental protocol including methodology and materials 
+iii. 
+Summarised results and related statistical analysis 
+iv. 
+Discussions and conclusion 
+v. 
+Proposed measures to minimise potential toxicity during use of the product 
+4.5 
+Toxicity and safety guidelines 
+EMA guidelines 
+• 
+Assessment and control of DNA reactive (mutagenic) impurities in veterinary medicinal products 
+• 
+Regulatory acceptance of 3R (replacement, reduction, refinement) testing approaches 
+VICH guidelines 
+• 
+VICH GL22 Safety studies for veterinary drug residues in human food: reproduction studies 
+• 
+VICH GL23 Studies to evaluate the safety of residues of veterinary drugs in human food: 
+genotoxicity testing 
+• 
+VICH GL28 Studies to evaluate the safety of veterinary drugs in human: carcinogenicity testing 
+• 
+VICH GL31 Safety studies for veterinary drug residues in human food: repeat-dose (90) toxicity 
+testing 
+• 
+VICH GL32 Studies to evaluate the safety of residues of veterinary drugs in human food: 
+SAHPGL-PEM-VET-02_v2 
+Page 9 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+developmental toxicity testing 
+• 
+VICH GL33 Safety studies for veterinary drug residues in human food: general approach to testing 
+• 
+VICH GL37 Safety of veterinary drugs in human food repeat-dose (chronic) toxicity testing 
+• 
+VICH GL54 Studies to evaluate the safety of residues of veterinary drugs in human food: general 
+approach to establish an acute reference dose (ARfD). 
+5. 
+Safety to users 
+Studies on potential harmful effects to exposure by various routes, e.g., inhalation, topical contact, oral 
+ingestion, performed on laboratory animals, shall be presented. The implications to humans using the 
+product should be described and, where appropriate, precautions during preparation and use of the 
+product should be proposed. 
+EMA User Safety Guidelines 
+• 
+User safety for pharmaceutical veterinary medicinal products 
+• 
+User safety of topically administered products 
+6. 
+Risk assessment of veterinary medicines 
+6.1 Toxicity to the environment 
+Assessment of environmental safety should be given for all new veterinary medicinal products. 
+Requirements for safety are important to avoid persistent damage to the environment. 
+Products requiring environmental assessment include: 
+a. Antibiotics in poultry, pig, and fish feeds 
+b. Effluent from manufacturing plants 
+An assessment of the potential of exposure of the medicine and its active metabolites to the environment 
+shall be made considering: 
+i. 
+The target species and likelihood of and method of excretion of the product and its active metabolites 
+into the environment. 
+ii. 
+Pattern of use and therefore quantity medicine to be used (herd/flock medication or individual 
+medication) 
+iii. 
+The method of administration and whether it may lead to direct entry of the product into the 
+environment, e.g., spray races 
+iv. 
+The method of disposal of the unused, used products and containers 
+Studies on potential harmful effect of the product to the environment shall be provided. The environment shall 
+include soil, water and air and such studies shall include: 
+i. 
+fate and behaviour in the soil 
+SAHPGL-PEM-VET-02_v2 
+Page 10 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+ii. effects on soil organisms 
+iii. fate and behaviour in water 
+iv. effect on aquatic organisms 
+v. effects of other non-target organisms 
+Proposed measures to minimise the above potential risks during use of the product shall be described. 
+ 
+Environmental Toxicity Guidelines 
+EMA guidelines 
+• 
+Assessment of persistent, bio accumulative and toxic (PBT) or very persistent and very bio 
+accumulative (vPvB) substances in veterinary medicinal products 
+• 
+Assessing the toxicological risk to human health and groundwater communities from veterinary 
+pharmaceuticals in groundwater 
+• 
+Determining the fate of veterinary medicinal products in manure 
+VICH guidelines 
+• 
+Environmental impact assessment for veterinary medicinal products in support of the VICH 
+guidelines GL6 and GL38 
+• 
+Higher-tier testing of veterinary medicinal products to dung fauna 
+• 
+Plant testing strategy in the risk assessment for veterinary medicinal products 
+• 
+VICH GL6 Environmental impact assessment (EIAs) for veterinary medicinal products - Phase I 
+• 
+VICH GL38 Environmental impact assessments for veterinary medicinal products-Phase II 
+7. Residues in food of animal origin: Residues studies 
+Residue study data should be provided to justify withdrawal periods for milk, meat, eggs for each species 
+for which the product is indicated. Safety assessment of veterinary medicine residues in food of animal 
+original should be performed for all new medicines. Relevant pharmacological, toxicological, and 
+microbiological end points should be used to establish the acceptable daily intake. Maximum residue limits 
+in food producing animals should be provided. The withdrawal period should be indicated on the labels. 
+All the analytical methods used should be provided. Pre and post antimicrobial resistance surveillance 
+should be performed on indicator pathogens e.g., E. coli, Salmonella spp. Quinolones - usage should be 
+restricted to avoid resistance in zoonotic pathogens. 
+This section also provides guidance for situations or conditions under which waivers of the drug residue 
+SAHPGL-PEM-VET-02_v2 
+Page 11 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+depletion studies could be granted. It also describes conditions under which the relevant studies will be 
+required.  
+Overall, the information submitted on residues should be sufficient to confirm or establish that the 
+withdrawal period of the generic product is identical to that of the reference product. Applicants to 
+complete the Residue Overall Summary template (Doc Number: GLF-PEM-VET-04A). 
+7.1 Situations and conditions when the residues data requirements could be 
+waived 
+For certain products for which the waivers of pharmaceutical equivalence and bioequivalence study 
+requirements have been granted, residue data to confirm the withdrawal period assigned to the reference 
+product might not be necessary. 
+There are situations where an abbreviated depletion study may be required even after granting 
+pharmaceutical equivalence and bioequivalence of the generic products. 
+Requests for waiver of the residue depletion studies will be considered on a case-by-case basis. When an 
+applicant requests a waiver for residue depletion study requirements, an assessment of the dossier is 
+conducted to determine whether the generic product is identical to the reference product. When a waiver 
+cannot be granted, the residue depletion studies to confirm or establish that the withdrawal period of the 
+generic product is the same as approved for the reference product will be required. 
+If bioequivalence is granted based on blood-level studies, which should cover the absorption, distribution, 
+and elimination phases of the active ingredients vs. the time profile, and the assay method used is sensitive 
+enough to measure the residue levels in blood for the entire withdrawal period established for the 
+reference product, the residue depletion data requirements may be waived provided that the correlation 
+data between the depletion of the drug residue from plasma and target tissue is known.  
+The waiver of residue data requirements may be granted to medicated premix products or soluble powder 
+oral dosage forms that are pharmaceutically equivalent to the reference product. 
+7.2 Situations and conditions when data cannot be waived 
+In various situations, the residue depletion data requirements cannot be waived. 
+The descriptions below specify the situations where applicants must submit the data from an abbreviated 
+residue depletion study or a comprehensive residue depletion study.  
+In general, when the waivers for pharmaceutical equivalence or bioequivalence cannot be granted, a 
+waiver for the residue depletion study requirements will not be considered.  
+In most cases, data from an abbreviated residue depletion study will be required to confirm the withdrawal 
+period of the generic products.  
+SAHPGL-PEM-VET-02_v2 
+Page 12 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+An abbreviated residue depletion study is generally required in food-producing animals for the following 
+product formulations: 
+• 
+Non-aqueous products for injection by subcutaneous and/or intramuscular routes 
+• 
+Intra-mammary infusions in dry cows 
+• 
+Pour-on formulations 
+• 
+Implants; and 
+• 
+Intra-ruminal devices. 
+ 
+For products where the formulation (e.g., pH, vehicle, excipients, etc.) differs from that of the reference 
+product, and concerns about residue depletion are evident, data from residue depletion studies to confirm 
+the withdrawal period may still be required even though the generic product is pharmaceutically 
+equivalent, and the waiver of bioequivalence study requirements has been granted.  
+Some generic drug products may have the same plasma disposition profile as the reference product at the 
+concentrations used in bioequivalence studies but may have very different tissue disposition kinetics when 
+followed out to the withdrawal period for the reference product. In these cases, the submission must 
+include data from the residue depletion study.  
+Similarly, differences in the location of injection sites or evidence of significant injection site tissue reaction 
+might lead to an altered tissue residue depletion pattern, which may result in the submission requiring 
+data from an abbreviated residue depletion study.  
+In generic drug submissions where residue depletion studies are not waived, and when the reference is 
+indicated for use in more than one food-producing species, an abbreviated tissue residue depletion study 
+will generally be required for each major food-producing species on the label. This is because the data 
+derived from one animal species generally cannot be extrapolated to another species due to possible 
+species differences in drug partitioning or binding in tissues. These differences could magnify a small 
+variation in the rate and extent of drug absorbed into a large variation in marker residue concentrations 
+in the target tissue. 
+For a reference product approved for use in major and minor species, data from a residue depletion study 
+from a major species on the label is generally sufficient for confirmation of withdrawal periods for all 
+related minor species on the label. 
+In all cases where no residue data are available on file for the reference product, the submission must 
+contain data from the tissue residue depletion studies to meet the current standards of the guidelines.  
+An applicant seeking a shorter withdrawal period for the generic product must provide the data from a 
+comprehensive residue depletion study to support the proposed shorter withdrawal period. 
+7.3 
+Residue depletion study 
+The purpose of a residue depletion study is to confirm the withdrawal period of a generic version of the 
+SAHPGL-PEM-VET-02_v2 
+Page 13 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+reference product.  
+This study should be conducted in a minimum of 6 animals (evenly mixed by sex) for large and medium 
+sized animals (e.g., cattle, swine, sheep, etc.), 12 birds for poultry, 15-20 for fish, and 20 lactating dairy 
+animals (e.g., cows, goats, and sheep), treated with the product at the same dose and using the same route 
+and frequency of administration as recommended for the reference product.  
+The study should include a control (non-treated) animal. The concentration levels of the marker residue 
+or residues in the target tissue, if known, at the recommended withdrawal period for the reference 
+product, will need to be determined by using the validated analytical method (regulatory method).  
+A single-point statistical procedure will be used to determine the upper tolerance limit of residue 
+concentrations with 95% confidence for 99% of the animal population, which should be below the 
+established maximum residue limit (MRL) at the established withdrawal period for the reference product. 
+In case the residue levels in target tissue, if known, at the established withdrawal period for the reference 
+product, exceed the established MRL, data from a comprehensive residue depletion study. 
+7.4 
+Comprehensive residue depletion study 
+The purpose of a comprehensive residue depletion study is to establish a withdrawal period for the generic 
+product. This study should be conducted in a minimum of 20 animals, divided into either four or five groups 
+of four or five animals each.  
+The study should include at least one control (non-treated) animal. Groups of animals are slaughtered at 
+each of either four or five appropriately distributed and pre-selected time point intervals following the last 
+administration of the test article. Edible tissues are then collected for marker residue analysis.  
+To establish the withdrawal period, only marker residues in the target tissue, if known, will be analysed. 
+A statistical procedure will be used to calculate the withdrawal period. The upper tolerance limit residue 
+concentrations with 95% confidence for 99% of the animal population will be determined, which should 
+be below the established MRL. It is noted that to meet the current standards of the guidelines, data from 
+a comprehensive residue depletion study in all the edible tissues may be requested where the MRL in 
+tissues other than the target tissue are not available. 
+7.5 
+Analytical methodology 
+When choosing analytical methods to determine marker residue concentration levels, applicants should 
+consider the approved method. If an analytical method other than the approved method of analysis is 
+SAHPGL-PEM-VET-02_v2 
+Page 14 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+used, the applicant of a generic product should provide method validation data with consideration of the 
+analytical methodology requirements. 
+Withdrawal period and MRL Guidelines 
+EMA guidelines 
+• 
+Approach towards harmonisation of withdrawal periods 
+• 
+Determination of withdrawal periods for milk 
+• 
+Injection-site residues 
+• 
+Setting health-based exposure limits for use in risk identification in the manufacture of different 
+medicinal products in shared facilities 
+VICH Guidelines 
+• 
+VICH GL46 studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-
+producing animals: metabolism study to determine the quantity and identify the nature of 
+residues 
+• 
+VICH GL47 studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-
+producing animals: laboratory animal comparative metabolism studies 
+• 
+VICH GL48 studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-
+producing animals: Marker-residue-depletion studies to establish product withdrawal periods 
+• 
+VICH GL49 studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-
+producing animals: validation of analytical methods used in residue depletion studies 
+• 
+VICH GL56 studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-
+producing species: study design recommendations for residue studies in honey for establishing 
+MRLs and withdrawal periods 
+• 
+VICH GL57 on studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-
+producing species: marker residue depletion studies to establish product withdrawal periods in 
+aquatic species. 
+ Establishment of maximum residue limits: Guidelines 
+EMA guidelines 
+• 
+Approach to establish a pharmacological acceptable daily intake (ADI) 
+SAHPGL-PEM-VET-02_v2 
+Page 15 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+• 
+Data to be provided in support of a request to include a substance in the list of substances 
+considered as not falling within the scope of regulation (EC) No 470/2009 
+• 
+Risk-analysis approach for residues of VMPs in food of animal origin 
+VICH guidelines 
+• 
+VICH GL36 Studies to evaluate the safety of residues of veterinary drugs in human food: General 
+approach to establish a microbiological ADI 
+ 
+8. CTD Modules 2.5, 2.7 & 5: Efficacy Data 
+This section shall only be applicable to new chemical entities. Original efficacy data will be required for all 
+veterinary medicinal products containing new chemical entities (NCE) whether mono or in fixed dose 
+combination with another NCE or a well-known medicine substance. A summary of well presented, 
+controlled, blinded clinical trials conducted in target animals investigating the pharmacological and 
+therapeutic properties, and adverse reactions is required. Pharmacological studies are only required if the 
+biological studies were not done in target animals. The principles of Good Clinical Practice (GCP) should be 
+adhered to during the study. 
+The clinical data should be presented in a manner that allows easy cross-referencing to the index, other 
+studies, and the professional information. Clinical trials should be conducted with the formulation as 
+applied for. Where studies have been conducted with different formulations, comparative equivalence 
+studies are required to enable extrapolation to the formulation intended for the market. 
+8.1 Pharmacodynamic studies (Target animals) 
+Describe the study protocol including the study design, pharmacological or biochemical response 
+measured, measuring instruments, results, statistical methods used and their justification. Tabulation and 
+graphical illustration of results and conclusion. 
+Please note: 
+a. A cross-over design is preferred and where it is not appropriate a parallel design is acceptable. The 
+study design must consider the pathology and natural history of the condition. 
+b. Studies should be done in healthy animals or in sick animal if the disease affects the 
+actions/responses studied. 
+c. Inclusion/exclusion criteria must be stated, and non-responders should be identified and excluded 
+prior to the study commencement 
+SAHPGL-PEM-VET-02_v2 
+Page 16 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+d. Measured pharmacological response should be relevant to the claimed therapeutic uses and 
+where there is more than one therapeutic use, studies should be done to demonstrate the 
+therapeutic use for each indication. 
+e. Measurement of responses should as far as possible be quantitative, measured under double 
+blinded conditions and be recorded in an instrument producer/instrument recorded fashion.  
+f. The methodology must be validated for precision, accuracy, reproducibility, and specificity. 
+g. Where possible the effect can be graphically illustrated using the area under the effect time curve, 
+maximum effect, and time of maximum effect. 
+In using pharmacodynamic methods, the following requirements must be satisfied: 
+a. The response can be measured precisely over a reasonable range 
+b. The response can be measured repeatedly to obtain time-course from the beginning to the end of 
+the response. 
+8.2 Pharmacokinetics and bioavailability of medicines in target animals 
+The summary should outline: 
+a. Information on principal investigators (name, curriculum vitae, affiliation, and signature) 
+b. Product information, batch details, batch number, manufacturing site and date, expiry date, 
+specifications. The product must be identical to the intended commercial product in every respect; 
+same manufacturing site and same composition (qualitative and quantitative). Samples should be 
+the same as the commercial scale production batch 
+c. Protocol and study design; (objectives, animal selection, conduct of the study, medicine 
+administration, food intake, sample collection, storage, bio-analytical methods and validation 
+results, pharmacokinetics parameters measured and results. Justifications for the chosen design 
+(e.g., cross over or replicated design), measures taken to minimise intra and inter-animal variability 
+and elimination of bias must be stated. All possible factors that may influence the product 
+pharmacokinetics must be standardised e.g., fluid intake, food intake, exercise/confinement, etc. 
+d. Population: population size of 8 to 24 (sample size shall depend on the animal co-efficient of 
+variation CV if low say < 15%; n = 14, > 30%; n = 44) healthy young animals. A minimum of 12 
+animals is required for modifies release oral dosage form studies. 
+e. The results, data and statistical procedures should be detailed enough to allow for repeat analysis 
+if required. 
+8.3 Efficacy clinical end points in target species 
+Describe in detail the study protocol, which should, include: 
+a) the title of the study 
+b) Particulars of principal investigator(s), location, justification and objectives, dates, time, duration, 
+SAHPGL-PEM-VET-02_v2 
+Page 17 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+observation periods and justification thereof, 
+c) study design (randomization methods description of design e.g., cross-over, or parallel etc), 
+inclusion, exclusion, criteria, animal housing and feeding, methods and treatments, dosage used, 
+concurrent treatments, 
+d) specifications of the test product and placebo, 
+e) response variables - precise clinical endpoints measured and recording clinical response 
+(measurable scoring system for endpoints). 
+f) analysis of results including statistical methods used and their justification. 
+g) Discussions and conclusion on efficacy and safety, including but not limited to: 
+Adverse drug reactions observed and their relationship to the administered dose. 
+Guidelines 
+EMA guidelines 
+• 
+Conduct of bioequivalence studies for veterinary medicinal products 
+• 
+Conduct of pharmacokinetic studies in target animal species 
+• 
+Demonstration of palatability of veterinary medicinal products 
+• 
+Statistical principles for veterinary clinical trials 
+VICH guidelines 
+• 
+VICH GL9 Good clinical practices 
+• 
+VICH GL52 Bioequivalence: blood level bioequivalence study 
+ 
+SAHPRA Guidelines 
+• 
+SAHPGL-PEM-VET-02_v2 Veterinary Medicines Clinical Guideline 
+• 
+SAHPGL-PEM-VET-03_v2 Guideline for Veterinary Medicines Exemptions from Certain Medicine 
+Registration Requirements  
+ 
+SAHPRA Templates 
+• 
+OF-PEM-VET-04A _V1 Bioequivalence Trial Information Form for Veterinary Medicines 
+• 
+OF-PEM-VET-04B_v1 Veterinary Medicines Biowaiver Template for Parenterals 
+ 
+Target animal safety guidelines 
+• 
+VICH GL43 Target animal safety: pharmaceuticals 
+EMA specific guidelines 
+SAHPGL-PEM-VET-02_v2 
+Page 18 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+• 
+Conduct of efficacy studies for non-steroidal anti-inflammatory drugs (NSAIDs) 
+• 
+Demonstration of target animal safety and efficacy of veterinary medicinal products intended for 
+use in farmed finfish 
+• 
+Dossier requirements for anticancer medicinal products for dogs and cats 
+• 
+Veterinary medicinal products for fluid therapy in case of diarrhoea 
+EMA Antimicrobials guidelines 
+• 
+Guideline on the summary of product characteristics for antimicrobial products 
+• 
+Demonstration of efficacy for veterinary medicinal products containing antimicrobial substances 
+EMA Products for intramammary use guidelines 
+• 
+Conduct of efficacy studies for intramammary products for use in cattle 
+• 
+Local tolerance of intramammary preparations in cows 
+• 
+3.13 SAHPRA guideline on anti-mastitis products 
+9. 
+References 
+9.1 Related EMA and VICH Guidelines 
+9.2 Related SOPs and Templates 
+9.4 3.01_General Information Guideline for the Registration of Veterinary Medicines 
+10. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces [3.14_Veterinary 
+Medicines Clinical Guideline]. It will be reviewed on this timeframe or as and when required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-VET-02_v2 
+Page 19 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+11. ADDENDUM 
+11.1 
+Safety and efficacy review pathways 
+A clinical application will follow one of the following review types, namely: 
+a. Full Review 
+b. Abridged Review 
+c. Verification Review 
+d. Mutual Recognition 
+e. Notifications (Variations) 
+Review types (b), (c) (d) and (e) represent reliance pathways, which SAHPRA will be implementing to reduce 
+evaluation times. To qualify for a reliance pathway, an application must have received prior approval from 
+recognised regulatory authority Reliance pathways are applied independently for clinical and quality sections 
+based on the documents submitted.     
+RRAs for registration of veterinary medicines include: US-FDA (CVM), EMA (CVMP), Japan Ministry of 
+Agriculture, Forestry and Fisheries (JMAFF), Health Canada (VDD), Australia, (APVMA), UK (VMD), and New 
+Zealand (APVMA). For an application to be considered for reliance evaluation, additional documentation 
+must be submitted with the application.  
+The data requirements are listed in this addendum.  
+The final evaluation pathway decision for an application is at the discretion of SAHPRA, and will depend on the 
+type of molecule, species, legibility for minor use/minor species, indications, including availability and quality 
+of reliance documentation submitted.  
+SAHPRA will share screening queries with applicants regarding insufficient reliance documentation to ensure 
+that as many applications as possible qualify for abridged and verified reviews. Where applicable, applications 
+will default to a Full Review in the absence of a suitable reliance pathway. 
+Whilst the medicine is under review, applicants should inform SAHPRA of any prohibition and restriction 
+imposed by the RRAs of any country in which the medicine is marketed and of any other information which 
+SAHPGL-PEM-VET-02_v2 
+Page 20 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+might influence the evaluation of the benefits and risks of the medicine concerned. 
+1.1 Full review 
+A full review involves a thorough review of all aspects of the dossier, particularly the pre-clinical and clinical 
+data submitted under CTD Modules 4 and 5 respectively (and summarised in CTD Module 2).  
+All NCE applications, generic applications with clinical data, Type II variations and line extensions that lack 
+adequate reliance documentation or prior approval from a RRA will default to full review. 
+A full review is indicated specifically for the following types of applications: 
+1.1.1 
+Monocomponent medicines 
+• 
+For a monocomponent NCE (new chemical entity) not registered by an RRA 
+• 
+For a monocomponent multisource medicine/generic/API not registered by a RRA, and where clinical 
+data generated with the generic has been supplied in support of the application  
+• 
+All veterinary biological medicines not registered by an RRA. 
+1.1.2 
+Multicomponent medicines 
+• 
+For a multicomponent fixed dose combination of two or more chemical entities, where the 
+combination is not registered by SAHPRA or by a RRA. 
+1.1.3 
+Type II variations 
+• 
+For Type II variations where the amendment applied for has not been approved by a RRA, 
+1.2 Abridged review 
+The Abridged Review is initiated to limit the evaluation time of medicines that are registered by a RRA. 
+The abridged review is based primarily on the overviews of pre-clinical and clinical data. All supporting 
+documents as stipulated in this addendum should be included to qualify for the abridged review. The abridged 
+review process does not involve an abbreviated application - the full application should be submitted by the 
+applicant. Evaluators may still wish to review pre-clinical and clinical data in Modules 4 and 5 as required.  
+Applicants need to draft and sign a Letter of Access, allowing SAHPRA to request un-redacted reports from the 
+associated RRA(s). The Letter of Access must also be signed by the marketing authorization holder in the 
+associated RRA country or by the principal from whom the dossier is purchased. This is a minimum requirement 
+for an application to be considered for an abridged review. However, there is one exception to this 
+SAHPGL-PEM-VET-02_v2 
+Page 21 of 21
+VETERINARY MEDICINES CLINICAL GUIDELINE 
+20 September 2022 
+ 
+ 
+requirement: The Letter of Access does not need to be provided if the applicant supplies SAHPRA with the un-
+redacted reports directly.  
+All NCE and biological applications, generic applications with clinical data, Type II variations and extensions 
+that have prior approval from a RRA will be considered for an abridged review. 
+An abridged review is indicated specifically for the following types of applications: 
+1.2.1 
+Monocomponent medicines 
+• 
+For registration of a new medicine/NCE already approved by an RRA. 
+• 
+For registration of a new medicine /NCE based on a well-established use (relying on literature), 
+where the medicine has already been registered on the same basis by an RRA 
+• 
+For a monocomponent multisource medicine/generic/API registered by a RRA, and where clinical 
+data generated with the generic has been supplied in support of the application 
+• 
+Biological medicine registered by an RRA 
+• 
+Multicomponent medicines 
+For a multicomponent fixed dose combination of two or more chemical entities, where the combination 
+is not registered by SAHPRA, but registered by an RRA. 
+ 
+

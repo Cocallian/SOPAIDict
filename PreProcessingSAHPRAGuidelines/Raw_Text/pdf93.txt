@@ -1,0 +1,203 @@
+SAHPGL-RDN-RN-11_v2 
+Page 1 of 6
+ 
+ 
+ 
+12 December 2022 
+GUIDELINE ON RADIATION PROTECTION OFFICER (RPO) 
+COMPETENCE AND TRAINING REQUIREMENTS 
+To provide recommendations and guidance to the applicant for an authority or an authority holder on how to comply with the 
+legislative requirements for the appointment of a radiation protection officer (RPO). 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue, industrial comments incorporated and published for 
+implementation 
+August 2015 
+2 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-RN-11 allocated to this 
+Guideline 
+- 
+Form RN786A changed to GLF-RDN-RN-18C 
+December 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-RN-11_v2 
+Page 2 of 6
+Guideline on Radiation Protection Officer (RPO) Competence and Training Requirements 
+12 December 2022 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 4 
+3. 
+REQUIREMENTS FOR APPOINTMENT AS A RADIATION PROTECTION OFFICER ......................................... 5 
+3.1 
+Competence ............................................................................................................................................... 5 
+3.2 
+Training ....................................................................................................................................................... 5 
+4. 
+REFERENCES ............................................................................................................................................... 6 
+5. 
+VALIDITY ..................................................................................................................................................... 6 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-RN-11_v2 
+Page 3 of 6
+Guideline on Radiation Protection Officer (RPO) Competence and Training Requirements 
+12 December 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+RPA 
+Radiation Protection Advisor 
+RPO  
+Radiation Protection Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-RN-11_v2 
+Page 4 of 6
+Guideline on Radiation Protection Officer (RPO) Competence and Training Requirements 
+12 December 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+The appointment of a Radiation Protection Officer (RPO) and acting RPO is a legal requirement that must be 
+satisfied before an applicant can engage in the activities authorized by the SAHPRA Radiation Control. 
+1.1 
+Purpose 
+In this document we provide recommendations and guidance on how to comply with the legislative 
+requirements.  
+1.2 
+Scope 
+The RPO must be provided with sufficient training to enable him to be able to effectively carry out his 
+supervisory duties. However, education and training are only two of several attributes that result in a 
+person being both competent and suitable to act as an RPO for a practice. The provision of training covering 
+the core information that is required for all RPOs will provide an appropriate level of knowledge, but this 
+will need to be re-enforced with practical experience of the application of this knowledge before the RPO 
+can be said to be competent. 
+2. 
+LEGAL PROVISION 
+According to regulations 6 (1), (2) and (5) of R2471, the RPO must be permanently employed by the authority 
+holder. Apart from any other powers or duties associated with the post held by the RPO, the authority holder 
+shall place this person in control of all activities related to the radionuclide authority, and of all actions and 
+operations performed in terms of such authority by any radiation worker or other employee of such holder.  
+According to regulation 6 (3) (b) of R2471, an RPO shall be any person “with knowledge and experience of the 
+basic principles of radiation protection and control in general; and such specific aspects of radiation protection 
+and control, as may be applicable to the installation and working conditions that are covered by the authority 
+concerned.”  
+Except where the authority holder is also the RPO, the authority holder and RPO shall enter a written contract 
+declaring that the authority holder has authority to appoint the RPO, and specifying the duties, responsibilities 
+and authority delegated to the RPO to ensure compliance with the Act and regulations. A copy of the contract 
+must be available if requested by Radiation Control.   
+Regulation 6 should be read in conjunction with regulations 7, 26 and 28.  It should be noted that the existing 
+Guidelines on RPO duties and on Internal Rules are currently being reviewed. 
+ 
+SAHPGL-RDN-RN-11_v2 
+Page 5 of 6
+Guideline on Radiation Protection Officer (RPO) Competence and Training Requirements 
+12 December 2022 
+ 
+ 
+3. 
+REQUIREMENTS FOR APPOINTMENT AS A RADIATION PROTECTION OFFICER  
+3.1 
+Competence 
+The RPO must be able to demonstrate the required competence to perform the responsibilities associated 
+with that position. This includes knowledge of basic aspects of radiation protection and control, and training 
+appropriate to the activities, actions and operations associated with the authority. It also includes 
+knowledge of and competence to exercise all legislative functions related to the authority. The RPO should 
+therefore be trained in radiation safety and protection as well as in RPO specific responsibilities related to 
+the legislative requirements.    
+RPAs: Should the RPO lack the necessary knowledge or competence related to a specific and technically 
+advanced aspect of his/her duties, the authority holder may acquire the services of a radiation protection 
+adviser (RPA) as per regulation 28 to provide technical assistance, e.g., shielding calculations or 
+decontamination. In such a case, the authority holder shall enter into a written contract and a service level 
+agreement with the RPA, clearly specifying the latter’s responsibilities. To be registered on the authority, 
+the RPA shall submit a completed application form GLF-RDN-RN-18C (Old Form RN786A) and provide proof 
+of competence in the specified areas. If satisfied, Radiation Control will issue a registration certificate linking 
+the RPA with the authority holder and specifying the services to be provided. 
+3.2 
+Training 
+The Directorate: Radiation Control currently has no specific requirements regarding training courses for 
+RPOs for the use of radioactive sources. There is, however, a general requirement for any RPO to give proof 
+of competence to act as RPO in line with the requirements of the Hazardous Substances Act 15 of 1973 and 
+the RPO Guidelines. Such proof could be in the form of previous experience and/or attendance of an 
+appropriate short training course.   
+At present the IAEA Regional Training Centre at Necsa (Nuclear Energy Corporation of South Africa, 
+Pelindaba) as well as Cape Lab Training center are the only institutions that provides SAQA-accredited 
+training courses. The courses presented range in duration from two to five days, depending on the 
+application, e.g., soil gauges, industrial radiography, or first responders.  
+Several other, non-accredited, short courses are also available. The following should be noted: 
+(a) Certificates issued by individuals offering short courses are only attendance certificates, and the 
+content varies depending on the background of the course presenter. There is no guarantee that these 
+training programs cover all aspects related to radiation safety and protection, or that the content is 
+SAHPGL-RDN-RN-11_v2 
+Page 6 of 6
+Guideline on Radiation Protection Officer (RPO) Competence and Training Requirements 
+12 December 2022 
+ 
+ 
+technically and scientifically correct and in line with international standards. 
+(b) None of these presenters can claim that their course is “approved” by the Department of Health or 
+the Directorate: Radiation Control. Any such claim would be a misrepresentation, which is a criminal 
+offence. 
+(c) The Directorate: Radiation Control currently has no requirement for repeat or refresher courses. This 
+means that no person or organisation offering courses for RPOs may set expiry dates on their 
+attendance certificates or claim that the course must be repeated at specified intervals. 
+(d) Further, no individual or organisation may claim SAQA accreditation for their courses unless they can 
+provide verifiable evidence of such accreditation. 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+R246 & R247, Regulation published under Government Notice R246 in Government Gazette 14596 
+of 26 February 1993 
+4.2 
+Hazardous Substances Act, 1973 (Act No. 15 of 1973) 
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+on RPO Competence and Training Requirements, revised in August 2015. It will be reviewed on this timeframe 
+or as and when required. 
+ 
+ 
+ 
+

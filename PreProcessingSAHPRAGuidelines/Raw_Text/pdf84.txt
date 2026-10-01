@@ -1,0 +1,1417 @@
+SAHPGL-CEM-PV-02_v2 
+Page 1 of 37
+ 
+ 
+ 
+31 May 2023 
+GUIDELINE ON PHARMACOVIGILANCE SYSTEMS 
+This guideline is intended to provide guidance to the applicants/holders of Certificate of Registration (HCRs) on the pharmacovigilance 
+system requirements. It is meant to facilitate compliance by applicants/HCRs with the regulatory authority on pharmacovigilance 
+requirements. It represents the Authority’s current thinking on the safety, efficacy, and quality of medicines. SAHPRA reserves the 
+right to request any additional information to establish the safety, efficacy, and quality of a medicine in keeping with the knowledge 
+current at the time of evaluation.  
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue 
+09 May 2022 
+2 
+- 
+Content structured on the latest SAHPRA Guideline Template 
+- 
+The following sections are amended: 
+o Section 3 moved to 6.1.3 
+o Section 7.3 and 7.4 for requirements and responsibilities of the 
+holder of certificate of registration 
+o Section 8 for Local Pharmacovigilance Officer 
+o Section 9.1.8 for addition of requirements for summary PSMF 
+o Section 9.4.10(b) and (c) moved to Section 9.5.8 and Section 
+9.4.10(a) moved to Section 9.1.7 
+o Section 9.5.6 and 9.5.8 for PSMF accessibility and submission 
+ 
+01 October 2023 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-PV-02_v2 
+Page 2 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 6 
+1.1 
+Purpose ...................................................................................................................................................... 6 
+1.2 
+Scope .......................................................................................................................................................... 6 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 7 
+3. 
+REQUIREMENTS AND RESPONSIBILITIES OF THE HOLDER OF CERTIFICATE OF REGISTRATION ................ 8 
+4. 
+QUALIFIED PERSON RESPONSIBLE FOR PHARMACOVIGILANCE (QPPV) .................................................... 9 
+4.1 
+Introduction ............................................................................................................................................... 9 
+4.2 
+Qualifications of the QPPV ....................................................................................................................... 10 
+4.3 
+Responsibilities of the QPPV .................................................................................................................... 11 
+4.4 
+Back-up procedures ................................................................................................................................. 13 
+5. 
+PHARMACOVIGILANCE SYSTEM MASTER FILE (PSMF) ............................................................................. 13 
+5.1 
+Introduction ............................................................................................................................................. 13 
+5.2 
+Objectives of a PSMF ................................................................................................................................ 15 
+5.3 
+Contents of a PSMF .................................................................................................................................. 15 
+5.4 
+PSMF presentation, format and layout .................................................................................................... 25 
+5.5 
+Accessibility and submission of the PSMF................................................................................................ 25 
+6. 
+PHARMACOVIGILANCE QUALITY SYSTEM ................................................................................................ 27 
+6.1 
+Introduction ............................................................................................................................................. 27 
+6.2 
+Requirements for compliance management by applicant/HCR in relation to pharmacovigilance  ........ 29 
+6.3 
+Responsibilities for the quality system within an organisation ............................................................... 30 
+6.4 
+Training of personnel for Pharmacovigilance .......................................................................................... 31 
+6.5 
+Management and Reporting of Safety data ............................................................................................. 32 
+6.6 
+Record management system .................................................................................................................... 32 
+6.7 
+Documentation of the pharmacovigilance quality system ...................................................................... 33 
+6.8 
+Additional pharmacovigilance quality system documentation by applicants/HCRs ............................... 35 
+6.9 
+Facilities and equipment for Pharmacovigilance ..................................................................................... 35 
+7. 
+BUSINESS CONTINUITY PLANS ................................................................................................................. 35 
+8. 
+MONITORING OF THE PERFORMANCE AND EFFECTIVENESS OF THE PHARMACOVIGILANCE ................ 36 
+9. 
+SUBCONTRACTING OF THE PHARMACOVIGILANCE TASKS ...................................................................... 36 
+SAHPGL-CEM-PV-02_v2 
+Page 3 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+10. 
+REFERENCES ............................................................................................................................................. 37 
+11. 
+VALIDITY ................................................................................................................................................... 37 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-PV-02_v2 
+Page 4 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Applicant  
+Anyone who has submitted any kind of application for medicine registration. 
+Auditing  
+An independent and objective activity designed to add value and improve an 
+organisation’s operations by helping an organisation to accomplish its 
+objectives by using a systematic, disciplined approach to evaluate and improve 
+the effectiveness of risk management, control and governance processes; and 
+“audit” and “inspection” have corresponding meanings. 
+Authority 
+Means the South African Health Products Regulatory Authority established by 
+section 2 of the Act. 
+Certificate of registration 
+A certificate of registration issued under section 15, 15A or 15B of the Act. 
+Computerised system  
+A system including the input of data, electronic processing and the output of 
+information to be used either for reporting or automatic control. 
+Holder of Certificate of 
+Registration (HCR) 
+A person or the company or legal entity in whose name the registration for a 
+medicine (a registration certificate) has been granted and who is responsible 
+for all aspects of a medicine including quality, safety and compliance with the 
+conditions of registration. For the purpose of this guideline, this definition 
+extends to the company or legal entity in whose name old medicine is 
+marketed. 
+Individual Case Safety 
+Report 
+A document in a specific format for the reporting of one or several suspected 
+adverse reactions to a medicinal product that occur in a single patient at a 
+specific point of time. 
+License Holder 
+A person or establishment issued with a Section 22C (1)(b) license to 
+manufacture, import, export, wholesale and distribute medicines and 
+scheduled substances. 
+Licensee 
+Refers to the license holder. 
+Local Pharmacovigilance 
+Officer (LPVO)  
+A local pharmacovigilance officer (LPVO) is a contact person for the HCR’s 
+pharmacovigilance system at a national level whose responsibilities are the 
+same as those of the QPPV. LPVO is applicable for multinational HCRs whose 
+QPPV resides elsewhere. 
+Logbook  
+A logbook is used to record changes to the PSMF to enable keeping track of the 
+history of changes (specifying the date and the nature of the change and 
+description of the changes made to the contents of the master file). 
+SAHPGL-CEM-PV-02_v2 
+Page 5 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+Medicine 
+Any substance or mixture of substances used or purporting to be suitable for 
+use or manufactured or sold for use in - 
+• 
+the diagnosis, treatment, mitigation, modification or prevention of 
+disease, abnormal physical or mental state or the symptoms thereof in 
+humans; or 
+• 
+restoring, correcting or modifying any somatic or psychic or organic 
+function in humans;  
+includes any veterinary medicine. 
+Periodic Benefit-Risk 
+Evaluation Report 
+(PBRER) 
+An update of the world-wide marketing experience of a medicinal product at 
+defined times with focus on formal evaluation of benefit in special population 
+at defined times during post- registration period. 
+Periodic Safety Update 
+Reports (PSURs)  
+A regular update of the world-wide safety experience of a medicinal product at 
+defined times during post-registration period. 
+Pharmacovigilance  
+The science and activities relating to the detection, assessment, understanding 
+and prevention of adverse effects or any other drug-related problem. 
+Qualified Person 
+Responsible For 
+Pharmacovigilance 
+(QPPV) 
+A Qualified Person Responsible For Pharmacovigilance (QPPV) is an individual, 
+on full-time employment by the HCR, who is responsible for overall 
+pharmacovigilance for all medicines of the HCR. The QPPV is responsible for 
+ensuring that the company (the HCR) meets its legal obligations for monitoring 
+of the safety of the products marketed in South Africa, including the 
+establishment and maintenance of the HCR’s pharmacovigilance system, 
+preparation pharmacovigilance reports, acts as a single contact point for the 
+regulatory authority on a 24-hour basis and respond to any regulatory queries. 
+Risk Management Plan 
+(RMP) 
+A systematic approach and set of Pharmacovigilance activities and 
+interventions designed to identify, characterise, prevent or minimise risks 
+relating to medicinal products, and the assessment of effectiveness of those 
+interventions and how these risks will be communicated to the Authority and 
+the general population. 
+ 
+ 
+SAHPGL-CEM-PV-02_v2 
+Page 6 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+1. 
+INTRODUCTION 
+This guideline contains guidance for the establishment and maintenance of quality assured pharmacovigilance 
+systems for applicants/holders of certificate of registration (HCRs). A pharmacovigilance system consists of 
+specific pharmacovigilance processes that are purposed to ensure good pharmacovigilance practice. It is the 
+mandate of SAHPRA to ensure that evidence of existing and new adverse events, interactions, information 
+with regard to post-marketing surveillance and vigilance is being monitored, analysed and acted upon in a 
+functional pharmacovigilance system operational by the HCRs. 
+In accordance with Section 1 of the Medicines and Related Substances Act, Act 101 of 1965 as amended, 
+‘vigilance’, in relation to a medicine, medical device or IVD, means the continuous monitoring and evaluation 
+of its safety, efficacy and performance profile and the management of any risk throughout its life-cycle. 
+Before a medicine is registered for use, evidence of its safety and efficacy is limited to the results from clinical 
+trials, where patients are selected carefully and followed up very closely under controlled conditions. This 
+means that at the time of a medicine registration, it has been tested in a relatively small number of selected 
+patients for a limited length of time. 
+After registration, the medicine may be used in a large number of patients, for a long period of time and with 
+other medicines. Rare and delayed side effects may emerge in such circumstances. It is therefore essential that 
+the safety of all medicines is monitored throughout their use in healthcare practice. 
+A pharmacovigilance system is a system used by applicants/HCRs to fulfil their legal mandate and 
+responsibilities in relation to pharmacovigilance and is designed to monitor the safety of all registered health 
+products and detect any change to their risk-benefit balance. The pharmacovigilance legal requirements and 
+good pharmacovigilance practice apply to all medicines registered in South Africa. The legislation has the 
+primary aim to strengthen and rationalise pharmacovigilance and increase patient safety.  
+SAHPRA requires that applicants/HCRs operate a pharmacovigilance system for the fulfilment of 
+their pharmacovigilance obligation. 
+1.1 
+Purpose 
+This guidance document is intended to facilitate compliance by the HCRs and to enhance consistency in the 
+application of the regulatory requirements regarding good pharmacovigilance practices. 
+1.2 
+Scope 
+1.2.1 
+This guideline encompasses all aspects of a quality assured pharmacovigilance system including all 
+SAHPGL-CEM-PV-02_v2 
+Page 7 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+aspects of the risk management, such as the detection, assessment, minimisation and 
+communication relating to the risk of adverse reactions, having due regard to the therapeutic effect 
+of medicines for human use, the design and evaluation of post-authorisation safety studies and 
+pharmacovigilance audits.  
+1.2.2 
+This guidance document outlines the expected pharmacovigilance system for the holders of 
+certificate of registration to ensure that they: 
+a) have an adequate and effective pharmacovigilance system and its quality system for 
+monitoring the medicines that are registered in order to protect public health; 
+b) maintain a pharmacovigilance system master file (PSMF); 
+c) have adequate, competent, appropriately qualified and trained staff to work on the 
+pharmacovigilance system; 
+d) comply with the pharmacovigilance obligations as per the Medicines and Related Substances 
+Act 101 (Act 101 of 1965) as amended, by ensuring that evidence of existing and new adverse 
+events, interactions, information with regard to post-marketing surveillance and vigilance are 
+monitored, analysed and acted upon. 
+2. 
+LEGAL PROVISION 
+2.1 
+In accordance with Regulation 40 issued in terms of the Medicines and Related Substances Act, 101 
+of 1965, as amended. 
+(1) A person who has applied for registration of a medicine in terms of section 15 of the Act, a holder 
+of a certificate of registration in respect of a medicine or Scheduled substance, or a holder of a 
+licence in terms of section 22C (1) (b) must inform the Authority, in the manner and within the 
+time frame as determined by the Authority. A holder of certificate of registration /applicant and 
+licence holder must inform the Authority of any: 
+(a) new or existing quality, safety or effectiveness concerns related to any medicine or scheduled 
+substance, including but not limited to adverse drug reactions; and 
+(b) risk management activities associated with paragraph (1) 
+(2) A person who has applied for registration of a medicine in terms of section 15 of the Act, a holder 
+of a certificate of registration in respect of a medicine or Scheduled substance, or a holder of a 
+SAHPGL-CEM-PV-02_v2 
+Page 8 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+license in terms of section 22C (1) (b) must maintain or have access to records of the reports and 
+case reports referred to in sub regulation (1) above. 
+3. 
+REQUIREMENTS AND RESPONSIBILITIES OF THE HOLDER OF CERTIFICATE OF 
+REGISTRATION 
+3.1 
+In order to comply with the regulatory pharmacovigilance requirements, the HCRs should: 
+a) establish and operate a pharmacovigilance system to ensure monitoring and supervision of their 
+medicines 
+registered/marketed 
+in 
+South 
+Africa; 
+including 
+the 
+following 
+critical 
+pharmacovigilance process: 
+• 
+continuous safety profile monitoring and benefit-risk evaluation of registered medicines;  
+• 
+establishing, assessing and implementing risk management systems and evaluating the 
+effectiveness of risk minimisation; 
+• 
+collection, processing, management, quality control, follow-up for missing information, 
+coding, classification, duplicate detection, evaluation and timely electronic transmission 
+of individual case safety reports (ICSRs) from any source;  
+• 
+signal management;  
+• 
+scheduling, preparation (including data evaluation and quality control), submission and 
+assessment of periodic safety update reports (PSURs)/ Periodic Benefit Risk Evaluation 
+Report (PBRERs);  
+• 
+meeting commitments and responding to requests from the Authority, including provision 
+of correct and complete information;  
+• 
+interaction between the pharmacovigilance and product quality defect systems;  
+• 
+communication about safety concerns between HCRs and the Authority, in particular 
+notifying changes to the risk-benefit balance of medicines;  
+• 
+communicating information to patients and healthcare professionals about changes to the 
+risk-benefit balance of products for the purpose of ensuring safe and effective use of 
+medicines;  
+• 
+keeping product information up-to-date with the current scientific knowledge, including 
+the conclusions of the assessment and recommendations from the Authority;  
+• 
+implementation of variations to marketing authorisations for safety reasons according to 
+the urgency required. 
+b) develop, maintain and make available upon request a PSMF that describes the 
+pharmacovigilance system for medicines registered/marketed in South Africa,  
+SAHPGL-CEM-PV-02_v2 
+Page 9 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+c) have an appropriately Qualified Person Responsible for Pharmacovigilance (QPPV) to be 
+responsible for the establishment and maintenance of the pharmacovigilance system described 
+in the PSMF, 
+d) establish and use a quality system that is adequate and effective for performing its 
+pharmacovigilance activities, 
+e) develop and maintain product-specific risk management systems. 
+3.2 
+Overall, applicants/HCRs should ensure that structures and processes are in place to allow the QPPV 
+to sufficiently fulfil their responsibilities. Applicants/HCRs should ensure that mechanisms are in 
+place that allow the QPPV to access and receive all relevant information on, but not limited to: 
+a) emerging safety concerns and any other information relating to the benefit-risk evaluation of 
+the medicines covered by the pharmacovigilance system, 
+b) ongoing or completed clinical trials and other studies that the applicant/HCR is aware of, and 
+which may be relevant to the safety of the medicines; 
+c) information from sources other than from the specific applicant/HCR, e.g., from those with 
+whom the applicant/HCR has contractual arrangements; and 
+d) the procedures relevant to pharmacovigilance which the applicant/HCR has in place at every 
+level in order to ensure consistency and compliance across the organisation. 
+3.3 
+Applicants/HCRs are responsible for ensuring that the Responsible Pharmacist notify the SAHPRA via 
+pvsubmissions@sahpra.org.za of the QPPV’s appointment or any change in the QPPV’s details within 
+30 calendar days.  
+3.4 
+In case of multinational HCRs, SAHPRA requires that the appointment of the LPVO be approved by 
+the QPPV. 
+4. 
+QUALIFIED PERSON RESPONSIBLE FOR PHARMACOVIGILANCE (QPPV) 
+4.1 
+Introduction  
+4.1.1 The applicant/HCR must have a permanently appointed Qualified Person Responsible for 
+Pharmacovigilance (QPPV) for all of its medicines (including old medicines, biologicals and vaccines) 
+in South Africa. 
+4.1.2 A Qualified Person Responsible for Pharmacovigilance (QPPV) is an individual, on full-time 
+employment by the HCR, who is responsible for overall pharmacovigilance for all medicines of the 
+HCR. The QPPV is responsible for ensuring that the company (the HCR) meets its legal obligations for 
+SAHPGL-CEM-PV-02_v2 
+Page 10 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+monitoring of the safety of the products marketed in South Africa, including the establishment and 
+maintenance of the HCR’s pharmacovigilance system, preparation of pharmacovigilance reports, acts 
+as a single contact point for the regulatory authority on a 24-hour basis and responds to any 
+regulatory queries.  
+4.1.3 For multinational HCRs, whose QPPV does not have a full oversight of the local pharmacovigilance 
+system and/or resides elsewhere, the HCR should ensure that the QPPV nominate a local 
+pharmacovigilance officer (LPVO). A LPVO is a contact person for the HCR’s pharmacovigilance 
+system at a national level whose responsibilities are the same as those of the QPPV.   
+4.1.4 LPVO is equated to a QPPV in terms of training, responsibilities, accountability and qualifications. 
+4.1.5 The QPPV should reside and operate in South Africa. 
+4.1.6 The QPPV: 
+a) is responsible for the establishment and maintenance of the local pharmacovigilance system. 
+b) should have access to the reports of suspected adverse reactions and the PSMF for South African 
+registered products.  
+c) should be able to facilitate responses to pharmacovigilance queries raised by the Authority, 
+including queries raised during pharmacovigilance inspections. 
+d) shall not be a consultant, but a full-time employee of the applicant/HCR. 
+4.1.7 Each pharmacovigilance system should have only one QPPV.  
+4.1.8 The applicant/HCR may outsource certain pharmacovigilance activities to a third-party organisation, 
+excluding the role of the QPPV. 
+4.1 
+Qualifications of the QPPV 
+4.2.1 The person designated as the QPPV shall be a healthcare professional with Medicine, Pharmacy 
+Nursing or any other healthcare professional or science degree. The Authority also accept a person 
+who is not a healthcare professional, but with a relevant scientific discipline and at least two years 
+minimum experience with specific job function in the area of pharmacovigilance for designation as 
+the QPPV. This person should have access to a medically qualified person. 
+SAHPGL-CEM-PV-02_v2 
+Page 11 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+4.2.2 This person should have experience and training in all aspects of pharmacovigilance including the 
+management of pharmacovigilance systems as well as expertise or access to expertise in relevant 
+areas such as medicine, pharmaceutical sciences as well as epidemiology and biostatistics. 
+4.2.3 The QPPV shall receive formal training relevant to pharmacovigilance practice. 
+4.2 
+Responsibilities of the QPPV 
+4.3.1 The duties of the QPPV should be defined in a job description. The hierarchical relationship of the 
+QPPV should be defined in an organisational chart together with those of other managerial and 
+supervisory staff. Information relating to the QPPV should be included in the PSMF. 
+4.3.2 The responsibilities of the QPPV in relation to the pharmacovigilance system must include: 
+4.3.2.1 the establishment and maintenance of the HCR’s pharmacovigilance system and therefore 
+should have sufficient authority to influence the performance of the quality system and the 
+pharmacovigilance activities and to promote, maintain and improve compliance with the legal 
+requirements. Hence, the QPPV should have access to the PSMF and be in a position of authority 
+to ensure and to verify that the information contained in the PSMF is an accurate and up-to-date 
+reflection of the pharmacovigilance system under the QPPV’s responsibility. 
+4.3.2.2 oversight over the functioning of the pharmacovigilance system in all relevant aspects, including 
+its quality system (e.g., standard operating procedures, contractual arrangements, database 
+operations, compliance data regarding quality, completeness and timeliness of expedited 
+reporting and submission of periodic update reports, audit reports and training of personnel in 
+relation to pharmacovigilance). 
+4.3.2.3 Act as a single point of contact for the Authority on all matters relating to pharmacovigilance and 
+safety of marketed products including pharmacovigilance inspections.  
+4.3.3 The responsibilities of the QPPV in relation to the medicines covered by the pharmacovigilance 
+system include: 
+4.3.3.1 Serve as a point of contact and in attendance during pharmacovigilance inspections.  
+4.3.3.2 Establish and maintain a system which ensures that information about all suspected adverse 
+drug reactions/events which are reported to the personnel of the applicant/HCR, including to 
+SAHPGL-CEM-PV-02_v2 
+Page 12 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+medical representatives, is collected, collated, processed and evaluated and forwarded to the 
+Authority in line with the timelines stipulated by the Authority.  
+4.3.3.3 Prepare and/or ensure that the following documents are submitted to the Authority;  
+i) 
+Adverse drug reaction reports  
+ii) PSURs/PBRERs, when necessary  
+iii) Company-sponsored pre- and post-registration study reports  
+iv) Risk Management Plans (RMPs) and South Africa specific RMP as per the relevant guideline. 
+The QPPV shall have sufficient authority over the content and implementation of risk 
+management plans and risk minimisation measures. 
+v) Ongoing pharmacovigilance evaluation during the post- registration period.  
+4.3.3.4 Ensure that any request from the Authority for additional information deemed necessary for the 
+evaluation of the risk-benefit ratio of a marketed product, is provided to the Authority promptly 
+and fully.  
+4.3.3.5 Oversee the safety profiles of the company’s marketed products and any emerging safety 
+concerns. Have awareness of any conditions or obligations adopted as part of the registration 
+certificate and other commitments relating to safety or the safe use of the products; 
+4.3.3.6 Be involved in the review and sign-off of local protocols of post-authorisation safety studies as 
+agreed in the risk management plan,  
+4.3.3.7 Have awareness of post-authorisation safety studies requested by the Authority including the 
+results of such studies; 
+4.3.3.8 Ensure conduct of pharmacovigilance and submission of all pharmacovigilance-related 
+documents in accordance with the legal requirements; 
+4.3.3.9 Ensure the necessary quality, including the correctness and completeness, of pharmacovigilance 
+data submitted to the Authority; 
+4.3.3.10 Ensure a full and prompt response to any request from the Authority for the provision of 
+additional information necessary for the benefit-risk evaluation of medicines; 
+SAHPGL-CEM-PV-02_v2 
+Page 13 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+4.3.3.11 Provide any other information relevant to the benefit-risk evaluation of medicines to the 
+Authority; 
+4.3.3.12 Provide input into the preparation of regulatory action in response to emerging safety concerns 
+(e.g., variations, urgent safety restrictions notifications, and communication to patients and 
+healthcare professionals); 
+4.3.3.13 Be involved in the clearance of any contractual agreements.  
+4.3 
+Back-up procedures 
+4.4.1 Back-up procedures in the case of absence of the QPPV should be in place and should be made 
+available, together with the back-up person’s contact details via the QPPV. It is not mandatory for 
+the applicant/HCR to notify the Authority of the back-up QPPV. 
+4.4.2 The QPPV should ensure that the back-up person has all necessary information to fulfil the role.  
+4.4.3 The back-up person shall meet all the requirements of a QPPV. The back-up person shall receive 
+training in all aspects of pharmacovigilance appropriate for his/her roles as the back-up QPPV. 
+4.4.4 In addition to the above, the back-up QPPV must reside in South Africa and have knowledge on 
+applicable South African safety monitoring legislation and guidelines and international standards for 
+pharmacovigilance and demonstrate (e.g., through qualifications and training) that he/she has 
+knowledge of the key pharmacovigilance activities performed as part of the applicant/HCR’s 
+pharmacovigilance system and how to implement them. 
+5. 
+PHARMACOVIGILANCE SYSTEM MASTER FILE (PSMF) 
+5.1 
+Introduction 
+5.1.1 The pharmacovigilance system master file is a detailed description of the pharmacovigilance system 
+used by the applicant/HCR with respect to all  medicines of which the applicant is the HCR. The PSMF 
+is considered a key reference document for the company’s personnel, on all aspects of day-to-day 
+medicines’ safety operations. It is therefore an important tool for providing oversight of the 
+pharmacovigilance system and can be used by the QPPV to assist with medicines’ oversight. 
+5.1.2 The PSMF, the standard operating procedures and trainings and the operational guidelines 
+implementing the standard operating procedures, form a cornerstone of all pharmacovigilance 
+activities. Consequently, the PSMF plays a pivotal role and requires expert knowledge to meet all the 
+SAHPGL-CEM-PV-02_v2 
+Page 14 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+regulator’s requirements. Therefore, the PSMF requirement, is applicable to all applicants/HCRs, and 
+for all medicines, (old or registered) in South Africa.  
+5.1.3 The PSMF creation, maintenance in a current and accessible state (accessible for audit and inspection 
+purposes) and provision to the Authority can be outsourced to a third party, but the applicant/HCR 
+retains ultimate responsibility for compliance with the legal requirements. 
+5.1.4 PSMF should be company specific and should form part of the company’s Quality Management 
+System (QMS). 
+5.1.5 The PSMF is not part of the medicine registration dossier and is maintained independently from the 
+dossier. However, during the evaluation of a medicine registration application, the applicant may be 
+requested to provide a copy of the PSMF for review, based on the risk profile of a health product. 
+5.1.6 Applicants are required, at the time of initial medicine registration application, to have in place a 
+summary of the pharmacovigilance system that describes the system that will be in place and 
+functioning at the time of approving a medicine registration and placing of the product on the 
+market. The pharmacovigilance system in place at the current time should be described in a PSMF 
+summary. Information about elements of the system to be implemented in future may be included, 
+but these should be clearly described as planned rather than established or current. 
+5.1.7 Multinational HCRs with a local Affiliate/branch in South Africa, should have a PSMF that reflect the 
+pharmacovigilance system on global level and the local level with “South Africa Annex” containing 
+country specific content for the pharmacovigilance system on national level and global Annexes. 
+5.1.8 The PSMF summary should include: 
+a) Details (including CV, qualifications, pharmacovigilance training certification and course details 
+and contact details) of the QPPV; 
+b) a statement signed by the applicant to the effect that the applicant has the necessary means to 
+fulfil the pharmacovigilance tasks and responsibilities; 
+c) a reference to the location where the PSMF for the medicine(s) is kept. 
+5.1.9 It is accepted that, where no registration certificate (and master file) previously existed, there may 
+be information that cannot initially be provided, for example, compliance information. Descriptions 
+of what will be implemented should be provided instead 
+SAHPGL-CEM-PV-02_v2 
+Page 15 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+5.2 
+Objectives of a PSMF 
+5.2.1 The objectives of a PSMF are:  
+a) to describe the pharmacovigilance system and support/document its compliance with the 
+requirements; 
+b) to contribute to the appropriate planning and conduct of audits by the applicant or HCR(s), the 
+fulfilment of supervisory responsibilities of the QPPV, and of inspections or other verification of 
+compliance by Authority; 
+c) to provide\ an overview of the pharmacovigilance system, which may be requested and assessed 
+by Authority during medicines’ registration application or post-registration. 
+5.3 
+Contents of a PSMF 
+5.3.1 The contents of a PSMF should reflect the global availability of safety information for medicines 
+marketed in South Africa (presenting information on the pharmacovigilance system applied at global, 
+regional and local levels). The contents of a PSMF should include: 
+5.3.1.1 Cover page 
+5.3.1.2 Details of the QPPV; 
+5.3.1.3 Details of the organisational structure of the applicant/HCR; 
+5.3.1.4 Details of all the sources of the relevant safety data; 
+5.3.1.5 Details of all electronic (computerised) systems and databases; 
+5.3.1.6 Details of all pharmacovigilance processes; 
+5.3.1.7 Details of the performance of all drug safety systems; 
+5.3.1.8 Details of all quality systems related to pharmacovigilance. 
+5.3.1.9 Annex to the PSMF. 
+5.3.1.1 PSMF Cover Page  
+5.3.1.1.1 The PSMF cover page should include, where applicable, a list of other PSMFs held by 
+the same applicant/HCR. This list should include the PSMF number(s), and the name 
+SAHPGL-CEM-PV-02_v2 
+Page 16 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+of the applicant/HCR’s QPPV responsible for the pharmacovigilance system used. If the 
+pharmacovigilance system is managed by another party that is not an applicant/HCR, 
+the name of the service provider should also be included. 
+5.3.1.2 PSMF section on QPPV  
+5.3.1.2.1 The information relating to the QPPV provided in the PSMF should include:  
+i) 
+a description of the responsibilities guaranteeing that the qualified person has 
+sufficient authority over the pharmacovigilance system in order to promote, maintain 
+and improve compliance;  
+ii) 
+a summary curriculum vitae with the key information on the role of the qualified 
+person responsible for pharmacovigilance. The details provided in relation to the QPPV 
+should also include the description of the QPPV qualifications, experience and 
+registrations relevant to pharmacovigilance; 
+iii) contact details of the QPPV, which should include name, postal address, telephone, e-
+mail and represent the usual working address of the QPPV.  
+iv) details of back-up arrangements to apply in the absence of the QPPV  
+5.3.1.2.2 A list of tasks that have been delegated by the QPPV should also be included in the 
+Annexes. This should outline the activities that are delegated and to whom and include 
+the access to a medically qualified person if applicable. 
+5.3.1.3 PSMF section on the organisational structure of the applicant/HCR  
+5.3.1.3.1 A description of the organisational structure of the applicant/HCR relevant to the 
+pharmacovigilance system must be provided (diagrams may be particularly useful). 
+The description should provide a clear overview of the company(ies) involved, the 
+main pharmacovigilance departments and the relationship(s) between organisations 
+and operational units relevant to the fulfilment of pharmacovigilance obligations. This 
+should include third parties as well.  
+ 
+5.3.1.3.2 Specifically, the PSMF should describe:  
+i) 
+The organisational structure of the applicant/HCR(s), showing the position of the QPPV 
+SAHPGL-CEM-PV-02_v2 
+Page 17 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+in the organisation.  
+ii) 
+The site(s) where the pharmacovigilance functions are undertaken covering individual 
+case safety report collection, evaluation, safety database case entry, periodic safety 
+update report production, signal detection and analysis, risk management plan 
+management, pre- and post-authorisation study management, and management of 
+safety variations to product particulars.  
+iii) Delegated activities  
+iv) The PSMF, where applicable, should contain a description of the activities and/or 
+services subcontracted by the applicant/HCR relating to the fulfillment of 
+pharmacovigilance obligations. This includes arrangements with other parties in any 
+country, worldwide and if applicable, to the pharmacovigilance system applied to 
+products registered in South Africa.  
+v) 
+Links with other organisations, such as co-marketing agreements and contracting of 
+pharmacovigilance activities should be outlined. A description of the location and 
+nature of contracts and agreements relating to the fulfilment of pharmacovigilance 
+obligations should be provided. Individual contractual agreements should be made 
+available at the request of the Authority or during inspection and audit and the list 
+provided in the Annexes. 
+5.3.1.4 PSMF section on the sources of safety data 
+5.3.1.4.1 The description of the main units for safety data collection should include all parties 
+responsible (including on a global basis), for solicited and spontaneous case collection 
+for products registered in South Africa.  
+5.3.1.4.2 This should include medical information sites as well as affiliate offices and may take 
+the form of a list describing the country, nature of the activity and the product(s) (if 
+the activity is product specific) and providing a contact point (address, telephone and 
+e-mail) for the site. The list may be located in the Annexes of the PSMF. Information 
+about third parties (license partners or local distribution/marketing arrangements) 
+should also be included in the section describing contracts and agreements. 
+ 
+SAHPGL-CEM-PV-02_v2 
+Page 18 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+5.3.1.4.3 The description of the process for ICSRs, from collection to reporting to the Authority, 
+should indicate the departments and/or third parties involved.  
+5.3.1.4.4 For the purposes of inspection and audit of the pharmacovigilance system, sources 
+that include data arising from studies, registries, surveillance or support programmes 
+sponsored by the applicant/HCR through which ICSRs are identified, should be 
+reported.  Applicants/HCRs should be able to produce and make available a list of such 
+sources to support inspection, audit and QPPV oversight. The list should be 
+comprehensive for products registered in South Africa, irrespective of indication, 
+product presentation or route of administration.  
+5.3.1.5  
+ PSMF section on computerised systems and databases  
+5.3.1.5.1 The location, functionality and operational responsibility for computerised systems 
+and databases used to receive, collate, record and report safety information and an 
+assessment of their fitness for purpose should be described in the PSMF. 
+5.3.1.5.2 Where multiple computerised systems/databases are used, the applicability of these 
+to pharmacovigilance activities should be described in such a way that a clear overview 
+of the extent of computerisation within the pharmacovigilance system can be 
+understood.  
+5.3.1.5.3 The validation status of key aspects of computer system functionality should also be 
+described. The change control, nature of testing, back-up procedures and electronic 
+data repositories vital to pharmacovigilance compliance should be included in 
+summary, and the nature of the documentation available described.  
+5.3.1.5.4 For paper-based systems (where an electronic system may only be used for expedited 
+submission of ICSRs), the management of the data, and mechanisms used to assure 
+the integrity and accessibility of the safety data, and in particular the collation of 
+information about adverse drug reactions, should be described.  
+5.3.1.6 PSMF section on pharmacovigilance processes  
+5.3.1.6.1 An essential element of any pharmacovigilance system is that there are clear written 
+procedures in place. 
+5.3.1.6.2 A description of the procedural documentation available (standard operating 
+SAHPGL-CEM-PV-02_v2 
+Page 19 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+procedures, manuals), the nature of the data held (e.g., the type of case data retained 
+for ICSRs) and an indication of how records are held (e.g., safety database, paper file 
+at site of receipt) should be provided in the PSMF.  
+5.3.1.6.3 A description of the process, data handling and records for the performance of 
+pharmacovigilance activities, covering the following aspects should be included in the 
+PSMF:  
+i) 
+Continuous monitoring of product risk-benefit profile(s) applied and the result of 
+evaluation and the decision-making process for taking appropriate measures; this 
+should include signal generation, detection and evaluation. This may also include 
+several written procedures and instructions concerning safety database outputs, 
+interactions with clinical departments, etc;  
+ii) 
+Risk management system(s) and monitoring of the outcome of risk minimisation 
+measures; several departments may be involved in this area and interactions 
+should be defined in written procedures or agreements;  
+iii) ICSR collection, collation, follow-up, assessment and reporting; the procedures 
+applied to this area should clarify what are local and what are global activities;  
+iv) PSUR scheduling, production and submission, if applicable;  
+v) 
+Communication of safety concerns to consumers, healthcare professionals and 
+the Authorities;  
+vi) Implementation of safety variations to the Professional Information and Patient 
+Information Leaflets; procedures should cover both internal and external 
+communications. 
+5.3.1.6.4 For each process, the applicant/HCR should be able to provide evidence of a system 
+that supports appropriate and timely decision making and action.  
+5.3.1.6.5 Description of interfaces with other functions should be in place. These include but are 
+not limited to the roles and responsibilities of the QPPV, responding to the Authority’s 
+requests for information, literature searching, safety database change control, safety 
+data exchange agreements, safety data archiving, pharmacovigilance auditing, quality 
+SAHPGL-CEM-PV-02_v2 
+Page 20 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+control and training.  
+5.3.1.6.6 There should be a list (which may be in the Annexes) that comprise the procedural 
+document reference number, title, effective date and document type (for all standard 
+operating procedures, work instructions, manuals etc.).  
+5.3.1.6.7 Procedures belonging to service providers and other third parties should be clearly 
+identified. 
+5.3.1.7 PSMF section on pharmacovigilance system performance 
+5.3.1.7.1 The PSMF should contain evidence of the ongoing monitoring of performance of the 
+pharmacovigilance system including compliance of the main outputs of 
+pharmacovigilance. The PSMF should include a description of the monitoring methods 
+applied and contain as a minimum:  
+i) 
+An explanation of how the correct reporting of ICSRs is assessed. In the annex, 
+figures/graphs should be provided to show the timeliness of reporting over the 
+past year;  
+ii) 
+A description of any metrics used to monitor the quality of submissions and 
+performance of pharmacovigilance. This should include information provided by 
+the Authority regarding the quality of ICSR reporting, PSURs or other submissions;  
+iii) An overview of the timeliness of PSUR reporting to the Authority;  
+iv) An overview of the methods used to ensure timeliness of safety variation 
+submissions compared to internal and Authority deadlines, including the tracking 
+of required safety variations that have been identified but not yet submitted;  
+v) 
+Where applicable, an overview of adherence to risk management plan 
+commitments, or other obligations or conditions of registration relevant to 
+pharmacovigilance.  
+5.3.1.7.2 Targets for the performance of the pharmacovigilance system should be described and 
+explained. A list of performance indicators must be provided in the Annex to the PSMF, 
+alongside the results of (actual) performance measurements.  
+5.3.1.8 PSMF section on quality system 
+5.3.1.8.1 A description of the quality management system should be provided, in terms of the 
+structure of the organisation and the application of quality to pharmacovigilance. 
+5.3.1.8.2 This should include:  
+SAHPGL-CEM-PV-02_v2 
+Page 21 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+i) Document and Record Control  
+a) A description of the archiving arrangements for electronic and/or hardcopy versions 
+of the PSMF should be provided, as well as an overview of the procedures applied to 
+other quality system and pharmacovigilance records and documents. 
+ii) Procedural documents  
+a) A general description of the types of documents used in pharmacovigilance 
+(standards, operating procedures, work instructions etc.), the applicability of the 
+various documents at global, regional or local level within the organisation, and the 
+controls that are applied to their accessibility, implementation and maintenance.  
+b) Information about the documentation systems applied to relevant procedural 
+documents under the control of third parties. A list of specific procedures and 
+processes related to the pharmacovigilance activities and interfaces with other 
+functions, with details of how the procedures can be accessed must be provided. 
+iii) Training  
+a) A description of the resource management for the performance of 
+pharmacovigilance activities:  the organisational chart showing the number of 
+people (full time equivalents) involved in pharmacovigilance activities (may be 
+provided in the section describing the organisational structure); 
+b) A description of the training provided by the organisation in relation to the personnel 
+and site information should be provided;  
+c) A summary description of the training concept, including a reference to the location 
+training files. Staff should be appropriately trained for performing pharmacovigilance 
+related activities and this includes not only staff within pharmacovigilance 
+departments but also any individual that may receive safety reports.  
+iv) Auditing  
+a) Information about quality assurance auditing of the pharmacovigilance system 
+should be included in the PSMF.  
+SAHPGL-CEM-PV-02_v2 
+Page 22 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+b) A description of the approach used to plan audits of the pharmacovigilance system 
+and the reporting mechanism and timelines should be provided, with a current list 
+of the scheduled and completed audits concerning the pharmacovigilance system 
+maintained in an annex. This list should describe the date(s) (of conduct and of 
+report), scope and completion status of audits of service providers, specific 
+pharmacovigilance activities or sites undertaking pharmacovigilance and their 
+operational interfaces relevant to the fulfilment of the obligations and cover a rolling 
+5-year period.  
+c) The PSMF should also contain a note associated with any audit where significant 
+findings are raised. This means that the presence of findings whether major or critical 
+findings must be indicated.  
+d) The audit report must be documented within the quality system; in the PSMF it is 
+sufficient to provide a brief description of the corrective and/or preventative 
+action(s) associated with the significant finding, the date it was identified and the 
+anticipated resolution date(s), with cross reference to the audit report and the 
+documented corrective and preventative action plan(s).  
+e) In cases where corrective and preventative action plan(s) have not yet been agreed 
+for a particular audit or finding, the PSMF should include the note required and 
+stating that “corrective and preventative action plan(s) are to be agreed”.  
+f) In the annex, on the list of audits conducted, those associated with unresolved notes 
+in the PSMF, should be identified. The note and associated corrective and 
+preventative action(s), should be documented in the PSMF until the corrective 
+and/or preventative action(s) have been fully implemented, that is, the note is only 
+removed once corrective action and/or sufficient improvement can be demonstrated 
+or has been independently verified.  
+g) The addition, amendment or removal of the notes should therefore be recorded in 
+the logbook.  
+h) As a means of managing the pharmacovigilance system, and providing a basis for 
+audit or inspection, the PSMF should also describe the process for recording, 
+managing and resolving deviations from the quality system. The master file should 
+SAHPGL-CEM-PV-02_v2 
+Page 23 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+also document deviations from pharmacovigilance procedures, their impact and 
+management until resolved. This may be documented in the form of a list referencing 
+a deviation report, and its date and procedure concerned.  
+5.3.1.9 Annex to the PSMF  
+5.3.1.9.1 An annex to the PSMF shall contain the following documents which shall be presented 
+with the following headings and, if hardcopy, in the order outlined below:  
+NB: Where there is no content for an Annex, it should simply be described as ‘unused’ 
+in the indexing so the recipients of the PSMF are assured that missing content is 
+intended. In these cases, the Annexes that are provided should still be named 
+according to the format described below without reordering. 
+a) 
+Annex A - The QPPV  
+• 
+The list of tasks that have been delegated by the QPPV, or the applicable 
+procedural document. 
+• 
+The curriculum vitae of the QPPV and associated documents. 
+• 
+Contact details supplementary to those contained, if appropriate. 
+b) 
+Annex B - The Organisational Structure of the applicant/HCR  
+• 
+The lists of contracts and agreements covering delegated activities including the 
+medicines and territory(ies) concerned. 
+c) 
+Annex C - Sources of safety data  
+• 
+Lists associated with the description of sources of safety data e.g., affiliates and 
+third-party contacts. 
+d) 
+Annex D - Computerised systems and Databases  
+e) 
+Annex E - Pharmacovigilance Process, and written procedures 
+• 
+Lists of procedural documents. 
+f) 
+Annex F - Pharmacovigilance System Performance 
+SAHPGL-CEM-PV-02_v2 
+Page 24 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+• 
+Lists of performance indicators. 
+• 
+Current results of performance assessment in relation to the indicators. 
+g) 
+Annex G - Quality System 
+• 
+ Audit schedules. 
+• 
+ List of audits conducted and completed for a period of five years. 
+h) 
+Annex H - Products 
+• 
+List(s) of products covered by the pharmacovigilance system including the name 
+of the medicine, the international non-proprietary name of the active 
+substance(s); the registration number(s); the type of conditions of registration. 
+• 
+Any notes concerning the applicant/HCR per product  
+• 
+The following should be considered for these lists: 
+i) The list should be organised per active substance and, where applicable, should 
+indicate the type of product specific safety monitoring requirements exist (for 
+example, risk minimisation measures contained in the risk management plan or 
+laid down as conditions of registration, or/and a PSUR periodicity). The 
+monitoring information may be provided as a secondary list. 
+ii) For registration certificates that are included in a different pharmacovigilance 
+system (for example, because the applicant/HCR has more than one 
+pharmacovigilance system or third-party agreements exist to delegate the 
+system), reference to the additional PSMF(s) should also be provided as a 
+separate list in the Annexes, such that, for an applicant/HCR, the entire product 
+portfolio can be related to the set of PSMFs. 
+i) Annex I - Document and Record Control 
+• 
+Logbook 
+• 
+Documentation of history of changes for Annex contents, indexed according to the 
+Annexes A-H and their content if not provided within the relevant annex itself. 
+SAHPGL-CEM-PV-02_v2 
+Page 25 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+• 
+Documented changes should include at least the date, person responsible for the 
+change and the nature of the change. 
+5.4 
+PSMF presentation, format and layout 
+5.4.1 The PSMF should include documents that describe the pharmacovigilance system. 
+5.4.2 The PSMF should be written in English, indexed in a consistent manner, and allow easy navigation to 
+the contents.  
+5.4.3 The information should be succinct, accurate and reflect the current system in place, which means 
+that whatever format is used, it must be possible to keep the information up-to-date and, when 
+necessary, to revise, taking into account experience gained, technical and scientific progress and 
+amendments to the legislative requirements.  
+5.4.4 The PSMF should be legible, complete, provided in a manner that ensures all documentation is 
+accessible and allow full traceability of changes. Therefore, it may be appropriate to restrict access 
+to the PSMF in order to ensure appropriate control over the content and to assign specific 
+responsibilities for the management of PSMF in terms of change control and archiving. 
+5.4.5 The primary topic sections should contain information that is fundamental to the description of the 
+pharmacovigilance system. Detailed information is required to fully describe the system, and, since 
+this may change frequently, it should be referred to and contained in the Annexes.  
+5.4.6 The PSMF should reference existing SOPs in the applicant/HCR’s QMS, such as change control and 
+computer system validation etc. 
+5.4.7 Embedded documents are discouraged.  
+5.4.8 The use of electronic book-marking and searchable text is recommended. Documents such as copies 
+of signed statements or agreements should be included as appendices and described in the index. 
+5.4.9 The PSMF may be in electronic form on condition that a clearly arranged printed copy can be made 
+available to the Authority if requested.  
+5.5 
+Accessibility and submission of the PSMF 
+5.5.1 The PSMF shall be located either at the site where the main pharmacovigilance activities are 
+performed or at the site where the QPPV operates, irrespective of the format (paper-based 
+or electronic format file). Based on this, the PSMF shall be located in South Africa. An 
+SAHPGL-CEM-PV-02_v2 
+Page 26 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+exception is where the main activities take place outside South Africa (e.g., multinational 
+HCRs/applicants); the location should then default to the site where the QPPV operates or 
+where the main pharmacovigilance activities are performed provided that: 
+a) the PSMF is made available to the Authority at any time; and 
+b) the local office/ affiliate of the HCR/applicant has detailed description on the 
+pharmacovigilance system/ activities on the local level. 
+5.5.2 The PSMF should be kept up to date and be continuously available and accessible to the 
+QPPV and for inspection, irrespective of whether the inspection has been notified in advance 
+or is unannounced. 
+5.5.3 The PSMF is not routinely required by the Authority during the evaluation/assessment of 
+new registration certificate applications (i.e., pre-registration), but may be requested on an 
+ad hoc basis, particularly if: 
+a) a new pharmacovigilance system is being implemented; 
+b) product-specific safety concerns have been identified; 
+c) issues with compliance with pharmacovigilance requirements have been identified. 
+5.5.4 Although provision of the document within 14 calendar days of request by the Authority is 
+required, the applicants/HCRs should be aware that immediate access to the PSMF may also 
+be required by the Authority.  
+5.5.5 The applicant/HCR should submit the PSMF electronically to the Authority, within 14 
+calendar days after receipt of the request from the Authority.  
+5.5.6 The PSMF should be submitted in a readable electronic format.  
+5.5.7 In the situation where a common pharmacovigilance system is used by applicants/HCRs, each 
+applicant/HCR should have their own PSMF. The PSMF should be accessible and be made 
+available to the Authority within 14 calendar days upon request. 
+5.5.8 Consideration for the Multinational Pharmaceutical Companies 
+a) 
+When the company is to submit a PSMF; both the EU/global PSMF of the Multinational 
+SAHPGL-CEM-PV-02_v2 
+Page 27 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+HCR and the PSMF local annex should be submitted to the Authority.  
+This local annex should include the following: 
+i) 
+The contact details, qualification, CV and job description of the QPPV  
+ii) 
+The lists of contracts and agreements relevant to pharmacovigilance on national 
+level. 
+iii) List of Pharmacovigilance- relevant SOPs used on national level. 
+iv) List of Pharmacovigilance performance indicators and their current results on 
+national level over the past year. 
+v) 
+List of pharmacovigilance audits and their findings for company office on national 
+level over the past 5 years. 
+vi) List(s) of products registered/ under registration in South Africa covered by the 
+pharmacovigilance system, indicating which of them have additional risk 
+minimisation measures and/ or additional pharmacovigilance activities. 
+b) Multinational HCRs who have no operating office/branch in South Africa but are 
+represented (in South Africa) through their agent/ importer/ distributer should have and 
+maintain a PSMF (according to the PSMF content highlighted in this guideline) providing 
+description of its local pharmacovigilance system in integration with the HCR 
+pharmacovigilance system and according to the Safety Data Exchange Agreement (SDEA) 
+in place between both parties. the PSMF should be accessible to the Authority as 
+stipulated in this guideline. 
+6. 
+PHARMACOVIGILANCE QUALITY SYSTEM 
+6.1 
+Introduction  
+6.1.1 The quality of a pharmacovigilance system can be defined as all the characteristics of the system that 
+are considered to produce outcomes relevant to the objectives of pharmacovigilance.  In general 
+terms, quality is a matter of degree and can be measured. Measuring if the required degree of quality 
+has been achieved necessitates pre-defined quality requirements. Quality requirements are those 
+characteristics of a system that are likely to produce the desired outcome, or quality objectives.  
+SAHPGL-CEM-PV-02_v2 
+Page 28 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+ 
+6.1.2 A quality system is part of the pharmacovigilance system and consists of its own structures and 
+processes. It covers organisational structure, responsibilities, procedures, processes and resources 
+of the pharmacovigilance system as well as appropriate resource management, compliance 
+management and record management. 
+ 
+6.1.3 The overall quality objectives of a pharmacovigilance system are:  
+a) To minimise/mitigate/reduce harm from adverse reactions in humans arising from the use of 
+registered medicines within or outside the terms of registration or from occupational exposure.  
+b) To promote the safe and effective use of medicines, through providing timely information about 
+the safety of medicines to patients, healthcare professionals and the public.  
+c) To implement measures for continuously supervising the quality, safety and efficacy of registered 
+medicines to ensure that their benefits outweigh their risks.  
+d) To provide independent, science-based recommendations on the quality, safety and efficacy of 
+medicines, and on more general issues relevant to the promotion and protection of public health 
+that involve medicines.  
+e) To publish impartial and comprehensive information about medicines and their use. 
+f) To comply with the legal requirements for pharmacovigilance tasks and responsibilities.  
+g) To contribute to the protection of patients and public health. 
+6.1.4 The pharmacovigilance quality system should be based on all of the following activities:   
+a) Quality planning - establishing structures and planning integrated and consistent 
+processes; 
+b) Quality adherence - carrying out tasks and responsibilities in accordance with quality 
+requirements;  
+c) Quality control and assurance - monitoring and evaluating how effectively the structures 
+SAHPGL-CEM-PV-02_v2 
+Page 29 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+and processes have been established and how effectively the processes are being carried 
+out; and   
+d) Quality improvements - correcting and improving the structures and processes where 
+necessary. 
+6.1.5 Applicants /HCRs should establish and maintain a quality assured pharmacovigilance system for its 
+products. 
+6.1.6 Pharmacovigilance quality system is used by applicants/HCRs to fulfil the tasks and responsibilities of 
+monitoring the safety of registered products and detection of any change to their risk-benefit 
+balance.  
+6.2 
+Requirements for compliance management by applicant/HCR in relation to 
+pharmacovigilance quality system 
+6.2.1 The pharmacovigilance quality system should have procedures and processes in place to ensure: 
+a) Continuous monitoring of pharmacovigilance data, the examination of options for risk 
+minimisation and prevention and appropriate measures are taken by an applicant/HCR. 
+b) Scientific evaluation of all information on the risks of health products as regards patients’ 
+or public health, in particular as regards adverse reactions in human beings arising from 
+use of the product within or outside the terms of its registration terms or associated with 
+occupational exposure. 
+c) Submission of accurate and verifiable data on serious and non-serious adverse reactions 
+to the Authority within the legally required timelines as stipulated in the ‘SAHPGL-CEM-
+PV-04_Post-Marketing reporting of ADR to Human Medicines in South Africa’ guidelines. 
+d) Quality, integrity and completeness of the information submitted on the risks of 
+medicines, including processes to avoid duplicate submissions and to validate signals; 
+e) Effective communication by an applicant/HCR with the Authority, including 
+communication on new or changed risks, the PSMF, risk management systems, risk 
+minimisation measures, periodic safety update reports, corrective and preventive 
+actions and post-authorisation safety studies; 
+f) Update of product information by an applicant/HCR in light of scientific knowledge; 
+SAHPGL-CEM-PV-02_v2 
+Page 30 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+g) Appropriate communication of relevant safety information to healthcare professionals 
+and patients; 
+h) The retention of minimum elements of the PSMF as long as the system described in the 
+PSMF exists and for at least further 5 years after it has been formally terminated by an 
+applicant/HCR; 
+i) 
+The retention of pharmacovigilance data and documents relating to individual registered 
+health products as long as the registration certificate exists and for at least further 10 
+years after the registration certificate has ceased to exist;  
+6.3 
+Responsibilities for the quality system within an organisation  
+6.3.1 A sufficient number of competent and appropriately qualified and trained personnel should be 
+available for the performance of pharmacovigilance activities. For the purpose of a systematic 
+approach towards quality, the managerial staff of an applicant/HCR should be responsible for:  
+a) ensuring that the organisation documents the quality system;  
+b) ensuring that the documents describing the quality system are subject to document 
+control in relation to their creation, revision, approval and implementation;  
+c) ensuring that adequate resources are available and that training is provided;  
+d) ensuring that suitable and sufficient premises, facilities and equipment are available;  
+e) ensuring adequate compliance management;  
+f) ensuring adequate record management;  
+g) reviewing the pharmacovigilance system including its quality system at regular intervals 
+in risk-based manner to verify its effectiveness and introducing corrective and preventive 
+measures where necessary;  
+h) ensuring that mechanisms exist for timely and effective communication, including 
+escalation processes of safety concerns relating to health products within an 
+organisation;  
+i) 
+identifying and investigating concerns arising within an organisation regarding suspected 
+SAHPGL-CEM-PV-02_v2 
+Page 31 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+non-adherence to the requirements of the quality and pharmacovigilance systems and 
+taking corrective, preventive and escalation action as necessary; and ensuring that audits 
+are performed. 
+6.4 
+Training of personnel for Pharmacovigilance  
+6.4.1 Achieving the required quality for the conduct of pharmacovigilance processes and their outcomes 
+by applicant/HCR is intrinsically linked to the availability of a sufficient number of competent and 
+appropriately qualified and trained personnel. All personnel involved in the performance of 
+pharmacovigilance activities should receive continued training related to the roles and 
+responsibilities of the personnel. 
+ 
+6.4.2 The training plans and records for documenting, maintaining and developing the competencies of 
+personnel should be kept. Training plans should be based on training needs assessment and should 
+be subject to monitoring.  
+6.4.3 The training should support continuous improvement of relevant skills, the application of scientific 
+progress and professional development and ensure that staff members have the appropriate 
+qualifications, understanding of relevant pharmacovigilance requirements as well as experience for 
+the assigned tasks and responsibilities. All staff members of the applicant/HCR should receive and be 
+able to seek information about what to do if they become aware of a safety concern.  There should 
+be a process in place within the applicant/HCR to check that training results in the appropriate levels 
+of understanding and conduct of pharmacovigilance activities for the assigned tasks and 
+responsibilities, or to identify unmet training needs, in line with professional development plans 
+agreed for the applicant/HCR as well as the individual staff members.  
+6.4.4 Adequate training should also be considered by the applicant/HCR for those staff members to whom 
+no specific pharmacovigilance tasks and responsibilities have been assigned but whose activities may 
+have an impact on the pharmacovigilance system or the conduct of pharmacovigilance. Such 
+activities include but are not limited to those related to clinical trials, technical product complaints, 
+medical information, terminologies, sales and marketing, regulatory affairs, quality assurance, legal 
+affairs and audits. Appropriate instructions on the processes to be used in case of urgency, including 
+business continuity, should be provided by the applicant/HCR to their personnel. 
+SAHPGL-CEM-PV-02_v2 
+Page 32 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+6.5 
+Management and Reporting of Safety data 
+6.5.1 Applicants/HCRs should implement a procedure to ensure that the QPPV is able to obtain information 
+from the adverse reaction database (or other systems to collate adverse reaction reports), to respond 
+to urgent requests for information from the Authority, at any time. 
+6.5.2 If this procedure requires the involvement of other personnel, for example database specialists, then 
+this should be taken into account in the arrangements made by applicants/HCRs for supporting the 
+QPPV (including outside of normal working hours). 
+6.5.3 Specifically for the adverse reaction database, if applicable, the QPPV should be aware of the 
+validation status of the database, including any failures that occurred during validation and the 
+corrective actions that have been taken to address the failures. The QPPV should also be informed of 
+significant changes that are made to the database (e.g., changes that could have an impact on 
+pharmacovigilance activities). 
+6.6 
+Record management system 
+6.6.1 A record management system should be put in place for all documents used for pharmacovigilance 
+activities, ensuring their retrievability as well as traceability of the measures taken to investigate 
+safety concerns, of the timelines for those investigations and of decisions on safety concerns, 
+including their date and the decision-making process. 
+6.6.2 The record management system should support: 
+a) the management of the quality of pharmacovigilance data, including their completeness, 
+accuracy and integrity. 
+b) timely access to all records; 
+c) effective internal and external communication; and 
+d) the retention of documents relating to the pharmacovigilance systems and the conduct of 
+pharmacovigilance for individual health products, in accordance with the applicable retention 
+periods. 
+6.6.3 In addition, applicants/HCRs should establish mechanisms enabling the traceability and follow-up of 
+adverse reaction reports. 
+SAHPGL-CEM-PV-02_v2 
+Page 33 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+6.6.4 In this context, it should be ensured that the fundamental right to personal data protection is fully 
+and effectively guaranteed in all pharmacovigilance activities in conformity with legal provisions 
+applicable. The purpose of safeguarding public health constitutes a substantial public interest and 
+consequently the processing of personal data should be justified if identifiable personal data are 
+processed only where necessary and only where the parties involved assess this necessity at every 
+stage of the pharmacovigilance process.  
+6.6.5 As part of a record management system, specific measures should therefore, be taken at each stage 
+in the storage and processing of pharmacovigilance data to ensure data security and confidentiality. 
+This should involve strict limitation of access to documents and to databases to authorised personnel 
+respecting the medical and administrative confidentiality of the data. 
+6.6.6 There should be appropriate structures and processes in place to ensure that pharmacovigilance data 
+and records are protected from destruction during the applicable record retention period. 
+6.6.7 The record management system should be described in a record management policy. 
+6.7 
+Documentation of the pharmacovigilance quality system  
+6.7.1 All elements, requirements and provisions adopted for the PV quality system should be documented 
+in a systematic and orderly manner in the form of written policies and procedures, such as PV quality 
+plans, quality manuals and quality records.  
+a) A PV quality plan documents the setting of quality objectives and sets out the processes to be 
+implemented to achieve them. A procedure is a specified way to carry out a process and may 
+take the format of a standard operating procedure and other work instruction or PV quality 
+manual.  
+b) A PV quality manual documents the scope of the PV quality system, the processes of the PV 
+quality system and the interaction between the two.  
+c) A PV quality record is a document stating results achieved or providing evidence of activities 
+performed.  
+6.7.2 In order to have a systematic approach, applicants/HCRs should define the following in advance:   
+SAHPGL-CEM-PV-02_v2 
+Page 34 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+a) PV Quality objectives specific to their organisations in accordance with the overall quality 
+objective and the structure- and process-specific quality objectives in accordance with each 
+chapter of good pharmacovigilance practice; and  
+b) Methods for monitoring the effectiveness of the pharmacovigilance system.  
+6.7.3 It is recommended that the documentation of a pharmacovigilance quality system includes:   
+a) Documents on organisational structures and assignments of tasks to all personnel and authorities 
+directly involved in pharmacovigilance tasks; 
+b) Training plans and records; Training plans and records should be kept and made available for 
+audit and inspection; 
+c) Instructions for the compliance management processes;   
+d) Appropriate instructions on the processes to be used in case of urgency, including business 
+continuity; 
+e) Performance indicators where they are used to continuously monitor the good performance of 
+pharmacovigilance activities;   
+f) Reports of quality audits and follow-up audits, including their dates and results.  
+g) The methods of monitoring the efficient operation of the quality system and, in particular, its 
+ability to fulfil the quality objectives;  
+h) A record management policy;  
+i) 
+Records created as a result of pharmacovigilance processes which demonstrate that key steps 
+for the defined procedures have been taken;   
+j) 
+Records and reports relating to the facilities and equipment including functionality checks, 
+qualification and validation activities which demonstrate that all steps required by the applicable 
+requirements, protocols and procedures have been taken;   
+k) Records to demonstrate that deficiencies and deviations from the established quality system are 
+monitored, that corrective and preventive actions have been taken, that solutions have been 
+SAHPGL-CEM-PV-02_v2 
+Page 35 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+applied to deviations or deficiencies and that the effectiveness of the actions taken has been 
+verified. 
+6.8 
+Additional pharmacovigilance quality system documentation by applicants/HCRs  
+6.8.1 In addition to the PV quality system documentation, an applicant/HCR should document:  
+a) their human resource management in the PSMF;  
+b) job descriptions defining the duties of the managerial and supervisory staff; 
+c) an organisational chart defining the hierarchical relationships of managerial and supervisory 
+staff;  
+d) instructions on critical processes in the PSMF; and  
+e) their record management system in the PSMF. 
+6.8.2 Pharmacovigilance Quality management system requirements should be documented in the PSMF. 
+6.9 
+Facilities and equipment for Pharmacovigilance  
+6.9.1 Achieving the required quality for the conduct of pharmacovigilance processes and their outcomes 
+is intrinsically linked with appropriate infrastructure to support the processes. 
+6.9.2 Infrastructure includes office space, information technology (IT) systems and storage space 
+(electronic). Infrastructure should be located, designed, constructed, adapted and maintained to suit 
+their intended purpose in line with the quality objectives for pharmacovigilance and should be 
+sustainable. 
+6.9.3 Infrastructures that are critical for the conduct of pharmacovigilance should be subject to 
+appropriate checks, qualification and/or validation activities to prove their suitability for the intended 
+purpose. There should be processes in place to keep awareness of the valid terminologies in their 
+valid versions and to keep the IT systems up-to-date accordingly. 
+7. 
+BUSINESS CONTINUITY PLANS  
+7.1 
+Business continuity plans should be established in a risk-based manner and should include:  
+a) provisions for events that could severely impact on the organisation’s staff and infrastructure in 
+general or on the structures and processes for pharmacovigilance in particular; and  
+SAHPGL-CEM-PV-02_v2 
+Page 36 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+b) back-up systems for urgent exchange of information within an organisation, amongst 
+organisations sharing pharmacovigilance tasks as well as between applicants/HCRs and 
+Authorities. 
+8. 
+MONITORING OF THE PERFORMANCE AND EFFECTIVENESS OF THE 
+PHARMACOVIGILANCE SYSTEM AND ITS QUALITY SYSTEM  
+7.2 
+Processes to monitor the pharmacovigilance performance should include:  
+a) reviews at regular intervals of the systems by those responsible for management;  
+b) audits;  
+c) compliance monitoring using performance indicators;  
+d) inspections;  
+e) evaluating the effectiveness of actions taken with medicines for the purpose of minimising risks 
+and supporting their safe and effective use in patients.  
+9. 
+SUBCONTRACTING OF THE PHARMACOVIGILANCE TASKS 
+9.1 
+Applicants/HCRs may subcontract certain activities of the pharmacovigilance system to third-party 
+organisations with appropriate oversight and interface, excluding the role of the QPPV. The 
+applicant/HCR shall nevertheless retain full responsibility for: 
+a) the completeness and accuracy of the PSMF.  
+b) the fulfilment of all pharmacovigilance tasks and responsibilities and the quality and integrity of 
+the pharmacovigilance system.  
+c) ensuring that an effective quality system is applied in relation to the subcontracted tasks.  
+9.2 
+The subcontracted organisation may be subject to inspection at the discretion of the Authority. 
+9.3 
+When subcontracting tasks to another organisation, the applicant/HCR shall draw up subcontracts 
+with the aim of enabling compliance with the legal requirements by each party involved.  A 
+description of the subcontracted activities and/or services shall be included in the PSMF and a list of 
+the subcontracts shall be included in an annex to the PSMF, specifying the product(s) and 
+territory(ies) concerned. These contracts should: 
+SAHPGL-CEM-PV-02_v2 
+Page 37 of 37
+Pharmacovigilance Systems guideline 
+31 May 2023 
+ 
+ 
+a) be up-to-date, include sufficiently detailed descriptions of the delegated tasks, the 
+responsibilities of each party, the related interactions and data exchange, together with, for 
+example, agreed definitions, tools, assignments, timelines and regulatory reporting 
+responsibilities.  
+b) contain clear information on the practical management of pharmacovigilance as well as related 
+processes, including those for the maintenance of pharmacovigilance databases.  
+c) indicate which processes are in place for checking whether the agreed arrangements are being 
+adhered to on an ongoing basis. In this respect, regular risk-based audits of the other 
+organisation by the applicant/ HCR. 
+10. REFERENCES 
+10.1 The following related documents are referenced: European Medicines Agency: EMA/816573/2011 
+Rev 2 - Guideline on good pharmacovigilance practices (GVP) - Module II – Pharmacovigilance system 
+master file (Rev 2) 2017, https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-
+good-pharmacovigilance-practices-module-ii-pharmacovigilance-system-master-file-rev-2_en.pdf, 
+September 2021. 
+10.2 European Medicines Agency: EMA/541760/2011- Guideline on good pharmacovigilance practices 
+(GVP) 
+Module 
+I 
+– 
+Pharmacovigilance 
+systems 
+and 
+their 
+quality 
+systems 
+2012, 
+https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-good-
+pharmacovigilance-practices-module-i-pharmacovigilance-systems-their-quality-systems_en.pdf, 
+September 2021. 
+10.3 TFDA, (2018). National Guidelines for Monitoring Medicines Safety, 2018, Tanzania Food and Drugs 
+Authority, Dar-es-Salaam, Tanzania., Third edition. Doc (tmda.go.tz), September 2021. 
+11. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision. It will be reviewed on this 
+timeframe or as and when required. 
+

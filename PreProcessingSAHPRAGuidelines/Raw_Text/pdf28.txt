@@ -1,0 +1,327 @@
+SAHPGL-CEM-CT-02_V3 
+Page 1 of 7
+GUIDELINE FOR PHASE 2-4 CLINICAL TRIAL PARTICIPANT TIE COMPENSATION MODEL 
+23 March 2026 
+23 March 2026 
+GUIDELINE FOR PHASE 2-4 CLINICAL TRIAL PARTICIPANT TIME, INCONVENIENCE 
+AND EXPENSE (TIE) COMPENSATION MODEL 
+This document has been prepared to serve as guidance to applicants/sponsors of clinical trials during the use of registered or 
+unregistered medicines in approved clinical trials. It represents the South African Health Products Regulatory Authority’s (SAHPRA) 
+current thinking on participant reimbursement during clinical trial participation and proposes a minimum compensation that can be 
+paid. It is not intended as an exclusive approach and SAHPRA reserves the right to request any additional information and may make 
+amendments in keeping with the knowledge that is current at the time. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+First version published for implementation 
+June 2018 
+2 
+− 
+Section 2, reimbursement amount (inflation consideration) 
+− 
+Old document number 2.51 changed to SAHPGL-CEM-CT-02 
+July 2022 
+3 
+ Added information to Section 2: 
+1.
+Inflationary adjustments to recommended amounts
+Participant remuneration amounts have been updated to reflect inflationary increases since 
+the initial budget approval. The revised rates are intended to maintain equivalent real value 
+for participants’ time, travel, and inconvenience. 
+2.
+Clarifications on existing remuneration components
+To ensure consistency across sites and clarity for both participants and site staff, the 
+following points have been clarified: 
+− 
+Remuneration applies to all completed visits and activities 
+− 
+Remuneration for participants who screen fail 
+− 
+Payments will be made via EFT, voucher, or cash, and for this reason, amounts will be 
+rounded up to facilitate this payment 
+3.
+Additional Remunerated Activities
+Following recent changes in study conduct, several new participant activities now qualify 
+for remuneration. These include: 
+− 
+Reimbursement for telephonic visits 
+− 
+Remuneration for unscheduled visits 
+− 
+Participation in any remote data collection activities (for example, paper/digital diary 
+completion or device-based monitoring) 
+01 June 2026 
+DR BOITUMELO SEMETE-MAKOKOTLELA 
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-CEM-CT-02_V3 
+Page 2 of 7
+GUIDELINE FOR PHASE 2-4 CLINICAL TRIAL PARTICIPANT TIE COMPENSATION MODEL 
+23 March 2026 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1.
+BACKGROUND ........................................................................................................................................... 4 
+2.
+PURPOSE AND SCOPE ................................................................................................................................ 4 
+3.
+LEGAL PROVISION ...................................................................................................................................... 4 
+4.
+MODEL FOR COMPENSATION FOR CLINICAL STUDY-RELATED VISITS ...................................................... 4 
+4.1 Time spent ................................................................................................................................................. 4 
+4.2 Inconvenience (considered in the light of travel/distance from home to a site) ...................................... 4 
+4.3 Expenses .................................................................................................................................................... 5 
+4.4 Additional Inconvenience .......................................................................................................................... 5 
+4.5 Scheduled telephonic visits ....................................................................................................................... 6 
+4.6 Home-based/virtual consultation visits..................................................................................................... 6 
+4.7 Unscheduled visits ..................................................................................................................................... 6 
+4.8 Screen Failures ........................................................................................................................................... 6 
+4.9 Parent/ Legal guardian/ caregiver ............................................................................................................. 6 
+4.10 In-patients.................................................................................................................................................. 6 
+4.11 Patient diary completion ........................................................................................................................... 7 
+4.12 Electronic Clinical Outcome Assessment (eCOA), including the use of tablets, smartphones, wearables, 
+and other such devices ...................................................................................................................................... 7 
+5.
+REFERENCES ............................................................................................................................................... 7 
+6.
+VALIDITY .................................................................................................................................................... 7 
+SAHPGL-CEM-CT-02_V3 
+Page 3 of 7
+GUIDELINE FOR PHASE 2-4 CLINICAL TRIAL PARTICIPANT TIE COMPENSATION MODEL 
+23 March 2026 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+AA 
+Automobile Association of South Africa 
+CIOMS 
+Council for International Organizations of Medical Sciences 
+eCOA 
+Electronic Clinical Outcome Assessment 
+NHREC 
+National Health Research Ethics Council 
+REC 
+Research Ethics Committees 
+SAHPRA 
+South African Health Products Regulatory Authority 
+TIE 
+Time, Inconvenience, and Expenses 
+UNAIDS 
+United Nations Programme on HIV/AIDS 
+SAHPGL-CEM-CT-02_V3 
+Page 4 of 7
+GUIDELINE FOR PHASE 2-4 CLINICAL TRIAL PARTICIPANT TIE COMPENSATION MODEL 
+23 March 2026 
+1.
+BACKGROUND
+As per the published National Health Research Ethics Council (NHREC) guidelines (2024) titled “South African 
+Ethics in Health Research Guidelines: Principles, Processes and Structures,” Section 3.1.8 states that trial 
+participants should be compensated appropriately for their time (T), inconvenience (I), and expenses (E)1.  In 
+addition, the Council for International Organisations of Medical Sciences (CIOMS) Guideline states that 
+participants may be compensated for inconvenience and time (CIOMS, 2016)2. United Nations Programme on 
+HIV/AIDS (UNAIDS)(2012) notes that participants should be compensated for expenses related to participation, 
+time, and inconvenience3. 
+The South African Health Products Regulatory Authority (SAHPRA) has considered the above and adopted the  
+TIE compensation of clinical study participants in South Africa. 
+2.
+PURPOSE AND SCOPE
+This document guides Applicants/Sponsors/Investigators conducting studies and applies to Phase 2 to 4 studies 
+conducted in South Africa. Phase 1 studies include a higher risk for participants, hence they should be 
+compensated on a different scale following Phase 1/First in human remuneration guidelines. 
+3.
+LEGAL PROVISION
+Guideline is established in terms of Regulation 30 of the Medicines and Related Substances Act, 101 of 1965, 
+for the conduct of clinical trials. 
+4.
+MODEL FOR COMPENSATION FOR CLINICAL STUDY-RELATED VISITS
+4.1 
+Time spent 
+Current minimum wages in South Africa for unskilled labour start from approximately R25-R30 per hour4.  
+Factoring in the inconvenience aspect, R50 per hour is recommended4. 
+Note: 
+4.1.1 
+Amounts within a few rands of more cash-manageable numbers may be rounded up, e.g., R99 to 
+R100.  This is in order to ease the burden of unnecessary calculation and difficulty in petty-cash 
+flow at sites. 
+4.1.2 
+In general, a standard scheduled visit should not take longer than 3 hours.  More intensive visits 
+may, however, require additional time at the site.  This would necessitate a higher “compensation” 
+as the participant is now spending an extended period of time away, resulting in them missing the 
+majority of their work/school day as opposed to a portion of it.  In such a case, this amount should 
+be increased to R50 per hour. 
+4.2 
+Inconvenience (considered in the light of travel/distance from home to a site) 
+Based on rates prescribed by Automobile Association (AA) of South Africa5 and Stellenbosch University6, it 
+is recommended that R4.75 per km travelled is paid. The travel cost is broken down into 3 categories (0-
+25, 26-50, and >50 km). For example, a participant falling in the first category will receive R237.50 travel 
+compensation (R4.75 x 25 km x 2 [return trip]). This should be rounded up to R250 for convenience and to 
+make provision for any parking costs. 
+Note: 
+4.2.1 
+It would be ideal for each site Principal Investigator to decide on the radius around the trial site 
+SAHPGL-CEM-CT-02_V3 
+Page 5 of 7
+GUIDELINE FOR PHASE 2-4 CLINICAL TRIAL PARTICIPANT TIE COMPENSATION MODEL 
+23 March 2026 
+that maximum recruitment efforts would be focused on.  This would allow for a standardised 
+approach to be adopted per site and per study, leading to less per participant variability of travel-
+related costs.  When participants are identified beyond the catchment area identified or move 
+beyond the predefined catchment, additional compensation could be explored on a case-by-case 
+basis. 
+4.3 
+Expenses 
+It is recommended that all participants be offered a meal to the value of R100.  If this amount is included 
+in the ICF reimbursement total, then the R100 should be removed from the total, documented in the 
+relevant documentation and explained to the participant prior to this adjustment being made. Should the 
+participant be at the site for longer than 3 hours, an additional meal or money to the value of R100 should 
+be made available to them.  
+Table 1: Compensation Model for a Standard and Extended Clinic Visit 
+TIME 
+Standard visit 
+Extended visit 
+DISTANCE 
+2-3 hours
+>3 hours
+0-25 km
+Travel = R250 (Return trip [rounded up]) 
+T = R250 
+Inconvenience = R150 (R50 x 3h [rounded up]) 
+I = R150 + R50 per hour (over & above 3h) 
+Expenses = R100 (meal & refreshment) 
+E = R200 (2 x meals & refreshment) 
+Total = R500 
+Total = R600 + R50 per hour 
+26-50 km
+T = R500 (Return trip [rounded up]) 
+T = R500 
+I = R150 
+I = R150 + R50 per hour (over & above 3 h) 
+E = R100 
+E = R200 (2 x meals & refreshment) 
+Total = R750 
+Total = R850 + R50 per hour 
+>50 km
+T = R500 + R4.75 x km (over & above 50 km) 
+T = R500 + R4.75 per km (over & above 50 km) 
+I = R150 
+I = R150 + R50 x h 
+E = R100 
+E = R200 
+Total = R750 + R4.75 per km 
+Total = R850 + R50 per hour + R4.75 per km 
+Note:  SAHPRA is of the view that in 2026, a minimum of R500 would be the most appropriate compensation 
+level for a standard participant's visit.  SAHPRA may review this model periodically, as necessary, taking into 
+account economic conditions and regulatory developments. 
+4.4 
+Additional Inconvenience 
+Some studies call for more invasive procedures (e.g., PK sampling) or strenuous procedures (e.g., Stress 
+ECGs), which are over and above the standard inconveniences of a study visit. Therefore, a case can be 
+made for additional compensation. Other inconveniences which are not always so apparent need to also 
+be compensated for, such as an HIV trial in which participants are required to abstain from sexual activity 
+and product use for specified periods. These additional procedures must be described in the Protocol and 
+SAHPGL-CEM-CT-02_V3 
+Page 6 of 7
+GUIDELINE FOR PHASE 2-4 CLINICAL TRIAL PARTICIPANT TIE COMPENSATION MODEL 
+23 Mach 2026 
+Informed Consent Form, the additional remuneration specified, and justification of these amounts 
+provided. However, if on the visit day the participant reports not having adhered to these procedures, the 
+specified amount should be deducted from the overall ICF amount, documented and explained to the 
+participant. 
+4.5 
+Scheduled telephonic visits 
+Telephonic visits are generally conducted in one of the following scenarios: 
+•
+The protocol specifies that a scheduled visit be conducted telephonically as opposed to onsite, or
+•
+A volunteer is unable to attend the scheduled visit for a specific reason, and the site is instructed
+by the protocol and/or Sponsor to conduct the visit telephonically.
+This is still considered to be a trial-related activity, and the participant should thus be remunerated for this 
+task. A minimum amount of R150 is recommended. 
+4.6 
+Home-based/virtual consultation visits 
+When permitted by the protocol, a scheduled visit may be conducted either at home or virtually.  The 
+participants must be remunerated for time and inconvenience. A minimum of R200 per visit is 
+recommended; this could be increased depending on the time and complexity of the visit.  
+4.7 
+Unscheduled visits 
+Unscheduled visits may occur on site, telephonically, virtually, or at home. The same remuneration as 
+detailed above applies. 
+4.8 
+Screen Failures 
+A screen failure occurs when a potential volunteer is invited to the site, signs an informed consent, and 
+undergoes at least part of a screening visit (such as blood tests, ECG, and/or medical history review), but 
+ultimately does not meet the inclusion/exclusion criteria and therefore does not proceed to randomization 
+or treatment.  
+4.8.1 
+When the screening visit has been concluded in its entirety, the full remuneration is due to the 
+participant. 
+4.8.2 
+When the screen failure is identified before all the screening procedures have been completed 
+and the patient has not necessarily been allocated a screening number, partial reimbursement for 
+the visit is expected. This should be 20-50% of the total reimbursement. 
+4.9 
+Parent/ Legal guardian/ caregiver 
+In studies where the participant requires the presence of a parent/legal guardian/caregiver, the same Time, 
+Inconvenience and Expense (TIE) remuneration framework shall apply. Reimbursement should reflect the 
+additional time, inconvenience and reasonable expenses incurred by the accompanying individual, while 
+remaining aligned with ethical principles that prohibit undue inducement. Where both the participant and 
+the parent/legal guardian/caregiver incur separate time and travel burdens, the reimbursement structure 
+must transparently account for this and be clearly justified in the study budget for REC approval.  
+4.10 In-patients 
+In-patients recruited to the trial need not be compensated for distance travelled, but the inconvenience, 
+expense, and time beyond in-patient stay need to be taken into consideration.  A minimum of R100 to R250 
+per visit is recommended, depending on whether informed consent or other investigations and/or patient-
+SAHPGL-CEM-CT-02_V3 
+Page 7 of 7
+GUIDELINE FOR PHASE 2-4 CLINICAL TRIAL PARTICIPANT TIE COMPENSATION MODEL 
+23 March 2026 
+reported outcome questionnaires are being done. 
+4.11 Patient diary completion 
+The completion of paper and/or electronic diaries between visits is increasingly being incorporated into 
+clinical trials. This amounts to an additional trial-related activity and can be inconvenient and burdensome 
+for trial participants to complete these diaries. The participant should thus be remunerated for this task. A 
+minimum amount of R100 to R150 per completed diary entry is recommended, depending on the extent of 
+the trial-related procedures (e.g. dosing, temperature measurements, etc.) that need to be captured.  
+In addition, when using electronic diaries, it must be highlighted that most people in South Africa do not 
+have access to free wi-fi. Free wi-fi and/or sufficient airtime should be made available to all participants to 
+complete the necessary trial-related activities. Alternatively, sponsors can provide devices that have data 
+preloaded. 
+4.12 Electronic Clinical Outcome Assessment (eCOA), including the use of tablets, 
+smartphones, wearables, and other such devices 
+As for 4.11 above, participants need to be remunerated appropriately for this task. In addition, sufficient 
+airtime needs to be made available to all participants, and/or a device with pre-loaded data needs to be 
+provided by the Sponsor. 
+5.
+REFERENCES
+The following related documents are referenced:
+1.
+National Department of Health. 2024. South African Ethics in Health Research Guidelines: Principles,
+Processes and Structures.
+2.
+Council for International Organizations of Medical Sciences (CIOMS).  2016. International Ethical
+Guidelines for Health-related Research Involving Human Subjects.
+3.
+United Nations Programme on HIV/AIDS (UNAIDS).  2012.  Ethical considerations in Biomedical HIV
+prevention trials.
+4.
+National Minimum Wage Act 9 of 2018.
+https://www.gov.za/sites/default/files/gcis_document/202502/52053rg11792gon5830.pdf. Accessed
+06 November 2025
+5.
+Prescribed rate per kilometer: https://accountingacademy.co.za/news/read/new-sars-tax-free-rate-
+per-km-1 Accessed 15 February 2025.
+6.
+Vehicle Services. 2022.
+https://www0.sun.ac.za/voertuigvloot/media/pdfs-
+docs/2022/VEHICLE%20POOL%20KM%20and%20DAY%20tariffs%20since%201%20Jan%202022.pdf.
+Accessed on 15 February 2022.
+6.
+VALIDITY
+This guideline is valid for a period of 5 years from the effective date of revision and replaces Guideline for 
+Clinical Trial Participant Time, Inconvenience and Expense (TIE) Compensation Model, old document number 
+2.51. It will be reviewed on this timeframe or as and when required. 
+

@@ -1,0 +1,394 @@
+SAHPGL-CEM-PRE-03_v1 
+Page 1 of 8
+ 
+ 
+ 
+24 March 2026 
+GUIDELINE FOR SUBMISSION OF EXTENSION APPLICATIONS 
+   
+This guideline is intended to provide guidance to applicants who intend to submit extension applications for registration. 
+It represents the South African Health Products Regulatory Authority’s (SAHPRA) current position on the safety, quality 
+and efficacy of these medicines.  
+  
+It is not intended as an exclusive approach; alternative approaches may be used but these should be scientifically and 
+technically justified. SAHPRA reserves the right to request any additional information to establish the safety, efficacy, 
+and quality of a medicine in keeping with the knowledge current at the time of evaluation. SAHPRA is committed to 
+ensure that all registered medicines will be of the required quality, safety and efficacy. It is important that applicants 
+adhere to the administrative requirements to avoid delays in the processing and evaluation of applications.  
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month YYYY] 
+1 
+First issue 
+March 2026 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-PRE-03_v1 
+Page 2 of 8
+Guideline for submission of extension application 
+24 March 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 5 
+3. 
+EXTENSIONS ............................................................................................................................................... 5 
+3.1 
+Types of Extensions .................................................................................................................................... 5 
+3.1.1 Changes to the active substances .............................................................................................................. 5 
+3.1.2 Changes to strength, pharmaceutical form and route of administration .................................................. 6 
+3.1.2.1 
+Changes to bioavailability and pharmacokinetics: .............................................................................. 6 
+3.1.2.2  
+Changes to strength ............................................................................................................................ 6 
+3.1.2.3  
+Changes to the pharmaceutical form and route of administration: ................................................... 6 
+4. 
+Combination Medicines ............................................................................................................................. 7 
+4.1 
+Additional data which may be required in support of extensions applications ........................................ 7 
+5. 
+REFERENCES ............................................................................................................................................... 8 
+6. 
+VALIDITY ..................................................................................................................................................... 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-PRE-03_v1 
+Page 3 of 8
+Guideline for submission of extension application 
+24 March 2026 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+API 
+Active Pharmaceutical Ingredient 
+BA  
+Bioavailability  
+BE  
+Bioequivalence   
+EA 
+Extension Application 
+EMA 
+European Medicines Agency 
+EU 
+European Union 
+FDC 
+Fixed Dose Combination 
+MAH: Equivalent to 
+HCR 
+Market Authorisation Holder (equivalent to Holder of the Certificate of 
+Registration) 
+MHLW 
+Ministry of Health, Labour and Welfare (Japan) 
+MHRA 
+Medicines and Healthcare Products Regulatory Agency (United Kingdom) 
+NCE 
+New Chemical Entity 
+PI 
+Professional Information 
+PIL 
+Patient Information Leaflet: Equivalent to Package Leaflet 
+PK 
+Pharmacokinetics 
+Q & BE 
+Quality and Bioequivalence 
+RRA 
+Recognised Regulatory Authorities – a term used to refer to the list of regulatory 
+authorities with which SAHPRA aligns itself 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SmPC 
+Summary of Product characteristics: Equivalent to PI 
+TGA 
+Therapeutic Goods Administration (Australia) 
+The Authority 
+Relevant regulatory authority, in this case SAHPRA 
+US FDA 
+United States Food and Drug Administration 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-PRE-03_v1 
+Page 4 of 8
+Guideline for submission of extension application 
+24 March 2026 
+ 
+ 
+1. 
+INTRODUCTION  
+ 
+This guideline outlines the information required for the registration of extension applications. The information 
+submitted will be evaluated in terms of the provisions of the Medicines and Related Substances Act, 1965 (Act 
+101 of 1965) (hereafter “the Act”). 
+Extension applications refer to applications for the registration of a medicine that is related to an already 
+registered medicine. These applications may be submitted by the same Holder of the Certificate of Registration 
+(HCR) and are referred to as line extension applications. 
+A line extension application is an application where for instance the pharmaceutical form and/or strength 
+differs from one or more other medicines for which the applicant already holds a registration certification. For 
+example, if an HCR holds a registration for paracetamol 500 mg tablets and applies for paracetamol 250 mg 
+syrup, this will be classified as a line extension. 
+Applications submitted by a different HCR will be considered as extension applications, provided they fall 
+within the categories outlined below. 
+Extension applications fall within these two main categories:   
+     1. Changes to the active substance(s)  
+     2. Changes to strength, pharmaceutical form and route of administration  
+These changes may be associated with changes related to therapeutic indication(s) and/or posology, assuming 
+that the proposed population is included in the indication. These extension applications will be regarded as 
+generics with clinical data. Applicants should refer to the Clinical Guideline for more detail. 
+It is a legal requirement that data submitted for evaluation should substantiate all claims and should meet 
+technical requirements of quality, safety and efficacy of the product for the purposes for which it is intended. 
+The guideline is meant to guide the applicant in meeting the requirements of the Act. It is acknowledged, 
+however, that in some instances scientific developments may dictate alternative approaches. When a 
+deviation from a guideline is decided on, a detailed motivation giving the reason(s) for the deviation and 
+justification for the alternative approach should be included in the expert report submitted with the 
+application. 
+1.1 
+Purpose 
+The aim of this document is to provide guidance to applicants on the appropriate data for extension 
+applications for the registration of medicines for human use.  
+ 
+1.2 
+Scope 
+The guideline is applicable to categories A: Human Medicines, as defined in the Medicines and Related 
+Substances Act (Act 101 of 1965). In addition to this guideline, SAHPRA reserves the right to request any 
+SAHPGL-CEM-PRE-03_v1 
+Page 5 of 8
+Guideline for submission of extension application 
+24 March 2026 
+ 
+ 
+additional information to establish the safety, quality, and efficacy of a medicine in keeping with the knowledge 
+current at the time of evaluation. 
+Requirements for Therapeutic equivalence 
+(1) A medicine is considered therapeutically equivalent to another medicine if both 
+medicines - 
+(a) are - 
+(i) pharmaceutically equivalent, in that they contain the same amount of active substances in the same dosage 
+form, meet the same or comparable standards and are intended to be administered by the same 
+route; or 
+(ii) pharmaceutical alternatives, in that they contain the same Active Pharmaceutical Ingredient (API) but differ 
+either in chemical form of that API or in the dosage form or strength; and 
+(b) after administration in the same molar dose, their effects with respect to both efficacy and safety are 
+essentially the same. 
+(2) Therapeutic equivalence is determined from comparative bioavailability, pharmacodynamic, clinical 
+or in vitro studies which meet the requirements and accepted criteria for bioequivalence as determined by the 
+Authority. 
+2. 
+LEGAL PROVISION 
+The registration of a medicine in South Africa is governed by the provisions and requirements of the Medicines 
+and Related Substances Act, 1965 (Act No. 101 of 1965), and the regulations and guidelines published in terms 
+thereof.  
+3. 
+EXTENSIONS 
+Extension applications refer to medicines based on a registered API. These medicines typically contain the 
+same active substances as the registered reference medicine and generally fall within the same therapeutic 
+class, and they may serve as therapeutic alternatives. 
+3.1 
+Types of Extensions 
+Categorization and definitions of the common types of extensions and how they relate to the registered 
+medicine. 
+3.1.1 Changes to the active substances 
+The following changes to the active substance may be regarded as extension applications:  
+I. 
+Replacement of the active substance(s) by a different salt/ester complex/derivative (with the same 
+therapeutic API) where the efficacy/safety characteristics are not significantly different. Example: 
+replacing hydrochloride salt with a citrate salt of the same active substance. 
+II. 
+Replacement by a different isomer, a different mixture of isomers, of a mixture by an isolated isomer 
+SAHPGL-CEM-PRE-03_v1 
+Page 6 of 8
+Guideline for submission of extension application 
+24 March 2026 
+ 
+ 
+where the efficacy/safety characteristics are not significantly different. Example: substituting a 
+racemic mixture with a single enantiomer. 
+Such changes must retain the same active substance(s) and demonstrate that the altered compound does not 
+significantly impact the efficacy or safety profile of the product. 
+3.1.2 Changes to strength, pharmaceutical form and route of administration 
+The following applies to extension applications related to strength, dosage form, and route of administration.  
+ 
+i. 
+Change of bioavailability 
+ii. 
+Change of pharmacokinetics (e.g., change in rate of release) 
+iii. 
+Change or addition of a new strength/potency 
+iv. 
+Change or addition of a new pharmaceutical form 
+v. 
+Change or addition of a new route of administration  
+3.1.2.1    Changes to bioavailability and pharmacokinetics: 
+Changes to the strength, pharmaceutical form or route of administration may significantly impact a medicine’s 
+bioavailability and PK characteristics. For instance, altering the release rates (e.g., from immediate release to 
+modified release). These changes must be evaluated through a risk-based approach, with appropriate clinical 
+and/or bioequivalence data submitted. 
+3.1.2.2  
+Changes to strength 
+Changes to strength refer to modifications in the amount of active substance per unit dose or concentration.  
+The quantitative composition in terms of active substance represents the strength. The concept of strength 
+and the concept of concentration are inherently linked. Strength represents the amount of active substance in 
+the pharmaceutical form, which can be defined per unit dose or as a concentration. The concentration can be 
+stated per unit of mass (e.g. 250 mg/g) or per unit of volume (e.g. 2 mg/mL) or in percentage (e.g. 5%) for 
+medicines for which the strength has traditionally been expressed in such way. An extension application may 
+have the same active substance but different strength from the registered reference product.  
+3.1.2.3  
+Changes to the pharmaceutical form and route of administration: 
+A pharmaceutical form is used to describe the manufactured product (i.e. the item as presented in the 
+packaging by the manufacturer) or the pharmaceutical product (i.e. the item as intended to be administered 
+to the patient, after any necessary transformation has been carried out). Changes to the pharmaceutical form 
+thus, refers to modifications of the physical form of the medicine such as tablets, capsules, suspensions, or 
+other dosage forms. For example, a registered 500 mg tablet vs. a new application for a 500 mg oral 
+suspension. 
+The route of administration refers to the path by which the medicine taken into or applied to the body to 
+achieve its intended effect. A change to the pharmaceutical form and/or route of administration may have a 
+significant impact on the pharmacokinetic (PK) and pharmacodynamic (PD) profile of the medicine. Example: 
+changing from oral to parenteral.  
+SAHPGL-CEM-PRE-03_v1 
+Page 7 of 8
+Guideline for submission of extension application 
+24 March 2026 
+ 
+ 
+An extension application may thus have the same active substance as the registered medicine but differ in 
+dosage form or formulation. Such extensions may differ from the registered medicine in administration and/or 
+dosage. 
+4. 
+Combination Medicines 
+For new combination medicines, it is necessary to take three factors into account: 
+• 
+The safety and efficacy of the individual active substances. 
+• 
+The safety and efficacy of the simultaneous use of the individual active substances (multi-
+component regimen); and the medical and scientific rationale should support the simultaneous 
+use of more than one active substance. 
+• 
+The possible chemical and physical interactions between active substances derived from a multi-
+component regimen when they are formulated into an FDC product. 
+• 
+The APIs have suitable PK and Physiochemical properties. 
+These applications can be considered as extension applications, but the type of application will be a generic 
+with clinical data or new chemical entity (NCE) depending on whether all APIs are registered or not, changes 
+to the active substance(s) and changes to the strength, pharmaceutical form and route of administration. 
+ 
+N.B. Applications for extension in which the API of the original/innovator is not registered with SAHPRA will be 
+regarded as NCEs and innovators, not an extension.  
+4.1 
+Additional data which may be required in support of extensions applications 
+In general, the clinical data from the original/innovator product may be provided by the applicant in support 
+of the extension application. However, the data may not be sufficient to justify the extension applications, 
+resulting in additional data being required to support the submission. 
+The following includes, but is not limited to, the data that may be required to support extension applications. 
+Types of extensions 
+Additional data usually required 
+Different salt/ester complex/derivative (with the 
+same therapeutic API) 
+Evidence 
+that 
+there 
+is 
+no 
+change 
+in 
+the 
+pharmacokinetics of the API, pharmacodynamics and/or 
+in toxicity which could significantly change the 
+safety/efficacy profile (otherwise, to be considered as a 
+new active substance) 
+Different route/pharmaceutical form  
+(For parenteral administration, it is necessary to 
+distinguish between intra-arterial, intravenous, 
+intramuscular, subcutaneous and other routes)  
+ 
+New route of administration  
+ 
+New 
+pharmaceutical 
+form 
+(same 
+route) 
+Clinical data (safety/efficacy), pharmacokinetics, pre-
+clinical (e.g. toxicology), if justified 
+SAHPGL-CEM-PRE-03_v1 
+Page 8 of 8
+Guideline for submission of extension application 
+24 March 2026 
+ 
+ 
+(conventional to modified) 
+Different strength, same route/ pharmaceutical 
+form and posology 
+Bioavailability studies 
+Suprabioavailable medicines 
+Same dosage intervals but reduced doses 
+intended 
+to 
+achieve 
+same 
+plasma/blood 
+concentrations as a function of time. 
+Bioavailability studies 
+Active substances associated in a different 
+proportion/different posology or if one or more 
+is intended for modified release. 
+Clinical studies comparing existing/new proportion or 
+dosage regimen, including bioavailability studies. 
+ 
+5. 
+REFERENCES 
+The following related documents are referenced: 
+Department of Health (South Africa), 2021. Policy for classifying medicines into therapeutic classes for purposes 
+of therapeutic interchange. Version 9.0. 6 July 2021. Pretoria: Department of Health. 
+European Commission, Directorate-General for Health and Food Safety, 2019. Notice to applicants, Volume 2C: 
+Regulatory guidelines – Guideline on the categorisation of extension applications (EA) versus variations 
+applications (V). Revision 4. July 2019. Brussels: European Commission. 
+European Medicines Agency, 2012. Reflection paper on considerations given to designation of a single stereo 
+isomeric form (enantiomer), a complex, a derivative, or a different salt or ester as new active substance in 
+relation to the relevant reference active substance. EMA/651649/2010. 18 October 2012. London: European 
+Medicines Agency. 
+6. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date. It will be reviewed on this timeframe or 
+as and when required. 
+

@@ -1,0 +1,919 @@
+ 
+7.03_CMs_ZACTD_Jun20_v3_2 
+ 
+Page 1 of 11 
+Back to ToC 
+ 
+ 
+ 
+ 
+ 
+COMPLEMENTARY MEDICINES - 
+USE OF THE ZA-CTD FORMAT IN THE PREPARATION 
+OF A REGISTRATION APPLICATION 
+ 
+ 
+This guideline is intended to provide recommendations to applicants wishing to submit applications for the registration of 
+Complementary Medicines.  It intends to invite comment from all stakeholders with the view to present to the South African Health 
+Products Regulatory Authority (SAHPRA) for authorisation.  In addition to this guideline, the Authority reserves the right to request 
+any additional information to establish the safety, quality and efficacy of a medicine in keeping with the knowledge current at the 
+time of evaluation.  The SAHPRA is committed to ensure that all registered medicines will be of the required quality, safety and 
+efficacy. 
+Guidelines and application forms are available from the SAHPRA website: www.sahpra.org.za. 
+ 
+ 
+First publication for comment 
+November 2013 
+Due date for comment 
+22 November 2013 
+Publication for implementation 
+December 2013 
+Version 2 
+March 2014 
+Version 3 
+June 2016 
+Version 3.1 
+April 2019 
+Version 3.2 
+June 2020 
+ 
+IMPORTANT: For this guideline the term “applicable” means that the guidance should apply as provided in the following guidance 
+documents: 
+• 
+Guideline 7.01: “Guideline: Complementary Medicines – Discipline-Specific: Safety and Efficacy” 
+• 
+Guideline 7.04: “Guideline: Complementary Medicines – Health Supplements: Safety and Efficacy” 
+• 
+Guideline 7.05: “Guideline: Complementary Medicines – Registration Application ZA-CTD – Quality” 
+If insufficient guidance is provided in any of the documents above information should be provided under the relevant module as 
+described below having also consulted Guideline 2.24 “Guidance for the Submission of the South African CTD/eCTD General & 
+Module 1”. 
+ 
+ 
+ 
+BOITUMELO SEMETE-MAKOKOTLELA 
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+Registration of Medicines: CMs ZACTD 
+June 2020 
+ 
+7.03_CMs_ZACTD_Jun20_v3_2 
+ 
+Page 2 of 11 
+Back to ToC 
+TABLE OF CONTENTS 
+Page 
+1 
+INTRODUCTION .............................................................................................................. 2 
+2 
+SCOPE ............................................................................................................................. 3 
+3 
+ZA-CTD STRUCTURE & GUIDANCE .............................................................................. 3 
+3.1 
+ZA Module 1: Administrative information ................................................................. 3 
+3.2 
+Module 2: Common Technical Document summaries ............................................. 6 
+3.3 
+Module 3: Quality ..................................................................................................... 7 
+3.4 
+Module 4: Non-clinical study reports ........................................................................ 9 
+3.5 
+Module 5: Clinical study reports ............................................................................... 10 
+4 
+REFERENCES ................................................................................................................. 10 
+5 
+UPDATE HISTORY .......................................................................................................... 11 
+ 
+ 
+ 
+ 
+ 
+Registration of Medicines: CMs ZACTD 
+June 2020 
+ 
+7.03_CMs_ZACTD_Jun20_v3_2 
+ 
+Page 3 of 11 
+Back to ToC 
+1 
+INTRODUCTION 
+This document aims to provide general guidance on how to present the applications for registration of a 
+complementary medicine in the Common Technical Document (CTD) format.   
+This document should be read together with the current versions of the following documents, including 
+those referred to therein: 
+• 
+6.18 Screening Template for new applications for registration of complementary medicines 
+• 
+7.01 Complementary Medicines – Discipline-Specific: Safety and Efficacy 
+• 
+7.02 Complementary Medicines – Roadmap and Transitional process for the regulation of 
+complementary medicines 
+• 
+7.04 Complementary Medicines – Health Supplements: Safety and Efficacy 
+• 
+7.05 Complementary Medicines – Quality  
+• 
+7.06 Complementary Medicines – Guidance on Specified Substances  
+Other SAHPRA guidelines may be referred to where appropriate. A copy of the referenced guideline should 
+also be supplied. 
+2 
+SCOPE 
+This guideline applies to the application for registration of complementary medicines submitted in ZA-CTD 
+format. 
+3 
+ZA-CTD STRUCTURE & GUIDANCE 
+The table below describes the ZA-CTD structure and provides additional guidance to that included in the 
+current guidelines for submission of application in ZA-CTD format. 
+For this guideline the term “Applicable” means that the guidance should apply as provided in the following 
+guidance documents (in particular section 2 of each document): 
+• 
+Guideline 7.01: “Guideline: Complementary Medicines – Discipline-Specific: Safety and Efficacy” 
+• 
+Guideline 7.04: “Guideline: Complementary Medicines – Health Supplements: Safety and Efficacy” 
+• 
+Guideline 7.05: “Guideline: Complementary Medicines – Registration Application ZA-CTD – Quality” 
+If no guidance is provided in any of the documents above information should be provided under the relevant 
+module as described below having also consulted Guideline 2.24 “Guidance for the Submission of the 
+South African CTD/eCTD General & Module 1”. 
+3.1 
+ZA Module 1: Administrative information 
+1.0 
+Letter of application 
+Applicable 
+1.1 
+Comprehensive table of contents 
+Applicable 
+1.2 
+Application 
+1.2.1 
+Application form 
+Applicable 
+1.2.2 
+Annexes 
+1.2.2.1 
+Proof of payment 
+Applicable 
+1.2.2.2 
+Letter of authorisation for communication on 
+behalf of the applicant/Proposed Holder of 
+Certificate of Registration (PHCR) 
+Applicable 
+1.2.2.3 
+Dossier product batch information 
+Applicable 
+Registration of Medicines: CMs ZACTD 
+June 2020 
+ 
+7.03_CMs_ZACTD_Jun20_v3_2 
+ 
+Page 4 of 11 
+Back to ToC 
+1.2.2.4 
+Electronic copy declaration 
+Reserved for eCTD 
+1.2.2.5 
+Curriculum vitae of the person responsible for 
+pharmacovigilance 
+Applicable 
+1.2.2.6 
+API change control 
+Not Applicable 
+1.2.2.7 
+EMA certificate for a Vaccine Antigen Master File 
+(VAMF) 
+Not Applicable 
+1.2.2.8 
+EMA certificate for a Plasma Master File (PMF) 
+Not Applicable 
+1.3 
+South African labelling and packaging 
+1.3.1 
+South African Package Insert 
+Applicable 
+1.3.1.1 
+Package insert 
+Applicable 
+1.3.1.2 
+Standard References 
+Applicable  
+1.3.2 
+Patient Information Leaflet  
+Applicable 
+1.3.3 
+Labels 
+Applicable 
+1.3.4 
+Braille 
+Reserved for later use 
+1.4 
+Information about the experts 
+1.4.1 
+Quality 
+Applicable (person responsible for 
+information included in Module 2.3) 
+1.4.2 
+Non-clinical 
+Applicable (person responsible for 
+information included in Module 2.4) 
+1.4.3 
+Clinical 
+Applicable (person responsible for 
+information included in Module 2.5) 
+1.5 
+Specific requirements for different types of applications 
+1.5.1 
+Literature based submissions 
+Applicable 
+See Guideline for CM – DS/HS: 
+Safety and Efficacy 
+1.5.2 
+Amendments/Variations 1 
+Applicable 
+1.5.2.1 
+Tabulated schedule of amendments 
+Applicable 
+1.5.2.2 
+Medicines Register Details 
+Applicable 
+1.5.2.3 
+Affidavit by Responsible Pharmacist 
+Applicable 
+1.5.3 
+Proprietary name applications and changes 
+Applicable 
+1.5.4 
+Genetically modified organisms 
+Applicable when relevant 
+1.5.5 
+Package Insert / updates 
+Applicable 
+1.6 
+Environmental risk assessment 
+1.6.1 
+Non-GMO (genetically modified organisms) 
+Not required 
+1.6.2 
+GMO  
+Not required.  However, there may 
+be exceptional cases where further 
+justification to the absence of an 
+environmental risk assessment may 
+be necessary 
+ 
+1Amendments guideline 
+Registration of Medicines: CMs ZACTD 
+June 2020 
+ 
+7.03_CMs_ZACTD_Jun20_v3_2 
+ 
+Page 5 of 11 
+Back to ToC 
+1.7 
+Good manufacturing practice 
+1.7.1 
+Date of last inspection of each site 
+Applicable 
+1.7.2 
+Inspection reports or equivalent document 
+Applicable 
+1.7.3 
+Latest GMP certificate or a copy of the 
+appropriate licence 
+Applicable 
+1.7.4 
+Release 
+Applicable 
+1.7.4.1 
+API 
+Applicable 
+1.7.4.2 
+IPIs 
+Applicable 
+1.7.4.3 
+Finished Product Release Control (FPRC) tests 
+Applicable 
+1.7.4.4 
+Finished Product Release Responsibility (FPRR) 
+criteria 
+Applicable 
+1.7.5 
+Confirmation of contract 
+Applicable 
+1.7.6 
+CPP (WHO Certification scheme) 
+Applicable 
+1.7.7 
+SAPC registration 
+Applicable 
+1.7.8 
+Registration with Registrar of Companies 
+Applicable 
+1.7.9 
+Other documents relating to the Applicant/PHCR 
+Applicable 
+1.7.10 
+Sample and Documents 
+Applicable 
+1.7.10.1 
+Confirmation of submission of sample 
+1.7.10.2 
+Batch manufacturing record of the sample 
+1.7.10.3 
+CoA of the sample 
+1.7.11 
+Certified copy of a permit to manufacture 
+specified Schedule 5, Schedules 6, 7 and 8 
+substances. 
+Applicable 
+1.7.12 
+Inspection flow diagram 
+Applicable 
+1.7.13 
+Organogram 
+Applicable 
+1.8 
+Details of compliance with screening 
+outcomes 
+Applicable 
+1.9 
+Individual patient data - statement of 
+availability 
+Applicable when relevant 
+1.10 
+Foreign regulatory status 
+1.10.1 
+List of countries in which an application for the 
+same product as being applied for has been 
+submitted 
+Applicable 
+Any particular circumstances should 
+be specifically stated. 
+1.10.2 
+Registration certificate or marketing authorisation 
+Applicable 
+English copies / translations are to be 
+provided. 
+1.10.3 
+Foreign prescribing and patient information  
+Applicable 
+1.10.4 
+Data set similarities 
+Applicable 
+1.11 
+Bioequivalence trial information 
+Applicable when relevant 
+1.12 
+Paediatric development programme 
+Not applicable 
+Registration of Medicines: CMs ZACTD 
+June 2020 
+ 
+7.03_CMs_ZACTD_Jun20_v3_2 
+ 
+Page 6 of 11 
+Back to ToC 
+1.13 
+Risk management plan 
+Reserved for future use 
+3.2 
+Module 2: Common Technical Document summaries 
+2.1 
+CTD Table of Contents (modules 2 to 5) 
+Applicable 
+2.2 
+Introduction 
+Applicable 
+2.3 
+Quality Overall Summary (QOS) 
+A description of the desired product and 
+product-related 
+substances 
+and 
+a 
+summary 
+of 
+general 
+properties, 
+characteristics, 
+features 
+and 
+characterization data, as described in 
+S.3.1, should be included.  
+The QOS should summarise the data on 
+potential 
+contamination 
+by 
+micro-
+organisms, products of micro-organisms, 
+pesticides, toxic metals, fumigants, etc. 
+In some specific circumstances, the risk 
+of radioactive contamination is to be 
+considered 
+2.3.S 
+Quality Overall Summary - Active 
+Pharmaceutical Ingredient (name, manufacturer) 
+2.3.P 
+Quality Overall Summary - Finished 
+Pharmaceutical Product (name, dosage form) 
+2.3.A 
+Quality Overall Summary - Appendices 
+2.4 
+Non-clinical Overview 
+Applicable when relevant 
+2.5 
+Clinical Overview 
+Applicable when relevant 
+2.6 
+Non-clinical Written and Tabulated Summaries 
+2.6.1 
+Introduction 
+ 
+2.6.2 
+Pharmacology Written Summary 2 
+Tabulated non-clinical summaries are 
+generally not required for well-known 
+substances when a monograph or a 
+pharmacopoeia 
+entry 
+has 
+been 
+established. 
+2.6.3 
+Pharmacology Tabulated Summary (See 
+Appendix B) 
+2.6.4 
+Pharmacokinetics Written Summary 2 
+When the applicant is requested to 
+supplement the data supporting the 
+monograph with additional safety data 
+(e.g. tests on genotoxicity, reproductive 
+toxicity and carcinogenicity) these data 
+shall be presented in the tabulated non-
+clinical summaries in this section. 
+2.6.5 
+Pharmacokinetics Tabulated Summary (See 
+Appendix B) 
+2.6.6 
+Toxicology Written Summary 2 
+When there is no monograph or 
+pharmacopoeia entry, tabulated non-
+clinical summaries in Module 2 shall be 
+provided. 
+2.6.7 
+Toxicology Tabulated Summary (See Appendix 
+B) 
+2.7 
+Clinical Summary 
+Tabulated 
+clinical 
+summaries 
+are 
+generally not required for well-known 
+substances when a monograph or a 
+pharmacopoeia 
+entry 
+has 
+been 
+established. 
+When supplementing data concerning 
+the plausibility of pharmacological effects 
+or efficacy of the product as well as 
+2.7.1 
+Summary of Biopharmaceutic Studies and 
+Associated Analytical Methods 2 
+2.7.2 
+Summary of Clinical Pharmacology Studies 2 
+2.7.3 
+Summary of Clinical Efficacy – Indication 2 
+2.7.4 
+Summary of Clinical Safety 2 
+ 
+2The CTD defines further heading levels and navigation should be provided within the document to the 
+subheadings. 
+Registration of Medicines: CMs ZACTD 
+June 2020 
+ 
+7.03_CMs_ZACTD_Jun20_v3_2 
+ 
+Page 7 of 11 
+Back to ToC 
+2.7.5 
+Literature References 
+information on the safety of use are 
+addressed in section 2.5, a tabulated 
+summary shall be presented in this 
+section 2.7. 
+2.7.6 
+Synopses of Individual Studies 
+3.3 
+Module 3: Quality 
+Refer to the Guideline “Complementary Medicines – Quality 
+3.1 
+Table of contents of module 3 
+Applicable 
+3.2 
+Body of data 
+Applicable 
+3.2.S 
+Active Pharmaceutical Ingredient (name, manufacturer) 
+3.2.S.1 
+General information (name, manufacturer) 
+Applicable 
+3.2.S.1.1 
+Nomenclature (name, manufacturer) 
+Information on the naming 
+of the substances should 
+be provided. 
+3.2.S.1.2 
+Structure (name, manufacturer) 
+Applicable 
+3.2.S.1.3 
+General Properties (name, manufacturer) 
+Applicable 
+3.2.S.2 
+Manufacture (name, manufacturer) 
+Applicable 
+3.2.S.2.1 
+Manufacturer(s) (name, manufacturer) 
+Applicable 
+3.2.S.2.2 
+Description of Manufacturing Process and Process 
+Controls (name, manufacturer) 
+Applicable 
+3.2.S.2.3 
+Control of Materials (name, manufacturer) 
+Applicable 
+3.2.S.2.4 
+Controls of Critical Steps and Intermediates (name, 
+manufacturer) 
+Applicable 
+3.2.S.2.5 
+Process Validation and/or Evaluation (name, 
+manufacturer) 
+Applicable 
+3.2.S.2.6 
+Manufacturing Process Development (name, 
+manufacturer) 
+Applicable 
+3.2.S.3 
+Characterisation (name, manufacturer) 
+Applicable 
+3.2.S.3.1 
+Elucidation of Structure and other Characteristics (name, 
+manufacturer) 
+Applicable 
+3.2.S.3.2 
+Impurities (name, manufacturer) 
+Applicable 
+3.2.S.4 
+Control of active pharmaceutical ingredient (name, 
+manufacturer) 
+Applicable 
+3.2.S.4.1 
+Specifications (name, manufacturer) 
+Applicable 
+3.2.S.4.2 
+Analytical Procedures (name, manufacturer) 
+Applicable 
+3.2.S.4.3 
+Validation of Analytical Procedures (name, manufacturer) 
+Applicable 
+3.2.S.4.4 
+Batch Analyses (name, manufacturer) 
+Applicable 
+3.2.S.4.5 
+Justification of Specification (name, manufacturer) 
+Applicable 
+3.2.S.5 
+Reference Standards or Materials (name, manufacturer) 
+Applicable 
+3.2.S.6 
+Container Closure System (name, manufacturer) 
+Applicable 
+3.2.S.7 
+Stability (name, manufacturer) 
+Applicable 
+Registration of Medicines: CMs ZACTD 
+June 2020 
+ 
+7.03_CMs_ZACTD_Jun20_v3_2 
+ 
+Page 8 of 11 
+Back to ToC 
+3.2.S.7.1 
+Stability summary and conclusions (name, manufacturer) 
+Applicable 
+3.2.S.7.2 
+Post approval stability protocol and stability commitment 
+(name, manufacturer) 
+Applicable 
+3.2.S.7.3 
+Stability Data (name, manufacturer) 
+Applicable 
+3.2.P 
+Pharmaceutical Product (name, dosage form) 
+3.2.P.1 
+Description and Composition of the pharmaceutical 
+product (name, dosage form) 
+Applicable 
+3.2.P.2 
+Pharmaceutical Development (name, dosage form) 
+Applicable 
+3.2.P.2.1 
+Components of the Pharmaceutical Product (name, 
+dosage form) 
+Applicable 
+3.2.P.2.1.1 
+Active Pharmaceutical Ingredient(s) (name, dosage form) 
+Applicable 
+3.2.P.2.1.2 
+Excipients (name, dosage form) 
+Applicable 
+3.2.P.2.2 
+Final pharmaceutical product (name, dosage form) 
+Applicable 
+3.2.P.2.2.1 
+Formulation development (name, dosage form) 
+Applicable 
+3.2.P.2.2.2 
+Overages (name, dosage form) 
+Applicable 
+3.2.P.2.2.3 
+Physicochemical and biological properties (name, dosage 
+form) 
+Applicable 
+3.2.P.2.3 
+Manufacturing process development (name, dosage 
+form) 
+Applicable 
+3.2.P.2.4 
+Container closure system (name, dosage form) 
+Applicable 
+3.2.P.2.5 
+Microbiological attributes (name, dosage form) 
+Applicable 
+3.2.P.2.6 
+Compatibility (name, dosage form) 
+Applicable 
+3.2.P.3 
+Manufacture (name, dosage form) 
+Applicable 
+3.2.P.3.1 
+Manufacturer(s) (name, dosage form) 
+Applicable 
+3.2.P.3.2 
+Batch formula (name, dosage form) 
+Applicable 
+3.2.P.3.3 
+Description of manufacturing process and process 
+controls (name, dosage form) 
+Applicable 
+3.2.P.3.4 
+Controls of critical steps and intermediates (name, 
+dosage form) 
+Applicable 
+3.2.P.3.5 
+Process validation and/or evaluation (name, dosage form) 
+Applicable 
+3.2.P.4 
+Control of Inactive Pharmaceutical Ingredients (name, 
+dosage form) 
+Applicable 
+3.2.P.4.1 
+Specifications (name, dosage form) 
+Applicable 
+3.2.P.4.2 
+Analytical procedures (name, dosage form) 
+Applicable 
+3.2.P.4.3 
+Validation of analytical procedures (name, dosage form) 
+Applicable 
+3.2.P.4.4 
+Justification of specifications (name, dosage form) 
+Applicable 
+3.2.P.4.5 
+Excipients of human or animal origin (name, dosage 
+form) 
+Applicable 
+3.2.P.4.6 
+Novel excipients (name, dosage form) 
+Applicable 
+3.2.P.5 
+Control of pharmaceutical product (name, dosage form) 
+Applicable 
+Registration of Medicines: CMs ZACTD 
+June 2020 
+ 
+7.03_CMs_ZACTD_Jun20_v3_2 
+ 
+Page 9 of 11 
+Back to ToC 
+3.2.P.5.1 
+Specification(s) (name, dosage form) 
+Applicable 
+3.2.P.5.2 
+Analytical procedures (name, dosage form) 
+Applicable 
+3.2.P.5.3 
+Validation of analytical procedures (name, dosage form) 
+Applicable 
+3.2.P.5.4 
+Batch analyses (name, dosage form) 
+Applicable 
+3.2.P.5.5 
+Characterisation of impurities (name, dosage form) 
+Applicable 
+3.2.P.5.6 
+Justification of specifications (name, dosage form) 
+Applicable 
+3.2.P.6 
+Reference standards or materials (name, dosage form) 
+Applicable 
+3.2.P.7 
+Container closure system (name, dosage form) 
+Applicable 
+3.2.P.8 
+Stability (name, dosage form) 
+Applicable  
+3.2.P.8.1 
+Stability summary and conclusion (name, dosage form) 
+Applicable 
+3.2.P.8.2 
+Post-approval stability protocol and stability commitment 
+(name, dosage form) 
+Applicable 
+3.2.P.8.3 
+Stability data (name, dosage form) 
+Applicable 
+3.2.A 
+Appendices 
+Not Applicable  
+3.2.A.1 
+Facilities and equipment (name, manufacturer) 
+Not Applicable 
+3.2.A.2 
+Adventitious agents safety evaluation (name, dosage 
+form, manufacturer) 
+Not Applicable 
+3.2.A.3 
+Excipients 
+Not Applicable 
+3.2.R 
+Regional Information 
+3.2.R.1 
+Pharmaceutical and Biological availability 
+Applicable if relevant 
+3.2.R.2 
+Parent API manufacturer with various sites 
+Applicable 
+3.2.R.3 
+Certificate(s) of suitability with respect to the Ph.Eur. 
+(CEPs) 
+Applicable if relevant 
+3.2.R.4 
+Multiple API manufacturers 
+Applicable 
+3.2.R.4.1 
+Comparative API manufacturers study report 
+Applicable 
+3.2.R.4.2. 
+Comparative results 
+Applicable 
+3.2.R.4.3 
+Confirmation of compliance with guidelines 
+Applicable 
+3.2.R.4.4 
+Certificates of analysis 
+Applicable 
+3.2.R.5 
+Medical device 
+Not Applicable 
+3.2.R.6 
+Materials of animal and/or human origin 
+Applicable 
+3.2.R.7 
+Batch records of samples  
+Applicable 
+3.2.R.8 
+Other 
+Reserved for future use 
+3.3 
+Literature references 
+Applicable 
+3.4 
+Module 4: Non-clinical study reports 
+4.1 
+Table of contents of Module 4 
+Applicable 
+4.2 
+Study reports 
+If applicable. 
+If data are available or have been requested these 
+should be provided and summarised in Module 2.6, 
+Registration of Medicines: CMs ZACTD 
+June 2020 
+ 
+7.03_CMs_ZACTD_Jun20_v3_2 
+ 
+Page 10 of 11 
+Back to ToC 
+for which the corresponding non-clinical overview 
+would be included in Module 2.4 
+4.3 
+Literature references 
+Such references should be indexed following the 
+agreed format for the organisation of Module 4. 
+3.5 
+Module 5: Clinical study reports 
+5.1 
+Table of contents of Module 5 
+Applicable 
+5.2 
+Tabular listing of all clinical 
+studies 
+If applicable 
+5.3 
+Clinical study reports 
+If applicable. 
+If data are available or have been requested these 
+should be provided and summarised in Module 2.7 for 
+which the corresponding clinical overview would be 
+included in Module 2.5 
+5.4 
+Literature references 
+Such references should be indexed following the 
+agreed format for the organisation of Module 5. 
+4 
+REFERENCES 
+1) 
+Guideline on the use of the CTD format in the preparation of a registration application for traditional 
+herbal medicinal products 12 March 2013. EMA/HMPC/71049/2007 Rev. 1 
+2) 
+Guideline: Complementary Medicines – Discipline-Specific: Safety and Efficacy 
+3) 
+Guideline: Complementary Medicines – Health Supplements: Safety and Efficacy 
+4) 
+Guideline: Complementary Medicines – Registration Application ZA-CTD - Quality 
+5) 
+South African Common Technical Document – ZACTD, Application for Registration of a Medicine 
+6) 
+Guidance for the Submission of the South African CTD/eCTD - General & Module 1 
+7) 
+Guideline: Pharmaceutical and Analytical - CTD /eCTD 
+8) 
+Guideline: Stability 
+9) 
+Guideline: General Information 
+10) 
+Guide to Good Manufacturing Practice for Medicines in South Africa 
+Registration of Medicines: CMs ZACTD 
+June 2020 
+ 
+7.03_CMs_ZACTD_Jun20_v3_2 
+ 
+Page 11 of 11 
+Back to ToC 
+5 
+UPDATE HISTORY  
+Date 
+Reason for update 
+Version & publication 
+Nov 2013 
+First publication released for comment 
+v1 Nov 2013 
+22 Nov 2013 
+Deadline for comment 
+ 
+Dec 2013 
+Published for implementation 
+v1 Dec 2013 
+Mar 2014 
+Amended to 
+• 
+expand list of guidelines in section 1 
+• 
+section 3.3: 3.2.S.2.6, 3.2.P.3.5, 3.2.R.3 
+• 
+sections 3.4 and 3.5 to replace “reports” with “non-
+clinical overview” and “clinical overview” in 4.3 and 
+5.3 respectively 
+• 
+include section 4 References 
+• 
+include Appendix 1 with detail on Module 3 
+v2 Mar 2014 
+June 2016 
+Deletion of Appendix A and referral to new guideline on 
+quality of complementary medicines 
+v3 June 2016 
+April 2019 
+Highlighting requirement for reference to other guidance 
+documents 
+v3.1 April 2019 
+June 2020 
+SAHPRA branding. 
+Section 1 guideline reference amended. 
+v3.2 June 2020 
+ 
+

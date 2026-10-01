@@ -1,0 +1,504 @@
+SAHPGL-MD-21_v1 
+Page 1 of 13
+ 
+ 
+    
+23 April 2026 
+GUIDELINE FOR MEDICAL DEVICE CERTIFICATE OF FREE SALE  
+This guideline is intended to provide guidance on obtaining a Certificate of Free Sale, which serves as 
+confirmation that the listed medical devices, including in vitro diagnostic medical devices (IVDs), are legally 
+sold or distributed in the market in South Africa, freely without restriction. It outlines the procedural steps to 
+ensure consistency, transparency, and regulatory compliance in supporting the export of safe, effective, and 
+quality-assured medical devices from South Africa. It represents the South African Health Products Regulatory 
+Authority’s current thinking on the safety, quality and performance of medical devices and IVDs. The authority 
+reserves the right to request additional information to establish the safety, quality, and performance of a 
+medical device and IVD in keeping with the knowledge current at the time of evaluation. Alternative 
+approaches may be used but should be scientifically and technically justified. The Authority is committed to 
+ensuring that all registered medical devices and IVDs will meet the requirements of the Essential Principles 
+relating to quality, safety, and performance. Applicants must adhere to the administrative requirements to 
+avoid delays in the processing and evaluation of applications.  
+  
+Guidelines and application forms are available from the office of the CEO and the SAHPRA website. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue 
+March 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-MD-21_v1 
+Page 2 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 5 
+1.1 
+Purpose ...................................................................................................................................................... 5 
+1.2 
+Scope .......................................................................................................................................................... 6 
+1.3 
+Eligibility Criteria ........................................................................................................................................ 7 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 7 
+3. 
+REQUIRED DOCUMENTATION .................................................................................................................... 8 
+4. 
+BEFORE APPLYING FOR A CERTIFICATE OF FREE SALE ............................................................................. 10 
+5. 
+APPLICATION PROCESS ............................................................................................................................. 10 
+6. 
+FORMAT OF THE CERTIFICATE OF FREE SALE ........................................................................................... 10 
+7. 
+FEES ........................................................................................................................................................ 122 
+8. 
+VALIDITY OF THE CERTIFICATE OF FREE SALE .......................................................................................... 12 
+9. 
+REFERENCES ............................................................................................................................................. 13 
+10. 
+VALIDITY OF GUIDELINE ........................................................................................................................... 13 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-MD-21_v1 
+Page 3 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Authorised 
+Representative 
+A natural person, resident in the Republic of South Africa, who a) has the 
+written mandate to represent a manufacturer, importer, distributor, 
+wholesaler, retailer or service provider in the Republic; b) acts on behalf of a 
+manufacturer, importer, distributor, wholesaler, retailer or service provider for 
+specified tasks with regard to the latter’s obligations and in whose name the 
+manufacturer licence, distributor licence, wholesaler licence and or certificate 
+of registration is issued; and c) is responsible for all aspects of the medical 
+device or IVD, including performance, quality, safety and compliance with 
+conditions of registration, clinical trials or clinical investigations; 
+Certificate of Free Sale 
+ 
+A document issued by the South African Health Products Regulatory Authority 
+(SAHPRA) to local manufacturers, which serves as confirmation that the listed 
+medical devices are legally sold or distributed in the open market in South 
+Africa, freely without restriction, in the country of origin (South Africa). A 
+Certificate of Free Sale may be referred to as a “Certificate for Export” or 
+“Certificate to Foreign Government” in other jurisdictions. 
+Classification 
+The medical devices regulatory framework has a classification system for 
+medical devices and IVDs, as per regulation 11 of the Regulations Relating to 
+Medical Devices and In Vitro Diagnostic Medical Devices of Act 101 of 1965 
+South African, and risk classification as per classification guideline SAHPGL-MD-
+04. 
+CFS 
+Certificate of Free Sale 
+CFSF number 
+This is a SAHPRA-assigned 4-digit Certificate of Free Sale Folder number with 
+CFSF as a prefix, thus having an 8-character number 
+FSCA 
+Field Safety Corrective Action is an action taken by a manufacturer to reduce 
+the risk of death or serious deterioration in the state of health associated with 
+the use of a medical device. Such actions should be notified via a field safety 
+notice. 
+GMDN Code 
+The GMDN code refers to a code assigned within the Global Medical Device 
+Nomenclature (GMDN) system, an internationally recognised standard for 
+naming, classifying, and categorising medical devices. 
+GMDN descriptor  
+A standardised definition or description of a medical device term within the 
+Global Medical Device Nomenclature (GMDN) system. 
+In Vitro Diagnostic 
+Medical Devices (IVDs) 
+Means a medical device, whether used alone or in combination, intended by 
+the manufacturer for the in vitro examination of specimens derived from the 
+body solely or principally to provide information for diagnostic, monitoring or 
+compatibility purposes. 
+Licence number  
+This is a SAHPRA-assigned 8-digit number with an MD at the end, thus having a 
+10-character licence number. 
+Manufacture 
+All operations that include the design, purchasing of material, specification 
+development, production, fabrication, assembly, processing, reprocessing, 
+releasing, packaging, repackaging, labelling and refurbishing of a medical 
+device or IVD, as the case may be, and includes putting a collection of medical 
+devices or IVDs, and possibly other products, together for a medical purpose in 
+accordance with quality assurance and related controls 
+SAHPGL-MD-21_v1 
+Page 4 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+Manufacturer 
+a natural or legal person with the responsibility for the design, manufacture, 
+packaging and labelling of a medical device or IVD before it is placed on the 
+market under the natural or legal person’s own name, or in the name of a firm 
+or company, regardless of whether these operations are carried out by that 
+person by himself or on his or her behalf by a third party; or any other person 
+who assembles, packages, reprocesses, refurbishes or labels one or more 
+ready-made products or assigns to them their intended purpose as a medical 
+device or IVD, with a view to their being placed on the market under the natural 
+or legal persons own name, except a person who assembles or adapts medical 
+devices or IVDs already on the market to their intended purpose for patients 
+Medical device 
+Means any instrument, apparatus, implement, machine, appliance, implant, 
+reagent for in vitro use, software, material or other similar or related article, 
+including Group III and IV Hazardous Substances contemplated in the 
+Hazardous Substances Act, 1973 (Act No. 15 of 1973)— 
+(a) intended by the manufacturer to be used, alone or in combination, for 
+humans or animals, for one or 
+more of the following: 
+(i) diagnosis, prevention, monitoring, treatment or alleviation of disease; 
+(ii) diagnosis, monitoring, treatment, alleviation of or compensation for an 
+injury; 
+(iii) investigation, replacement, modification or support of the anatomy or of a 
+physiological process; 
+(iv) supporting or sustaining life; 
+(v) control of conception; 
+(vi) disinfection of medical devices; or 
+(vii) providing information for medical or diagnostic purposes by means of in 
+vitro examination of 
+specimens derived from the human body; and 
+(b) which does not achieve its primary intended action by pharmacological, 
+immunological or metabolic means, in or on the human or animal body, but 
+which may be assisted in its intended function by such means. 
+MD 
+Medical Device 
+POP 
+Proof of Payment 
+ 
+ 
+ 
+SAHPGL-MD-21_v1 
+Page 5 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+1. 
+INTRODUCTION 
+A Certificate of Free Sale (CFS) is issued by the South African Health Products Regulatory Authority (SAHPRA), 
+which serves as confirmation that the listed medical devices, including IVDs, are legally sold or distributed in 
+the market in South Africa, freely without restriction, and listed by the regulatory authority (SAHPRA) in the 
+country of origin (South Africa). A CFS may only be provided for medical devices, including IVDs, listed on the 
+approved Medical Device Establishment Licence Form: GLF-MD-06A. 
+The CFS also serves as confirmation by SAHPRA that the manufacturer is licensed and authorised by SAHPRA 
+to manufacture the medical device/s. 
+The following exemption published on the 12th of February 2025 in the Government Notice No. 5855 in 
+Government Gazette No.  52105 is applicable. 
+The exemption of manufacturers, wholesalers and distributors of class A medical devices and In-Vitro 
+diagnostics (only those that do not have measuring properties/ characteristics and/ or are non-sterile) 
+from the operation of the provisions of section 22C (1) of the medicines and Related Substances Act, 
+1965 (Act No. 101 of 1965). 
+Link: 
+https://www.sahpra.org.za/document/exemptions-of-manufacturer-wholesalers-and-
+distributors-of-class-a-medical-device-and-in-vitro-diagnostics-from-the-operation-of-the-provisions-
+of-section-22c1-of-the-medicines-and-related-substanc/  
+NOTE: 
+‒ 
+Medical devices, including IVDs have not been assessed for safety and performance by SAHPRA and 
+are listed as part of the process to license a medical device establishment according to the activities 
+conducted in South Africa. 
+1.1 
+Purpose 
+This guideline outlines the process and requirements for applicants that manufacture medical devices, 
+including IVDs, in South Africa and who wish to apply for a free sale certificate to support their export 
+activities. 
+ 
+ 
+SAHPGL-MD-21_v1 
+Page 6 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+1.2 
+Scope 
+The guideline applies to the following: 
+1.2.1 
+A holder of a SAHPRA medical device establishment manufacturer’s licence. 
+1.2.2 
+A medical device, including an IVD, may be legally manufactured in South Africa if the following 
+requirements are met: 
+(a) The establishment must be the holder of a medical device manufacturer’s licence issued as per 
+section 22C of the Medicines and Related Substances Act (Act No. 101 of 1965) and authorised 
+by SAHPRA to manufacture medical devices including IVDs, 
+(b) The medical device or IVD must be listed with SAHPRA in the medical device licence application 
+form, 
+(c) The medical device or IVD must be manufactured in accordance with ISO 13485, 
+(d) The medical device or IVD must be intended for export to a foreign market, and  
+(e) The medical device or IVD is not the subject of an open recall and/ or Field Safety Corrective 
+Action (FSCA). 
+1.2.3 
+A South African medical device establishment that is exempted as per section 36 issued in February 
+2025, i.e. the exemption of manufacturers, wholesalers and distributors of class A medical devices 
+and in- vitro diagnostics (only those that do not have measuring properties/ characteristics and/ or 
+are non-sterile) from the operation of the provisions of section 22C (1) of the medicines and Related 
+Substances Act, 1965 (Act No. 101 of 1965). 
+Links: 
+- 
+https://www.sahpra.org.za/document/exemptions-of-manufacturer-wholesalers-and-
+distributors-of-class-a-medical-device-and-in-vitro-diagnostics-from-the-operation-of-the-
+provisions-of-section-22c1-of-the-medicines-and-related-substanc/ , and 
+- 
+https://www.sahpra.org.za/document/medicines-and-related-substances-act-1965-act-no-
+101-of-1965-as-amended/  
+ 
+SAHPGL-MD-21_v1 
+Page 7 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+1.3 
+Eligibility Criteria 
+To qualify for a CFS, the following conditions must be met: 
+(a) The product must be listed with SAHPRA in the medical device, including IVD, establishment 
+licence application form: GLF-MD-06A. 
+(b) The product must be legally sold in South Africa, 
+(c) The applicant must hold a valid SAHPRA medical device establishment manufacturer’s licence 
+to manufacture, distribute, and export the product, 
+(d) The applicant must be the licence holder and or the Authorised Representative as known by 
+the Regulator, and 
+(e) The application refers to a: 
+i. 
+Class A medical device, including IVD, that has measuring properties/characteristics 
+and/or is sterile;  
+ii. Class B medical device, including IVD;  
+iii. Class C medical device, including IVD; and  
+iv. Class D medical device, including IVD. 
+NOTE: The exemption of manufacturers, wholesalers and distributors of class A medical devices and in-vitro 
+diagnostics (only those that do not have measuring properties/ characteristics and/ or are non-sterile) from 
+the operation of the provisions of section 22C of the Medicines and Related Substances Act, 1965 (Act No. 
+101 of 1965) as published under Government Notice No. 5855 in Government Gazette No. 52105 is 
+applicable. 
+2. 
+LEGAL PROVISION 
+The Medicines and Related Substances Act 101 of 1965, as amended, read in conjunction with the latest 
+published General Regulations on Medical Devices and In Vitro Diagnostics, provides for the regulatory 
+oversight of Medical Devices including In Vitro Diagnostics (IVDs) in South Africa. 
+The government gazette exemption published on 12 February 2025 “The exemption of manufacturers, 
+wholesalers and distributors of class A medical devices and In-Vitro diagnostics (only those that do not have 
+SAHPGL-MD-21_v1 
+Page 8 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+measuring properties/ characteristics and/ or are non-sterile) from the operation of the provisions of section 
+22C of the Medicines and Related Substances Act, 1965 (Act No. 101 of 1965)” as published under Government 
+Notice No.5855 in Government Gazette No. 52105. 
+ 
+3. 
+REQUIRED DOCUMENTATION 
+The applicant must submit the following: 
+3.1 
+A cover letter on a company letterhead addressed to the CEO of SAHPRA with the subject of the 
+letter as RE: APPLICATION FOR A CERTIFICATE OF FREE SALE, stating; 
+(a) The rationale for the application of a Certificate of Free Sale. 
+(b) Product(s) for which the CFS is requested, 
+(c) Destination country/ ies, and the 
+(d) Intended use of the CFS (e.g., regulatory submission, market access). 
+3.2 
+For the applicants whom the exemption from having a medical device establishment licence as per 
+Section 22C of the Act is applicable, the following documents are mandatory to be submitted with 
+the application form: GLF-MD-21A. 
+(a) A signed declaration confirming compliance with exemption criteria for the product(s) 
+manufactured in South Africa according to the Government Notice No.5855 in Government 
+Gazette No.  52105. 
+(b) List of products to be included in the CFS, their product risk classification as per SAHPRA 
+Guideline No.: SAHPGL-MD-04 for-Classification-of-MD-and-IVDs and rationale for selecting the 
+product risk classification. 
+(c) Product label: Product instruction for use, marketing material and primary and secondary label. 
+3.3 
+A completed application form for Certificate of Free Sale (GLF-MD-21A) that includes at least the 
+following information: 
+(a) Applicant details 
+(b) Manufacturer(s) information 
+SAHPGL-MD-21_v1 
+Page 9 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+(c) Product listings relevant to the specific application. The products must be included in the current 
+SAHPRA licence application form of the manufacturer: GLF-MD-06A, for medical devices and 
+IVDs manufactured in South Africa, as provided in sections 4.1 and 4.2 of the form respectively 
+and exported as provided in sections 17.1 and 17.2. 
+NOTE: Point (c) is not applicable for establishments that intend to export only Class A non-
+measurable, non-sterile medical devices as per the government gazette), 
+(d) GMDN codes and descriptions,  
+(e) Product classifications. For medium to high risk (Class C) and high risk (Class D) medical devices 
+listed in the Certificate of Free Sale application: 
+i. 
+Evidence of pre-market approval/ registration/ evidence of emergency use authorisation 
+for each listed medical device/s from at least one of the six jurisdictions recognised by 
+SAHPRA (Australia, Brazil, Canada, Europe, Japan, United States of America) or pre-
+qualification by the World Health Organization for IVDs. 
+NOTE: Point (e) (i.) above may not be applicable for locally manufactured products. 
+ii. 
+Evidence of ISO 13485 certification of the original manufacturer. 
+iii. 
+Declaration that the medical device/s manufactured are safe and perform as intended and 
+that the medical device/s fulfils the Essential Principles of Safety and Performance for 
+Medical Devices. 
+(f) A copy of a valid SAHPRA medical device establishment licence to manufacture medical devices. 
+NOTE: 
+‒ 
+This is not applicable for an organization that is exempted - Government Notice No.5855 
+in Government Gazette No.  52105. 
+‒ 
+This is not applicable for establishments that intend to export only Class A non-
+measurable, non-sterile medical devices as per the government gazette. 
+(g)  Bank proof of payment for the applicable fee.  
+ 
+SAHPGL-MD-21_v1 
+Page 10 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+4. 
+BEFORE APPLYING FOR A CERTIFICATE OF FREE SALE 
+Certificates of Free Sale aim to meet the needs of the importing country. Before applying for a certificate, 
+SAHPRA recommends that the applicant contact the relevant foreign government through for example, their 
+consulate or embassy to ascertain what information must be supplied to facilitate the export of the medical 
+devices, including IVDs, to their specific country. 
+5. 
+APPLICATION PROCESS 
+The completed application form (GLF-MD-21A) must be submitted electronically to the following email 
+address:  mdreg@sahpra.org.za. 
+5.1 
+SAHPRA will review the documentation submitted to verify the validity of the medical device 
+establishment licence. 
+5.2 
+If all requirements are met, the CFS will be issued within 15 working days. 
+5.3 
+Applicants must ensure that all relevant fields are completed on the form, and all supporting 
+documents are submitted with the application. 
+5.4 Incomplete applications will be identified as deficient, and review will not be finalised until all 
+deficiencies are addressed. Applicants must ensure that all documents are submitted to minimise 
+the unforeseeable delays on the review of the application; the applicant is required to respond to 
+the deficiencies within 2 working days of receipt via email. Only 2 review opportunities are allowed. 
+NOTE:  An electronic PDF version of the completed Certificate of Free Sale application form: GLF-MD-21A 
+signed by the Authorised Representative must be submitted. 
+The Authority is committed to ensuring that all medical devices, including IVDs, are of the required quality, 
+safety, and performance. Applicants must adhere to the administrative requirements to avoid delays in the 
+processing and evaluation of applications. 
+ 
+6. 
+FORMAT OF THE CERTIFICATE OF FREE SALE 
+(a) The certificate will contain the following: 
+i) For applicants with a valid SAHPRA Medical Device Establishment Manufacturer Licence: 
+SAHPGL-MD-21_v1 
+Page 11 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+1) Name 
+2) Site address of manufacturer 
+3) Licence number of the SAHPRA-licensed manufacturer of a medical device 
+ii) For applicants without a SAHPRA Medical Device Establishment Licence as per the exemption and 
+intend to export only Class A non-measurable and non-sterile medical devices including IVDs: 
+1) Name 
+2) Site address of manufacturer 
+3) CFS file number i.e., CFSF [first letter of company name with unique four-digit number] 
+(b) Details of medical device/s intended for export and listed in this application, including: 
+i) GMDN code 
+ii) GMDN descriptor  
+iii) Name and/or group and/ or family of the medical device  
+iv) South African risk class of medical device 
+v) Recipient Country/ies 
+(c) Date of issue, 
+(d) Date of expiry,  
+(e) Name and contact details of Authorised Representative and Licence Holder, 
+(f) Any additional regulatory particulars required to facilitate the export of the listed medical device/s to 
+the relevant foreign government, and  
+(g) Official seal (only on the original physical document collected from SAHPRA). 
+ 
+ 
+SAHPGL-MD-21_v1 
+Page 12 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+7. 
+FEES 
+The fee for a Certificate of Free Sale is payable upon application and proof of payment and must be submitted 
+together with the completed application. 
+NOTE: Fees may be updated from time to time.  The onus is on the applicant to ensure that payment is 
+made in line with the current fee schedule published in the Government Gazette.  
+Applicants should note that, in terms of the provisions of the Medicines and Related Substances Act, 1965 
+(Act 101 of 1965), it is an offence to make false and/or misleading statements in connection with an application 
+for a Certificate of Free Sale. A person who fails to comply with, contravenes the provisions of, or wilfully 
+furnishes incorrect information in respect of the regulations is guilty of an offence and, upon conviction, is 
+liable to a fine or to imprisonment for a period not exceeding 10 years. 
+Payments should be made as per the latest “Government Notice No. 5856 in Government Gazette No.  52106”, 
+accessible here: https://www.sahpra.org.za/document/regulations-regarding-fees-payable-in-terms-of-the-
+provisions-of-the-medicines-and-related-substances-act-1965-act-no-101-of-1965/  
+ 
+8. 
+VALIDITY OF THE CERTIFICATE OF FREE SALE 
+The Certificate of Free Sale is valid for 12 months from the date of issue. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-MD-21_v1 
+Page 13 of 13
+Guideline for Medical Device Certificate of Free Sale 
+23 April 2026 
+ 
+ 
+9. 
+REFERENCES 
+The following related documents are referenced:  
+a. Medicines and Related Substances Act, Act 101 of 1965 as amended. 
+b. Regulations Relating to Medical Devices and In Vitro Diagnostic Medical Devices, Government Gazette 
+9 December 2016, No 40480 
+c. GLF-MD-06A: Licence Application to Manufacture Medical Devices 
+d. MD020 - Certificate of Free Sale v3 – 08092020 
+e. Regulations Regarding Fees Payable in terms of the Provisions of the Medicines and Related 
+Substances Act 
+f. SAHPGL-MD-04: Guideline for Classification of Medical Devices and IVDs  
+g. TGA: Certificates of free sale and export certificates for medical devices Version 1.1, February 2019, 
+https://www.tga.gov.au/sites/default/files/certificates-of-free-sale-and-export-certificates-for-
+medical-devices.pdf 
+h. USFDA: Exporting Medical Devices https://www.fda.gov/medical-devices/importing-and-exporting-
+medical-devices/exporting-medical-devices 
+10. VALIDITY OF GUIDELINE 
+This guideline is valid for a period of 5 years from the effective date. It will be reviewed on this timeframe or 
+as and when required. 
+ 
+

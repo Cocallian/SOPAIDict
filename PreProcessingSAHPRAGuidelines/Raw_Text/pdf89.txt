@@ -1,0 +1,616 @@
+SAHPGL-CEM-PRE-02_v2 
+Page 1 of 14
+ 
+ 
+ 
+6 February 2023 
+GUIDELINE FOR FIXED DOSE COMBINATION PRODUCTS (FDC 
+PRODUCTS) FOR HIV/AIDS, TUBERCULOSIS AND MALARIA 
+This guideline is intended to provide recommendations to applicants wishing to submit applications for the registration of medicines. 
+It represents the South African Health Products Regulatory Authority (SAHPRA) current thinking on the safety, quality and efficacy of 
+medicines. It is not intended as an exclusive approach. SAHPRA reserves the right to request any additional information to establish 
+the safety, quality and efficacy of a medicine in keeping with the knowledge current at the time of evaluation. Alternative approaches 
+may be used but these should be scientifically and technically justified. SAHPRA is committed to ensure that all registered medicines 
+will be of the required quality, safety and efficacy. It is important that applicants adhere to the administrative requirements to avoid 
+delays in the processing and evaluation of applications.  
+ 
+Guidelines and application forms are available from the office of the Chief Executive Officer and the website. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue released for comments, approved and published for 
+implementation 
+August 2012 
+2 
+- 
+Content structured on the latest SAHPRA Guideline Template 
+- 
+Old document number 2.31 changed to SAHPGL-CEM-PRE-02 
+February 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-PRE-02_v2 
+Page 2 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1 
+INTRODUCTION ......................................................................................................................................... 6 
+1.1 Purpose ...................................................................................................................................................... 6 
+1.2 Scope ......................................................................................................................................................... 6 
+2 
+CONSIDERATIONS ...................................................................................................................................... 7 
+3 
+NONCLINICAL PHARMACOLOGY AND TOXICOLOGY ................................................................................. 9 
+3.1 Microbiology .............................................................................................................................................. 9 
+3.2 Non-clinical Pharmacology and Toxicology Scenarios ............................................................................... 9 
+4 
+CLINICAL SAFETY AND EFFICACY .............................................................................................................. 11 
+5 
+GENERAL CONSIDERATIONS FOR CLINICAL STUDIES (SCENARIOS 3 AND 4) ........................................... 12 
+6 
+SELECTION OF ENDPOINTS IN CLINICAL TRIALS (SCENARIOS 3 and 4) .................................................... 13 
+7 
+REFERENCES ............................................................................................................................................. 13 
+8 
+VALIDITY .................................................................................................................................................. 14 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-PRE-02_v2 
+Page 3 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term: 
+Meaning: 
+Active Moiety 
+Defined in the Biostudies guideline. 
+API 
+Active Pharmaceutical Ingredient 
+AUC 
+The area under the curve for the parent active or metabolite concentration in 
+plasma, serum, or whole 
+blood against time. 
+AUC 
+Area under the curve 
+BE 
+Bioequivalence 
+Bioavailability 
+Defined in the Biostudies guideline. 
+Bioequivalence (BE) 
+Defined in the Biostudies guideline. 
+Bioequivalent FDC 
+product 
+An FDC product that can be substituted in patient care for an innovator 
+product. It has demonstrated bioequivalence to a referenced innovator 
+product and completed manufacturing processes and controls. By following 
+the innovator’s administration instructions, the bioequivalent FDC product 
+can be expected to have the same clinical safety and efficacy profile in 
+patients as the innovator product. The bioequivalent FDC product can rely on 
+the innovator product’s clinical and preclinical safety and efficacy data and 
+forgo a formal clinical safety and efficacy clinical testing program. These 
+products, often produced by many different manufacturers, are sometimes 
+referred to as multisource interchangeable products. In some jurisdictions 
+these products are called generic products. However, because in other 
+jurisdictions, the term generic does not include the critical concept of BE, the 
+use of the term generic product in international documents is not 
+recommended. 
+Bridging Toxicity Study 
+A limited non-clinical study that allows the assessment of the overall toxicity 
+of a multi-component regimen or an FDC product consisting of individual 
+active components for which the toxicity is already well characterized at the 
+dose level of interest. The design of such a study will depend on the existing 
+knowledge of the toxicity and toxicokinetics of the individual components. 
+CDER 
+Center for Drug Evaluation and Research 
+Cmax 
+The observed maximum or peak concentration of a parent active moeity or 
+metabolite in plasma, serum, or whole blood. 
+Cmin 
+The minimum concentration of a parent active moeity or metabolite 
+measured between one dose and the next. 
+Efficacy 
+The desired effect of a medicine on a disease condition. Efficacy must be 
+established by substantial evidence, such as independently corroborated 
+evidence, usually from appropriately blinded well-controlled clinical trials, 
+which demonstrate that the product will have the effect claimed in the 
+intended population according to predetermined statistical and clinical 
+SAHPGL-CEM-PRE-02_v2 
+Page 4 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+criteria. 
+EWP 
+Efficacy Working Party 
+FDC 
+Fixed-Dose combination 
+Fixed-dose combination 
+(FDC) product 
+A single product created by the combination of two or more active 
+pharmaceutical ingredients (APIs) in a single formulation, and in which each 
+API contributes to the benefit of the new product. FDC products are not 
+simply two single, distinct products packaged together. APIs can be 
+pharmaceutical (i.e. chemical) or biologic in origin. 
+GMP 
+Good Manufacturing Practice 
+ICH 
+International Conference on Harmonisation 
+Innovator FDC product 
+The first registered formulation of a new FDC product, generally as a patented 
+medicine on the basis of original scientific documentation of safety, efficacy, 
+and pharmaceutical quality. 
+Innovator product 
+The first registered formulation of a new product, generally as a patented 
+medicine on the basis of original scientific documentation of safety, efficacy, 
+and pharmaceutical quality. 
+Microbiology 
+Includes bacteria, viruses, and parasites. 
+Monotherapy 
+Using one active component for the treatment of a condition. 
+Multi-component 
+Regimen 
+Using more than one active component simultaneously for the same 
+condition. 
+Multisource Product 
+Defined in the Biostudies guideline. 
+New Molecular Entity 
+An active pharmaceutical ingredient that has never been used in a marketed 
+finished dosage form. 
+Pharmaceutical 
+Equivalence 
+Defined in the Biostudies guideline. 
+PK 
+Pharmacokinetic 
+Post-marketing Active 
+Surveillance 
+Active surveillance seeks to ascertain completely the number of adverse 
+events via a continuous pre-organised process. 
+Post-Marketing 
+Surveillance 
+Procedures implemented after registration of a medicine for a given 
+indication that is designed to provide information on the actual use of the 
+medicine for that indication and on the occurrence of related side effects. 
+The surveillance usually involves survey techniques rather than controlled 
+trials. 
+Registered FDC product 
+An FDC product for human use which has underlying clinical, preclinical, and 
+manufacturing data, that has been evaluated and approved for registration by 
+the Medicines Control Council and meets required scientific and legal 
+standards for authorized marketing in the Republic of South Africa. 
+Safety 
+A measure of the product’s ability to cause the desired effect without harming 
+the patient. As no medicine is completely safe, a positive risk-benefit ratio 
+needs to be established for the intended patient population based on non-
+clinical and clinical data (i.e., that the established benefits of the product 
+SAHPGL-CEM-PRE-02_v2 
+Page 5 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+outweigh the known risks of the product when used as directed in the 
+intended population). 
+Stability 
+Refer to the Stability guideline. 
+Statistical Equivalence 
+When the efficacy/evaluated effect of the investigational product does not 
+differ substantially in either direction from the comparator. If two treatments 
+are to be declared equivalent, then the two-sided (1-α) x 100 percent 
+confidence interval should lie entirely within a pre-specified interval (α is 
+defined as the type I error of the test). 
+Statistical Non-inferiority 
+The efficacy / evaluated effect of the investigational product is not 
+substantially inferior to that of the comparator. The lower bound of the (1-α) 
+x 100 percent confidence interval around the observed efficacy / effect of the 
+investigational product minus the observed efficacy / effect of the comparator 
+product is greater than the pre-specified limit (α is defined as the type I error 
+of the test). 
+Statistical Superiority 
+When the efficacy / evaluated effect of an investigational product is better 
+than that of the comparator. The lower bound of the (1-α) x 100 percent 
+confidence interval around the observed efficacy / effect of the 
+investigational product minus that of the comparator product is greater than 
+zero (α is defined as the type I error of the test). 
+Surveillance 
+Spontaneous reports voluntarily reported either to pharmaceutical 
+manufacturers, to national or regional pharmacovigilance centres, or to 
+national regulatory authorities by healthcare professionals, other 
+professionals, or consumers. 
+Systematic Review 
+An analysis of an existing body of evidence that addresses clearly formulated 
+questions and uses systemic and explicit methods to identify, select and 
+critically appraise relevant research using statistical or nonstatistical methods. 
+Therapeutic Equivalence 
+Defined in the Biostudies guideline. 
+Tmax 
+The time point after administration of the medicine at which Cmax is 
+observed. 
+WHO 
+World Health Organization 
+ 
+ 
+ 
+SAHPGL-CEM-PRE-02_v2 
+Page 6 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+1 
+INTRODUCTION 
+HIV/AIDS, tuberculosis, and malaria are the foremost infectious disease threats to public health. Combination 
+therapy is considered to be essential in the treatment of these diseases and in the prevention of resistance. 
+From a public health perspective, an important approach to addressing the management of HIV/AIDS, 
+tuberculosis and malaria has included the development of fixed-dose combinations (FDCs) of individual 
+components administered together in one dosage form. Among others, FDCs simplify treatment regimens, 
+improve convenience of use and patient adherence, facilitate the implementation of interventional programs, 
+and potentially limit the development of resistance. The importance of combination therapy is not unique to 
+AIDS/HIV, malaria and tuberculosis. Combination therapy is also used in the treatment of infections other than 
+those listed above, as well as in non-infectious diseases such as hypertension, diabetes and epilepsy. However, 
+the scope of this policy document is to concentrate only on combination therapies to be used for treating 
+HIV/AIDS, tuberculosis and malaria. 
+Notwithstanding the benefits described above, there are challenges related to the development and use of 
+FDCs such as dose-titration of the individual components, the interplay of adverse effects, allergies to one or 
+more of the components, and complex pharmacokinetic (PK) or pharmacodynamic profiles. 
+It should be noted that the risk/ benefit assessments for FDCs may have to take into consideration the 
+differences in anticipated patient populations, and that decision-making may vary between the different 
+medicine regulatory authorities. It should also be noted that this document does not relate to biological 
+medicines. 
+1.1 
+Purpose 
+This policy document provides principles to be taken into account when evaluating FDC products. These 
+principles focus on scientific aspects of efficacy and safety of FDC products intended for the treatment of 
+HIV/AIDS, tuberculosis, and malaria. 
+References consulted are listed at the end of the document. 
+1.2 
+Scope 
+This guideline is intended to provide recommendations to applicants wishing to submit applications for the 
+FDC products. Any specific technical guidance indicated in Guideline for Fixed Dose Combination Products 
+(FDC Products) for HIV/AIDS, Tuberculosis and Malaria should be applied. In addition to this guideline, 
+SAHPRA reserves the right to request any additional information to establish the safety, quality and efficacy 
+of a medicine in keeping with the knowledge current at the time of evaluation. SAHPRA is committed to 
+SAHPGL-CEM-PRE-02_v2 
+Page 7 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+ensure that all registered medicines will be of the required quality, safety and efficacy.  
+2 
+CONSIDERATIONS 
+2.1 
+In the evaluation of FDC products, it is necessary to take three factors into account: 
+2.1.1 The safety and efficacy of the individual active components. 
+2.1.2 The safety and efficacy of the simultaneous use of the individual active components (multi-
+component regimen); and 
+2.1.3 The possible chemical and physical interactions between active components derived from a 
+multi-component regimen when they are formulated into an FDC product. 
+2.2 
+The following considerations generally apply when determining whether active components are 
+suitable for a multi-component regimen and hence also for inclusion in an FDC product. The medical 
+and scientific rationale should support the simultaneous use of more than one active component in 
+at least one of the following ways: 
+2.2.1 Increased efficacy (additive or synergistic).  
+2.2.2 Reduced toxicity. 
+2.2.3 Limiting the development of resistant pathogens; and  
+2.2.4 Boosting of active moiety levels. 
+2.3 
+Additionally, FDC products have some important advantages over multi-component regimens, such 
+as:  
+2.3.1 Improved adherence.  
+2.3.2 Convenience of use.  
+2.3.3 Reduced number of dosage units and/or simplified treatment regimens; and  
+2.3.4 Facilitating the logistics of procurement, distribution, and dispensing. 
+2.4 
+In evaluating a practical FDC dosage regimen, it is necessary to ensure that constituent active 
+components have suitable PK and physicochemical properties. Several factors need to be considered:  
+SAHPGL-CEM-PRE-02_v2 
+Page 8 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+2.4.1 Combining active components with different pharmacokinetic characteristics may be 
+problematic. For example, combining antimicrobials with short and long elimination half-lives 
+may result in the emergence of resistance where a single component persists in the absence 
+of the companion active(s) particularly in the case of long-term treatment. It may be possible 
+to address differences in pharmacokinetics by modification of FDC product formulations.  
+2.4.2 Conflicting effects of food on the bioavailability of the components might complicate a dosing 
+strategy: and  
+2.4.3 The components used in FDC products should be chemically and physically compatible, unless 
+formulation techniques have been demonstrated to overcome any such incompatibility.  
+2.5 
+Paediatric FDC formulations often differ from adult FDC products, and special consideration is needed 
+concerning issues such as stability, palatability, dosing (frequency, mg/m2, mg/kg), toxicity (e.g. 
+excipients and degradation products) and food requirements.  
+2.6 
+This policy document describes the principles of FDC product clinical evaluation in relation to the 
+following four scenarios: 
+2.6.1 Scenario 1 
+A new FDC product developed as a generic bioequivalent to an existing FDC product. 
+2.6.2 Scenario 2 
+A new FDC product developed by combining active components that are already well studied and for 
+which the simultaneous use of all the individual active components in a multi-component regimen 
+has been well characterised as safe and effective. The dosage regimen of the components given 
+individually in a multi- component regimen and the dosage regimen of the FDC product are the same. 
+2.6.3 Scenario 3 
+A new FDC product developed from individual components that have a well-characterized safety and 
+efficacy profile on their own, but the efficacy and safety of their simultaneous use in a multi-
+component regimen is not well established; or an FDC product developed using two or more well-
+characterized individual components of an established multi-component regimen when the dosing 
+regimen of the FDC product is novel. 
+2.6.4 Scenario 4 
+SAHPGL-CEM-PRE-02_v2 
+Page 9 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+A new FDC product developed by incorporating one or more new molecular entities. 
+3 
+NONCLINICAL PHARMACOLOGY AND TOXICOLOGY 
+3.1 
+Microbiology 
+3.1.1 
+Scenarios 1 and 2 
+Generally, no microbiologic evaluations are needed, unless the new FDC product is intended for a 
+different geographic area with a different pathogen and/or resistance pattern. 
+3.1.2 
+Scenarios 3 and 4 
+Microbiologic evaluations may be needed to determine the advantage of multi-component 
+regimens or FDC products over individual active components against a given pathogen. Such 
+microbiologic studies may be needed to motivate the selection of appropriate entities for combined 
+use, and to evaluate the advantage of the multi component regimen over individual active 
+components, when clinical trials of monotherapy are inappropriate or unethical. 
+The following types of data may be important and should be obtained from studies performed to 
+accepted standards: 
+3.1.2.1 Characterization of microbiologic activity in vitro and in vivo against laboratory strains and 
+clinical isolates of the targeted pathogens including those in the relevant geographic regions. 
+3.1.2.1 Characterization of microbiologic activity in appropriate animal models of infection with the 
+targeted pathogens. 
+3.1.2.1 Characterization of the mechanism by which the active ingredients exhibit additive or 
+synergistic microbiologic activity against the targeted pathogens. 
+3.1.2.1 Investigation of potential antagonistic effects between the active components. 
+3.1.2.1 Investigation of the potential for development of resistance of target pathogens in vitro and 
+in vivo; and 
+3.1.2.1 Where there are concerns about sub-therapeutic trough levels, investigation of microbiologic 
+activity at anticipated human Cmin concentrations might be needed. In such cases, Cmin should 
+be evaluated in human steady-state PK studies. 
+3.2 
+Non-clinical Pharmacology and Toxicology Scenarios  
+3.2.1 
+Scenarios 1 and 2 
+SAHPGL-CEM-PRE-02_v2 
+Page 10 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+Non-clinical pharmacology and toxicology studies are generally not needed, as long as 
+internationally acceptable excipients are used, and the impurities profile does not significantly 
+deviate from the reference product.  
+3.2.2 
+Scenario 3  
+3.2.2.1 For FDCs of two or more registered products, the need for non-clinical pharmacology or 
+toxicology studies should be considered on a case-by-case basis. Generally, a bridging toxicity 
+study should be considered if the combination is novel, or if the dose is higher than previously 
+characterized and accepted. The design of the bridging study will depend on the individual 
+components of the FDC. In such studies, consideration should be given to the dose ratios to 
+be used in non-clinical studies versus the ones in clinical use and to the systemic exposure in 
+animal versus man. 
+3.2.2.2 Additional non-clinical studies may be requested if the proposed indication involves a longer 
+treatment duration than is currently registered for one or more of the active components in 
+the FDC. 
+3.2.2.3 Additional non-clinical studies may be requested based on the outcome of the bridging study 
+or if there is potential for interactions or overlapping toxicity. 
+3.2.3 
+Scenario 4  
+3.2.3.1 A combination of one new molecular entity - for example, a new active component not 
+previously registered for medicinal use in humans - with one or more registered active 
+components requires a complete non-clinical evaluation (including genotoxicity and 
+reproduction toxicity studies) of the new molecular entity. In addition, investigation of the 
+toxicokinetics and a bridging toxicity study for the FDC may be needed. Alternatively, a 
+complete non-clinical pharmacologic and toxicologic evaluation of the FDC (instead of the 
+new molecular entity alone) may be considered as an option. 
+3.2.3.2 If more than one new molecular entity is included in an FDC, a complete non-clinical 
+evaluation (including genotoxicity and reproduction toxicity studies) of each new single entity 
+and an appropriate bridging study for the FDC are required. The design of the bridging study 
+depends on the individual entities of the FDC and the proposed conditions of use. 
+3.2.3.3 Additional non-clinical studies may be needed based on the outcome of the bridging study 
+or if there is potential for interactions or overlapping toxicity between the new and already 
+SAHPGL-CEM-PRE-02_v2 
+Page 11 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+registered entities of the intended FDC. 
+3.2.4 
+All scenarios  
+For all scenarios, additional non-clinical studies may be needed if new concerns are raised from non-
+clinical or clinical information. 
+4 
+ CLINICAL SAFETY AND EFFICACY  
+4.1 
+Scenario 1  
+A properly designed study should demonstrate bioequivalence (BE) between the FDC product and 
+an adequate reference product in line with the latest Medicines Control Council guideline on 
+Biostudies.  
+4.2 
+Scenario 2  
+4.2.1 
+A properly designed study should demonstrate bioequivalence between the FDC product 
+and the individual active components given together.  
+4.2.2 
+The advantage of the combination may differ depending on the individual active components 
+and the indication for use as described previously. The rationale for the simultaneous use of 
+the individual active components in a multi-component regimen (and therefore in the 
+proposed FDC product) must be justified. Each active component must be shown to 
+contribute an advantage, when incorporated into the multi-component regimen or FDC 
+product at the relevant doses. This may generally be demonstrated by means of a systematic 
+review of the literature and/or other already existing data from clinical studies. 
+4.3 
+Scenario 3  
+4.3.1 
+The potential for favourable or unfavourable interactions between the components should 
+have been investigated in appropriate PK and pharmacodynamic studies.  
+4.3.2 
+For a novel FDC (where a corresponding multi-component regimen has not already been 
+established), the rationale for the simultaneous use of the individual active components 
+generally needs to be justified by means of adequate comparative clinical studies. Such 
+clinical studies should convincingly demonstrate the contribution to the efficacy and/or 
+safety of each active component incorporated into the combination at the proposed doses.  
+4.3.3 
+When a novel FDC involves a change in the dose regimen of a previously characterised multi-
+component regimen or FDC product, comparative clinical studies should be performed, 
+SAHPGL-CEM-PRE-02_v2 
+Page 12 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+demonstrating at least equal efficacy and safety of the new dosing regimen compared to the 
+previously used regimen.  
+4.3.4 
+In situations where comparative clinical trials are not feasible, for example when 
+monotherapy is not acceptable, and aggregate of clinical and non-clinical data may be 
+substituted. Such data may include:  
+4.3.4.1 historical clinical data on the components used alone at comparable doses / at comparable 
+exposure as in the proposed FDC; 
+4.3.4.2 bridging pharmacokinetic data, where applicable; 
+4.3.4.3 non-clinical pharmacology and/or toxicology data; and 
+4.3.4.4 in vitro microbiologic data.  
+4.3.5 
+Clinical trials should demonstrate that the proposed FDC is statistically either non-inferior, 
+equivalent, or superior compared to recognised treatment for the proposed indication. The 
+reason for the choice of statistical hypothesis needs to be specified in the study protocol and 
+the chosen option should be appropriate to the nature of the comparator and the scientific 
+objective. For example, if a novel three-component FDC is compared to an existing FDC 
+containing two of the active components, superiority should be shown. If an FDC is compared 
+to a recognised treatment containing different active components, at least non-inferiority 
+should be shown.  
+4.3.6 
+Combining the components of the proposed multi-component regimen into one product 
+should not compromise the overall risk-benefit profile.  
+4.3.7 
+When there is potential for interaction or overlapping toxicity, preclinical toxicity studies, 
+clinical safety studies and dose ranging studies may be needed before embarking on clinical 
+efficacy studies. 
+4.4 
+Scenario 4 
+A comprehensive clinical development program is needed. 
+5 
+GENERAL CONSIDERATIONS FOR CLINICAL STUDIES (SCENARIOS 3 AND 4)  
+5.1 
+In clinical safety and efficacy studies, comparators or comparator regimens should represent the 
+SAHPGL-CEM-PRE-02_v2 
+Page 13 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+recognised treatment for the indication in question. Because reliable performance of the comparator 
+pharmaceutical product is crucial in determining the safety and efficacy of new FDC products or 
+combination regimens, these comparators should be registered products, preferably innovator 
+products or registered products whose safety, efficacy, and quality parameters have been well 
+established and independently vetted by the Medicines Control Council (Refer Pharmaceutical and 
+Analytical guideline - Reference products). 
+5.1 
+Unapproved or novel combinations should be avoided as comparators, as they may introduce new 
+toxicities and complicate the evaluation of safety and efficacy.  
+5.1 
+Individual components that are being considered for inclusion in an FDC should have a well-
+established risk-benefit profile in the target population when used according to the recommended 
+dosing regimens. Consideration should be given to ethnic, environmental, co-morbid, and nutritional 
+variations between populations, when scientifically appropriate.  
+5.1 
+The protocols should clearly state whether non-inferiority, equivalence or superiority is the objective 
+of the studies. 
+6 
+SELECTION OF ENDPOINTS IN CLINICAL TRIALS (SCENARIOS 3 and 4) 
+6.1 
+Clinical and microbiological endpoints including treatment duration should be selected that are 
+relevant for the indication. Accepted guidelines, where available, should be consulted. 
+6.2 
+The follow-up period in clinical trials should be appropriate to allow:  
+6.2.1 
+scientifically acceptable assessment of efficacy;  
+6.2.2 
+where applicable, an assessment of the risk of relapse after cessation of therapy; and  
+6.2.3 
+an adequate assessment of late-appearing adverse events. 
+7 
+REFERENCES 
+The reference documents listed below are intended to provide additional information. However, it should be 
+noted that documents identified do not represent a comprehensive list of all reference documents and may 
+be further supplemented: 
+7.1 “Note for Guidance on Repeated Dose Toxicity,” July, 2000. Committee for Proprietary Medicinal 
+Products, www.emea.eu.int/pdfs/human/swp/104299en.pdf   
+SAHPGL-CEM-PRE-02_v2 
+Page 14 of 14
+Guideline for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria 
+6 February 2023 
+ 
+ 
+7.2 
+“Note for Guidance on Fixed-Dose Combination Medicinal Products,” April 1996, Committee for 
+Proprietary. Medicinal Products/Efficacy Working Party/240/95. 
+7.3 
+“Note for Guidance for on the Clinical Development of Medicinal Products for Treatment of HIV 
+Infection.” March, 2003, Committee for Proprietary Medicinal Products, 
+www.emea.eu.int/pdfs/human/ewp/063302en.pdf   
+7.4 
+“Points to Consider on Pharmacokinetics and Pharmacodynamics in the Development of 
+Antibacterial Medicinal Products,” July, 2000. Committee for Proprietary Medicinal 
+Products/Efficacy Working Party/2655/99. www.isap.org/1999/Uppsala/265599en.pdf  
+7.5 
+“Note for Guidance on Duration of Chronic Toxicity Testing in Animals,” Nov. 1999. International 
+Conference on Harmonization. www.ich.org  
+7.6 
+“Dose-Response Information to Support Drug Registration,” March 1994. International Conference 
+on Harmonization. www.ich.org   
+7.7 
+“Pharmacovigilance Planning, E2E,” Nov. 11, 2003. International Conference on Harmonization. 
+www.ich.org   
+7.8 
+Guidelines for good clinical practice (GCP) for trials on pharmaceutical products", 1996, World 
+Health Organization, Technical Report Series No. 850, 1995, Annex 3, 
+www.who.int/medicines/library/par/ggcp/GCPGuidePharmatrials.pdf   
+7.9 
+Guidance for Industry, “E6 Good Clinical Practice: Consolidated Guidance,” April 1996. International 
+Conference on Harmonization. www.fda.gov/cder/guidance/959fnl.pdf  
+7.10 Guidelines for registration of fixed-dose combination medicinal products, 2005, World Health 
+Organization, Technical Report Series No. 929, Annex 5, 
+http://whqlibdoc.who.int/trs/WHO_TRS_929_eng.pdf#page=103  
+8 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+number 2.31 for Fixed Dose Combination Products (FDC Products) for HIV/AIDS, Tuberculosis and Malaria. It 
+will be reviewed on this timeframe or as and when required. 
+ 
+

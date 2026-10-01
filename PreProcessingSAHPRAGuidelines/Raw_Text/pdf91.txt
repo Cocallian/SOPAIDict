@@ -1,0 +1,877 @@
+SAHPGL-RDN-RN-13_v2 
+Page 1 of 16
+ 
+ 
+ 
+12 December 2022 
+GUIDELINE FOR MANAGEMENT AND DISPOSAL OF NON-
+NUCLEAR RADIOACTIVE WASTE 
+This guideline deals with the management and disposal of non-nuclear radioactive waste. The RPO and ARPO of the Authority Holders 
+are also guided in the administrative and legal requirements of which they are subjected to. 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue and published for implementation 
+April 2005 
+2 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-RN-13 allocated to this 
+Guideline 
+December 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-RN-13_v2 
+Page 2 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 4 
+3. 
+GENERAL PRINCIPLES AND PROCEDURES .................................................................................................. 4 
+3.1 
+Radiation doses .......................................................................................................................................... 5 
+3.2 
+Segregation and labelling of unsealed radioactive waste ......................................................................... 5 
+3.3 
+Sealed radioactive sources ......................................................................................................................... 6 
+3.4 
+Packaging .................................................................................................................................................... 7 
+3.5 
+Transportation ............................................................................................................................................ 7 
+3.6 
+Interim storage ........................................................................................................................................... 7 
+4. 
+MECHANISMS FOR DISPOSAL OF LOW-LEVEL WASTE ............................................................................... 8 
+4.1 
+Incineration ................................................................................................................................................ 9 
+4.2 
+Disposal to a sewer .................................................................................................................................. 10 
+4.3 
+Release to the atmosphere ...................................................................................................................... 10 
+5. 
+RESPONSIBILITIES ..................................................................................................................................... 11 
+5.1 
+General responsibilities of the authority holder ...................................................................................... 11 
+5.2 
+Responsibilities of incinerator operators ................................................................................................. 12 
+5.2.1 Incinerator operators ............................................................................................................................... 12 
+6. 
+ACTIVITY LIMITS FOR LOW-LEVEL WASTE ................................................................................................ 13 
+6.1 
+Liquid waste ............................................................................................................................................. 13 
+6.2 
+Solid waste ............................................................................................................................................... 13 
+6.3 
+Waste containing more than one radionuclide ....................................................................................... 13 
+7. 
+REFERENCES ............................................................................................................................................. 14 
+8. 
+VALIDITY ................................................................................................................................................... 14 
+9. 
+ANNEXURES .............................................................................................................................................. 15 
+9.1 
+Annexure 1: Transport Signage Categories .............................................................................................. 15 
+9.2 
+Annexure 2: The Concept ALImin ............................................................................................................. 16 
+ 
+SAHPGL-RDN-RN-13_v2 
+Page 3 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+RPO 
+Radiation Protection Officer 
+ARPO 
+Acting Radiation Protection Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-RN-13_v2 
+Page 4 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Radioactive waste generated through the use of radioactive substances in industry, research and medicine 
+(non-nuclear applications) is subject to regulatory control in terms of the Hazardous Substances Act, 1973 (Act 
+15 of 1973). The body responsible for administering this legislation is SAHPRA. 
+Radioactive waste consists of a great diversity of products in many physical and chemical forms containing a 
+wide variety of radioactive nuclides at different concentration levels. The characteristics of the different waste 
+types are essential factors which determine the choice of a safe method of waste management. Rules are 
+therefore required for the grouping of waste into different categories depending on the proposed waste 
+management system. 
+1.1 Purpose 
+The increasing use of radioactive substances in non-nuclear applications has resulted in a considerable 
+increase in the quantities of radioactive waste produced. This development demands that better and more 
+uniform control procedures be implemented to ensure optimum management of waste. The aim of this 
+code is therefore to ensure that, through optimum waste management, the exposure of workers and 
+members of the public to ionising radiation will be restricted to a minimum. 
+1.2 Scope 
+This guideline is intended for all RPOs and ARPOs who deals with the management and disposal of non-
+nuclear radioactive waste. 
+2. 
+LEGAL PROVISION 
+The following are the relevant regulatory documents with necessary provisions: 
+− 
+Hazardous Substances Act 15 of 1973 
+− 
+R246, R247 Regulations related to Group IV Hazardous Substances 
+3. 
+GENERAL PRINCIPLES AND PROCEDURES 
+The holder of an authority who works with unsealed radioactive material must introduce a waste management 
+procedure which takes cognisance of the following factors: 
+− 
+the origin of the waste 
+− 
+the physical and chemical form of the waste 
+− 
+the activity and the type of radioactive nuclide(s) in the waste 
+SAHPGL-RDN-RN-13_v2 
+Page 5 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+− 
+the activity concentration 
+− 
+the properties of the radioactive nuclide(s) (e.g. half-life, radiotoxicity, etc.) 
+− 
+the planned disposal method 
+− 
+the environment into which the waste will be released 
+− 
+the ecological transfer mechanisms 
+3.1 
+Radiation doses 
+The holder of an authority must ensure that the handling, packaging, transportation and disposal of 
+radioactive waste is carried out in such a manner that the resultant radiation doses to occupationally 
+exposed workers, critical groups and to the population as a whole are restricted in accordance with 
+SAHPRA’s requirements. 
+For all operations the following three aspects must be taken into consideration: 
+− 
+occupational exposure during waste handling, packaging, storage and disposal; 
+− 
+individual doses to persons in critical groups. 
+− 
+the collective dose resulting from the disposal of the waste; 
+3.2 
+Segregation and labelling of unsealed radioactive waste 
+The waste must be segregated at the point of origin into three categories: 
+− 
+Inactive waste: Laboratory utensils or other materials which have been inside a radioisotope  
+laboratory  or  which  have  in  some  other  way  been  in  the  vicinity    of radioactive materials, 
+but where the risk of contamination has been very small. This type of waste may be disposed of as 
+normal refuse. 
+− 
+Low Level waste: Radioactive waste which does not exceed the activity limits specified in section 6 
+of this code. This type of waste must be disposed of in the manner specified in Section 4. 
+− 
+High Level waste: Radioactive waste which exceeds the activity limits specified in section 6 of this 
+code. This waste must be stored for decay or disposed of at the Necsa's nuclear waste site at 
+Pelindaba. 
+ 
+To facilitate the management of the waste, further categorisation of low- and high-level radioactive waste 
+should be carried out. Suitable categories are: 
+− 
+waste containing only short-lived radionuclides which can be stored for decay prior to disposal; 
+SAHPGL-RDN-RN-13_v2 
+Page 6 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+− 
+combustible waste; 
+− 
+non-combustible waste; 
+− 
+compactable waste; 
+− 
+non-compactable waste; 
+− 
+inorganic liquid waste; 
+− 
+organic liquid waste; 
+− 
+biological waste. 
+ 
+All categories may not always be applicable. For example, segregation of combustible and non- combustible 
+waste is relevant only if there are suitable incinerators available for the waste. 
+At the point of origin of the waste a sufficient number of waste receptacles must be available to facilitate 
+proper waste segregation. Suitable waste receptacles are refuse bins with foot-operated lids, lined with a 
+strong plastic bag. 
+Immediately after filling a waste package (i.e. before it is removed for interim storage), it must   be labelled 
+with the following information: 
+− 
+Date 
+− 
+Waste producer (i.e. name of the laboratory, hospital department, etc.) 
+− 
+Radionuclide content (e.g. x kBq H-3, y kBq C-14 and z kBq Sr-90) 
+− 
+External surface dose rate 
+− 
+Waste category or categories 
+− 
+Person responsible for the waste 
+− 
+The label must be signed by the person responsible for the operation producing the waste (or by 
+someone else according to an approved local instruction) 
+3.3 
+Sealed radioactive sources 
+Disposal procedures for sealed sources differ from those for unsealed radioactive material. Each time a 
+sealed source is to be disposed of, written permission must be obtained from SAHPRA.  Sealed sources are 
+usually disposed of at the Necsa's waste site at Pelindaba or, as   is the case with some imported sources, 
+are re-exported to the country of origin. Sealed sources may not be disposed of to incinerators or landfill 
+sites. 
+SAHPGL-RDN-RN-13_v2 
+Page 7 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+ 
+3.4 
+Packaging 
+ 
+Packaging of radioactive waste material for transport must be secure and so designed that the package can 
+be easily handled. The outer layer must be of such material as to avoid, as far as practicable, the collection 
+and retention of water. There must be at least two complete layers of packaging between the radioactive 
+waste material and the exterior of the package, one layer of which must be waterproof. 
+An acceptable method of handling low level radioactive waste would be to dispose of it initially to a waste 
+receptacle lined with a plastic bag, seal the plastic bag, and then place the whole in a second plastic garbage 
+bag, box or other suitable container (e.g. a drum) in a clean area of the user's premises. The outer 
+containment must also be securely closed. 
+In the case of syringe needles, pipette tips and any other sharp objects, these must be adequately protected 
+by means of an impenetrable sleeve or container prior to containment to ensure that they do not puncture 
+the packaging material. 
+High level radioactive waste and sealed sources which are to be disposed of at the Necsa's waste site, are 
+subject to special packaging requirements. 
+3.5 
+Transportation 
+All transportation of radioactive waste must be carried out in accordance with IAEA transport regulations 
+(ref 1). 
+Consignments of low-level waste can generally be treated as "excepted packages" and radiation warning 
+signs are not required to appear on the vehicle conveying the waste. 
+High level waste consignments must be assigned to an appropriate transport category (e.g. I- white, II-
+yellow, etc. See Annexure 1 - fig. 2, 3, 4) and must be labelled and transported in accordance with the 
+relevant IAEA requirements. See Annexure 1 - fig. 5 for correct transport sign to be affixed on vehicles. 
+3.6 
+Interim storage 
+Radioactive waste must be stored under controlled conditions while awaiting disposal.For the interim 
+storage of radioactive waste, the following must be taken into consideration: 
+− 
+Each holder of an authority generating radioactive waste must have, or have access to, a room or 
+location for interim storage of the waste. The available area must be large enough to store all the 
+SAHPGL-RDN-RN-13_v2 
+Page 8 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+waste in an orderly manner and to keep the different waste categories separate. 
+− 
+Only waste which is properly labelled must be accepted for interim storage (see Section 3.2). 
+− 
+The interim storage must be locked to prohibit unauthorized access. 
+− 
+A radiation warning sign must be posted at the entrance to the interim storage. The telephone 
+number of a person to contact in the event of an emergency must appear on the sign. 
+− 
+The interim storage must be provided with enough shielding material, either in the walls or as 
+movable shielding material, to ensure that doses to individuals outside the storage area are below 
+prescribed dose limits. 
+− 
+The storage must be constructed and have such surfaces on floors, benches and walls as to facilitate 
+decontamination. 
+− 
+Only radioactive waste may be stored in the interim storage room or location. 
+− 
+Radioactive waste which is inflammable waste, such as certain organic liquids, must be stored in a 
+separate part of the storage provided with special fire-fighting provisions. 
+− 
+Liquid waste must preferably be absorbed in suitable material (such as vermiculite) before storage. 
+− 
+When liquid waste is stored it must be placed in a secondary container, or when small volumes are 
+involved, on a tray large enough to contain the liquid if the primary container starts leaking during 
+storage. 
+− 
+Biological waste, such as animal carcasses, must be protected against decomposing during interim 
+storage. This can be achieved by deep freezing or by storing in jars containing formaldehyde or 
+alcohol or in containers filled with quicklime. 
+− 
+A record must be kept of waste in storage. A note must be made in the record of the date waste is 
+removed for final disposal and to where it is taken. 
+− 
+When large quantities of volatile radioactive nuclides such as H-3, I-125, and I-131 are stored, the 
+interim storage area must be equipped with an extraction system, and regular air monitoring must 
+be performed. 
+4. 
+MECHANISMS FOR DISPOSAL OF LOW-LEVEL WASTE 
+Low level radioactive waste must be disposed of via one of the following mechanisms to ensure the resulting 
+radiological impact to the environment is acceptable. Such releases must take place in accordance with the 
+requirements and limits specified in sections 4.1 to 4.4 for the particular disposal mechanism. If these 
+requirements and/or limits cannot be met, the waste should be disposed of at the Necsa's waste site at 
+Pelindaba, or SAHPRA consulted with regard to alternative disposal methods. 
+SAHPGL-RDN-RN-13_v2 
+Page 9 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+ 
+4.1 
+Incineration 
+All incinerators used for the disposal of radioactive waste must be approved by SAHPRA. For radioactive 
+waste under his control, the holder of an authority must at all times ensure that: 
+(a) Disposal of radioactive waste to incinerators is restricted to suitable waste which includes 
+flammable solid waste (excluding sealed sources), animal carcasses, vials containing organic 
+solvents and bulk solvent; 
+(b) Glass vials with closed metal caps are not disposed of because of the risk of an explosion and the 
+possibility of radioactive glass residue in the slag; the contents of these should be transferred to 
+plastic containers for incineration. However, glass vials with plastic caps can usually be safely 
+disposed of in limited numbers. Plastic vials containing organic solvents are perfectly acceptable 
+provided the smoke emitted from the incinerator stack does not contravene the standards laid 
+down by air pollution control legislation applicable to the area.  The same restriction applies to 
+the incineration of bulk solvents; 
+(c) The activity per waste package and the total activity disposed of per month does not exceed the 
+limits specified in section 6; 
+(d) Short-lived materials not meeting the activity and/or surface dose-rate limits for packages are 
+stored until they have decayed to below the specified limits; 
+(e) Accurate records are kept of the nuclides and total activity disposed of per month to the 
+incinerator; 
+(f) When disposing of radioactive waste at an incinerator, the holder of the authority or his agent 
+shall liaise with incinerator operators to develop mutually convenient procedures  for the receipt 
+and disposal of the waste, which will minimise health hazards; 
+(g) When a package is sent to an incinerator it carries the following markings: 
+− 
+the warning sign for ionizing radiation, 
+− 
+information as to the sender, 
+− 
+information regarding the mechanism of disposal (i.e. "for incineration"), 
+− 
+information as to the radionuclide content and activity, 
+SAHPGL-RDN-RN-13_v2 
+Page 10 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+− 
+a statement that the surface dose rate does not exceed 5 microsievert per hour  (0.5 mR 
+per hour), 
+− 
+a statement that the waste package can be disposed of as low level waste; 
+ 
+4.2 
+Disposal to a sewer 
+For radioactive waste under his control, the holder of an authority must at all times ensure that: 
+(a) Radioactive waste for disposal to the sewer is restricted to aqueous solutions of radioactive 
+materials and macerated biological material where this is acceptable to the wastewater 
+authorities; 
+(b) The activity per release and the total activity per month does not exceed the limits specified in 
+section 6 of this code; 
+(c) Accurate records are kept of the nuclides and total activity disposed of per month via the sewer; 
+(d) Release of radioactive waste is confined to one release point for each laboratory; 
+(e) At each release point there shall be a visible sign stating that radioactive waste may be released 
+into the sewage system; 
+(f) Water to dilute the discharge is flushed before and for at least one minute after the discharge; 
+(g) Plumbing personnel are warned of the possible hazard prior to performing maintenance; 
+(h) Liquid scintillation counting vials containing chemically toxic organic compounds (e.g. toluene, 
+xylene, etc.) are not disposed of via the sewer. 
+4.3 
+Release to the atmosphere 
+The holder of an authority must at all times ensure that: 
+(a) Discharges to the atmosphere do not create a health hazard; 
+(b) Effluent systems remain leak-free so that radioactive gases cannot escape into working areas; 
+(c) The activity per release and the total activity per month is kept as low as is reasonably achievable; 
+(d) Accurate records are kept of the nuclides and total activity disposed of; 
+(e) Filters, if required, are checked and replaced at regular intervals. 
+SAHPGL-RDN-RN-13_v2 
+Page 11 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+ 
+5. 
+RESPONSIBILITIES 
+5.1 
+General responsibilities of the authority holder 
+In addition to the above-mentioned specific responsibilities, an authority holder who generates radioactive 
+waste is responsible for: 
+(a) Obtaining SAHPRA‘s approval before disposing of any radioactive waste to an incinerator and 
+providing SAHPRA with details of the proposed disposal facility, together with activities, volumes 
+and types of radionuclides likely to be disposed of per month; 
+(b) Obtaining SAHPRA‘s approval before disposing of any liquid waste to the sewerage system and 
+providing SAHPRA with details of the proposed discharge(s) (i.e. activities, volumes and types of 
+radionuclides likely to be discharged per month); 
+(c) Obtaining SAHPRA‘s approval before disposing of any gaseous products into the atmosphere, and 
+providing SAHPRA with details of: 
+− 
+the design of the proposed discharge system, 
+− 
+the activities, volume and types of radionuclides likely to be discharged, 
+− 
+the expected frequency of discharge, 
+− 
+the distribution of members of the public in the discharge area, 
+− 
+proximity of air-conditioning/ventilation inlet ducts to the discharge point, 
+− 
+the meteorology of the area, especially with regard to prevailing wind direction and speed, 
+− 
+and providing SAHPRA with any other details as may be required; 
+(d) Maintaining good management procedures and keeping accurate records of the purchase, use 
+and disposal of radioactive materials; 
+(e) Providing the necessary equipment for the safe handling and disposal of radioactive waste; 
+(f) Ensuring that all radioactive waste being transported from the premises to the place of disposal 
+or storage is packed and transported so that in an event of an accident there will be negligible risk 
+to the public; 
+(g) Ensuring that any agent transporting radioactive waste from the premises of the user and 
+disposing of it or storing it on behalf of the user is fully informed of and understands his 
+SAHPGL-RDN-RN-13_v2 
+Page 12 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+responsibilities. 
+5.2 
+Responsibilities of incinerator operators 
+In general, they must: 
+(a) Obtain SAHPRA’s approval before receiving any radioactive waste at an incinerator and provide 
+the SAHPRA with details of such facilities as may be required; 
+(b) Familiarise themselves with the requirements of SAHPRA for the disposal of radioactive waste; 
+(c) Liaise with the user to develop mutually convenient procedures for the receipt and disposal of the 
+waste, which will minimise health hazards; 
+(d) Only accept radioactive waste which is packaged and labelled according to SAHPRA’s 
+requirements; 
+(e) Maintain good management procedures and keep accurate records of the radioactive materials 
+received and disposed of; 
+(f) Advise SAHPRA of any irregularities in disposal procedures which might give rise to a health 
+hazard. 
+5.2.1 Incinerator operators 
+Incinerator operators must; 
+(a) Carry out such tests as may be required by SAHPRA to ensure that the incinerator may be safely 
+used for the disposal of radioactive waste; 
+(b) Supply samples of slag or fly ash as may be requested by SAHPRA and/or allow officers of SAHPRA 
+to sample them; 
+(c) Ensure that the maximum activity of gaseous products released to the atmosphere complies with 
+the emission standards specified by SAHPRA; 
+(d) Seek approval from SAHPRA before making changes in the design or operation of the incinerator. 
+ 
+ 
+SAHPGL-RDN-RN-13_v2 
+Page 13 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+6. 
+ACTIVITY LIMITS FOR LOW-LEVEL WASTE 
+6.1 
+Liquid waste 
+The total activity released into the sewage system may not exceed 10 ALImin per month per laboratory or 
+corresponding entity (see Annexure 2) for an explanation of the concept of ALImin.) On each occasion on 
+which a release is made, the activity may not exceed 1 ALImin and must not exceed 100 megabecquerel 
+(2,7 millicurie). The values for ALImin which must be applied are shown in Table 1 (see Annexure 2).   If 
+the waste contains more than one radionuclide, the maximum permitted activity must be calculated in 
+accordance with section 6.3. 
+Urine and faeces from patients who have been administered radionuclides in connection with diagnostic 
+and therapeutic treatments may be released to the sewage system without the activity being included in 
+the maximum permitted activity. 
+6.2 
+Solid waste 
+The total activity supplied to an incinerator or landfill of which SAHPRA has been informed may not exceed 
+10 ALImin per month per laboratory or corresponding entity. The maximum activity per waste package may 
+not exceed 1 ALImin. The values for ALImin which must be applied are shown in Table 1 (see Annexure 2).   
+If the waste contains more than one radionuclide, the highest permitted activity must be calculated in 
+accordance with section 6.3. 
+6.3 
+Waste containing more than one radionuclide 
+Where more than one type of nuclide is disposed of to the sewage system or sent to an incinerator or 
+landfill, the sum of the ratios of the activity of each nuclide released (Ak) to the ALImin for that nuclide 
+(ALImin k) must not exceed 10 in any one month. In other words, the following shall apply to the total 
+activity released during any one month: 
+ 
+ 
+∑
+𝐴𝐾
+𝐴𝐿𝐼𝑚𝑖𝑛𝐾
+𝐾
+< 10 
+For the activity in one individual waste package, or for a single release to the sewage system the following 
+shall apply: 
+∑
+𝐴𝐾
+𝐴𝐿𝐼𝑚𝑖𝑛𝐾
+𝐾
+< 1 
+ 
+ 
+SAHPGL-RDN-RN-13_v2 
+Page 14 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+Thus, for example, a waste package containing two nuclides would be acceptable if it contained half an 
+ALImin of the one nuclide and half an ALImin of the other, or if it contained 1/3 ALImin of the one nuclide 
+and 2/3 ALImin of the other, etc. 
+In addition to satisfying the above equations, where a solution containing a mixture of radionuclides is 
+released to the sewer at one time, the total activity of that solution may not exceed 100 megabecquerels 
+(2,7 millicurie). 
+7. 
+REFERENCES 
+The following related documents are referenced: 
+7.1 
+IAEA (1985). Safety Series no. 6, Regulations for the Safe Transport of Radioactive Material, IAEA, 
+Vienna. 
+7.2 
+ICRP (1991). Annual Limits on Intake of Radionuclides by workers Based on the 1990 
+Recommendations, ICRP Publication 61, Annals of the ICRP 21(4), Pergammon Press, Oxford. 
+8. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old Code of 
+Practice for the management and disposal of non-nuclear radioactive waste, revised May 2005. It will be 
+reviewed on this timeframe or as and when required. 
+ 
+SAHPGL-RDN-RN-13_v2 
+Page 15 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+9. 
+ANNEXURES 
+9.1 
+Annexure 1: Transport Signage Categories 
+ 
+SAHPGL-RDN-RN-13_v2 
+Page 16 of 16
+Guideline for Management and Disposal of Non-nuclear Radioactive Waste 
+12 December 2022 
+ 
+ 
+9.2 
+Annexure 2: The Concept ALImin 
+ALI's (Annual Limits on Intake) are prescribed in ICRP Publication 61 (ref 2). The limits are based on the ICRP's 
+recommended annual dose limit of 20 mSv (2 rem). There are different ALI values for ingestion and inhalation. ALImin 
+for each nuclide means the lesser of these two values.Table 1 shows the values for ALImin for the most common 
+radionuclides. For nuclides not included in the table, SAHPRA specifies applicable values. 
+TABLE 1 
+ALImin values for some common 
+radionuclides 
+Nuclide 
+ALImin(Bq) 
+ALImin(old units) 
+Nuclide 
+ALImin(Bq) 
+ALImin(old units) 
+3H water 
+1x109 
+27  mCi 
+85mSr 
+4x109 
+108  mCi 
+14C 
+4x107 
+1  mCi 
+85Sr 
+1x107 
+270  µCi 
+18F 
+4x108 
+11  mCi 
+87mSr 
+7x108 
+19  mCi 
+22Na 
+7x106 
+189  µCi 
+89Sr 
+2x106 
+54  µCi 
+24Na 
+5x107 
+1.4  mCi 
+90Sr 
+6x104 
+1.6  µCi 
+32P 
+5x106 
+135  µCi 
+90Y 
+5x106 
+135  µCi 
+33P 
+3x107 
+810  µCi 
+99mTc 
+1x109 
+27  mCi 
+35S 
+3x107 
+810  µCi 
+99Mo 
+1x107 
+270  µCi 
+36Cl 
+3x106 
+81  µCi 
+113mIn 
+9x108 
+24  mCi 
+38Cl 
+2x108 
+5.4  mCi 
+124Sb 
+3x106 
+81  µCi 
+42K 
+5x107 
+1.4  mCi 
+123I 
+9x107 
+2.4   Ci 
+43K 
+9x107 
+2.4  mCi 
+125I 
+1x106 
+27  µCi 
+45Ca 
+1x107 
+270  µCi 
+129I 
+2x105 
+5.4  µCi 
+47Ca 
+1x107 
+270  µCi 
+130I 
+1x107 
+270  µCi 
+51Cr 
+2x108 
+5.4  mCi 
+131I 
+8x105 
+22  µCi 
+52Mn 
+1x107 
+270  µCi 
+132I 
+7x107 
+1.9  mCi 
+52mMn 
+3x108 
+8.1  mCi 
+109Cd 
+1x106 
+27  µCi 
+54Mn 
+1x107 
+270  µCi 
+115Cd 
+1x107 
+270  µCi 
+56Mn 
+9x107 
+2.4  mCi 
+111In 
+5x107 
+1.4  mCi 
+52Fe 
+1x107 
+270  µCi 
+129Cs 
+3x108 
+8  mCi 
+55Fe 
+3x107 
+810  µCi 
+130Cs 
+7x108 
+19  mCi 
+59Fe 
+5x106 
+135  µCi 
+131Cs 
+3x108 
+8  mCi 
+56Co 
+2x106 
+54  µCi 
+134Cs 
+1x106 
+27  µCi 
+57Co 
+8x106 
+216  µCi 
+134mCs 
+1x109 
+27  mCi 
+58Co 
+7x106 
+189  µCi 
+137Cs 
+1x106 
+27  µCi 
+60Co 
+4x105 
+11  µCi 
+131Ba 
+4x107 
+1  mCi 
+63Ni 
+1x107 
+270  µCi 
+133mBa 
+3x107 
+810  µCi 
+64Cu 
+2x108 
+5.4  mCi 
+135mBa 
+4x107 
+1  mCi 
+67Cu 
+5x107 
+1.4  mCi 
+140La 
+8x106 
+216  µCi 
+65Zn 
+4x106 
+110  µCi 
+192Ir 
+3x106 
+81  µCi 
+69mZn 
+5x107 
+1.4  mCi 
+198Au 
+1x107 
+270  µCi 
+67Ga 
+8x107 
+2.16 mCi 
+197Hg 
+6x107 
+1.6  mCi 
+68Ga 
+2x108 
+5.4  mCi 
+203Hg 
+1x107 
+270  µCi 
+73As 
+2x107 
+540  µCi 
+201Tl 
+3x108 
+8  mCi 
+74As 
+9x106 
+243  µCi 
+204Tl 
+3x107 
+810  µCi 
+75Se 
+9x106 
+243  µCi 
+210Pb 
+1x104 
+270  nCi 
+76Br 
+5x107 
+1.4  mCi 
+212Pb 
+5x105 
+14  µCi 
+77Br 
+2x108 
+5.4  mCi 
+210Po 
+1x104 
+270  nCi 
+82Br 
+4x107 
+1.1  mCi 
+226Ra 
+9x103 
+243  nCi 
+81mRb 
+2x109 
+54  mCi 
+232Th 
+9x101 
+2.4  nCi 
+81Rb 
+4x108 
+11  mCi 
+238U 
+6x102 
+16  nCi 
+86Rb 
+8x106 
+216  µCi 
+241Am 
+3x102 
+8  nCi 
+88Rb 
+2x108 
+5.4 mCi 
+244Cm 
+5x102 
+14  nCi 
+89Rb 
+4x108 
+11  mCi 
+252Cf 
+5x102 
+14  nCi 
+ 
+

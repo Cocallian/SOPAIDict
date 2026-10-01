@@ -1,0 +1,1109 @@
+SAHPGL-MD-17_v1 
+Page 1 of 23
+ 
+ 
+ 
+8 September 2025 
+GUIDELINE ON CLINICAL INVESTIGATION OF MEDICAL DEVICES  
+ 
+This guideline is intended to clarify the requirements of conducting a clinical investigation in a medical device 
+in South Africa. It represents the South African Health Products Regulatory Authority’s (SAHPRA)’s current 
+thinking on the safety, quality and performance of medical devices under clinical investigation. It is not 
+intended as an exclusive approach. The Authority reserves the right to request any additional information to 
+establish the safety, quality and performance of a medical device in keeping with the knowledge current at 
+the time of evaluation. Alternative approaches may be used but these should be scientifically and technically 
+justified. The Authority is committed to ensuring that all registered medical devices will be of the required 
+acceptable quality, safety and performance. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+Published for public comment 
+15 November 2024 
+2 
+Published for implementation 
+25 August 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-MD-17_v1 
+Page 2 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+Definition of terms ................................................................................................................................................ 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 6 
+1.1 
+Purpose ...................................................................................................................................................... 6 
+1.2 
+Scope .......................................................................................................................................................... 6 
+1.3 
+Ethical Considerations for Clinical Investigations ...................................................................................... 7 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 7 
+3. 
+INTERNATIONAL STANDARDS .................................................................................................................... 7 
+4. 
+REQUIREMENTS TO CONDUCT CLINICAL INVESTIGATION ......................................................................... 7 
+4.1 
+Documents ................................................................................................................................................. 8 
+4.2 
+Notifications and Reports ........................................................................................................................... 8 
+5. 
+GENERAL PRINCIPLES WHEN CONSIDERING THE NEED FOR A CLINICAL INVESTIGATION ........................ 9 
+5.1 
+When should a clinical investigation be undertaken? ............................................................................. 11 
+5.2 
+What are the key considerations in clarifying the need for clinical investigations? ................................ 11 
+5.3 
+Clinical investigation  evaluation undertaken for the development of a medical device ........................ 12 
+5.4 
+Clinical investigation for initial Registration............................................................................................. 12 
+6. 
+GENERAL PRINCIPLES OF CLINICAL INVESTIGATION DESIGN ................................................................... 13 
+6.1 
+Compliance of Clinical investigation ........................................................................................................ 13 
+6.2 
+Clinical data requirements ....................................................................................................................... 13 
+6.3 
+Considerations for Medical Device Study Protocols ................................................................................ 14 
+6.4 
+Statistical requirements ........................................................................................................................... 14 
+6.5 
+Conduct of Clinical Investigations ............................................................................................................ 15 
+6.6 
+Final Study Report .................................................................................................................................... 15 
+7. 
+ETHICAL CONSIDERATIONS FOR CLINICAL INVESTIGATIONS ................................................................... 15 
+8. 
+REFERENCES ............................................................................................................................................. 15 
+9. 
+VALIDITY ................................................................................................................................................... 16 
+ 
+ 
+ 
+ 
+SAHPGL-MD-17_v1 
+Page 3 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+CI  
+Clinical Investigation  
+CIMD  
+Clinical Investigation of a Medical Device  
+GHTF  
+Global Harmonization Task Force  
+IMDRF 
+International Medical Devices Regulators Forum  
+ISO  
+International Organization for Standardization  
+PMS  
+Post Marketing Surveillance  
+RIMS 
+Regulatory Information Management System  
+SAHPRA  
+South African Health Products Regulatory Authority  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-MD-17_v1 
+Page 4 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+Definition of terms  
+ 
+Adverse Event: Means any untoward medical occurrence or undesirable incident that may occur in association 
+with the use of a medical device which—  
+(a) 
+does not necessarily have a causal relationship with its use; or 
+(b) 
+may occur due to its malfunction, its deterioration of safety, quality, or performance, 
+or an error of its use. 
+ 
+Clinical Data: Safety, clinical performance, and/or effective information that is generated from the clinical use 
+of a medical device.  
+ 
+Clinical Evaluation: A set of ongoing activities that use scientifically sound methods for the assessment and 
+analysis of clinical data to verify the safety, clinical performance, and/or effectiveness of the medical device 
+when used as intended by the manufacturer. 
+ 
+Clinical Evidence: The clinical data and its clinical evaluation of a medical device. 
+ 
+Clinical Investigation: Any systematic investigation or study in or on one or more human subjects, undertaken 
+to assess the safety, clinical performance, and/or effectiveness of a medical device. 
+ 
+ 
+Clinical Investigation Plan: Document that states the rationale, objectives, design, and pre-specified analysis, 
+methodology, monitoring, conduct, and record-keeping of the clinical investigation. 
+ 
+Clinical Performance: The ability of a medical device to achieve its intended clinical purpose as claimed by 
+the manufacturer. 
+Clinical Performance Study: Means a study undertaken to establish or confirm the clinical performance of a 
+medical device, including IVD, focusing on the actual performance of the device in real-world clinical 
+conditions, often involving the collection of data on how well the device performs its intended function and 
+the clinical benefits it provides to patients. 
+ 
+Conformity Assessment: Relevant testing, calibration, inspection, or certification of a medical device or a 
+quality management system. 
+SAHPGL-MD-17_v1 
+Page 5 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+ 
+Effectiveness: The ability of a medical device to achieve clinically meaningful outcome(s) in its intended 
+use as claimed by the manufacturer. 
+Endpoint: An indicator used for providing the evidence for safety, clinical performance, and/or effectiveness 
+in a clinical investigation (ISO 14155:2011, modified). 
+ 
+Ethics Committee: Independent body whose responsibility it is to review clinical investigations to protect the 
+rights, safety, and well-being of human subjects participating in a clinical investigation. 
+ 
+Investigator: Individual member of the investigation site team designated and supervised by the principal 
+investigator at an investigation site to perform critical clinical investigation–related procedures or to make 
+important clinical investigation-related decisions. NOTE 1: An individual member of the investigation site team 
+can also be called ‘sub-investigator’ or ‘co-investigator’. 
+ 
+Multi-Regional Clinical Investigation: A clinical investigation conducted in more than one region under a single 
+protocol. 
+ 
+Region: A geographical region, country, or regulatory region. 
+ 
+Regulatory Region: A region comprised of jurisdictions for which common sets of regulatory requirements 
+apply. 
+ 
+Residual Risk: Risk remaining after risk control measures have been taken (ISO 14971:2007). 
+ 
+Risk Management: The systematic application of management policies, procedures, and practices to the 
+tasks of analysing, evaluating, controlling, and monitoring risk (ISO 14971). 
+ 
+Safety: Acceptability of risks as weighed against benefits, when using the medical device according to the 
+manufacturer’s labelling. 
+Sponsor: Individual or organisation taking responsibility and liability for the initiation or implementation of 
+a clinical investigation. 
+Note: All other definitions in alignment with Act 101 of 1965 and MD regulations. 
+ 
+SAHPGL-MD-17_v1 
+Page 6 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+1. INTRODUCTION 
+A clinical investigation (CI) of a medical device is defined as any systematic investigation or study in or on one 
+or more human subjects, undertaken to assess the safety, clinical performance, and/or effectiveness of a 
+medical device.   
+The undertaking of a clinical investigation is a scientific process that represents one method of generating 
+clinical data. The objective of a clinical investigation is to assess the safety, clinical performance, and/or 
+effectiveness of a medical device for a particular indication or intended use. ISO 14155: 2020 Clinical 
+Investigation of Medical Devices for Human Subjects — Good Clinical Practice details the requirements for the 
+conduct of clinical investigations. This is an international standard that addresses good clinical practice for the 
+design, conduct, recording, and reporting of CIs carried out in human subjects to assess the safety or 
+performance of medical devices for regulatory purposes.  
+Thirteen principles are included, such as adherence to ethical principles (as per the Declaration of Helsinki), 
+subjects’ rights, a determination that benefits outweigh risks, and oversight by an independent ethics 
+committee. The two main CIs relevant to the regulation of medical devices are those conducted during 
+premarket and post-market assessments. 
+A CI must consider scientific principles underlying the collection of clinical data, along with accepted ethical 
+standards surrounding the use of human subjects. Every medical device requires clinical evidence, appropriate 
+for the use and classification of the device, demonstrating that the device complies with the applicable 
+provisions of the Essential Principles of Safety and Performance of medical devices. 
+ In general, CIs of investigational medical devices require two types of assessment, from a national regulatory 
+authority for medical devices and from a relevant research ethics committee prior to beginning the study. 
+1.1 Purpose 
+The purpose of this document is to provide an overview of the medical device regulations and guidance on 
+how to submit applications to conduct CIs within the Republic of South Africa. Given the wide diversity of 
+medical devices and their associated risks, this document is not intended to provide comprehensive 
+guidance for clinical investigations of specific medical devices 
+1.2 Scope 
+The intention is to be a dynamic document that supplements the medical devices regulations. This guideline 
+applies to all applicants intending to conduct clinical investigations for medical devices, including in vitro 
+diagnostics (IVDs). 
+SAHPGL-MD-17_v1 
+Page 7 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+1.3 
+Ethical Considerations for Clinical Investigations 
+As a general principle, “the rights, safety and wellbeing of clinical investigation subjects shall be protected 
+consistent with the ethical principles laid down in the Declaration of Helsinki” and the applicable regulatory 
+requirements or other relevant standards (ISO 14155:2020). It is ethically important in deciding to conduct 
+a clinical investigation that it should generate new data and answer specific safety, clinical performance, 
+and/or effectiveness questions that remain unanswered by the most current body of knowledge.  
+The desire to protect human subjects from unnecessary or inappropriate experimentation must be 
+balanced with the need to protect public health using CI where they are indicated. In all cases, however, 
+care must be taken to ensure that the necessary data is obtained through a scientific and ethical 
+investigational process that does not expose subjects to undue risks or discomfort. The rights, safety, and 
+well-being of subjects are paramount, and appropriate trial design and conduct are essential to generate 
+meaningful data. 
+2. LEGAL PROVISION 
+Regulations relating to medical device, Government Gazette.  
+3. INTERNATIONAL STANDARDS  
+ 
+ISO 14155:2020 Clinical investigation of Medical Devices for human subjects - Good Clinical Practice 
+ 
+ISO 14971:2019 Application of risk management to medical devices 
+ 
+Clinical investigation of medical devices shall comply with the requirements established by the 
+National Ethics Review Board 
+4.  REQUIREMENTS TO CONDUCT CLINICAL INVESTIGATION  
+Any Clinical Investigation of a Medical Device (CIMD) to be conducted within the Republic of South Africa 
+shall be approved by the Authority before commencement. Investigational medical devices can only be 
+imported for clinical investigations if approval is obtained from the Authority. Any person or body 
+intending to conduct clinical investigation should submit their applications through the SAHPRA 
+Regulatory Information Management System (RIMS). Applications should be accompanied by the 
+prescribed fees as per the gazetted fee Regulations applied and the following information: -  
+ 
+ 
+SAHPGL-MD-17_v1 
+Page 8 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+4.1 Documents  
+CHECKLIST -Documents Submitted with Application (Circle or shade applicable)   
+Signed and dated Cover letter  
+  YES       /       NO   
+Application form (Annexure A) 
+ YES       /       NO  
+Checklist completed  
+ YES       /       NO   
+Protocol (version and date)  
+ YES       /       NO   
+Clinical investigation plan or clinical trial or clinical performance assessment for the 
+medical device/IVD protocol  
+ YES       /       NO   
+Clinical investigation agreement between sponsor and Clinical Research Organisation 
+(CRO) if applicable 
+YES       /       NO   
+Clinical investigation agreement between sponsor and clinical investigation 
+site(s)/principal investigator(s) 
+YES       /       NO   
+Investigator Brochure  
+ YES       /       NO   
+Informed consent documents  
+ YES       /       NO   
+Instructions for use  
+ YES       /       NO   
+Curriculum vitae of the investigator/s (SAHPRA format)  
+ YES       /       NO   
+Investigator/s proof of GCP training certificates (not more than 3 years old)  
+ YES       /       NO   
+Investigator/s proof of current malpractice insurance (Certificate/ Card)  
+ YES       /       NO   
+ Disclosure of Principal Investigator Conflict of Interests 
+YES       /       NO   
+Signed declaration by investigator/s  
+ YES       /       NO   
+National Principal Investigator (CV/GCP/Malp/Declaration)  
+ YES       /       NO  
+Participant insurance & expiry date (where relevant)  
+  
+ YES       /       NO   
+Proof of sponsor indemnity for investigators and trial sites  
+ YES       /       NO   
+Proof of application to register the trial/investigation/performance assessment on 
+SANCTR  
+ YES       /       NO   
+Workloads for investigators  
+ YES       /       NO   
+Copy of ethics committee approval  
+ YES       /       NO   
+SAHPGL-MD-17_v1 
+Page 9 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+Copy of letter submitted to Ethics Committee  
+ YES       /       NO   
+Reimbursement for patients  
+ YES       /       NO   
+Remuneration to investigators  
+ YES       /       NO   
+Study budget   
+ YES       /       NO   
+Patients’ questionnaire(s)  
+ YES       /       NO   
+Proof of registration with Professional Statutory Body(ies)   
+ YES       /       NO   
+Additional information, i.e. Cert. of analysis (where relevant)  
+ YES       /       NO   
+ 
+4.2 Notifications and Reports 
+ 
+Notification for withdrawal of ethics committee within five (5) working days  
+ 
+Notification for suspension or termination of clinical investigation within five (5) working days  
+ 
+Major deviations from the investigational plan 
+ 
+Change of principal investigator  
+ 
+Progress reports every six (6) months  
+ 
+Serious adverse events that have led to serious adverse effects  
+ 
+Clinical investigational final report  
+Note: The Authority reserves the right to inspect the ongoing clinical investigation without prior notice. 
+5. GENERAL PRINCIPLES WHEN CONSIDERING THE NEED FOR A CLINICAL 
+INVESTIGATION 
+The investigation should be appropriate to the device under evaluation, its specific properties, and its intended 
+purpose. Benefits and risks should be specified, e.g., as to their nature, probability, extent, duration and 
+frequency. Core issues are the proper determination of the benefit/risk profile in the intended target groups 
+and medical indications, and demonstration of acceptability of that profile based on current knowledge/the 
+state of the art in the medical fields concerned.  
+Clinical investigation is a responsibility of the manufacturer, and its report is an element of the technical 
+documentation of a medical device, including In vitro diagnostics. Conformity to the Essential Principles can 
+only be assumed when the following items are aligned with each other:  
+SAHPGL-MD-17_v1 
+Page 10 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+ 
+The information materials supplied by the manufacturer (the labelling, instructions for use, available 
+promotional materials, including accompanying documents foreseen by the manufacturer), 
+ 
+The clinical investigation (the device description used for the clinical investigation, other contents of 
+the clinical investigation report), 
+ 
+Available clinical data (such as results of Clinical Investigations, publications, PMS studies, etc.). 
+Particularly, evaluators should address the following points to decide if these are adequately 
+supported by sufficient clinical evidence:  
+ 
+The intended purpose described in the information materials supplied by the manufacturer (including 
+for all medical indications);  
+ 
+The clinical performance and benefits described in the information materials supplied by the 
+manufacturer (including, for example, any claims on product performance and safety);  
+ 
+Measures for risk avoidance and risk mitigation described in the information materials supplied by the 
+manufacturer (including, for example, the declaration of the residual risks, - contraindications, 
+precautions, warnings, instructions for managing foreseeable unwanted situations);  
+ 
+The usability of the device for the intended users and the suitability of the information materials 
+supplied by the manufacturer for the intended users (including, if applicable, for lay or disabled 
+persons); 
+ 
+ Instructions for target population groups (including, for example, pregnant women, paediatric 
+populations). 
+SAHPGL-MD-17_v1 
+Page 11 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+5.1  When should a clinical investigation be undertaken? 
+Clinical investigations are necessary to provide data not available through other sources (such as literature 
+or nonclinical testing) required to demonstrate compliance with the relevant Essential Principles (including 
+safety, clinical performance and acceptability of benefit/risk associated with its use). When a clinical 
+investigation is conducted, the data obtained is used in the clinical evaluation process and is part of the 
+clinical evidence for the medical device. 
+When considering the need for a clinical investigation, one should consider whether there are new 
+questions of safety, clinical performance, and/or effectiveness for the particular medical device and 
+intended use that need to be addressed in a clinical investigation. Generally, such questions are more likely 
+to be generated for high risk and/or novel medical devices. 
+For long-established technologies, the clinical investigation data that might be required for novel 
+technologies may not be necessary. The available clinical data in the form of, for example, published 
+literature, reports of clinical experience, post-market reports and adverse event data may, in principle, be 
+adequate to establish the safety, clinical performance, and/or effectiveness of the medical device, 
+provided that new risks have not been identified, and that the intended use(s)/purpose(s) has/have not 
+changed. 
+5.2  What are the key considerations in clarifying the need for clinical investigations? 
+     Identifying relevant clinical Essential Principles (for example, specifics of safety, clinical 
+performance, acceptability of benefit/risk) for the medical device and its intended use/purpose(s). 
+     Performing risk management (ISO 14971:2019) activities, such as a risk analysis, will help in 
+identifying the clinical data necessary to address residual risks and aspects of clinical performance 
+not completely resolved by available information (e.g., design solutions, nonclinical and 
+material/technical evaluation, conformity with relevant standards, labelling). 
+     Risk control measures include inherent safety by design, protective measures in the medical device 
+itself or in the manufacturing process, and information for safety. The decision to use a medical 
+device in the context of a clinical procedure requires the residual risk to be balanced against the 
+anticipated benefits of the procedure. A clinical investigation may be required to further elucidate 
+the benefit/risk in a defined patient population; 
+SAHPGL-MD-17_v1 
+Page 12 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+     Conducting a proper clinical evaluation will demonstrate which clinical data are necessary, and can 
+be adequately contributed to by sources such as literature searching, prior clinical investigations 
+(including clinical data generated in other jurisdictions), clinical experience, or clinical data 
+available from comparable devices, and which clinical data should be generated from clinical 
+investigation(s) when data are unavailable or insufficient to demonstrate conformity to the 
+Essential Principles. Available clinical data from comparable devices should be carefully examined 
+for comparability and adequacy. 
+5.3   Clinical investigation evaluation undertaken for the development of a medical device 
+Premarket research and development are guided by clinical investigation and risk management. Typically, 
+manufacturers carry out clinical investigations to define needs regarding clinical safety and clinical 
+performance of the device.  
+In case of possible equivalence to an existing device, evaluate if there are clinical data available and 
+determine equivalence; carry out a gap analysis and define which data still need to be generated with the 
+device under evaluation, whether clinical investigations are necessary and if so, define the study design 
+for additional information. As the initial clinical evaluation identifies the questions to be answered by a 
+clinical investigation, the clinical evaluation process should generally commence in advance of any clinical 
+investigation. 
+5.4  Clinical investigation for initial Registration 
+Clinical evaluation is required to be carried out for the conformity assessment process leading to the 
+product registration and placing on the market of a medical device. The purpose is to:  
+ 
+Document that there is sufficient clinical evidence to demonstrate conformity with the Essential 
+Principles covering clinical performance and clinical safety;  
+ 
+Identify aspects that need to be addressed systematically during post-market surveillance (PMS), 
+e.g., in post-market clinical follow-up studies (PMCF Studies) required under the relevant medical 
+device regulations. 
+Typically, these aspects include estimation of residual risks and uncertainties or unanswered questions 
+(such as rare complications, uncertainties regarding long-term performance, safety under widespread use). 
+ 
+ 
+SAHPGL-MD-17_v1 
+Page 13 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+6. GENERAL PRINCIPLES OF CLINICAL INVESTIGATION DESIGN  
+6.1  Compliance of Clinical Investigation 
+Any clinical investigation must;- 
+ 
+Be based on the results of the clinical evaluation process; 
+ 
+Follow a proper risk management procedure to avoid undue risks; 
+ 
+Be compliant with all relevant legal and regulatory requirements; 
+ 
+Be appropriately planned, conducted, analysed, and reported; 
+ 
+Follow appropriate ethical principles. 
+6.2   Clinical data requirements 
+The design of the clinical investigation, including the study objectives and statistical considerations, should 
+provide the clinical data necessary to address the residual risks, including aspects of clinical performance. 
+Factors that may influence include;-  
+ 
+Type of medical device and/or regulatory classification 
+ 
+Novel technology/relevant previous experience 
+ 
+Clinical application/indications 
+ 
+Nature of exposure to the product (e.g., surface contact, implantation, ingestion) 
+ 
+Risks inherent in the use of the product (e.g., risk associated with the procedure) 
+ 
+Performance claims made in the medical device labeling (including instructions for use) and/or 
+promotional materials 
+ 
+Component materials or substances 
+ 
+Disease process (including severity) and patient population being treated 
+ 
+Demographic, geographic, and cultural considerations (e.g., age, ethnicity, gender) 
+ 
+Potential impact of device failure 
+ 
+Period of exposure to the medical device 
+ 
+Expected lifetime of the medical device 
+ 
+Availability of alternative treatments and the current standard of care 
+ 
+Ethical considerations 
+ 
+SAHPGL-MD-17_v1 
+Page 14 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+6.3  Considerations for Medical Device Study Protocols 
+      Factors needing consideration in study protocols include:- 
+ Clear statement of objectives 
+ Minimisation of risk to subjects and those involved with the conduct of the investigation 
+ Adverse event definitions and reporting 
+ Study endpoints  
+ Appropriate subject population(s) 
+ Minimisation of bias (e.g., randomisation, blinding/masking, concealment of allocation) 
+ Identification of confounding factors (e.g., concurrent therapies, co-morbidities) 
+ Choice of appropriate controls (e.g., active control, sham, historical) 
+ Design configuration (e.g., parallel, crossover, cohort study, single arm) 
+ Type of comparison (e.g., superiority, non-inferiority, equivalence) 
+ Follow-up duration and monitoring 
+6.4  Statistical requirements  
+In designing the study, statistical considerations should be prospectively specified and be based on sound 
+scientific principles and methodology. Development of a statistical plan should include consideration of 
+the following:  
+ Clinically relevant endpoints 
+ Analysis of population 
+ Statistical significance levels, power 
+ Sample size calculation and justification 
+ Analysis methodology 
+ Management of potential confounding factors 
+ Procedures for multiplicity control and adjustment of error probabilities 
+ Procedures for handling missing, unused or spurious data, including drop-outs 
+ Procedures for handling deviations from the original statistical analysis plan 
+SAHPGL-MD-17_v1 
+Page 15 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+6.5  Conduct of Clinical Investigations 
+A properly conducted clinical investigation, including compliance with the clinical investigation plan and 
+local laws and regulations, ensures the protection of human subjects, the integrity of the data and that the 
+data obtained is acceptable for the purpose of demonstrating conformity to the Essential Principles. ISO 
+14155 outlines good clinical practice for clinical investigations of medical devices. 
+6.6  Final Study Report 
+The outcome of a clinical investigation should be documented in a final study report. This then forms part 
+of the clinical data that is included in the clinical evaluation process and ultimately becomes integrated 
+into the clinical evaluation report for the purposes of conformity assessment. 
+7. ETHICAL CONSIDERATIONS FOR CLINICAL INVESTIGATIONS 
+The rights, safety, and well-being of clinical investigation subjects shall be protected consistent with the 
+ethical principles laid down in the Declaration of Helsinki” and the applicable regulatory requirements or 
+other relevant standards (ISO 14155:2020). 
+It is ethically important in deciding to conduct a clinical investigation that it should generate new data and 
+answer specific safety, clinical performance, and/or effectiveness questions that remain unanswered by 
+the current body of knowledge. The desire to protect human subjects from unnecessary or inappropriate 
+experimentation must be balanced with the need to protect public health using clinical investigations 
+where they are indicated. In all cases, however, care must be taken to ensure that the necessary data are 
+obtained through a scientific and ethical investigational process that does not expose subjects to undue 
+risks or discomfort. The rights, safety, and well-being of subjects are paramount, and appropriate trial 
+design and conduct are essential to generate meaningful data.  
+8. REFERENCES 
+ 
+IMDRF: 2018- Essential Principles of Safety and Performance of Medical Devices and IVD Medical 
+Devices 
+ 
+IMDRF: 2019 Principles of Labeling for Medical Devices and IVD Medical Devices document, when 
+released 
+ 
+IMDRF:2019 Clinical Evidence – Key definitions and Concepts 
+ 
+GHTF:2008 Summary Technical Documentation for Demonstrating Conformity to the Essential 
+Principles of Safety and Performance of Medical Devices (STED) 
+SAHPGL-MD-17_v1 
+Page 16 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+ 
+ISO 14155:2020 – Clinical investigation of medical devices for human subjects — Good clinical 
+practice. 
+ 
+ISO 14971:2019 – Medical devices - Application of risk management to medical devices 
+9. VALIDITY 
+This guideline is valid for a period of five (5) years from the effective date of revision and replaces the previous 
+version. It will be reviewed within this timeframe or as and when required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-MD-17_v1 
+Page 17 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+Annex 1: Application Form for Clinical Investigation of Medical Devices 
+ 
+Date Received 
+………………………… 
+For SAHPRA Use 
+ 
+ 
+ 
+For SAHPRA Use 
+ 
+Status 
+ 
+1.1 
+Aim of Study 
+ Pre-marketing approval for new 
+device 
+ Pre-marketing approval for new 
+claims 
+ Post-Marketing study 
+ Non-Marketing study 
+ 
+1.2 
+Type of Study 
+ Observational study 
+ Interventional study 
+ 
+1.3 
+Does this clinical 
+investigation involves 
+first-in-human use? 
+ Yes 
+ No 
+ 
+1.4 
+Will the investigational 
+device be imported into 
+South Africa 
+ Yes  
+ No 
+ 
+Sponsor details 
+ 
+2.1 
+Type of Sponsorship 
+ Commercial 
+ Non-commercial 
+ 
+2.2 
+Type of sponsor 
+ Manufacturer 
+ Authorised Representative 
+ Hospital 
+ Independent individuals 
+ Foundation 
+ University or Institution 
+ Other, please specify: 
+------------------------------------------- 
+ 
+2.3 
+Type of aid 
+ 
+ Material support 
+ Funding support 
+ Other, please specify: 
+----------------------------------------- 
+ 
+2.4 
+Sponsor Details 
+Name ____________________ 
+_____ 
+Address ___________________ 
+Phone ___________________ 
+E-mail ___________________ 
+Contact person name _________ 
+Contact person phone________ 
+ 
+SAHPGL-MD-17_v1 
+Page 18 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+Contact person e-mail ____________ 
+2.5 
+Person responsible for 
+completing the 
+application 
+Name ___________________ 
+Position ___________________ 
+Phone ___________________ 
+E- mail ___________________ 
+ 
+3. CRO 
+Details  
+Clinical Research 
+Organisation, if applicable 
+Name ___________________ 
+SAHPRA’s license (if applicable) 
+___________________ 
+Address___________________ 
+Phone___________________ 
+E- mail___________________ 
+Contact person name 
+___________________ 
+Contact person phone 
+___________________ 
+Contact person e-mail 
+___________________ 
+ 
+4. Investigational Device Information 
+ 
+4.1 
+Is the device registered 
+by SAHPRA? 
+ Yes, where applicable: 
+  No: _______ 
+ No, but registered in: 
+ Australia 
+ Canada 
+ Japan 
+ USA 
+ EU 
+ Other, please specify: 
+……………………………..… 
+Not registered anywhere 
+ 
+4.2 
+Investigational Device 
+Name 
+ 
+ 
+ 
+4.3 
+Device Category 
+ 
+ Active implantable devices 
+ Anaesthetic and respiratory devices 
+ Dental devices 
+ Electromechanical medical devices 
+ Hospital hardware 
+ Non-active implantable devices 
+ Ophthalmic and optical devices 
+ Reusable devices 
+ Single use devices 
+ Assistive products for persons with 
+disability 
+ 
+SAHPGL-MD-17_v1 
+Page 19 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+ Diagnostic and therapeutic radiating 
+devices 
+ Complementary therapy devices 
+ Biologically derived devices 
+Healthcare facility products and 
+Adaptations 
+ Laboratory equipment  
+Other: ………………………………. 
+4.4 
+Is the device an 
+implantable? 
+ No 
+ Yes, brief description: …….. 
+………………………………………… 
+  Is the device intended to remain 
+permanently implanted in the patient: 
+ No 
+ Yes 
+ 
+4.5 
+Whether the device is 
+intended to be used for 
+cosmetic rather than 
+medical purposes 
+ No 
+Yes, Select: 
+ A non-corrective contact lens 
+ An implant for augmentation, 
+fixation, or sculpting of body parts 
+ A facial or other skin filler 
+ Equipment for liposuction 
+  
+ Surgical laser equipment 
+ 
+4.6 
+Does the device 
+incorporate, as an 
+integral part or 
+substance, a medicinal 
+product in achieving its 
+primary intended 
+action? 
+ No 
+  Yes 
+ Brand name of drug: 
+…………………………… 
+ 
+4.7 
+Does the device 
+incorporate a substance 
+of animal origin? 
+ No 
+ Yes 
+ Type of tissue, cell, or substance: 
+………………………………… 
+ 
+4.8 
+Does the device 
+incorporate human 
+tissue, cell, or 
+substance? 
+ No 
+ Yes 
+Type of tissue, cell, or substance: 
+………………………………… 
+ 
+4.9 
+Does the device 
+incorporate cells or 
+substance of microbial 
+origin? 
+ No 
+ Yes 
+Type of microorganism: 
+………………………………… 
+ 
+SAHPGL-MD-17_v1 
+Page 20 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+4.10 
+The intended purpose of 
+the investigational device 
+……………………………………………… 
+……………………………………………… 
+ 
+5. Design of the Clinical Investigation 
+ 
+ 
+5.1 
+Clinical Investigational 
+Plan (CIP) information 
+Scientific title 
+…………………………………………… 
+ 
+5.2 
+Clinical Investigational 
+Plan title 
+Insert the following information: 
+Abbreviated title 
+Clinical Investigation Plan number 
+Clinical Investigation Plan date 
+Clinical Investigation Plan version 
+Planned start date 
+Planned completion date 
+ 
+5.3  
+Type of Design 
+ Open-label non-randomised clinical 
+investigation 
+ Randomisation, Randomised 
+controlled clinical investigation     
+Parallel group:  ……………………… 
+Cross over: ……………………… 
+ Blinding 
+ Single blinded 
+ Double blinded 
+ Other 
+Comparator used 
+ Placebo 
+ Comparator device, identify: 
+……………………… 
+ 
+5.4 
+Does this study 
+include vulnerable 
+subjects? 
+  No 
+  Yes 
+ 
+5.5 
+Size of the sample 
+population 
+Planned total number of subjects 
+involved in the clinical investigation 
+……………………. 
+Planned number of subjects involved in 
+South Africa ……… 
+ 
+5.6 
+Number of study centres 
+in South Africa 
+------------------------------------ 
+ 
+ 
+5.7 
+Other countries where 
+this clinical investigation 
+is carried out 
+------------------------------------ 
+------------------------------------- 
+------------------------------------- 
+ 
+5.8 
+Is there a Data Safety 
+Monitoring Committee 
+ Yes 
+  No 
+ 
+SAHPGL-MD-17_v1 
+Page 21 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+for this study? 
+6. 
+Investigation Site(s) in 
+South Africa 
+ 
+ 
+ 
+Site 1 
+Name __________________ 
+Address_________________ 
+Phone__________________ 
+E-mail ____________________ 
+Name of principal investigator 
+________________________ 
+EC name ________________ 
+EC address______________ 
+EC phone_______________ 
+EC E-mail________________ 
+Protocol number approved by EC 
+___________________ 
+ 
+ 
+Site 2 
+Name_________________ 
+Address_______________ 
+Phone _________________ 
+E-mail _________________ 
+Name of principal investigator 
+________________________ 
+EC name ________________ 
+EC address ______________ 
+EC phone _______________ 
+EC E-mail ________________ 
+Protocol number approved by EC 
+ 
+ 
+More sites if applicable can 
+be added using the same 
+format as in #6 
+ 
+ 
+7 
+Declaration by Sponsor 
+ 
+ 
+ 
+I as the sponsor defined in this application: 
+ undertake that I comply with the Ethics Committee requirements. 
+ undertake that I will report to the Authority any Adverse device event of which I 
+become aware for the investigational device without delay but not later than <10> 
+working days of occurrence/becoming aware of the event. 
+ undertake that I will provide the documents specified in section 4 in the SAHPRA’S 
+guidance entitled Guidelines on Clinical Investigations of Medical Devices. 
+ undertake to notify Ethics Committee and Principal investigators in case of withdrawal 
+of SAHPRA’s approval, or part of it, within five working days of receiving the withdrawal 
+notice. 
+ undertake, under any request from the SAHPRA, to respond by providing accurate, 
+current, and complete information about any aspect of the study. 
+SAHPGL-MD-17_v1 
+Page 22 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+ declare that SAHPRA has the right to inspect the study at any time without prior 
+notification. 
+ declare that all information provided in this application is true and complete. 
+ declare that I will maintain if applicable, an appropriate process for the safe return or 
+disposal of investigational devices. 
+Name: ___________________ 
+Position: ___________________ 
+Date: 
+Signature: ___________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-MD-17_v1 
+Page 23 of 23
+Guideline on clinical investigation of medical devices 
+8 September 2025 
+ 
+ 
+ 
+Annex II: Disclosure of Principal Investigator Conflict of Interests 
+Title of Clinical 
+Investigation 
+Plan 
+ 
+Date received: 
+ 
+Clinical Investigation 
+Application Number: 
+ 
+I disclose the following regarding my involvement in the investigation in the submitted 
+application: 
+ any significant payments of other type made from the sponsor, including but not limited 
+to a grant to fund ongoing research, compensation in the form of equipment, retainer, or 
+ongoing consultation, or honoraria; 
+ any proprietary interest in the investigational product held by the clinical investigator; 
+ any considerable equity interest (including but not limited to any ownership interest, 
+stock deal, or other financial interest) held by the clinical investigator in the sponsor of 
+the covered study. 
+Details of the disclosable financial arrangements and interests are attached, along with a 
+description of steps taken to minimise the potential bias of clinical study results by any of 
+the disclosed arrangements or interests. 
+Name of Principal Investigator: ________________________________________ 
+Date: ______________________________ 
+Signature: ________________________________ 
+Note: In case of Multicentre Study, a separate form shall be filled for each Principal Investigator. 
+ 
+

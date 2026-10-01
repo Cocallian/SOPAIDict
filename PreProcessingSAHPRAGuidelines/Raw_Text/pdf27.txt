@@ -1,0 +1,410 @@
+SAHPGL-CEM-CT-11_v1 
+Page 1 of 10
+23 March 2026 
+Guideline for Remuneration of Volunteers in Phase 1 Clinical Trials  
+This document has been created to guide applicants/sponsors of clinical trials during the use of registered or unregistered medicines 
+in approved clinical trials. It represents the South African Health Products Regulatory Authority’s (SAHPRA) current thinking on 
+participant reimbursement during clinical trial participation and proposes a minimum compensation that can be paid. It is not intended 
+as an exclusive approach, and SAHPRA reserves the right to request any additional information and may make amendments in 
+accordance with the current knowledge at the time. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+First version published for implementation 
+01 June 2026 
+2 
+DR BOITUMELO SEMETE-MAKOKOTLELA 
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-CEM-CT-11_v1 
+Page 2 of 10
+Guideline Phase 1 Remuneration Model 
+23 March 2026 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1.
+BACKGROUND ............................................................................................................................................ 4 
+2.
+PURPOSE AND SCOPE ................................................................................................................................. 5 
+3.
+LEGAL PROVISION ....................................................................................................................................... 5 
+4.
+MODEL FOR REIMBURSEMENT OF CLINICAL STUDY-RELATED VISITS ....................................................... 5 
+4.1 
+Time Spent: ................................................................................................................................................ 5 
+4.2 
+Inconvenience (Considered in the light of travel/distance from home to a site): ..................................... 5 
+4.3 
+Expenses: .................................................................................................................................................... 6 
+4.4 
+Additional inconvenience: .......................................................................................................................... 7 
+4.5 
+Scheduled telephonic visits: ....................................................................................................................... 7 
+4.6 
+Home-based/virtual consultation visits: .................................................................................................... 7 
+4.7 
+Unscheduled visits:..................................................................................................................................... 7 
+4.8 
+Screen Failures: .......................................................................................................................................... 7 
+4.9 
+Parent/Legal guardian/caregiver: .............................................................................................................. 8 
+4.10 Patient diary completion: ........................................................................................................................... 8 
+4.11 Electronic Clinical Outcome Assessments (eCOA), including the use of tablets, smartphones, wearables, 
+and other such devices: ........................................................................................................................................ 8 
+4.12 In-patients: ................................................................................................................................................. 8 
+5.
+References ................................................................................................................................................ 10 
+6.
+VALIDITY ................................................................................................................................................... 10 
+SAHPGL-CEM-CT-11_v1 
+Page 3 of 10
+Guideline Phase 1 Remuneration Model 
+23 March 2026 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+AA 
+Automobile Association of South Africa 
+CIOMS 
+Council for International Organizations of Medical Sciences 
+CRO 
+Contract Research Organization 
+eCOA 
+Electronic Clinical Outcome Assessments 
+LMIC 
+Low- to Middle-Income Country 
+PI 
+Principal Investigator 
+NHREC 
+National Health Research Ethics Council 
+REC 
+Research Ethics Committees 
+SAHPRA 
+South African Health Products Regulatory Authority 
+TIE 
+Time, Inconvenience, and Expense 
+WCG 
+WIRB-Copernicus Group 
+SAHPGL-CEM-CT-11_v1 
+Page 4 of 10
+Guideline Phase 1 Remuneration Model 
+23 March 2026 
+1. BACKGROUND
+According to the National Health Research Ethics Council (NHREC) (2024) and the Council for International 
+Organisations of Medical Sciences (CIOMS) (2016) guidelines, clinical trial participants must be 
+compensated appropriately for their time (T), inconvenience (I), and expenses (E) [1] [2].  
+The South African Health Products Regulatory Authority (SAHPRA) has a clear policy in place for the 
+remuneration of participants taking part in phase 2-4 trials [3]. However, there is no such policy in place 
+for healthy volunteers participating in phase 1 trials. Most of the Sponsors/Applicants and Pharmaceutical 
+Companies/Contract Research Organizations (CRO) are largely following the same guidelines for these 
+trials. 
+Phase 1 healthy volunteer trials, in which individuals are exposed to the risks of receiving investigational 
+products (IPs) with no probability for medical benefit, typically offer more substantial payments than other 
+types of clinical research. Additionally, these trials frequently require healthy volunteers to undergo more 
+intense medical monitoring, including possible confinement in a residential research facility for days or 
+weeks. This raises ethical concerns of coercion with unduly inducing participation with offers of high 
+compensation on one hand and exploiting participants with low payments on the other hand [4]. 
+The literature is sparse with regard to the compensation of these volunteers, especially in South Africa. 
+Elliot and Abadie describe how some healthy individuals use phase 1 trials as their sole source of income 
+[5]. While this appears to be primarily a US phenomenon, other countries also report serial phase 1 trial 
+participation among healthy volunteers motivated to earn income through clinical trials. An analysis by 
+Fisher et al highlighted inequalities and wide variation in phase 1 compensation. The smallest was a 
+USD150 vaccine study that did not require any clinical confinement, whereas the largest was a USD13,000 
+oncology study that required healthy volunteers to spend 34 consecutive days and nights in the research 
+facility [4]. According to WCG, compensation for Phase 1 studies usually works out to be about $10- $20 
+an hour.  It is noted that there are some Phase 1 clinical studies, e.g.  studies involving patients with cancer 
+or another potentially deadly disease, vaccine studies, and studies involving additions to new age groups 
+(such as paediatrics or adolescents), that generally follow the phase 2-4 model because they fall more in 
+the clinical care continuum [6]. Phase 1 in this guideline speaks to mainly healthy volunteers exposed with 
+no probability for medical benefits. 
+With the increase in Phase 1 studies being conducted in South Africa, the need for separate guidelines on 
+Phase 1 remuneration is essential to ensure fair volunteer compensation. Three plausible models of 
+payment have been discussed – the market model, the wage-payment model, and the reimbursement 
+model [7]. However, in the opinion of Grant and Sugarman, the two former models are potentially 
+SAHPGL-CEM-CT-11_v1 
+Page 5 of 10
+Guideline Phase 1 Remuneration Model 
+23 March 2026 
+susceptible to undue inducement [8]. Bearing this in mind and given the success of the current guidelines 
+for phase 2-4 trials, it seems feasible to amend these guidelines to be relevant to phase 1 trials conducted 
+in South Africa. 
+2. PURPOSE AND SCOPE
+This document guides Applicant/Sponsor/Investigators conducting Phase 1 studies and applies to Phase 1 
+studies conducted in South Africa. 
+The guideline is only applicable to Phase 1 clinical trials, especially First-In-Human studies. Due to the 
+additional risks associated with Gene Transfer Therapy studies, however, this guideline does not apply and 
+participant remuneration in these trials will need to be provided on a case-by-case basis. 
+3. LEGAL PROVISION
+This guideline is established in terms of Regulation 30 of the Medicines and Related Substances Act, 101 
+of 1965, on the conduct of clinical trials. 
+4. MODEL FOR REIMBURSEMENT OF CLINICAL STUDY-RELATED VISITS
+4.1 Time Spent:
+Based on the information provided by WCG and factoring in South Africa being a low- to middle-income 
+country (LMIC) with a more vulnerable population, R100 per hour is recommended. In general, a 
+standard scheduled visit should not take longer than 3 hours. Thus, R300 is recommended for the time 
+component of a standard scheduled visit. 
+Note: 
+4.1.1 
+More intensive visits may, however, require additional time at the site. This would necessitate 
+a higher “compensation” as the participant is now spending an extended period of time away, 
+resulting in them missing the majority of their work/school day as opposed to a portion of it. 
+4.2 Inconvenience (Considered in the light of travel/distance from home to a site): 
+Based on rates prescribed by the Automobile Association (AA) of South Africa [9], it is recommended 
+that R4.75 per km travelled is paid. The travel cost is broken down into 3 categories (0-25, 26-50, and 
+>50 km). For example, a participant falling in the first category will receive R237.50 travel compensation
+(R4.75 x 25 km x 2 [return trip]). This should be rounded up to R250 for convenience and to make 
+provision for any parking costs. 
+Note: 
+4.2.1 
+It would be ideal for each site PI to decide on the radius around the trial site on which 
+SAHPGL-CEM-CT-11_v1 
+Page 6 of 10
+Guideline Phase 1 Remuneration Model 
+23 March 2026 
+maximum recruitment efforts would be focused. This would allow for a standardised approach 
+to be adopted per site and per study, leading to less per participant variability of travel-related 
+costs. When participants are identified beyond the predefined catchment, additional 
+compensation could be explored on a case-by-case basis. 
+4.3 Expenses: 
+It is recommended that all participants be offered a meal to the value of R100. If this amount is included 
+in the ICF reimbursement total, then the R100 should be removed from the total, documented in the  
+relevant documentation and explained to the participant prior to this adjustment being made. Should 
+the participant be at the site for longer than 3 hours, an additional meal or money should be made 
+available to them. 
+Table 1: Compensation Model for Standard and Extended Clinic Visits 
+SAHPRA is of the view that in 2026, a minimum of R650 would be the most appropriate compensation level for 
+a standard Phase 1 participant visit. SAHPRA may review this model periodically, as necessary, taking into 
+account economic conditions and regulatory developments.  
+Time 
+Distance 
+Standard Visit 
+2-3 hours
+Extended Visit 
+>3 hours
+0-25 km
+T = R250 (Return trip [rounded up]) 
+I = R300 (R100 x 3 hours [rounded up]) 
+E = R100 (Meal & beverage) 
+Total = R650 
+T = R250 (Return trip [rounded up]) 
+I = R300 + R100 per hour (over & above 3 hours) 
+E = R200 (2x meals & beverages) 
+Total = R750 + R100 per hour 
+26-50 
+km 
+T = R500 (Return trip [rounded up]) 
+I  = R300 
+E = R100 (Meal & beverage) 
+Total = R900 
+T = R500 (Return trip [rounded up]) 
+I = R300 + R100 per hour (over & above 3 hours) 
+E = R200 (2x meals & beverages) 
+Total = R1 000 + R100 per hour 
+>50 km
+T = R500 + R4.75 per km (over & above 50 
+km) 
+I  = R300 
+E = R100 
+Total = R900 + R4.75 per km 
+T = R500 + R4.75 per km (over & above 50 km) 
+I = R300 + R100 per hour (over & above 3 hours) 
+E = R200 (2x meals & beverages) 
+Total = R1 000 + R100 per hour + R4.75 per km 
+SAHPGL-CEM-CT-11_v1 
+Page 7 of 10
+Guideline Phase 1 Remuneration Model 
+23 March 2026 
+4.4 Additional inconvenience: 
+Some studies call for more invasive procedures (e.g., PK sampling) or strenuous procedures (e.g., Stress 
+ECGs), which are over and above the standard inconveniences of a study visit. Therefore, a case can be 
+made for additional compensation. Other inconveniences which are not always so apparent need to 
+also be compensated for, such as an HIV trial in which participants are required to abstain from sexual 
+activity and product use for specified periods. These additional procedures must be described in the 
+Protocol and Informed Consent Form, the additional remuneration specified, and justification of these 
+amounts provided. However, if on the visit day the participant reports having not adhered to these 
+procedures, the specified amount should be deducted from the overall ICF amount, documented and 
+explained to the participant. 
+4.5 Scheduled telephonic visits: 
+Telephonic visits are generally conducted in one of the following scenarios: 
+•
+The protocol specifies that a scheduled visit be conducted telephonically as opposed to onsite, or
+•
+A volunteer is unable to attend the scheduled visit for a specific reason, and the site is instructed
+by the protocol and/or CRA to conduct the visit telephonically.
+This is still considered to be a trial-related activity, and the participant should thus be remunerated for 
+this task. A minimum amount of R250 is recommended. 
+4.6 Home-based/virtual consultation visits: 
+When permitted by the protocol, a scheduled visit may be conducted either at home or virtually.  The 
+participants must be remunerated for time and inconvenience. A minimum of R300 per visit is 
+recommended; this could be increased depending on the time and complexity of the visit.  
+4.7 Unscheduled visits: 
+Unscheduled visits may occur on site, telephonically, virtually, or at home. The same remuneration as 
+detailed above applies. 
+4.8 Screen Failures: 
+A screen failure occurs when a potential volunteer is invited to the site, signs an informed consent, and 
+undergoes at least part of a screening visit (such as blood tests, ECG, and/or medical history review), 
+but ultimately does not meet the inclusion/exclusion criteria and therefore does not proceed to 
+randomization or treatment.  
+•
+When the screening visit has been concluded in its entirety, the full remuneration is due to the
+participant.
+SAHPGL-CEM-CT-11_v1 
+Page 8 of 10
+Guideline Phase 1 Remuneration Model 
+23 March 2026 
+•
+When the screen failure is identified before all the screening procedures have been completed
+and the patient has not necessarily been allocated a screening number, partial reimbursement for
+the visit is expected. This should be 20-50% of the total reimbursement.
+4.9 Parent/Legal guardian/caregiver: 
+In studies where the participant requires a parent/legal guardian/caregiver to be present, the same 
+remuneration scheme applies for both the participant and the parent/legal guardian/caregiver. 
+However, the inconvenience of large blood draws, additional sampling or lifestyle restriction 
+reimbursement would not be applicable to the parent/legal guardian/caregiver. 
+4.10 
+Patient diary completion: 
+The completion of paper and/or electronic diaries between visits is increasingly being incorporated into 
+clinical trials. This amounts to an additional trial-related activity and can be inconvenient and 
+burdensome for trial participants to complete these diaries. The participant should thus be 
+remunerated for this task. A minimum amount of R100 to R150 per diary entry is recommended, 
+depending on the extent of the trial-related procedures (e.g. dosing, temperature measurements, etc) 
+that need to be captured.  
+In addition, when using electronic diaries, it must be highlighted that most people in South Africa do 
+not have access to free wi-fi. Free wi-fi and/or sufficient airtime should also be made available to all 
+participants to complete the necessary trial-related activities. Alternatively, sponsors can provide 
+devices that have data preloaded. 
+4.11 
+Electronic Clinical Outcome Assessments (eCOA), including the use of tablets, 
+smartphones, wearables, and other such devices: 
+As for 4.10 above, participants need to be remunerated appropriately for this task. In addition, 
+sufficient airtime needs to be made available to all participants, and/or a device with pre-loaded data 
+need to be provided by the Sponsor. 
+4.12 
+In-patients: 
+Volunteers are frequently required to be confined in a residential research facility as part of their 
+clinical trial participation for a few hours or even days. This can be burdensome and inconvenient to 
+the volunteer and may involve missing work/school and/or incurring additional costs such as 
+babysitting or child-minding.  
+4.12.1 For in-patient stays up to 12 hours, an amount of R150 per hour is recommended. In addition, 
+all volunteers must be provided with standard meals, relevant transport costs, and 
+SAHPGL-CEM-CT-11_v1 
+Page 9 of 10
+Guideline Phase 1 Remuneration Model 
+23 March 2026 
+compensation for any additional procedures conducted during this period of confinement, 
+such as blood draws, stress ECGs, intravenous infusions, etc. 
+4.12.2 For in-patient stays longer than 12 hours, the volunteer should be reimbursed at an additional 
+amount of R900 per 12-hour block thereafter. In addition, all volunteers must be provided 
+with standard meals, relevant transport costs, and compensation for any additional 
+procedures conducted during this period of confinement, such as blood draws, stress ECGs, 
+intravenous infusions, etc. 
+Table 2: Compensation Model for In-patients 
+Length of in-
+patient stay 
+12-hour stay
+24-hour stay
+Longer than 24-hour stay 
+T = R150 per hour 
+In 
+addition, 
+all 
+volunteers 
+must 
+be 
+provided with standard 
+meals, 
+relevant 
+transport 
+costs, 
+and 
+compensation for any 
+additional 
+procedures 
+conducted during this 
+period of confinement, 
+such as blood draws, 
+stress ECGs, intravenous 
+infusions, 
+etc. 
+This 
+should be in line with the 
+details outlined above. 
+T (1st 12 hours) = R150 per hour 
+x 12 = R1 800 
+T (2nd 12 hours or part thereof) 
+= R900 
+Total = R2 700 
+In addition, all volunteers must 
+be provided with standard 
+meals, 
+relevant 
+transport 
+costs, and compensation for 
+any 
+additional 
+procedures 
+conducted during this period 
+of confinement, such as blood 
+draws, 
+stress 
+ECGs, 
+intravenous infusions, etc. This 
+should be in line with the 
+details outlined above. 
+T (1st 12 hours) = R150 per hour x 12 = 
+R1 800 
+T (2nd and subsequent 12 hours or part 
+thereof) = R900 per 12-hour block 
+Total = R2 700 + (R900 x number of 
+subsequent 12-hour blocks 
+For example: 
+48-hour stay: R2 700 + (2 x R900)
+= R4 500 
+72-hour stay: R2 700+ (4 x R900)
+= R6 300 
+96-hour stay: R2 700 + (6 x R900)
+= R8 100 
+In addition, all volunteers must be 
+provided with standard meals, relevant 
+transport costs, and compensation for 
+any additional procedures conducted 
+during this period of confinement, such 
+as 
+blood 
+draws, 
+stress 
+ECGs, 
+intravenous infusions, etc. This should 
+be in line with the details outlined 
+above. 
+SAHPGL-CEM-CT-11_v1 
+Page 10 of 10
+Guideline Phase 1 Remuneration Model 
+23 March 2026 
+5. References
+[1] National Department of Health. 2024. South African in Health Research Guidelines: Principles, Processes
+and Structures.
+[2] Council for International Organizations of Medical Sciences (CIOMS), International Ethical Guidelines for
+Health-related Research involving Human Subjects, 2016
+[3] South African Health Products Regulatory Authoritty, Guideline for clinical trial participant time,
+inconvenience and expense (TIE) compensation model, South Africa, 2022.
+[4] Fisher JA, McManus L, et al. Phase I trial compensation: How much do healthy volunteers actually earn
+from clinical trial enrollment: Clinical Trials 2021; 18(4): 477-487
+[5] Elliott C and Abadie R. Exploiting a research underlass in phase I clinical trials. N Engl J Med 2008; 358:
+2316-2317
+[6] WCG, The IRB's Perspective: Determining Compensation for Clinical Trial Participation,
+https://www.wcgclinical.com/insights/irb-optimal-compensation-clinical-trial-participants/, 2021
+[7] Dickert N and Grady C. What's the Price of a Research Subject? Approaches to Payment for Research
+Participation. N Engl J Med 1999; 341: 198-203
+[8] Grant RW and Sugarman J. Ethics in Human Subjects: Do incentives matter? J Medicine and Philosophy
+2004; 29(6): 717-738
+[9] Prescribed rate per kilometer: https://accountingacademy.co.za/news/read/new-sars-tax-free-rate-per-
+km-1
+6. VALIDITY
+This guideline is valid for a period of 5 years from the effective date of implementation. It will be reviewed 
+on this timeframe or as and when required. 
+

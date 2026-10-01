@@ -1,0 +1,1351 @@
+SAHPGL-RDN-XR-13_v1 
+Page 1 of 25
+ 
+ 
+ 
+29 August 2022 
+REQUIREMENTS FOR LICENCE HOLDERS WITH RESPECT TO 
+QUALITY CONTROL TESTS FOR DENTAL DIAGNOSTIC X-RAY 
+IMAGING SYSTEMS 
+The South African Health Products Authority (SAHPRA) is the regulatory authority of South Africa responsible for the regulation of 
+health products intended for human and animal use; amongst others, radiation emitting devices and radioactive nuclides. 
+The legislative mandates of SAHPRA are derived from the Constitution; the National Health Act, 2003 (Act No. 61 of 2003); the 
+Medicines and Related Substances Act, 1965 (Act No. 101 of 1965), as amended (hereinafter referred to as "the Medicines Act"); and 
+other relevant legislation, regulations and policies. 
+Further, SAHPRA's mandate has expanded to include the regulation and control of radiation emitting devices and radioactive nuclides 
+under the Medicines Act and the Hazardous Substances Act, 1973 (Act No. 15 of 1973). The Hazardous Substances Act does not allow 
+any person to use radiation equipment unless he/she holds a licence under the Act for that purpose. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+March 2017 
+1 
+− 
+Content structured on the new SAHPRA Guideline Template 
+− 
+A unique document number SAHPGL-RDN-XR-13 allocated to this 
+Guideline 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-13_v1 
+Page 2 of 25
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray 
+Imaging Systems 
+29 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+GENERAL REQUIREMENTS ......................................................................................................................... 4 
+3.1 License Holder Shall: .................................................................................................................................. 4 
+3.2 TABLE 1 Individual Equipment Record (IER) -See Also Section VI ............................................................. 7 
+3.3 TABLE 2: Acceptance and Routine Quality Control Tests .......................................................................... 8 
+3.4 TABLE 3 Half value layers (HVL-values) and Table 4 Minimum Requirements for Monitors .................. 22 
+3.5 TEST GUIDELINES ..................................................................................................................................... 23 
+4. 
+REFERENCES ............................................................................................................................................. 23 
+5. 
+VALIDITY .................................................................................................................................................. 25 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-13_v1 
+Page 3 of 25
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray 
+Imaging Systems 
+29 August 2022 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Al 
+Aluminum 
+CR 
+Computed Radiography 
+CT 
+Computed Tomography 
+DAP 
+Dose Area Product 
+DICOM 
+Digital Imaging and Communications in Medicine 
+DDR 
+Direct Digital Radiography 
+HVL 
+Halve Value Layer 
+HPCSA 
+Health Professions Council of South Africa 
+IER 
+Individual Equipment Record 
+kV 
+Kilovolt 
+mGy 
+milligray 
+QC 
+Quality Control 
+Acceptance Tests 
+The initial tests performed directly after installation and before the 
+equipment is being put into clinical service 
+Extraoral Radiography 
+X-rays taken when the image detector and the X-ray machine are placed 
+outside the patient's mouth. 
+Intraoral Radiography 
+X-rays taken with image receptor/film placed within the oral cavity/mouth 
+Inspection Body 
+An organization accredited by SANAS and approved by SAHPRA Radiation 
+Control 
+SAHPRA 
+South African Products Regulatory Authority 
+SANAS 
+South African National Accreditation System 
+Cephalometric 
+Radiography 
+Panoramic Radiography 
+A specialized radiographic technique concerned with imaging the side of your 
+head, exposing teeth, jaw, and surrounding structures. 
+When two components rotate simultaneously around the patient to produce 
+an image. 
+SAHPGL-RDN-XR-13_v1 
+Page 4 of 25
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray 
+Imaging Systems 
+29 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Licensed dentists play an important role in maintaining radiation exposures of patients and staff as low as 
+reasonably achievable (ALARA). Greater numbers of intra-oral radiographs are being requested and a wide 
+range of other dental radiographic examinations (panoramic, cephalometric) are being performed on a routine 
+basis with the addition of advanced imaging modalities. Individuals who operate dental X-ray equipment must 
+have a basic knowledge of the inherent health risks associated with radiation and must have demonstrated 
+familiarity with basic rules of radiation safety as explained in this study guide.  
+1.1 
+Purpose 
+To ensure that license holders and users of diagnostic dental imaging devices establish an optimum quality 
+assurance program to protect patients, radiation workers, the public and the environment against over-
+exposure to ionizing radiation, without limiting its beneficial use. To guard against incorrect diagnosis by 
+way of reducing apparatus and operator faults. 
+1.2 
+Scope 
+The license holder must ensure that all applicable requirements are implemented as stipulated in this 
+guideline. The license holder shall ensure that only an Inspection Body accredited by SANAS and approved 
+by SAHPRA is used to perform all the prescribed acceptance tests as well as the routine tests.  
+2. 
+LEGAL PROVISION 
+This guideline is implemented in promulgated the Hazardous Substances Act 15, 1973 and the Regulations 
+R.1332 
+3. 
+GENERAL REQUIREMENTS 
+3.1 
+License Holder Shall: 
+A. Display the product licence number (see list of licences from SAHPRA on equipment. 
+• 
+See table 1 (row c) for which equipment this is a requirement. 
+B. Compile an Individual Equipment Record (IER) containing the information as listed in table1 
+(column 2). 
+• 
+IER is for example a ring binder containing all the information as prescribed in table 1 for each 
+piece of equipment.  
+SAHPGL-RDN-XR-13_v1 
+Page 5 of 25
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray 
+Imaging Systems 
+29 August 2022 
+ 
+ 
+C. Perform the prescribed Acceptance- and Quality Control (QC) tests listed in table 2: 
+C.1. An Inspection Body (IB) approved by SAHPRA OR an appropriately trained professional 
+registered with the HPCSA as a medical physicist (see C.2.) must be used to perform all the 
+acceptance tests as well as the routine tests listed in section III.2 of table 2.  
+C.2. If a medical physicist is used to perform the tests in C.1, an Inspection Body approved by 
+SAHPRA must formally contract such person(s). Formally contracted means that the medical 
+physicist is contracted by the IB (ISO/IEC 17020 and TR78 (latest edition)) to perform the tests.  
+o List of IB’s available on SAHPRA website 
+D. Acquire the relevant quality control manuals or compile in-house written protocols, which 
+describe each test step by step to ensure that QC tests listed in sectionII.1 of table 2 are correctly 
+performed. 
+E. Ensure that persons that perform routine tests in section II.1 of table 2 are competent to execute 
+the tests; 
+F. Ensure that the required acceptance tests are performed before the diagnostic x-ray equipment 
+listed in table 2 is put into clinical service when: 
+F.1. Acquired or 
+F.2. Substantially upgraded. 
+o Acceptance tests are the initial tests performed directly after installation and before the 
+equipment is being put into clinical service. Acceptance tests have three purposes, 
+namely To ensure that the unit meets stated specifications; To establish baseline 
+parameters for the future quality control program,and To familiarize the customer with 
+operation of the unit. 
+G. Ensure that all the quality control tests are performed at the prescribed frequencies as specified 
+in table 2. 
+G.1. QC tests may be performed more frequently than specified in table 2, influenced by the age, 
+stability, make, model, etc., of the equipment. 
+H. Ensure that image display monitors and reporting monitors comply with the requirements in 
+section V (Table 4) of this document. 
+SAHPGL-RDN-XR-13_v1 
+Page 6 of 25
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray 
+Imaging Systems 
+29 August 2022 
+ 
+ 
+I. 
+Establish a program to ensure that the radiation dose administered to a patient for diagnostic 
+purposes is optimised (see page 14 for definition of optimisation).Such program must at least use 
+the measurements under tests 44, 46 and 64 to determine whether radiation protection has been 
+optimised. 
+I.1. Measurements under test 64 must be evaluated after the x-ray unit is put into clinical service 
+and thereafter every 12 months. 
+I.2. Measurements under tests 44 and 46 must be evaluated after the x-ray unit is put into clinical 
+service and thereafter every 36 months. 
+o Use reference 4. 
+J. Keep a copy of the results of the tests mentioned in section f and g of table 1 for as long as the 
+equipment is in use and ensure that the following information is available: 
+J.1. The measurements (raw data), Date of test(s), Summary of the results (pass or fail), 
+Identification of product, Details of the person(s) that performed the tests, and Details of the 
+Inspection Body.  
+ 
+Page 7 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2 
+TABLE 1 Individual Equipment Record (IER) -See Also Section VI 
+X-Ray 
+Equipment 
+Processor & 
+Hardcopy device 
+CR Reader 
+Digital 
+detectors 
+Film 
+Viewer 
+Reporting 
+Monitor 
+a) 
+Unit - make, model and system ID 
+X 
+X 
+X 
+X 
+ 
+ 
+b) 
+Generator – make, model and serial number 
+X 
+ 
+ 
+ 
+ 
+ 
+c) 
+Product Licence number, date of the latest licence & reference where a copy 
+of the licence is kept 
+X 
+ 
+X 
+ 
+ 
+ 
+d) 
+Date of installation 
+X 
+X 
+X 
+X 
+X 
+X 
+e) 
+Operator’s manual – (Indication that the operator’s manual is available and 
+reference where it is kept) 
+X 
+X 
+X 
+X 
+ 
+ 
+f) 
+Results of acceptance tests 
+X 
+X 
+X 
+X 
+ 
+X 
+g) 
+Results of routine quality control tests 
+X 
+X 
+X 
+X 
+X 
+X 
+h) 
+Date(s) of tube replacement(s) 
+X 
+ 
+ 
+ 
+ 
+ 
+i) 
+Details of repairs/maintenance and/or modification(s). The licence holder must 
+ensure that all the applicable test(s) are performed that could be affected by 
+the aforementioned 
+X 
+X 
+X 
+X 
+X 
+X 
+j) 
+Should any of the tests in table 2 indicate non-compliance or should any 
+problems be detected (indicated), the licence holder must implement corrective 
+maintenance (repairs), followed by re-testing 
+X 
+X 
+X 
+X 
+X 
+X 
+k) 
+Details of the IB and person(s) that performed the test(s) 
+X 
+ 
+X 
+X 
+X 
+X 
+ 
+1 The X in each cell for each category of equipment (column 3 to 11), indicates which information must be available in the IER 
+ 
+Page 8 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3 
+TABLE 2: Acceptance and Routine Quality Control Tests 
+II.1. Routine Tests in this section are to be performed by the licence holder or person(s) appointed by the licence holder and Acceptance Tests in this section 
+must be performed by an Inspection Body approved by Department of Health. 
+Physical parameter (required test) 
+Frequency 
+Standard 
+References 
+II.1.1. 
+General 
+1. 
+Lead rubber aprons 
+3 monthly 
+Free from holes or cracks 
+Ref 2 procedure 11 
+II.1.2. 
+Extra-oral X-ray tubes with intra-oral image receptors, panoramic radiography and cephalometric radiography 
+2. 
+Indicators, mechanical and other safety checks & warm-up 
+On acceptance & 3 monthly 
+Results must be documented at least once every 3 months 
+Ref 2 procedure 5 
+3. 
+Tube Head stability (intraoral x-ray unit) 
+On acceptance & 3 monthly 
+The tube does not drift out of position or oscillate 
+Ref 2 procedure 7 
+4. 
+Appropriate technique chart displayed at x-ray unit 
+6 monthly 
+Available, applicable and compliant with ALARA principle 
+5. 
+Condition of digital detectors 
+On acceptance & monthly 
+No damage to cable or detector or phosphor plate 
+IPEM 91 DEN07 
+6. 
+Evaluation of total image chain (Image quality) (film and digital) Images 
+shall be preserved for a period of 36 months. 
+IB must compare results for last 36 months 
+Note: The IB must verify that the licence holder possesses the applicable 
+phantom. If a phantom is not available the test must be reported as FAIL 
+On acceptance & monthly 
+IB every 3 years 
+No visible deterioration compared with reference image 
+Film & digital - Intra-oral - Use To UniDENT phantom or similar 
+Film - Intra-oral ,Panoramic & Cephalometric radiography - 
+Use TOR DEN conventional phantom or similar 
+Digital - Intra-oral ,Panoramic & Cephalometric radiography - 
+Use TOR DEN digital phantom or similar 
+Ref 25 
+7. 
+Panoramic radiography reproducibility and uniformity 
+On acceptance & 3 monthly 
+No significant visible difference to baseline (professional 
+judgement required) 
+IPEM 91 DEN10 
+8. 
+Panoramic radiography beam alignment and synchronisation of exposure 
+with tube motion 
+On acceptance & 3 monthly 
+Edge of beam must be visible on film and detector 
+IPEM 91 DEN11, Ref 2 
+procedure 12 & Ref 7 p 6 
+9. 
+ 
+Page 9 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10. 
+Cephalometric radiography - X-ray beam alignment 
+On acceptance & 3 monthly 
+Edge of beam must be visible on film and detector 
+IPEM 91 DEN11, Ref 2 
+procedure 12 & Ref 7 p 7 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+References 
+II.1.3. 
+Dental Film Processing 
+11. 
+Developer temperature 
+Every time processing 
+solutions are used 
+Baseline ± 2ºC - The temp must be ≥ 18ºC and ≤ 40ºC and 
+comply with recommendations of manufacturer. 
+IPEM 91 DEN01, BIR (D1) 
+& Ref 6 
+12. 
+Condition of processing solutions 
+Development time Chemistry 
+changes 
+Cleaning 
+Every time processing is used 
+or as specified by 
+manufacturer 
+As recommended by manufacturer. Time-temperature chart 
+must be displayed at the processor 
+Ref 2 procedure 3, IPEM 91 
+DEN02 & Ref 6 
+15. 
+Cleanliness of darkroom, daylight processor (intra-oral daylight 
+processor) and screens 
+Written protocol for maintaining darkroom cleanliness, intra-oral daylight processor, cassettes 
+and screens clean, free from blemishes 
+Ref 2 procedure 3 
+16. 
+Darkroom fog and light tightness of intra-oral daylight processor 
+Acceptance & 12 monthly & 
+when fault reported 
+No visible fogging in 2 minutes 
+IPEM 91 DEN05; Ref 2 
+procedure 10A & 10B, Ref 5 
+and BIR C1 & C2 
+II.1.4. 
+Film Viewing 
+17. 
+Film viewer condition 
+Acceptance & 6 monthly 
+Perceived brightness, colours and must be clean and uniformly 
+illuminated 
+IPEM 91 IDD01 & BIR (M1) 
+Page 10 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II.1.5. 
+Image Display Monitor & Reporting Monitor2 
+18. 
+Condition of Image Display Monitor 
+At least 6 monthly. 
+Image display monitors should be clean & free from flicker 
+Ref 23 
+19.   
+20. 
+Reporting Monitor - Resolution, Brightness and contrast, Grey Steps & 
+Alphanumerics and Geometric Distortion 
+On acceptance & 3 monthly 
+Requirements of Ref 23 
+During acceptance install SMPTE or TG18-QC test pattern for 
+user and demonstrate use 
+Ref 23 & IPEM 91 IDD06 & 
+TG 18 (Use SMPTE or 
+TG18-QC image IPEM 91 
+IDD09, IDD10 
+II.1.6. 
+Hardcopy Device (Only applicable if prints are used for reporting (interpretation of medical images)) 
+21. 
+Self – calibration 
+On acceptance & Weekly 
+Manufacturer’s specification 
+IPEM 91 IDD15 & BIR (N1) 
+22. 
+Optical density consistency 
+On acceptance & 3 monthly 
+Baseline OD ± 0.20 
+IPEM 91 IDD16 & BIR (N2) 
+23. 
+Image quality 
+On acceptance & 3 monthly 
+Based on visual inspection 
+IPEM 91 IDD17 & BIR (N3) 
+ 
+Reporting monitors refer to primary display systems used for the interpretation of medical images – i.e. excludes systems used by general medical staff & specialists after a report has been provided as well as operators’ consoles, QC 
+workstations and monitors used with fluoroscopy units, which are all classified as Display monitors (see Chapter 7 page 49 of IPEM 91) 
+ 
+ 
+Page 11 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+References 
+II.1.7. 
+Dental Cone Beam CT 
+24. 
+Indicators, mechanical and other safety checks 
+On acceptance & Daily 
+Must work properly 
+25.   
+26.   
+27.   
+28. 
+Image display monitor condition 
+On acceptance & Monthly 
+See Explanatory paragraph under DCB04 
+Ref 4 DCB04 & IPEM 91 IDD06 
+29. 
+Image display monitor distance calibration 
+On acceptance & 3 Monthly 
+± 5 mm 
+Ref 4 DCB05 & IPEM 91 IDD08 
+30. 
+Image display monitor resolution 
+On acceptance & 3 Monthly 
+See Explanatory paragraph under DCB06 
+Ref 4 DCB06 & IPEM 91 IDD09 
+II.1.8. 
+CR Reader (see also Ref 1.1 & KCARE (Ref 10)) 
+31.   
+32. 
+Image uniformity 
+On acceptance & 3 Monthly 
+Free from dots and lines 
+IPEM 91 CR02 & KCARE Ref 
+10.2 (2)) 
+33. 
+Condition of cassettes and image plates 
+On acceptance & 3 Monthly 
+Free of dirt or damag 
+IPEM 91 CR03 & Supplier’s 
+maintenance manual 
+Page 12 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II.2. Acceptance and routine tests listed in this section must be performed by an Inspection Body approved by the Department of Health 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+References 
+39. 
+Safety of premises 
+On acceptance & when the 
+workload increase or 
+technique factors change 
+that may jeopardise premises 
+safety 
+Controlled areas 
+5mSv/year, for uncontrolled areas
+1mSv/year 
+NCRP 145 & Ref 19 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+References 
+II.1.9. 
+DDR System 
+35.   
+36. 
+Image uniformity 
+On acceptance & 3 Monthly 
+Lines or rectangles not apparent 
+IPEM 91 DDR02 & KCARE 
+Ref 10.4 (2) 
+II.1.10. Repeat and Reject Analysis 
+38. 
+Repeat and reject analysis – (Comment for Digital: Must use software 
+supplied by vendor or implement effective procedure) 
+3 monthly 
+May not increase with more than 2% from the previous 
+determined rate and total rate should not exceed 10% 
+IB must check that software/procedure is in place 
+For film Screen use BIR (Ch 
+2), Ref 2 procedure 6 & Ref 
+26 page 95 
+Page 13 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II.2.1. 
+Extra-oral X-ray tubes with intra-oral image receptors, panoramic radiography and cephalometric radiography 
+40. 
+Tube voltage (measured 100 ms from initiation of exposure + stability of 
+line voltage must be checked if failed) 
+On acceptance & 3 years 
+±10% of intended and for fix kV units if deviates more ±10% the 
+correct kV must be indicated on unit. Intra-oral ≥ 50kV and only 
+units with a tube voltage ≥ 60 kV maybe sold 
+IPEM 91 DEN12 and 
+ref 1 page 20 & Ref 7 
+page 2 & 8 
+41. 
+Exposure time 
+On acceptance & 3 years 
+±20% from baseline 
+IPEM 91 DEN13 
+42. 
+Intra-oral radiography – Beam size collimation. IB must report in 
+comment field if Pointer Cone is used 
+On acceptance & 3 years 
+Circular: ≤ 60 mm diameter at the open end of 
+collimator (Equipment with pointer collimator may not be sold) OR 
+Rectangular: ≤ 40x50 mm at the open of collimator 
+IPEM 91 DEN14 & 
+Ref 24 page 21 
+42.1.Intra-oral radiography – Minimum focus to skin distance – IB must report 
+Focus to Skin Distance in ES 
+On acceptance & 3 years 
+Focus to skin distance of at least 200 mm (Less than 200 mm 
+only permitted for existing units, however may not be sold) 
+IEC 60601-2-65 
+(203.9) 
+43. 
+Intra-oral digital systems: Imaging spatial resolution 
+On acceptance & 3 years 
+Baseline ≤ minus 25% 
+IPEM 91 DEN15 
+44. 
+Intra-oral radiography: 
+On acceptance & 3 years 
+Measured values below must be reported in mGy (dose) and 
+mGy cm2 (DAP) on Electronic Submission (See test 6) 
+IPEM 91 DEN16 and 
+ref 29 
+44.1.Dose at collimator (cone) tip for average adult mandibular molar 
+radiograph 
+On acceptance & 3 years 
+Must be below SA reference level (when established) 
+44.2.DAP value at collimator (cone) tip for average adult 
+mandibular molar radiograph 
+On acceptance & 3 years 
+Must be below SA reference level (when established) – If displayed 
+should be within ± 15%, if not add correction factor 
+Page 14 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+44.3.Dose at collimator (cone) tip for child mandibular molar radiograph 
+On acceptance & 3 years 
+Must be below SA reference level (when established) 
+44.4.DAP value at collimator (cone) tip for child mandibular molar 
+radiograph 
+On acceptance & 3 years 
+Must be below SA reference level (when established) – If displayed 
+should be within ± 15%, if not add correction factor 
+ 
+ 
+ 
+Page 15 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+References 
+45. 
+Panoramic radiography: beam size/collimation 
+On acceptance & 3 years 
+Must comply with the specifications by equipment manufacturer, and 
+the useful beam must not exceed receptor height 
+IEC 61223-3-4, par 
+7.5.2 
+46. 
+Panoramic & cephalometric radiography: 
+DAP Values 
+On acceptance & 3 years 
+The measured values must be recorded in mGy cm2 on Electronic 
+Submission – If displayed should be within ± 30%, if not add 
+correction factor 
+IPEM 91 DEN18 and 
+Ref 27 
+46.1.Panoramic radiography for average adult 
+On acceptance & 3 years 
+Should be less than 92 mGy cm2 – Baseline ± 15% 
+46.2.Panoramic radiography for child 
+On acceptance & 3 years 
+Must be below SA reference level (when established) 
+46.3.Cephalometric radiography for average adult 
+On acceptance & 3 years 
+Must be below SA reference level (when established) 
+46.4.Cephalometric radiography for child 
+On acceptance & 3 years 
+Must be below SA reference level (when established) 
+47.   
+48. 
+Max dimensions of x-ray field for cephalometric radiography 
+On acceptance & 3 years 
+Must comply with the specifications by equipment manufacturer and 
+shall be smaller than the receptor. All edges of x-ray field visible. 
+IEC 61223-3-4, par 
+7.5.2 
+49. 
+Beam quality (half value layer (HVL)) 
+On acceptance & Only to be 
+tested when the x-ray tube or 
+collimator is replaced 
+See section IV table 3 
+Reference 5 par 2.3 
+50. 
+Radiation output repeatability 
+On acceptance & 3 years 
+Mean ± 10% 
+IPEM 91 RAD09 
+Page 16 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+51. 
+Radiation output reproducibility 
+On acceptance & 3 years 
+Baseline ± 10% 
+IPEM 91 RAD10 
+52. 
+Leakage radiation from the diagnostic source assembly (x-ray tube) Also 
+applicable on Cone Beam CT 
+At acceptance and after 
+intervention on the tube 
+housing. 
+≤1 mGy in 1 hour at 1 m from the focus and ≤ 0.25 mGy for 
+apparatus used with intra-oral image receptors. If certificate of x- ray 
+tube manufacturer for tube leakage is available, this can be 
+used without testing. 
+Ref 18 and Ref 7 
+II.2.2. 
+Dental Cone Beam CT 
+53. 
+Reconstructed Image measurement 
+On acceptance & 12 monthly 
+± 0.5 mm 
+IPEM 91 DDR11 & 
+Ref 4 DCB07 
+54. 
+Image noise 
+On acceptance & 12 monthly 
+Must meet manufacturer’s specs or Baseline or inter slice variation 
+mean ± 10% 
+IPEM 91 CT06 & Ref 
+4 DCB08 
+55. 
+Image density values 
+On acceptance & 12 monthly 
+Must meet manufacturer’s specs or Baseline ± 10% 
+IPEM 91 CT07 & Ref 
+4 DCB09 
+ 
+ 
+ 
+Page 17 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+References 
+56. 
+Image uniformity 
+On acceptance & 12 monthly 
+Must meet manufacturer’s specs or Baseline ± 10% 
+IPEM 91 CT08 & Ref 
+4 DCB10 
+57. 
+High contrast spatial resolution 
+On acceptance & 12 monthly 
+Must meet manufacturer’s specs or Baseline ± 20% 
+IPEM 91 CT09 & Ref 
+4 DCB11 
+58.   
+59.   
+60. 
+Radiation field size 
+On acceptance & 12 monthly 
+≤ 10 mm or 10% of expected field size (whichever is smaller) 
+Ref 4 DCB14 
+61. 
+Radiation output repeatability 
+On acceptance & 12 monthly 
+Mean ± 10% 
+IPEM 91 RAD09 & 
+Ref 4 DCB15 
+62. 
+Radiation output reproducibility 
+On acceptance & 12 monthly 
+Baseline ± 10% 
+IPEM 91 RAD10 & 
+Ref 4 DCB16 
+63. 
+Operating potential 
+On acceptance & 12 monthly 
+≤ ±5% of intended or ± 5 kV (whichever is smaller) and ≥ 60 kV 
+IPEM 91 RAD12 & 
+Ref 4 DCB17 
+63.1.Beam quality (half value layer (HVL)) 
+On acceptance & Only to be 
+tested when the x-ray tube or 
+collimator is replaced 
+See section IV table 3 
+Ref 4 page 45 
+Page 18 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+64. 
+Dental cone beam CT: DAP 
+On acceptance & 24 monthly 
+Measured values below must be reported in mGy cm2 (DAP) on 
+Electronic Submission. If displayed should be within ± 15%, if not add 
+correction factor 
+Ref 4 DCB18 & 
+64.1.The adult measurement shall be made using the clinical protocol for 
+the placement of an upper first molar implant in a standard male 
+On acceptance & 24 monthly 
+Must be below SA reference level (when established) 
+64.2.The child measurement shall be made using the clinical protocol to 
+image a single impacted maxillary canine of a 12 year old male 
+On acceptance & 24 monthly 
+Must be below SA reference level (when established) 
+65. 
+High Contrast material 
+On acceptance & 12 monthly 
+Explanatory paragraph on page 24 Ref 4 
+Ref 4 page 46 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+References 
+II.2.3. 
+Film Viewing (Viewing boxes used for Reporting/Interpretation of medical images - see Chapter 7 of IPEM 91) & Film processing 
+66. 
+Film viewer luminance 
+On acceptance & 3 years 
+      1500 cd/m2 for general radiography 
+IPEM 91 IDD02 
+67. 
+Film viewer uniformity 
+On acceptance & 3 years 
+    20% 
+IPEM 91 IDD03 
+68. 
+Film viewer variation 
+On acceptance & 3 years 
+      20% difference from the mean value in bank 
+IPEM 91 IDD04 
+69. 
+Room illumination 
+On acceptance & 3 years 
+     100 lux for general radiography 
+IPEM 91 IDD05 
+II.2.4. 
+Reporting Monitor3 
+72. 
+General image quality and artefacts; Geometric distortion; Luminance, 
+reflection, noise, and glare & Resolution 
+On acceptance & 3 years 
+Use TG18-QC image 
+Ref 23 & Ref 16 
+IPEM 91 IDD09 
+Page 19 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+73. 
+DICOM greyscale calibration 
+On acceptance & 3 years 
+GSDF ±10% 
+IPEM 91 IDD11 
+74. 
+Minimum resolution 
+On acceptance & 3 years 
+Comply with table 4 
+Ref 21 & 22 
+75. 
+Reporting monitors – Greyscale (luminance response) 
+On acceptance & 3 years 
+For Cone Beam CT: Ratio white to black 250; 
+For intra-oral, panoramic and cephalometric radiography: Ratio white 
+to black 100 
+IDD07& TG 18 
+76. 
+Luminance uniformity 
+On acceptance & 3 years 
+Maximum variation 
+30% 
+IPEM 91 IDD12 
+77.   
+78. 
+Room illumination 
+On acceptance & 3 years 
+     20 lux 
+Images produced with intra-oral image receptors 
+100 lux 
+A hood can be placed over the monitor to achieve the above or install 
+dimmer lights, etc. 
+IPEM 91IDD14 
+Ref 22 p 53 
+ 
+ 
+ 
+3 Reporting monitors – see page 14 of this doc and Chapter 7 page 49 of IPEM 91 
+ 
+ 
+ 
+Page 20 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+References 
+II.2.5. 
+CR Reader (see also Ref 1.1 & KCARE (Ref 10)) 
+79.   
+80.   
+81. 
+Measured uniformity 
+On acceptance & 3 years 
+Mean ± 10% 
+IPEM 91 CR08 
+82. 
+Threshold contrast detailed detectability 
+On acceptance & 3 years 
+See comments CR09 
+IPEM 91 CR09 
+83. 
+Erasure cycle efficiency 
+On acceptance & 3 years 
+Blocker not visible in second image 
+IPEM 91 CR10 
+84. 
+Limiting spatial resolution 
+On acceptance & 3 years 
+Baseline minus 25% 
+IPEM 91 CR11 
+85. 
+Scaling errors 
+On acceptance & 3 years 
+    2% 
+IPEM 91 CR12 
+86. 
+Dark Noise 
+On acceptance & 3 years 
+Baseline + 50% 
+IPEM 91 CR13 
+87. 
+AEC device available 
+On acceptance & 3 years 
+IB must report YES or NO on ES 
+II.2.6. 
+DDR System (see also KCARE (Ref 10)) 
+91.   
+92.   
+93.   
+Page 21 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+94. 
+Threshold contrast detail detectability 
+On acceptance & 3 years 
+See comments in report 91 
+IPEM 91 DDR08 
+95. 
+Limiting spatial resolution 
+On acceptance & 3 years 
+Baseline minus 25% 
+IPEM 91 DDR09 
+96. 
+Uniformity of resolution 
+On acceptance & 3 years 
+No increase in blurring from baseline 
+IPEM 91 DDR10 
+97. 
+Scaling errors 
+On acceptance & 3 years 
+   2% 
+IPEM 91 DDR11 
+98. 
+Dark noise 
+On acceptance & 3 years 
+Baseline ± 50% 
+IPEM 91 DDR12 
+99. 
+AEC device available 
+On acceptance & 3 years 
+IB must report YES or NO on ES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 22 of 25 
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.4 TABLE 1 Half value layers (HVL-values) and Table 4 Minimum Requirements for Monitors 
+ 
+III. 
+TABLE 3 – HVL values 
+Intra-oral kV 
+50 
+60 
+70 
+71 
+80 
+90 
+Minimum HVL (mm of Al) 
+1.5 
+1.5 
+1.5 
+2.1 
+2.3 
+2.5 
+Other dental equipment; X-ray tube voltage (kilovolt peak) 
+70 
+80 
+90 
+100 
+110 
+120 
+130 
+Minimum HVL (mm of Al) 
+2.1 
+2.3 
+2.5 
+2.7 
+3.0 
+3.2 
+3.5 
+Minimum HVL (mm of Al), manufactured after June 2006 
+2.5 
+2.9 
+3.2 
+3.6 
+3.9 
+4.3 
+4.7 
+    CFR - Code of Federal Regulations Title 21, volume 8, 1 April 2013 
+IV. 
+Table 4 - MINIMUM REQUIREMENTS FOR MONITORS 
+Description and application 
+Monitors purchased on or after 1 January 2014 
+Licensed with Department 
+of Health as a medical 
+device for import 
+Minimum resolution 
+Reporting monitor for Cone Beam CT 
+Yes 
+1.3 Megapixel 
+To perform an optimum diagnostic 
+examination and to reduce the 
+occurrence/chance of any 
+misdiagnosis 
+Reporting monitor for images produced with intra-oral image receptors, cephalometric and 
+panoramic radiography. 
+No 
+1.3 Megapixel 
+High-Definition Monochrome monitor with display format of at least 1920 x 1080 and 
+aspect ratio of 16:9 is recommended 
+1. 
+Optimisation in diagnostic radiology means that equipment and methods must be selected to ensure that radiation administered to a patient for diagnostic purposes, is sufficient to enable the procedure to 
+provide the required information; and not greater than is necessary to provide that information. 
+2. 
+All diagnostic image interpretation shall be performed by making use of the application software which includes, zoom, pan, magnification and windowing tools to optimize spatial and contrast resolution 
+ 
+SAHPGL-RDN-XR-13_v2 
+Page 23 of 25
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray 
+Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+3.5 
+TEST GUIDELINES  
+• 
+Dental X-ray equipment (tests 2-10, 11-16, 17, 38, 39, 40-52, 66-69) 
+• 
+Digital Dental X-ray equipment (tests 2-10, 18-23, 31-36, 38, 39, 40-52, 72-87, 91- 99) 
+• 
+Cone Beam CT (tests 18-20, 21-23, 24-30, 39, 49, 52, 53-65, 72-78) 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+Radiation Protection in Dentistry Code of Practice and Safety Guide for Radiation Protection in 
+Dentistry (2005), RPS no 10, http://www.arpansa.gov.au/publications/codes/rps.cfm 
+4.2 
+Quality Control Recommendations for Diagnostic Radiography, Volume 1, Dental Facilities, 
+http://www.crcpd.org/Pubs/default.aspx or at https://sites.google.com/site/radiationcontroldoh/ 
+ Electronic devices – Use  Electronic devices - ionising radiation  Dental 
+4.3 
+Doses to Patients from Radiographic Procedures in the UK – HPA-CRCE-34, 
+https://www.gov.uk/.../radiation-hpa-crce-scientific-and-technical-report-series ; 
+4.4 
+Guidance on the Safe Use of Dental Cone Beam CT (Computed Tomography) Equipment, HPA-CRCE-
+010, https://www.gov.uk/government/.../dental-cone-beam-computed-tomography-safe-us 
+4.5 
+Test procedures for film processing and intensifying screens, 
+https://sites.google.com/site/radiationcontroldoh/  Electronic devices – Use  Electronic devices 
+- ionising radiation  Guidelines 
+4.6 
+Kodak QA in Dental radiography, https://sites.google.com/site/radiationcontroldoh/  Electronic 
+devices – Use  Electronic devices - ionising radiation  Dental; 
+4.7 
+Radiation Guideline 6 dentistry, www.epa.nsw.gov.au/resources/radiation/test_protocols.pdf 
+4.8 
+AAPM (American Association of Physicists in Medicine), Instrumentation Requirements of 
+Diagnostic Radiological Physicists, Report no. 60 www.aapm.org 
+4.8.1 
+Report no 93, Acceptance Testing and Quality Control of Photostimulable Storage Phosphor 
+Imaging Systems, www.aapm.org 
+4.9 
+BIR (British Institute of Radiology), Assurance of Quality in the Diagnostic Imaging Department 2nd 
+Edition, 2001, http://www.bir.org.uk  Publications  Bookshop 
+SAHPGL-RDN-XR-13_v2 
+Page 24 of 25
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray 
+Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+4.10 IMPACT, CT Scanner Acceptance Testing, www.impactscan.org  Reports & info  acceptance 
+testing of CT 
+4.11 IPEM (Institute of Physics and Engineering in Medicine) 1997, Recommended Standards for the 
+Routine Performance Testing of Diagnostic X-ray Imaging Systems, Report no. 77, www.IPEM.ac.uk 
+4.12 IPEM (Institute of Physics and Engineering in Medicine) 2005, Recommended Standards for the 
+Routine Performance Testing of Diagnostic X-ray Imaging Systems, Report no. 91, www.IPEM.ac.uk 
+4.13 KCARE; Protocols for QA of CR System – Routine and Annual; Protocols for QA of DDR Systems – 
+https://sites.google.com/site/radiationcontroldoh/  Electronic devices – Use  Electronic devices 
+- ionising radiation  Dental; 
+4.13.1 CR system: Commissioning & Annual tests; 
+4.13.2 CR system: Routine QA tests; 
+4.13.3 DDR system: Commissioning & Annual tests, and 
+4.13.4 DDR system: Routine QA tests. 
+4.14 NCRP (National Council on Radiation Protection and Measurements) 2003, Radiation Protection in 
+Dentistry, NCRP Report No.145, http://www.ncrponline.org Patient Dose Measurements in 
+Diagnostic Radiology https://sites.google.com/site/radiationcontroldoh/  Electronic devices – Use 
+ Electronic devices - ionising radiation  Guidelines 
+4.15 TG18 by AAPM (American Association of Physicists in Medicine), Task Group 18, 
+http://deckard.mc.duke.edu/~samei/tg18 OR www.aapm.org  Publications  Reports  OR-03 
+4.16 Measurement of the Performance Characteristics of Diagnostic X-Ray Systems: Digital Imaging 
+Systems, www.IPEM.ac.uk 
+4.17 Tube leakage, https://sites.google.com/site/radiationcontroldoh/  Electronic devices – Use  
+Electronic devices - ionising radiation  Guidelines 
+4.18 Inspection procedure for dental shielding 6-2014, 
+https://sites.google.com/site/radiationcontroldoh/  Electronic devices – Use  Electronic devices 
+- ionising radiation  Shielding 
+4.19 http://www-pub.iaea.org/MTCD/publications/PDF/TRS457_web.pdf 
+SAHPGL-RDN-XR-13_v2 
+Page 25 of 25
+SAHPGL-RDN-XR-13_v1 
+Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray 
+Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+4.20 Display considerations for hospital-wide viewing of soft copy images, DS Brettle, BJR, 80 (2007), 
+503-507, https://sites.google.com/site/radiationcontroldoh/  Electronic devices – Use  
+Electronic devices - ionising radiation  Guidelines 
+4.21 Radiation Safety in Dental Practice – A study Guide, California Dental Association, December 2013, 
+https://sites.google.com/site/radiationcontroldoh/  Electronic devices – Use  Electronic devices 
+- ionising radiation  Dental 
+4.22 Reporting monitors - SMPTE & TG18-QC, https://sites.google.com/site/radiationcontroldoh/  
+Electronic devices – Use  Electronic devices - ionising radiation  Dental 
+4.23 Radiation Protection in Dentistry, Publication No. 10, December 2005, 
+http://www.arpansa.gov.au/pubs/rps/rps10.pdf 
+4.24 Dental test phantoms, http://www.leedstestobjects.com  Products  Dental 
+4.25 Cone Beam CT for Dental and Maxillofacial Radiology, Radiation Protection No 172, 
+www.sedentexct.eu/files/radiation_protection_172.pdf 
+4.26 Measurement of dose in panoramic dental radiology - 
+https://sites.google.com/site/radiationcontroldoh/  Electronic devices – Use  Electronic devices 
+- ionising radiation  Dental 
+4.27 Optimization of Protection in Dental Radiology, IAEA (RPDIR-L22_Dental), https://rpop.iaea.org/ - 
+https://sites.google.com/site/radiationcontroldoh/  Electronic devices – Use  Electronic devices 
+- ionising radiation  Dental. 
+4.28 European guidelines on radiation protection in dental radiology, issue no. 136 - 
+https://sites.google.com/site/radiationcontroldoh/  Electronic devices – Use  Electronic devices 
+- ionising radiation  
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+on the Requirements for Licence Holders with Respect to Quality Control Tests for Dental Diagnostic X-Ray Imaging 
+Systems, revised March 2017. It will be reviewed on this timeframe or as and when required. 
+

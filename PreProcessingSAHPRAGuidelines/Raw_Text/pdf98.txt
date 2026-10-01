@@ -1,0 +1,197 @@
+SAHPGL-CEM-CT-09_v3 
+Page 1 of 5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 October 2022 
+GUIDELINE FOR CLINICAL TRIAL INVESTIGATORS  
+This document has been prepared to serve as a guideline for applicants/investigators who wish to submit the application to conduct 
+a clinical trial, application for additional sites and  add additional investigators to an approved trial. It represents the South African 
+Health Product Regulatory Authority’s (SAHPRA) current thinking on the investigators provision of oversight during the conduct of 
+clinical trial. This guideline intends to provide clarity on conditions applicable to Co-Principal Investigators. SAHPRA reserves the 
+right to request any additional information and may make amendments in keeping with the knowledge which is current. 
+ 
+ 
+ 
+ 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First version published for implementation 
+May 2017 
+2 
+Administrative changes 
+May 2019 
+3 
+Administrative changes, document number change from 9.84 to SAHPGL-
+CEM-CT-09 
+October 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-CT-09_v3 
+Page 2 of 5
+Guideline for Clinical Trial Investigators 
+24 October 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+1. 
+INTRODUCTION ......................................................................................................................................... 3 
+1.1 Purpose ...................................................................................................................................................... 3 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 3 
+3. 
+PRICINCIPAL INVESTIGATORS .................................................................................................................... 3 
+4. 
+CO-PRINCIPAL INVESTIGATORS ................................................................................................................. 4 
+5. 
+REFERENCES ............................................................................................................................................... 4 
+6. 
+VALIDITY .................................................................................................................................................... 5 
+ 
+ 
+ 
+SAHPGL-CEM-CT-09_v3 
+Page 3 of 5
+Guideline for Clinical Trial Investigators 
+24 October 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+The South African Health Products Regulatory Authority (SAHPRA) recognises the importance of good 
+oversight of clinical trials. SAHPRA also recognises that over the past twenty years the complexity of 
+clinical trials has changed, requiring combination teams of either differently skilled clinicians and/or 
+suitably qualified clinical research scientists to lead the team. Noting these changing requirements, 
+SAHPRA has reviewed the oversight of clinical trials and is recommending that new categories of 
+investigators for trial leadership will be recognised and approved. Currently, SAHPRA’s guidelines define 
+the roles of principal investigators and sub-investigators. In addition to the aforementioned, SAHPRA 
+resolved to define a new category of a Co-Principal Investigator. This category will allow both clinician 
+and non-clinician scientists to assume the role of Co-Principal Investigator for approved clinical trials. 
+This will enhance trial leadership and has the potential to build capacity to undertake clinical trials in the 
+country.  
+1.1 
+Purpose 
+This document intends to serve as a guideline for applicants/investigators who wish to submit the 
+application to conduct a clinical trial, apply for additional investigators to an approved trial or submit 
+the application for additional/change in site. The guideline provides the conditions for investigators and 
+in particular the Co-Principal Investigators. This guideline should be read in conjunction with the SA GCP 
+guidelines. 
+2. 
+LEGAL PROVISION 
+This guideline is established in terms of Regulation 30 of the medicines and related substances act, 101 
+of 1965, conduct of clinical trials. 
+3. 
+PRICINCIPAL INVESTIGATORS 
+According to the current ICH-GCP Guidelines, an investigator in a clinical trial is a suitably qualified 
+person responsible for the conduct of the clinical trial at a trial site or with oversight of several trial sites. 
+If a trial is conducted by a team of individuals at a trial site, the investigator who is the responsible leader 
+of the team is called the Principal Investigator (PI). 
+ 
+A Sub-Investigator (Sub-I) is any individual member of the clinical trial team who is designated and/or 
+supervised by the Principal Investigator at a trial site to perform critical trial-related procedures and/or 
+to make important trial-related decisions.  
+ 
+SAHPRA resolved that at least one of the Sub-Investigators at any trial site must be a clinician, registered 
+with the appropriate statutory body and qualified to provide clinical oversight within his/her scope of 
+practice. 
+ 
+According to the South African Good Clinical Practice Guidelines 2020, the Principal Investigator must 
+be a South Africa-based scientist who has a sole or joint responsibility for the design, conduct, delegation 
+of trial responsibilities, analysis and reporting of the trial. The Principal Investigator is accountable to 
+the Sponsor/Applicant and to the regulatory authorities, as required by these Guidelines. The Principal 
+Investigator should be knowledgeable and have an understanding of the study medicine(s), including 
+toxicology and safety. In the case of a multi-centre trial there must be a local Principal Investigator 
+responsible for each study site. It is unacceptable to have an "absentee" Principal Investigator who is 
+based in another city or country. If there are multiple sites in South Africa it is recommended that a 
+National Principal Investigator be appointed, who will take overall responsibility for the conduct of the 
+SAHPGL-CEM-CT-09_v3 
+Page 4 of 5
+Guideline for Clinical Trial Investigators 
+24 October 2022 
+ 
+ 
+study. 
+4. 
+CO-PRINCIPAL INVESTIGATORS 
+SAHPRA recognises that there may be instances where the Principal Investigator for a trial may be a 
+suitably qualified non-clinician scientist. This type of investigator may be a laboratory scientist, 
+pharmacist, or other appropriately qualified and experienced person, who is able to provide critical trial 
+oversight and management and can lead a study team.  
+ 
+In the above instance SAHPRA currently requires that an adequately qualified research clinician also be 
+part of the leadership team. There may also be instances where more than one clinical speciality is 
+required for the clinical management of participants in a study, thereby requiring more than one clinical 
+investigator’s core skills to ensure proper management of trial procedures and participants.  
+ 
+For these reasons SAHPRA has introduced a category of Co-Principal Investigator (Co-PI), which allows 
+for a team consisting of two Co-Principal Investigators to lead a study at a site. The role of each Co-
+Principal Investigator should be described for the study, and their complementary responsibilities 
+carefully detailed, so that all the responsibilities of a PI as defined are covered. At least one of the Co-
+Principal Investigators must be a clinician registered with the appropriate statutory body and qualified 
+to provide clinical oversight within his/her scope of practice. While the co-PIs will have defined and 
+separate roles and functions in relation to the conduct of the trial, in terms of legal responsibility they 
+will be jointly and severally liable. 
+ 
+For multi-centred studies there must be a National Principal Investigator appointed, who may or may 
+not be a site Principal Investigator. The National Principal Investigator must have appropriate 
+experience and expertise in the clinical field of the study and must be responsible for the application to 
+SAHPRA to conduct the study. The National Principal Investigator must meet all other requirements to 
+be a Principal Investigator and must sign a declaration accepting the responsibility as National Principal 
+Investigator and sign off the Clinical Trial Form (CTF) application. The National Principal Investigator must 
+coordinate concerns of investigators regarding the conduct of the trial and communicate these with 
+sponsor, applicant, ethics committees and SAHPRA as necessary. 
+ 
+Where Co-Principal Investigators are appointed, the following conditions apply: 
+ 
+1. Appropriate and acceptable reasons must be provided for the appointment of two Co-Principal 
+Investigators. Such applications will be considered and approval granted on a case-by-case basis. 
+2. Both Co-Principal Investigators must meet all the requirements of being a Principal Investigator. 
+3. At least one Co-Principal Investigator must be a clinician, registered with the appropriate statutory 
+body, qualified to provide medical oversight within his/her scope of practice, and provide 
+professional indemnity insurance. 
+4. The non-clinical Co-Principal Investigator must be registered with the statutory body for his/her 
+profession, where appropriate. In addition, indemnity insurance must be provided regardless of 
+clinical qualification.  
+5. Both Co-Principal Investigators must be based in South Africa.0 
+5. 
+REFERENCES 
+South African Good Clinical Practice Guideline.2020. 3rd ed. South Africa 
+SAHPGL-CEM-CT-09_v3 
+Page 5 of 5
+Guideline for Clinical Trial Investigators 
+24 October 2022 
+ 
+ 
+6. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the 
+communication on Clinical Trial Investigators, document number 9.84. It will be reviewed in this 
+timeframe or as and when required. 
+ 
+

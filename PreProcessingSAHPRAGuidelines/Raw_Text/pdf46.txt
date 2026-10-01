@@ -1,0 +1,464 @@
+[SAHPGL-XX-ZZ_v1] 
+Page 1 of 11
+ 
+ 
+ 
+8 September 2025 
+POST MARKET SURVEILLANCE AND POST-MARKET CLINICAL 
+FOLLOW-UP STUDIES 
+This guideline is intended to provide recommendations to Manufacturers, Importers, Exporters, 
+Distributors, and Holders of certificates of Registration (HCR) of medical devices. It represents the South 
+African Health Products Regulatory Authority’s (SAHPRA) current thinking on the safety, quality, and 
+performance of medical devices. It is not intended as an exclusive approach. The Authority reserves the 
+right to request any additional information to establish the safety, quality, and performance of a medical 
+device in keeping with the knowledge current at the time of evaluation. Alternative approaches may be 
+used, but these should be scientifically and technically justified. The Authority is committed to ensuring 
+that all registered medical devices will be of the required quality, safety, and performance. It is important 
+that applicants adhere to the administrative requirements to avoid delays in the processing and 
+evaluation of applications. Guidelines and application forms are available from the SAHPRA website. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+Draft publication released for comment   
+14 November 2024 
+2 
+Published for implementation 
+25 August 2025 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-MD-18 
+Page 2 of 11
+ POST MARKET SURVEILLANCE AND POST-MARKET CLINICAL FOLLOW-UP STUDIES 
+8 September 2025 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 7 
+1.1 Purpose ...................................................................................................................................................... 7 
+1.2 Scope ......................................................................................................................................................... 7 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 8 
+3. 
+International Standards ............................................................................................................................. 8 
+4. 
+Circumstances where a PMCF study is indicated ...................................................................................... 8 
+5. 
+Elements of a PMCF study ......................................................................................................................... 9 
+6. 
+The use of study data .............................................................................................................................. 11 
+7. 
+REFERENCES ............................................................................................................................................. 11 
+8. 
+VALIDITY .................................................................................................................................................. 11 
+ 
+ 
+ 
+ 
+SAHPGL-MD-18 
+Page 3 of 11
+ POST MARKET SURVEILLANCE AND POST-MARKET CLINICAL FOLLOW-UP STUDIES 
+8 September 2025 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Adverse Device Effect 
+An adverse event related to the use of an investigational medical device. 
+Adverse Event 
+Means any untoward medical occurrence or undesirable incident that may 
+occur in association with the use of a medical device which—  
+(a) 
+does not necessarily have a causal relationship with its use; or 
+(b) 
+may occur due to its malfunction, its deterioration of safety, quality or 
+performance or an error of its use; 
+As determined by the 
+Authority 
+Means as determined by the South African Health Products Regulatory 
+Authority (SAHPRA) in a guideline as published from time to time; 
+Authorised 
+Representative 
+Means a natural person, resident in the Republic of South Africa, who— 
+(a) 
+has the written mandate to represent a manufacturer, distributor, or 
+wholesaler in the Republic; and 
+(b) 
+acts on behalf of a manufacturer, distributor, or wholesaler, in whose 
+name the licence in terms of section 22C(1)(b) of the Act or certificate of 
+registration is issued; 
+Classification  
+The medical devices regulatory framework has a classification system for 
+medical devices and IVDs, as per the regulations of Act 101 of 1965, South 
+African risk classification, as per classification guideline 8.05. 
+Clinical Data 
+Safety and/or performance information that is generated from the clinical use 
+of a medical device 
+Clinical Evaluation 
+The assessment and analysis of clinical data about a medical device to 
+ verify the clinical safety and performance of the device when used as intended 
+by the manufacturer. 
+Clinical Evidence for an 
+IVD Medical Device 
+All the information that supports the scientific validity and performance for its 
+use as intended by the manufacturer. 
+Clinical Investigation 
+Any systematic investigation or study in or on one or more human subjects, 
+undertaken to assess the safety and/or performance of a medical device. 
+Clinical Investigation 
+Plan 
+Document that states rationale, objective, design, and proposed  
+analysis, methodology, monitoring, conduct, and record-keeping of the clinical 
+SAHPGL-MD-18 
+Page 4 of 11
+ POST MARKET SURVEILLANCE AND POST-MARKET CLINICAL FOLLOW-UP STUDIES 
+8 September 2025 
+ 
+ 
+investigation. 
+Clinical Investigation 
+Report 
+The document describing the design, execution, statistical analysis, and results 
+of a clinical investigation. 
+Clinical Investigator 
+The individual responsible for the conduct of a clinical investigation who takes 
+the clinical responsibility for the well-being of the subjects involved. 
+Clinical Performance 
+The ability of a medical device to achieve its intended purpose as claimed by 
+the manufacturer. 
+Clinical Performance of 
+an IVD Medical Device 
+The ability of an IVD medical device to yield results that are correlated with a 
+particular clinical condition/physiological state following 
+the target population and intended user. 
+Clinical Performance 
+Study / clinical 
+performance assessment 
+A study undertaken to establish or confirm the clinical performance of an IVD 
+medical device. 
+ 
+NOTE: This term is synonymous with ‘clinical trial’ and ‘clinical study’. 
+Clinical Performance 
+Study Protocol 
+Document that states the rationale, objectives, design, and proposed analysis, 
+methodology, monitoring, conduct, and record-keeping of the clinical 
+performance study. 
+Clinical safety 
+freedom from unacceptable clinical risks, when using the device according to 
+the manufacturer’s Instructions for Use.  
+ 
+Note: In exceptional cases where an instruction for use is not required, the 
+collection, analysis, and assessment are conducted taking into account 
+generally recognised modalities of use. 
+Clinical trial 
+Means a study in or on human or animal subjects undertaken to assess the 
+safety or clinical performance of the medical device. 
+Clinical use 
+Use of a medical device in or on living human subjects. 
+Note: Includes use of a medical device that does not have direct patient contact. 
+Device Registry 
+An organised system that uses observational study methods to collect defined 
+clinical data under normal conditions of use relating to one or more devices to 
+evaluate specified outcomes for a population defined by a particular disease, 
+condition, or exposure, and that serves predetermined scientific, clinical, or 
+policy purpose(s).  
+SAHPGL-MD-18 
+Page 5 of 11
+ POST MARKET SURVEILLANCE AND POST-MARKET CLINICAL FOLLOW-UP STUDIES 
+8 September 2025 
+ 
+ 
+ 
+Note: The term “device registry” as defined in this guidance should not be 
+confused with the concept of device registration and listing. (See GHTF 
+SG1N065) 
+Essential Principles 
+Means the requirements relating to the safety and performance characteristics 
+of medical devices as determined by the Authority. 
+In Vitro Diagnostic 
+Medical Devices (IVDs)  
+Means a medical device, whether used alone or in combination, intended by 
+the manufacturer for the in vitro examination of specimens derived from the 
+body solely or principally to provide information for diagnostic, monitoring, or 
+compatibility purposes. 
+Medical device  
+Any instrument, appliance, material, machine, apparatus, implant, or 
+diagnostic reagent- (a) used or purporting to be suitable for use or 
+manufactured or sold for use in-  
+(i) 
+the diagnosis, treatment, mitigation, modification, monitoring, or 
+prevention of disease, abnormal physical or mental states, or the 
+symptoms thereof; or 
+(ii) 
+ restoring, correcting, or modifying any somatic or psychic, or 
+organic function; or  
+(iii) 
+the diagnosis or prevention of pregnancy, and which does not 
+achieve 
+its 
+purpose 
+through 
+chemical, 
+pharmacological, 
+immunological or metabolic means in or on the human body but 
+which may be assisted in its function by such means; or  
+(b) declared by the Minister by notice in the gazette to be a medical device, and 
+includes any part or accessory of a medical device 
+PMCF plan 
+The documented, proactive, organised methods and procedures set up by the 
+manufacturer to collect clinical data based on the use of a registered device 
+corresponding to a particular design dossier or on the use of a group of medical 
+devices belonging to the same subcategory or generic device group. The 
+objective is to confirm clinical performance and safety throughout the expected 
+lifetime of the medical device, the acceptability of identified risks, and to detect 
+emerging risks on the basis of factual evidence. 
+Post-market clinical 
+follow-up (PMCF) study 
+A study carried out following the registration of a device and intended to 
+answer specific questions relating to clinical safety or performance (i.e., 
+SAHPGL-MD-18 
+Page 6 of 11
+ POST MARKET SURVEILLANCE AND POST-MARKET CLINICAL FOLLOW-UP STUDIES 
+8 September 2025 
+ 
+ 
+residual risks) of a device when used in accordance with its approved labelling. 
+Residual Risk 
+Risk remaining after risk control measures has been taken. 
+ 
+ 
+ 
+SAHPGL-MD-18 
+Page 7 of 11
+ POST MARKET SURVEILLANCE AND POST-MARKET CLINICAL FOLLOW-UP STUDIES 
+8 September 2025 
+ 
+ 
+1. 
+INTRODUCTION 
+While clinical evidence is an essential element of the premarket conformity assessment process to 
+demonstrate conformity to Essential Principles, it is important to recognise that there may be limitations to 
+the clinical data available in the pre-market phase. Such limitations may be due to the duration of pre-market 
+clinical investigations, the number of subjects and investigators involved in an investigation, the relative 
+heterogeneity of subjects and investigators, and/or the controlled setting of a clinical investigation versus the 
+full range of clinical conditions encountered in general medical practice. 
+A precondition for placing a product on the market is that conformity to the relevant Essential Principles, 
+including a favourable benefit/risk ratio, has been demonstrated. The extent of the data that can be gathered 
+in the pre-market phase does not necessarily enable the manufacturer to detect rare complications or 
+problems that only become apparent after widespread or long-term use of the device. As part of the 
+manufacturer’s quality system, an appropriate post-market surveillance plan is key to identifying and 
+investigating residual risks associated with the use of medical devices placed on the market. These residual 
+risks should be investigated and assessed in the post-market phase through systematic Post-Market Clinical 
+Follow-up (PMCF) study(ies). 
+Clinical data obtained from post-market surveillance and during PMCF studies by the manufacturer are not 
+intended to replace the pre-market data necessary to demonstrate conformity with the provisions of the 
+legislation. However, they are critical to update the clinical evaluation throughout the life cycle of the medical 
+device and to ensure the long-term safety and performance of devices after their placement on the market. 
+PMCF studies are one of several options available in post-market surveillance and contribute to the risk 
+management process.  
+1.1 
+Purpose 
+ This document is intended to be a guide for Manufacturers, Importers, Exporters, Distributors, and Holders 
+of Certificate of Registration (HCR) on how to carry out Post-Market Clinical Follow-up (PMCF) studies in 
+order to fulfil Post-Market Surveillance (PMS) obligations.  
+Adverse events occurring during the course of a PMCF study must be reported similarly to other registered 
+devices placed on the market as per   SAHPGL-MD-03- Guideline for medical device adverse events. 
+1.2 
+Scope  
+The objective of this document is to guide the appropriate use and conduct of PMCF studies to address issues 
+linked to residual risks.  
+SAHPGL-MD-18 
+Page 8 of 11
+ POST MARKET SURVEILLANCE AND POST-MARKET CLINICAL FOLLOW-UP STUDIES 
+8 September 2025 
+ 
+ 
+PMCF studies are an important element to be considered in PMCF or PMS plans. The principles for PMCF 
+studies set out in this guidance are not intended to replace PMCF or PMS plans. They are or may be applicable 
+to PMCF studies conducted for other purposes.  
+This document provides guidance in relation to:  
+• 
+The circumstances where a PMCF study is indicated;  
+• 
+The general principles of PMCF studies involving medical devices;  
+• 
+The use of study data (for example, to update instructions for use and labelling); 
+2. 
+LEGAL PROVISION 
+ 
+• 
+Medical device Regulations Government Gazette (No. 40480).  
+ 
+3. INTERNATIONAL STANDARDS 
+• 
+ISO 14155:2011 Clinical investigation of Medical Devices for human subjects  
+• 
+Good clinical practice  
+• 
+ISO 14971:2012 Application of risk management to medical devices 
+• 
+ISO 14155:2011 Clinical investigation of Medical Devices for human subjects 
+ 
+4. CIRCUMSTANCES WHERE A PMCF STUDY IS INDICATED 
+Following a proper premarket clinical evaluation, the decision to conduct PMCF studies must be based on the 
+identification of possible residual risks and/or uncertainty on long-term clinical performance that may impact 
+the benefit/risk ratio.  
+ 
+PMCF studies may review issues such as long-term performance and/or safety, the occurrence of clinical events 
+(e.g., delayed hypersensitivity reactions, thrombosis), events specific to defined patient populations, or the 
+performance and/or safety of the device in a more representative population of users and patients. 
+Circumstances that may justify PMCF studies include, for example: 
+• 
+innovation, e.g., where the design of the device, the materials, substances, the principles of operation, 
+the technology, or the medical indications are novel;  
+SAHPGL-MD-18 
+Page 9 of 11
+ POST MARKET SURVEILLANCE AND POST-MARKET CLINICAL FOLLOW-UP STUDIES 
+8 September 2025 
+ 
+ 
+•  
+significant changes to the products or to their intended use for which pre-market clinical evaluation 
+and re-certification have been completed;  
+• 
+high product-related risk, e.g., based on design, materials, components, invasiveness, clinical 
+procedures;  
+• 
+high-risk anatomical locations;  
+• 
+high-risk target populations, e.g., paediatric, elderly;  
+• 
+severity of disease/treatment challenges;  
+• 
+questions of ability to generalise clinical investigation results;  
+• 
+unanswered questions of long-term safety and performance;  
+• 
+results from any previous clinical investigation, including adverse events or post-market surveillance 
+activities;  
+• 
+identification of previously unstudied subpopulations which may show different benefit/risk-ratio, 
+e.g., hip implants in different ethnic populations;  
+• 
+continued validation in cases of discrepancy between reasonable premarket follow-up time scales and 
+the expected life of the product;  
+• 
+risks identified from literature or other data sources for similar marketed devices;  
+• 
+interaction with other medical products or treatments;  
+• 
+verification of safety and performance of devices when exposed to a larger and more varied population 
+of clinical users;  
+• 
+emergence of new information on safety or performance;  
+• 
+where the device’s regulatory approval was based on equivalence.  
+PMCF studies may not be required when the medium/long-term safety and clinical performance are already 
+known from previous use of the device or where other appropriate post-market surveillance activities would 
+provide sufficient data to address the risks. 
+5. ELEMENTS OF A PMCF STUDY 
+Post-market clinical follow-up studies are performed on a device within its intended use/purpose(s) according 
+to the instructions for use. It is important to note that PMCF studies must be conducted according to applicable 
+laws and regulations and should involve an appropriate methodology and follow appropriate guidance and 
+standards.  
+PMCF studies must be outlined as a well-designed clinical investigation plan or study plan, and, as 
+appropriate, include: 
+• 
+clearly stated research question(s), objective(s) and related endpoints;  
+SAHPGL-MD-18 
+Page 10 of 11
+ POST MARKET SURVEILLANCE AND POST-MARKET CLINICAL FOLLOW-UP STUDIES 
+8 September 2025 
+ 
+ 
+• 
+scientifically sound design with an appropriate rationale and statistical analysis plan;  
+• 
+a plan for conduct according to the appropriate standard(s);  
+• 
+a plan for an analysis of the data and for drawing appropriate conclusion(s).  
+ 
+5.1 Objectives of PMCF studies 
+ 
+The objective(s) of the study should be stated clearly and should address the residual risk(s) identified and 
+be formulated to address one or more specific questions relating to the clinical safety or clinical 
+performance of the device. A formal hypothesis should be clearly expressed. 
+5.2 Design of PMCF studies 
+ 
+PMCF studies should be designed to address the objective(s) of the study. The design may vary based on 
+the objective(s), study hypothesis, research question, and endpoints, and should be scientifically sound 
+to allow for valid conclusions to be drawn.  
+PMCF studies can follow several methodologies, for example: 
+•    the extended follow-up of patients enrolled in premarket investigations;  
+• a new clinical investigation;  
+•    a review of data derived from a device registry; or  
+•    a review of relevant retrospective data from patients previously exposed to the device.  
+PMCF studies should have a plan describing the design and methodologies appropriate for addressing the 
+stated objectives. The clinical investigation plan/study plan should identify and, where needed, justify at 
+a minimum: 
+• the study population (corresponding to the scope of the registered device); 
+• inclusion/exclusion criteria; 
+• rationale and justification of the chosen study design, including use of controls/control              
+groups  (where relevant; randomised or not); 
+• the selection of sites and investigators; 
+• study objectives and related study endpoints and statistical considerations; 
+• the number of subjects involved; 
+• the duration of patient follow-up; 
+• 
+the data to be collected; 
+• 
+the analysis plan, including any interim reporting where appropriate to ensure continuous risk 
+management based on clinical data; and 
+SAHPGL-MD-18 
+Page 11 of 11
+ POST MARKET SURVEILLANCE AND POST-MARKET CLINICAL FOLLOW-UP STUDIES 
+8 September 2025 
+ 
+ 
+o procedures/criteria for early study termination; 
+o ethical considerations; 
+o methods of quality control of data where appropriate. 
+The points above may not all apply to a retrospective data review. 
+5.3 Implementation of the PMCF study, analysis of data, and conclusion(s) 
+ 
+The study should: 
+• 
+be executed with adequate control measures to ensure compliance with the clinical investigation 
+or study plan; 
+• 
+include data analysis with conclusions drawn according to the analysis plan by someone with 
+appropriate expertise; and 
+• 
+have a final report with conclusions relating to original objective(s) and hypothesis/hypotheses. 
+ 
+6. THE USE OF STUDY DATA 
+The data and conclusions derived from the PMCF study are used to provide clinical evidence for the clinical 
+evaluation process. This may result in the need to reassess whether the device continues to comply with the 
+Essential Principles. Such assessment may result in corrective or preventive actions, for example changes to 
+the labelling/instructions for use, changes to manufacturing processes, changes to the device design, or public 
+health notifications. 
+7. REFERENCES 
+The following related documents are referenced: 
+a. Clinical evaluation of Medical Devices guideline 
+b. Medical Devices and IVDs Essential Principles of Safety & Performance 
+c. SAHPGL-MD-03- Guideline for medical device adverse events 
+8. VALIDITY 
+This guideline is valid for a period of five (5) years from the effective date of revision. It will be reviewed 
+within this timeframe or as and when required. 
+ 
+

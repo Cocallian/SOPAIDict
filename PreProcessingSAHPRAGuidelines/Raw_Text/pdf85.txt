@@ -1,0 +1,196 @@
+SAHPGL-PEM-04_v1 
+Page 1 of 6
+ 
+ 
+ 
+23 March 2023 
+INTERNATIONAL METRIC SYSTEM (SI) 
+The guideline is intended to provide guidance with regard to the legal system of measurement in South Africa. 
+This guideline reflects the requirements as stipulated in the Legal Metrology Act, 2014 (Act 9 of 2014), and 
+the Measuring Units and Measuring Standards Act, 2006 (Act 18 of 2006).  
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+3 
+- 
+Date of implementation  
+March 2019 
+4 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+Old guideline number 2.38 changed to SAHPGL-PEM-04 
+January 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-PEM-04_v4 
+Page 2 of 6
+International Metric System (SI) 
+23 March 2023 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 4 
+3. 
+Legal system of measurement ................................................................................................................... 4 
+3.1 
+Use of comma ............................................................................................................................................ 4 
+3.2 
+Method of writing SI units and symbols .................................................................................................... 4 
+4. 
+REFERENCES ............................................................................................................................................... 6 
+5. 
+VALIDITY ..................................................................................................................................................... 6 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-04_v4 
+Page 3 of 6
+International Metric System (SI) 
+23 March 2023 
+ 
+ 
+INTERNATIONAL METRIC SYSTEM (SI) 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+SABS 
+South African Bureau of standards  
+SI 
+International Metric System 
+ 
+ 
+ 
+SAHPGL-PEM-04_v4 
+Page 4 of 6
+International Metric System (SI) 
+23 March 2023 
+ 
+ 
+1. INTRODUCTION 
+The SI was introduced in South Africa on 5 July 1974. This is the only legal system of measurement in South 
+Africa. 
+1.1 Purpose 
+The purpose of this guideline is to provide guidance on the implementation of the Legal Metrology Act and 
+the Measuring units and Measuring Standards Act prescribed on the use of the International Metric System 
+(SI). 
+1.2 Scope 
+The scope of this guideline is limited to the legal system of measurement used in South Africa.  
+2. LEGAL PROVISION 
+ 
+ 
+The Legal Metrology Act, 2014 (Act 9 of 2014), and the Measuring Units and Measuring Standards Act, 
+2006 (Act 18 of 2006) prescribe the use of the International Metric System (SI).  
+3. Legal system of measurement  
+3.1 Use of comma 
+The comma is the only recognised decimal indicator for all numbers, including amounts of (currency) 
+money. 
+If there are more than three numerals on either side of the decimal indicator, these numerals are divided 
+into groups of three by means of spaces, counting from the decimal sign, e.g. 1 725 352,648 901. 
+Whenever a number is written with the symbol of a unit, a space is left between the number and the 
+symbol. 
+Examples: 
+150 m and not 150m 
+50 kg and not 50kg 
+37,5 mg and not 37.5mg 
+R2 000,00 and not R2,000.00 or R2,000-00 
+99,9 % and not 99.9% 
+25 °C and not 25°C or 25° C 
+3.2 Method of writing SI units and symbols 
+3.2.1 
+Symbols are typed or printed in upright letters and are always lower-case letters, except if the 
+name of the corresponding unit is derived from the name of a person, in which case the symbol 
+(or the first letter thereof if it consists of more than one letter) is a capital letter, e.g. metre (m), 
+second (s), but watt (W), hertz (Hz). 
+These rules apply always, even if the rest of the subject matter is printed in upper case or other 
+SAHPGL-PEM-04_v4 
+Page 5 of 6
+International Metric System (SI) 
+23 March 2023 
+ 
+ 
+letter types as in headings of tables, paragraphs, etc. 
+Examples: 
+LENGTH IN m or Length in m 
+FREQUENCY IN Hz or Frequency in Hz 
+3.2.2 
+Symbols have no plural, e.g. 1 m, 2 m 
+3.2.3 
+Note that reference is to symbols and not abbreviations, and that symbols are not followed by a 
+fullstop unless they occur at the end of a sentence. 
+3.2.4 
+ When written out in full the name of a unit is written in lower case letters irrespective of whether 
+it is derived from the name of a person or not. Exceptions are if the unit appears at the beginning of 
+a sentence in which case the first letter is a capital letter, and if the whole of the subject matter is 
+printed in capital letters, e.g. LENGTH IN METRES. The exception to this rule is the degree 
+Celsius, where the name Celsius is always written with a capital C. 
+3.2.5 
+The plural form is used in English but not in Afrikaans, e.g. one metre, two metres in English, but 
+een meter, twee meter in Afrikaans. 
+3.2.6 
+Dimensions, e.g. mass, volume, height, length, are denoted by italics, i.e. m/v, m/m, v/v. 
+Note that mass per mass reflected as m/m should be in italics to distinguish from metre per metre. 
+The above was taken from the Guide to the use of the SI in South Africa, published by the SABS 
+ 
+ 
+SAHPGL-PEM-04_v4 
+Page 6 of 6
+International Metric System (SI) 
+23 March 2023 
+ 
+ 
+ 
+If your computer settings don’t yet support the above, you can easily adjust these as follows: (If your 
+access is restricted you will have to log a call to IT to come and adjust your settings) 
+ 
+From the Start menu: 
+> Go to Control Panel 
+>> Region, Additional settings (Region and Language, Additional settings, Numbers) 
+>>> Numbers 
+>>>> Decimal symbol: Change this to a comma 
+>>>> Digit grouping symbol: Click the space bar (it won’t show anything in the block) 
+>>>> Measurement system: Select “metric’ 
+Now select “Apply” 
+Check that MS Word is set to accept centimetres as follows: 
+Office 2003 
+> Go to Tools, Options, General 
+>> At the bottom is the option for “measurement units” – select “centimeters”. 
+Office 2007/2010/2016 
+> Under File, go to Options, Advanced 
+>> Under Display, Show measurements in units of – select “centimeters” 
+>>> Select OK 
+4. REFERENCES 
+The following related documents are referenced:  
+The Legal Metrology Act, 2014 (Act 9 of 2014), 
+Measuring Units and Measuring Standards Act, 2006 (Act 18 of 2006) 
+5. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the 2.38_SI 
+Metric System guideline. It will be reviewed on this timeframe or as and when required. 
+

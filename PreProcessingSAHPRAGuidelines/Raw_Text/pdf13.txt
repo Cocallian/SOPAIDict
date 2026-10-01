@@ -1,0 +1,797 @@
+Page 1 of 15 
+SAHPGL-PEM-BIO-09_v1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUIDELINES FOR SUBMISSION OF 
+PLASMA MASTER FILE  
+ 25 MARCH 2026 
+ 
+ 
+ 
+ 
+ 
+Document History 
+ 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First publication for comments 
+July 2025 
+ 
+Finalised for publishing 
+23 February 2026 
+ 
+Date of implementation 
+March 2026 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA 
+CHIEF EXECUTIVE OFFICER 
+These guidelines provide recommendations to manufacturers who wish to submit Plasma Master Files in support of the 
+quality of the starting materials for Plasma-Derived Medicinal Products (PDMP). These apply to applications for the 
+registration or variations of PDMP. These guidelines emphasize   South African Health Products Regulatory Authority’s 
+(SAHPRA) commitment towards the safety, efficacy, and quality of medicines.  SAHPRA reserves the right to request any 
+additional information to establish the safety, efficacy, and quality of a medicine in keeping with the latest knowledge at 
+the time of evaluation. Alternative approaches may be used but the knowledge that would have been utilized to inform 
+a decision should be scientifically and technically justified. SAHPRA is committed to ensure that all registered medicines 
+will be of the required safety, efficacy, and quality. It is important that applicants adhere to the administrative 
+requirements to avoid delays in the processing and evaluation of applications. 
+ 
+ 
+These guidelines and application forms are also available on www.sahpra.org.za 
+Page 2 of 15 
+SAHPGL-PEM-BIO-09_v1 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+ 
+ 
+ 
+ 
+Contents 
+ 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 5 
+1. INTRODUCTION AND PRINCIPLES OF A PMF ................................................................................................... 7 
+1.1 Purpose ........................................................................................................................................................... 8 
+1.2 Scope .............................................................................................................................................................. 8 
+2. LEGAL PROVISION ............................................................................................................................................ 8 
+3. GENERAL INFORMATION ................................................................................................................................. 8 
+3.1 Plasma-derived products’ list ......................................................................................................................... 8 
+3.2 Overview of safety strategy ............................................................................................................................ 9 
+3.2.1 General logistics................................................................................................................................... 9 
+4. INFORMATION ON STARTING MATERIALS ...................................................................................................... 9 
+4.1 Plasma origin .................................................................................................................................................. 9 
+4.1.1 Information on centres or establishments in which blood/plasma collection is carried out, including 
+inspection and approval, and epidemiological data on blood transmissible infections. .............................. 9 
+4.1.2 Characteristics of donations .............................................................................................................. 10 
+4.1.3 Epidemiological data on blood transmissible infections ................................................................... 10 
+4.2 Information on centres or establishments in which testing of donations and plasma pools is carried out, 
+including inspection and approval status. .......................................................................................................... 10 
+4.3 Selection/exclusion criteria for blood/plasma donors ................................................................................. 10 
+4.4 System in place which enables the path taken by each donation to be traced from the blood/plasma 
+collection establishment through to finished products and vice versa. ............................................................ 11 
+4.4.1 Look-back procedure ........................................................................................................................ 11 
+5. Plasma quality and safety ............................................................................................................................... 12 
+5.1 Confirm that the plasma quality complies with the Ph Eur Monograph for Human Plasma for 
+Fractionation (Monograph 0853) or an equivalent standard such as the WHO Recommendations for the 
+Production, Control and Regulation of Human Plasma for Fractionation .......................................................... 12 
+5.2 Testing of blood/plasma donations and pools for infectious agents, including information on test methods 
+and, in the case of plasma pools, validation data on the tests used. ................................................................. 12 
+5.3 Validation of testing methods ...................................................................................................................... 12 
+5.4 Technical characteristics of bags for blood and plasma collection including information on anticoagulants 
+13 
+5.5 Conditions for processing, including freezing and storage of plasma for every collection and processing 
+centre.................................................................................................................................................................. 14 
+Page 3 of 15 
+SAHPGL-PEM-BIO-09_v1 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+ 
+ 
+5.2.5 Procedures for any inventory hold period.......................................................................................... 14 
+5.2.6 Characterisation of plasma pool ........................................................................................................ 14 
+5.3 Agreement in place between the plasma-derived medicinal product manufacturer and/or plasma 
+fractionator/processor and blood establishments which defines the conditions of their interaction and 
+responsibilities and the specifications of the plasma......................................................................................... 14 
+6. Epidemiological data ..................................................................................................................................... 14 
+6.1 Selection of donors ....................................................................................................................................... 15 
+6.2 Testing of donations ..................................................................................................................................... 15 
+6.3 Testing of plasma pools ................................................................................................................................ 15 
+6.4 Inventory hold and post-collection measures including look back procedure ............................................ 15 
+6.7 Residual risk estimation ................................................................................................................................ 16 
+7. REFERENCES .................................................................................................................................................... 16 
+8. VALIDITY ......................................................................................................................................................... 17 
+Page 4 of 15 
+SAHPGL-PEM-BIO-09_v1 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+ 
+ 
+Glossary 
+ 
+Abbreviation/ Term 
+Meaning 
+B19 
+Parvovirus B19 
+BWP 
+Biologics Working Party 
+CE 
+Conformité Européenne 
+CHMP 
+Committee for Medicinal Products for Human Use 
+DNA 
+Deoxyribonucleic acid 
+EC 
+European Committee 
+EMA 
+European Medicines Agency 
+EMEA 
+Europe, the Middle East and Africa 
+EU 
+European Union 
+FTT 
+First time tested 
+GMP 
+Good Manufacturing Practice 
+HAV 
+Hepatitis A virus 
+HBsAg 
+Hepatitis B surface antigen 
+HBV 
+Hepatitis B virus 
+HCV 
+Hepatitis C virus 
+NAT 
+Nucleic acid testing 
+(PDMPs) 
+Plasma-derived medicinal products  
+PMF 
+Plasma Master File 
+Page 5 of 15 
+SAHPGL-PEM-BIO-09_v1 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+ 
+ 
+Abbreviation/ Term 
+Meaning 
+RT 
+Repeat tested 
+SAHPRA 
+South African Health Product Regulatory Authority 
+TRS 
+Technical Report Series 
+UK 
+United Kingdom 
+USA 
+United States of America 
+WHO 
+World Health Organization 
+ 
+Definitions 
+ 
+Definition 
+Meaning 
+Blood establishment,  
+Any structure, facility or body that is responsible for any aspect of the 
+collection, testing, processing, storage, release and/or distribution of human 
+blood or blood components when intended for transfusion or further 
+manufacturing. 
+Blood collection site 
+Blood establishments where whole blood is collected from which 
+plasma (recovered plasma) is separated. This is generally a public 
+not-for profit organisation licensed and inspected by the Department 
+of Health  
+or,  
+Plasma collection centres for source plasma which may be public/not 
+for profit centres or private/commercial centres 
+CE-marked test 
+CE (Conformité Européenne) certification is an EU safety directive that 
+indicates that a product or device has passed certain tests and means that a 
+product can legally be sold anywhere within the EU and the European 
+Economic Area. 
+First time donor 
+Someone who has never donated either blood or plasma. 
+First time tested donor 
+A person tested for the first time for infectious disease markers (with or 
+without donation) and without evidence of prior testing in a given blood 
+system. 
+Incidence 
+Rate of newly acquired infection identified over a specified time period. 
+Look-back procedure 
+A multistep process a blood establishment must complete, as a response to a 
+donor who is newly reactive for an infectious disease test. 
+Page 6 of 15 
+SAHPGL-PEM-BIO-09_v1 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+ 
+ 
+Definition 
+Meaning 
+Marketing authorisation 
+Is issued from a therapy regulatory agency that allows a therapy to be placed 
+on the market, i.e. to be manufactured and sold outside research setting in a 
+defined population. 
+Plasma-derived 
+medicinal products 
+(PDMPs) 
+Pharmaceuticals made from human plasma, the liquid part of blood. 
+Mobile blood donation 
+centre 
+A vehicle or stand-alone caravan where blood is collected from donors. These 
+vehicles are equipped with everything needed to perform blood donations. 
+Prevalence 
+In epidemiology, it measures existing cases within a defined group, typically 
+expressed as a percentage, fraction, or rate per 10 000 or 100 000 population. 
+Page 7 of 15 
+SAHPGL-PEM-BIO-09_v1 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+ 
+ 
+ 
+Recovered plasma 
+Plasma collected through whole blood donation in which plasma is separated 
+from its cellular components. Recovered plasma may be used for 
+fractionation. 
+Regular donor 
+Someone who routinely donates blood or plasma (i.e. within the last two 
+years), in accordance with minimum time intervals, in the same donation 
+centre. 
+Repeat tested donor 
+Person whose blood/plasma has been tested previously for infectious disease 
+markers in a given blood system. 
+Source plasma 
+Plasma collected through apheresis, a process that takes only plasma from the 
+donor while the cellular components are returned to the donor. 
+(v)CJD: Variant 
+Creutzfeldt-Jakob disease 
+Is a rare disease caused by a prion, an infectious protein. It is linked to eating 
+beef from cows infected with "mad cow disease." It is always fatal, usually 
+within 14 months of the first symptoms. 
+Voluntary non- 
+remunerated blood 
+donor 
+Someone who donates blood without receiving payment. They donate blood 
+of their own free will and may donate plasma or other blood components. 
+Page 8 of 15 
+SAHPGL-PEM-BIO-09_v1 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+ 
+ 
+ 
+1. INTRODUCTION AND PRINCIPLES OF A PMF 
+ 
+The starting material of plasma-derived medicinal blood products should comply with Ph. Eur. and cGMP 
+(Directive 2001/83/EC EU), WHO Requirements for the collection, processing and quality control of blood, 
+blood components and plasma derivatives, Annex 2, TRS No 840, and WHO recommendations for the 
+production, control and regulation of human plasma for fractionation, Annex 4, TRS No 941). 
+Note: the applicant for the PMF may decide to comply with either the EU or WHO directives. 
+Both have similar standards and are acceptable. Suppliers in Europe do not in all cases comply 
+solely with EU requirements. 
+The SAHPRA Guidelines on the Requirements of a Plasma Master File (PMF) lay down the specific 
+requirements for the plasma, plasma pools and their constituents and excipients, which are part of the 
+starting material of the medicinal products for which the PMF is applicable. This information applies to the 
+selection of donors, and the collection and testing of the blood and blood components. In addition, every 
+blood establishment or plasma collection centre must be approved and inspected annually according to GMP 
+by a Competent Authority. Approval is required for processing, storage and transport of blood and blood 
+components, including plasma, intended for the manufacturing of medicinal products. 
+Cryoprecipitate or other intermediates are not part of the PMF certification. The manufacturing process of 
+the medicinal products, starting from the pooled plasma is not part of the PMF dossier. The PMF is a stand- 
+alone document which is separate from the dossier for marketing authorisation. The dossier for marketing 
+authorisation for each individual medicinal product should provide the information on the requirements of 
+the human plasma that is used as starting material. Applicants that use the PMF certification system must 
+identify and make reference to the PMF(s) in the dossier of each medicinal product. 
+The characteristics of plasma collected in countries or various regions of countries may differ. Such 
+differences may be related to the prevalence or incidence of transfusion-transmissible diseases in the 
+country or regions within the respective countries. The applicant should identify such differences and relate 
+these to the possible increased risk posed by using plasma from such countries or regions. 
+Annual update 
+ 
+The PMF information shall be updated and re-submitted for approval on an annual basis. This annual update 
+should include all changes and updated information since the last approval (initial or annual). The update 
+should include a list for which it was retrospectively found there were indications that a donation 
+contributing to a plasma pool was infected with HIV or hepatitis A, B or C or another transfusion- 
+transmissible agent. It should also include the number of positive donations that have been identified per  
+Page 9 of 15 
+SAHPGL-PEM-BIO-09_v1 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+ 
+ 
+ 
+viral marker by NAT testing at the fractionator level including minipool testing. If NAT testing of minipools is 
+performed by the PMF holder, the number of positive donations should be given. 
+ 
+The plasma master file is a stand-alone document and describes the following: 
+a) Plasma source and collection 
+b) Epidemiological data on blood transmissible infections 
+c) Characteristics of donations and selection/exclusion criteria 
+d) Testing of blood/plasma donations and pools for infectious agents 
+e) Plasma quality and safety 
+f) Conditions of storage and transport of plasma; and 
+g) A copy of the plasma specification and plasma pool batch analysis data. 
+ 
+1.1 Purpose 
+ 
+Applications for human plasma-derived medicinal products shall be evaluated based on the products’ quality, 
+safety and efficacy. This guideline outlines the requirements for the Plasma Master File (PMF) and the 
+specific documentation required to support registration of these products. 
+1.2 Scope 
+These guidelines include submissions of Plasma Master files, whereby the plasma is used as a component or 
+intermediates derived for producing plasma-derived medicinal products (PDMPs). The PMF guidelines will 
+apply exclusively to Category A medicines manufactured using plasma or intermediates of plasma. These 
+guidelines do not refer to Plasma Master Files that have valid certification of the PMF as per the European 
+Commission 
+ 
+2. LEGAL PROVISION 
+ 
+The legal provision for the registration of medicines, medical devices, including In Vitro Diagnostics (IVDs), is 
+included in the Medicines and Related Substances Act No. 101 of 1965 as amended and the gazetted 
+General Regulations. 
+Specific reference is made to Section 15(1) - (10) of the Act and Section 16(1) - (10) of General Regulations. 
+ 
+ 
+ 
+ 
+Page 10 of 
+SAHPGL-PEM-BIO-09_v1 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+ 
+ 
+ 
+ 
+3. GENERAL INFORMATION 
+ 
+3.1 Plasma-derived products’ list 
+ 
+The plasma - derived products list provides   an annex plasma-derived medicinal products which are relevant 
+to the PMF. In addition, it includes investigational products, cryoprecipitate and intermediates derived from 
+the plasma of the PMF. And it states whether each of the listed medicinal products has been granted 
+marketing authorisation or is in the process of being granted such authorisation by the relevant Competent 
+Regulatory Authority(ies). Lastly, it includes the SAHPRA product registration number where applicable. 
+ 
+3.2 Overview of safety strategy 
+ 
+A critical overview of the overall strategy to ensure the safety of the plasma included in the PMF should be 
+provided. This evaluation should include for each collection site the epidemiological data on blood 
+transmissible infections known for the donor population, viral load limits for plasma pools and normal size 
+of plasma pool., The system of donor selection criteria, , criteria for the use of recovered plasma (from 
+whole blood donation) and/or source plasma (from plasmapheresis), measures that reduce the risk of 
+(v)CJD, screening of donations, minipool strategy if relevant, the testing of the plasma pools, inventory hold, 
+and “look-back” procedures should be described.  
+The information on centres where blood or plasma is collected, including mobile clinics, must be 
+summarised. The applicant must also provide information on the test laboratories, the in vitro diagnostic 
+devices used, and the sensitivity of the assays performed. 
+The estimated residual risk of undetected viraemic donations that may enter the production pool should be 
+described and discussed (WHO Guidelines on estimation of residual risk of HIV, HBV or HCV infections via 
+cellular blood components and plasma, Annex 4, TRS No 1004).It should be demonstrated how the facility’s 
+safety strategy ensures that the measures taken throughout the collection, processing, testing, storage and 
+transport of the plasma robustly ensures that the plasma pool is safe. 
+3.2.1 General logistics 
+ 
+A flow-chart, describing the complete supply-chain for plasma from collection to the manufacturing process 
+of the plasma pool, must be provided. This should include all establishments concerned in the collection, 
+testing, processing, storage and transport of blood or plasma and their relationship. The transport chain 
+should include details of international transport and customs. 
+ 
+Page 11 of 
+SAHPGL-PEM-BIO-09_v1 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+ 
+ 
+ 
+ 
+4. INFORMATION ON STARTING MATERIALS 
+ 
+The quality and safety of plasma-derived medicinal products depend on the source of the plasma and the 
+manufacturing process of the medicinal product. The collection, testing, processing, storage and transport of 
+human plasma are thus major factors in the quality assurance of the manufacturing process of plasma-
+derived medicinal products. Blood establishments and centres should fulfil the requirements, be inspected 
+and approved according to the relevant directives of the Competent Regulatory Authority. 
+4.1 Plasma origin 
+4.1.1 Information on centres or establishments in which blood/plasma collection is carried out, including 
+inspection and approval, and epidemiological data on blood transmissible infections. Provide, in tabular 
+format, a complete list of names and addresses of blood establishments and centres from which plasma is 
+collected. If mobile or temporary equipped centres are used, the relationship with their respective blood 
+establishments should be provided. There should be a statement that these mobile and temporary centres 
+operate under the same quality system as the blood establishment that they relate to. 
+It provides information about internal audits (frequency, date of last audit and outcome of last inspection); 
+and audits by regulatory authority (frequency, date of last audit and final outcome of last inspection). 
+The suppliers of plasma, for which special criteria are applicable (such as anti-D), should be identified. 
+ 
+The collection and processing operations of the blood establishments and centres should be described and 
+summarised. If establishments or centres are no longer used or are temporarily closed, they should be 
+listed in a stand-alone table indicating the date when use of the centre or establishment has ceased and the 
+reason. 
+If there is a separate look back department, the address, duties, and approval status by a recognised 
+Competent Authority should be given. 
+4.1.2 Characteristics of donations 
+ 
+Specify whether donors are non-remunerated or remunerated. Justify why donors are regarded as voluntary 
+and non-remunerated. If applicable, the nature of any compensation for donation should be given. 
+4.1.3 Epidemiological data on blood transmissible infections 
+ 
+Should be submitted in accordance with the EMA Guideline on Epidemiological Data on Blood Transmissible 
+Infections (EMA/CHMP/BWP/548524/2008) 
+ 
+Page 12 of 
+SAHPGL-PEM-BIO-09_v1 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+ 
+ 
+ 
+4.2 Information on centres or establishments in which testing of donations and plasma 
+      pools are carried out, including inspection and approval status. 
+ 
+Specify the test laboratory used by the establishment or centre. If test laboratories are no longer used, or 
+are temporarily not used, they should be listed in a stand-alone table indicating the date when use of the 
+laboratory ceased and the reason. 
+4.3 Selection or exclusion criteria for blood or plasma donors 
+The criteria confirm that each establishment or centre complies with the accepted selection or exclusion 
+criteria for blood or plasma donors as per CHMP guidance documents, WHO, and Council of Europe 
+recommendations. It is recognised that there may be some challenges with the EU donor selection criteria, 
+especially concerning tropical diseases that lead to temporal deferral in Europe. 
+Donor selection criteria must be accompanied by a questionnaire that is specific for the countries included. 
+Specify any requirements versus emerging infectious agents in a specific country of collection and confirm 
+that selection/exclusion criteria for blood/plasma donors complies with such requirements. This should 
+include the data of the prevalence/incidence of infectious agents that are present in the country but are not 
+screened for by the testing protocol. 
+If the epidemiological data of the proposed selection or exclusion criteria suggest that the plasma may pose a 
+higher risk of transmitting infectious disease that than of plasma collected in developed countries such as EU, 
+USA, UK, Australia and Canada, this should be discussed and the selection criteria for donors justified. The 
+upper limits for acceptance of donors based on the prevalence/incidence of transmissible diseases should be 
+set and justified. This should, where applicable, be discussed for the country, regions within the country and 
+for individual collection centres. 
+Indicate whether the plasma from the proposed PMF collection site will be pooled with plasma procured 
+from other establishments or whether it will be kept separately. Indicate whether the plasma-derived 
+medicinal products will be distributed to all patients served by the manufacturer or only to patients in the 
+country of origin of the plasma of the PMF. 
+The exclusion criteria for (v)Creutzfeldt-Jakob disease should be stated and comply with EMEA and 
+CHMP guidance. 
+ 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+Page 13 of 15 
+SAHPGL-PEM-BIO-09_v1 
+ 
+ 
+ 
+4.4 System in place which enables the path taken by each donation to be traced from  
+      the blood or plasma collection establishment through to finished products and  
+      vice versa. 
+ It summarises the implemented system that enables the path of each donation to be traced from the 
+Blood or plasma collection facility through to the finished product. This must include the testing facility, 
+identification procedures, labelling and record keeping. 
+Give information on steps that would be taken if it was found retrospectively that donation(s) should have 
+been excluded from processing (“look-back procedure”) and justify the system in accordance with accepted 
+guidelines and procedures. 
+4.4.1 Look-back procedure 
+ 
+If a plasma unit fails release due to any of the reasons listed below, a look-back should be instituted. The 
+process consists of tracing back and the additional testing of previous donations for at least six months prior 
+to the last negative donation. The following procedures should be documented in a standard operating 
+procedure: 
+ 
+a) it is found that the donor did not meet the relevant donor health criteria 
+b) a subsequent donation from a donor previously found negative for viral markers is found 
+positive for any of the viral markers 
+c) it is discovered that testing for viral markers has not been carried out according to agreed 
+procedures 
+d) the donor has developed an infectious disease caused by an agent potentially transmissible 
+by plasma-derived products (HBV, HCV, HAV and other non-A, non-B, non-C hepatitis 
+viruses, HIV 1 and 2 and other agents in the light of current knowledge) 
+e) the donor develops Creutzfeldt-Jakob disease 
+f) the recipient of blood or a blood component develops post- transfusion/infusion infection 
+which implicates or can be traced back to the donor 
+ 
+5. PLASMA QUALITY AND SAFETY 
+5.1 Confirm that the plasma quality complies with the Ph Eur Monograph for Human Plasma for 
+Fractionation (Monograph 0853) or an equivalent standard such as the WHO Recommendations for the 
+Production, Control and Regulation of Human Plasma for Fractionation. 
+ 
+ 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+Page 14 of 15 
+SAHPGL-PEM-BIO-09_v1 
+ 
+ 
+ 
+ 
+5.2 Testing of blood/plasma donations and pools for infectious agents, including 
+      information on test methods and, in the case of plasma pools, validation data on the 
+      tests used. 
+ 
+Provide information on 
+• 
+Screening tests for markers of infection as per Ph Eur or WHO requirements 
+• 
+Any other screening tests carried out. 
+• 
+List of tests performed on individual donations, including NAT testing and CE mark if applicable; 
+• 
+Validation of these screening procedure methods; and 
+• 
+ Provide details of procedures for any inventory hold and quarantine procedure for plasma. The inventory hold 
+requirement should be based on scientific evidence such as test kit sensitivity and should align with the EMA 
+requirements of an overall safety strategy. 
+• 
+When minipools are tested details must be provided and the use of the process justified. 
+• 
+Provide criteria for acceptance or rejection of donation/pool and whether there is a re-testing policy 
+. 
+5.3 Validation of testing methods 
+Testing of donations 
+• 
+Serology markers 
+Tests must be carried out in accordance with manufacturer’s directions. Tests should be state-of-the- 
+art in terms of seroconversion sensitivity. 
+• 
+For CE-marked test kits submission of validation data is not required. For non-CE-marked test kits, 
+the applicant should demonstrate that they comply with equivalent standards 
+ 
+• 
+NAT 
+Describe the analytical procedures of mini pool testing as part of the screening of individual donation. 
+Summarise the validation of the test system and provide reports indicating specificity and the detection limits. 
+ 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+Page 15 of 15 
+SAHPGL-PEM-BIO-09_v1 
+ 
+ 
+ 
+Viral marker testing of the plasma pools provides a description of each test method and the 
+respective validation report. The sensitivity of the test for each marker as a function of pool size 
+must be included. 
+• 
+NAT testing of the plasma pools 
+ 
+Should comply with the requirements of a recognised authority: EMA Guideline on Validation of 
+Immunoassay for the Detection of Antibody to human Immunodeficiency Virus (Anti-HIV) in Plasma 
+Pools, 
+ 
+If mini pool testing by NAT is part of the screening of individual donations, a brief description of the 
+analytical procedures for NAT methods should be provided if non-CE-marked tests are used (in-house 
+methods or commercial kits). Validation is not required for mini pools testing by NAT if the test is CE 
+marked for this purpose. However, information on the detection limit, as related to the single 
+donation, should be provided. 
+For every laboratory that carries out plasma pool testing for viral markers, provide a description of 
+each test method and the respective validation report. 
+Information on the sensitivity of the test for each marker as a function of pool size should be included. 
+All NAT methods used for plasma pool testing should comply with the requirements in Ph Eur General 
+Methods 2.6.21 Nucleic acid amplification techniques. For every laboratory that carries out plasma 
+pool testing by NAT, provide a description of each NAT test method and the respective validation 
+report. As recommended in this guideline, the ability of the analytical procedure to detect all HCV 
+genotypes should be demonstrated. 
+ 
+ 
+• 
+Proficiency studies 
+ 
+Recommended. Provide information and reports. 
+ 
+5.4 Technical characteristics of bags for blood and plasma collection including information 
+ on anticoagulants 
+Provide information on quality and identity of plastic material, leachables, sterilization procedures, 
+composition, results of a real time storage stability study of plasma in the container. Due to receiving blood 
+products from other countries that are not aligned with EMA, CE-marked bags may be accepted and be 
+tested accordingly. 
+ 
+ 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+Page 16 of 15 
+SAHPGL-PEM-BIO-09_v1 
+ 
+ 
+ 
+ Document verification that the source materials do not contain any additives other than citrate or acid 
+citrate dextrose anticoagulant solution, unless it has been shown that the processing method yields a final 
+product free of the additive to such an extent that the continued safety, purity, potency, and effectiveness of 
+the final product is not adversely affected. 
+ 
+5.5 Conditions for processing, including freezing and storage of plasma for every  
+      collection and processing center. 
+ 
+They describe the conditions of storage of plasma for every establishment responsible for storage. 
+Confirm compliance with Ph Eur, WHO or other internationally accepted requirements. 
+Also, they describe the conditions of storage including transport flow from collection centers to interim and 
+final storage sites.  
+Lastly, they list the organisations involved in transport and summarise the system in place that ensures that 
+transport is performed under appropriate conditions and complies with GMP. Indicate date and outcome of 
+last inspection by a Competent Regulatory Authority. 
+5.5.1 Procedures for any inventory hold period 
+ 
+Provide details and justification of any inventory hold and quarantine procedure for plasma. 
+ 
+5.5.2  Characterisation of plasma pool 
+ 
+Provide addresses of sites where plasma is pooled. 
+Provide information on: 
+5.5.2.1 Plasma pool preparation. Describe procedures such as the thawing process and visual 
+inspection of containers before pooling, Indicate the size of the plasma pool in number of 
+donations and in litres. 
+5.5.2.2 Sampling of plasma pool. Define the pool from which the samples for viral marker testing 
+are obtained. Describe the sampling procedure. 
+5.6 Agreement in place between the plasma-derived medicinal product manufacturer 
+and/or plasma fractionator/processor and blood establishments which defines the 
+conditions of their interaction and responsibilities and the specifications of the 
+plasma. 
+ 
+The agreement confirms that a contract exists between the blood establishments and the 
+manufacturer and/or the PMF holder to ensure the interaction between them, and the fulfilment  
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+Page 17 of 15 
+SAHPGL-PEM-BIO-09_v1 
+ 
+ 
+ 
+of the relevant Good Manufacturing Practice (GMP) or Good Practice requirements. 
+In the event of a serious failure of a center being discovered, the manufacturer and SAHPRA 
+will be immediately informed. 
+ 
+6. EPIDEMIOLOGICAL DATA 
+ 
+The data should be reported and evaluated as per the EMA Guideline on the scientific data requirements for 
+a plasma master file. 
+The systems to monitor changes of epidemiological data must be described. The information should be 
+separate for repeat tested (RT) and first-time tested (FTT) donors of source and recovered plasma and given 
+for each blood establishment/blood or plasma collection center and country as appropriate. 
+There should be an overview of how the epidemiological data of the individual collection centers are 
+compared. The in-house alert limits to identify outliers should be given for the FTT and RT donors for source 
+and recovered plasma and for donors from other countries. The in-house alert limits should be justified. The 
+corrective actions taken if a collection center exceeds alert limits must be given and justified. 
+If the epidemiological data of the PMF suggest that the plasma may pose a higher risk of transmitting 
+infectious disease that than plasma collected in developed countries such as the EU, USA, UK, Australia and 
+Canada, this should be discussed and the use of the plasma of the PMF justified. Plasma with unjustifiable 
+higher risk of transmitting infectious diseases must not be used for the manufacture of PDMPs. 
+ 
+6.1 Selection of donors 
+ 
+The donor selection and exclusion criteria should be provided and comply with international accepted 
+standards. Donors are voluntary and non-remunerated. (Directive 2002/98/EC of the European Parliament 
+and of the Council of 27 January 2003: Setting standards of quality and safety for the collection, testing, 
+processing, storage and distribution of human blood and blood components); WHO Blood donor selection: 
+guidelines on assessing donor suitability for blood donation. 
+6.2  Testing of donations 
+ 
+The testing of donations should comply with international directives (Directive 2002/98/EC of the European 
+Parliament and of the Council of 27 January 2003: Setting standards of quality and safety for the collection, 
+testing, processing, storage and distribution of human blood and blood components; WHO recommendations 
+for the production, control and regulation of human plasma for fractionation, Annex 4, TRS No 941). 
+  
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+Page 18 of 15 
+SAHPGL-PEM-BIO-09_v1 
+ 
+ 
+ 
+It is noted that due to the upcoming European Union's Regulation on Standards of Quality and Safety for 
+Substances of Human Origin (SoHO) Regulation, the Blood directive and corresponding technical directives 
+will cease to exist after July 2027 and will be replaced by guidance of the EDQM (European Directorate for 
+the Quality of Medicines & HealthCare, a directorate of the Council of Europe). 
+6.3 Testing of plasma pools and donations. 
+ 
+NAT Testing of individual donations or testing of minipools should be described and pool sizes justified. The 
+tests should be for Hepatitis B DNA, Hepatitis C RNA, HIV-1 RNA and HIV-2 RNA. 
+6.4 Inventory hold and post-collection measures including look back procedure 
+ 
+Demonstrate and discuss traceability of a donation from the site where the blood /plasma is collected 
+through to the finished product and vice versa. Traceability systems should be in accord with EU and WHO 
+directives. The data and information on traceability for collection centres that have been closed or do not 
+deliver plasma anymore should be kept for 30 years. 
+The PMF applicant must demonstrate that there is an inventory hold period of 45 days from the date of 
+donation to the first step of the manufacturing process. 
+6.5 Residual risk estimation 
+ 
+The residual risk posed by donations that contain viruses not detected by the routine screening tests must be 
+calculated in accord with internationally accepted methods such as WHO Guidelines on estimation of 
+residual risk of HIV, HBV or HCV infections via cellular blood components and plasma, Annex 4, TRS No 1004. 
+ 
+7. REFERENCES 
+                    Only important relevant documents are referenced: 
+1. 
+EMEA Guideline 
+on 
+requirements 
+for 
+Plasma Master file 
+Certification 
+(https://health.ec.europa.eu/document/download/b19375af-8a96-49b6-9faf- 
+e773220fd1a9_en?filename=466303en_08_2004_en.pdf) 
+2. 
+CHMP 
+Guideline 
+on 
+the 
+Scientific 
+Data 
+Requirements 
+of 
+a 
+Plasma 
+Master 
+File 
+(https://www.ema.europa.eu/en/scientific-data-requirements-plasma-master-file-scientific-guideline)  
+3. WHO Requirements for the collection, processing and quality control of blood, blood components and plasma 
+derivatives, Annex 2, TRS No 840 (https://www.who.int/publications/m/item/annex2-who-trs- 840) 
+4. PIC/S Good Practice Guidelines for blood establishments and hospital blood banks. (https://www.gmp- 
+compliance.org/guidelines/gmp-guideline/pic-s-guide-to-inspections-of-source-plasma-establishment- 
+and-plasma-warehouses-pi-008-4) 
+5. WHO Recommendations for the Production, Control and Regulation of Human Plasma for Fractionation 
+(https://cdn.who.int/media/docs/default-source/biologicals/blood-products/ecbs-2005-annex-4- human-
+plasma-fractionation.pdf?sfvrsn=50177626_2) 
+ 
+PLASMA MASTER FILE GUIDELINE 
+23 MARCH  2026 
+Page 19 of 15 
+SAHPGL-PEM-BIO-09_v1 
+ 
+ 
+6. EU Guidance on good manufacturing practice and good distribution practice: Questions and Answers 
+(https://www.ema.europa.eu/en/human-regulatory-overview/research-development/compliance- 
+research-development/good-manufacturing-practice/guidance-good-manufacturing-practice-good- 
+distribution-practice-questions-answers ). 
+7. Directive 2002/98/EC of the European Parliament and of the Council of 27 January 2003: Setting standards 
+of quality and safety for the collection, testing, processing, storage and distribution of human blood and 
+blood components (https://www.ema.europa.eu/en/documents/regulatory-procedural- 
+guideline/directive-200298ec-european-parliament-and-council-27-january-2003-setting-standards- 
+quality-and-safety-collection-testing-processing-storage-and-distribution-human-blood-and-blood- 
+com_en.pdf) 
+8. WHO   Blood   donor   selection:   guidelines   on   assessing   donor   suitability   for   blood        donation 
+(https://www.who.int/publications/i/item/9789241548519) 
+9. EMEA/CHMP/BWP/125/04 Guideline on Epidemiological Data on Blood Transmissible Infections 
+(https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-revision-guideline- 
+epidemiological-data-blood-transmissible-infections-revision-2_en.pdf) 
+10. WHO recommendations for the production, control and regulation of human plasma for fractionation, Annex 
+4, TRS No 941 (https://www.who.int/publications/m/item/annex4-ecbs-human-plasma- fractionation ) 
+11. WHO Guidelines on estimation of residual risk of HIV, HBV or HCV infections via cellular blood components 
+and plasma (https://www.who.int/publications/m/item/annex-4-trs-no-1004) 
+12. Guideline 
+on 
+Epidemiological 
+Data 
+on 
+Blood 
+Transmissible 
+Infections, 
+(EMEA/CHMP/BWP/548524/2008) 
+13. Guideline on Assessing the Risk for Virus Transmission – Chapter 6 of the Note for Guidance on Plasma- 
+derived Medicinal Products (CHMP/BWP/5180/03). 
+14. WHO Recommendations for the Production, Control and Regulation of Human Plasma for Fractionation 
+(https://cdn.who.int/media/docs/default-source/biologicals/blood-products/ecbs-2005-annex-4- human-
+plasma-fractionation.pdf?sfvrsn=50177626_2) 
+15. Guideline on Validation of Immunoassay for the Detection of Antibody to human Immunodeficiency Virus 
+(Anti-HIV) in Plasma Pools, (https://www.ema.europa.eu/en/validation-immunoassay-detection- antibody-
+human-immunodeficiency-virus-plasma-pools-scientific-guideline) 
+ 
+ 
+8. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision. It will be reviewed on this 
+timeframe or as and when require. 
+

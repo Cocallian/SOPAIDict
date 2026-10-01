@@ -1,0 +1,256 @@
+SAHPGL-RDN-XR-03_v1 
+Page 1 of 7
+ 
+ 
+ 
+19 August 2022 
+GUIDELINE FOR DENTAL RADIOGRAPHY 
+This guideline document determines basic requirements and recommendations for radiation protection and 
+safety in the dental radiography applications. 
+ 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+March 2017 
+1 
+− 
+Content structured on the new SAHPRA Guideline Template 
+− 
+A unique document number SAHPGL-RDN-XR-03 allocated to this 
+Guideline 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-03_v1 
+Page 2 of 7
+Guideline for Dental Radiography 
+19 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+REQUIREMENTS AND RECOMMENDATIONS ............................................................................................. 4 
+3.1 Radiation Workers ..................................................................................................................................... 4 
+3.2 Dental X-Ray Units ..................................................................................................................................... 5 
+3.3 Image Quality............................................................................................................................................. 6 
+3.4 Patient Protection...................................................................................................................................... 6 
+3.5 Patient Records.......................................................................................................................................... 6 
+4. 
+REFERENCES ............................................................................................................................................... 7 
+5. 
+VALIDITY .................................................................................................................................................... 7 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-03_v1 
+Page 3 of 7
+Guideline for Dental Radiography 
+19 August 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ALARA 
+As Low As Reasonably Achievable 
+CBCT 
+Cone beam computed tomography 
+IB 
+Inspection Body 
+SABS 
+South African Bureau of Standards 
+SAHPRA 
+South African Health products Regulatory Authority 
+TLD 
+Thermo luminiscent dosimeter 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-03_v1 
+Page 4 of 7
+Guideline for Dental Radiography 
+19 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+X-Ray imaging is used widely in dentistry to diagnose, plan and follow up procedures. The imaging techniques 
+used in dentistry comprise of intraoral radiography (i.e. bitewing, periapical and occlusal), panoramic 
+radiography, cephalometric radiography and CBCT, with CBCT being the latest X-Ray imaging modality 
+consistent with relatively high patient doses. 
+Even though the individual doses from dental procedures are low, because of the increasing frequency of 
+dental imaging procedures, particularly of CBCT, the accumulative dose increases thereby necessitating 
+radiation protection of patients every time an X-Ray is performed. Dentistry is an independent health care 
+specialty whereby dentists prescribe the X-Ray examinations, and consequently bear the responsibility to 
+justify medical exposure consistent with Alara principle. 
+1.1 
+Purpose 
+This guideline document is intended to ensure that license holders and users are updated with the 
+requirements of the Act and Regulations. 
+1.2 
+Scope 
+This document includes parameters for the justification of medical exposure and the suitability of dental 
+radiography procedures consistent with accurate diagnosis. It further provides guidelines for the 
+optimization of radiation protection and safety for patients, public, and dental staff. It also provides 
+guidelines for dental radiography equipment, including technical considerations, quality assurance, 
+dosimetry and optimum operating standards.  
+2. 
+LEGAL PROVISION 
+The guideline is implemented in promulgating the Hazardous Substances Act 15, 1973 (Act15 of 1973) the 
+related Regulations R.1332 
+3. 
+REQUIREMENTS AND RECOMMENDATIONS  
+3.1 
+Radiation Workers 
+3.1.1 Dental radiation examinations may only be performed by registered: 
+• dentists, 
+• radiographers, 
+• dental therapists, and 
+• oral hygienists 
+SAHPGL-RDN-XR-03_v1 
+Page 5 of 7
+Guideline for Dental Radiography 
+19 August 2022 
+ 
+ 
+3.1.2 Operators of dental units are conditionally exempted from personal monitoring (wearing of TLD's - 
+Thermo Luminescent Dosimeters). 
+3.1.3 Monitoring of workers 
+Under the following circumstances, operators are required to wear a personal dosimeter (TLD) when: 
+i. 
+the position of the worker during exposures is less than 2 metres 
+ii. 
+the weekly workload exceeds: 
+• 100 intra-oral or 
+• 50 pan/ceph exposures or 
+• pro-rata combination of each type of examination (table 1) 
+ 
+Table 1 Examination 
+Examination 
+Exposures 
+Intra-oral and 
+Pan/ceph 
+100 
+80 
+60 
+40 
+20 
+0 
+0 
+10 
+20 
+30 
+40 
+50 
+3.1.4 The licence holder is responsible to determine whether TLD's must be issued to the persons 
+performing dental examinations. 
+3.1.5 The licence holder must keep a register of the monthly reports furnished by the SABS for such 
+radiation workers. This register must be kept for 10 years from the last date of entry. 
+3.2 
+Dental X-Ray Units 
+3.2.1 An appropriate exposure technique chart (manual and automatic exposures) must be displayed near 
+the control panel of the X-Ray unit(s). 
+3.2.2 The exposure chart(s) must be established after optimizing the film- / image processing procedure 
+so as to keep the dose to the patient to the lowest practical value, consistent with the clinical 
+objectives. 
+3.2.3 Units below 50kv will not be licensed. If an X-Ray unit is found to be operating below 50kV, the unit 
+will be sealed and not relicensed for use. 
+3.2.4 Point type dental cones are no longer allowed and units using point type cones will not be relicensed. 
+Cones must conform to the following: 
+3.2.5 Circular: 60mm diameter at the open end of the collimator and it must be of the open-ended type of 
+OR 
+SAHPGL-RDN-XR-03_v1 
+Page 6 of 7
+Guideline for Dental Radiography 
+19 August 2022 
+ 
+ 
+3.2.6 Rectangular: 40x50mm at the open end of the collimator. Focus to skin distance of at least 200mm. 
+3.2.7 Second hand dental units that have not previously been licensed by the Directorate: Radiation 
+Control, will not be licensed for use. 
+The licence holder must ensure that all the applicable requirements are implemented as stipulated in 
+REQUIREMENTS FOR LICENCE HOLDERS WITH RESPECT TO QUALITY CONTROL TESTS FOR DENTAL 
+DIAGNOSTIC X-RAY IMAGING SYSTEMS (Latest edition)), available at  
+https://www.sahpra.org.za/radiation-control/ 
+3.2.8 The license holder shall ensure that only an Inspection Body (IB) approved by SAHPRA is used to 
+perform all the acceptance tests as well as the routine tests.  
+** list of approved Inspection Bodies is available at www.sahpra.org.za  
+3.3 
+Image Quality 
+For the EVALUATION of the TOTAL IMAGE CHAIN the following MUST BE AVAILABLE: 
+• Film & digital- Intra- oral -Uni DENT PHANTOM or similar. 
+• Film - Intra-oral, Panoramic & Cephalometric radiography - TOR DEN conventional phantom or 
+similar 
+• Digital - Intra-oral, Panoramic &Cephalometric radiography - TOR DEN conventional phantom or 
+similar 
+3.4 
+Patient Protection 
+i. 
+The compulsory use of protection devices such as lead rubber aprons and thyroid shields for 
+protection of patients during dental examinations is no longer a requirement. 
+ii. 
+Adequate precaution should, however, be taken to reduce radiation when examinations are 
+performed on women of childbearing capacity and children 
+3.5 
+Patient Records 
+A record / register must be kept of all patients undergoing X-Ray examinations. The record / register must 
+be preserved for 5 years containing the following information: 
+3.5.1 surname, name, date of birth/age and sex 
+3.5.2 date of examination 
+3.5.3 brief clinical indication of the examination 
+SAHPGL-RDN-XR-03_v1 
+Page 7 of 7
+Guideline for Dental Radiography 
+19 August 2022 
+ 
+ 
+3.5.4 type of examination 
+3.5.5 number of exposures (repeat exposures included) 
+3.5.6 fluoroscopy time (if applicable) 
+3.5.7 brief statement of the diagnostic information obtained from the examinational text 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+Radiation Protection in Dentistry Code of Practice and Safety Guide for Radiation Protection in 
+Dentistry (2005), RPS no 10, http://www.arpansa.gov.au/publications/codes/rps.cfm 
+4.2 
+REQUIREMENTS FOR LICENCE HOLDERS WITH RESPECT TO QUALITY CONTROL TESTS FOR DENTAL 
+DIAGNOSTIC X-RAY IMAGING SYSTEMS, https://www.sahpra.org.za/radiation-control-guidelines-
+and-codes-of-practice/  
+4.3 
+Test procedures for film processing and intensifying screens, https://www.sahpra.org.za/radiation-
+control-guidelines-and-codes-of-practice/  
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Dental Radiography, revised March 2017. It will be reviewed on this timeframe or as and when required. 
+

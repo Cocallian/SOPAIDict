@@ -1,0 +1,795 @@
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 1 of 16
+ 
+ 
+ 
+01 August 2022 
+ 
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+This guideline assists sponsors of clinical investigations in developing monitoring strategies and plans for investigational studies of medical 
+products, including human medicine and biological products, medical devices, and combinations thereof.  The overarching goal is to 
+enhance human participant protection and the quality of clinical trial data by focusing sponsor oversight on the most important aspects of 
+study conduct and reporting.  While this guideline makes it clear that sponsors, and clinical research organisations (CROs) acting on their 
+behalf, can use a variety of approaches to fulfil their responsibilities for monitoring Principal investigator (PI) conduct and performance in 
+investigational studies.  It must be highlighted that the responsibility for adequate oversight of the conduct of a clinical trial, including the 
+justification for and selection of monitoring methods, remains that of the sponsor solely.  SAHPRA reserves the right to request any 
+additional information and may make amendments in keeping with the knowledge which is current at the time of consideration. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+New title and number 2.43 published for implementation 
+November 2016 
+2 
+Published for implementation 
+October 2019 
+3 
+Changes in section 2.1 
+March 2021 
+4 
+Administrative changes  
+Change of document number from 2.43 to SAHPGL-CEM-CT-04 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 2 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+2. 
+BACKGROUND ........................................................................................................................................... 4 
+2.1 
+Definitions ............................................................................................................................................ 5 
+2.2 
+Current Monitoring Practices .............................................................................................................. 5 
+2.3 
+Approach to Risk-Based Monitoring ................................................................................................... 6 
+3. 
+OVERVIEW OF MONITORING METHODS .................................................................................................. 6 
+3.1 
+On-site and Centralised Monitoring .................................................................................................... 6 
+3.1.1 
+On-site Monitoring ....................................................................................................................... 6 
+3.1.2 
+Centralised Monitoring ................................................................................................................. 7 
+3.2 
+Examples of monitoring practices and activities ................................................................................ 7 
+3.2.1 
+Communication with study site staff ............................................................................................ 8 
+3.2.2 
+Review of site’s processes, procedures, and records .................................................................... 8 
+3.2.3 
+Source data verification and corroboration.................................................................................. 9 
+4. 
+RISK-BASED MONITORING ........................................................................................................................ 9 
+4.1 
+Identify critical data and processes to be monitored ......................................................................... 9 
+4.2 
+Risk assessment ................................................................................................................................. 10 
+4.3 
+Factors to consider when developing a monitoring plan ................................................................. 11 
+4.4 
+Monitoring plan ................................................................................................................................. 12 
+4.4.1 
+Description of Monitoring Approaches ....................................................................................... 12 
+4.4.2 
+Communication of Monitoring Results ....................................................................................... 13 
+4.4.3 
+Management of Noncompliance ................................................................................................ 13 
+4.4.4 
+Ensuring Quality Monitoring ...................................................................................................... 13 
+4.4.5 
+Monitoring Plan Amendments .................................................................................................... 13 
+4.5 
+Documenting monitoring activities ................................................................................................... 14 
+5. 
+ADDITIONAL STRATEGIES TO ENSURE STUDY QUALITY ........................................................................ 14 
+5.1 
+Protocol and Case Report Form design ............................................................................................. 14 
+5.2 
+Principal Investigator training and communication ......................................................................... 14 
+5.3 
+Delegation of monitoring responsibilities to a CRO ......................................................................... 15 
+5.4 
+Principal Investigator and site selection and initiation .................................................................... 15 
+6. 
+REFERENCES ............................................................................................................................................ 15 
+7. 
+VALIDITY .................................................................................................................................................. 16 
+ 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 3 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+CRFs 
+Case Report Forms 
+CROs 
+Clinical Research Organisations 
+EDC 
+Electronic Data Capture  
+IRB 
+Institutional Review Board 
+ICH 
+International Conference on Harmonisation  
+ISO 
+International Standards Organization 
+PI 
+Principal Investigator 
+RBM 
+Risk-based monitoring 
+SDV 
+Source Data Verification 
+SAHPRA 
+South African Health Products Regulatory Authority 
+ 
+ 
+ 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 4 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+1. INTRODUCTION 
+This guideline assists sponsors of clinical investigations in developing monitoring strategies and plans for 
+investigational studies of medical products, including human medicine and biological products, medical devices, and 
+combinations thereof.  The overarching goal is to enhance human participant protection and the quality of clinical 
+trial data by focusing sponsor oversight on the most important aspects of study conduct and reporting. 
+While this guideline makes it clear that sponsors, and clinical research organisations (CROs) acting on their behalf, 
+can use a variety of approaches to fulfil their responsibilities for monitoring Principal Investigator (PI) conduct and 
+performance in investigational studies.  It must be highlighted that the responsibility for adequate oversight of the 
+conduct of a clinical trial, including the justification for and selection of monitoring methods, remains that of the 
+sponsor solely.  The consequences of inadequate monitoring are the sole responsibility of the sponsor or its 
+representative. 
+2. BACKGROUND 
+Effective monitoring of clinical trials by sponsors is critical to the protection of human participants and the conduct 
+of high-quality studies.  Sponsors of clinical trials involving human medicines, biological products, medical devices, 
+and combinations thereof are required to provide oversight to ensure adequate protection of the rights, welfare, and 
+safety of human participants and the quality of the clinical trial data submitted to the South African Health Products 
+Regulatory Authority (SAHPRA).  The SAHPRA requires sponsors to monitor the conduct and progress of their clinical 
+trials.  
+During the past decade, the number and complexity of clinical trials have grown dramatically.  These changes create 
+new challenges to clinical trial oversight, particularly increased variability in clinical investigator experience, site 
+infrastructure, treatment choices, and standards of health care, as well as challenges related to geographic 
+dispersion.  At the same time, increasing use of electronic systems and records, as well as improvements in statistical 
+assessments and pharmacovigilance, present opportunities for alternative monitoring approaches that can improve 
+the quality and efficiency of sponsor oversight of clinical trials. 
+SAHPRA encourages sponsors to develop monitoring plans that manage important risks to human participants and 
+data quality and address the challenges of oversight, in part by taking advantage of the innovations in modern clinical 
+trials.  
+This guideline focuses principally on monitoring, which is one aspect of the processes and procedures needed to 
+ensure clinical trial quality and participant safety.  Monitoring is a quality control tool for determining whether study 
+activities are being carried out as required so that deficiencies can be identified and corrected.  Monitoring or 
+oversight alone cannot ensure quality.  Rather, quality is an overarching objective that must be built into the clinical 
+trial enterprise.  
+The term monitoring is used in different ways in the clinical trial context.  It can refer to the assessment of Principal 
+Investigator (PI) conduct, oversight, and reporting of findings of a clinical trial; to the ongoing evaluation of safety 
+data and the emerging benefit-risk profile of an investigational product (IP); and to the monitoring of internal sponsor 
+and CRO processes and systems integral to proposing, designing, performing, recording, supervising, reviewing, or 
+reporting clinical investigations. 
+For purposes of this guideline, monitoring refers to the methods used by sponsors of investigational studies, or CRO’s 
+delegated responsibilities for the conduct of studies, to oversee the conduct of, and reporting of data from clinical 
+investigations, including appropriate PI supervision of study site staff and third party contractors.  Monitoring 
+activities include communication with the PI and study site staff; review of the study site’s processes, procedures, 
+and records; and verification of the accuracy of data submitted to the sponsor. 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 5 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+2.1 
+Definitions 
+Risk-based monitoring (RBM) is a monitoring technique that involves the use of validated tools in the evaluation 
+and assessment of risk in the oversight of the quality of data and using the risk assessment to increase or decrease 
+on site monitoring and/or Source Data Verification (SDV).   
+Remote monitoring is the technique of monitoring sites offsite by involving the site in verification of source data 
+for example asking the site to confirm the time of consenting.  It implies the reliance on the site itself to augment 
+or replace onsite monitoring.  This may involve the use of digital platforms to monitor the site.   
+Centralised or central monitoring is the use of data generated on site which is used by the sponsor offsite to 
+evaluate and assess risk and deviations from the protocol or the median and is not dependant on the site verifying 
+the data.  Centralised monitoring can be used to augment RBM or on-site monitoring. 
+On-site monitoring is an in-person evaluation carried out by sponsor personnel or representatives at the sites at 
+which the clinical investigation is being conducted.  On site monitoring is the tradition technique where a monitor 
+reviews source on site to ensure compliance and data quality.  On site monitoring may involve the use of 
+centralised tools and remote access to facilitate efficiencies and streamline on site visits.  
+Remote access to data and even source can be facilitated by the advancement in electronic systems and the 
+increasing use of electronic records.  Remote access to source documents which meets all the ethical and legal 
+requirements for participant protection and safety allows for review and monitoring offsite but is then essentially 
+equivalent to onsite monitoring in many but not all aspects.  Ideally, remote access should be used to augment 
+and focus on-site monitoring along with RBM tools. 
+2.2 
+Current Monitoring Practices 
+Historically, a range of practices have been used to monitor the conduct of clinical trials.  These practices vary in 
+intensity, focus, and methodology and include centralised monitoring of clinical data by statistical and data 
+management personnel; targeted on-site visits to higher risk sites (e.g. where centralised monitoring suggests 
+problems at a site), and frequent, comprehensive on-site visits to all sites by sponsor personnel or representatives 
+(e.g. clinical monitors or clinical research associates). 
+Periodic, frequent visits to each site to evaluate study conduct and review data for each enrolled participant 
+remain the predominant mechanism by which pharmaceutical, biotechnology, and medical device companies 
+monitor the progress of clinical investigations.  For major efficacy trials, companies typically conduct on-site 
+monitoring visits at approximately 4- to 8-week intervals.  This type of traditional frequent on-site monitoring 
+visit model, with 100 % verification of all data, historically has been the SAHPRA’s preferred way for sponsors to 
+meet their monitoring obligations.  
+The 1996 International Conference on Harmonisation of Technical Requirements for Registration of 
+Pharmaceuticals for Human Use (ICH) guidance on good clinical practice (ICH E6) and the 2011 International 
+Standards Organization (ISO) Clinical investigation of medical devices for human subjects – good clinical practice 
+(ISO 14155:2011) address monitoring.  Both ICH E6 and ISO 14155:2011 specifically provide for flexibility in how 
+trials are monitored.  Both E6 and ISO 14155:2011 advise sponsors to consider the objective, design, complexity, 
+size, and endpoints of a trial in determining the extent and nature of monitoring for a given trial.  Although the 
+ICH guidance and ISO standard specifically provide for the possibility of reduced or even no on-site monitoring, 
+they also make clear that it would be appropriate to rely entirely on centralised monitoring only in exceptional 
+circumstances. 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 6 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+2.3 
+Approach to Risk-Based Monitoring 
+A risk-based approach to monitoring (RBM) by definition involves the use of validated tools in the evaluation and 
+assessment of risk in the oversight in the quality of data.  It does not imply nor is equivalent to remote or off-site 
+monitoring, and must be distinguished from this. 
+While it does not suggest any less vigilance in the oversight of clinical investigations, there is the danger that the 
+risk-based monitoring may offer less oversight than the traditional monitoring approaches.  RBM focuses sponsor 
+oversight activities on preventing or mitigating important and likely risks to data quality and to processes critical 
+to human participant protection and trial data integrity.  Moreover, a risk-based approach is dynamic, more 
+readily facilitating continual improvement in trial conduct and oversight.  For example, monitoring findings should 
+be evaluated to determine whether additional actions (e.g. training of clinical investigator and site staff, 
+clarification of protocol requirements) are necessary to ensure human participant protection and data quality 
+across sites.  Sponsors should be prepared to augment RBM if necessary as it is an imperative of the concept of 
+RBM.  
+The SAHPRA believes that RBM could improve sponsor oversight of clinical investigations if understood and 
+executed correctly.  RBM and the reliance on technological advances (e.g. remote risk and quality management 
+tools and processes), can meet statutory and regulatory requirements under appropriate circumstances. 
+The incorporation of centralised monitoring practices, where appropriate, should improve a sponsor’s ability to 
+ensure the quality of clinical trial data.  While several publications suggest that certain data anomalies (e.g. fraud, 
+including fabrication of data, and other non-random data distributions) may be more readily detected by 
+centralised monitoring techniques than by on-site monitoring, there is also confusion around both terminology 
+and implementation.  While adequate training may address some of these issues, it has been suggested that a 
+statistical approach to central monitoring can help improve the effectiveness of on-site monitoring by prioritising 
+site visits and by guiding site visits with central statistical data checks.   
+The SAHPRA encourages sponsors to tailor monitoring plans to the needs of the trial.  The advancement in 
+electronic systems and increasing use of electronic records (i.e. electronic data capture [EDC] systems) facilitate 
+remote access to electronic data and, increasingly, to some source data although limited.  Additionally, statistical 
+assessments using data submitted on paper case report forms (CRFs) or via EDC may permit timely identification 
+of clinical sites that require additional training, monitoring, or both.  
+The SAHPRA acknowledges that there is limited empirical data to support the utility of the various methods 
+employed to monitor clinical investigations (e.g. superiority of one method versus another), including data to 
+support on-site monitoring.  As a result, the recommendations are based, in part, on the SAHPRA’s experience 
+from the review of protocols, data submitted in pre-approval applications, and the results of inspections 
+conducted to ensure human participant protection and data integrity. 
+ 
+3. OVERVIEW OF MONITORING METHODS 
+3.1 
+On-site and Centralised Monitoring 
+This section is intended to assist sponsors in identifying and designing monitoring practices appropriate to a given 
+clinical trial.  It describes some of the capabilities of on-site and centralised monitoring processes and factors to 
+consider in determining which monitoring practices may be appropriate for a given clinical trial. 
+3.1.1 
+On-site Monitoring 
+On-site monitoring is an in-person evaluation carried out by sponsor personnel or representatives at the sites 
+at which the clinical investigation is being conducted. 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 7 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+On-site monitoring can identify data entry errors (e.g. discrepancies between source records and CRFs) and 
+missing data in source records or CRFs; provide assurance that study documentation exists; assess the familiarity 
+of the site’s study staff with the protocol and required procedures; and assess compliance with the protocol 
+and investigational product accountability. 
+On-site monitoring can also provide a sense of the quality of the overall conduct of the trial at a site (e.g. 
+attention to detail, thoroughness of study documentation, appropriate delegation of study tasks, and 
+appropriate PI supervision of site staff performing critical study functions). 
+On-site monitoring can therefore be particularly helpful early in a study, especially if the protocol is complex 
+and includes novel procedures with which PIs may be unfamiliar.  Findings at the site may lead to training efforts 
+at both the site visited and elsewhere.  
+3.1.2 
+Centralised Monitoring 
+Centralised monitoring is a remote evaluation carried out by sponsor personnel or representatives (e.g. clinical 
+monitors, data management personnel, or statisticians) at a location other than the sites at which the clinical 
+investigation is being conducted.  Centralised monitoring processes can provide some of the capabilities of on-
+site monitoring as well as additional capabilities. 
+The types of monitoring activities and the extent to which centralised monitoring practices can be employed 
+depend on various factors, including the sponsor’s use of electronic systems; the sponsor’s access to 
+participants’ electronic records, if applicable; the timeliness of data entry from paper CRF, if applicable; and 
+communication tools available to the sponsor and study site.  These may vary by study and by site. Sponsors 
+who plan to use centralised monitoring processes should ensure that the processes and expectations for site 
+record keeping, data entry, and reporting are well-defined and ensure timely access to clinical trial data and 
+supporting documentation. 
+If sponsors intend to rely heavily on centralised monitoring practices, they should identify, in the monitoring 
+plan, the limitations of this plan, and when more on-site monitoring visits would be indicated, noting that 
+monitoring remains a sole responsibility of the sponsor.   
+3.2 
+Examples of monitoring practices and activities 
+Monitoring activities broadly include communication with the PI and study site staff; review of the study site’s 
+processes, procedures, and records; and verification of the accuracy of data submitted to the sponsor.  
+Centralised monitoring techniques should be used to the extent appropriate and feasible to: 
+Supplement or reduce the frequency and extent of on-site monitoring with monitoring activities that can be done 
+as well or better remotely or with monitoring activities that can be accomplished using centralised processes 
+only.  Examples include:  
+o 
+Monitor data quality through routine review of submitted data to identify and follow-up on missing data, 
+inconsistent data, data outliers, and potential protocol deviations that may be indicative of systemic or 
+significant errors in data collection and reporting at a site; 
+o 
+Conduct statistical analyses to identify data trends not easily detected by on-site monitoring, such as:  
+➢ 
+Standard checks of the ranges, consistency, and completeness of data  
+➢ 
+Checks for unusual distribution of data within and between study sites, such as data with too little 
+variance  
+o 
+Analyse site characteristics, performance metrics (e.g. high screen failure or withdrawal rates, high 
+frequency of eligibility violations, delays in reporting data), and clinical data to identify trial sites with 
+characteristics correlated with poor performance or noncompliance; 
+o 
+Verify critical source data remotely as described in the monitoring plan, in cases where such source data 
+are accessible, or where CRF data are, according to the protocol, source data;  
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 8 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+o 
+Complete administrative and regulatory tasks.  Such tasks include, for example, verifying continuous 
+institutional review board (IRB) approval by reviewing electronic IRB correspondence, if available; 
+performing portions of investigational product accountability, such as comparison of randomisation and 
+CRF data, to preliminarily assess whether the participant was administered or dispensed the assigned 
+product and to evaluate consistency between investigational product receipt, use, and disposition 
+records; and verifying whether previously requested CRF corrections were made. 
+Centralised techniques, including routine review of submitted data and statistical and other analyses, may also 
+be used to identify significant concerns (e.g. need for clarification of a protocol procedure, indications of data 
+fabrication) with non-critical data that may not have otherwise been a focus of monitoring. 
+Target on-site monitoring by identifying higher risk clinical sites (e.g. sites with data anomalies or a higher 
+frequency of errors, protocol violations, or dropouts relative to other sites), through the activities described 
+above.  Such findings, whether related to critical or non-critical data, may warrant on-site visits or more intensive 
+and consideration of further on-site monitoring. 
+The following sections provide additional descriptions of various monitoring approaches. 
+3.2.1 
+Communication with study site staff 
+Communication between the monitor and the study site staff is an essential component of the clinical trial.  
+Various modes of communication (e.g. teleconferences, videoconferencing, e-mail) could be considered for 
+specific study time points (e.g. study initiation) and activities (e.g. to discuss findings of a monitor’s eCRF review, 
+training of new site staff).  Communication with sites does not involve evaluation or review of data by sponsor 
+personnel or representatives. 
+3.2.2 
+Review of site’s processes, procedures, and records 
+Techniques for monitoring informed consent and site records are included here as examples of approaches to 
+monitoring site’s processes, procedures, and records. 
+a) 
+Informed consent  
+Verification of participants’ informed consent is a critical activity that should be monitored.  Alternatives 
+to the traditional approach (monitors verifying the original signature on the consent form for each 
+participant at the site) may be effective in identifying inadequacies in the consent process. 
+The study site sending documents electronically (e.g. fax, e-mail) to the monitor off-site may not be 
+appropriate.  The monitor may perform remote comparison of dates of study procedures and 
+documentation of informed consent on CRFs.  A secure internet portal that enables the site staff to 
+upload signed consent forms and enables access by designated monitors is a tool that can be considered. 
+Use of electronic informed consent may also facilitate sponsor oversight of human participant 
+protection.  Sponsors must attend to privacy and confidentiality concerns when considering techniques 
+for monitoring informed consent. 
+b) 
+Site’s records 
+A growing portion of source documents (e.g. laboratory and radiology reports, source documents 
+submitted by the PI for other purposes such as health records documenting serious adverse events or 
+adjudicated events) are electronic and may be available to the sponsor remotely.  Sponsors may not 
+have remote access to electronic health records maintained by hospitals, universities, and other 
+institutions because of data privacy and security concerns as well as technological challenges.  
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 9 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+3.2.3 
+Source data verification and corroboration 
+The sponsor should consider the quantity and types of source data that need to be verified against CRFs or 
+corroborated against other records (e.g. review of medical record to corroborate a participant’s response of “no 
+hospitalisations” since the previous visit on a CRF) during the sponsor’s identification of critical data and 
+processes or in the risk assessment, or both. 
+The sponsor should include a description of the quantity and types of source records to verify or corroborate in 
+the monitoring plan. 
+The sponsor should consider which source records are likely to provide the most meaningful information about 
+a participant’s participation and the PI’s conduct and oversight.  For example, for a particular study, there may 
+be minimal benefit in comparing 100 % of the source data for each participant to the CRFs for each study visit.  
+Rather, it may be sufficient to compare the most critical data points for a sample of participants and study visits 
+as an indicator of data accuracy. 
+Similarly, for a particular study, although collection of all concomitant medications, body temperature, and body 
+weight are required by the protocol and are documented in the medical record and transcribed to a CRF, they 
+may not be identified by the sponsor as critical data, because a small error rate in those variables would not 
+affect the outcome of the trial.  In the absence of information indicating potential concerns with the data (e.g. 
+sites with data anomalies, inconsistent data), source document verification or corroboration of these non-
+critical data may not provide significantly useful information to the sponsor. 
+ 
+4. RISK-BASED MONITORING 
+No single approach to monitoring is appropriate for every clinical trial.  The SAHPRA recommends that each 
+sponsor design a monitoring plan that is tailored to the specific human participant protection and data integrity 
+risks of the trial.  Ordinarily, such a risk-based plan would include a mix of centralised and on-site monitoring 
+practices.  The monitoring plan should identify the various methods intended to be used and the rationale for their 
+use. 
+Monitoring activities should focus on preventing or mitigating important and likely sources of error in the conduct, 
+collection, and reporting of critical data and processes necessary for human participant protection and trial 
+integrity.  Sponsors should prospectively identify critical data and processes, then perform a risk assessment to 
+identify and understand the risks that could affect the collection of critical data or the performance of critical 
+processes, and then develop a monitoring plan that focuses on the important and likely risks to critical data and 
+processes. 
+4.1 
+Identify critical data and processes to be monitored 
+Sponsors should prospectively identify critical data and processes that if inaccurate, not performed, or performed 
+incorrectly, would threaten the protection of human participants or the integrity of the study results. 
+As examples, the following types of data and processes should ordinarily be identified as critical: 
+o 
+Verification that informed consent was obtained appropriately;  
+o 
+Adherence to protocol eligibility criteria designed to exclude individuals for whom the investigational 
+product may be less safe than the protocol intended and to include only participants from the targeted 
+study population for whom the test article is most appropriate;  
+o 
+Procedures for documenting appropriate accountability and administration of the investigational 
+product (e.g. ensuring the integrity of randomisation at the site level, where appropriate).  
+Conduct and documentation of procedures and assessments related to: 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 10 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+o 
+Study endpoints;  
+o 
+Protocol-required safety assessments;  
+o 
+Evaluating, documenting, and reporting serious adverse events and unanticipated adverse device effects, 
+participant deaths, and withdrawals, especially when a withdrawal may be related to an adverse event.  
+Conduct and documentation of procedures essential to trial integrity, such as ensuring the study blind is 
+maintained, both at the site level and at the sponsor level, as appropriate, referring specified events for 
+adjudication, and allocation concealment. 
+Other types of data (e.g. covariates such as concomitant treatments or demographic characteristics, routine 
+laboratory tests performed as part of participant monitoring that do not address protocol specified safety or 
+efficacy endpoints) and processes (e.g. a hospital pharmacy’s storage of an investigational product with no 
+specific critical handling instructions) identified by the sponsor as non-critical often may be monitored less 
+intensively. 
+There is increasing recognition that some types of errors in a clinical trial are more important than others. 
+For example, a low, but non-zero rate of errors in capturing certain baseline characteristics of enrolled 
+participants (e.g. age, concomitant treatment, or concomitant illness) will not, in general, have a significant effect 
+on study results if the errors are distributed randomly.  In contrast, a small number of errors related to study 
+endpoints (e.g. not following protocol-specified definitions) can profoundly affect study results, as could failure 
+to report rare but important adverse events.  
+4.2 
+Risk assessment  
+This guideline also discusses risk assessment, a component of risk management, as applied in the context of 
+clinical monitoring.  Risk assessment generally involves identifying risks, analysing risks, and then determining 
+whether risks need to be modified by implementing controls (e.g. processes, policies, or practices).  The risk 
+assessment recommended in this guideline to inform development of a monitoring plan may also support efforts 
+to manage risks across a clinical trial (e.g. through modifying the protocol design or implementation) or 
+development program. 
+This guideline does not provide comprehensive detail on how to perform a risk assessment.  There are many risk 
+assessment methodologies and tools from a variety of industries that can be applied to clinical trials.   These 
+should be validated. 
+Following the identification of critical data and processes, sponsors should perform a risk assessment to identify 
+and understand the nature, sources, and potential causes of risks that could affect the collection of critical data 
+or the performance of critical processes.  Risks to critical data and processes merit consideration during risk 
+assessment, to ensure that monitoring efforts are focused on preventing or mitigating important and likely 
+sources of error in their conduct, collection and reporting. 
+Risk identification for monitoring purposes should generally consider the types of data to be collected, the specific 
+activities required to collect these data, and the range of potential safety and other human participant protection 
+concerns that are inherent to the clinical investigation (e.g. based on trial design or investigational product). 
+The identified risks should be assessed and prioritised by considering the likelihood of errors occurring and the 
+impact of such errors on human participant protection and trial integrity the extent to which such errors would 
+be detectable. 
+Sponsors should use the results of the risk assessment in developing the monitoring plan (e.g. determining which 
+risks may be addressed through monitoring, determining the types and intensity of monitoring activities best 
+suited to addressing these risks).  Sponsors may also determine that some risks are better managed through 
+activities other than monitoring, for example, modifying the protocol to remove the source of the risk.  Sponsors 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 11 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+should periodically evaluate emerging risks and whether monitoring activities require modification to effectively 
+oversee the risks. 
+4.3 
+Factors to consider when developing a monitoring plan 
+A monitoring plan ordinarily should focus on preventing or mitigating important and likely risks, identified by the 
+risk assessment, to critical data and processes.  The types (e.g. on-site, centralised), frequency (e.g. early, for 
+initial assessment and training versus throughout the study), and extent (e.g. comprehensive [100 % data 
+verification] versus targeted or random review of certain data [less than 100 % data verification]) of monitoring 
+activities will depend to some degree on a range of factors, considered during the risk assessment, including the 
+following: 
+o 
+Complexity of the study design  
+More intensive monitoring (e.g. increased frequency and extent of review) may be necessary as study 
+design complexity increases.  
+o 
+Types of study endpoints  
+Endpoints that are more interpretative or participative may require on-site visits to assess the totality of 
+participant records and to review application of protocol definitions with the PI.  More objective endpoints (e.g. 
+death, hospitalisation, or clinical laboratory values and standard measurements) may be more suitable for 
+remote verification.  Endpoints for which inappropriate participant withdrawal or lack of follow-up may impede 
+study evaluation are likely to need more intensive monitoring to identify the reason(s) participants are 
+withdrawing and to determine whether follow-up can be improved. 
+o 
+Clinical complexity of the study population  
+A study that involves a population that is seriously ill or vulnerable may require more intensive monitoring 
+and consideration of on-site monitoring visits to be sure appropriate protection is being provided. 
+o 
+Geography  
+Sites in geographic areas where there are differences in standards of medical practice or participant 
+demographics, or where there is a less established clinical trial infrastructure may require more intensive 
+monitoring and consideration of on-site monitoring visits. 
+o 
+Relative experience of the PI and of the sponsor with the PI 
+PIs who lack significant experience in conducting and overseeing investigations, using a novel or innovative 
+medical device, or with the surgical procedure associated with medical device use may benefit from more 
+intensive monitoring and frequent communication to ensure PI understanding of responsibilities.  In 
+addition, the relative experience of a sponsor with the PI may be a factor in determining an appropriate 
+monitoring plan. 
+o 
+Electronic data capture  
+Use of EDC systems with the capability to assess quality metrics (e.g. missing data, data error rates, protocol 
+violations) in real-time could help identify potentially higher risk sites for the purpose of targeting sites in 
+need of more intensive monitoring. 
+o 
+Relative safety of the investigational product  
+A study of a product that has significant safety concerns or for which there is no prior experience in human 
+clinical trials (e.g. a phase 1 pharmaceutical investigation or a device feasibility study) may require more 
+intensive monitoring and consideration of on-site monitoring visits to ensure appropriate PI oversight of 
+participant safety. 
+o 
+Stage of the study  
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 12 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+A tapered approach to monitoring may be used where appropriate, with more intensive monitoring at 
+initiation and during early stages of a trial.  For example, a tapered approach could be used for a complex 
+study where more intensive and on-site monitoring might be required early, but where, once procedures 
+are established, less intensive monitoring might suffice.  Similarly, a tapered approach could be used for 
+relatively inexperienced PIs. 
+o 
+Quantity of data  
+Some centralised monitoring tools may be more useful as the quantity of data (e.g. size or duration of trial, 
+number of sites) collected increases. 
+4.4 
+Monitoring plan 
+For each clinical trial, the sponsor should develop a monitoring plan that describes the monitoring methods, 
+responsibilities, and requirements for the trial. 
+The monitoring plan should include a brief description of the study, its objectives, and the critical data and study 
+procedures, with particular attention to data and procedures that are unusual in relation to clinical routine and 
+require training of study site staff.  The plan should also communicate the specific risks to be addressed by 
+monitoring and should provide those involved in monitoring with adequate information to effectively carry out 
+their duties. 
+A monitoring plan may reference existing policies and procedures (e.g. standard operating procedure describing 
+general monitoring processes or issue investigation and resolution). 
+All sponsor and CRO personnel involved with monitoring, including those who review or determine appropriate 
+action regarding potential issues identified through monitoring, should review the monitoring plan and 
+associated documents and appropriately trained in the conduct of the study (e.g. standard operating procedures 
+or other documents referenced in the monitoring plan). 
+The components of a monitoring plan might include the following: 
+4.4.1 
+Description of Monitoring Approaches 
+A description of each monitoring method to be employed during the study and how it will be used to address 
+important risks and ensure the validity of critical data. 
+Criteria for determining the timing, frequency, and extent of planned monitoring activities: 
+o 
+Specific activities required for each monitoring method employed during the study, including reference 
+to required tools, logs, or templates;  
+o 
+Definitions of events or results (e.g. findings from central monitoring activities) that would trigger 
+changes in planned monitoring activities for a particular PI. 
+For example, if it is determined that a PI differs markedly from other PIs in making safety-related findings or 
+other key safety metrics, in rate of enrolment, in the number of protocol deviations, or in the rate of missing 
+CRFs, the PI’s site should be considered for targeted on-site visits.  The establishment of acceptable variation 
+for particular critical data and processes would facilitate identification of significant deviations.  
+o 
+Identification of possible deviations or failures that would be critical to study integrity and how these 
+are to be recorded and reported.  
+For example, sponsors may wish to establish a specific mechanism for tracking and notifying key study personnel 
+of deviations related to collection or reporting of data necessary to interpret the primary endpoint, regardless 
+of which monitoring method identified a concern.  
+The study monitoring plan should also describe how various monitoring activities will be documented, 
+regardless of whether they are conducted on-site or centrally. 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 13 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+4.4.2 
+Communication of Monitoring Results  
+Format, content, timing, and archiving requirements for reports and other documentation of monitoring 
+activities. 
+Process for appropriate communication:  
+o 
+Of routine monitoring results to management and other stakeholders (e.g. CRO, data management)  
+o 
+Of immediate reporting of significant monitoring issues to appropriate parties (e.g. sponsor 
+management, PI and site staff, IRB, FDA), as necessary;  
+o 
+From study management and other stakeholders to monitors.  
+For example, data management personnel may provide monitors with routine reports of outstanding CRFs or 
+of common data queries at or across sites that may enable effective targeting of monitoring activities. 
+4.4.3 
+Management of Noncompliance  
+Processes for addressing unresolved or significant issues (e.g. significant non-compliance with the 
+investigational plan, suspected or confirmed data falsification) identified by monitoring, whether at a particular 
+site or across study sites. 
+Processes to ensure that root cause analyses are conducted where important deviations are discovered and 
+that appropriate corrective and preventive actions (e.g. additional training on a study or site level) are 
+implemented to address issues identified by monitoring. 
+Other quality management practices applicable to the clinical investigation (e.g. reference to any other written 
+documents describing appropriate actions regarding non-compliance). 
+4.4.4 
+Ensuring Quality Monitoring  
+It is the sponsor’s responsibility to ensure that the monitor is both trained and qualified to undertake the 
+monitoring of a specific trial.  Description of any specific training required for personnel carrying out monitoring 
+activities, including personnel conducting internal data monitoring, statistical monitoring, or other centralised 
+review activities should be provided. 
+Training should include Good Clinical Practice, principles of clinical investigations and human participant 
+protection.  In addition, study-specific training should include training on the disease under study, study trial 
+design, protocol requirements, study monitoring plan, applicable standard operating procedures (SOPs), 
+appropriate monitoring techniques, and applicable electronic systems.  
+Planned audits of monitoring to ensure that sponsor and CRO staff conduct monitoring activities in accordance 
+with the monitoring plan, applicable regulations, guidance, and sponsor policies, procedures, templates, and 
+other study plans.  Auditing is a quality assurance tool that can be used to evaluate the effectiveness of 
+monitoring to ensure human participant protection and data integrity. 
+Many sponsors have successfully implemented on-site co-monitoring visits (i.e. monitoring visits performed by 
+both a study monitor and the monitor’s supervisor or another evaluator designated by the sponsor or CRO) to 
+evaluate whether monitors are effectively carrying out visit activities, in compliance with the study monitoring 
+plan.  These visits may be conducted either for randomly selected monitors or may be targeted to specific 
+monitors, based upon questions arising from review of monitoring visit documentation, centralised data review 
+or PI feedback.  
+4.4.5 
+Monitoring Plan Amendments  
+Sponsors should consider what events would indicate a need for review and revision of the monitoring plan and 
+establish processes to permit timely updates where necessary.  For example, a protocol amendment, change in 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 14 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+the definition of significant protocol deviations, or identification of new risks to study integrity could result in a 
+change to the monitoring plan. 
+4.5 
+Documenting monitoring activities  
+Documentation of monitoring activities should generally include the following: 
+o 
+The date of the activity and the individual(s) conducting and participating in it;  
+o 
+A summary of the data or activities reviewed;  
+o 
+A description of any noncompliance, potential noncompliance, data irregularities, or other deficiencies 
+identified;  
+o 
+A description of any actions taken, to be taken, or recommended, including the person responsible for 
+completing actions and the anticipated date of completion.  
+Documentation of monitoring should include sufficient detail to allow verification that the monitoring plan was 
+followed. 
+Monitoring documentation should be provided to appropriate management in a timely manner for review and 
+follow-up, as indicated. 
+ 
+5. ADDITIONAL STRATEGIES TO ENSURE STUDY QUALITY 
+Although the focus of this guideline is on monitoring the oversight and conduct of, and reporting of data from, 
+clinical investigations, the SAHPRA considers monitoring to be just one component of a multi-factor approach to 
+ensuring the quality of clinical investigations.  Many other factors contribute to the quality of a clinical 
+investigation.  This section highlights additional areas that complement monitoring and can affect study quality. 
+A fundamental component of ensuring quality monitoring is a sponsor’s compliance with monitoring plans and any 
+accompanying procedures. 
+5.1 
+Protocol and Case Report Form design 
+The most important tool for ensuring human participant protection and high-quality data is a well-designed and 
+articulated protocol.  A poorly designed or ambiguous protocol may introduce systemic errors that can render a 
+clinical investigation unreliable despite rigorous monitoring.  Additionally, the complexity of the trial design and 
+the type and amount of data collected may influence data quality.  The CRF, which captures the data required by 
+the protocol, is another critical tool for which design directly affects the quality of trial data. 
+Care should be taken to ensure that the CRF captures data accurately (e.g. as required by the protocol) and that 
+the CRF design and instructions facilitate consistent data collection across PI sites. 
+5.2 
+Principal Investigator training and communication 
+Clinical trial monitors conducting on-site visits have historically played an important role in training the PI and 
+site staff during a study.  On-site visits also have served as a primary means of providing feedback to PIs and study 
+personnel on study conduct.  Without meaningful training prior to the conduct of a study and of appropriate 
+instruction during the study (e.g. when changes are made to the protocol), PIs and their staff may have difficulty 
+carrying out a trial correctly.  Sponsors who plan less frequent or limited on-site monitoring should consider the 
+following: 
+o 
+Monitoring activities should include sufficient time for discussion of PI’s and site staff’s responsibilities, 
+feedback, and additional training, if needed, during the conduct of the study.  
+o 
+It may be necessary to implement alternative training (e.g. teleconferences, webcasts, on-line training 
+modules) and communication methods for providing and documenting ongoing, timely training and 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 15 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+feedback, as well as to provide notification of significant changes to study conduct or other important 
+information.  It must be considered that many of the factors that necessitate onsite monitoring may be 
+relevant and this should be considered.  
+5.3 
+Delegation of monitoring responsibilities to a CRO 
+If a sponsor of a study delegates the responsibility for ensuring proper monitoring to a CRO, the SAHPRA would 
+require the written transfer of any obligations from a sponsor to a CRO and require the CRO to comply with the 
+regulations.  Although sponsors can transfer responsibilities for monitoring to a CRO(s), they retain responsibility 
+for oversight of the work completed by the CRO(s) that assume this responsibility.  
+Sponsors should evaluate CRO compliance with regulatory requirements and contractual obligations in an 
+ongoing manner.  For example, sponsor oversight of monitoring performed by a CRO may include the sponsor’s 
+periodic review of monitoring reports and vendor performance or quality metrics and documented 
+communication between the sponsor and CRO regarding monitoring progress and findings. 
+Sponsors and CROs should consider additional factors when a sponsor transfers responsibilities for monitoring to 
+a CRO.  Sponsors and CROs should prospectively establish a clear understanding of both parties’ responsibilities 
+and of the expectations for the conduct of the transferred obligations. 
+Sponsors should share information with a CRO that may inform decisions a CRO may make regarding the 
+monitoring practices for a trial (e.g. findings of a risk assessment).  Sponsors should prospectively evaluate 
+monitoring procedures and monitoring plans developed by a CRO to ensure the monitoring approach is consistent 
+with applicable aspects of the trial.  In addition, sponsors and CROs should have processes in place for timely 
+exchange of relevant information (e.g. significant monitoring findings, significant changes in risk for a trial). 
+5.4 
+Principal Investigator and site selection and initiation 
+In addition to regulatory requirements for PI selection, sponsors should consider factors such as sponsor’s 
+previous experience with the PI or site, workload of the PI and study staff, and resource availability at the study 
+site during PI and site selection. 
+Site training and initiation is a critical study activity that often involves sponsor personnel from a range of 
+disciplines, including monitors.  Key components of site initiation include ensuring the PIs and site staff 
+understands their responsibilities, including applicable regulatory requirements as well as study processes and 
+procedures, including the sponsor’s processes for monitoring the investigation.  Communication and 
+documentation tools for monitoring discussed in this guideline can also be used for site selection and initiation 
+activities. 
+ 
+6. REFERENCES  
+Guidance for Industry. 2013.  Oversight of Clinical Investigations - A Risk-Based Approach to Monitoring. FDA. 
+August. 
+International Standard. 2011. Clinical investigation of medical devices for human subjects-Good Clinical Practice. 
+ISO14155.  2nd edition.  
+International Council for Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human 
+Use. (1996) ICH Harmonised Tripartite Guideline. Guideline for Good Clinical Practice. Current Step 4 version dated 
+10 June 1996 (including the Post Step 4 corrections). 
+ 
+ 
+SAHPGL-CEM-CT-04 OVERSIGHT AND MONITORING IN CLINICAL TRIALS_AUGUST 2022 _v4 
+Page 16 of 16
+OVERSIGHT AND MONITORING IN CLINICAL TRIALS 
+ 
+ 
+ 
+7. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces Oversight and 
+Monitoring in Clinical Trials, old document number 2.43.  It will be reviewed on this timeframe or as and when 
+required. 
+ 
+ 
+

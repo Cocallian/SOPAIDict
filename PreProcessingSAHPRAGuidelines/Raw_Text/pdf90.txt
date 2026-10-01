@@ -1,0 +1,277 @@
+SAHPGL-RDN-RN-09_v2 
+Page 1 of 7
+ 
+ 
+ 
+12 December 2022 
+GUIDELINE ON IODINE-131 THERAPY  
+Condition 90 of the Isotope Conditions states that: 
+Patients who receive a dose > 555 MBq I-131 must be accommodated in an isolation ward. Release of the patient may be authorised 
+when the dose rate at one metre from the patient's neck is < 25 μSv/h. 
+ 
+This document describes the requirements for those isolation rooms/ wards and related procedures.  
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue, industrial comments incorporated and published for 
+implementation 
+October 2010 
+2 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-RN-09 allocated to this 
+Guideline 
+December 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-RN-09_v2 
+Page 2 of 7
+Guideline on Iodine-131 Therapy 
+12 December 2022 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................ 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 4 
+3. 
+REQUIREMENTS FOR FACILITIES WHERE THERAPEUTIC DOSES OF I-131 ARE ADMINISTERED ................. 4 
+3.1 
+Ward ........................................................................................................................................................... 4 
+3.2 
+Floor ........................................................................................................................................................... 5 
+3.3 
+Waste disposal ........................................................................................................................................... 5 
+3.4 
+Dose calibrator ........................................................................................................................................... 5 
+3.5 
+Radiation monitors ..................................................................................................................................... 5 
+3.6 
+Personal dosimeter (TLD) ........................................................................................................................... 5 
+3.7 
+Radiation warning sign ............................................................................................................................... 5 
+3.8 
+Linen ........................................................................................................................................................... 5 
+3.9 
+Medical Physicist ........................................................................................................................................ 6 
+3.10 Elimination ................................................................................................................................................. 6 
+4. 
+REQUIREMENTS FOR HOSPITALISATION OF CHILDREN FOR I–131 MIBG TREATMENT ............................. 6 
+5. 
+PRECAUTIONS TO BE TAKEN BY A PARENT WHO WISHES TO BE WITH A CHILD DURING I–131  .............. 6 
+6. 
+REFERENCES ............................................................................................................................................... 7 
+7. 
+VALIDITY ..................................................................................................................................................... 7 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-RN-09_v2 
+Page 3 of 7
+Guideline on Iodine-131 Therapy 
+12 December 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ 
+Term 
+Meaning 
+I-131 
+iodine-131 
+EPD 
+electronic personal dosimeter 
+mCi 
+millicurie, a unit of activity 
+MBq 
+megabecquerel, a unit of activity (106 becquerel) 
+mR/h 
+millirem per hour, a unit a unit of equivalent dose rate (1 rem = 10-2 sievert)   
+μSv/h 
+Micro sieverts per hour, a unit of equivalent dose rate (10-6 sieverts per hour) 
+TLD 
+thermoluminescence dosimetry/dosimeter 
+ 
+ 
+ 
+SAHPGL-RDN-RN-09_v2 
+Page 4 of 7
+Guideline on Iodine-131 Therapy 
+12 December 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Therapeutic doses of I-131 may be administered as capsules or via drip (in the case of I-131 MIBG). In both 
+cases the resulting radioactivity of the patient, together with the volatility of the I-131, creates a radiation 
+hazard for staff as well as visitors. This guideline seeks to assist radiation oncology facilities to manage that 
+hazard safely. 
+1.1 
+Purpose 
+This guideline seeks to assist staff of radiation oncology facilities to manage the hazards related to I-131 
+therapy where doses above 555 MBq are administered. 
+1.2 
+Scope 
+The current BSS (IAEA Basic Safety Standards) gives a guidance level of 1 100 MBq for release of Iodine-131 
+patients (treated by any form of therapy). However, Condition 90 of SAHPRA’s Isotope Conditions sets a 
+lower threshold for admission of patients, stating that Patients who receive a dose > 555 MBq I-131 must 
+be accommodated in an isolation ward. Release of the patient may be authorised when the dose rate at one 
+metre from the patient's neck is < 25 μSv/h. 
+2. 
+LEGAL PROVISION 
+The use of I-131 is subject to the provisions of:  
+• the Hazardous Substances Act 15 of 1973, as amended (HSA),  
+• the Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of the 
+Hazardous Substances Act 15 of 1973 and published under Government Notice R247 in 
+Government Gazette 14596, dated 26 February 1993 (R247), and  
+• SAHPGL-RDN-RN-06_v1 Guideline for the Safe Use of Unsealed Radioactive Sources. 
+3. 
+REQUIREMENTS FOR FACILITIES WHERE THERAPEUTIC DOSES OF I-131 ARE 
+ADMINISTERED AND PATIENTS ARE HOSPITALISED 
+3.1 
+Ward 
+Patients who are admitted must be accommodated in a special designated ward with an en suite toilet and 
+shower for their exclusive use.  If the shower is over a bath, it must have a wall attachment (so that the 
+patient does not have to hold it while showering). The patient must be instructed not to bath but only to 
+shower, to ensure that the I-131 is properly rinsed off the skin. The bath plug should be removed to reduce 
+the temptation to soak in the bath.  
+SAHPGL-RDN-RN-09_v2 
+Page 5 of 7
+Guideline on Iodine-131 Therapy 
+12 December 2022 
+ 
+ 
+3.2 
+Floor 
+The floor of the ward must be of non-absorbent material such as linoleum or vinyl with sealed joints. Failing 
+this, the floor must be covered with sheets of plastic or absorbent paper. 
+3.3 
+Waste disposal 
+A receptacle, lined with a plastic bag, must be placed at the door inside the ward for discarding 
+contaminated articles such as gloves, aprons and overshoes.  
+3.4 
+Dose calibrator 
+An isotope calibrator must be available to verify the activity administered to a patient. The instrument must 
+be checked with a sealed source before measuring the activity. 
+3.5 
+Radiation monitors  
+An exposure meter must be available for monitoring the dose rate from the patient to quantify the time 
+and distance that staff and family may attend the hospitalised patient. A monitor must be available for 
+routine contamination monitoring of working surfaces, and for use in the event of any accidental spillage. 
+The personnel must use this monitor to monitor their hands, clothes and shoes prior to leaving the ward.  
+3.6 
+Personal dosimeter (TLD)  
+Nursing personnel who do not wear personal dosimeters must be issued with direct-reading pocket 
+dosimeters (EPDs). The daily readings must be noted in a logbook, which must be available for inspection 
+purposes.  
+Any person who is likely to receive more than 3/10 of the annual dose limit for radiation workers must wear 
+a personal dosimeter (TLD).  
+3.7 
+Radiation warning sign 
+A removable radiation warning sign, which displays the name of the patient, the nuclide, activity, time and 
+date administered must appear on the door of the ward.  
+Comprehensive instructions for nursing staff regarding appropriate specialised patient care and monitoring 
+requirements must be displayed at the radiation warning sign on the door. 
+3.8 
+Linen  
+The mattress must be covered with non-absorbent material.  
+No articles and/or linen may be removed from the ward without prior monitoring for contamination.  
+SAHPGL-RDN-RN-09_v2 
+Page 6 of 7
+Guideline on Iodine-131 Therapy 
+12 December 2022 
+ 
+ 
+Following the discharge of the patient, the ward and linen must be thoroughly monitored for 
+contamination. Contaminated linen must be washed separately.  
+3.9 
+Medical Physicist  
+A medical physicist must be available to perform the following duties, among others:  
+3.9.1 
+Supervise the administration of therapeutic doses: a physicist must be present at administration of 
+all doses above 555 MBq (15 mCi). 
+3.9.2 
+Supervise monitoring of personnel, patients and family members (parents). 
+3.9.3 
+Monitor the patient to determine that the dose rate at one metre from the thyroid is below 25 
+μSv/h (2,5 mR/h) before the patient is discharged. 
+3.10 Elimination 
+The faeces and urine of patients receiving therapeutic doses of radionuclides can be disposed of into the 
+sewage system as non-radioactive waste. They need not be stored for any time, and the activity therein 
+need not be included when calculating total radioactivity releases from the hospital. 
+4. 
+REQUIREMENTS FOR HOSPITALISATION OF CHILDREN FOR I–131 MIBG 
+TREATMENT 
+4.1 
+See the requirements 3.1 – 3.10 above. 
+4.2 
+Used nappies must be placed in plastic bags, which must be sealed, labelled and stored in the 
+radioactive waste store. 
+4.3 
+The child may only be discharged when the estimated activity of iodine present in the body of the 
+patient has reduced to below 15 mCi. 
+4.4 
+Adults are allowed to be present while children receive MIBG treatment, but not to nurse or 
+change nappies (see section 5 below). 
+5. 
+PRECAUTIONS TO BE TAKEN BY A PARENT WHO WISHES TO BE WITH A CHILD 
+DURING I–131 TREATMENT 
+5.1 
+ The parent must be issued with a direct-reading dosimeter (EPD) for the period of treatment. The 
+radiation dose equivalent should be kept below 1.2 mSv (120 mrem) per treatment, assuming 
+repeated treatments take place at intervals greater than four weeks.  
+SAHPGL-RDN-RN-09_v2 
+Page 7 of 7
+Guideline on Iodine-131 Therapy 
+12 December 2022 
+ 
+ 
+5.2 
+ The parent must be given thyroid-blocking treatment (with stable iodine) before and during the 
+patient’s stay in hospital.  
+5.3 
+ Direct nursing of the patient by the parent must be limited. For example, the parent should not 
+be allowed to change nappies.  
+5.4 
+ Pregnant women are not permitted to be with children during treatment. 
+6. 
+REFERENCES 
+The following related documents are referenced: 
+6.1 
+The Hazardous Substances Act 15 of 1973, as amended (HSA).  
+6.2 
+Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of the Hazardous 
+Substances Act 15 of 1973 and published under Government Notice R247 in Government Gazette 
+14596, dated 26 February 1993 (R247).  
+6.3 
+SAHPGL-RDN-RN-06 Guideline for the Safe Use of Unsealed Radioactive Sources, SAHPRA Radiation 
+Control. 
+7. 
+VALIDITY 
+This guideline is valid for a period of five years from the effective date of revision and replaces the old guideline 
+for Iodine-131 Therapy, revised in October 2010. It will be reviewed on this timeframe or as and when required. 
+

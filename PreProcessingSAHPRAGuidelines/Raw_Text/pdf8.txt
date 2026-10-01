@@ -1,0 +1,473 @@
+SAHPGL-RDN-INSP-03_v1 
+Page 1 of 11 
+ 
+ 
+ 
+15 June 2026 
+GUIDELINE ON MINIMUM REQUIREMENTS FOR INSPECTING 
+GROUP III AND GROUP IV HAZARDOUS SUBSTANCES 
+This guideline delineates the mandatory regulatory framework of the Radiation Control Inspectorate sub-unit including 
+the inspection requirements to all Group III and Group IV Hazardous Substances, in terms of the Hazardous Substances 
+Act No. 15 of 1973 and Regulations R1332 and R247.  
+ 
+The guideline further provides directions to all holders of Group III and Group IV Hazardous Substances on maintaining 
+compliance with the applicable provisions of the Act and relevant regulations. It sets out the minimum requirements and 
+standard to be adhered to during routine, investigative, and enforcement inspections.  
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+First issue 
+June 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER
+SAHPGL-RDN-INSP-03_v1 
+Page 2 of 11 
+Guideline on Minimum Requirements for Inspecting Group III and Group IV Hazardous Substances 
+15 June 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................ 1 
+Glossary ............................................................................................................................................................... 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 5 
+3. 
+RADIATION CONTROL INSPECTION PROCESSES ........................................................................................ 5 
+3.1 
+Pre-Inspection Activities ............................................................................................................................ 5 
+3.2 
+On-Site Inspection ..................................................................................................................................... 5 
+3.3 
+Post-Inspection Activity ............................................................................................................................. 6 
+4. 
+REQUIREMENTS FOR INSPECTION OF GROUP III HAZARDOUS SUBSTANCES ............................................ 6 
+4.1 
+Licensing and Governance ......................................................................................................................... 6 
+4.2 
+Radiation Protection and Safety ................................................................................................................ 6 
+4.3 
+Facilities, Storage and Security .................................................................................................................. 7 
+4.4 
+Equipment and Instrumentation ............................................................................................................... 7 
+4.5 
+Records, Incidents, and Reporting ............................................................................................................. 7 
+4.6 
+Inspection Frequency (Graded Approach – Group III) ............................................................................... 7 
+5. 
+REQUIREMENTS FOR INSPECTION OF GROUP IV HAZARDOUS SUBSTANCES ........................................... 8 
+5.1 
+Authorization and Governance .................................................................................................................. 8 
+5.2 
+Safe Handling and Use ............................................................................................................................... 8 
+5.3 
+Storage and Control ................................................................................................................................... 9 
+5.4 
+Radiation Awareness and Training ............................................................................................................ 9 
+5.5 
+Equipment and Instrumentation ............................................................................................................... 9 
+5.6 
+Records and Incident Management .......................................................................................................... 9 
+5.7 
+Inspection Frequency (Graded Approach – Group IV) ............................................................................... 9 
+6. 
+REFERENCES ............................................................................................................................................. 10 
+7. 
+VALIDITY .................................................................................................................................................. 11 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-INSP-03_v1 
+Page 3 of 11 
+Guideline on Minimum Requirements for Inspecting Group III and Group IV Hazardous Substances 
+15 June 2026 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Act 
+Hazardous Substances Act No. 15 of 1973 
+ALARA 
+As Low As Reasonably Achievable  
+ARPO 
+Acting Radiation Protection Officer 
+Group III  
+ 
+Ionizing or non-ionizing electro-magnetic radiation product / device or any 
+sonic, infrasonic and ultrasonic wave which is emitted from an electronic 
+product  
+Group IV 
+Radioactive material which is outside a nuclear installation as defined in 
+the Nuclear Energy Act, 1999 and which is used or intended to be used for 
+medical, scientific, agricultural, commercial or industrial purposes, and any 
+radioactive waste arising from such radioactive material 
+High-risk 
+Practices involving sources or equipment that have the potential to cause 
+significant deterministic health effects if not properly controlled. 
+Low risk 
+ Practices involving sources or equipment with low radiological hazard and 
+minimal potential for significant exposure. 
+Moderate risk 
+Practices involving sources or equipment that could result in moderate 
+radiological consequences under abnormal conditions. 
+R 1302 
+Regulation related listed electronic products 
+R 690 
+Regulation related to import of Group III hazardous substances 
+R1332 
+Regulation concerning the control of electronic products 
+R246 
+Regulation related to exclusion and exemptions 
+R247 
+Regulations related to Group IV Hazardous Substances Act 
+RPO 
+Radiation Protection Officer 
+SAHPRA 
+South African Health products Regulatory Authority  
+ 
+ 
+ 
+SAHPGL-RDN-INSP-03_v1 
+Page 4 of 11 
+Guideline on Minimum Requirements for Inspecting Group III and Group IV Hazardous Substances 
+15 June 2026 
+ 
+ 
+1. 
+INTRODUCTION 
+The South African Health Products Regulatory Authority (SAHPRA) is mandated, in terms of the Hazardous 
+Substances Act No. 15 of 1973 as amended, to regulate, control, and monitor the production, acquisition, 
+importation, exportation, possession, disposal, use, operation, letting, sale, and installation of Group III and 
+Group IV hazardous substances, in order to protect workers, the public, and the environment from radiation-
+related harm. 
+Group III and Group IV hazardous substances outline varying levels of radiological risk depending on the nature 
+of the radioactive material, the activity involved, and the way they are used. Effective inspection of facilities 
+and practices involving these substances through a graded regulatory approach is therefore essential to ensure 
+compliance with regulatory requirements and adherence to radiation safety principles. 
+This guideline provides a standardised framework, consistent with SAHPRA's regulatory approach, promoting 
+uniform, transparent, and effective inspections of Group III and Group IV hazardous substances. 
+1.1 Purpose 
+The purpose of this guideline is to: 
+• 
+Define the minimum requirements for conducting inspections of facilities and activities involving 
+Group III and Group IV hazardous substances. 
+• 
+Provide guidance to SAHPRA inspectors on the inspection process, focus areas, and compliance 
+expectations. 
+• 
+Promote a risk-based and consistent inspection approach aligned with SAHPRA’s Radiation 
+Control framework. 
+• 
+The goal is to ensure the licence or authority holders understand the entire process and are fully 
+prepared to meet all requirements.  
+1.2 Scope 
+This guideline applies to: 
+• 
+All facilities, institutions, and users authorized or required to be authorized to possess, use, 
+store, transport, or dispose of Group III and Group IV hazardous substances. 
+The guideline covers routine, announced, unannounced, follow-up, and compliance inspections but does 
+SAHPGL-RDN-INSP-03_v1 
+Page 5 of 11 
+Guideline on Minimum Requirements for Inspecting Group III and Group IV Hazardous Substances 
+15 June 2026 
+ 
+ 
+not replace the requirements set out in legislation, licensing or authorisation conditions, or applicable 
+SAHPRA policies. 
+2. 
+LEGAL PROVISION 
+This guideline is issued in terms of the following legal instruments: 
+• 
+Hazardous Substances Act No. 15 of 1973, as amended, 
+• 
+Regulations promulgated under the Hazardous Substances Act relating to Group III and Group IV 
+hazardous substances, 
+• 
+Conditions of licencing/ authorization issued by SAHPRA, and 
+• 
+Applicable national standards, codes of practice, and international guidance adopted or recognized by 
+SAHPRA. 
+Compliance with this guideline does not exempt any License or Authority Holder from complying with the Act, 
+regulations, or specific licensing or authorization conditions. Where there is a conflict between this guideline 
+and the Act, regulations, licensing or authorization conditions, the latter shall prevail. 
+3. 
+RADIATION CONTROL INSPECTION PROCESSES 
+Radiation Control inspections shall be conducted by SAHPRA Radiation Inspector appointed in accordance with 
+Hazardous Substance Act, section 8 and shall follow a graded, risk-informed approach. 
+3.1 Pre-Inspection Activities  
+• 
+Review of the licence or written authority, scope, and conditions. 
+• 
+Review of previous inspection findings, non-compliances, and corrective actions. 
+• 
+Assessment of the radiological risk profile, type of practice, and compliance history. 
+• 
+Determination of inspection frequency and inspection scope based on the graded approach. 
+3.2 On-Site Inspection  
+• 
+Opening meeting with management and the Radiation Protection Officer (RPO) or responsible 
+person. 
+• 
+Verification of compliance with legislative and licencing/ authorization requirements. 
+SAHPGL-RDN-INSP-03_v1 
+Page 6 of 11 
+Guideline on Minimum Requirements for Inspecting Group III and Group IV Hazardous Substances 
+15 June 2026 
+ 
+ 
+• 
+Inspection of facilities, equipment, storage areas, and safety systems. 
+• 
+Review of documentation, records, and training evidence. 
+• 
+Interviews with relevant staff involved in the use or supervision of hazardous substances. 
+• 
+Ensuring controlled entry and display of emergency contact persons and contact details. 
+3.3 Post-Inspection Activity  
+• 
+Closing meeting to communicate preliminary findings. 
+• 
+Classification of inspection findings (e.g. critical/ major, intermediate, minor, observations). 
+• 
+Issuing of an inspection report specifying corrective actions and timelines. 
+• 
+Follow-up inspections or enforcement actions, where warranted. 
+4. 
+REQUIREMENTS FOR INSPECTION OF GROUP III HAZARDOUS SUBSTANCES  
+Inspections of Group III hazardous substances shall assess compliance with the following minimum 
+requirements:  
+4.1 Licensing and Governance  
+• 
+Availability of Hazardous Substance Act, 15 of 1973, on site. 
+• 
+Availability of Regulations R1302 and 1332, on site. 
+• 
+Valid SAHPRA license covering the specific substances, activities, and locations. 
+• 
+Appointment and competence of a Radiation Protection Officer or Responsible Person. 
+• 
+Appointment of Medical Physicist where applicable. 
+• 
+Availability of a documented radiation protection programme and operating procedures. 
+• 
+Procedures for incident management and reporting to SAHPRA. 
+4.2 Radiation Protection and Safety 
+• 
+Application of the principles of (ALARA), justification, optimisation and dose limitation. 
+SAHPGL-RDN-INSP-03_v1 
+Page 7 of 11 
+Guideline on Minimum Requirements for Inspecting Group III and Group IV Hazardous Substances 
+15 June 2026 
+ 
+ 
+• 
+Adequate control of occupational and public exposure. 
+• 
+Use of personal dosimetry.  
+• 
+Workplace monitoring, where applicable. 
+4.3 Facilities, Storage and Security 
+• 
+Appropriate shielding. 
+• 
+Adequate access control, and signage. 
+• 
+Measures to prevent unauthorised use (in case of mobile units: loss or theft). 
+4.4 Equipment and Instrumentation 
+• 
+Availability of suitable radiation monitoring instruments. 
+• 
+Evidence of calibration. 
+• 
+ Quality Assurance (QA) programme. 
+• 
+ Maintenance and functionality of equipment. 
+4.5 Records, Incidents, and Reporting 
+• 
+Records of acquisition, use, transfer, and quality control testing.  
+• 
+Procedures for incident management and reporting to SAHPRA. 
+• 
+Occupational dose monitoring records. 
+• 
+Current proof of professional registration of all practitioners involved. 
+4.6 Inspection Frequency (Graded Approach – Group III)  
+Inspection frequency shall be determined based on risk, compliance history, and complexity of the practice, 
+and shall typically be: 
+• 
+High-risk Group III practices or poor compliance history: at least once every 12 months. 
+• 
+Moderate-risk Group III practices with satisfactory compliance: at least once every 24 months. 
+• 
+Low-risk Group III practices with demonstrated sustained compliance: at least once every 36 
+SAHPGL-RDN-INSP-03_v1 
+Page 8 of 11 
+Guideline on Minimum Requirements for Inspecting Group III and Group IV Hazardous Substances 
+15 June 2026 
+ 
+ 
+months. 
+5. 
+REQUIREMENTS FOR INSPECTION OF GROUP IV HAZARDOUS SUBSTANCES  
+Inspections of Group IV hazardous substances shall focus on the following minimum requirements:  
+5.1 Authorization and Governance   
+• 
+Renewed and current Authority detailing specific substances, activities, locations and covering 
+prescribed conditions. 
+• 
+Confirmation that the activity falls within the applicable authorization or exemption framework. 
+• 
+Appointment and competence of a Radiation Protection Officers (RPO and ARPO). 
+• 
+Appointment of Medical Physicists where required. 
+• 
+Awareness of Hazardous Substances Act No. 15 of 1973 and Regulations related to Group IV 
+Hazardous Substances, R246 and R247. 
+• 
+Availability of a documented radiation protection programme and operating procedures. 
+• 
+Procedures for incident management and reporting to SAHPRA. 
+• 
+Annually updated practice Internal Rules. 
+• 
+Evidence of Annual Returns submitted to Radiation Control: radionuclides sub-unit. 
+• 
+Register or documentation for disposal of radioactive waste.  
+• 
+Radioactive source register.  
+5.2 Safe Handling and Use   
+• 
+Implementation of basic radiation safety practices. 
+• 
+Adequate supervision and user training appropriate to the practice. 
+• 
+Implementation of Code of Practice regarding the safe handling and use of Group IV Hazardous 
+Substances. 
+SAHPGL-RDN-INSP-03_v1 
+Page 9 of 11 
+Guideline on Minimum Requirements for Inspecting Group III and Group IV Hazardous Substances 
+15 June 2026 
+ 
+ 
+5.3 Storage and Control 
+• 
+Appropriate shielding, storage and containment of radioactive substances. 
+• 
+Measures to prevent loss, damage, or unauthorised access. 
+• 
+Monthly inventory of all radioactive sources. 
+5.4 Radiation Awareness and Training  
+• 
+Evidence of basic radiation safety awareness training for users. 
+• 
+Availability of written safety instructions. 
+• 
+Awareness by the RPO and responsible person of regulatory obligations. 
+5.5 Equipment and Instrumentation   
+• 
+Availability of suitable radiation monitoring instruments (survey meters, if used on patients, they 
+must be calibrated). 
+• 
+Personal radiation monitoring dosimeters. 
+• 
+Radioactive source register (Logbooks). 
+• 
+In case of medical and research facilities: Hot laboratory availability and functioning (extractor 
+fans, fume hood, laminar flow cabinet, continuous flooring, lead-lined work areas, etc). 
+• 
+Evidence of Quality Assurance (QA) program, maintenance, and functionality of equipment. 
+5.6 Records and Incident Management  
+• 
+Basic inventory and leak tests records. 
+• 
+Occupational dose monitoring records. 
+• 
+Proof of professional registration of practitioners 
+• 
+Reporting and documentation of incidents or abnormal events, where applicable. 
+5.7 Inspection Frequency (Graded Approach – Group IV)  
+Inspection frequency shall be determined based on risk, compliance history, and complexity of the practice, 
+and shall typically be: 
+SAHPGL-RDN-INSP-03_v1 
+Page 10 of 11 
+Guideline on Minimum Requirements for Inspecting Group III and Group IV Hazardous Substances 
+15 June 2026 
+ 
+ 
+• 
+Higher-risk Group IV practices or identified compliance concerns: at least once every 12 months. 
+• 
+Moderate-risk Group IV practices with good compliance history: at least once every 24 - 48 
+months. 
+• 
+Very low-risk Group IV practices, inspections conducted on a reactive or sampling basis, or in 
+conjunction with other regulatory activities. 
+6. 
+REFERENCES 
+The following related documents are referenced: 
+6.1 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides, SAHPGL-RDN-RN-06. 
+6.2 
+INTERNATIONAL ATOMIC ENERGY AGENCY Code of Conduct on the Safety and Security of radioactive 
+sources, 2004 
+6.3 
+INTERNATIONAL ATOMIC ENERGY AGENCY, Inspection of Radiation Sources and Regulatory 
+Enforcement, IAEA-TECDOC-1526, IAEA, Vienna (2007).  
+6.4 
+INTERNATIONAL ATOMIC ENERGY AGENCY, Radiation Protection and Safety of Radiation Sources: 
+International Basic Safety Standards, IAEA Safety Standards Series No. GSR Part 3, IAEA, Vienna 
+(2014) 
+6.5 
+South Africa, 1973. Hazardous Substances Act No. 15 of 1973 in Government Gazette 3834.  
+6.6 
+South Africa. 1973. Regulations Concerning the Control of Electronic Products (Government Notice 
+R1332 in Government Gazette 3991 of 3 August 1973) issued under the Hazardous Substances Act, 
+1973 (Act No. 15 of 1973). 
+6.7 
+South Africa. 1989. Regulation relating to Group III hazardous substances, (Government Notice R 690 
+in Government Gazette 11823 of 14 April 1989) issued under the Hazardous Substances Act, 1973 
+(Act No. 15 of 1973). 
+6.8 
+South Africa. 1991. Hazardous Substances Act 15 of 1973: Regulations: Schedule of listed electronic 
+products (Government Notice R1302 in Government Gazette 13299 of 14 June 1991). 
+6.9 
+South Africa. 1993. Regulation relating to Group IV Hazardous Substances: Exclusions and 
+Exemptions, (Government Notice R246 in Government Gazette 14596 of 26 February 1993) issued 
+SAHPGL-RDN-INSP-03_v1 
+Page 11 of 11 
+Guideline on Minimum Requirements for Inspecting Group III and Group IV Hazardous Substances 
+15 June 2026 
+ 
+ 
+under the Hazardous Substances Act, 1973 (Act No. 15 of 1973) 
+6.10 South Africa. 1993. Regulations relating to Group IV Hazardous Substances (Government Notice R247 
+in Government Gazette 14596 of 26 February 1993). 
+7. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision. It will be reviewed on this 
+timeframe or as and when required. 
+ 
+

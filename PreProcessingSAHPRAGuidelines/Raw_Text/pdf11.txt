@@ -1,0 +1,573 @@
+SAHPGL-MD-19_v1 
+Page 1 of 15
+ 
+ 
+ 
+8 May 2026 
+GUIDELINE FOR PREPARATION OF A SITE MASTER FILE (SMF) 
+FOR WHOLESALERS OF MEDICAL DEVICES 
+This document serves as a guideline to assist applicants to comply with the requirements for a Site Master 
+File (SMF) regarding the wholesaling of medical devices (including In vitro diagnostics (IVDs)). The South 
+African Health Products Regulatory Authority (SAHPRA) is committed to ensure that all premises where 
+medical devices are procured and stored for the purposes of selling to retailers and end users are of the 
+required quality, safety and performance, and that wholesaling activities are conducted comply with statutory 
+requirements and complies with acceptable quality assurance principles and good wholesale practices as 
+determined by the Authority.  
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[08 May 2026] 
+1 
+First publication released for implementation 
+May 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-MD-19_v1 
+Page 2 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 5 
+1.1 
+Purpose ...................................................................................................................................................... 5 
+1.2 
+Scope .......................................................................................................................................................... 5 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 5 
+3. 
+REQUIREMENTS OF A SITE MASTER FILE.................................................................................................... 5 
+3.1 
+General ....................................................................................................................................................... 5 
+3.1.1 Brief information on the site, any information relevant to understanding the wholesaling operations. . 6 
+3.1.2 Name, physical address of the site and contact details ............................................................................. 6 
+3.1.3 List of medical devices (including IVDs) procured and stored on site, and information about the 
+handling, storage conditions and transportation of medical devices on site (mentioning any special 
+precautions taken for storage, e.g., dedicated facility, fridge items, etc.) .......................................................... 6 
+3.1.4 Use of third-party service providers in relation to wholesaling activities, if applicable ............................ 7 
+3.1.5 Description of the Quality Management System (QMS) of the wholesaling facility and activities ........... 7 
+3.2 
+. PERSONNEL .............................................................................................................................................. 7 
+3.2.1 Organisational chart showing the arrangements for key personnel ......................................................... 7 
+3.2.2 Qualifications, experience, and responsibilities of key personnel ............................................................. 8 
+3.2.3 Outline of arrangements for basic and in-service training and how records are maintained ................... 8 
+3.2.4 Health and safety management requirements for personnel engaged in wholesaling ............................ 8 
+3.3 
+PREMISES AND EQUIPMENT ...................................................................................................................... 9 
+3.3.1 Site plan or description of wholesaling areas (size, location and immediate environment and other 
+wholesaling activities on the site), with indication of scale (architectural or engineering drawings are not 
+required) ............................................................................................................................................................... 9 
+3.3.2 Brief description of ventilation systems (More detail should be given for critical areas providing special 
+storage conditions) ............................................................................................................................................... 9 
+3.3.3 Special areas for the handling of highly toxic, hazardous, fridge-line and radio-active medical devices 
+(including IVDs) ................................................................................................................................................... 10 
+3.3.4 Site maintenance (description of planned preventive maintenance programmes and recording system)
+ 
+10 
+3.3.5 Availability of written specifications and procedures for cleaning wholesaling areas and equipment .. 10 
+3.3.6 Policy on the storage of medical devices (including IVDs) ....................................................................... 11 
+3.4 
+STOCK HANDLING AND STOCK CONTROL ................................................................................................ 11 
+3.4.1 Arrangements and recording system for wholesaling ............................................................................. 11 
+SAHPGL-MD-19_v1 
+Page 3 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+3.4.2 Deliveries and transportation .................................................................................................................. 12 
+3.5 
+DOCUMENTATION .................................................................................................................................... 12 
+3.5.1 Arrangements for the preparation, revision, storage, and distribution of necessary documentation for 
+wholesaling activities. Any other documentation related to product quality which is not mentioned 
+elsewhere. .......................................................................................................................................................... 12 
+3.6 
+MEDICAL DEVICE COMPLAINTS AND FIELD SAFETY CORRECTIVE ACTIONS ............................................ 13 
+3.6.1 System for the handling of complaints of medical devices ...................................................................... 13 
+3.6.2 Arrangements for handling of field safety corrective actions.................................................................. 13 
+3.7 
+INTERNAL AUDITS ..................................................................................................................................... 14 
+3.7.1 Short description of the internal audit system ........................................................................................ 14 
+4. 
+REFERENCES ............................................................................................................................................. 14 
+5. 
+VALIDITY ................................................................................................................................................... 14 
+ANNEXURE A ....................................................................................................................................................... 15 
+Categories of medical devices handled at this site ............................................................................................ 15 
+ 
+ 
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 4 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+GWP 
+Good Warehouse Practice/ Good Wholesaling Practice - Means a scope of 
+compliance requirements for the control of wholesaler operations of a 
+medical device. 
+IVD 
+In-Vitro Diagnostic medical device 
+FIFO 
+First-In, First-Out - Means a system where the first medical device received is 
+the first to be dispatched. 
+QA 
+Quality Assurance - Means the responsibility and activity of ensuring that the 
+warehouse facility and wholesaling systems meet GWP. 
+QMS 
+Quality Management System - Means collective policies, plans, practices, and 
+the supporting infrastructure by which an organization aims to reduce and 
+eventually eliminate non-conformances to specifications, standards, and 
+customer expectations in the most cost effective and efficient manner. 
+RUO  
+Research Use Only 
+SMF 
+For the purpose of this document, a Site Master File is a document prepared by 
+the medical device and IVD wholesaler and should contain specific information 
+about the quality management policies and activities of the site, the quality 
+control of wholesaling activities carried out at the named site and any closely 
+integrated operations at adjacent and nearby buildings. 
+Wholesaler 
+Means a dealer who purchases a medical device from a licensed manufacturer 
+or distributor and sells to a retailer or end user in terms of Section 22H of the 
+Medicines and Related Substances Act, 101 of 1965. 
+ 
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 5 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+1. INTRODUCTION 
+The Site Master File (SMF) is a mandatory supporting document for a medical device establishment license 
+application in accordance with section 22C of the Medicines and Related Substances Act (Act 101 of 1965).  
+The Site Master File (SMF) is prepared by the wholesaler, and it contains specific information about the quality 
+assurance and/or quality control of medical device wholesaling operations performed at the site and any 
+closely integrated operations as adjacent and nearby buildings. A Quality Manual (QM) which is applicable to 
+Manufacturers and Distributors (Importers) is also sufficient when submitting a medical device establishment 
+licence application for wholesalers. 
+1.1 Purpose 
+This document guides medical device wholesaler applicants on preparation of a SMF. 
+1.2 Scope 
+This guideline is applicable for the preparation of a SMF that is used for application of medical device 
+establishment license for wholesaler.  
+This guideline is not applicable for the QM document required for application of medical device including IVDs 
+establishment license for manufacturers and/or distributors (importers). 
+2. LEGAL PROVISION 
+a) Medicines and Related Substances Act, 101 of 1965, as amended 
+b) Regulations relating to medical devices (including IVDs) 
+c) Hazardous Substances Act, 15 of 1973, as amended 
+3. REQUIREMENTS OF A SITE MASTER FILE 
+3.1 General 
+The SMF must have an issue number and an effective date, and must be updated when a major amendment 
+or upgrade is made within the operations or when key activities and/or key personnel change.  
+An updated SMF must be submitted for the renewal application of a medical device establishment licence 
+every five years or for any amendment application thereof. Wherever possible, digitized plans or schematic 
+layouts should be included instead of a narrative.  
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 6 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+3.1.1 Brief information on the site, any information relevant to understanding the 
+wholesaling operations. 
+ 
+GUIDANCE 
+a) Outline the company’s wholesaling activities. 
+3.1.2 Name, physical address of the site and contact details 
+ 
+GUIDANCE 
+a) Name of company 
+b) Physical address of the site 
+c) Telephone number for office hours 
+d) E-mail address of contact person 
+3.1.3 List of medical devices (including IVDs) procured and stored on site, and information 
+about the handling, storage conditions and transportation of medical devices on site 
+(mentioning any special precautions taken for storage, e.g., dedicated facility, fridge 
+items, etc.) 
+ 
+GUIDANCE 
+a) List the product Risk Classification and Type of medical devices (including IVDs) procured, 
+handled, or stored on site. See Annexure A. 
+b) List any toxic, hazardous, highly sensitising substances and radio-active medical devices, 
+e.g., biological reagent and radioactive material 
+c) Indicate special precautions taken for such medical devices. 
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 7 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+3.1.4 Use of third-party service providers in relation to wholesaling activities, if applicable 
+ 
+GUIDANCE 
+For each third-party service provider, provide the following information: 
+a) Physical address of the company 
+b) Telephone number 
+c) E-mail address 
+d) Brief outline of the activities being undertaken 
+3.1.5 Description of the Quality Management System (QMS) of the wholesaling facility and 
+activities 
+ 
+GUIDANCE 
+a) State the wholesaler’s Quality Policy. 
+b) List the processes of the Quality Assurance (QA) system, e.g., organizational structure, 
+responsibilities, procedures. 
+c) Describe the audit programs (self-inspection or audits by external organizations 
+undertaken). 
+3.2 . PERSONNEL 
+3.2.1 Organisational chart showing the arrangements for key personnel 
+ 
+GUIDANCE 
+a) Organogram listing key personnel responsible for wholesaling activities. 
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 8 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+3.2.2 Qualifications, experience, and responsibilities of key personnel 
+ 
+GUIDANCE 
+a) Brief details of academic qualifications, work-related experience, and years of relevant 
+experience since qualifying. 
+b) Provide a brief job description for key personnel. 
+3.2.3 Outline of arrangements for basic and in-service training and how records are 
+maintained 
+ 
+GUIDANCE 
+a) Describe how training needs are identified and by whom. 
+b) Provide details of training related to GWP requirements. 
+c) State the form of training, e.g., in-house, external, and how practical experience is gained, 
+and which staff are involved. 
+d) Explain how the effectiveness of the training is assessed, e.g., by questionnaires. 
+e) Explain how retraining needs are identified. 
+f) Give brief details of the type of training records kept. 
+3.2.4 Health and safety management requirements for personnel engaged in wholesaling 
+ 
+GUIDANCE 
+a) Give brief details, e.g., name, designation, qualification, contact number of personnel 
+responsible for ensuring the safety of employees. 
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 9 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+3.3 PREMISES AND EQUIPMENT 
+3.3.1 Site plan or description of wholesaling areas (size, location and immediate 
+environment and other wholesaling activities on the site), with indication of scale 
+(architectural or engineering drawings are not required) 
+ 
+GUIDANCE 
+a) Provide a site plan indicating the location of the site and surrounding area as well as 
+highlighting all wholesaling and other functional areas. 
+b) Include a description of the site, the location and immediate environment and the size of 
+the site and types of building 
+c) Give a brief description of the controls available to prevent unauthorized access. 
+d) Provide a floor plan of each area with an indication of scale. Label areas and annotate the 
+plan with names. 
+ 
+3.3.2 Brief description of ventilation systems (More detail should be given for critical areas 
+providing special storage conditions) 
+ 
+GUIDANCE 
+Provide a brief description of ventilation systems with more detail for critical storage areas (provide 
+schematic drawings). 
+Include the following data: 
+a) Specification of air supply 
+b) Temperature 
+c) Humidity 
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 10 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+3.3.3 Special areas for the handling of highly toxic, hazardous, fridge-line and radio-active 
+medical devices (including IVDs) 
+ 
+GUIDANCE 
+a) Provide the same layout as above in Section 3.3.1 for the description of areas specifically 
+designated for the handling of highly toxic, hazardous, fridge-line and radioactive medical 
+devices. 
+3.3.4 Site maintenance (description of planned preventive maintenance programmes and 
+recording system) 
+ 
+GUIDANCE 
+a) Describe the preventative maintenance programme. 
+b) Mention the person responsible for the maintenance and servicing of equipment. 
+c) Provide written procedures and contractual details for third-party service providers. 
+d) Provide written procedures and suitable reporting forms for maintenance and servicing of 
+wholesaling equipment. 
+e) Mention the documentation process involved in recording the type and frequency of services 
+and checks, including the details of service, repairs and modifications to wholesaling 
+equipment. 
+f) Describe and identify maintenance routines that could possibly affect the medical device 
+including IVDs quality. 
+3.3.5 Availability of written specifications and procedures for cleaning wholesaling areas and 
+equipment 
+ 
+GUIDANCE 
+a) Provide cleaning procedures for each area. 
+b) Provide cleaning methods and frequencies used for delivery vehicles. 
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 11 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+3.3.6 Policy on the storage of medical devices (including IVDs) 
+ 
+GUIDANCE 
+a) Describe how medical devices (including IVDs) are segregated and controlled, e.g., by 
+computer, labels, etc. 
+b) Describe how medical devices are stored, e.g., pallet racking. 
+c) Describe any special storage or handling conditions. 
+d) Describe pest control management. 
+3.4 STOCK HANDLING AND STOCK CONTROL 
+3.4.1 Arrangements and recording system for wholesaling 
+ 
+GUIDANCE 
+a) Description of receiving, handling and storage of medical devices: 
+b) Inspection of medical devices (including IVDs) at point of receipt. 
+c) Describe how batch/lot numbers and expiry dates are managed during the receipt and 
+dispatch of stock. Additionally, describe the inventory management system method 
+followed to ensure proper stock rotation. 
+d) Describe the methods of distribution used to customers, e.g., post, courier, van services, 
+customer collection, etc. 
+e) Records of distribution: Describe how the retained records permit full batch traceability 
+from the Original Equipment Manufacturer to the customer, in terms of the date of sale, 
+customer details, and quantity dispatched. 
+f) Describe stock-take procedures, including information on the manner and frequency in 
+which inventory control is conducted. 
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 12 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+3.4.2 Deliveries and transportation 
+ 
+GUIDANCE 
+a) Description of how the security, storage conditions and protection of the quality of medical 
+devices (including IVDs) are maintained during transportation. 
+b) Description of the vehicle fleet available: 
+c) Number of vehicles and their capacity 
+d) Details of the vehicle specially adapted to transport special medical devices (e.g., cold items, 
+radioactive medical devices) when applicable. 
+e) How the transport route is planned (e.g., cold items, radioactive medical devices). 
+3.5 DOCUMENTATION 
+3.5.1 Arrangements for the preparation, revision, storage, and distribution of necessary 
+documentation for wholesaling activities. Any other documentation related to product 
+quality which is not mentioned elsewhere. 
+ 
+GUIDANCE 
+Arrangements for the preparation, revision and distribution of documentation: 
+a) Provide a description of the documentation system. 
+b) State the personnel responsible for the preparation, revision, and distribution of 
+documentation. 
+c) Specify where the master documents will be stored. 
+d) State the standard format and instructions on how documents are to be prepared. 
+e) Describe how documentation is controlled. 
+f) State the period for keeping the documents (e.g. five years etc). 
+g) Detail any arrangements for electronic records. 
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 13 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+3.6 MEDICAL DEVICE COMPLAINTS AND FIELD SAFETY CORRECTIVE ACTIONS 
+3.6.1 System for the handling of complaints of medical devices 
+ 
+GUIDANCE 
+a) Describe the procedure for medical device complaints. 
+b) State the personnel responsible for logging, classifying, and investigating complaints. 
+c) State if written reports of complaints will be prepared and the personnel responsible for 
+reviewing the reports. 
+d) State the period for keeping the records of complaints (e.g. five years etc) 
+3.6.2 Arrangements for handling of field safety corrective actions 
+ 
+GUIDANCE 
+a) State the written procedures that are in place in the following processes: 
+b) Retrieval of distribution data. 
+c) Notification of customers. 
+d) Receipt/segregation/inspection of returned medical devices. 
+e) Investigation and reporting of complaints and adverse events. 
+f) Reporting corrective action. 
+g) State the personnel responsible for coordinating field safety corrective actions. 
+h) State who should notify the Authority of field safety corrective action. 
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 14 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+3.7 INTERNAL AUDITS 
+3.7.1 Short description of the internal audit system 
+ 
+GUIDANCE 
+a) Describe how the internal audit system verifies that those activities that have a bearing on 
+medical device quality comply with the planned arrangement. 
+b) State documented procedures that are in place for self-inspection and any applicable follow-
+up actions. 
+c) State whether the results of the internal audit will be documented and brought to the 
+attention of the personnel responsible for the areas and activities that are being inspected. 
+d) State whether corrective actions will be taken to address deficiencies found in the audit in 
+a timely manner. 
+4. REFERENCES 
+The following related documents are referenced: 
+a) Singapore Health Science Authority, GN-03: Guidance and Preparation of a Site Master File for 
+Licensing 
+b) Medicines and Related Substance Act, 101 of 1965, as amended 
+c) Regulations relating to Medical Devices and In Vitro Diagnostic Medical Devices (IVDs) 
+d) World Health Organization, WHO Technical Report Series, No.961, 2011 
+e) GLF-MD-06B Licence Application Medical Device Wholesaler Form 
+f) SAHPGL-MD-05 Guideline on Medical Device Quality Manual 
+ 
+5. VALIDITY 
+This guideline document is valid for a period of five (5) years from the effective date of publication. It will be 
+reviewed in line with this timeframe or as and when required. 
+ 
+ 
+SAHPGL-MD-19_v1 
+Page 15 of 15
+PREPARATION OF A SITE MASTER FILE (SMF) FOR WHOLESALERS OF MEDICAL DEVICES 
+8 May 2026 
+ 
+ 
+ANNEXURE A 
+ 
+Categories of medical devices handled at this site 
+Please indicate by ticking the appropriate box/boxes with an X:  
+Type of Medical Device: 
+Class of Medical Device 
+A 
+B 
+C 
+D 
+RUO 
+Sterile 
+ 
+ 
+ 
+ 
+ 
+Measuring Medical Device 
+ 
+ 
+ 
+ 
+ 
+Blood storage / transportation 
+product 
+ 
+ 
+ 
+ 
+ 
+Non-Invasive 
+ 
+ 
+ 
+ 
+ 
+Invasive 
+Medical 
+Device 
+< 60 min 
+ 
+ 
+ 
+ 
+ 
+> 60 min & < 30 days 
+ 
+ 
+ 
+ 
+ 
+> 30 days 
+ 
+ 
+ 
+ 
+ 
+Inactive Medical Device 
+ 
+ 
+ 
+ 
+ 
+Active Medical Device 
+ 
+ 
+ 
+ 
+ 
+Contraceptive 
+ 
+ 
+ 
+ 
+ 
+Combination Medical Device 
+ 
+ 
+ 
+ 
+ 
+IVD 
+ 
+ 
+ 
+ 
+ 
+ 
+

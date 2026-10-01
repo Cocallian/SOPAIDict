@@ -1,0 +1,241 @@
+SAHPGL-RDN-XR-23_v1 
+Page 1 of 7
+ 
+ 
+ 
+12 September 2022 
+GUIDELINE FOR CT EXAMINATIONS PRE-LICENCING 
+REQUIREMENTS: RADIOLOGIST AVAILABLE BY REMOTE DIGITAL 
+CONNECTION 
+To provide guidance when applying to license to Use a Computed Tomography system where a Radiologist is available 
+only by remote connection. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+August 2012 
+1 
+- 
+Content structured on the latest SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-XR-23 allocated to this 
+Guideline 
+September 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-23_v1 
+Page 2 of 7
+Guideline for CT Examinations Pre-licensing Requirements: Radiologist Available by Remote Digital 
+Connection 
+12 September 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+PROCEDURE ............................................................................................................................................... 4 
+3.1 The applicant must provide the following information in writing and submit the applicable ................. 4 
+3.2 CT Protocols: .............................................................................................................................................. 4 
+3.3 Rules for requesting CT examinations: ...................................................................................................... 4 
+3.4 RSSA Policy on CT Examinations: ............................................................................................................... 6 
+4. 
+REFERENCES ............................................................................................................................................... 7 
+5. 
+VALIDITY .................................................................................................................................................... 7 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-23_v1 
+Page 3 of 7
+Guideline for CT Examinations Pre-licensing Requirements: Radiologist Available by Remote Digital 
+Connection 
+12 September 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term Meaning 
+CT Examination 
+A computerized tomography (CT) examination combines a series of X-Ray 
+images taken from different angles around your body and uses computer 
+processing to create cross-sectional images (slices) of the bones, blood vessels 
+and soft tissues inside your body. 
+ 
+Radiologist 
+Radiologists are medical doctors that specialize in diagnosing and treating 
+injuries and diseases using medical imaging (radiology) procedures 
+(exams/tests) such as X-Rays, computed tomography (CT), magnetic resonance 
+imaging (MRI), nuclear medicine, positron emission tomography (PET) and 
+ultrasound. 
+ 
+Teleradiology 
+Teleradiology involves first obtaining medical images, following by the viewing 
+and interpretation of these images for diagnostic or consultative purposes by a 
+radiologist. 
+ 
+The process of teleradiology is based on an essential triad; an image sending 
+station, a transmission network, and a receiving image station that must have 
+a high-quality display screen that has been cleared for clinical purposes 
+RSSA 
+Radiological Society of South Africa 
+ 
+ 
+ 
+SAHPGL-RDN-XR-23_v1 
+Page 4 of 7
+Guideline for CT Examinations Pre-licensing Requirements: Radiologist Available by Remote Digital 
+Connection 
+12 September 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Radiology encompasses the diverse techniques used by medical professionals to capture images of the internal 
+body to aid in the process of diagnosis or treatment. These imaging techniques can include X-Ray imaging, 
+computed tomography (CT), magnetic resonance imaging (MRI), and several others. 
+The advantages of CT over X-Ray radiography are that it enables a three-dimensional insight into the body, giving 
+a more accurate presentation of the area of interest, which makes it a valuable diagnostic tool.  Remote reporting 
+of radiological images addresses the lack of adequate staff and has the potential to improve patient care by 
+ensuring availability of Radiologists to the larger population especially those in outlying areas. 
+1.1 
+Purpose 
+To ensure access to computed tomography services via remote digital connection. 
+1.2 
+Scope 
+To prescribe minimum requirements and supporting documents when applying for a license to a Use a 
+Computed Tomography System in cases where a Radiologist is not available in person. 
+2. 
+LEGAL PROVISION 
+The SAHPRA Radiation control regulates ionizing devices as promulgated by the hazardous Substances 15 of 1973 
+with its related regulations R1332 concerning the control of electronic products. 
+3. 
+PROCEDURE 
+3.1 
+The applicant must provide the following information in writing and submit the 
+applicable documents: 
+- 
+Proof of remote digital connection. 
+- 
+Signed contracts between the hospital and radiologist/s concerned. 
+3.2 
+CT Protocols: 
+- 
+Scan protocols must be available for each CT examination.   
+- 
+Exposure parameters must be optimized for each examination to minimize radiation dose while 
+providing the necessary information to allow for diagnosis.   
+- 
+Must include procedures/actions to minimize radiation dose to children and young adults. 
+3.3 
+Rules for requesting CT examinations: 
+- 
+Medical Specialists may request CT examinations. 
+- 
+General Practitioners (GP) working in an Emergency Room environment are restricted to 
+SAHPGL-RDN-XR-23_v1 
+Page 5 of 7
+Guideline for CT Examinations Pre-licensing Requirements: Radiologist Available by Remote Digital 
+Connection 
+12 September 2022 
+ 
+ 
+requesting CT examinations in cases with acute trauma (head, spinal and body), acute 
+Cerebrovascular Accidents, Computed Tomography examinations for acute pulmonary 
+embolisms. 
+- 
+General Practitioners in hospital/general practice restricted to requesting CT scans of the brain 
+and limited CT scans of the paranasal sinuses. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-23_v1 
+Page 6 of 7
+Guideline for CT Examinations Pre-licensing Requirements: Radiologist Available by Remote Digital 
+Connection 
+12 September 2022 
+ 
+ 
+3.4 
+RSSA Policy on CT Examinations: 
+ 
+SAHPGL-RDN-XR-23_v1 
+Page 7 of 7
+Guideline for CT Examinations Pre-licensing Requirements: Radiologist Available by Remote Digital 
+Connection 
+12 September 2022 
+ 
+ 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+Guideline for Reducing Radiation Risk from Computer Tomography for Pediatric and Small Adult 
+patients 
+(SAHPGL-RDN-XR-06), 
+https://www.sahpra.org.za/document/guideline-for-reducing-
+radiation-risk-from-computer-tomography-for-pediatric-and-small-adult-patients/ 
+4.2 
+Guideline for Code of Practice for Users of Medical X-Ray Equipment (SAHPGL-RDN-XR-02), 
+https://www.sahpra.org.za/document/guideline-for-code-of-practice-for-users-of-medical-xray 
+equipment 
+4.3 
+Hazardous Substance Act 15 of 1973 (Act 15, of 1973), https://www.sahpra.org.za/radiation-control-
+acts-and-regulations/.  
+4.4 
+Regulation 
+concerning 
+the 
+control 
+of 
+electronic 
+products, 
+(R1332), 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/. 
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline for 
+CT Examinations Pre-licensing Requirements: Radiologist only Available by Remote Digital Connection, revised 
+August 2012. It will be reviewed on this timeframe or as and when required. 
+

@@ -1,0 +1,194 @@
+SAHPGL-RDN-RN-15_v2  
+Page 1 of 6 
+ 
+ 
+ 
+8 February 2024 
+IDENTIFICATION AND LABELLING OF RADIOACTIVE SOURCES 
+AND SOURCE CONTAINERS 
+The hazardous nature of radioactive sources requires regulatory control and identification to support cradle-
+to-grave tracking of the sources. Thus, to ensure that the regulatory control of the radioactive sources and 
+source containers, strict regulatory requirements are outlined on this document which requires the 
+radioactive sources and source containers to have clear means of identification from cradle-to-grave. 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+Old document revision 
+03 October 2014 
+2 
+New document revision 
+ February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-RDN-RN-15_v2 
+Page 2 of 6 
+IDENTIFICATION AND LABELLING OF RADIOACTIVE SOURCES AND SOURCE CONTAINERS 
+8 February 2024 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................ 1 
+Glossary ............................................................................................................................................................... 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+REGULATORY REQUIREMENTS .................................................................................................................. 5 
+4. 
+EFFECTIVE DATE ......................................................................................................................................... 5 
+5. 
+REVIEW OF REGULATORY REQUIREMENTS ............................................................................................... 6 
+6. 
+PREVIOUS REQUIREMENTS AND CIRCULARS ............................................................................................. 6 
+7. 
+REFERENCES ............................................................................................................................................... 6 
+8. 
+VALIDITY .................................................................................................................................................... 6 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-RN-15_v2 
+Page 3 of 6 
+IDENTIFICATION AND LABELLING OF RADIOACTIVE SOURCES AND SOURCE CONTAINERS 
+8 February 2024 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+SAHPRA 
+South African Regulatory Products Authority 
+IAEA 
+International Atomic Energy Agency 
+ 
+ 
+ 
+SAHPGL-RDN-RN-15_v2 
+Page 4 of 6 
+IDENTIFICATION AND LABELLING OF RADIOACTIVE SOURCES AND SOURCE CONTAINERS 
+8 February 2024 
+ 
+ 
+1. 
+INTRODUCTION 
+Radioactive sources, both sealed and unsealed, are widely used in medical and industrial applications in South 
+Africa. Some of the sources are manufactured in South Africa, while others are imported. The hazardous 
+nature of radioactive sources requires regulatory control and identification to support cradle-to-grave tracking 
+of the sources. 
+1.1 Purpose 
+The purpose of these Regulatory Requirements is to ensure that radioactive sources can be traced. This 
+requires clear means of identification of radioactive sources and source containers. 
+1.2 Scope 
+These requirements shall apply to all radioactive sources, source containers and equipment containing 
+radioactive sources used in South Africa. 
+2. 
+LEGAL PROVISION 
+These Regulatory Requirements are based on: 
+2.1 International Standards: IAEA Code of Conduct on the Safety and Security of Radioactive Sources: 
+Guidance on the Import and Export of Radioactive Sources. 
+2.2 The Hazardous Substances Act (15 of 1973) and Regulations R247 of 1993 related to the Act. 
+2.3 The need for cradle-to-grave tracking of sealed radioactive sources. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-RN-15_v2 
+Page 5 of 6 
+IDENTIFICATION AND LABELLING OF RADIOACTIVE SOURCES AND SOURCE CONTAINERS 
+8 February 2024 
+ 
+ 
+3. 
+REGULATORY REQUIREMENTS 
+3.1 Every sealed radioactive source produced in South Africa, imported into South Africa and/or used in 
+South Africa shall have a uniquely identifiable serial number allocated by the manufacturer's 
+documented numbering system and printed on the source capsule. 
+3.2 All new radioactive sources produced in South Africa or imported into this country for the first time 
+must be accompanied by a copy of the original calibration certificate. The certificate must always be 
+in the possession of the current owner of the source. The distributor must keep a copy, and a copy 
+must be provided to Radiation Control each time the source changes hands. 
+3.3 Every item of equipment containing radioactive sources, and every container used to store or transport 
+radioactive sources, must have a container serial number clearly displayed on it. 
+3.3.1 The container (or equipment) must have a label permanently fixed to it at all times, displaying 
+the following information clearly and legibly: 
+• 
+the radionuclides(s) (e.g., Cs-137)  
+• 
+the activity of the source at calibration (e.g., 370 MBq or 1,0 mCi) 
+• 
+the date of calibration 
+• 
+the serial number(s) of the source(s) as well as the source container (if applicable) 
+• 
+the radiation trefoil  
+3.3.2 The way in which the label is fixed to the container must not degrade the integrity of the 
+radiation shielding.  
+3.4 A radioactive source may be transferred from one piece of equipment or container to another only by 
+a qualified source handler and in an approved facility, The company responsible for the source transfer 
+must be able to certify the information in 3.3.1 and 3.3.2 above for the new arrangement, 
+3.5 In the case of sealed radioactive sources, equipment containing radioactive sources, and source 
+containers already in circulation prior to the issuing of these requirements, the authority holder shall 
+provide Radiation Control with clear photos of the equipment/container and of the label as proof of 
+the identity of the source if no calibration certificate is available. 
+3.6 Special cases that require deviation or exemption from any of these requirements will be considered 
+on an ad hoc basis. 
+3.7 Any container used for unsealed sources must be labelled with a nonremovable label that includes the 
+information in 3.3.1 as well as the manufacturer's name and the batch number of the radionuclide. 
+4. 
+EFFECTIVE DATE 
+These requirements are valid as of the date of approval by SAHPRA.  
+ 
+SAHPGL-RDN-RN-15_v2 
+Page 6 of 6 
+IDENTIFICATION AND LABELLING OF RADIOACTIVE SOURCES AND SOURCE CONTAINERS 
+8 February 2024 
+ 
+ 
+5. 
+REVIEW OF REGULATORY REQUIREMENTS 
+These Regulatory Requirements are subject to review as required. 
+6. 
+PREVIOUS REQUIREMENTS AND CIRCULARS 
+Any previous Regulatory Requirements and circulars on identification, labelling and certification of 
+radioactive sources are hereby replaced. 
+7. 
+REFERENCES 
+The following related documents are referenced: 
+7.1 International Standards: IAEA Code of Conduct on the Safety and Security of Radioactive Sources: 
+Guidance on the Import and Export of Radioactive Sources. 
+7.2 The Hazardous Substances Act (15 of 1973) and Regulations R247 of 1993 related to the Act. 
+8. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the RN-REQ-SRC-
+001. It will be reviewed on this timeframe or as and when required. 
+

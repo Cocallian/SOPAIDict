@@ -1,0 +1,722 @@
+SAHPGL-PEM-BIO-04_v2 
+Page 1 of 12
+1 September 2022 
+BIOLOGICAL MEDICINES STABILITY GUIDELINE 
+This guideline is intended to give guidance to applicants regarding the type of stability that should be provided 
+in support of the shelf-life of the biological medicines. It represents SAHPRA current thinking on the safety, 
+quality and efficacy of the biological medicines. This guideline is not intended as an exclusive approach. 
+SAHPRA reserves the right to request any additional information that may be deemed necessary to establish 
+the safety, quality and efficacy of a biological medicine in keeping with the knowledge that is current at the 
+time of evaluation.  Alternative approaches may be used but these should be scientifically and technically 
+justified. SAHPRA is committed to ensure that, all registered medicines are of the required quality, safety and 
+efficacy. It is therefore important that applicants adhere to all the administrative requirements to avoid delays 
+in the processing and evaluation of applications. This guideline is adopted from ICH Q5C guideline with minor 
+modification. Guidelines and application forms are available from the office of the CEO and on SAHPRA 
+website. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+1 
+Version 1: First publication released for comment 
+     25 June 2020 
+Published for comments 
+     25 July 2020 
+Deadline for comments 
+25 August 2020 
+Version 1: Finalised version for Implementation 
+09 October 2020 
+2 
+New number and new guideline template. 
+    01 September 2022 
+DR BOITUMELO SEMETE-MAKOKOTLELA 
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-PEM-BIO-04_v2  
+Page 2 of 12
+Biological Medicines Stability Guideline  
+ 
+1 September 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+GLOSSARY .......................................................................................................................................................... 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 5 
+1.1 Purpose ...................................................................................................................................................... 5 
+1.2. Scope ......................................................................................................................................................... 5 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 5 
+3 
+SELECTIONS OF BATCHES .......................................................................................................................... 6 
+3.1. Active Biological Substance (Bulk Material) .............................................................................................. 6 
+3.2. Intermediates ............................................................................................................................................ 6 
+3.3. Final Product .............................................................................................................................................. 6 
+3.4. Sample Selection ....................................................................................................................................... 7 
+4.        STABILITY-INDICATING PROFILE .............................................................................................................. 7 
+4.1.  Protocol ..................................................................................................................................................... 7 
+4.2.  Potency ..................................................................................................................................................... 8 
+4.3.  Purity and Molecular Characterization ..................................................................................................... 8 
+4.4. Other Product Characteristics .................................................................................................................... 9 
+5.  STORAGE CONDITIONS ................................................................................................................................. 9 
+5.1.  Temperature ............................................................................................................................................. 9 
+5.2.  Humidity .................................................................................................................................................... 9 
+5.3.  Accelerated and Stress Conditions .......................................................................................................... 10 
+5.4.  Container closure system ........................................................................................................................ 10 
+5.5.  Stability after Reconstitution of Freeze-Dried Product ........................................................................... 10 
+6.     TESTING FREQUENCY ............................................................................................................................... 10 
+7.     SPECIFICATIONS ....................................................................................................................................... 11 
+8.    LABELLING ................................................................................................................................................. 11 
+9.    PRESENTATION OF STABILITY DATA ......................................................................................................... 11 
+11. REFERENCES ............................................................................................................................................. 12 
+12. VALIDITY .................................................................................................................................................. 12 
+ 
+ 
+SAHPGL-PEM-BIO-04_v2  
+Page 3 of 12
+Biological Medicines Stability Guideline  
+ 
+1 September 2022 
+ 
+ 
+ 
+ 
+GLOSSARY 
+The following terms, which have been in general use, and their definitions, are provided to facilitate 
+interpretation of the guideline.  
+ 
+Abbreviation/ Term 
+Meaning 
+Bracketing  
+ 
+The design of a stability schedule so that at any time point, only the samples at 
+the extremes, for example of container size and/or dosage strengths, are 
+tested. The design assumes that those at the extremes represent the stability 
+of the intermediate samples. Where a range of dosage strengths are to be 
+tested, bracketing designs are particularly applicable if the strengths are very 
+closely related in composition. Where a range of sizes of immediate containers 
+is to be evaluated, bracketing designs may be applicable if the composition of 
+the material from which the containers are made, and the type of closure, are 
+the same throughout the range.  
+ 
+Degradation Product  
+ 
+A molecule resulting from a change in the active biological substance (bulk 
+material) brought about over time. For the purpose of stability testing of the 
+products described in this guideline, such changes could occur as a result of 
+processing or storage (e.g., by deamidation, oxidation, aggregation, 
+proteolysis). For biological products some degradation products may be active.  
+ 
+Dosage 
+Form/Preparation  
+ 
+A product type, for example solution, injection etc. that contains an active 
+biological substance generally but not necessarily, in association with inactive 
+ingredients. 
+Excipient  
+ 
+Anything other than the active biological substance in the dosage form.  
+ 
+Final Product (FP)  
+ 
+The dosage form in the final immediate packaging intended for marketing. 
+Impurity  
+ 
+Any component of the active biological substance (bulk material) or Final 
+product (final container product) which is not the chemical entity defined as 
+the active biological substance, an excipient, or other additives to the Final 
+product.  
+ 
+Intermediate  
+ 
+For biological products, a material produced during a manufacturing process 
+which is not the active biological substance or the Final product but whose 
+manufacture is critical to the successful production of the active biological 
+substance or the Final product. Generally, an intermediate will be quantifiable 
+and specifications will be established to determine the successful completion 
+of the manufacturing step prior to continuation of the manufacturing process. 
+This includes material which may undergo further molecular modification or be 
+held for an extended period prior to further processing. 
+Manufacturing 
+Scale 
+Production  
+ 
+Manufacture at the scale typically encountered in a facility intended for 
+product production for marketing. 
+ 
+Matrixing  
+ 
+The statistical design of a stability schedule such that only a fraction of the total 
+number of samples is tested at any specific sampling point. At a subsequent 
+SAHPGL-PEM-BIO-04_v2  
+Page 4 of 12
+Biological Medicines Stability Guideline  
+ 
+1 September 2022 
+ 
+ 
+sampling point, different sets of samples of the total number, would again be 
+tested. The design assumes that the stability of the samples tested represents 
+the stability of all samples.  The differences in the samples for the same product 
+should be identified as, for example, covering different batches, different 
+strengths, different sizes of the same container and closure, and possibly in 
+some cases, different container/closure systems. Matrixing permits reduced 
+testing when more than one variable is being evaluated. Thus, the design of the 
+matrix will be dictated by the factors that need to be covered and evaluated. 
+The potential complexity precludes inclusion of specific details and examples. 
+It is essential that, in each case, all batches are tested initially, and at the end, 
+of the long-term testing programme. 
+ 
+Pilot-Plant Scale  
+ 
+The production of the active biological substance or final product by a 
+procedure fully representative of and simulating that to be applied at 
+manufacturing scale. The methods of cell expansion, harvest, and product 
+purification should be identical except for the scale of production. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-BIO-04_v2  
+Page 5 of 12
+Biological Medicines Stability Guideline  
+ 
+1 September 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+ 
+The guidance stated in the ICH harmonized tripartite guideline “Stability Testing of New Drug Substances and 
+Products” (27 October 1993) applies in general to biological products. However, biological products have 
+distinguishing characteristics to which consideration should be given in any well-defined testing program 
+designed to confirm their stability during the intended storage period. The biological products are 
+particularly sensitive to environmental factors such as temperature changes, oxidation, light, ionic content, 
+and shear. Therefore, in order to ensure maintenance of biological activity and to avoid degradation, 
+stringent conditions for their storage are usually necessary. 
+The evaluation of stability may necessitate complex analytical procedures/ methodologies. Where applicable, 
+Assays for biological activity, should be part of the pivotal stability studies. Appropriate physicochemical, 
+biochemical and immunochemical methods for the analysis of the molecular entity and the quantitative 
+detection of degradation products should also be part of the stability program whenever purity and 
+molecular characteristics of the product permit use of these methodologies. 
+With the above concerns in mind, the applicant should develop the proper supporting stability data for a 
+biological product and consider many external conditions which can affect the product’s potency, purity and 
+quality. Furthermore, primary data to support a requested storage period for either drug substance or drug 
+product should be based on long-term, real-time, real-condition stability studies. Thus, the development of a 
+proper long-term stability program becomes critical to the successful development of a commercial product. 
+1.1 
+Purpose 
+This guideline is intended to give guidance to applicants regarding the type of stability that should be 
+provided in support of the shelf-life of the biological medicines. It represents SAHPRA current thinking on the 
+safety, quality and efficacy of the biological medicines.   
+1.2. 
+    Scope 
+This guideline is applicable to well-characterized proteins and polypeptides, their derivatives and products of 
+which they are components, and which are isolated from tissues, body fluids, cell cultures, or produced using 
+rDNA technology. Thus, the document covers the generation and submission of stability data for products 
+such as cytokines (interferons, interleukins, colony-stimulating factors, tumour necrosis factors), 
+erythropoietins, plasminogen activators, blood plasma factors, growth hormones and growth factors, 
+insulins, monoclonal antibodies, and vaccines consisting of well- characterized proteins or polypeptides. For 
+guidance regarding the stability requirements of conventional vaccines, applicants should consult the WHO 
+“Guidelines on stability evaluation of vaccines” and relevant TRS. This guideline also does not cover 
+antibiotics, allergenic extracts, heparins, vitamins, whole blood, or cellular blood components. 
+2. 
+LEGAL PROVISION 
+Medicines and Related Substances Act, 1965 (Act 101 of 1965), as amended and the relevant Regulations. 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-BIO-04_v2  
+Page 6 of 12
+Biological Medicines Stability Guideline  
+ 
+1 September 2022 
+ 
+ 
+3     SELECTIONS OF BATCHES  
+3.1. 
+ Active Biological Substance (Bulk Material) 
+3.1.1 
+Where bulk material is to be stored after being manufactured but before formulation and final 
+manufacturing, stability data should be provided on at least 3 batches for which manufacture, and 
+storage are representative of the manufacturing scale of production. A minimum of 6 months’ 
+stability data at the time of submission should be submitted in cases where storage periods greater 
+than 6 months are requested. 
+3.1.2 
+For active biological substances with storage periods of less than 6 months, the minimum amount of 
+stability data in the initial submission should be determined on a case-by-case basis. Data from pilot- 
+plant scale batches of drug substance produced at a reduced scale of fermentation and purification 
+may be provided at the time the dossier is submitted to SAHPRA together with a commitment to 
+place the first 3 manufacturing scale batches into the long-term stability program after approval. 
+3.1.3 
+The quality of the batches of active biological substance placed into the stability program should be a 
+representative of the quality of the material used in preclinical and clinical studies and of the quality 
+of the material to be made at manufacturing scale. In addition, the active biological substance (bulk 
+material) made at pilot-plant scale should be produced by a process and stored under conditions 
+representative of that used for the manufacturing scale. 
+3.1.4 
+The active biological substance entered into the stability program should be stored in containers 
+which properly represent the actual holding containers used during manufacture. Containers of 
+reduced size may be acceptable for drug substance stability testing provided that they are 
+constructed of the same material and use the same type of container/closure system that is intended 
+to be used during manufacture. 
+ 
+3.2.    Intermediates 
+3.2.1  During manufacture of biotechnological/biological products, the quality and control of certain 
+intermediates may be critical to the production of the final product. In general, the manufacturer 
+should identify intermediates and generate in-house data and process limits that assure their 
+stability within the bounds of the developed process. While the use of pilot-plant scale data is 
+permissible, the manufacturer should establish the suitability of such data using the manufacturing 
+scale process. 
+3.3. 
+Final Product 
+3.3.1. Stability information should be provided on at least 3 batches of final product representative of that 
+which will be used at manufacturing scale. Where possible, batches of final product included in 
+stability testing should be derived from different batches of bulk material. A minimum of 12 months’ 
+data at the time of submission should be submitted in cases where storage periods greater than 6 
+months are requested. 
+3.3.2. For Final products with storage periods of less than 6 months, the minimum amount of stability data 
+in the initial submission should be determined on a case-by-case basis. Final Product shelf life will be 
+based upon the actual data submitted in support of the application. Since shelf life is based upon the 
+real- time/real-temperature data submitted for review, continuous updates of the initial stability 
+data should occur during the review and evaluation process. The quality of the final product placed 
+on stability studies should be representative of the quality of the material used in the preclinical and 
+clinical studies. 
+3.3.3. Data from pilot-plant scale batches of final product may be provided at the time the dossier is 
+submitted to SAHPRA with a commitment to place the first 3 manufacturing scale batches into the 
+SAHPGL-PEM-BIO-04_v2  
+Page 7 of 12
+Biological Medicines Stability Guideline  
+ 
+1 September 2022 
+ 
+ 
+long-term stability program after approval. Where pilot-plant scale batches were submitted to 
+establish the shelf life for a product and, in the event that product produced at manufacturing scale 
+does not meet those long-term stability specifications throughout the shelf life period or is not 
+representative of the material used in preclinical and clinical studies, the applicant should notify the 
+appropriate regulatory authorities to determine a suitable course of action. 
+3.4. 
+Sample Selection 
+ 
+3.4.1. Where one product is distributed in batches differing in fill volume (e.g., 1ml, 2 ml, or 10 ml), units 
+(e.g., 10 units, 20 units, or 50 units), or mass (e.g., 1 mg, 2 mg, or 5 mg) samples to be entered into 
+the stability program may be selected on the basis of a matrix system and/or by bracketing (for more 
+information refer to ICH Q1D guideline). 
+3.4.2. Matrixing, i.e., the statistical design of a stability study in which different fractions of samples are 
+tested at different sampling points, should only be applied when appropriate documentation is 
+provided that confirms that the stability of the samples tested represents the stability of all samples. 
+The differences in the samples for the same drug product should be identified as, for example, 
+covering different batches, different strengths, different sizes of the same closure and possibly, in 
+some cases, different container/closure systems. 
+Matrixing should not be applied to samples with differences that may affect stability, such as 
+different strengths and different containers/closures, where it cannot be confirmed that the 
+products respond similarly under storage conditions. 
+3.4.3. Where the same strength and exact container/closure system is used for 3 or more fill contents, the 
+manufacturer may elect to place only the smallest and largest container size into the stability 
+program, i.e., bracketing. The design of a protocol that incorporates bracketing assumes that the 
+stability of the intermediate condition samples is represented by those at the extremes. In certain 
+cases, data may be needed to demonstrate that all samples are properly represented by data 
+collected for the extremes. 
+4.        STABILITY-INDICATING PROFILE  
+There is no single stability-indicating assay or parameter that profiles the stability characteristics of a 
+biotechnological/biological product. The manufacturer must propose a stability-indicating profile that 
+provides assurance that changes in the identity, purity and potency of the product will be detected. 
+ 
+At the time of submission, applicants should have validated the methods that comprise the stability- 
+Indicating profile and the data should be available for review. The determination of which tests should be 
+included will be product specific. The items emphasized in the following subsections are not intended to be 
+all-inclusive but represent product characteristics that should typically be documented to adequately 
+demonstrate product stability. 
+4.1.  
+Protocol 
+ 
+4.1.1  The dossier accompanying the application for product registration should include a detailed protocol 
+for the assessment of the stability of both active biological substance and Final product in support of 
+the proposed storage conditions and shelf life. 
+ 
+4.1.2  The protocol should include all necessary information which demonstrates the stability of the  
+ 
+biotechnological/biological product throughout the proposed shelf-life period including, for  
+ 
+example, well-defined specifications and test intervals. 
+SAHPGL-PEM-BIO-04_v2  
+Page 8 of 12
+Biological Medicines Stability Guideline  
+ 
+1 September 2022 
+ 
+ 
+ 
+4.2. 
+ Potency 
+ 
+4.2.1  When the intended use of a product is linked to a definable and measurable biological  
+ 
+activity, testing for potency should be part of the stability studies. For the purpose of stability  
+ 
+testing of the products described in this guideline, potency is the specific ability or capacity of  
+ 
+a product to achieve its intended effect. It is based on the measurement of some attribute of the  
+ 
+product and is determined by a suitable quantitative method. In general, potencies of 
+biotechnological/biological products tested by different laboratories can be compared in a  
+ 
+meaningful way only if expressed in relation to that of an appropriate reference material. For that  
+ 
+purpose, a reference material calibrated directly or indirectly against the corresponding national  
+ 
+or international reference material should be included in the assay. 
+ 
+4.2.2  Potency studies should be performed at appropriate intervals as defined in the stability  
+ 
+protocol and the results should be reported in units of biological activity calibrated, whenever  
+ 
+possible, against nationally or internationally recognized standard.  Where no national or   
+ 
+international reference standards exist, the assay results may be reported in in-house derived units 
+using a characterized reference material. 
+4.2.3 
+conjugation of the active biological ingredient(s) to a second moiety or binding to an adjuvant.  
+ 
+Dissociation of the active biological ingredient(s) from the carrier used in conjugates or  
+ 
+adjuvants should be examined in real-time/real- temperature studies (including conditions  
+ 
+encountered during shipment). The assessment of the stability of such products may be difficult  
+ 
+since, in some cases, in vitro tests for biological activity and physicochemical characterization  
+ 
+are impractical or provide inaccurate results. Appropriate strategies (e.g., testing the product  
+ 
+prior to conjugation/binding, assessing the release of the active compound from the second moiety,  
+ 
+in vivo assays) or the use of an appropriate surrogate test should be considered to overcome the  
+ 
+inadequacies of in vitro testing. 
+ 
+4.3. 
+ Purity and Molecular Characterization 
+ 
+4.3.1  For the purpose of stability testing of the products described in this guideline, purity is a  
+ 
+relative term. Due to the effect of glycosylation, deamidation, or other heterogeneities, the  
+ 
+absolute purity of a biological product is extremely difficult to determine. Thus, the purity of a  
+ 
+biological product should be typically assessed by more than one method and the purity value  
+ 
+derived is method dependent. For the purpose of stability testing, tests for purity should focus on  
+ 
+methods for determination of degradation products. 
+ 
+4.3.2  The degree of purity, as well as individual and total amounts of degradation products of the  
+ 
+biological product entered into the stability studies, should be reported and documented whenever  
+ 
+possible. Limits of acceptable degradation should be derived from the analytical profiles of  
+ 
+batches of the drug substance and drug product used in the preclinical and clinical studies. 
+ 
+4.3.3  The use of relevant physicochemical, biochemical and immunochemical analytical methodologies  
+ 
+should permit a comprehensive characterization of the drug substance and/or drug product (e.g.,  
+ 
+molecular size, charge, hydrophobicity) and the accurate detection of degradation changes that may  
+ 
+result from deamidation, oxidation, sulfoxidation, aggregation or fragmentation during storage. As  
+ 
+examples, methods    that    may    contribute    to    this    include    electrophoresis (SDS-PAGE, 
+ 
+immunoelectrophoresis, Western blot, isoelectrofocusing), high-resolution chromatography   (e.g., 
+reversed-phase chromatography, gel filtration, ion exchange, affinity chromatography), and peptide 
+SAHPGL-PEM-BIO-04_v2  
+Page 9 of 12
+Biological Medicines Stability Guideline  
+ 
+1 September 2022 
+ 
+ 
+ 
+mapping. 
+4.3.4  Wherever significant qualitative or quantitative changes indicative of degradation product  
+ 
+formation is detected during long-term, accelerated and/or stress stability studies, consideration  
+ 
+should be given to potential hazards and to the need for characterization and quantification of  
+ 
+degradation products 
+ 
+4.3.5  Within the long-term stability program. Acceptable limits should be proposed and justified,  
+ 
+considering the levels observed in material used in preclinical and clinical studies. 
+ 
+4.3.6  For substances that cannot be properly characterized or products for which an exact analysis  
+ 
+of the purity cannot be determined through routine analytical methods, the applicant should 
+propose and justify alternative testing methods. 
+ 
+4.4. Other Product Characteristics 
+ 
+The following product characteristics, though not specifically relating to-/biological products,  
+should be monitored and reported for the final product. 
+ 
+Visual appearance of the product (colour and opacity for solutions/suspensions; colour, texture and  
+dissolution time for powders), visible particulates in solutions or after the reconstitution of powders or 
+lyophilized cakes, pH, and moisture level of powders and lyophilized products. 
+ 
+Sterility testing or alternatives (e.g., container/closure integrity testing) should be performed at a minimum 
+initially and at the end of the proposed shelf-life. 
+ 
+Additives (e.g., Stabilizers, preservatives or excipients may degrade during the dating period of the drug 
+product. If there is any indication during preliminary stability studies that reaction or degradation of such 
+materials adversely affects the quality of the drug product, these items may need to be monitored during the 
+stability program. 
+ 
+The container/closure has the potential to adversely affect the product and should be carefully  
+evaluated (see below). 
+ 
+5.  STORAGE CONDITIONS  
+5.1. 
+ Temperature 
+ 
+Since most finished biological products need precisely defined storage temperatures, the storage  
+conditions for the real-time/real-temperature stability studies may be confined to the proposed   
+storage temperature. 
+5.2.  
+Humidity 
+ 
+5.2.1  Biological products are generally distributed in containers protecting them against humidity.  
+ 
+Therefore, where it can be demonstrated that the proposed containers (and conditions of storage)  
+ 
+afford sufficient protection against high and low humidity, stability tests at different relative  
+ 
+humidities can usually be omitted. Where humidity-protecting containers are not used, appropriate  
+ 
+stability data should be provided. 
+ 
+SAHPGL-PEM-BIO-04_v2  
+Page 10 of 12
+Biological Medicines Stability Guideline  
+ 
+1 September 2022 
+ 
+ 
+5.3.  
+Accelerated and Stress Conditions 
+ 
+5.3.1  As previously noted, the shelf life should be based on real-time/real-temperature data. However, it is 
+strongly suggested that studies be conducted on the active biological substance and final product 
+under accelerated and stress conditions. 
+5.3.2  Studies under accelerated conditions may provide useful support data for establishing the shelf life, 
+provide product stability information for future product development (e.g., preliminary assessment 
+of proposed manufacturing changes such as change in formulation, scale-up), assist in validation of 
+analytical methods for the stability program, or generate information which may help elucidate the 
+degradation profile of the active biological substance or final product. 
+5.3.3  Studies under stress conditions may be useful in determining whether accidental exposures to  
+ 
+conditions other than those proposed (e.g., during transportation) are deleterious to the product  
+ 
+and also, for evaluating which specific test parameters may be the best indicators of product 
+stability. Studies of the exposure of the drug substance or drug product to extreme conditions may 
+help to reveal patterns of degradation; if so, such changes should be monitored under proposed  
+ 
+storage conditions. 
+ 
+5.4.  
+Container closure system 
+ 
+5.4.1  Changes in the quality of the product may occur due to the interactions between the formulated 
+biological product and the container closure system. Where the lack of interactions cannot be 
+excluded in liquid products (other than sealed ampoules), stability studies should include samples 
+maintained in the inverted or horizontal position (i.e., in contact with the closure), as well as in the 
+upright position, to determine the effects of the closure on product quality. 
+5.4.2  Data should be s submitted for all different container closure system combinations that will  
+ 
+be marketed. 
+5.4.3 
+ In addition to the standard data necessary for a conventional single-use vial, the applicant should 
+demonstrate that the closure used with a multiple-dose vial is capable of withstanding the conditions 
+of repeated insertions and withdrawals so that the product retains its full potency, purity, and quality 
+for the maximum period specified in the instructions-for-use on containers, carton, and/professional 
+information (in-use stability). Such labelling should be in accordance with SAHPRA requirements. 
+ 
+5.5.  
+Stability after Reconstitution of Freeze-Dried Product 
+ 
+The stability of freeze-dried products after their reconstitution should be demonstrated for the conditions 
+and the maximum storage period specified on containers, carton, and/or package inserts. Such labelling 
+should be in accordance with SAHPRA requirements. 
+ 
+6.     TESTING FREQUENCY  
+ 
+6.1  
+The shelf-lives of biological products may vary from days to several years. Thus, it is difficult to draft 
+uniform guidelines regarding the stability study duration and testing frequency that would be 
+applicable to all types of biological products. With only a few exceptions, however, the shelf-lives for 
+existing products and potential future products will be within the range of 0.5 to 5 years. Therefore, 
+the guidance is based upon expected shelf-lives in that range. This takes into account the fact that 
+degradation of biological products may not be governed by the same factors during different 
+intervals of a long storage period. 
+SAHPGL-PEM-BIO-04_v2  
+Page 11 of 12
+Biological Medicines Stability Guideline  
+ 
+1 September 2022 
+ 
+ 
+6.2 
+ When shelf-lives of 1 year or less are proposed, the real-time stability studies should be conducted 
+monthly for the first 3 months and at 3-month intervals thereafter. 
+6.3 
+ For products with proposed shelf-lives of greater than 1 year, the studies should be conducted every 
+3 months during the first year of storage, every 6 months during the second year, and annually 
+thereafter. 
+6.4  
+While the testing intervals listed above may be appropriate in the pre-approval or pre-registration 
+stage, reduced testing may be appropriate after approval or registration where data are available 
+that demonstrate adequate stability. 
+6.5  
+Where data exist that indicate the stability of a product is not compromised, the applicant is 
+encouraged to submit a protocol which supports elimination of specific test intervals (e.g., 9-month 
+testing) for post- approval/post-registration, long-term studies. 
+ 
+7.     SPECIFICATIONS 
+ 
+7.1  
+Recommendations for maximum acceptable losses of activity, limits for physicochemical changes,  
+ 
+or degradation during the proposed shelf-life have not been developed for individual types or groups 
+of biological products but will be considered on a case-by-case basis. 
+7.2  
+Each product should retain its specifications within established limits for safety, purity, and potency 
+throughout its proposed shelf-life. These specifications and limits should be derived from all available 
+information using the appropriate statistical methods. 
+7.3  
+The use of different specifications for release and shelf life should be supported by sufficient data to 
+demonstrate that clinical performance is not affected. 
+ 
+8.    LABELLING 
+ 
+8.1  
+For most /biological active biological substances and final products, precisely defined storage 
+temperatures are recommended. Specific recommendations should be stated, particularly for active  
+ 
+biological substances and final products that cannot tolerate freezing. These conditions, and where  
+ 
+appropriate, recommendations for protection against light and/or humidity, should appear on  
+ 
+containers, cartons, and/or package inserts. Such labelling should be in accordance with SAHPRA  
+ 
+requirements. 
+9.    PRESENTATION OF STABILITY DATA 
+ 
+9.1  
+The criteria for acceptance of each parameter (minimum and maximum values), relating to  
+ 
+Stability should be stated. 
+ 
+9.2  
+The actual analytical results obtained at the commencement (zero time) and at nominated time  
+ 
+intervals throughout the trial (for example 0, 3, 6, 9, 12, 18, 24, 30, 36 months, which can if  
+ 
+necessary, be adapted to suit the product) should be provided in a tabulated form. For products 
+predicted to degrade rapidly, more frequent sampling is necessary 
+10.3  
+The container closure system used should be clearly indicated, e.g. the type, nature, grade  
+ 
+and colour of the material of the container and closure should be stated. 
+10.4  
+Storage conditions should be clearly defined in respect of the temperature, light, opening and  
+ 
+closing of container, whether stored upright or inverted. 
+10.5  
+The name and strength of the product, dosage form, lot size, lot number, name of final product  
+ 
+manufacturer, manufacturer of active biological ingredient, dates of final product manufacture and  
+ 
+initial testing, should be stated. 
+SAHPGL-PEM-BIO-04_v2  
+Page 12 of 12
+Biological Medicines Stability Guideline  
+ 
+1 September 2022 
+ 
+ 
+10.6  
+All results obtained should be discussed and conclusions drawn from the stability studies’  
+ 
+data. A shelf- life should be derived from the results. Explanations should be given where  
+ 
+necessary, e.g. for anomalous or unusual results, change in method. 
+10.7  
+The stability data should be presented in tabulated format, e.g.: 
+ 
+ 
+ 
+Product Name:  
+Batch No.:  
+Batch Size:  
+Date of Manufacture:  
+Packaging (material and pack sizes):  
+Storage conditions:  
+Name of manufacturer:  
+Manufacturer of API:  
+Date of commencement of stability study:  
+Time intervals (months)  
+Title of 
+Specification  
+Limits  
+0  
+3  
+6  
+9  
+12  
+24  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   11. 
+REFERENCES 
+11.1 
+ ICH_Q5C Quality of biotechnological products: stability testing of biotechnological/biological  
+products. 
+11.2  
+ICH Q1D Bracketing and matrixing designs for stability testing of new drug substances and products. 
+11.3     WHO Draft guidelines on stability evaluation of vaccines (WHO/BS/06.2049) 
+ 
+12. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision [2.60_Biological Medicines 
+Stability Guideline _March 2019 _v1]. It will be reviewed on this timeframe or as and when required 
+ 
+

@@ -1,0 +1,116 @@
+SAHPRA MEDICINES
+ONLINE DIRECTORY
+TOOLKIT FOR PRECRITPTON ONLY (S3 – S6)MEDICINES
+Introducing the SAHPRA Medicines Online Directory Phase 2  for Rx Medicines
+SAHPRA launched the OTC Online Medicines Directory in June 2022. Please visit: 
+www.medsinfo.sahpra.org.za
+The purpose of the Online Medicines Directory is to provide patients, consumers, and healthcare 
+providers with a single, trusted source of information for all medicines approved by SAHPRA. 
+Phase 1 was to include all Schedule 0-2 products (OTCs). 
+Phase 2 which is underway is to include all prescription only medicines (S3 and above). 
+Once completed, the site will undergo an artwork change and have an OTC and Rx section.
+The URL www.medsinfo.sahpra.org.za will stay the same. 
+SAHPRA is working towards zero rating this website. 
+SAHPRA Online Medicine Directory Rx Toolkit
+This toolkit provides Market Authorisation Holders (MAH) activation guidance.
+The toolkit provides essential creative guidelines and resources to ensure consistency and
+alignment across all marketing and promotional platforms to effectively increase awareness and 
+use of SAHPRA’s Online Medicines Directory to all healthcare professionals.
+All Holders of Certificates of Registration are encouraged to develop a Standard Operating 
+Procedure (SOP) for this process to ensure that the correct QR code is consistently assigned.
+Please direct all toolkit inquiries to:
+SAHPRA: 
+•
+enquiries@sahpra.org.za
+Industry:  
+•
+Nicola Brink at nicola@selfcareassociation.co.za
+Medicines Online Directory Support:
+•
+support@rxonlinedirectory.co.za
+Creative Guidance 
+& Key Visuals 
+Key Visuals
+Three visuals have been provided. One of these visuals must be included on all prescription-only 
+promotional material, such as detail aids, professional journal advertisements, and similar items.
+The first visual includes a QR code generated directly from the specific product or medicine on the 
+site.
+The second  features a QR code that links directly to the MedsInfo landing page.
+The third provides only the URL link to the MedsInfo site.
+If you are promoting a prescription only medicine, you must ideally incorporate the QR code 
+specific to your product—generated from the backend system into which you have access —into 
+the artwork. This artwork will then be integrated into your promotional material.
+Once generated, your QR code remains unchanged, even when updates occur. 
+VISUAL ONE
+Below is the QR code 
+generated directly from the 
+specific product or 
+medicine on the site.
+VISUAL TWO
+The below features a QR 
+code that links directly to 
+the MedsInfo website. 
+VISUAL THREE
+Below provides only the URL 
+link to the MedsInfo website
+BY EXCEPTION 
+By exception, you may use 
+the QR code provided 
+below, which currently links 
+to the OTC Online Directory. 
+By the time of launch, this 
+will become the combined 
+OTC and Rx Online 
+Directory.
+FONTS
+The primary font that 
+must be used across all 
+creative is the typeface 
+called “Poppins”. It 
+consists of various font 
+weights as displayed 
+below. Please see fonts 
+here. 
+PRIMARY FONT
+Poppins Light 
+Poppins Regular 
+Poppins Medium 
+Poppins Semibold
+Poppins
+The quick brown fox jumps over the lazy dog. 
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz 1234567890 
+!?@#$%^&*()-+={}[]<>/:;”
+Poppins Bold
+Poppins Extra Bold
+COLOUR PALETTE 
+White
+R255 G255 B255 
+C0 M0 Y0 K0
+HEX #ffffff
+Grey
+R237 G237 B237 
+C6 M4 Y4 K0
+HEX #ededed
+Green
+Blue
+Dark Blue
+R26 G188 B156
+R0 G120 B161
+R20 G30 B44
+C73 M0 Y52 K0
+C88 M44 Y22 K2
+C87 M75 Y54 K67
+HEX #1abc9c
+HEX #0078a1
+HEX #141e2c
+SECONDARY COLOURS
+The following primary and 
+secondary colours must be 
+utilised consistently across 
+all creative brand 
+elements. Please see 
+colours below. 
+PRIMARY COLOURS
+THANK YOU
+

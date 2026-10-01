@@ -1,0 +1,466 @@
+Page 1 of 13 
+ 
+ 
+SAHPGL-RDN-RN-01_v2 
+ 
+1 February 2024 
+GUIDELINE ON PROTECTIVE MEASURES TO TAKE IN THE EVENT 
+OF AN ACCIDENT INVOLVING RADIOACTIVITY 
+The widespread use of radiation sources in medicine, agriculture, industry, and research has an admirable 
+safety record. Throughout the world, the number of known accidents in which persons have been exposed to 
+harmful amounts of ionising radiation is relatively small, and only a few deaths have occurred. Meticulous 
+precautions are being taken to maintain this good record in all work with radiation sources and to keep the 
+exposure of persons and the environment as low as practicable. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+Old guideline document 
+ May 2000 
+1 
+Previous guideline revision  
+May 2019 
+2 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-RN-01 allocated to this 
+Guideline 
+January 2024 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-RN-01_v2 
+Page 2 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+UNITS ......................................................................................................................................................... 5 
+4. 
+SEALED SOURCES ....................................................................................................................................... 5 
+5. 
+UNSEALED SOURCES .................................................................................................................................. 6 
+6. 
+PRE-EMERGENCY PLANNING ..................................................................................................................... 6 
+7. 
+PROCEDURES TO FOLLOW IN AN EMERGENCY ......................................................................................... 6 
+7.1 Identify the origin of the radiation ............................................................................................................ 6 
+7.2 Where Possible, Obtain Information about the Source ............................................................................ 7 
+7.3 If radiation monitoring equipment is available, use it .............................................................................. 8 
+7.4 Remove radioactive sources from the scene of the emergency ............................................................... 9 
+7.5 If no information or equipment is available, follow this procedure ....................................................... 10 
+7.6 Safety precautions to adopt .................................................................................................................... 10 
+7.7 Additional procedures to follow in the event of a fire ............................................................................ 12 
+8. 
+REFERENCES ............................................................................................................................................. 12 
+9. 
+VALIDITY .................................................................................................................................................. 13 
+10. CONCLUSION ........................................................................................................................................... 13 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-RN-01_v2 
+Page 3 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Co-60 
+cobalt-60 
+NECSA 
+The South African Nuclear Energy Corporation  
+SAHPRA 
+South African Health Products Regulatory Authority 
+TLD  
+thermoluminescence dosimeter/dosimetry 
+ 
+ 
+ 
+SAHPGL-RDN-RN-01_v2 
+Page 4 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+1. 
+INTRODUCTION 
+A radioactive source can emit ionising radiation in several different forms. The most penetrating type of 
+ionising radiation is gamma radiation, which can pass through the human body and even through concrete 
+walls. Beta radiation is less penetrating and can be stopped by, for instance, a few millimetres of Perspex. 
+Alpha radiation is the least penetrating form of ionising radiation and is not able to pass through a sheet of 
+paper or through human skin.  
+Although our senses cannot detect it, ionising radiation can cause physical damage to the human body. Low 
+doses of radiation produce no observable effects, but the probability of the occurrence of long-term effects 
+like cancer will increase as the radiation dose increases. A large dose of radiation received over a short period 
+of time can also result in severe short-term effects such as radiation burns, nausea, internal bleeding and even 
+death. 
+1.1 
+Purpose 
+The purpose of this manual is to give practical guidance to those public authorities and others who are 
+responsible for preparing emergency plans for the handling of radiation accidents with the aim of 
+minimising the resulting exposure of workers and of members of the public, and of reducing, as far as 
+practicable, any damage to property. This guidance must necessarily be of a general nature as it is not 
+possible to predict with any precision what form an accident will take or what consequences may result. 
+1.2 
+Scope 
+The scope of this guideline is restricted to those topics that are directly related to the preparation of the 
+emergency plans. Where possible, any background information that is necessary is provided by reference 
+to other publications. Where this is not possible, explanatory material is provided to enable readers to 
+relate the presentation to their particular circumstances. 
+2. 
+LEGAL PROVISION 
+ The Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of the Hazardous 
+Substances Act 15 of 1973 and published under Government Notice R247 in Government Gazette 14596, dated 
+26 February 1993 (R247) require an Authority Holder to report any accident involving radioactivity to Radiation 
+Control. The holder shall forthwith respond to all enquiries from Radiation Control , in respect of the 
+notification of the accident and shall provide every assistance with regard to an investigation into the incident 
+SAHPGL-RDN-RN-01_v2 
+Page 5 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+in question. 
+ 
+3. 
+UNITS 
+The strength or activity of a radioactive source is expressed in becquerel (Bq). Sources in common use range 
+from a few kBq (103 Bq) up to PBq (1015 Bq). Most industrial sources are measured in MBq (106 Bq), GBq (109) 
+or TBq (1012 Bq).  
+The old unit of activity was the curie (Ci) with its corresponding sub-units of µCi (10-6 Ci), mCi (10-3 Ci) and kCi 
+(103 Ci). One curie is equivalent to 37 GBq.    
+The unit of exposure rate is roentgen per hour (R/h) or mR/h (1 R equals 1 000 mR). Exposure to 100 R of 
+gamma radiation will result in a radiation dose of 1 sievert (Sv). (The old unit for radiation dose was the Rem, 
+which is equivalent to 0.01 Sv). 
+4. 
+SEALED SOURCES 
+i) 
+There are two things that can happen to equipment containing sealed radioactive sources in the 
+event of a fire, explosion or other accidental occurrence:  
+ii) 
+The lead or uranium shielding, which absorbs most of the gamma radiation given off by the source, 
+can melt or become damaged (See Figure 1). This would result in an increase in the amount of 
+gamma radiation in the vicinity of the source. This would present an external radiation risk to 
+anyone approaching the equipment.   
+iii) The metal capsule surrounding the source material could melt or become damaged. This is a very 
+unusual occurrence, firstly because the capsule is protected by the lead or uranium shielding, and 
+secondly because the capsule is usually made of an extremely strong metal that cannot melt easily, 
+e.g. stainless steel. 
+If the capsule does become damaged in some way, the radioactive material could leak out and could be 
+dispersed, either mechanically or because of vaporisation. This then means that not only will there be a risk 
+of external radiation, but there is also the chance of contamination, i.e. the radioactive material could get 
+stuck to a person's skin, clothing or shoes, or there might be a chance that a person could inhale it or even 
+accidentally swallow it. Some material might also enter the body via a cut or wound. Contaminated clothing 
+can be removed; contaminated hands can be washed, but once the radioactive material is inside a person's 
+body, it is not so easy to get rid of it – and for this reason it can have harmful consequences.  
+SAHPGL-RDN-RN-01_v2 
+Page 6 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+  
+Figure 1:  Construction of a typical sealed source   
+The types of sealed sources that generally pose an external radiation hazard are those that emit penetrating 
+gamma radiation. cobalt-60, caesium-137, iridium-192 and radium-226 are the most common sources that 
+emit such radiation.  
+Sealed sources that emit mainly beta or alpha radiation (such as Strontium-90, Americium-241, Thallium-204 
+and Plutonium-238) would not pose a significant external radiation hazard, unless they were of a fairly high 
+activity (greater than 10 GBq). These sources would, however, be more likely to cause contamination, because 
+the source capsules that surround them are usually less resilient than those that surround gamma sources.  
+5. 
+UNSEALED SOURCES 
+Unsealed radioactive nuclides are used mainly for medical purposes and for research work. Unsealed sources 
+are usually in a liquid form and are most often stored in bottles or vials in a refrigerator. They are generally 
+not associated with high external radiation levels but do pose a potential contamination hazard. 
+6. 
+PRE-EMERGENCY PLANNING 
+Persons responsible for radioactive sources, or those who may be involved in dealing with emergency 
+situations involving radiation (e.g. disaster management centres), should ensure wherever possible that 
+specific pre-emergency planning is carried out. The particular hazards associated with the sources under their 
+control should be identified, and guidelines should be drawn up detailing recommended emergency 
+procedures for the sources in question. 
+7. 
+PROCEDURES TO FOLLOW IN AN EMERGENCY 
+Where specific pre-emergency planning has been carried out, the planned emergency procedures should be 
+followed. If, however, no such guidelines have been drawn up, then the following procedure should be 
+followed:  
+7.1 
+Identify the origin of the radiation 
+SAHPGL-RDN-RN-01_v2 
+Page 7 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+When dealing with an incident involving radiation, one should first try to establish whether one is dealing 
+with a radioactive source (i.e. a radioactive nuclide) or with an item of X-Ray equipment. 
+  
+ 
+ 
+ 
+ 
+Figure 2: The international symbol for radiation  
+ 
+The above radiation warning sign is used in both instances, but in the case of X-Ray equipment, the radiation 
+is produced electrically and is therefore only present when the unit is switched on. In other words, when X-
+Ray equipment is not connected to a power supply, it poses no radiation hazard whatsoever, even if it has 
+been damaged in some way. X-Ray units used by doctors and dentists, and for non-destructive testing in 
+industry, are the most common examples of such equipment.  
+A radioactive source, on the other hand, is composed of inherently unstable material which emits radiation 
+continuously. Although it may be possible to shield the radiation, it cannot be "switched off" like an X-Ray 
+machine.  
+If you are unable to establish the origin of the radiation, to be on the safe side you should assume that you 
+are dealing with a radioactive source and take all necessary precautions.  
+7.2 
+Where Possible, Obtain Information about the Source 
+Wherever possible, try to establish the type and activity of the radioactive source, as well as the possible 
+hazard it presents. Contact the radiation protection officer as soon as possible to get this information. 
+Under no circumstances must clearing-up operations be performed without first consulting the radiation 
+protection officer or an equally knowledgeable person.  
+In case of an emergency that is beyond the ability of the facility to handle, call the local Disaster 
+Management Centre and, if applicable, the SAPS Explosives Unit to cordon off the area and keep the public 
+out until the first responders arrive. The NECSA 24-hour National Emergency Centre on 012-305 3333 can 
+also advise and/or assist depending on need and location.  If you have high-risk sources that could require 
+that kind of reaction, ensure that you have the relevant phone numbers available before they are required.  
+SAHPRA Radiation Control must be informed of any radiation occurrences (accidents, incidents and near 
+SAHPGL-RDN-RN-01_v2 
+Page 8 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+misses) as soon as practicable on 021-015 5505 or 5511. 
+If a radiation monitor is not available, but the type of source and its activity is known (this information 
+should appear on the source container), then it is possible to estimate worst-case radiation levels for a 
+completely unshielded source from Table 1:  
+Table 1: Radiation Levels 
+RADIATION LEVELS AT 1M FROM A COMPLETELY UNSHIELDED SOURCE  
+Type of source (nuclide) 
+Exposure rate (mR/hr) per Ci 
+Cobalt-60 
+Radium-226 
+Iridium-192 
+Caesium-137 
+1320 
+825 
+480 
+330 
+Exposure rate is inversely proportional to the square of the distance from the source. So if the distance 
+from the source is doubled, the exposure rate will decrease to a quarter of its original value. Thus, at 2m 
+from a 1 Ci Co-60 source, the exposure rate will be 1320/4 = 307 mR/h. Remember, however, that the above 
+values only apply when the source is not shielded within its transport or storage container.  
+If the nuclide is not one of those mentioned on the above list, then it is unlikely that it would pose a 
+significant external radiation hazard. 
+7.3 
+If radiation monitoring equipment is available, use it 
+There are two main groups of radiation monitoring equipment, namely, exposure rate meters and 
+contamination monitors.  
+i) 
+Exposure rate meters are used to measure external radiation levels and are usually calibrated in units 
+of mR/h or mSv/h.  
+ii) 
+Contamination monitors are much more sensitive than exposure rate meters and usually measure 
+contamination in units of counts/second or Bq/cm2.  
+iii) If an exposure rate meter is available, it should be used to measure external radiation levels directly. 
+When estimating or measuring radiation levels, keep the following in mind:  
+a) 
+Members of the public should not be allowed into areas where the exposure rate exceeds 2.5 
+µSv/h. Use barrier ropes or tape to keep them out if necessary. 
+SAHPGL-RDN-RN-01_v2 
+Page 9 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+b) 
+The international "safe" limit laid down for radiation workers is 20 mSv per year, averaged over 
+5 years, and not more than 50 mSv in any one year. Doses should always be kept as low as 
+reasonably achievable (ALARA).  
+c) 
+Only actions involving lifesaving justify an acute exposure in excess of 0.1 Sv (10 rem).  
+d) 
+If someone receives a whole-body exposure of 5 Sv (500 rem), their chances of surviving the 
+acute effects of the radiation would be about 50 %.  
+e) 
+As far as contamination monitoring is concerned, any reading above background radiation levels 
+should be considered as a positive indication that contamination is present. A normal 
+background level is ± 5 counts per second. Background levels can, however, vary from place to 
+place and can be increased as a result of external radiation from sources in the vicinity.   
+Where background radiation levels are high, a wipe test can be done to distinguish between external 
+radiation and contamination. This entails wiping the surface which is suspected of being contaminated with 
+a piece of absorbent material (e.g. cotton wool) and moving to an area where background radiation levels 
+are low. The wipe sample is then monitored in the usual way with a contamination monitor.  
+If personal dosimeters (e.g. TLD badges or direct-reading dosimeters) are available, rescue workers should 
+wear them in order to facilitate later estimations of doses received.  
+7.4 
+Remove radioactive sources from the scene of the emergency 
+Where the emergency (for example in the case of a fire) is so limited that radioactive sources are not directly 
+involved, but the risk of involvement exists, the best way to minimise the radiation risk is to remove the 
+radioactive material from the immediate area.  
+If the source forms part of a measuring device or gauge, the shutter of the device must be moved to the 
+"off" or fully shielded position before it is moved. Where possible, a monitor should be used to confirm that 
+the shutter is correctly closed. As an additional safety measure, the persons carrying the gauge should 
+ensure that the primary beam aperture (radiation opening) is directed away from them. 
+When moving unsealed sources (e.g. bottles of radioactive liquid), or gauges containing sealed alpha or 
+beta sources (for example thickness gauges containing Strontium sources), extra care should be taken to 
+protect oneself against possible contamination. (Refer to point 6 below)  
+A radioactive source must never be removed from its shielding container unless such removal is performed 
+under the supervision of a qualified person, such as a radiation protection officer. If the container cannot 
+SAHPGL-RDN-RN-01_v2 
+Page 10 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+be moved, then the source should be left where it is. Cancer therapy units in hospitals containing 
+radioisotopes are examples of equipment which generally cannot be easily moved.   
+Sources which have been moved should not be left unattended. A guard should be posted nearby to ensure 
+that no one approaches the sources.  
+7.5 
+If no information or equipment is available, follow this procedure 
+In many cases a monitor will not be available, and the type of source and its activity will be unknown. It is 
+quite possible that time, or the nature of the emergency, might not allow for expert advice to be sought. In 
+such circumstances the emergency workers have to decide on an immediate course of action with the 
+limited information at their disposal.  
+As a general rule, the emergency worker should give priority to immediate dangers (for example, render 
+first aid, or extinguish a fire) before considering the radiation hazard.  
+This rule is based on the fact that high-activity sources, which could produce dangerously high levels of 
+external radiation, are required by law to be stored and transported in approved containers or facilities 
+which are designed to ensure safety under all foreseeable conditions.  
+For example, a high activity Co-60 source, such as used in hospitals for the treatment of cancer, would have 
+to be stored and transported in a container which shields all radiation to acceptable levels, which can 
+withstand temperatures of up to 800 ˚C, which has passed rigorous mechanical endurance tests, e.g. 
+impact, compression, penetration and drop tests, and which is designed to withstand all foreseeable 
+accidental occurrences.  
+If the source is not being transported in such an approved container, then it is likely that it is a relatively 
+low activity source, which could be approached for fairly long periods (e.g. a couple of minutes) without 
+any ill-effects being experienced as a result of the radiation received.   
+However, during the course of their duties, emergency workers should always adopt the safety precautions 
+mentioned below in order to keep their potential exposure to radiation to a minimum.  
+7.6 
+Safety precautions to adopt 
+The following precautions should always be adopted when dealing with radioactive sources to minimise 
+external radiation dose and contamination. 
+Ways to minimise external radiation dose: Time, distance, shielding  
+SAHPGL-RDN-RN-01_v2 
+Page 11 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+i) 
+Limit time spent near the source to a minimum.  
+ii) 
+Keep as large a distance as possible between yourself and the radioactive source. If a patient can safely 
+be moved, they should be evacuated from the immediate vicinity of the source.  
+iii) Wherever possible, shield yourself from the source, unless by doing so you will increase the time which 
+you spend near the source. For example, it is pointless to wear a heavy lead apron during a rescue 
+operation if it means that you will take twice as long to carry out your task and thus be exposed to 
+twice as much radiation. (For those isotopes which could pose a significant external radiation hazard, 
+a few millimetres of lead shielding would not be very effective anyway.)  
+iv) Other materials such as iron, heavy metals or concrete are effective in varying degrees at blocking 
+radiation. Wherever possible, use existing structures such as concrete walls.  
+v) 
+When dealing with unsealed sources, or a sealed source which has been badly crushed or damaged, it 
+is best to take the following additional precautions to avoid contamination:  
+Ways to minimise contamination  
+i) 
+Take care not to touch anything in the vicinity of the source, unless with a gloved hand.  
+ii) 
+Do not eat, drink or smoke at the scene of the emergency.  
+iii) Where possible, separate the scene of the emergency into two areas - a "clean" area and a 
+"contaminated" area. The contaminated area should include any area where contamination is 
+confirmed or where it is likely to occur. Access to the contaminated area should be limited. Emergency 
+workers and equipment used in the two areas should be separated.  
+iv) Where possible, emergency workers should remain upwind of radioactive sources, or areas where 
+contamination may have occurred.  
+v) 
+If ventilation could spread contaminated air, it should be switched off.  
+vi) If available, a mask with a filter, or other breathing apparatus, should be worn in order to prevent 
+possible inhalation of airborne radioactive particles or gases.   
+vii) Once the emergency has been dealt with, emergency workers who entered the contaminated area 
+should gather in a central place. Clothing or shoes suspected of being contaminated must be removed 
+carefully in order to avoid spreading contamination. If a mask is worn, it should only be removed after 
+all contaminated clothes (excluding gloves) have been removed. Gloves should be removed last. All 
+items of clothing should then be placed in a plastic bag and sealed.   
+SAHPGL-RDN-RN-01_v2 
+Page 12 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+viii) Workers should gently wash areas suspected of being contaminated using a mild soap or detergent. 
+Care should be taken not to spread contamination to other parts of the body, in particular the eyes, 
+mouth and nose. A contamination monitor should be obtained as soon as possible in order to assist in 
+the identification of contaminated areas.  
+7.7 
+Additional procedures to follow in the event of a fire  
+Persons involved in firefighting should take note of the following:  
+i) 
+If a gauge (or other equipment) is directly involved in a fire, it is possible that the shielding surrounding 
+the source could melt. This could result in a high external radiation level in the vicinity of the gauge. 
+Wherever possible, a radiation monitor should be used to assess radiation levels when approaching a 
+gauge which has been directly involved in a fire.  
+ii) 
+A jet of water directed at the source housing could help prevent the source shielding from overheating 
+and melting.  
+iii) It is theoretically possible that a source could be vaporised due to intense heat from a fire. In instances 
+where such an occurrence is likely, firefighters should take precautions to prevent inhalation of the 
+radioactive vapour, such as remaining up-wind when fighting the fire or wearing self-contained 
+breathing apparatus.  
+iv) Care should be taken during firefighting to avoid the spread of radioactive contamination. The use of 
+water jets should be kept to a minimum (particularly in a laboratory fire) and where possible, salvage 
+techniques other than water should be used in order to limit the mechanical dispersion of radioactive 
+material. 
+8. 
+REFERENCES 
+The following related documents are referenced: 
+ 
+South Africa. 1973. Hazardous Substances Act, No.15 of 1973. Pretoria: Government Printer. 
+South Africa. 1993. Regulations relating to Group IV Hazardous Substances. Published under Government 
+Notice R247 in Government Gazette 14596 of 26 February 1993 
+ 
+ 
+ 
+SAHPGL-RDN-RN-01_v2 
+Page 13 of 13
+Guideline on Protective Measures to Take in The Event of an Accident Involving Radioactivity 
+1 February 2024 
+ 
+ 
+9. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old Fire 
+Protective measures to take in the event of an accident involving radioactivity, revised, implemented in May 
+2019. It will be reviewed on this timeframe or as and when required. 
+10. CONCLUSION 
+It must be stressed that all incidents involving radioactivity must be reported to Radiation Control unit of 
+SAHPRA as soon as possible, followed by a more detailed report. An incident report form is provided for this 
+purpose.  
+

@@ -1,0 +1,464 @@
+SAHPGL-RDN-RN-03_v1 
+Page 1 of 13
+ 
+ 
+ 
+1 February 2024 
+GUIDELINE ON THE SAFE USE OF SOIL MOISTURE AND DENSITY 
+GAUGES CONTAINING RADIOACTIVE SOURCES 
+This guideline deals with the safe and secure handling by operators of soil density, moisture, and asphalt 
+gauges. The RPO and ARPO of the Authority Holders are also guided in the administrative and legal 
+requirements of which they are subjected to.   
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+May 2019 
+1 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-RN-03 allocated to this 
+Guideline 
+- 
+Form RC010 changed to GLF-RDN-XR-10A, RN525 changed to GLF-
+RDN-RN-13C, RN526 changed to GLF-RDN-RN-20A, RN784 changed to 
+GLF-RDN-RN-28A, RN787 changed to GLF-RDN-RN-07A and RN900 
+also changed to GLF-RDN-RN-12A. 
+January 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+ 
+SAHPGL-RDN-RN-03_v1 
+Page 2 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 5 
+3. 
+ADMINISTRATIVE REQUIREMENTS ............................................................................................................ 5 
+4. 
+EQUIPMENT SPECIFICATIONS .................................................................................................................... 6 
+5. 
+STORAGE REQUIREMENTS (REGULATION 12) ........................................................................................... 7 
+6. 
+HANDLING PROCEDURES ........................................................................................................................... 8 
+6.1 General Requirements ............................................................................................................................... 8 
+6.2 Repairs and Maintenance .......................................................................................................................... 9 
+6.3 Leak Tests .................................................................................................................................................. 9 
+6.4 Radiation Monitoring Requirements ......................................................................................................... 9 
+6.5 Transport ................................................................................................................................................... 9 
+6.6 Emergency Procedures ............................................................................................................................ 10 
+6.7 Disposal.................................................................................................................................................... 11 
+7. 
+REFERENCES ............................................................................................................................................. 12 
+8. 
+VALIDITY .................................................................................................................................................. 12 
+9. 
+ANNEXURE ............................................................................................................................................... 13 
+9.1 Annexure 1: The carry-case with the gauge ............................................................................................ 13 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-RN-03_v1 
+Page 3 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+RPO  
+Radiation Protection Officer 
+ARPO 
+Acting Radiation Protection Officer 
+ALARA 
+As low as reasonably achievable 
+NLM 
+Nuclear Liabilities Management 
+XR-10A 
+GLF-RDN-XR-10A (Old RC010) form 
+13C 
+GLF-RDN-RN-13C (Old RN525) form 
+20A 
+GLF-RDN-RN-20A (Old RN526) form 
+28A 
+GLF-RDN-RN-28A (Old RN784) form 
+07A 
+GLF-RDN-RN-07A (Old RN787) form 
+12A 
+GLF-RDN-RN-12A (Old RN900) form 
+18A 
+GLF-RDN-RN-18A (Old RN785) form 
+ 
+ 
+ 
+SAHPGL-RDN-RN-03_v1 
+Page 4 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+1. 
+INTRODUCTION 
+Radioactive sources used in soil density, moisture and asphalt gauges are subject to regulatory control in terms 
+of the South African Hazardous Substances Act, 1973 (Act 15 of 1973) and Regulations R2471 related to the 
+above-mentioned act. The body responsible for administering this legislation is SAHPRA - Radiation Control. 
+The radioactive sources used in these gauges are generally sufficiently radioactive to constitute a significant 
+health hazard unless adequately shielded and handled with proper care. Standards have been set to limit the 
+risk of radiation over-exposure to operators as well as to the public. The standards also ensure that radiation 
+doses are kept as low as reasonably achievable (ALARA principle). 
+1.1 
+Purpose 
+The purpose of this Code is to establish working practices, procedures and protective measures and to 
+ensure the safe use and security of radioactive sources. This will ensure that the Equipment specifications, 
+Storage requirements, and Handling procedures are adhered to. In addition, the Code will assist in keeping 
+radiation doses arising from a portable density/moisture gauge containing radioactive sources as low as 
+reasonably achievable. 
+Radioactivity is a natural phenomenon and natural sources of radiation are features of the environment. 
+Radiation and radioactive substances have many beneficial applications, ranging from power generation to 
+uses in medicine, industry and agriculture. The radiation risks to workers and the public and to the 
+environment that may arise from these applications have to be assessed and, if necessary, controlled. 
+Regarding nuclear gauges, the operating organization is typically the owner of the industrial facility in which 
+fixed nuclear gauges are installed, or the company undertaking activities with portable nuclear gauges. The 
+operating organization has the prime responsibility for protection and safety and is required to ensure that 
+protection and safety is optimized. 
+1.2 
+Scope 
+The guideline deals with soil density, moisture and asphalt gauges are subject to regulatory control by 
+providing code of practice which are legally enforceable. The key issues for this controls address the 
+administrative requirements, storage requirements, handling procedures and equipment specifications. 
+ 
+ 
+1 Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of the Hazardous Substances Act 
+15 of 1973 and published under Government Notice R247 in Government Gazette 14596, dated 26 February 1993. 
+SAHPGL-RDN-RN-03_v1 
+Page 5 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+2. 
+LEGAL PROVISION 
+The following are the relevant regulatory documents with necessary provisions: 
+− 
+Hazardous Substances Act 15 of 1973 
+− 
+R246, R247 Regulations related to Group IV Hazardous Substances 
+3. 
+ADMINISTRATIVE REQUIREMENTS 
+3.1. An application for authority to possess and use a soil gauge must be submitted to SAHPRA on Form 
+GLF-RDN-RN-07 (old form RN787). It is illegal to be in the possession or use any radioactive source 
+without a valid Authority. 
+3.2. The applicant must nominate a radiation protection officer as well as an acting radiation protection 
+officer. Identification documents and proof of competence of the appointed Radiation Protection 
+Officer (RPO) and Acting Radiation Protection Officer (ARPO) must also be submitted. The appointed 
+RPO as well as ARPO must provide evidence of completing a course in radiation safety/security 
+covering at least the following topics: 
+3.3. What is radiation? 
+3.4. Factors that will influence radiation dose 
+3.5. Procedures and design of equipment to reduce the chances for unnecessary exposure: 
+3.5.1. What is an emergency and how do you handle it? 
+3.5.2. Security 
+3.5.3. Risk analysis – compile and implement Internal Rules to reduce risk. 
+3.5.4. Legal requirements. 
+3.6. When applying for a new authority a copy of the applicant’s Internal rules for the safe handling of 
+radioactive sources must be attached. The Internal rules must be compiled according to Regulation 
+7 of R2472 relating to Group IV Hazardous Substances. The Regulations, Code of Practice and 
+minimum requirements for internal rules should be utilized in compiling the internal rules. These 
+ 
+2 Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of the Hazardous Substances Act 
+15 of 1973 and published under Government Notice R247 in Government Gazette 14596, dated 26 February 1993. 
+SAHPGL-RDN-RN-03_v1 
+Page 6 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+rules must be specific to address radiation safety/security requirements of the applicant. 
+3.7. Submit a service agreement between the Authority Holder and the appointed RPO as well as that 
+with the ARPO. This agreement must state the RPO/ARPO’s responsibility regarding radiation safety 
+and security. 
+3.8. 
+Authorities are valid for a limited period. Applications for the renewal of authorities must be 
+submitted to SAHPRA on Form GLF-RDN-RN-07A (old form RN787) one month before the date of 
+expiry. Attach a copy of all the latest leak test certificates of all the sources on your authority. 
+3.9. Should the RPO or ARPO change at any stage, SAHPRA must be informed of the change on form 
+18A. Identification documents as well as proof of the competence of the appointed RPO and ARPO 
+must also be submitted. The same person will not be allowed to act at the same time as an RPO 
+and ARPO of the Authority Holder. 
+3.10. Once a year, the holder of the authority must furnish SAHPRA with a declaration, on Form 28A (old 
+form RN784), confirming the status of all the sealed sources, and that the details on this authority. 
+This declaration is due each year before 31 January. 
+3.11. A copy of the Act, Regulations, authority, internal rules, and any amendments must be kept on the 
+premises of the holder in a place accessible to all employees. The above documents can be found at 
+www.sahpra.org.za. 
+4. 
+EQUIPMENT SPECIFICATIONS 
+4.1 
+All soil gauges must be of a design, approved by SAHPRA. Any changes in this design must be reported 
+to SAHPRA - Radiation Control. Modifications on the gauges will only be allowed if proof can be 
+presented that these modifications does not influence the original requirements for approval. 
+4.2 
+If the gauge incorporates a source assembly (e.g. a source rod), which is not permanently built into 
+the body of the gauge, the source assembly must be capable of being locked in the shielded or "off" 
+position. Padlocks and/or keys must be available for this purpose. 
+4.3 
+All gauges must bear a radiation warning sign as well as a durable label indicating the type, activity 
+and the serial numbers of the radioactive sources. The serial number of the gauge must also be clearly 
+visible. 
+4.4 
+When the sources are in the shielded or "off" position, the dose rate shall not exceed the following 
+SAHPGL-RDN-RN-03_v1 
+Page 7 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+limits (ref 1): 
+500 µSv/h (50 mR/h) at any point 5 cm from the gauge surface 
+10 µSv/h (1 mR/h) at any point 100 cm from the gauge surface 
+4.5 
+A lockable carry-case must be available for storage and transportation of the soil gauge. The carry-
+case must be locked during storage and transportation. Padlocks and/or keys must be available for 
+this purpose. 
+5. 
+STORAGE REQUIREMENTS (REGULATION 12) 
+5.1 
+No radioactive material or instrument or apparatus containing such material may be stored on any 
+premises zoned for domestic purposes. 
+5.2 
+When in storage the source assembly must be locked in the "off" or fully shielded position. 
+5.3 
+The international symbol that indicates presence of ionising radiation must be displayed at the 
+entrance to the storeroom or storage area. The "trefoil" symbol must appear on this sign and it 
+should also include the wording "Danger - Radiation". 
+5.4 
+Dose rates outside the store should not exceed 2.5 µSv/h (0.25 mR/h). 
+5.5 
+A notice containing the names and telephone numbers of the persons who can be telephoned in the 
+event of an emergency, must be displayed at all storage facilities for radioactive material. 
+5.6 
+The storage facility must be lockable and unauthorised entry must be prevented. 
+5.7 
+A logbook must be provided in which the instrument/s are signed into and out of the storage facility. 
+5.8 
+No radioactive material may be stored with, or in close proximity to any corrosive, combustible or 
+explosive material. 
+5.9 
+In the case where an instrument must be stored in a laboratory, the user must ensure that a distance 
+of at least two meters be maintained between the instrument and the working area (or any place 
+where people linger). The same dose rate as in 4.4 applies. 
+5.10 The gauge should never be left unattended unless it is in its approved storage facility. However, if 
+such a situation is unavoidable, for example, if it is necessary to store the gauge in a vehicle overnight, 
+the holder of the authority shall take steps to ensure that the gauge is not stolen. For example, the 
+SAHPGL-RDN-RN-03_v1 
+Page 8 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+vehicle could be parked on the premises of a police station, or in a lock-up garage. 
+5.11 All the above requirements are also applicable when a gauge is stored temporarily at ‘n construction 
+site. Additional security measures must be implemented to reduce the chances for theft. 
+6. 
+HANDLING PROCEDURES 
+6.1 
+General Requirements 
+6.1.1 No activity with radioactive sources is allowed to take place without a valid Authority to possess, use, 
+convey and cause to convey. This will also imply that a legally appointed RPO and ARPO are in place. 
+6.1.2 No activity with radioactive sources is allowed without up-to-date Internal Rules for the safe handling 
+of radioactive sources. 
+6.1.3 The radiation protection officer shall ensure that all persons handling the gauge/s are familiar with 
+the correct operating procedures. Proof of training for all operators must be filed. The content and 
+frequency of training will also for part of the internal rules of the Authority Holder. 
+6.1.4 A gauge must never be placed where it may be damaged by vehicles or machinery. A red flag must 
+be mounted on a pole so as to be clearly visible to all operators of vehicles or earth moving 
+equipment. The pole must be placed adjacent to the instrument while in use. 
+6.1.5 Operators must not stay near the gauges unnecessarily and should not waste time when conducting 
+measurements. 
+6.1.6 The number of people assisting with the measurement should be kept to a minimum and all persons 
+not required to assist with measurements must be excluded from the vicinity of the gauge (to a 
+distance of at least 4 m) before the source is moved to the unshielded position. 
+6.1.7 During the course of his work, a person who handles a soil gauge which incorporates a source rod 
+should never be in a position where he can directly observe the end of the rod (where the source is 
+situated), as this will lead to excessive radiation exposure. 
+6.1.8 After use, and before storing the gauge, a visual check should be carried out to confirm that the 
+shutter is properly closed. A mirror must be used to perform this check, as direct observance of the 
+shutter mechanism could result in unnecessary exposure to radiation. 
+6.1.9 The gauge/s must be locked in the "off" position when not in use. 
+SAHPGL-RDN-RN-03_v1 
+Page 9 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+6.2 
+Repairs and Maintenance 
+6.2.1 Repairs and maintenance on soil gauges containing radioactive sources may only be carried out by 
+appropriately authorised service providers. 
+6.2.2 Routine cleaning of the shutter mechanism may be performed by the operator provided that a mirror 
+is used during the cleaning procedure so that the shutter mechanism can be examined without 
+exposing the operator to the uncollimated radiation beam. 
+6.3 
+Leak Tests 
+6.3.1 Leak tests must be performed annually (24 months when in long term storage.) 
+6.3.2 Leak tests may be performed by trained technicians, or by any company who offers a leak testing 
+service. 
+6.3.3 If the company has access to a suitable contamination monitor, the analysis of the leak test samples 
+may be performed and recorded by the company themselves. 
+6.3.4 If the company does not have a suitable monitor, the wipe samples must be sent to a company or 
+institution that performs such analyses. Samples should be placed in sealed plastic bags before 
+dispatching. Samples may not be sent via the post. 
+6.3.5 If a source is found to be leaking (i.e. a positive result) SAHPRA – Radiation Control must be notified 
+immediately. 
+6.3.6 The results of all leak tests must be recorded and available for inspection purposes at all times. 
+6.4 
+Radiation Monitoring Requirements 
+6.4.1 Users of soil gauges are not required to obtain a radiation monitor. However, in cases where 
+companies possess a large number of gauges, the acquisition of a radiation monitor is recommended. 
+6.4.2 It is not a requirement to wear personal dosimeters (TLD Badges). Operators of soil gauges need not 
+be registered as radiation workers. SAHPRA - Radiation Control will inform Authority Holders if this 
+requirement has changed. 
+6.5 
+Transport 
+6.5.1 An enclosed vehicle must be used for day to day transport of the gauge. If a bakkie is used, a lockable 
+canopy must be installed or the transport container must be secured on the back of the bakkie. 
+SAHPGL-RDN-RN-03_v1 
+Page 10 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+6.5.2 The vehicle may not be left unattended with the gauge in (or on) it. 
+6.5.3 Three removable transport radiation warning signs (See Annexure 1 - Fig 5) must be displayed on the 
+vehicle during transportation; one sign on each side and one on the rear of the vehicle. The name 
+and telephone number of a person to be contacted in the event of an emergency must appear 
+adjacent to each sign. These signs must be removed when radioactive material is not being 
+transported. 
+6.5.4 The shutter of the soil gauge must be locked in the shielded ("off") position and must be transported 
+in its locked carry-case. 
+6.5.5 The carry-case must bear approved transport labels, in accordance with the maximum radiation 
+levels on the surface of the carry-case with the gauge. (See Annexure 1 Fig 2, 3, 4) 
+6.5.6 A Fig 2 for dose rate less that 5 µSv/h on the surface of the container. Fig 3 for dose rates 5 - 500 
+µSv/h and Fig 4 for dose rates 500 - 2000 µSv/h. Under normal circumstances Fig 3 will be used. 
+6.5.7 The gauge shall not be transported in the passenger's compartment of the transport vehicle and shall 
+be positioned as far as possible from the driver and passengers in the vehicle. 
+6.5.8 Soil gauges may be despatched by public transport (i.e. by ship, air freight or road) provided that the 
+above requirements are met and the gauge is accompanied by properly completed transport 
+documents specifying the radioactive content. 
+6.5.9 It is important to note that the National Road Traffic Act ( Act 93 of 1996) is applicable for the 
+transport of all dangerous goods including radioactive sources, as used in soil/moisture/asphalt 
+gauges. Compliance with this act is therefore essential. 
+6.5.10 Adherence to the IAEA document "SSR-6 Regulations for the Safe Transport of Radioactive 
+Material" is required for the transport of all radioactive material. 
+6.6 
+Emergency Procedures 
+6.6.1 SAHPRA - Radiation Control must be notified of the occurrence of any incidents/accidents involving 
+radioactive sources, immediately. This notification can take place via telephone, e-mail or facsimile. 
+SAHPRA - Directorate: 
+Radiation Control can advise on further action to be taken and can provide radiation monitoring 
+equipment, if required. During office hours, phone 021-015 5511; E-mail 
+radionuclides@SAHPRA.org.za.  After hours, call the NECSA 24-hour National Emergency Centre 
+on 012-305 3333. 
+SAHPGL-RDN-RN-03_v1 
+Page 11 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+6.6.2 The RPO/ARPO is responsible for the on-site management of the incident. 
+6.6.3 Priority must be given to the rendering of first aid and other actions to protect human life or to limit 
+injury BEFORE the radiation hazard is considered. 
+6.6.4 If the area where soil gauges are stored is threatened by fire, or some other potential hazard exists, 
+the gauges must be moved to a safe place and secured against unauthorised access. 
+6.6.5 If it is suspected that there has been loss of, or damage to the shielding material, a distance of 5 m 
+should be maintained from the gauge. However, the gauge could be approached more closely, 
+without significant risk, if the emergency situation requires it. 
+6.6.6 If it is suspected that the sources may have been damaged (e.g. if the gauge is SEVERELY crushed or 
+burned) the following precautions should be taken to avoid the spread of radioactive material: 
+6.6.7 Care should be taken not to touch the gauge, or anything in the vicinity of the gauge, unless with a 
+gloved hand. The gauge should not be approached unless the emergency situation requires it. A 
+barrier should be erected around the gauge (at a distance of approximately 5 m) in order to control 
+access to it. 
+6.6.8 If available, a mask with a filter should be worn by persons who have to approach the gauge, to 
+prevent possible inhalation of airborne radioactive particles. 
+6.6.9 Once the emergency has been dealt with, persons who were in the vicinity of the gauge should gather 
+in a central place. Clothing or shoes suspected of being contaminated must be removed and placed 
+in a plastic bag and sealed. 
+6.6.10 If any person is overexposed or suspected of being overexposed all the requested information must 
+be reported to the SAHPRA within 7 days on Form GLF-RDN-XR-10A (old form RC010). 
+6.6.11 If a radioactive source and/or container are lost, stolen or damaged, Form GLF-RDN-RN-12A (old 
+form RN900) must be submitted to the Directorate. 
+6.6.12 Use "SAHPGL-GLN-RN-01 Guidelines for reporting National Radiation occurrences" as a guide when 
+compiling the Radiation Occurrence report GLF-RDN-RN-12A (old form RN900). 
+6.7 
+Disposal 
+6.7.1 SAHPRA strongly recommends that any unused radioactive sources be disposed of in the prescribed 
+SAHPGL-RDN-RN-03_v1 
+Page 12 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+manner. Any Radiation Control office may be contacted should you require more information on the 
+disposal of radioactive sources. 
+6.7.2 The holder of authority shall not dispose of a soil gauge without the approval of SAHPRA. "Dispose" 
+here includes sale, lend, donate, exchange, as well as return of the gauge to the supplier. An 
+application Form GLF-RDN-RN-20A (old form RN526) to dispose of the gauge must be submitted to  
+in the above cases. 
+6.7.3 Should the holder wish to send a gauge for "final disposal" to the Nuclear Liabilities Management 
+(NLM) section of NECSA at Pelindaba, application must be made to SAHPRA on Form GLF-RDN-RN-
+13C (old form RN525). 
+7. 
+REFERENCES 
+7.1. 
+Code of Practice for the Safe Use of Soil Density and Moisture Gauges containing Radioactive 
+Sources, NH & MRC, Canberra, Australia, 1984. 
+7.2. 
+Working Safely with Nuclear Gauges, Atomic Energy Control Board, Canada. 
+7.3. 
+Government Gazette No. 14596 26 February 1993. 
+8. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old Code of 
+Practice for The Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources, revised May 
+2019 It will be reviewed on this timeframe or as and when required. 
+ 
+ 
+SAHPGL-RDN-RN-03_v1 
+Page 13 of 13
+Guideline for Safe Use of Soil Moisture and Density Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+9. 
+ANNEXURE 
+9.1 
+Annexure 1: The carry-case with the gauge 
+

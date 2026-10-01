@@ -1,0 +1,965 @@
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 1 of 18 
+ 
+ 
+ 
+ 
+ROADMAP AND TRANSITIONAL PROCESS FOR THE 
+REGULATION OF COMPLEMENTARY MEDICINES 
+ 
+ 
+This document has been prepared to serve as guidance to stakeholders regarding the regulation pathway of Category D 
+medicines (complementary medicines) for which claims of safety, quality and efficacy and which may be called up for 
+registration. It represents the South African Health Products Regulatory Authority’s current thinking on the appropriate 
+assurance of safety, quality and efficacy of CMs and the intention of the Authority over the described period of time. 
+ 
+ 
+ 
+Version 1 – Implementation in accordance with Government Gazette Notice R.870 in 
+Government Gazette 37032 of 15 November 2013 
+15 November 2013 
+Version 2 – Implementation in accordance with Government Gazette Notice R.859 in 
+Government Gazette 41064 of 25 August 2017 
+September 2019 
+Version 2_1 – Guideline format, process update and minor amendments 
+June 2020 
+Version 2_2 – Updated timelines, inclusion of process flow for new application for SAHPRA 
+licences limited to Category D medicines 
+March 2021 
+Version 2_3 – Process update; Updated timeline, Updated labelling compliance timeline 
+(Annex B of Guideline 7.05); Addition of narrative on process flow for new licences. 
+December 2021 
+ 
+ 
+ 
+BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 2 of 18 
+ 
+TABLE OF CONTENTS 
+1. Introduction 
+3 
+2. Scope of the Document 
+3 
+3. Guidance for Regulatory Priorities associated with Complementary Medicines 
+4 
+3.1 Licensing of Manufacturers, Importers, Exporters, and Wholesalers or Distributors 
+4 
+3.1.1 Information Required 
+4 
+3.1.2 Issuing of Licences 
+4 
+3.1.3 Inspections of Licensed Sites 
+5 
+3.1.4 Specificity of Licences for Category D Medicines 
+5 
+3.1.5 Renewals and Amendment of Licences 
+5 
+3.1.6 Licence Fees 
+6 
+3.2 Licensing Periods 
+6 
+3.3 Product Compliance 
+6 
+3.3.1 Labelling 
+6 
+3.3.2 Rights of sale 
+7 
+3.3.3  Advertising and Marketing 
+8 
+3.4 Medicines Registration Process 
+8 
+4. Summary of legislative control of Complementary medicines 
+8 
+5. Summary of General Timelines 
+9 
+6. General advice to consumers 
+10 
+7. Update History 
+10 
+ANNEXURE A 
+11 
+ANNEXURE B 
+12 
+ANNEXURE C 
+14 
+ 
+ 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 3 of 18 
+1. 
+Introduction  
+On the 15th November 2013 the Minister of Health published amendments to the General Regulations 
+made in terms of the Medicines and Related Substance Act, 1965 (Act 101 of 1965) (hereafter referred to 
+as “the General Regulations”), which established a category of medicines, Complementary Medicines 
+(Category D) and effectively established a regulatory framework for this category. The medicines which 
+fall under this definition originate from the six (6) major disciplines recognised by the South African Health 
+Products Regulatory Authority (SAHPRA), namely Aromatherapy, Ayurveda, Homeopathy, Traditional 
+Chinese Medicine, Unani Medicine (Unani-Tibb) and Western Herbal Medicine 1, as well as combination 
+products identified in the accompanying Guideline for Complementary Medicines (Quality, Safety and 
+Efficacy) published in the same year. 
+Following further interaction with various stakeholders, the category of Complementary Medicines was 
+broadened to establish two sub-categories of Category D (Complementary medicines), reflected in the 
+General Regulations published and implemented as per Government Notice 859 in Government Gazette 
+41064 on 25 August 2017. This resulted in the inclusion of new sub-categories of Category D, including 
+those traditional disciplines that are not indigenous to South Africa (discipline-specific medicines) but also 
+the more modern supplement-type of medicines (health supplements).  
+The original deadlines for submission of applications for registration prescribed by regulation 48C of the 
+General Regulations in 2013 were deleted by the General Regulations in 2017. A new timeline will be 
+established by way of the publication of declarations that categories, sub-categories or classes of 
+Category D medicines (Complementary Medicines) shall be subject to registration (“call-up notices”) in 
+terms of section 14 of the Medicines and Related Substance Act, 1965 (Act 101 of 1965) (hereafter referred 
+to as “the Medicines Act”).  
+The registration and availability of Category D medicines will consider their quality, safety and efficacy as 
+per section 1(2) of the Medicines Act and in line with their relative risk. Discipline-specific medicines are 
+considered either as being of HIGH RISK (clinical evidence required in justification of safety and efficacy) 
+or LOW RISK (traditional evidence may be submitted in justification of safety and efficacy) based primarily 
+on indication but also on composition and dosage form. Health supplements allow only LOW RISK 
+indications and substances, in accordance with lists of substances, dosage ranges and indications 
+stipulated in the guidelines issued by the SAHPRA. 
+This document is intended to provide guidance to all stakeholders on the intended future regulatory 
+pathway, including licensing of activities associated with the supply as well as the registration of 
+Category D medicines in order to best harmonise activities of the industry and regulator. 
+2. 
+Scope of the Document  
+This document establishes the roadmap and general overview for the regulatory pathway of 
+complementary medicines, including licensing in terms of section 22C(1)(b) and submission of applications 
+for their registration following the implementation of the General Regulations in 2017 and applies to 
+products for human use (discipline-specific medicines and health supplements). 
+With respect to licensing of facilities (section 3.1), this Guideline does not apply to any product associated 
+with the cultivation or manufacture of Cannabis-related pharmaceutical products containing 
+Tetrahydrocannabinol greater than 0,001 percent. Intended licence holders must instead refer to the 
+SAHPRA Guideline 2.44 – Cultivation of Cannabis and Manufacture of Cannabis-related pharmaceutical 
+products for medicinal and research purposes on www.sahpra.org.za. 
+ 
+1 Anthroposophical, Gemmotherapeutic, Spagyric Substances and Flower Essences are provided for. See Guideline 7.01 - item 1.4.5. 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 4 of 18 
+3. 
+Guidance for Regulatory Priorities associated with Complementary Medicines 
+3.1 
+Licensing of Manufacturers, Importers, Exporters, and Wholesalers or Distributors 
+In terms of the provisions of section 22C(1)(b) of the Medicines Act, all manufacturers, wholesalers or 
+distributors of medicines or Scheduled substances must be licensed, as the case may be, to manufacture, 
+import, export, or act as a wholesaler of or distribute medicines, inclusive of Category D medicines.  
+A process to license all relevant entities to: i) manufacture, import or export; ii) import or export; or iii) act 
+as a wholesaler of or distribute complementary medicines, commenced by way of an electronic 
+application made available by the Authority: www.sahpracm.org.za on 17 February 2020.  The electronic 
+platform is intended to provide ease of use for all potential licensees and provides an efficient means of 
+tracking and processing any licence application by the Authority. All applications will be reviewed for 
+appropriate categorisation with any queries relating to the application raised by the Authority, being 
+referred to the applicant within 15 working days of receipt of the application by the Authority provided that 
+all correct documentation has been supplied and in the correct format. 
+This licensing process is intended to be made available at least twelve (12) months prior to any new call-
+up notices being published. 
+3.1.1 
+Information Required 
+The information to be provided by an applicant for the licence is stipulated in regulation 23 of the General 
+Regulations and includes information specific to the requirements of the various classes of 
+complementary medicines. The minimum information required shall be guided by the application 
+process which is meant to provide a developmental basis for the achievement of minimum standards. 
+Guidance for completion of the relevant application will be integrated into the licence application 
+process.  
+As part of the application, all complementary medicines sold by the applicant (whether manufactured, 
+imported, exported or distributed) are to be listed. The listed medicines will be confirmed against the 
+prescribed definitions of complementary medicines and its sub-categories/classes. Confirmed lists will 
+be appended to the relevant licence numbers and will be available online for verification of what 
+medicines would be allowed for sale, prior to any relevant call-up notice deadline expiring.  
+In the case of the wholesale or distribution of products for third parties only, licence applicants may list 
+those companies with which the wholesaler or distributor has technical agreements, or may provide lists 
+of products as stated above. 
+Any medicine that has not been submitted for registration by any relevant prescribed deadline 
+associated with a call-up notice issued in terms of section 14 of the Medicines Act will be removed from 
+the relevant licence and will be indicated as being non-compliant. 
+3.1.2 
+Issuing of Licences 
+Licences will be issued to successful applicants based on the SAHPRA’s acceptance of the applicant’s 
+attestation of compliance with minimum requirements at the time of application and the payment of the 
+required licence application, and desktop evaluation fees. The nature of the licensing process is 
+developmental and compliance with minimum standards will allow the successful licensee time and 
+space to develop compliance in the field prior to the renewal application. Following a successful 
+application for a licence, annual licence retention fees are also payable. 
+Applicants will be notified of the result of the evaluation of their application by e-mail and licences may 
+then be collected from the offices of the SAHPRA as indicated by such communication. No electronic 
+versions of licences will be made available to applicants.  
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 5 of 18 
+All licences issued will be valid for a period of five (5) years, during which the holder of the licence must 
+be inspected for verification of the attestation of compliance with minimum requirements included with 
+the application received and/or accepted by the Authority, at least once. Attestation verification failure 
+may result in the suspension or withdrawal of the licence. Licences may be renewed in line with the 
+prescripts of the Medicines Act.  
+3.1.3 
+Inspections of Licensed Sites 
+Authority inspections of sites will be conducted for verification of compliance with the minimum 
+requirements as attested. Inspections of local sites will take place at least once every five years. The 
+Authority may rely upon relevant/appropriate GMP inspection reports by PIC/S members for the issuing 
+of the licence but will consider conducting individual inspections as merited by the risk or other reasons 
+associated with products manufactured or managed by any international site. The licensee is 
+responsible for the payment of any fees to the SAHPRA that may be associated with the verification 
+inspection. The SAHPRA may, at its discretion, elect to undertake an inspection of any premises prior 
+to the issuing of any licence. 
+3.1.4 
+Specificity of Licences for Category D Medicines 
+Licences issued by way of attestation shall be specific to Category D medicines only. The normal 
+licensing procedure applies to the manufacture, import, export or wholesale or distribution of any other 
+medicines.  
+Existing licence holders need not re-apply using this process for current licences linked to other 
+Categories of medicine as well as Category D medicines, that do not require any amendment or 
+alteration.  
+3.1.5 
+Renewals and Amendment of Licences 
+An electronic form is available for the renewal or amendment of any existing licence pertaining only to 
+Category D medicines (Licence Application Type DA01). The prescribed fees for renewal or amendment 
+are payable. 
+Any application for renewal of a licence will require information as prescribed in regulation 24, read 
+together with regulation 23 of the General Regulations. 
+An application for an amendment to a licence must be submitted when any of the following changes 
+take place: 
+(a) Name of the licence holder; 
+(b) responsible pharmacist; 
+(c) responsible person; 
+(d) site address; 
+(e) activities provided for by the licence; or 
+(f) 
+the medicines or Scheduled substances to be manufactured, imported, exported or distributed 
+and sold. 
+Any existing licences which pertain to or include Categories of medicines other than Category D and 
+which require amendment of their existing product list by adding/removing Category D medicines only, 
+may apply on the SAHPRA CM website for a product list amendment by use of the dedicated link 
+provided (Licence Application Type DA02). Fees for desktop reviews, as prescribed, relating to these 
+products lists (as a primary overview of compliance with quality, safety and efficacy) may be applicable 
+at the point of application and are indicated in the application. Any subsequent change to appended 
+product lists will thereafter be considered as an amendment (Licence Application Type DA01). 
+ 
+ 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 6 of 18 
+3.1.6 
+Licence Fees 
+Applications for licences submitted to the regulator (either the Medicines Control Council or the South 
+African Health Products Regulatory Authority) prior to 17 February 2020, and which pertain only to 
+Category D medicines and have not yet finalised, may be transferred to the electronic application, 
+provided that: 
+• 
+no service has been rendered on the application; 
+• 
+the fee prescribed at the time of application has been paid; and  
+• 
+reference for such payment is provided as part of the electronic application.  
+If no fee has yet been paid, the application must be re-submitted as a new licence application. 
+New licence applications are subject to payment of the licence fee as prescribed at the time of 
+application.  
+3.2 
+Licensing Periods 
+Only holders of a valid licence issued in terms of section 22C(1)(b) of the Medicines Act shall be permitted 
+to manufacture, import, export or act as a wholesaler or distribute medicines or Scheduled substances.  
+A transitional priority licensing period from 17 February 2020 to 28 February 2022 (see item 5) is 
+provided for licence applications of existing Category D medicine manufacturers, importers, exporters, 
+wholesalers or distributors prior to the publication of new call-up notices issued in terms of section 14 of 
+the Medicines Act. 
+In compliance with section 22C(1)(b) of the Medicines Act, the manufacture, import, export, wholesale or 
+distribution of medicines or Scheduled substances may only take place once licensed.  
+After the priority licensing period and publication of call-up notices associated with Category D, any new 
+manufacturers, importers, exporters, or wholesalers or distributors must hold a licence prior to 
+manufacturing, importing, exporting, wholesaling or distributing any Category D (complementary) 
+medicines or have submitted a Category D licensing application on or before 28 February 2022, pending 
+its finalisation. 
+The online licensing application process will continue to be available after the priority licensing period for 
+all new, amendment and renewal applications specific to Category D medicines. 
+From 01 March 2022 to 28 February 2023 new applicants may continue to submit licence applications 
+to SAHPRA with either a copy of NDoH premises licence or proof of application to NDoH without 
+confirmation of compliance with GPP for their NDOH/SAPC applications provided that an undertaking is 
+made to supply these when received. From 01 March 2023 new applicants must submit outcomes of 
+GPP desktop reviews as part of the SAHPRA Category D licensing applications. 
+3.3 
+Product Compliance 
+3.3.1 
+Labelling 
+All medicines identifiable as Category D medicines in terms of the Medicines Act and General 
+Regulations must be compliant with regulations 10 (labelling of medicines intended for human use), 
+11 (professional information for medicines for human use) and 12 (patient information leaflet).  
+In terms of the General Regulations made in terms of the Medicines Act: 
+• 
+The immediate container of any medicine must be labelled in compliance with regulation 10;  
+• 
+All medicines must be accompanied by Professional Information (regulation 11) which must at least 
+be in English and may be accessed electronically provided that the manner in which the professional 
+information may be accessed is stated on the patient information leaflet as contemplated in 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 7 of 18 
+regulation 12(2)(p). If the Professional Information is not available electronically, then it must be 
+supplied in hard copy or as an integral part of the package with the supply of the medicine; 
+• 
+All medicines are required to be supplied with Patient Information Leaflets (regulation 12) that are 
+in English and at least one other official language;  
+• 
+All active ingredients for complementary medicines should be named or referenced on the label, PI 
+or PIL in accordance with Annex B of Guideline 7.05 – Guideline for Complementary Medicines – 
+Registration Application ZA-CTD – Quality. Medicines available for sale prior to the date of 
+publication of this notice are expected to comply with Annex B of Guideline 7.05 by 28 February 
+2023. All new applications for registration must be submitted in compliance with this requirement; 
+• 
+All unregistered complementary medicines must state the disclaimer on all labelling, exactly as 
+prescribed by the General Regulations made in terms of the Medicines Act: “This unregistered 
+medicine has not been evaluated by the SAHPRA for its quality, safety or intended use.” Only 
+once registered may this disclaimer be removed; and 
+• 
+All complementary medicines must be identified as such, the relevant discipline must be clearly 
+stated, and all general or specific regulatory requirements adhered to relevant to the specific 
+product. 
+3.3.2 
+Rights of sale 
+All Category D medicines (complementary medicines), as defined, will be permitted continued rights of 
+sale, provided that: 
+• 
+An application is submitted for their registration by the prescribed deadlines of the applicable call-
+up notice; 
+• 
+they are manufactured, imported, exported, wholesaled or distributed by a holder of or applicant for 
+a relevant licence contemplated in section 22C(1)(b) of the Medicines Act at the end of the timeframe 
+specified herein;  
+• 
+they are specifically compliant with the requirements of section 20 and regulations 10, 11, 12 and 
+42 as prescribed, and are compliant with any other relevant provisions of the Medicines Act and its 
+regulations; and 
+• 
+they are indicated based on LOW RISK, which includes: 
+i.  
+General health enhancement without any reference to specific diseases;  
+ii.  
+Health maintenance; or  
+iii. 
+Relief of minor symptoms (not related to a disease or disorder). 
+Complementary medicines on sale indicated for use deemed to be of HIGH RISK without amendment 
+of their indication as above may be called up individually for registration by the SAHPRA. HIGH RISK 
+indications include: 
+i. 
+Treats/cures/manages any disease/disorder; 
+ii. 
+Prevention of any disease or disorder; 
+iii. 
+Reduction of risk of a disease/disorder; 
+iv. 
+Aids/assists in the management of a named disease/disorder or sign/symptom of a named 
+disease; 
+v. 
+Relief of symptoms of a named disease or disorder; or 
+vi. 
+Treatment of proven vitamin or mineral deficiency diseases. 
+Unregistered complementary medicines making use of the terms “Clinically proven” or any similar 
+expression (as per Annexure A) shall also be considered to be HIGH RISK and may be subject to 
+individual call-up in terms of section 14(2) of the Medicines Act. 
+Examples of low-risk indications are provided in Annexure B.  
+Any call-up notice issued for individual products on the basis of HIGH RISK classification may be 
+associated with the immediate cessation of its sale pending registration of the medicine by the SAHPRA 
+in terms of section 14(1) of the Medicines Act. 
+ 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 8 of 18 
+3.3.3 
+Advertising and Marketing 
+Medicines may be advertised, taking into account section 20 of the Medicines Act and regulation 42 of 
+the General Regulations. Unregistered complementary medicines should consider LOW RISK 
+advertising while bearing in mind the rights of members of the public to receive information that is 
+transparent, fair, honest, accurate, truthful and empowering.  
+3.4 
+Medicines Registration Process 
+All applications for registration that have already been submitted will continue to be processed and will 
+be finalised as soon as possible. For those applicants with products not associated with valid licences 
+this may occur only once the relevant licence in terms of section 22C(1)(b) of the Medicines Act has been 
+issued.  
+The Authority recognises that applications already submitted up until June 2020 may have undergone 
+fundamental changes due to a variety of reasons including, but not limited to, updated quality data, 
+amended clinical evidence or updated indications. As such, the SAHPRA has provided a process by 
+which applicants may, at their choosing, request that such applications be temporarily “uplifted”, 
+effectively suspending the relevant review, for such amendment and may be resubmitted in substitution 
+of the previous application without prejudice to the application review. This process will take into account 
+the existing progress made on the application and the reasons for upliftment. The SAHPRA has provided 
+a separate detailed communication on this option (see SAHPRA Communication to Stakeholders 
+REQUESTS: Existing Category D (Complementary Medicines) Registration Applications on 07 October 
+2021).  
+In future, the Authority will provide online mechanisms for the submission of applications for registration 
+of Complementary Medicines, which will continue to make use of the CTD format but will provide for 
+significant guidance specific to the requirements of Complementary Medicines and their risk profile. This 
+mechanism of application for registration will be prioritised for LOW RISK applications that consist of 
+single substances and will be progressively expanded to multiple substance formulations, combination 
+products and medicines of HIGH RISK. 
+All applications for registration of a medicine, where an electronic mechanism is not provided, must 
+comply with the current requirements for such application. 
+4. 
+Summary of legislative control of Complementary medicines  
+In terms of the legislative provisions aimed at the regulation of complementary medicines, the following 
+regulatory requirements should be adhered to:  
+(i) 
+Licensing of Manufacturers, Importers, Exporters and Wholesalers:  
+In terms of the provisions of section 22C(1)(b) of the Medicines Act, all manufacturers, importers, 
+exported and wholesalers or distributors of complementary medicines must be licensed.  
+(ii) 
+Labelling of Complementary medicines  
+In terms of the provisions of regulations 10, 11 and 12 of the General Regulations, all medicines 
+falling in Category D must comply with the labelling requirements in so far as the product label, the 
+Professional Information and the Patient Information Leaflet are concerned. Active ingredients must 
+be named according to Annex B of Guideline 7.05 – Guideline for Complementary Medicines – 
+Registration Application ZA-CTD – Quality. 
+(iii) Advertising and Marketing of Complementary Medicines 
+ 
+Section 20 of the Medicines Act and regulation 42 of the General Regulations. 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 9 of 18 
+(iv) Submission of applications of applicable medicines for registration as complementary medicines by 
+deadlines prescribed by relevant call-up notices issued in terms of section 14 of the Medicines Act.  
+(iv) All other requirements in terms of the guidance provided herein as well as the Medicines Act, 
+generally or specifically applicable to complementary medicines that would permit continued rights of 
+sale. Offences and penalties as prescribed by the Medicines Act and the General Regulations apply 
+equally in cases related to Category D medicines. 
+ 
+5. 
+Summary of General Timelines 
+ 
+ 
+ 
+ 
+Feb 2020 -
+Dec 2021
+•Finalisation of all outstanding "Health Supplement Annexures".
+•Updating, amendment and publication of existing Guidelines for Registration for 
+Complementary Medicines.
+Feb 2020 -
+- Feb 2022
+•A priority period that provides time for current suppliers to apply for licences to manufacture, 
+import, export or wholesale or distribute complementary medicines. SAHPRA CM portal 
+applications available from February 2020.
+> July 2021
+•Existing applications for medicine registrations which are pending finalisation of licensing 
+status will be finalised once licences are issued.
+•Publication of call-up notices (in terms of section 14 of the Medicines Act) for Category D 
+medicines. Call-up notices staged for Category D medicines over a period ranging from 6 
+months to 72 months.
+•Piloting of online application processes for registration of low risk Category D medicines.
+01 Mar 
+2022
+•Manufacture, import, export or wholesale or distribution of medicines or Scheduled substances 
+may only take place once licensed in accordance with section 22C(1)(b) of the Medicines Act 
+or a licence application has been submitted prior to this date (01 March 2022).
+01 Mar 
+2023
+•Compliance of labelling (product label, PI and PIL) of active ingredients with Annex B of 
+Guideline 7.05 (01 March 2023). Note: Applications for registration of a Category D medicine 
+or licence associated with a Category D medicine to be compliant with this requirement at the 
+point of submission. 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 10 of 18 
+6. 
+General advice to consumers  
+Consumers must remember that all complementary medicines are medicines. As with any other medicine 
+they should be used with care. When intending to use a complementary medicine, make sure it is the 
+correct product for you by seeking professional advice. Consumers must remember that “natural” does not 
+necessarily mean safe. Many plants and other natural compounds can be poisonous to humans. Many 
+pharmaceutical medicines have been developed from plants because of the powerful compounds they 
+contain. The quality, safety and efficacy of complementary medicines in South Africa cannot be 
+ascertained unless they have been evaluated and registered by the SAHPRA.  
+Complementary medicines can interact with other medicines. This could result in other medicines having 
+reduced or enhanced effects, including side-effects. When consulting your relevant health care providers 
+about your health always tell them about any complementary medicines you are taking. If you are pregnant 
+or breastfeeding your baby, please consult your relevant health care provider for advice before taking these 
+medicines. As with all medicines, keep complementary medicines out of the sight and reach of children.  
+Adverse reactions can occur as a result of taking complementary medicines as for any other form of 
+medicine. Consumers and prescribers are encouraged to notify the Authority of any adverse event 
+(including therapeutic ineffectiveness) that may be experienced, by using the SAHPRA Adverse Drug 
+Reactions and Quality Problem Reporting Form 
+Other than reports of adverse events, consumers are able to report or lodge anonymous complaints of 
+non-compliance against any complementary medicine through a dedicated website: www.sahpracm.org.za 
+or consumers are welcome to report complaints of non-compliance with the SAHPRA directly. 
+7. 
+Update History 
+Date 
+Reason for update 
+Version & publication 
+Nov 2013 
+Publication for implementation 
+v1 November 2013 
+Sep 2019 
+Amended publication in accordance with amended 
+regulation. 
+v2 September 2019 
+Jun 2020 
+SAHPRA Branding 
+Amendments: 
+Section 2:  
+CBD products and licensing  
+Sections 3.1, 3.1.5, 3.2, 3.3.1, 5: Timeframes 
+Section 3.1:  
+Hyperlink correction  
+Section 3.1.3: 
+Discretionary inspection guidance 
+Section 3.1.5:  
+Clarification of fees 
+Section 3.3.2:  
+Clarification of high risk bullet iv (see 
+also Guideline 7.01 amendment) 
+Section 3.3.2:  
+Introduction to Annexure B 
+Section 3.4:  
+Reference to upliftment of medicine 
+registration applications 
+Section 6: 
+Pregnant / breastfeeding reference 
+Annexure B:  
+Examples of low risk indications 
+v2_1 June 2020 
+Mar 2021 
+Sections 3.2, 5: 
+Timeframes 
+Annexure C: 
+Process flow for new application for 
+licences limited to complementary medicines  
+v2_2 March 2021 
+Dec 2021 
+General amendments for process update. 
+Sections 3.2, 3.3.1, 5: 
+ 
+Timeframe adjustments with guidance. 
+ 
+Amended 
+timeframes 
+for 
+labelling 
+requirements in terms of Annex B of 
+Guideline 7.05. 
+Annexure C:  
+Licensing process narrative added. 
+v2_3 December 2021 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 11 of 18 
+ANNEXURE A 
+GUIDANCE ON THE USE OF PARTICULAR EXPRESSIONS IN  
+ADVERTISING OF UNREGISTERED MEDICINES 
+It has come to the attention of the South African Health Products Regulatory Authority (SAHPRA) that various 
+companies selling unregistered Complementary Medicines on the South African market, for which quality, safety 
+and efficacy have not yet been evaluated or verified, may be inappropriately making use of advertising or 
+marketing strategies which include use of the words “clinically proven” or similar descriptions including, but not 
+limited to: “clinically”, “expertly” or “scientifically”, “formulated”, “developed” or “tested” . 
+The SAHPRA has resolved and hereby advises that: 
+1. 
+Any clinical or other evidence related to unregistered medicines purported to be in substantiation of any 
+claim about the quality, safety or efficacy of a medicine must be evaluated by the SAHPRA and such claims 
+may only be confirmed by its registration. This is in order to ensure that the claim is valid in terms of the 
+evidence relied upon and reflects the relative weight of all available evidence related to the medicine.  
+2. 
+As there has not yet been any scientific evidence evaluated and approved by the SAHPRA to support the 
+use of the words “clinically proven” or similar expression (as indicated above), the use of such expression 
+may be potentially misleading and constitutes a risk to the public. Such expression may also prove to be 
+a contravention of section 20(1), paragraphs (a) and (b) of the Medicines and Related Substances Act, 
+1965 (Act 101 of 1965) (hereafter referred to as “the Medicines Act”). 
+3. 
+The SAHPRA considers the use of the words “clinically proven” or other similar claims that may suggest 
+the product to be of substantiated or accepted clinical efficacy without specific approval from the SAHPRA 
+to potentially be a contravention of regulation 42(4) of the General Regulations made in terms of the 
+Medicines Act. 
+The SAHPRA hereby notifies all stakeholders that a contravention of section 20(1) of the Medicines Act or 
+regulation 42(4) of the General Regulations made in terms of the Medicines Act may constitute an offence in 
+terms of the Medicines Act or General Regulations made in terms of the Medicines Act, respectively. 
+The SAHPRA therefore strongly recommends to all stakeholders to be mindful of the protection of public health 
+and all relevant legislation which may impact upon such claims described herein and to refrain from the use of 
+such terms which may prove misleading to consumers. It is recommended that all processes relevant to the 
+registration of medicines and the control thereof are considered in the best interest of all members of the public. 
+ 
+ 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 12 of 18 
+ANNEXURE B 
+EXAMPLES OF LOW-RISK INDICATIONS 
+The following examples of indications are guides as to how various low-risk indications may be phrased in 
+compliance with guidance provided by SAHPRA in Guidelines 7.01 and 7.04. 
+ 
+System/Type 
+Indication 
+GENERAL 
+Helps maintain /support energy production in body cells 
+GENERAL 
+Helps maintain /support cell membrane structure 
+GENERAL 
+Helps maintain /support cell structure 
+GENERAL 
+Helps maintain /support body cell uptake of (state vitamin/mineral/nutrient) 
+GENERAL 
+Helps enhance/promote collagen formation 
+GENERAL 
+Maintain/support collagen formation 
+EAR 
+Maintain/support ear health 
+EAR 
+Maintain/support healthy ear function 
+EAR 
+Maintain/support healthy hearing 
+EYE 
+Helps maintain/support healthy eye development 
+EYE 
+Maintain/support healthy eye function 
+EYE 
+Maintain/support eye health 
+JOINT 
+Helps enhance/promote joint health 
+JOINTS 
+Maintain/support joint health 
+JOINTS 
+Maintain/support joint mobility/flexibility 
+NAILS 
+Maintain/support nail health 
+MOUTH  
+Maintain/support oral health 
+BONE  
+Helps enhance/promote bone health 
+BONE  
+Maintain/support bone health 
+NUTRITION 
+Enhance/improve/promote/increase nutrient uptake 
+NUTRITION 
+Enhance the assimilation/transportation of nutrients 
+GIT  
+Decrease/reduce/relieve abdominal feeling of fullness 
+GIT  
+Decrease/reduce/relieve abdominal pain/discomfort 
+GIT  
+Maintain/support stomach function 
+GIT  
+Helps enhance/promote stomach health 
+GIT  
+Maintain/support stomach health 
+NERVOUS 
+Maintain/support brain health 
+NERVOUS 
+Nourish the brain 
+NERVOUS 
+Brain tonic/Enhance brain health 
+NERVOUS 
+Maintain /support nerve cell health 
+NERVOUS 
+Maintain/support refreshing sleep 
+NERVOUS 
+Decrease/reduce/relieve sleeplessness 
+FEMALE 
+Maintain/support female reproductive system health 
+IMMUNE 
+Helps enhance/improve/promote immune system function 
+IMMUNE 
+Maintain/support immune system health 
+MUSCLE 
+Maintain/support muscle health 
+MUSCLE 
+Maintain/support healthy muscle contraction function 
+MUSCLE 
+Helps enhance/promote healthy muscle function 
+MUSCLE 
+Maintain/support muscle function 
+NUTRITION 
+Maintain/support (state vitamin/mineral) within normal range 
+NUTRITION 
+Helps prevent dietary (state vitamin/mineral/nutrient) deficiency 
+RESPIRATORY 
+Helps enhance/improve nose breathing 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 13 of 18 
+System/Type 
+Indication 
+RESPIRATORY 
+Maintain/support lung health 
+SKIN 
+Helps enhance/promote skin health 
+SKIN 
+Maintain/support skin health 
+SKIN 
+Maintain/support skin elasticity 
+SKIN 
+Maintain/support healthy skin flora 
+SKIN 
+Helps enhance/improve skin internal structure 
+URINARY 
+Maintain/support urinary tract health 
+URINARY 
+Maintain/support urinary tract function 
+WEIGHT / 
+SLIMMING 
+Prior to evaluation and registration, preparations indicated for slimming will be regarded as 
+being of low risk with the following combination of indications/labelling: 
+ 
+1. Low-risk indication: 
+May assist with weight loss when used with increased physical activity and an energy-
+reduced diet in healthy individuals. 
+ 
+2. Time limit of use recommended: 
+Do not use continuously for more than two (2) months without consulting your relevant 
+health care provider. 
+ 
+3. As a boxed warning: 
+This product is not intended to prevent or treat obesity. 
+ 
+ 
+ 
+ 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 14 of 18 
+ANNEXURE C 
+LICENSING OF MANUFACTURERS, WHOLESALERS, DISTRIBUTORS, IMPORTERS AND EXPORTERS 
+OF CATEGORY D (COMPLEMENTARY) MEDICINES IN TERMS OF THE  
+PHARMACY ACT AND THE MEDICINES ACT 
+“Pharmacy Act” refers to the Pharmacy Act, 1974 (Act 53 of 1974) 
+“Medicines Act” refers to the Medicines and Related Substances Act, 1965 (Act 101 of 1965) 
+Effective 17 February 2020, SAHPRA provided for a means of electronic application for licences related to:  
+i) 
+the manufacture, import or export;  
+ii) 
+the import or export; or  
+iii) 
+acting as a wholesaler or distribution, 
+of Category D medicines.  
+The application portal is available at www.sahpracm.org.za and includes new applications, renewal applications 
+as well as applications for amendments to existing licences. With respect to the application for any of the licences 
+to be issued in terms of the Medicines Act, information to be submitted includes that which is stipulated in 
+regulation 23 of the General Regulations as well as information specific to the requirements of the various classes 
+of complementary medicines (Category D).  
+As prescribed, licences issued will be valid for a period of five (5) years during which the holder of the licence 
+must be inspected for verification of the attestation of compliance with minimum requirements included with the 
+application submitted to the Authority. This inspection is required prior to the renewal of any licence issued and 
+will be based on the submission of the application as attested to by the Responsible Pharmacist. While a licence 
+may be issued on the basis of attestation, a Good Manufacturing Practice (GMP) Certificate would only be issued 
+to applicants following a successful GMP inspection and a positive recommendation from such inspection.  
+In design of the licensing process, SAHPRA took note that new applicants for SAHPRA licences must first be in 
+the possession of pharmacy premises licences, responsible pharmacist certificates and recording of the 
+pharmacy owner. The SAHPRA further noted that both the National Department of Health (NDOH) and South 
+African Pharmacy Council (SAPC) rely upon the outcomes of the SAHPRA licensing process before any of these 
+applications are finalised. A key challenge to the licensing process in general, was therefore the different 
+processes outlined by all three entities (SAHPRA, NDOH and SAPC) and the lack of coordinated and streamlined 
+processes between these entities in outlining the steps to be taken when licensing the applicants.  
+The SAHPRA, having noted and acknowledged the challenge mentioned above and in an effort to assist in 
+coordinating the various steps required by potential applicants, consulted the SAPC and NDOH and all entities 
+have subsequently developed a draft process flow (Figure 1) that will guide the process for new applications for 
+licences limited to Complementary Medicines. This process considers the nature of the application type related 
+to Category D medicines, and further provides for the establishment of clear points of communication between 
+NDOH, SAHPRA and SAPC which will assist with the efficient finalisation of applications. 
+An explanation of the flow chart (Figure 1) tracking the process of a successful application for new licences 
+limited to Category D medicines (complementary medicines), is provided on the next page. 
+ 
+ 
+ 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 15 of 18 
+START 1: 
+1. The process of licensing should be initiated by an applicant applying for a Pharmacy Premises Licence to 
+the National Department of Health (NDOH). This may be submitted via the South African Pharmacy Council 
+(SAPC) website. a, b, c 
+2. The NDOH reviews and verifies the completeness of the application.  
+3. The application is forwarded for further review to the relevant NDOH committees and SAPC. 
+4. The NDOH committees will provide a recommendation concerning their review.  
+5. The SAPC will undertake a desktop review of Good Pharmacy Practice (GPP) and may issue a 
+recommendation of apparent GPP compliance based on the desktop review undertaken to the applicant and 
+will notify the NDOH of such.  
+6. The applicant, in possession of the proof of the NDOH application made in step 1 (such as a screenshot of 
+the application case number confirmation) as well as the confirmation of compliance with GPP from SAPC 
+may proceed to START 2 and utilise these documents for the initiation of an application for the relevant 
+Category D licence. 
+NOTE: Prior to 01 March 2023 applicants may submit licence applications to SAHPRA with either a copy of 
+the NDoH premises licence or proof of application to NDoH without confirmation of compliance with GPP for 
+their NDOH/SAPC applications provided that an undertaking is made to supply these when received. Their 
+supply may be during or after the SAHPRA application review process.   
+START 2: 
+7. An applicant may, once the documents in step 6 are available, apply to the South African Health Products 
+Regulatory Authority (SAHPRA) for the appropriate Category D medicine licence via the online SAHPRA 
+CM complementary medicines portal available at www.sahpracm.org.za. An applicant must first be 
+registered as a SAHPRA CM website user and then log in to access the applications by navigating to 
+“Applications” – “Licensing” – “APPLY” – “1. New Applications” which provide options for new licences 
+including: 
+• 
+Type DL01 - Licence to manufacture, import or export Complementary Medicines (Category D) 
+[manufacturers only] 
+• 
+Type DL02 - Licence to import or export Complementary Medicines (Category D) [holders of certificate 
+of registration] 
+• 
+Type DL03 - Licence to act as a wholesaler of or distribute Complementary Medicines (Category D) 
+[wholesalers or distributors] 
+Required information is stated in the preamble of every application to which applicants must refer. 
+Documents necessary for new applications are listed below d. 
+8. SAHPRA will undertake a desktop review of the application submitted in step 7 concerning apparent 
+compliance with Good Manufacturing Practice (GMP), Good Distribution Practices (GDP) or Good 
+Wholesaling Practices (GWP), as may be applicable, based on the attestation and documents provided. 
+SAHPRA will also verify that the list of products supplied in the section 3D product list includes only bona 
+fide Category D medicines. e 
+9. Following successful review of the application, including review of any replies from the applicant, SAHPRA 
+may then recommend the issuing of a licence in terms of section 22C(1)(b) of the Medicines and Related 
+Substances Act, 1965 (Act 101 of 1965) to the applicant who, in turn, may provide this to the NDOH. f 
+10. SAHPRA notifies the NDOH of the issuing of the section 22C(1)(b) licence specific to Category D medicines 
+to the applicant.  
+11. The NDOH may, following satisfaction of all application criteria, issue a premises licence to the applicant. 
+12. The applicant may proceed to record the NDOH licence with the SAPC online in the manner and timeframe 
+prescribed. The SAPC issues the certificate of recording for the pharmacy and pharmacy owner, and a 
+certificate of registration for the responsible pharmacist. g, h 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 16 of 18 
+13. Within five (5) years from the date of issue, the holder of the licence must be inspected by SAHPRA against 
+the applicable standards. In the case of GPP certificates issued without an inspection by the SAPC (desktop 
+review only) then a joint inspection by SAHPRA and SAPC must take place. i 
+14. The NDOH may be notified of the SAPC inspection outcome. 
+15. Following a successful SAHPRA inspection, an application for the renewal of the Category D licence issued 
+in terms of section 22C(1)(b) may take place including the outcomes of steps 9, 11, 12, 13.  
+Notes:  
+a. For guidance on the process and requirements of this application, applicants may refer to the: 
+• SAPC website www.sapc.za.org, navigate to “Registered Organisations” and “Licensing and Recording”. 
+This includes a user Manual for applicants wishing to apply for a new pharmacy licence. 
+• NDOH application form (“Application for Pharmacy Premises licence in terms of Section 22 of the 
+Pharmacy Act 53 of 1974”) for guidance on the requirements. 
+b. The appointment of a Responsible Pharmacist is required for submission of an application for a pharmacy 
+premises licence.  
+c. Applications for Category D medicines with SAHPRA run independently from the pharmacy licensing 
+process with the NDOH and the SAPC. 
+d. Documents required for a new licence application include: 
+1 SAPC certificate of recording of the pharmacy or proof of submission of the application to the SAPC 
+2  Letter of authorisation of the responsible pharmacist to communicate with SAHPRA 
+3  Latest CV of the Responsible Pharmacist 
+4  Copy of proof of SAPC registration of the Responsible Pharmacist (RP)  
+5  Letter of authorisation of the responsible person to communicate with SAHPRA ( if not the RP)  
+6  CV of the responsible person 
+7  Copy of NDoH premises licence or proof of application to NDoH 
+Copy SAPC certificate of recording of the pharmacy for the site 
+8 Copy of SAPC certificate of recording of the pharmacy owner for the site 
+9 Site Master File (SMF) or the attestation and documentation as part of this application, and acknowledgement of 
+responsibility to prepare and submit the SMF 
+10 Local area plan 
+11 Building floor plan 
+12 Layout 
+13 Equipment inventory 
+14 Quality manual or Quality Assurance report (minimum SOPs and documentary evidence as required in the 
+application preamble) 
+15 Additional site copy of pharmacy premises licence, SAPC certificate of recording, and others as for primary site. 
+16 Quality assurance report including complete SOPs for: 
+Quality assurance product release 
+Recall 
+Finished product specifications and testing 
+Determination of shelf-life 
+Product sterilisation (if applicable) 
+Records of Quality assurance product release 
+Finished product specifications and testing 
+Determination of shelf life (expiry date) 
+List of SOPs (titles and numbers related to Quality management system)  
+17 List of products 
+18 Confirmation of understanding of responsibilities 
+19 Proof of payment 
+Roadmap and transitional process for the regulation of complementary medicines 
+December 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 17 of 18 
+e. Completion of a licence product list (section 3D product list) is required as part of the SAHPRA licence 
+application. A tutorial video for guidance on the completion of the section 3D product list is available online 
+for registered users at www.sahpracm.org.za – Cat. D Medicines - Media.  
+f. 
+Retention of a SAHPRA category D licence is subject to the payment of an annual fee as determined by the 
+SAHPRA and specified in the Regulations Regarding Fees Payable in terms of the provisions of the 
+Medicines and Related Substances Act, 1965 (Act 101 of 1965). 
+g. The pharmacy premises licence, certificates of recording for the pharmacy and pharmacy owner, and 
+responsible pharmacist registration certificate must be forwarded to the SAHPRA as final confirmation of 
+meeting the licensing requirements. 
+h. Retention of the recording of a pharmacy with the SAPC is subject to the payment of an annual fee as 
+determined by the SAPC and specified in the Fees Payable to the Council under the Pharmacy Act, 1974 
+(Act 53 of 1974).  
+i. 
+Concerning the SAHPRA inspection, the holder of the licence is inspected for verification of compliance to 
+the minimum requirements as included in the attestation when the application was submitted to SAHPRA. 
+j. 
+A licensing application in terms of either process may be recommended for refusal or rejection at or because 
+of any information obtained by any of steps 2, 3, 5, 8 and 13.  
+ 
+ 
+ 
+Roadmap and transitional process for the regulation of complementary medicines 
+November 2021 
+ 
+7.02_Roadmap_for_CMs_Dec21_v2_3 
+ 
+Page 18 of 18 
+ 
+FIGURE 1:  
+PROCESS FLOW FOR NEW APPLICATIONS FOR LICENCES LIMITED TO COMPLEMENTARY MEDICINES 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+14 
+13 
+15 
+

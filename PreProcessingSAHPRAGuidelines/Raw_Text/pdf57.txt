@@ -1,0 +1,1089 @@
+Page 1 of 24 
+SAHPGL-PEM-03_v4 
+ 
+ 
+ 
+GUIDELINE FOR THE API MASTER FILE (APIMF) PROCEDURE 
+ 
+ 
+Document History 
+ 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+1 
+First issue and published for implementation 
+June 2020 
+2 
+Issued for implementation: 
+− 
+To amend the method of submission of the APIMFs and restricted parts 
+to SAHPRA in section 3.3. 
+− 
+To include the use of a specific subject line to use for communication 
+on the APIMF email address. 
+− 
+To include that the submission form should be sent to the APIMF email 
+address to express interest in submitting the APIMF or restricted part. 
+− 
+To include the process of the submission of the APIMF or restricted 
+part to SAHPRA’s FTP portal. 
+− 
+To amend the submission form titled as Annexure C in this document. 
+− 
+To include further details on the submission form regarding the 
+associated product. 
+− 
+To include further details to describe the characteristics of the API such 
+as BCS class, stability, and proposed storage conditions. 
+January 2021 
+3 
+− 
+Content structured on the new SAHPRA Guideline Template 
+− 
+Old guideline number 2.59 changed to SAHPGL-PEM-03 
+September 2022 
+4 
+− 
+Addition of the Amendment schedule to the APIMF holder 
+− 
+Periodic review of document 
+July 2024 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA 
+CHIEF EXECUTIVE OFFICER 
+17 July 2024 
+This guideline is intended to provide recommendations to applicants and API manufacturers wishing to submit applications for the 
+registration of medicines and variations. It represents the Authority’s current thinking on the safety, efficacy, and quality of medicines. 
+It is not intended as an exclusive approach. SAHPRA reserves the right to request any additional information to establish the safety, 
+efficacy, and quality of a medicine in keeping with the knowledge current at the time of evaluation. Alternative approaches may be 
+used but these should be scientifically and technically justified. The Authority is committed to ensure that all registered medicines will 
+be of the required safety, efficacy, and quality. It is important that applicants adhere to the administrative requirements to avoid 
+delays in the processing and evaluation of applications. 
+Guidelines and application forms are available on the SAHPRA website: www.sahpra.org.za 
+Page 2 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+ 
+Contents 
+Document History ........................................................................................................................................... 1 
+Glossary ........................................................................................................................................................... 3 
+1. 
+INTRODUCTION ....................................................................................................................................... 5 
+1.1 Purpose ................................................................................................................................................... 5 
+1.2 Scope ....................................................................................................................................................... 6 
+2. 
+LEGAL PROVISION .................................................................................................................................... 6 
+3. 
+NEW REGISTRATIONS ............................................................................................................................ 11 
+3.1 Submission requirements ...................................................................................................................... 11 
+3.1.1 
+Existing APIMF record .................................................................................................................... 12 
+3.2 Evaluation process ................................................................................................................................ 13 
+3.2.1 
+Existing APIMF record .................................................................................................................... 13 
+3.2.2 
+No existing APIMF record .............................................................................................................. 14 
+4. 
+VARIATIONS ........................................................................................................................................... 14 
+4.1 Submission requirements ...................................................................................................................... 14 
+4.1.1 
+Existing APIMF record .................................................................................................................... 15 
+4.1.2 
+No existing APIMF record .............................................................................................................. 15 
+4.2 Evaluation process ................................................................................................................................ 16 
+4.2.1 
+Existing APIMF record .................................................................................................................... 16 
+4.2.2 
+No existing APIMF record .............................................................................................................. 16 
+5. 
+REFERENCES .......................................................................................................................................... 17 
+6. 
+VALIDITY ................................................................................................................................................ 17 
+7. 
+ANNEXURES ........................................................................................................................................... 17 
+7.1 Annexure A: Overview of APIMF content .............................................................................................. 17 
+7.2 Annexure B: Example of a Letter of Access template (GLF-PEM-02B)................................................... 20 
+7.3 Annexure C: Example of a Submission Form template (GLF-PEM-02A) ................................................ 21 
+Page 3 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+Glossary 
+ 
+Abbreviation/ Term 
+Meaning 
+API 
+Active  Pharmaceutical Ingredient 
+APIMF 
+Active Pharmaceutical Ingredient Master File 
+API manufacturer 
+A party involved in the manufacturing chain of the API. 
+APIMF holder 
+The holder of an Active Pharmaceutical Ingredient master file (APIMF) 
+APIMF number 
+A unique reference number allocated to the APIMF upon receipt of 
+applications 
+APIMF record 
+SAHPRA’s record of an approved API + API manufacturer, evidenced by a 
+unique APIMF reference number. 
+Applicant 
+The applicant can also be called the proposed holder of the certificate of 
+registration. 
+Category A 
+Medicines which are intended for use in humans, and which are, without 
+manipulation, ready for administration, including packaged preparations 
+where only a vehicle is added to the effective medicine. 
+Category C 
+Medicines intended for veterinary use which are, without further 
+manipulation, ready for administration, including packaged preparations 
+where only a vehicle is added to the effective medicine. 
+Category D 
+Complementary medicines intended for use in humans and animals, which 
+are, without manipulation, ready for administration, including packaged 
+preparations where only a vehicle is added to the effective medicine. 
+CEP 
+Certificate of Suitability to the monographs of the European Pharmacopoeia 
+Closed part of the APIMF 
+An applicant generally does not have access to this information, which is 
+confidential intellectual property of the API manufacturer, including individual 
+steps of the manufacturing method and manufacturing quality control 
+procedures. 
+CTD 
+Common Technical Document 
+DMF 
+Drug Master File 
+EDQM 
+European Directorate for the Quality of Medicines 
+EMA 
+European Medicines Agency 
+FPP 
+Finished Pharmaceutical Product 
+HCR 
+Holder of certificate of registration 
+Manufacturing  chain 
+A clear flow chart or written text explaining the manufacturing and 
+distribution route of the API from the first starting materials to the final API as 
+Page 4 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+delivered to the applicant/HCR. 
+Open part of the APIMF 
+The applicant must have access to this information, and it must be sufficient 
+for the applicant to ensure the suitability of the API used in the finished 
+pharmaceutical  product. 
+QIS 
+Quality Information Summary 
+QOS 
+Quality Overall Summary 
+Quality 
+The suitability of either an API or FPP for its intended use. This term includes 
+such attributes as the identity, strength, and purity. 
+RRA 
+Recognised regulatory authority 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SMF 
+Site Master File 
+Page 5 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+1. 
+INTRODUCTION 
+An Active Pharmaceutical Ingredient Master File (APIMF) contains all the required information for the quality1 
+evaluation of an API. The APIMF is comprised of two parts: 
+ 
+• 
+The open part2: The applicant must have access to this information, and it must be sufficient for the 
+applicant to ensure the suitability of the API used in the finished pharmaceutical product (FPP) 
+ 
+• 
+The closed part3: The applicant does not have access to this information, which is confidential 
+intellectual property of the API holder, including a detailed description of the manufacturing process 
+(with individual steps4), manufacturing quality control procedures, process validation etc. 
+ 
+Please see Annexure A of this document for a high-level overview from the European Medicines Agency (EMA) 
+on content guidelines for the open part versus the closed part of the APIMF. 
+ 
+Generally, API holder shares only the open part of the APIMF with the applicants to whom they supply the API. 
+Applicants therefore only submit the open part of the APIMF in a new registration application. However, 
+SAHPRA requires both the open and closed part of the APIMF to evaluate an API’s quality. 
+ 
+1.1 
+Purpose 
+ 
+The objectives of the APIMF5 Procedure are as follows: 
+ 
+• 
+To ensure that the API holders’ proprietary information is managed confidentially end-to-end: 
+ 
+o Communication on the closed part of the dossier is kept separate from that of the open part 
+(i.e. the applicant will not receive queries on the closed part, which could contain sensitive 
+information). The applicant will be notified that questions to the APIMF holder have been 
+submitted. 
+ 
+o A SAHPRA submission portal with strict access permissions for submission of the APIMF and 
+restricted parts. 
+ 
+ 
+1Can be referred to as Chemistry, Manufacturing and Controls (CMC). 
+2Can be referred to as the Applicant’s Part (AP). 
+3Can be referred to as the Restricted Part (RP). 
+4This can include starting materials, intermediates, reaction conditions, temperature, test methods, data of critical steps, in- process 
+control procedures and process validation data. 
+5Can be referred to by different documents or regulators as the DMF (Drug Master File), DSMF (Drug Substance Master File) and 
+ASMF (Active Substance Master File) 
+Page 6 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+o The APIMF will be stored electronically, with strict access permissions. 
+ 
+• 
+To allow one evaluation of an API from a specific manufacturing site to be used across multiple finished 
+pharmaceutical product (FPP) evaluations, reducing quality evaluation timelines. 
+ 
+1.2 
+Scope 
+ 
+Until further communication is issued, the APIMF Procedure will apply exclusively to Category A medicines. 
+This does not preclude a modified APIMF Procedure being applied to Category C or Category D medicines 
+in the future. 
+ 
+The APIMF Procedure is not applicable to the following categories of medicines: 
+ 
+• 
+Pre-evaluated APIs: 
+ 
+o APIs with a certificate of suitability of monographs of the European Pharmacopoeia (CEP) 
+from the European Directorate for the Quality of Medicines (EDQM) 
+ 
+o APIs that are pre-qualified by the World Health Organisation (WHO) 
+ 
+• 
+Biological active substances: 
+ 
+o The concept of the APIMF is not applicable to biological active substances. In line with 
+EMA’s view (see Annex 5 of EMA’s Guideline on Active Substance Master File Procedure), 
+the characterisation and determination of a biological active substance’s quality requires 
+extensive knowledge of the manufacturing process and its controls, and the applicant 
+therefore requires full and transparent access to all quality-related data. 
+ 
+The APIMF Procedure should always be associated with a new registration or variation application, i.e. 
+SAHPRA will not create an APIMF record for an API that is not part of an FPP intended to be registered in 
+South Africa. Please note that the APIMF Procedure may or may not be used when there is no confidentiality 
+issue between the applicant / FPP manufacturer and the API manufacturer, i.e. when they are the same 
+company. Should the company want to use the APIMF for future submissions then it is advised that they 
+apply for the APIMF procedure. 
+ 
+2. 
+LEGAL PROVISION 
+ 
+The legal provision for the registration of medicines, medical devices or IVDs is covered in the Medicines and 
+Page 7 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+Related Substances Act No. 101 of 1965, as amended and the gazetted General Regulations. 
+ 
+Section 15(1) - (10) of the Act states: 
+ 
+(1) 
+Every application for the registration of a medicine, medical device or IVD shall be submitted to the 
+Chief Executive Officer in the prescribed form and shall be accompanied by — 
+ 
+(a) 
+the prescribed particulars; 
+ 
+(b) 
+samples of the relevant medicines; 
+ 
+(c) 
+where practicable, samples of medical devices or IVDs; and 
+ 
+(d) 
+the prescribed registration fees. 
+ 
+(2) 
+As soon as possible after receipt by the Chief Executive Officer of an application contemplated in 
+subsection (1), he or she shall inform the applicant in writing that the application is being considered. 
+ 
+(3) 
+(a) If after consideration of any such application and after any investigation or enquiry which it may 
+consider necessary the Authority is satisfied that the medicine, medical device or IVD in question — 
+ 
+(i) 
+is suitable for the purpose for which it is intended; 
+ 
+(ii) 
+complies with the prescribed requirements; and 
+ 
+(iii) 
+is safe, efficacious and of good quality and, in the case of a medical device and IVD, 
+performs as intended. 
+ 
+the Authority shall issue the applicant with a certificate of registration to that effect. 
+ 
+(b) 
+If the Authority is not satisfied as contemplated in paragraph (a), it shall cause the applicant to 
+be notified in writing of the reasons why it is not so satisfied and cause the applicant to be 
+informed that he or she may within a period of 30 days after the date of the notification furnish 
+the Chief Executive Officer with his or her comments on the Authority’s reasons for not being 
+so satisfied. 
+ 
+(c) 
+If no such comments are submitted by the applicant within the said period, or if after 
+consideration of any comments so submitted the Authority is still not satisfied as aforesaid, it 
+shall reject the application. 
+ 
+(4) 
+Every medicine, medical device or IVD shall be registered under such name as the    Authority may 
+Page 8 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+approve. 
+ 
+(5) 
+The Chief Executive Officer shall allocate to every medicine, medical device or IVD registered under 
+this Act a registration number which shall be recorded in the register opposite the name of such 
+medicine, medical device or IVD and which shall be stated in the certificate of registration issued in 
+respect of such medicine, medical device or IVD. 
+ 
+(6) 
+Any registration under this section — 
+ 
+(a) 
+may be made subject to such conditions as may be determined by the Authority; and 
+ 
+(b) 
+shall in the case of medicines, be valid for a period of five years. 
+ 
+(7) 
+No condition shall be imposed under subsection (6) whereby the sale of the medicine in question by 
+any person other than a pharmacist is prohibited or until after the applicant has in writing been 
+notified by the Chief Executive Officer that the imposition of such condition is contemplated and 
+invited to submit written representations to the Authority in regard to the matter. 
+ 
+(8) 
+If no such representations are lodged by the applicant concerned within a period of 30 days after the 
+receipt by him or her of any notification referred to in subsection (7), or if after consideration of any 
+such representations the Authority is still of the opinion that the condition in question should be 
+imposed, the Authority shall register the medicine, medical device or IVD concerned subject to the 
+said condition. 
+ 
+(9) 
+Notice of the rejection of an application for registration under this section in respect of a medicine, 
+medical device or IVD referred to in subsection (3) of section 14 shall be given in the Gazette by the 
+Chief Executive Officer. 
+ 
+(10) The Chief Executive Officer shall as soon as possible after the date of expiry of the appropriate period 
+referred to in section 14 (3) publish in the Gazette the prescribed particulars in respect of all 
+applications for registration received by him or her prior to such date. 
+ 
+ 
+ 
+Section 16(1) - (10) of the General Regulations states: 
+ 
+(1) 
+Any person residing in the Republic may make an application for the registration of a medicine on an 
+application form obtainable from the office of the Chief Executive Officer. 
+ 
+(2) 
+The application referred to subregulation (1) must include the particulars of the person with 
+Page 9 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+appropriate knowledge of all aspects of the medicine who shall be responsible for communication 
+with the Authority. 
+ 
+(3) 
+The application contemplated in subregulation (1) shall be accompanied by- 
+ 
+(a) 
+a screening form which is obtainable from the Chief Executive Officer which has 
+been completed by the applicant; 
+(b) 
+a proposed label for use on the medicine; 
+ 
+(c) 
+where applicable, a copy of the manufacturing licence together with the current Good 
+Manufacturing Practice certificate from the regulatory authority of the country where the 
+medicine is manufactured; 
+ 
+(d) 
+in the case of specified Schedule 5, Schedule 6, Schedule 7 and Schedule 8 substances, a 
+certified copy of a permit to manufacture such substances; 
+ 
+(e) 
+all available data on the safety, efficacy and quality of the medicine, as may be determined by 
+the Authority; 
+ 
+(f) 
+proof of the existence of a manufacturing site, which may include a Site Master File; 
+ 
+(g) 
+any other information as may be required by the Authority; and 
+ 
+(h) 
+the applicable application fee. 
+ 
+(4) 
+The information referred to in subregulation (3) shall be submitted in English. 
+ 
+(5) 
+The application Form referred to in subregulation (1) shall contain at least the following information: 
+ 
+(a) 
+particulars of the applicant and the prospective holder of certificate of registration, including:- 
+ 
+(i) 
+name; 
+ 
+(ii) 
+business address; 
+ 
+(iii) 
+postal address; 
+ 
+(iv) 
+telephone number; 
+ 
+(v) 
+fax number, if applicable; 
+Page 10 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+(vi) 
+e-mail address, if applicable; and 
+ 
+(vii) 
+contact details of the person referred to in subregulation (2) in the case of a juristic 
+person; and 
+ 
+(b) 
+particulars of a medicine, including - 
+ 
+(i) 
+proposed proprietary name; 
+ 
+(ii) 
+dosage form; 
+ 
+(iii) 
+strength per dosage unit; 
+ 
+(iv) 
+route of administration; 
+ 
+(v) 
+the country where the medicine is manufactured; 
+ 
+(vi) 
+registration status outside the Republic; 
+ 
+(vii) 
+category, class and a statement identifying the discipline if falling under Category D; 
+ 
+(viii) the name of the manufacturer(s); 
+ 
+(ix) 
+the name of any site where any bioequivalence data was generated; and 
+ 
+(x) 
+approved name of each active pharmaceutical ingredient. 
+ 
+(6) 
+A medicine, in respect of which an application for registration is made, must comply with the 
+technical requirements as determined by the Authority. 
+ 
+(7) 
+An application shall be made in respect of each individual dosage form and strength of a medicine. 
+ 
+(8) 
+In the case where a medicine in respect of which an application for registration is made, is or was 
+registered with any regulatory body outside the Republic, the following information in respect of 
+such medicine shall accompany the application: 
+ 
+(a) 
+a copy of the certificate of registration; 
+ 
+(b) 
+professional information relating to the medicine; 
+ 
+(c) 
+conditions of such registration; and 
+ 
+(d) 
+any other information as may be required by Authority. 
+Page 11 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+(9) 
+The provisions of this regulation shall, with the necessary changes, apply to the application for the 
+registration of veterinary medicines. 
+ 
+(10) An application referred to in subregulation (1) shall be accompanied by one sample of such medicine 
+subject to the provisions of regulation 6(2). 
+ 
+3. 
+NEW REGISTRATIONS 
+ 
+3.1 
+Submission  requirements 
+ 
+3.1.1 
+Applicant 
+ 
+Prior to submitting a new registration application, the applicant must obtain the following from the API 
+manufacturer: 
+ 
+• 
+A copy of the latest version of the open part of the APIMF 
+ 
+• 
+A copy of the GLF-PEM-02C QIS/ GLF-PEM-02D QOS of the latest version of the open part of the 
+APIMF 
+ 
+• 
+SAHPRA APIMF number should be referenced in the application letter, as well as in the relevant 
+parts of the QIS/QOS. 
+ 
+• 
+Reliance documentation should be included in module 1.10 from the approved RRAs. 
+ 
+• 
+Provide evidence of submission from the API manufacturer to the authority. 
+ 
+3.1.2 
+API Manufacturer 
+ 
+Prior to submitting a new registration application, the API manufacturer must submit the following to the 
+authority: 
+ 
+• 
+Completed Submission form (GLF-PEM-02A). 
+ 
+• 
+Completed current Letter of access (GLF-PEM-02B) 
+ 
+• 
+Amendment schedule to APIMF holder (GLF-PEM-03A) (Response for new registrations). 
+ 
+• 
+The open and closed part of the APIMF. Must be clearly labelled as closed part (CP) or open part 
+(OP). 
+Page 12 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+3.1.3 Existing APIMF record 
+ 
+3.1.3.1 Applicant 
+ 
+The applicant must reference to the APIMF number in their new registration application to SAHPRA: 
+ 
+• 
+The APIMF number should be referenced in the application letter, as well as in the relevant parts 
+of the QIS/QOS. 
+ 
+• 
+SAHPRA’s other submission requirements must be adhered to, and the full dossier must be 
+submitted, including the open part of the APIMF. 
+ 
+3.1.3.2 API manufacturer 
+ 
+• 
+The API manufacturer should clearly indicate if there are any change (s) in the Amendment schedule 
+to APIMF holder (GLF-PEM-03A). 
+ 
+• 
+Completed Submission form (GLF-PEM-02A). 
+ 
+• 
+Completed current Letter of access (GLF-PEM-02B). 
+ 
+• 
+The open and closed part of the APIMF. Must be clearly labelled as closed part (CP) or open part 
+(OP). 
+ 
+The Common Technical Document (CTD) structure applies to the APIMF. The granularity and placement of 
+documents should follow SAHPRA’s existing guidelines. For the submission of an initial APIMF, the relevant 
+modules are as follows: 
+• 
+Module 1.0: Submission letter (in place of application letter) as per Annexure C 
+ 
+• 
+Module 1.2.2.6 Letter of access 
+ 
+• 
+Module 1.4.1: Information about the experts 
+ 
+• 
+Module 1.5.2.1 Amendment schedule to APIMF holder 
+ 
+• 
+Module 1.10: Reliance documentation (if applicable) 
+ 
+• 
+Module 2.3.S: Quality Overall Summary (relevant section) 
+ 
+• 
+Module 3.2.S: Quality information (relevant section) 
+Page 13 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+Reliance can be used for the APIMF. If the same APIMF is on record with one of SAHPRA’s recognised regulatory 
+authorities6 (RRAs), the API manufacturer can submit relevant documentation (approval letters, unredacted 
+assessment reports) for the APIMF in Module 1.10 to expedite the evaluation process. 
+A situation may arise where multiple applicants submit applications for the same new API + API manufacturer 
+API + API manufacturer (i.e. where there is no existing APIMF record) at a similar time. If an has submitted the 
+submission form and APIMF, but has not yet received an APIMF reference number, the date of submission can 
+be referenced in the letter of access for subsequent applicants until the APIMF reference number is created. 
+ 
+It is the API manufacturer’s responsibility to notify the applicants and SAHPRA about any changes to the open 
+and/or closed part of the APIMF, so that applicants can update all affected dossiers accordingly. 
+ 
+The API holder can submit the submission form to SAHPRA via the following method: 
+ 
+• 
+The submission form should be shared with SAHPRA via the dedicated email, APIMF@sahpra.org.za. 
+The subject line of the email should clearly reference the associated FPP application as follows, 
+Application 
+number 
+of 
+FPP_Applicant 
+name_API 
+name 
+(e.g. 
+123456_XYZ 
+Pharmaceuticals_Dolutegravir   Sodium) 
+ 
+• 
+The APIMF documents will then be submitted to SAHPRA via a secure SAHPRA submission portal. 
+Information on access to this portal will be shared with the APIMF holder once the Submission form 
+has been received or by contacting, APIMF@sahpra.org.za. 
+ 
+3.2 
+Evaluation process 
+ 
+3.2.1 Existing APIMF record 
+ 
+The full dossier (including the open and closed parts of the APIMF) will undergo screening to ensure that all 
+the required documents listed under 3.2.S are submitted, even though the existing APIMF record have been 
+submitted. 
+Upon evaluation of the API, SAHPRA will reference the APIMF number when evaluating Module 3.2.S. The 
+APIMF approval letter will be sufficient proof that the API + API manufacturer has been previously evaluated 
+and thorough quality evaluation of the API (Module 3.2.S) can be bypassed. 
+ 
+ 
+ 
+6 Please see section 7.2 of SAHPRA’s Quality and Bioequivalence Guideline for the list of RRAs. 
+Page 14 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+3.2.2 No existing APIMF record 
+ 
+The dossier will undergo screening to ensure that all the required documents listed under 3.3. 3.2.S are 
+submitted. Where no existing APIMF record have been submitted, SAHPRA will communicate directly with 
+the API holder regarding screening queries on the closed part of the APIMF. 
+Evaluation queries for the closed part of the APIMF will be sent directly to the API holder. Evaluation queries 
+for the open part of the APIMF will be sent to the applicant and the APIMF holder. 
+Once the API + API manufacturer has been evaluated, SAHPRA will send an outcome letter to the API 
+manufacturer, with a unique APIMF number for the specific API. The API manufacturer will be responsible 
+for sharing this APIMF number (in the letter of access) with other applicants whose products use the API in 
+question. 
+ 
+4. 
+VARIATIONS 
+ 
+The APIMF holder is responsible for keeping the content of their APIMF updated with respect to the actual 
+synthesis / manufacturing process and controls. The quality control methods should be kept in line with the 
+current regulatory and scientific requirements. 
+The applicant on the advice of the APIMF holder will submit a variation to SAHPRA. If the variation is contained 
+in the closed part of the APIMF, the applicant must send the variation and advise the APIMF holder to submit 
+the detailed closed part directly to SAHPRA. 
+The APIMF holder shall not make any changes to the content of the APIMF that may affect the quality or 
+performance of the FPP without informing each relevant applicant and/or HCR, as well as SAHPRA. The 
+notification to SAHPRA should be done through email to APIMF@sahpra.org.za, referencing the APIMF 
+number, if allocated. 
+ 
+4.1    Submission requirements 
+ 
+4.1.1 
+Applicant 
+ 
+Prior to submitting a variation application, the applicant must obtain the following from the API manufacturer: 
+ 
+• 
+A copy of the latest version of the open part of the APIMF 
+ 
+• 
+A copy of the GLF-PEM-02C QIS/ GLF-PEM-02D QOS of the latest version of the open part of the 
+APIMF 
+Page 15 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+• 
+SAHPRA APIMF number should be referenced in the application letter, as well as in the relevant 
+parts of the QIS/QOS. 
+ 
+• 
+Reliance documentation should be included in module 1.10 from the approved RRAs. 
+ 
+• 
+Provide evidence of submission from the API manufacturer to the authority. 
+ 
+4.1.2 
+API Manufacturer 
+ 
+Prior to submitting a variation application, the API manufacturer must submit the following to the 
+authority: 
+ 
+• 
+Completed Submission form (GLF-PEM-02A). 
+ 
+• 
+Completed current Letter of access (GLF-PEM-02B). 
+ 
+• 
+Amendment schedule to APIMF holder (GLF-PEM-03A) 
+ 
+• 
+The open and closed part of the APIMF. Must be clearly labelled as closed part (CP) or open part 
+(OP). 
+ 
+4.1.3 Existing APIMF record 
+ 
+All variations to a product with an existing APIMF record must include a reference to the APIMF number. 
+Apart from the APIMF number reference, the variation application submission follows the exact 
+requirements as in 4.1 and the latest relevant guidelines: 
+• 
+Variations 
+Addendum 
+For 
+Human 
+And 
+Veterinary 
+Medicines 
+SAHPGL-HPA-06 
+https://www.sahpra.org.za/document/variations-addendum-for-human-and-veterinary-medicines/ 
+ 
+• 
+Quality and Bioequivalence Guideline SAHPGL-PEM-02 https://www.sahpra.org.za/document/quality- 
+and-bioequivalence/ 
+ 
+Note: No variation application for a registered product with an APIMF number will be considered for 
+evaluation without direct reference to the APIMF number in the application. 
+ 
+4.1.4 No existing APIMF record 
+ 
+If a registered product does not have an associated APIMF number, the variation application submission 
+follows the exact requirements as outlined in 4.1 above and the latest relevant guidelines: 
+Page 16 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+• 
+Variations 
+Addendum 
+For 
+Human 
+And 
+Veterinary 
+Medicines 
+SAHPGL-HPA-06 
+https://www.sahpra.org.za/document/variations-addendum-for-human-and-veterinary-medicines/ 
+ 
+• 
+Quality and Bioequivalence Guideline SAHPGL-PEM-02 https://www.sahpra.org.za/document/quality- 
+and-bioequivalence/ 
+ 
+4.2 
+Evaluation process 
+ 
+4.2.1 Existing APIMF record 
+ 
+The evaluation of a proposed change to the APIMF will be done for the first variation application. If more 
+than one HCR submits the same variation application, it will not be re-evaluated in full. SAHPRA will verify 
+the sameness of the variation applications, looking at the content and APIMF reference number, and reject 
+or approve the subsequent applications based on the initial evaluation. 
+If there are specific evaluation queries on the closed part, these will be sent directly to the API holder. The 
+APIMF report kept on record will be updated with the latest information (approved variations) for future 
+reference. 
+ 
+4.2.2 No existing APIMF record 
+ 
+If a registered product does not have an associated APIMF number, evaluation of the variation application 
+follows the exact requirements as outlined in 3.1.2 above and the latest relevant guidelines: 
+• 
+Variations 
+Addendum 
+For 
+Human 
+And 
+Veterinary 
+Medicines 
+SAHPGL-HPA-06 
+https://www.sahpra.org.za/document/variations-addendum-for-human-and-veterinary-medicines/ 
+ 
+• 
+Quality and Bioequivalence Guideline SAHPGL-PEM-02 https://www.sahpra.org.za/document/quality- 
+and-bioequivalence/ 
+Page 17 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+6. 
+VALIDITY 
+ 
+7. 
+ANNEXURES 
+ 
+ 
+5. 
+REFERENCES 
+ 
+The following related documents are referenced: 
+ 
+5.1 
+Medicines And Related Substances Act, 1965 (Act No. 101 Of 1965) As Amended 
+ 
+5.2 
+Medicines And Related Substances Act, 1965 (Act No. 101 Of 1965) As Amended: General 
+Regulations 
+ 
+ 
+ 
+on this 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module 
+Content 
+Open part 
+Closed part 
+3.2. S.1
+General  information 
+x 
+3.2. S.1.1 
+Nomenclature 
+x 
+3.2. S.1.2 
+Structure 
+x 
+3.2. S.1.3 
+General properties 
+x 
+3.2. S.2 
+Manufacture 
+x 
+x 
+3.2. S.2.1 
+Manufacturer(s)8 
+x 
+3.2. S.2.2 
+Description of manufacturing process and 
+process controls 
+a) 
+b) 
+3.2. S.2.3 
+Control of Materials 
+x 
+3.2. S.2.4 
+Control of critical steps and intermediates 
+c) 
+d) 
+3.2. S.2.5 
+Process validation and/or evaluation 
+x 
+3.2. S.2.6 
+Manufacturing  process development 
+x 
+3.2. S.3 
+Characterisation 
+x 
+3.2. S.3.1 
+Elucidation of structure and other 
+characteristics 
+x 
+3.2. S.3.2 
+Impurities 
+x 
+e) 
+3.2. S.4 
+Control of drug substance 
+x 
+3.2. S.4.1 
+Specification 
+x 
+3.2. S.2.2 
+Analytical  procedures 
+x 
+3.2. S.4.3 
+Validation of analytical procedures 
+x 
+Page 18 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+3.2. S.4.4 
+Batch analysis 
+x 
+3.2. S.5.5 
+Justification of specification 
+x 
+f) 
+3.2. S.5 
+Reference standards or materials 
+x 
+3.2. S.6 
+Container closure system 
+x 
+3.2. S.7 
+Stability 
+x 
+3.2. S.7.1 
+Stability summary and conclusion 
+x 
+3.2. S.7.2 
+Post-approval stability protocol and stability 
+commitment 
+x 
+3.2.S.7.3 
+Stability data 
+x 
+ 
+8Including all companies involved in the manufacture of the active substance, including control/in process testing sites, intermediate 
+manufacturers, milling and sterilisation sites. 
+Page 19 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+7.2 
+Annexure B: Example of a Letter of Access template (GLF-PEM-02B) 
+ 
+ 
+ 
+ 
+Page 21 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+7.3 
+Annexure C: Example of a Submission Form template (GLF-PEM-02A) 
+ 
+Page 22 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+ 
+Page 23 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+ 
+Page 24 of 24 
+SAHPGL-PEM-03_v4 
+Guideline for the API Master File (APIMF) Procedure 
+17 July 2024 
+ 
+ 
+ 
+ 
+ 
+7.4 
+Annexure D GLF-PEM-03A amendment schedule to APIMF holder 
+ 
+ 
+

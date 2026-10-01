@@ -1,0 +1,889 @@
+SAHPGL-CEM-CT-10_v5 
+Page 1 of 18
+ 
+ 
+ 
+October 2022 
+GUIDELINE FOR SAFETY REPORTING DURING CLINICAL TRIALS 
+IN SOUTH AFRICA 
+This document has been prepared to serve as a guideline to those reporting adverse events occurring during the use of registered 
+or unregistered medicines in approved clinical trials. It represents the South African Health Products Regulatory Authority’s 
+current thinking on the measures to ensure safety, quality and efficacy of medicines.  It is not intended as an exclusive approach.  
+The Authority reserves the right to request any additional information to establish the safety, quality and efficacy of a medicine 
+and may make amendments in keeping with the knowledge which is current at the time of consideration of safety data. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First publication released for implementation and comment - Title "Reporting 
+Adverse Drug Reactions in South Africa" 
+May 2003 
+2 
+Fully revised and published under a new title 
+August 2016 
+3 
+Change in section 6.1, 6.2, 7.5, 7.6 and administrative changes 
+November 2019 
+4 
+Section 6.2 clarification 
+August 2021 
+5 
+Change of document number from 2.11 to SAHPGL-CEM-CT-10 
+October 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-CT-10_v5 
+Page 2 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................................. 1 
+1. 
+ABBREVIATIONS ......................................................................................................................................................... 4 
+2. 
+DEFINITIONS ............................................................................................................................................................... 4 
+2.1 Adverse Event ............................................................................................................................................................ 4 
+2.2 Adverse Drug Reaction (ADR) or Adverse Reaction ................................................................................................... 5 
+2.3 Investigational Product (IP) ........................................................................................................................................ 5 
+2.4 Line Listing ................................................................................................................................................................. 5 
+2.5 Participating Investigator(s) ....................................................................................................................................... 6 
+2.6 Serious Adverse Event (SAE) ...................................................................................................................................... 6 
+2.7 Unexpected (unlisted) Adverse Drug Reaction .......................................................................................................... 6 
+3. 
+INTRODUCTION .......................................................................................................................................................... 7 
+3.1 Purpose ...................................................................................................................................................................... 7 
+4. 
+LEGAL BASIS ............................................................................................................................................................... 7 
+5. 
+ROLES AND RESPONSIILITIES ...................................................................................................................................... 7 
+5.1 Sponsor/ Applicant..................................................................................................................................................... 7 
+5.2 Investigators ............................................................................................................................................................... 8 
+6. 
+SUBMITTING SAFETY REPORTS .................................................................................................................................. 8 
+6.1 The sponsor/applicant is required to provide SAHPRA with the following safety reports: ....................................... 8 
+6.2 Reporting Timeframes ............................................................................................................................................... 8 
+6.3 Content of 6 Monthly Progress Report ...................................................................................................................... 9 
+6.4 Findings from Other Sources ................................................................................................................................... 10 
+7. 
+ANY OTHER SAFETY REPORTING REQUIREMENTS ................................................................................................... 10 
+7.1 Investigator Brochure (IB) ........................................................................................................................................ 10 
+7.2 Development Safety Update Reports (DSURs) ........................................................................................................ 10 
+7.3 Ongoing Reports ...................................................................................................................................................... 11 
+7.4 Unblinding ................................................................................................................................................................ 11 
+7.5 Reports Relating to Pregnancy and Breast-Feeding ................................................................................................. 11 
+7.6 Overdose .................................................................................................................................................................. 12 
+7.7 Duration of Safety Reporting ................................................................................................................................... 12 
+8. 
+SUBMITTING ADR AND SAE REPORTS ...................................................................................................................... 12 
+8.1 Safety Reporting Requirements ............................................................................................................................... 12 
+9. 
+REFERENCES ............................................................................................................................................................. 12 
+SAHPGL-CEM-CT-10_v5 
+Page 3 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+10. UPDATE HISTORY ..................................................................................................................................................... 13 
+11. VALIDITY ................................................................................................................................................................... 13 
+12. ANNEXURES ............................................................................................................................................................. 14 
+12.1 Annexure A: Required Information .......................................................................................................................... 14 
+12.2 Annexure B: Safety Reporting During Clinical Trials Form ....................................................................................... 15 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-CT-10_v5 
+Page 4 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+ 
+ 
+1. 
+ABBREVIATIONS 
+Abbreviation/ Term 
+Meaning 
+ADR 
+Adverse Drug Reactions 
+AE 
+Adverse Event 
+CIOMS 
+Council for International Organizations of Medical Sciences 
+DSUR 
+Development Safety Update Reports  
+GCP 
+Good Clinical Practice 
+IB 
+Investigator Brochure 
+ICH 
+International Council for Harmonisation of Technical Requirements for 
+Pharmaceuticals for Human Use 
+IP 
+Investigational Product 
+MRSA 101 of 1965 
+Medicines and Related Substances Act (MRSA) 101 of 1965 
+SAE 
+Serious Adverse Events 
+SAHPRA 
+ South African Health Products Regulatory Authority 
+SAGCP 
+South African Good Clinical Practice 
+SUSAR 
+Serious Suspected Unexpected Adverse Reaction  
+2. 
+DEFINITIONS 
+These terms may have other meaning under different context but the meaning that will be used in this 
+guideline will be as defined in this document: 
+2.1 
+Adverse Event 
+“Adverse event/experience” is any untoward medical occurrence in a patient or clinical trial 
+participant administered an IP that may present during treatment with that IP but which does not 
+necessarily have a causal relationship with this treatment. 
+An adverse event can be any unfavourable and unintended sign, symptom or disease temporally associated 
+with the use of a medicine, whether considered related or not. 
+SAHPGL-CEM-CT-10_v5 
+Page 5 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+2.2 
+Adverse Drug Reaction (ADR) or Adverse Reaction 
+“Adverse drug reaction” or “adverse reaction” means a response to a medicine in humans which is noxious and 
+unintended and which occurs at any dose and which can also result from overdose, misuse or abuse of a medicine. 
+Response in this context means that a causal relationship between a medicine and an adverse event is at 
+least a reasonable possibility.  
+An adverse reaction includes adverse clinical consequences associated with the use of a medicine outside 
+the terms of the approved professional information (package insert)/applicable product information or 
+other conditions laid down for the marketing and use of the product (including prescribed doses higher 
+than those recommended, overdoses or abuse). 
+An adverse drug reaction, contrary to an adverse event, is characterised by the occurrence of a suspected 
+causal relationship between the medicine and the reaction, as determined by the reporter or a reviewing 
+healthcare professional.  The fact that the healthcare provider / professional is making a report to a holder 
+of a certificate of registration, serves as an indication that the observed event may be caused by the 
+medicine.  All spontaneous reports are, therefore, suspected adverse drug reactions. 
+In the case of pre- and post-marketing studies, adverse “events” are usually systematically solicited.  In 
+cases where there is uncertainty as to whether or not an event is a reaction, it is better to treat the event 
+as a reaction.  For the purpose of post-marketing clinical trials, an adverse drug reaction includes any 
+adverse event where the contribution of the study medication, concomitant medication or other medicinal 
+intervention of the clinical trial, cannot be ruled out. 
+2.3 
+Investigational Product (IP) 
+“Investigational Product (IP)” is defined as any product, used in a clinical trial being standard of care, 
+investigational or concomitant that is not registered in South Africa and/or has not been packaged and 
+labelled for use in South Africa.  
+2.4 
+Line Listing 
+A line listing provides key information but not necessarily all the details customarily collected on 
+individual cases.  Reactions are classified by body system for the most serious-presenting sign or 
+symptom.  The headings usually included are: 
+• country of occurrence (if relevant); 
+• source (e.g. spontaneous, clinical trial, literature, regulatory authority);  
+• age of participant; 
+• gender of participant; 
+• dose(s) of suspected medicine(s); 
+• dosage form and/or route of administration, batch number when applicable; 
+• duration of treatment (prior to event) time to onset; 
+• description of reaction (as reported); 
+• patient outcome (e.g. fatal, resolved, ongoing etc.); and 
+• comment (if relevant) 
+SAHPGL-CEM-CT-10_v5 
+Page 6 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+2.5 
+Participating Investigator(s) 
+“Participating Investigator(s)” is/are defined as inclusion of all investigators whom the 
+sponsor/applicant is providing IP under any of its clinical trials.  This includes, for example, all 
+investigators participating in clinical trials at South African and non-South African sites. 
+2.6 
+Serious Adverse Event (SAE) 
+A serious adverse event is any untoward occurrence that at any dose: 
+• results in death; 
+• is life-threatening; 
+• requires patient hospitalisation or prolongation of existing hospitalisation; 
+• results in a congenital anomaly/birth defect; 
+• results in persistent or significant disability/incapacity; or 
+• is a medically significant / important event or reaction. 
+The term “life-threatening” in the definition of “serious” refers to a reaction/event in which the patient was 
+at risk of death at the time of the reaction/event. It does not refer to an event which, hypothetically, might 
+have caused death if it were more severe. 
+Medical and scientific judgement should be exercised when deciding whether other situations are serious 
+or not.  Such instances could include medical events that may not be immediately life-threatening or result 
+in death or hospitalisation, but which may jeopardise the patient or may require intervention to prevent 
+one of the outcomes listed in the definition above.  Examples include blood dyscrasias or convulsions not 
+resulting in hospitalisation, or development of drug dependency or drug abuse. 
+The term “severe” is often used to describe the intensity (severity) of a specific event.  This is not the same 
+as “serious’, which is based on patient/event outcome or action criteria. 
+2.7 
+Unexpected (unlisted) Adverse Drug Reaction 
+For the purposes of this guideline, an “unexpected” adverse reaction is one in which the nature, 
+specificity, severity and outcome is not consistent with the applicable product information (i.e. with the 
+approved professional information or the investigator’s brochure). 
+An unexpected reaction includes class-related reactions which are mentioned in the applicable medicine 
+information but which are not specifically described as occurring with a medicine.  When the outcome of 
+the adverse reaction is not consistent with the applicable medicine information, the adverse reaction 
+should be considered as unexpected. 
+An expected ADR with a fatal outcome should be considered unexpected unless the South African labelling 
+specifically states that the ADR might be associated with a fatal outcome. 
+ 
+ 
+ 
+SAHPGL-CEM-CT-10_v5 
+Page 7 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+3. 
+INTRODUCTION 
+This guideline is intended to assist applicants/sponsors in the reporting of ADRs and SAEs occurring during 
+clinical trials that may be related to the investigational product (IP) or the conduct of the trial.  It is also 
+intended to provide guidance on the responsibilities of the applicant/sponsor and investigator; and provides a 
+framework for the minimum requirements for the information required.  The South African Health Products 
+Regulatory Authority (SAHPRA) guideline for reporting adverse reactions for registered medicines (Post 
+Marketing Reporting of Adverse Drug Reaction to Human Medicines in South Africa) is used for reporting ADRs 
+occurring during use of registered medicines.  Both pre and post-marketing guidelines should be followed for 
+reactions or events reported during use of registered medicines in clinical trials.   
+The reporting of all AEs (AEs) during a clinical trial will be in accordance with the specific trial protocol evaluated 
+by SAHPRA.    
+The adverse event reporting commitment of a protocol need to be aligned with the minimum requirements 
+set out below but certain trials may require special and exceptional adverse event monitoring and reporting 
+that will be specified by SAHPRA on a protocol-specific basis. 
+Where the nature of the Investigational Product (IP) or medical condition requires a deviation from this 
+guideline, the applicant/sponsor should provide clear arguments justifying the request for a waiver.  
+This guideline has been aligned with the International Council for Harmonisation of Technical Requirements 
+for Pharmaceuticals for Human Use (ICH), Integrated Addendum to ICH E6(R1): Good Clinical Practice E6(R2) 
+(2016) and the latest South African Good Clinical Practice (SAGCP) Guidelines and taking the circumstances of 
+clinical trials in South Africa into account. 
+3.1 
+Purpose 
+This guideline also applies to the reporting of adverse drug reactions (ADRs) and Serious Adverse Events (SAEs) 
+occurring during clinical trials. 
+4. 
+LEGAL BASIS 
+The guideline pertains to Section 21 of the Medicines and Related Substances Act (MRSA) 101 of 1965 (as 
+amended), Section 30 and 40 of the accompanying general regulations of the MRSA, as well as the Section 71 
+of the National Health Act 61 of 2003. 
+5. 
+ROLES AND RESPONSIILITIES 
+5.1 
+Sponsor/ Applicant 
+The Sponsor/ Applicant of a clinical trial is required to notify SAHPRA and all participating investigators, of 
+any adverse experience associated with the use of the IP that was both serious and unexpected, and any 
+finding from tests in laboratory animals that suggested a significant risk for human participants.   
+Sponsors/ Applicant should conduct ongoing safety evaluations including periodic review and analyses of 
+their entire safety database, not only for safety reporting purposes, but also to update investigator 
+brochures, protocols and consent forms with new safety information. 
+The entity responsible for reporting SAEs should be specified in the clinical trial application form.  
+ 
+SAHPGL-CEM-CT-10_v5 
+Page 8 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+5.2 
+Investigators 
+Investigators should report adverse events to the sponsor/applicant in a manner defined in the protocol. 
+6. 
+SUBMITTING SAFETY REPORTS 
+6.1 
+The sponsor/applicant is required to provide SAHPRA with the following safety reports: 
+6.1.1 Reports of Serious Suspected Unexpected Adverse Reaction (SUSAR) occurring in the clinical trial 
+(see CIOMS format/ Annexure B below) 
+6.1.2 Reports of all SUSAR and trends occurring with the IP in South Africa 
+6.1.3 Six-monthly Progress Report  
+6.1.4 Annual Development Safety Update Reports (DSUR)  
+6.1.5 Final Progress Report 
+6.1.6 Final Study Report 
+6.2 
+Reporting Timeframes 
+The sponsor/applicant is required to notify SAHPRA as follows: 
+Table:1 
+Type of Report 
+Timeline for 
+reporting 
+(Initial) 
+Timeline for 
+reporting (Follow 
+up) 
+Format 
+Preliminary reports: 
+Local Reports: 
+• 
+Fatal or life-threatening related 
+and unexpected 
+ 
+Foreign Reports: 
+• 
+Fatal or life-threatening related 
+and unexpected  
+(of special concern)** 
+ 
+ 
+ 
+7 calendar days* 
+ 
+ 
+30 calendar days  
+(should be 
+earlier if results 
+in premature 
+study closure, ie. 
+7 days) 
+ 
+ 
+Within 8 calendar 
+days 
+ 
+ 
+6-monthly as part of 
+progress report* 
+(should be earlier if 
+results in premature 
+study closure, ie. 8 
+days) 
+ 
+ 
+CIOMS 
+format/ 
+SAHPRA SAE form 
+ 
+ 
+Line listing 
+ 
+ 
+Local Reports : 
+Other serious adverse reaction (unexpected, 
+not fatal or life threatening) 
+15 calendar days 
+ 
+6 monthly 
+ 
+1. CIOMS format/ 
+SAE form 
+2. Line 
+Listing 
+(follow up) 
+ 
+SAHPGL-CEM-CT-10_v5 
+Page 9 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+Line listing of all Local reports:  
+•Serious (unexpected and expected) 
+adverse events  
+And any other issues of special concern 
+outside South Africa** 
+6-monthly as 
+part of the 
+progress report 
+ 
+ 
+ 
+Line listing 
+ 
+New information impacting on risk-benefit 
+profile of product or conduct of trial 
+3 calendar days 
+6-monthly 
+Detailed report 
+Other major safety concerns (changes in 
+nature, severity or frequency of risk factors, 
+etc.) 
+15 calendar days   6-monthly  
+Detailed report 
+Progress reports 
+6-monthly after 
+the initial 
+approval of the 
+clinical trial  
+30 
+days 
+of 
+the 
+completion 
+or 
+termination of the 
+clinical trial 
+Six-Monthly progress 
+report form 
+Final progress report 
+30 days of the 
+completion or 
+termination of 
+the clinical trial 
+ 
+Progress report form 
+Final Study Report  
+180 days of the 
+completion or 
+termination of 
+the clinical trial. 
+ 
+ 
+Annual Development Safety Update Reports 
+(DSUR) 
+Annually 
+ 
+ 
+Notes: 
+*A preliminary report should be provided to SAHPRA within 7 calendar days of first knowledge by the 
+Applicant/Sponsor followed by a follow-up/expedited report within another 8 calendar days. 
+**Significant safety issue defined for each clinical trial that require urgent attention of the Regulatory 
+Authority. Adverse Reaction of special concern from foreign jurisdiction should be based on appropriate 
+Regulatory Authority’s decision.  
+A safety issue leading to international regulatory action is considered to be significant at all times and hence 
+reportable. 
+SAHPRA reserves the right to impose additional reporting timelines on an individual protocol basis. 
+SAHPRA/CTC may require expedited reporting of AEs of special interest, whether serious or not. 
+Six-Monthly Progress Reports must be submitted to SAHPRA during the entire duration of the clinical trial. 
+Clinical trial closure occurs when no further data is being collected and not on termination of recruitment. 
+6.3 
+Content of 6 Monthly Progress Report 
+The sponsor/applicant must identify in each progress report all safety reports previously submitted to 
+SAHPRA concerning a similar suspected adverse reaction and must analyse the significance of the suspected 
+adverse reaction in light of previous, similar reports or any other relevant information.  The analysis must 
+SAHPGL-CEM-CT-10_v5 
+Page 10 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+include similar reports from all reports held by the sponsor and any other relevant information known to 
+the sponsor.  Sponsors should evaluate a suspected adverse reaction in the context of other related reports 
+or adverse events, including those that occurred in the placebo or active comparator group.  
+The analysis should include consideration of data from reports in the scientific literature and reports from 
+foreign commercial marketing experience.   
+SAHPRA recognises that in investigator-initiated studies, the investigator may not have access to complete 
+safety data maintained by a commercial sponsor or other investigators but are responsible for evaluating 
+all safety information available to them.   
+6.3.1 Reporting Safety Study Endpoints 
+All SAEs occurring during a clinical trial should be reported regardless, whether they are related to any study 
+end points or not. 
+6.4 
+Findings from Other Sources 
+The sponsor/applicant must also report expeditiously any findings from clinical, epidemiological, or pooled 
+analyses of multiple studies or any findings from animal or in vitro testing that suggest a significant risk in 
+humans exposed to the IP.   
+6.4.1 Findings   
+Findings that suggest a significant risk generally arise from ongoing or completed clinical studies, pooled 
+data from multiple studies, epidemiological studies, and published and unpublished scientific papers. 
+6.4.2 Findings from Animal or In-Vitro Testing 
+Findings from animal studies, such as carcinogenicity, mutagenicity, teratogenicity, or reports of significant 
+organ toxicity at or near the expected human exposure are examples of the types of findings that could 
+suggest a significant risk. 
+7. 
+ANY OTHER SAFETY REPORTING REQUIREMENTS 
+7.1 
+Investigator Brochure (IB) 
+The purpose of the investigator brochure (IB) is to provide the investigator with information (clinical and 
+non-clinical) about the IP that is relevant to the study of the IP in human participants.  Updated IBs should 
+be submitted to SAHPRA within 30 days of being finalised.  
+7.2 
+Development Safety Update Reports (DSURs) 
+The sponsor/applicant of a clinical trial in South Africa is responsible for the submission of an annual 
+Development Safety Update Report [ICH E2F] that includes information gathered from all clinical 
+experience with the IP, whether in SA or elsewhere.  
+Development Safety Update Report (DSUR) should be submitted within one year from approval of the study 
+and annually thereafter.   
+ 
+SAHPGL-CEM-CT-10_v5 
+Page 11 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+7.3 
+Ongoing Reports  
+7.3.1 Six-Monthly Progress Report  
+SAHPRA requires that any trial of more than 6 months duration must submit regular progress reports, 
+starting from 6 months after the trial approval and six monthly thereafter until the final report that details 
+the progress of the trial, which must include inter alia: 
+a) 
+SAHPRA study tracking number and Protocol number  
+b) 
+Study title  
+c) 
+The investigational product (IP) 
+d) 
+Details of sponsor and applicant 
+e) 
+Trial information 
+f) 
+Participant enrolment 
+g) 
+Line listing of local serious adverse events and suspected unexpected serious adverse reactions 
+(SUSARS), including deaths 
+h) 
+Any other item specified during the SAHPRA approval of the protocol application 
+i) 
+Any safety issue of special concern outside South Africa 
+j) 
+Line listing of all critical and major protocol violation at the site 
+k) 
+Signatures of national PI and representative of Applicant/Sponsor 
+7.3.2 Other Ongoing Reports  
+This includes, for example Independent Data Monitoring Committee (IDMC) and other interim reports.  The 
+interim report timeframe depends on trial-specific factors as per approved protocol. 
+7.4 
+Unblinding  
+SAHPRA will assess safety reports and consider appropriate actions to be taken.  SAHPRA may request 
+unblinding in cases of significant safety concerns on the part of itself or investigators.  If a sponsor has 
+concerns that unblinding of adverse events will compromise the integrity of the study, the sponsor can 
+propose an alternative reporting format to maintain the blind that must be agreed to by SAHPRA. 
+7.5 
+Reports Relating to Pregnancy and Breast-Feeding 
+The sponsor/applicant must report suspected adverse drug reactions related to pregnancy or breast-
+feeding as specified in section 6.2 above, regardless of whether the drug is contra-indicated in pregnancy 
+and/or lactation. Reports on pregnancy should not be forwarded before the outcome is known, unless 
+unintended pregnancy is suspected as an adverse drug reaction. Reports on pregnancy should not be 
+submitted if there is no adverse effect to the foetus/infant. 
+ 
+SAHPGL-CEM-CT-10_v5 
+Page 12 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+7.6 
+Overdose   
+Reports of overdoses should be submitted when the overdose was associated with a Serious Adverse Event 
+according to section 6.2. Overdoses should be reported regardless of whether they were intentional or 
+accidental which must be specified. 
+7.7 
+Duration of Safety Reporting 
+The duration of safety reporting for a clinical trial should be defined in the protocol and the clinical trial 
+application form and approved by SAHPRA.  If a delayed SAE is identified that would affect participants who 
+received the IP, SAHPRA should be notified so that participants can be followed up.   
+8. 
+SUBMITTING ADR AND SAE REPORTS  
+8.1 
+Safety Reporting Requirements  
+Adverse Drug Reactions occurring during post-marketing studies (Phase 4 and observational studies) should 
+be reported to the Vigilance Unit of SAHPRA.  
+Adverse Drug Reactions occurring during the use of concomitant and/or comparator medicine in a clinical 
+trial should be reported to the Clinical Trials Unit of SAHPRA.   
+Where to Submit a Report 
+Reportable Safety Information under clinical trials must be sent to:  
+E-mail:    ctcsaes@sahpra.org.za  
+Reportable Safety Information for post-marketing studies must be sent to:  
+E-mail:  
+adr@sahpra.org.za    OR   e2b@sahpra.org.za 
+Reporting of SAEs for medicines used under Section 21: 
+E-mail:  section21@sahpra.org.za 
+9. 
+REFERENCES 
+The following related documents are referenced: 
+9.1 
+General regulations made in terms of the medicines and related substances act, 1965 (act no. 101 of 
+1965), as amended. 
+9.2 
+International Council for Harmonisation (ICH) Topic E2A.  1995. Clinical Safety Data Management: 
+Definitions and Standards for Expedited Reporting, Step 5 – (CPMP/ICH/377/95). June.  
+9.3 
+International Council for Harmonisation (ICH) Topic E2B (M).  2000. Clinical Safety Data Management: 
+Data Elements for Transmission of Individual Case Safety Reports, Step 5 – (CPMP/ICH/287/95) 
+November. 
+9.4 
+International Council for Harmonisation (ICH) Topic E2F: 2010. Note for guidance on development 
+safety update reports.  EMEA/CHMP/ICH/309348/2008).  
+SAHPGL-CEM-CT-10_v5 
+Page 13 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+9.5 
+International Council on Harmonisation, harmonised tripartite guideline on Clinical safety data 
+management: Definitions and standards for Expedited reporting E2A. II D. Managing Blinded Therapy 
+Cases. 
+9.6 
+South African Good Clinical Practice Guideline.2020. 3rd ed.  South Africa. 
+9.7 
+Medicines and Related Substances Act, 1965 (Act 101 of 1965).  
+9.8 
+National Department of Health, National Health Act, 2003 (Act 61 of 2003). 
+9.9 
+United States Food and Drug Administration. 2012. Guidance for Industry and Investigators, Safety 
+Reporting Requirements for INDs and BA/BE Studies.  
+9.10 United States Food and Drug Administration. 2012. Guidance for Industry and Investigators, Safety 
+Reporting Requirements for INDs and BA/BE Studies.  
+10. UPDATE HISTORY 
+Date  
+Reason for Update  
+Version & Publication 
+May 2003 
+First publication released for implementation and 
+comment - Title "Reporting Adverse IMP Reactions in 
+South Africa" 
+v1 May 2003 
+Oct 2010 
+Formatted, contact details updated 
+v1.1 Oct 2010 
+Dec 2012 
+Exclusion of reporting of post-marketing ADRs and 
+reference to new guideline 
+v1.2 Dec 2012 
+September 2017 
+Fully revised document, publication under new title for 
+comment 
+v2 Aug 2016 
+September 2017 
+Approved for Implementation 
+v2 October 2017 
+July 2019 
+Published for implementation  
+v2 August 2019 
+November 2019 
+Section 6.1, 6.2, 7.5, 7.6 including administrative changes 
+V3 November 2019 
+August 2021 
+Clarification on Section 6.2 
+V4 August 2021 
+October 2022 
+Administrative changes 
+Change of document number from 2.11 to SAHPGL-CEM-
+CT-10 
+V5 October 2022 
+11. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces guideline for Safety 
+Reporting During Clinical Trials in South Africa, old document number 2.11. It will be reviewed on this 
+timeframe or as and when required. 
+ 
+ 
+SAHPGL-CEM-CT-10_v5 
+Page 14 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+12. ANNEXURES 
+12.1 Annexure A: Required Information 
+Outline of the required information: 
+1. Initial Expedited SUSAR reports 
+Within 7 or 15 days a complete report inclusive of the required administrative and clinical data must 
+be submitted to SAHPRA, refer to section 6.2: 
+a) SAHPRA study reference number and Protocol number  
+b) The suspected investigational product 
+c) An identifiable participant (e.g. study participant code number) 
+d) An adverse event assessed as serious and unexpected, and for which there is a reasonable 
+suspected causal relationship 
+e) An identifiable primary reporting source 
+f) Identity of the sender of the report to SAHPRA 
+g) Other comment or background information 
+2. Follow-up/Final Expedited Report 
+Eight days after the initial safety reporting, complete report inclusive of the required administrative 
+and clinical data.  
+Contents of the Follow-up/Final Expedited Report: 
+a) Copy/Information of the Initial Expedited report 
+b) Administrative and Identification Information 
+i. 
+Identification of the case safety report 
+ii. 
+Primary source(s) of information 
+iii. 
+Information on sender and receiver of case safety report 
+c) Information on the Case: 
+i. 
+Patient characteristics 
+ii. 
+Reaction(s)/event(s) - time to reaction (immediate, latent, etc.) 
+iii. 
+Results of tests and procedures relevant to the investigation of the patient 
+iv. 
+IP(s) information 
+v. 
+Narrative case summary and further information 
+ 
+SAHPGL-CEM-CT-10_v5 
+Page 15 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+12.2 Annexure B: Safety Reporting During Clinical Trials Form 
+This is intended for all Investigators/Sponsor/Applicants conducting clinical trial in South Africa. This has 
+been prepared to serve as a form to those reporting serious adverse events occurring during the use of 
+registered or unregistered medicines in approved clinical trials.  
+Instructions: 
+1. 
+Complete all parts of this form, sign and date the form. 
+2. 
+This form should be used for reporting of both initial and follow-up safety reports.  
+3.  
+This form should preferabbly be typed. 
+PART 1: ADMINISTRATIVE DETAILS 
+1.1 Study Title or abbreviated title 
+ 
+1.2 Protocol Number 
+ 
+1.3 SAHPRA reference number 
+ 
+ 
+PART 2: SITE INFORMATION 
+2.1 Name and address of site 
+ 
+2.2 Name of Principal Investigator 
+ 
+ 
+PART 3: PARTICIPANT INFORMATION 
+3.1 Participant trial ID 
+ 
+3.2 Age 
+ 
+3.3 Gender 
+ 
+3.4 Relevant pre-medical history 
+summary 
+ 
+ 
+PART 4: SAE INFORMATION 
+(where possible, tick (√) the appropriate box) 
+4.1 Type of report 
+ 
+Initial 
+ 
+Follow-up 
+ 
+Final 
+SAHPGL-CEM-CT-10_v5 
+Page 16 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+4.2 Reaction onset date 
+YYYY/MM/DD 
+4.3 Reaction stop date  
+YYYY/MM/DD 
+4.4 Outcome of adverse event  
+       Participant died 
+       Hospitalisation or prolongation 
+       Life threatening 
+       Congenital abnormality/ Birth defects 
+       Persistent or significant disability/incapacity  
+       Other (list)_______________ 
+4.5 Description of event summary 
+ 
+4.6 Relationship of event to study 
+product (causality)  
+       Definitely 
+       Probably related 
+       Possibly related 
+       Unrelated 
+ 
+4.7 Was study product discontinued 
+due to event? 
+       Yes 
+       No 
+       N/A 
+4.8 Describe steps taken to manage 
+SAE (narrative) 
+ 
+4.9 Did adverse event abate after 
+withdrawal of study product? 
+       Yes 
+       No 
+       N/A 
+4.10 Did adverse event reappear after 
+re-initiation of product? 
+       Yes 
+       No 
+       N/A 
+4.11 Crucial additional information 
+ 
+ 
+PART 5: SUSPECTED MEDICINE (S) INFORMATION 
+5.1a List suspected product(s) including 
+Investigational Product (IP) 
+ 
+5.1b List suspected concomitant or 
+comparator medicine(s) 
+ 
+5.2 Route(s) of administration 
+      Intravenous injection/Intravenous infusion (IV/IVI) 
+SAHPGL-CEM-CT-10_v5 
+Page 17 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+       Intramuscular 
+       Sub-cutaneous  
+       Topical  
+       Oral 
+       Sub-lingual 
+       Rectal  
+       Vaginal  
+       Other (list)_____________ 
+5.3 Dose(s) 
+ 
+5.4a Indication(s) for use of IP 
+ 
+5.4b Indication for concomitant 
+medicines 
+ 
+5.5a Date of initiation of treatment of IP 
+YYYYY/MM/DD 
+5.5b Date of initiation of treatment of 
+comparator or concomitant 
+YYYYY/MM/DD 
+5.6 Therapy duration (prior to onset of 
+SAE) 
+ 
+ 
+PART 6: FINAL OUTCOME 
+6.1 What was the final outcome of the 
+SAE? 
+      Ongoing 
+      Recovered completely  
+      Recovered with sequelae 
+      Permanent 
+      Died 
+Date related to above: 
+ 
+PART 7: CONTACT DETAILS 
+7.1 Name of applicant 
+ 
+7.2 Contact details 
+ 
+7.3 Signature and date 
+ 
+ 
+ 
+SAHPGL-CEM-CT-10_v5 
+Page 18 of 18
+Guideline for Safety Reporting During Clinical Trials in South Africa 
+October 2022 
+ 
+ 
+PART 8: PERSON COMPLETING THE FORM 
+8.1 Name and designation of person 
+completing this form 
+ 
+8.2 Signature and date 
+ 
+ 
+E-mail to: ctcsaes@sahpra.org.za  
+

@@ -1,0 +1,664 @@
+SAHPGL-MD-22_v1 
+Page 1 of 17 
+ 
+ 
+ 
+25 February 2026 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+This guideline outlines the principles and procedures for reliance-based review in both premarketing 
+and post-marketing regulatory activities for medical devices, including in vitro diagnostics (IVDs). It 
+defines the Regulatory Reliance pathways that the South African Health Products Regulatory 
+Authority (SAHPRA) will use in making regulatory decisions regarding establishment licensing, 
+product registration, clinical trial approvals, ISO 13485 audits, post-marketing and market 
+surveillance, and other functions such as importation for donations, exhibitions, and appraisals. This 
+document reflects SAHPRA’s current approach to ensuring the safety, quality, and performance of 
+medical devices and IVDs. SAHPRA reserves the right to request additional information to confirm 
+the safety, quality, and performance of a medical device, based on the knowledge available at the 
+time of evaluation. The Authority is committed to ensuring that all registered and listed medical 
+devices, including IVDs, meet required standards of quality, safety, and performance. Applicants are 
+expected to comply with all administrative requirements to prevent delays in processing and 
+evaluation. 
+ 
+ 
+ 
+ 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+First publication released for implementation 
+ February 2026 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-MD-22_v1 
+Page 2 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-MD-22_v1 
+Page 3 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................ 1 
+Glossary ............................................................................................................................................................... 4 
+1. 
+INTRODUCTION ......................................................................................................................................... 6 
+1.1 
+PURPOSE .................................................................................................................................................... 6 
+1.2 
+SCOPE ........................................................................................................................................................ 7 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 8 
+3. 
+PRINCIPLES OF RELIANCE ........................................................................................................................... 8 
+4. 
+RELIANCE-BASED PATHWAYS FOR MEDICAL DEVICES INCLUDING IVDs ................................................... 9 
+4.1 
+GENERAL DESCRIPTIONS OF THE RELIANCE-BASED EVALUATION PATHWAYS ......................................... 9 
+5. 
+RELIANCE PATHWAY ADOPTED BY SAHPRA ............................................................................................ 12 
+5.1 
+LISTING OF MEDICAL DEVICES INCLUDING IVDS, AS PART OF LICENSING ESTABLISHMENTS ................. 12 
+5.2 
+MEDICAL DEVICES INCLUDING IVDs PRODUCT REGISTRATION ............................................................... 12 
+5.3 
+CLINICAL TRIAL APPLICATION .................................................................................................................. 14 
+5.4 
+POST MARKET SURVEILLANCE ................................................................................................................. 14 
+6. 
+REFERENCES ............................................................................................................................................. 16 
+7. 
+VALIDITY .................................................................................................................................................. 17 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-MD-22_v1 
+Page 4 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+Glossary 
+Term/ Abbreviation 
+Meaning 
+AMDF  
+Africa Medical Devices Forum 
+AMRH 
+African Medicines Regulatory Harmonization 
+AMA  
+Africa Medicines Agency continental procedure 
+CRP 
+Collaborative Registration Procedure 
+Establishment License  
+A licence that is legally required to sell, manufacture, import, export, 
+wholesale medical devices it is obtained from SAHPRA through submitting the 
+relevant application form for all establishments that manufacture, distribute, 
+or wholesale medical devices. 
+FRP 
+Facilitated Registration Process 
+GCP 
+Good Clinical Practice 
+GRP 
+Good Regulatory Practices 
+IN VITRO Diagnostic 
+Medical Devices (IVDs) 
+Means a medical device, whether used alone or in combination, intended by 
+the manufacturer for the in vitro examination of specimens derived from the 
+body solely or principally to provide information for diagnostic, monitoring, or 
+compatibility purposes. 
+IMDRF 
+International Medical Device Regulators Forum 
+ISO 
+International Organization for Standardization 
+Manufacture 
+All operations that include the design, purchasing of material, specification 
+development, production, fabrication, assembly, processing, reprocessing, 
+releasing, packaging, repackaging, labelling and refurbishing of a medical 
+device or IVD, as the case may be, and includes putting a collection of medical 
+devices or IVDs, and possibly other products, together for a medical purpose 
+in accordance with quality assurance and related controls 
+FDA MAUDE 
+Manufacturer and User Facility Device Experience  
+MD 
+Medical Device 
+Medical device 
+Means any instrument, apparatus, implement, machine, appliance, implant, 
+reagent for in vitro use, software, material or other similar or related article, 
+including Group III and IV Hazardous Substances contemplated in the 
+Hazardous Substances Act, 1973 (Act No. 15 of 1973)— 
+(a) intended by the manufacturer to be used, alone or in combination, for 
+humans or animals, for one or 
+more of the following: 
+(i) diagnosis, prevention, monitoring, treatment or alleviation of disease; 
+(ii) diagnosis, monitoring, treatment, alleviation of or compensation for an 
+injury; 
+(iii) investigation, replacement, modification or support of the anatomy or of a 
+physiological process; 
+(iv) supporting or sustaining life; 
+(v) control of conception; 
+(vi) disinfection of medical devices; or 
+(vii) providing information for medical or diagnostic purposes by means of in 
+vitro examination of 
+specimens derived from the human body; and 
+(b) which does not achieve its primary intended action by pharmacological, 
+SAHPGL-MD-22_v1 
+Page 5 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+ 
+immunological or metabolic means, in or on the human or animal body, but 
+which may be assisted in its intended function by such means. 
+Market surveillance 
+Market surveillance of health products is a critical function of regulatory 
+bodies, ensuring that products like medicines, medical devices, and other 
+health-related items continue to meet quality, safety, and performance 
+standards after they are placed on the market. This surveillance involves 
+monitoring, inspecting, and investigating products to identify potential issues 
+and ensure compliance with regulations. 
+NRA 
+National Regulatory Authority (NRA); for this document, 
+the term also refers to regional regulatory authorities. 
+Reliance 
+The act whereby the regulatory authority in one jurisdiction takes 
+into account and gives significant weight to assessments performed by 
+another regulatory authority or trusted institution, or to any other 
+authoritative information, in reaching its own decision. The relying authority 
+remains independent, responsible, and accountable for the decisions taken, 
+even when it relies on the decisions, assessments and information of others 
+RRA  
+Recognized Regulatory Authority – a term used to refer to the list of 
+regulatory authorities with which SAHPRA aligns itself. 
+SAHPRA  
+South African Health Products Regulatory Authority 
+SANS 
+ 
+South African National Standard (usually an ISO standard accepted as 
+mandatory in South Africa, forms part of the product specification) 
+MDSAP 
+Medical Devices Single Audit Programme - Is a single audit system that allows 
+medical device manufacturers to undergo one audit to meet the regulatory 
+requirements of multiple jurisdictions, thereby reducing audits and increasing 
+efficiency. The program involves manufacturers being audited by a recognised 
+auditing organisation. 
+PMS 
+Post Market Surveillance 
+OEM 
+Original Equipment Manufacturer 
+WHO  
+World Health Organization 
+WHO Listed Authority 
+WHO Listed Authorities (WLA) is a regulatory authority or a regional 
+regulatory system which has been documented to comply with all the 
+relevant indicators and requirements specified by WHO for the requested 
+scope of listing based on an established benchmarking (GBT) and a 
+performance evaluation process. 
+WHO-PQ 
+World Health Organization Prequalification 
+WHO CRP 
+WHO Collaborative Registration Procedure 
+SAHPGL-MD-22_v1 
+Page 6 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+1. INTRODUCTION 
+Reliance is seen by a growing number of regulatory Authorities as an important tool for improving 
+the efficiency of regulatory operations. It allows the Authority to optimise use of resources, build 
+expertise and capacity, increase the quality of regulatory decisions, reduce duplication of effort, and 
+ultimately, promote timely access to safe, and quality-assured health products. By adopting reliance 
+measures whenever possible, regulators may focus their resources on key activities that cannot be 
+undertaken by others and that contribute to public health. Reliance principles (Universality, 
+Sovereignty of decision-making, Transparency, Respect of national and regional legal bases, 
+Consistency, and Competence) can be applied to any and all stages of the medical device product 
+lifecycle, and the extent to which a given regulatory authority (or jurisdiction) relies on the work of 
+another body can vary. Noting that reliance can be unilateral, bilateral (mutual) or multilateral. 
+SAHPRA will leverage the information in the shared reports and/or decisions to arrive at a regulatory 
+decision but will maintain its sovereignty and remain autonomous in its decision-making. Effective 
+implementation of reliance will benefit not only the Authority but also patients and other 
+stakeholders. 
+SAHPRA has adopted the reliance review process as a pathway for routine listing of medical devices, 
+including IVDs, pre-marketing, post-marketing, as well as demonstration (imported), appraisal, 
+personal use, and donation. This approach allows the authority to leverage evaluation efforts done 
+by a recognized regulatory authority (RRA) that SAHPRA aligns with to make evaluation process more 
+efficient and enhance market access. Reliance can facilitate/support regulatory preparedness and 
+response, particularly during public health emergencies. 
+It should be noted that this guideline does not replace the already published SAHPRA reliance 
+guideline (SAHPGL-BAU-01) for medicines and vaccines. 
+1.1 
+PURPOSE 
+This guideline is intended to provide information and guidance to applicants on the requirements to 
+be considered for reliance -based evaluation for the following processes:   
+i) 
+Routine listing of medical devices, including IVDs, as part of licensing establishments, 
+ii) 
+Auditing: ISO 13485 certification, 
+iii) 
+Product pre-marketing activities: Including Clinical Trials, 
+iv) 
+Product registration: Market authorisation and performance testing (if applicable), 
+v) 
+Product post-marketing: Performance testing, variations, vigilance, post-marketing 
+SAHPGL-MD-22_v1 
+Page 7 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+surveillance,  
+vi) 
+Product risk classification as confirmed by the Regulator and proposed classification in 
+the Republic,  
+vii) 
+Other: Demonstration (imported), appraisal, personal use, donation, regulatory 
+documentations. 
+1.2 
+SCOPE 
+This guideline is applicable for the evaluations of, pre-approval product registration, new product 
+registration, post-approval product changes, and renewals of applications submitted under the 
+reliance-based review.  
+This guides applicant submitting applications for review using one of the following reliance 
+pathways: 
+i) 
+Listing of medical devices, including IVDs, as part of licensing establishments  
+ii) 
+Auditing: ISO 13485 certificate for medical device establishments as per section 
+22C (1) of the Act, and medical device manufactures and distributors  
+iii) 
+Registration of medical devices, including IVDs  
+iv) 
+Product performance testing 
+v) 
+Product importation (such as demonstration & appraisal, and personal use),  
+vi) 
+Clinical Trials (Pre and Post Marketing)  
+vii) 
+Post-market applications (variations) and market surveillance 
+viii) 
+Product risk classification as determined by the Regulator.          
+This guideline is not applicable to 
+• 
+Class A (non-measuring and/or non-sterile characteristics) medical devices, including IVDs. 
+• 
+A medical device that has not obtained any prior approval from any of the listed medical 
+device recognised regulatory authorities at the point of application will be subject to the full 
+evaluation route. 
+• 
+Registration of medical devices, including IVDs for emergency use or during disease 
+outbreaks. Applicants should refer to the Public Health Emergency guideline SAHPGL-PEM-
+01. 
+ 
+SAHPGL-MD-22_v1 
+Page 8 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+2. 
+LEGAL PROVISION 
+Refer to the Medicines and Related Substances Act (101/1965) and to the gazetted Regulations 
+relating to medical devices and in vitro diagnostic medical Devices (IVDs).  
+3. PRINCIPLES OF RELIANCE  
+The adopted principles of reliance are in line with the WHO recommendations, to optimize 
+innovative and more effective forms of collaboration to make the best use of the available 
+resources and expertise, avoid duplication, to ensure quality and safe Health Products.   
+The following principles of reliance are adopted:  
+i) Universality 
+Reliance applies to all NRAs, irrespective of their levels of maturity or resources. Different NRAs 
+use reliance for different reasons. Some use it to increase or build in-house capacity, while others 
+use reliance to gain expertise that they do not have locally. 
+ii) Sovereignty of decision-making 
+Reliance does not imply dependence; it is not an Authority outsourcing its decision-making or 
+responsibility. NRAs maintain independence, sovereignty, and accountability in regulatory 
+decision-making. 
+iii) Transparency 
+Transparency is a key enabler to adopting new, more efficient ways of conducting regulatory 
+operations, both locally and internationally. NRAs should conduct transparent regulatory 
+operations and decision-making, not only as a fundamental principle of GRP but also to build trust 
+and maximize opportunities for cooperation and reliance as part of a shared regulatory 
+community responsibility 
+iv) Respect of national and regional legal bases 
+Reliance practices should be coherent with national and regional legal frameworks and policies on 
+medical products, supported by clear mandates and regulations that ensure efficient 
+implementation of reliance as part of government policy on good regulation. 
+ 
+SAHPGL-MD-22_v1 
+Page 9 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+v) Consistency 
+The scope of regulatory activities in which reliance may be practised should be clearly defined, 
+and the practice of reliance should be transparent and predictable. Thus, reliance should be 
+expected to be applied consistently for products and processes in the same categories. 
+vi) Competence 
+Implementation of reliance approaches requires that NRAs have the necessary competence for 
+critical decision-making. Equally, the authorities being relied upon should have and maintain 
+competence and operate within a robust, transparent regulatory system based on international 
+standards and guidelines, as well as GRP, and a well-functioning quality management system 
+4. 
+RELIANCE-BASED PATHWAYS FOR MEDICAL DEVICES INCLUDING IVDs 
+Reliance may take many forms and be applied to varying degrees in recognizing or taking into 
+account the assessment conducted, outcome reports, and decisions of the other Authorities.  
+SAHPRA, as an autonomous regulator, remains responsible and accountable for the final decisions 
+taken, even when it relies on the decisions and any other relevant information from other 
+regulators.  
+Reliance-based evaluation pathways for medical devices including IVDs applications, in South Africa 
+will follow at least one of the following pathway(s):   
+a) Abridged review   
+b) Recognition 
+c) Work sharing/Joint assessment 
+d) Verification   
+4.1 
+GENERAL DESCRIPTIONS OF THE RELIANCE-BASED EVALUATION PATHWAYS 
+a) Abridged review: Abridged review is a process that involves streamlining a review by relying to 
+some extent on the comprehensive assessment previously performed by another trusted 
+regulatory authority. This process typically involves a review of a subset of the documentation, 
+focusing on aspects that may be unique or additional to the new market or where some specific 
+confirmation is warranted. It is particularly useful for devices that have obtained approval in one 
+SAHPGL-MD-22_v1 
+Page 10 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+jurisdiction, and the manufacturer is seeking approval in another jurisdiction with similar 
+regulatory requirements. It is expected that the use of reliance in these pathways will save 
+resources and time as compared with standard pathways, while ensuring that the standards of 
+regulatory oversight are maintained.  
+Such as: The use of RRAs, WLAs, Facilitated Registration Process (CRP, PQ &EUL), Continental 
+procedure. 
+i) 
+RECOGNISED REGULATORY AUTHORITIES  
+An application must have been approved by one or more of the RRAs with which SAHPRA aligns 
+itself. The list of RRA is available on the SAHPRA website. 
+(https://www.sahpra.org.za/agreements-mous-with-other-regulators-or-similar-organisations/).  
+ii) 
+World Health Organization facilitate Review Process (FRP): 
+(https://www.who.int/teams/regulation-prequalification/regulation-and-safety/facilitated-
+product-introduction) 
+• 
+Prequalification (PQ) (https://extranet.who.int/prequal/ ) 
+• 
+WHO Collaborative Registration Procedure (CRP) 
+(https://www.who.int/teams/regulation-prequalification/regulation-and-
+safety/facilitated-product-introduction/collaborative-registration-procedure) 
+• 
+Emergency Use Listing (EUL) (https://www.who.int/teams/regulation-
+prequalification/regulation-and-safety/facilitated-product-introduction ) 
+iii) 
+Continental review  
+African Medicines Regulatory Harmonization Initiative (AMRH)-the African Medicines Agency 
+(AMA), (https://www.nepad.org/microsite/african-medicines-agency-ama). 
+iv) 
+WHO Listed Authority (WLA) 
+(https://www.who.int/publications/m/item/list-of-who-listed-authorities-wlas)  
+ 
+b) Recognition: Recognition is the process of accepting a regulatory decision made by another 
+authority or a trusted institution. It involves accepting that the standards and requirements of the 
+reference authority are adequate to satisfy the requirements of the relying authority. 
+Recognition-based reliance can be in the form of unilateral or bi/multilateral recognition. In the 
+specific case of bi/multilateral recognition, a formal agreement among the involved parties may 
+be required.  
+ 
+SAHPGL-MD-22_v1 
+Page 11 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+Such as: The use of Conformity assessment bodies  
+(https://www.sahpra.org.za/document/conformity-assessment-bodycab-requirements-for-
+recognition-by-sahpra-checklist/)and MDSAP 
+(https://www.mdsap.global/documents/library/eligibility-medical-device-organizations-mdos-
+apply-mdsap-certification ) 
+c) 
+Work sharing /Joint assessment: Work-sharing is a process where multiple regulatory 
+authorities collaborate to complete a regulatory task. It also entails the exchange of information 
+consistent with the provisions of existing agreements and compliant with each agency’s or 
+institution’s legislative framework for sharing such information with other NRAs. It is intended to 
+optimize resource use and leverage the specialized knowledge and expertise of different 
+regulatory authorities.   
+The opportunities for work sharing include joint assessment of applications for authorization of 
+clinical trials or marketing authorizations, joint inspections for good practices, joint post-
+marketing surveillance of the quality and safety of medical products, joint development of 
+technical guidelines or regulatory standards, and collaboration on information platforms and 
+technology. 
+Such as: Continental process under AMA (https://www.nepad.org/microsite/africa-medical-
+devices-forum-amdf) ; WHO PMS (https://www.who.int/publications/i/item/9789240015319 ). 
+ 
+d) Verification: Verification of sameness of the medical device is used to ensure that the medical 
+device submitted to SAHPRA is the same as the one that has been assessed by the reference 
+regulatory authority. This Reliance pathway can be practiced only if the Authority has the 
+assurance that the medical device being assessed is essentially the same as the one submitted 
+to the reference regulatory Authority. It is the role of the manufacturer to confirm the 
+sameness of a product and to provide the same documentation as submitted to the reference 
+regulatory Authority. 
+ 
+SAHPGL-MD-22_v1 
+Page 12 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+5. 
+RELIANCE PATHWAY ADOPTED BY SAHPRA 
+5.1 
+LISTING OF MEDICAL DEVICES INCLUDING IVDS, AS PART OF LICENSING ESTABLISHMENTS  
+For Issuing of medical device establishment license, the Regulatory Authority shall undertake the 
+verification pathway (refer to guideline SAHPGL-MD-06; 
+(https://www.sahpra.org.za/document/guideline-for-a-license-to-manufacture-import-export-or-
+distribute-medical-devices-and-ivds/) 
+i) 
+Conformity of quality management system (i.e., ISO 13485) certification by the 
+establishments. SAHPRA relies on audits conducted by locally recognised Conformity 
+Assessment Bodies (CABs). This applies to local manufacturers and importers of class A (with 
+measuring and/or sterile characteristics), B, C, D medical devices including IVDs 
+ii) 
+Product information submitted for class C and D for listing to ensure the sameness as the 
+one that has been approved by the Recognised Regulatory Authority.  
+5.2 
+MEDICAL DEVICES INCLUDING IVDs PRODUCT REGISTRATION  
+All information and documents submitted in support of the registration of Class B, C, D medical 
+devices, including IVDs, must be submitted as per guidance documents SAHPGLMD09 Registration 
+of an IVD Technical Dossier and SAHPGLMD10 Registration of a non-IVD Technical Dossier. 
+The SAHPRA Guideline on Medical Device Registration Process will provide specific document 
+requirements for each of the following reliance pathways. 
+For medical devices, including IVD products registration, the regulator shall undertake verification 
+of: 
+- Sameness of the product despite the reliance pathway followed. 
+5.2.1 Abridged Review  
+An abridged review is applicable for the following types of applications evaluated and approved 
+by RRA, WLA, and Continental initiatives.   
+i. All new product registration applications for a medical device already registered/ 
+approved/authorised: 
+• 
+By an RRA (refer to https://www.sahpra.org.za/agreements-mous-with-other-
+regulators-or-similar-organisations/) 
+SAHPGL-MD-22_v1 
+Page 13 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+• 
+By WLA (refer to https://www.who.int/publications/m/item/list-of-who-listed-
+authorities-wlas) 
+• 
+WHO Collaborative Registration Procedure (https://www.who.int/teams/regulation-
+prequalification/regulation-and-safety/facilitated-product-introduction/collaborative-
+registration-procedure )   
+- 
+WHO PQ (https://extranet.who.int/prequal/ )WHO EUL ( 
+(https://www.who.int/teams/regulation-prequalification/regulation-and-
+safety/facilitated-product-introduction) 
+ii) 
+Continental Registration Procedure 
+- 
+African Medicines Regulatory Harmonization Initiative (AMRH)- 
+(https://www.nepad.org/microsite/africa-medical-devices-forum-amdf) 
+iii) 
+Conformity Assessment bodies (CABs) (https://www.sahpra.org.za/document/conformity-
+assessment-bodycab-requirements-for-recognition-by-sahpra-checklist/) 
+- 
+Product ISO 13485 Certification 
+- 
+Confirm Review report for product certification 
+iv) 
+MDSAP (https://www.mdsap.global/documents/general-documents-and-procedures ) 
+- Verification of the audit report for the MDSAP audited manufacturer 
+5.2.2 Recognition 
+A recognition review is applicable during product registration evaluation process to verify and 
+confirm the audit outcome of the Original Equipment Manufacturer (OEM) using the MDSAP 
+initiative. SAHPRA as an affiliate member of MDSAP will verify and recognise the OEMs as listed 
+in the MDSAP system (https://www.mdsap.global/documents/library/eligibility-medical-device-
+organizations-mdos-apply-mdsap-certification) 
+5 2.3 Work sharing /Joint assessment 
+Under this pathway, SAHPRA will engage in joint assessments or work-sharing arrangements with 
+one or more regulatory authorities. This process will involve a primary review conducted by one 
+authority, a secondary review by another authority, and a collaborative joint assessment session to 
+finalize the assessment report and address any comments. 
+This approach applies to products evaluated and approved by the African Medicines Regulatory 
+Harmonization Initiative (AMRH)-the African Medicines Agency (AMA) and the audits report. 
+(https://www.nepad.org/microsite/africa-medical-devices-forum-amdf)  
+ 
+SAHPGL-MD-22_v1 
+Page 14 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+5.2.4 Verification 
+SAHPRA shall undertake a verification assessment of the product dossier submitted for registration 
+to ensure that the same information is submitted as the information that has been approved by the 
+reference regulatory authority. This review is primarily based on verifying, instead of evaluating, 
+information submitted in the application against information that has already been approved by 
+SAHPRA or an RRA. 
+5.3 
+CLINICAL TRIAL APPLICATION 
+Clinical Trial data is crucial in supporting the safety and efficacy of the product intended for 
+registration. During the review process, the Authority considers information regarding the review 
+status of the clinical trial with other Regulatory Authorities, as requested in the application form. As 
+most of the clinical trials are multi-centre trials, the Authority will further take into consideration 
+proper monitoring of the trial and local conditions or prevalence of disease within the context of 
+South Africa. It should be noted that this is for local data; for multi-centre clinical trials, population 
+representation is important.  
+5.3.1 Recognition  
+SAHPRA recognises the registration status of a medical device, including IVDs, from other RRA with 
+which SAHPRA shares relevant agreements (e.g., signed memorandum of understanding (MOUs), 
+Confidentiality Agreement (CA)), ISO 14155 standard for Good Clinical Practice (GCP), ICH GCP E6 
+latest version implemented by the Regulator, in medical device clinical investigations as a basis for 
+its decision-making for approval of the Clinical trials. (https://www.sahpra.org.za/wp-
+content/uploads/2021/06/SA-GCP-2020_Final.pdf  ). 
+ 
+5.4 POST MARKET SURVEILLANCE  
+Post Market Surveillance is important for ensuring that medical devices, including IVDs, available on 
+the South African markets are safe, and perform as intended throughout the life cycle of the 
+product.  
+5.4.1 Verification 
+To ensure that the Authority fulfils its mandate of monitoring the benefit-risk profile of the medical 
+device, including IVDs, the Authority will consider and verify the safety information communicated, 
+SAHPGL-MD-22_v1 
+Page 15 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+public reports shared by the RRA, WLA, FDA MAUDE, and WHO (WHO global surveillance and 
+monitoring system). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+General Note: Applicants must note that additional documentation requirements for the various 
+types of applications may be stipulated in other guidelines. 
+ 
+SAHPGL-MD-22_v1 
+Page 16 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+6. 
+REFERENCES 
+The following related documents are referenced: 
+a) Annex 10 Good reliance practices in the regulation of medical products: high level principles 
+and considerations. https://www.who.int/publications/m/item/annex-10-trs-1033  
+b) BOTSWANA https://www.bomra.co.bw/wpfd_file/policy-recognition-and-or-reliance-on-
+information-on-medical-devices-including-ivds-from-regional-and-international-regulatory-
+agencies-bomra-er-med-policy-no/  
+c) IMDRF Playbook for Medical Device Regulatory Reliance Programs 
+https://www.imdrf.org/consultations/playbook-medical-device-regulatory-reliance-programs  
+d) OVERVIEW OF REGULATION OF MEDICAL DEVICES AND IVDS https://www.standardsalliance-
+mdrc.org/wp-content/uploads/2023/09/4-Overview-of-regulation-of-Medical-Devices-and-
+IVDs.pdf 
+e) REPUBLIC OF KENYA MINISTRY OF HEALTH PHARMACY AND POISONS BOARD 
+https://web.pharmacyboardkenya.org/download/guidelines-on-reliance-mechanisms-for-
+marketing-authorization-of-health-products-and-technologies-in-
+kenya/?wpdmdl=11610&refresh=68666151ed27b1751540049&ind=1744026284472&filename
+=GUIDELINES-ON-RELIANCE-MECHANISMS-FOR-MARKETING-AUTHORIZATION-OF-HEALTH-
+PRODUCTS-AND-TECHNOLOGIES-IN-KENYA-.pdf  
+f) RWANDA FDA GUIDELINES ON RELIANCE FOR REGULATORY DECISION 
+https://rwandafda.gov.rw/wp-
+content/uploads/2024/02/Guidelines%20on%20Reliance%20for%20Regulatory%20Decision-
+Making%20Rev3.pdf  
+g) Tanzania medicine and medical devices Authority 
+https://www.tmda.go.tz/uploads/1748325406-
+23_Guidelines%20on%20Regulatory%20Reliance%20for%20MA%20of%20Medicinal%20Produc
+ts-17-04-2025.pdf  
+h) WHO Global Model Regulatory Framework for Medical Devices including in vitro diagnostic 
+medical devices https://iris.who.int/bitstream/handle/10665/255177/9789241512350-eng.pdf  
+i) 
+World Health Organization (WHO). Emergency Use Listing Procedure. 
+https://cdn.who.int/media/docs/default-
+source/medicines/eulprocedure.pdf?sfvrsn=55fe3ab8_8&download=true  
+j) 
+Guidance for post-market surveillance and market surveillance of medical devices, including in 
+vitro diagnostics. https://iris.who.int/server/api/core/bitstreams/bf37980e-d286-4e4f-bda8-
+SAHPGL-MD-22_v1 
+Page 17 of 17 
+MEDICAL DEVICES RELIANCE GUIDELINE 
+25 February 2026 
+ 
+ 
+d49165619225/content   
+k) FDA MAUDE Database:  
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm 
+7. 
+VALIDITY 
+ This guideline is valid for a period of five years from the effective date. It will be reviewed at the end of this 
+period or earlier if required. 
+

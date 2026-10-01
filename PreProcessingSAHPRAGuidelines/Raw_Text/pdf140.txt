@@ -1,0 +1,180 @@
+SAHPGL-RDN-RN-05_v1 
+Page 1 of 7
+ 
+GUIDELINE ON AFTERLOADER SOURCE EXCHANGE FORMS 
+(RNXM) 
+Afterloaders containing small radioactive cobalt or iridium sources are commonly used in radiation 
+oncology. The Ir-192 sources in particular decay fairly rapidly and have to be replaced at frequent 
+intervals. A simple afterloader exchange form - RNXM (GLF-RDN-RN-05A) – was developed to reduce 
+and simplify the paperwork required to regulate these source exchanges. 
+This guideline assists authority holders as well as distributors of afterloader sources to complete and 
+submit the forms and required supporting documents correctly and efficiently.  
+Document Amendment History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+First issue 
+28 July 2022
+DR BOITUMELO SEMETE-MAKOKOTLELA 
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-RDN-RN-05_v1 
+Page 2 of 7
+GUIDELINE ON AFTERLOADER SOURCE EXCHANGE FORMS 
+22 July 2022 
+Contents 
+Document Amendment History ........................................................................................................................ 1 
+Glossary ............................................................................................................................................................. 3 
+1.
+INTRODUCTION ......................................................................................................................................... 4 
+2.
+SCOPE ........................................................................................................................................................ 4 
+3.
+OVERVIEW OF SOURCE EXCHANGE ADMIN PROCEDURE ......................................................................... 4 
+4.
+VALIDITY .................................................................................................................................................... 6 
+5.
+ANNEXURES ............................................................................................................................................... 7 
+5.1 Annexure 1: Sample afterloader source exchange form (GLF-RDN-RN-05A) ........................................... 7 
+SAHPGL-RDN-RN-05_v1 
+Page 3 of 7
+GUIDELINE ON AFTERLOADER SOURCE EXCHANGE FORMS 
+22 July 2022 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+HPCSA 
+Health Professions Council of South Africa 
+RNXM 
+Radionuclides Exchange Form – Medical 
+User 
+The authority holder who is authorised to possess and use the afterloader and 
+its sources. The term includes the office-bearers (RPO, ARPO, MP and AMP). 
+RPO, ARPO 
+Radiation Protection Officer, Acting RPO 
+MP, AMP 
+Medical Physicist, Acting MP 
+SAHPGL-RDN-RN-05_v1 
+Page 4 of 7
+GUIDELINE ON AFTERLOADER SOURCE EXCHANGE FORMS 
+22 July 2022 
+1.
+INTRODUCTION
+1.1 The main purpose of the afterloader exchange form – RNXM (GLF-RDN-RN-05A) is to reduce and 
+simplify the paperwork required to regulate the many transactions involved in the ongoing 
+exchange of sources for afterloaders.  
+1.2 The User (authority holder) acquires an initial authority to possess and use an afterloader source by 
+submitting a completed form GLF-RDN-RN-07A (old number RN787) to SAHPRA Radiation Control, 
+with relevant supporting documents. 
+1.3 Once the first afterloader source is installed, the User sends in the delivery note and source 
+calibration certificate and receives the initial source exchange form (see Annexure 1 for an 
+example). 
+1.4 The exchange form reflects the details of the current source (called the “old’ source, because it will 
+be old/depleted by the time of the next exchange).  
+1.5 After each source change, the User returns the completed exchange form (with required supporting 
+documents) and receives a new form, prepopulated for the next exchange, along with an updated 
+authority. This means that the User does not need to fill in the longer forms to add each new 
+source or to dispose of each depleted source.  
+1.6 Where a hospital has more than one afterloader unit, each unit will have its own series of exchange 
+forms. 
+1.7 Distributors may apply for bulk import and export authorities to cover all the afterloader sources 
+they expect to import and/or export in a year. The decision to grant such a bulk authority to any 
+specific distributor rests with SAHPRA Radiation Control. 
+2.
+SCOPE
+This guideline is intended for:
+2.1 Office-bearers on radiation oncology authorities that include Ir-192 and/or Co-60 afterloaders, and
+2.2 Distributors and source handlers of Ir-192 and/or Co-60 afterloader sources.
+The aim of this guideline is to enable all parties to complete the administrative requirements around
+source changes easily, correctly and with minimal fuss.
+3.
+OVERVIEW OF SOURCE EXCHANGE ADMIN PROCEDURE
+3.1 
+The User and Distributor will generally agree on a series of approximate source change dates for 
+the year. The Distributor arranges for delivery of each new source to the User and sets a date for 
+the source change to be done by a qualified source handler. 
+3.2 
+Two weeks before each source change, the User should check that the correct exchange form is on 
+file. The number printed next to Old: must be the serial number of the source currently in the unit. 
+Do not recycle exchange forms, as this causes administrative chaos. 
+SAHPGL-RDN-RN-05_v1 
+Page 5 of 7
+GUIDELINE ON AFTERLOADER SOURCE EXCHANGE FORMS 
+22 July 2022 
+3.3 
+If none of the office-bearers (RPO, ARPO, MP and AMP) has received an updated form, contact 
+SAHPRA Radiation Control as soon as possible: radionuclides@sahpra.org.za. Provide the reference 
+number you received with the acknowledgement when you submitted the last exchange form. If 
+you received no acknowledgement, forward the original email in which you sent the form, adding a 
+note that you received no response and indicating the date of your upcoming source change. 
+3.4 
+Having found or received the form, the User must check, correct/complete and sign section A of the 
+form. Also complete the date line above section A: provide the actual date of the exchange and the 
+estimated date of the next exchange. Then pass the form to the source handler to complete and 
+sign section B at the time of the source change. 
+3.5 
+Once the sources have been exchanged, the source handler completes section B of the exchange 
+form and gives it back to the User. 
+3.6 
+The User returns the form to SAHPRA Radiation Control (radionuclides@sahpra.org.za, not to any 
+other member of staff) together with: 
+(a)
+the new source calibration certificate, and
+(b)
+proof of delivery of the new source to the User. This document must:
+i.
+be signed by the recipient, who must be the source handler, one of the User’s office
+bearers, or another HPCSA-registered radiation worker, who then needs to provide their
+name, designation and HPCSA registration number.
+ii.
+indicate the source type (Ir-192 or Co-60) and serial number.
+If this information is not already printed on the delivery note, the person who unpacked
+the source can add it by hand, along with their name, signature and designation.
+3.7 
+If the date of the exchange is significantly different from the estimated date on the form (more 
+than 6 weeks), provide the reason, otherwise Radiation Control will be obliged to ask you, which 
+just wastes time all round. The explanation may be written on the form or included in the covering 
+email. 
+3.8 
+If you have fallen behind with exchange forms, you will need to report on each exchange in 
+sequence until your forms are up to date, as all sources must be accounted for. (Depleted sources 
+are tracked through to export and destruction.) 
+3.9 
+On receipt of the correctly completed source exchange form (with attachments), Radiation Control 
+adds the new source to the User’s file and issues: 
+(a)
+an updated source change form, ready to for the next exchange, and
+(b)
+an updated authority. (The depleted source remains on the authority for the time being.)
+SAHPGL-RDN-RN-05_v1 
+Page 6 of 7
+GUIDELINE ON AFTERLOADER SOURCE EXCHANGE FORMS 
+22 July 2022 
+3.10 Once the depleted source has been exported, the Distributor receives a letter of destruction, which 
+must be forwarded to Radiation Control as proof of export. A customs clearance note (customs 
+release notification) is also acceptable. 
+The proof of export must: 
+(a)
+be clearly marked with the User’s name and/or file number. If not already on the document,
+this information may be provided in the covering email.
+(b)
+include the serial number of the source concerned. If the serial number is not printed on the
+customs clearance note, the Distributor/exporter can add it by hand, along with their name
+and signature. A destruction letter will already include the source serial number.
+3.11 Radiation Control then removes the depleted source from the User’s source list and sends the User 
+an updated authority. 
+4.
+VALIDITY
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old RNXM 
+Guidelines on Exchange Forms – Afterloaders. It will be reviewed on this timeframe or as and when required. 
+SAHPGL-RDN-RN-05_v1 
+Page 7 of 7
+GUIDELINE ON AFTERLOADER SOURCE EXCHANGE FORMS 
+22 July 2022 
+5.
+ANNEXURES
+5.1 
+Annexure 1: Example afterloader source exchange form (GLF-RDN-RN-05A) 
+

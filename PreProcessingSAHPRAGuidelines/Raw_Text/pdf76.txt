@@ -1,0 +1,1001 @@
+SAHPGL-HPA-07_v11 
+Page 1 of 22
+ 
+ 
+ 
+11 December 2023 
+GENERAL INFORMATION GUIDELINE 
+This guideline is intended to provide recommendations to applicants wishing to submit applications for the registration 
+of medicines. It represents the South African Health Products Regulatory Authority’s (SAHPRA) current thinking on the 
+safety, quality and efficacy of medicines. It is not intended as an exclusive approach. SAHPRA reserves the right to request 
+any additional information to establish the safety, quality and efficacy of a medicine in keeping with the knowledge 
+current at the time of evaluation. Alternative approaches may be used but these should be scientifically and technically 
+justified. SAHPRA is committed to ensure that all registered medicines will be of the required quality, safety and efficacy. 
+It is important that applicants adhere to the administrative requirements to avoid delays in the processing and evaluation 
+of applications. This guideline is relevant only to human medicines, including biological and complementary medicines. 
+Separate guidelines apply to the registration of veterinary medicines, medical devices and other health products. 
+ 
+Guidelines and application forms are available from the website www.sahpra.org.za. 
+ 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First publication released for implementation and comment 
+May 2003 
+1 
+Date for finalisation / implementation 
+Dec 2003 
+2 
+General editing – page numbers in index, 2.5, 3.1.2, 3.1.3 a) b), 4.1, 4.4, 4.17, 8, 
+10, and amendment of sections 2.2.2, 2.9, 3.1.4, 4.2, 4.5, 4.6, 4.7, 4.14, 5, 5.2, 
+13.1, 13.2, 13,3, 13.4, 13.5, 13.6, 13.7, Attachment A 
+12 July 2006 
+3 
+Additions to 2.7.5, 2.10.5, 13.4; amendments to 4, 5.2, Attachment A 
+25 June 2007 
+4 
+Amendment of sections 2.9, 2.10.5, 3.1.3 a), 4, 4.7, 4.10,   5.1, 
+5.2, 13.3, 13.4, Attachment A 
+01 August 2008 
+5 
+Removal of section 12 “Standardised package insert warnings” and inclusion in 
+new “Package Insert Standardised Texts” guideline 
+Removal of Attachment B re: package insert information 
+Amendment to section 4.9 
+March 2010 
+6 
+Inclusion of references to the ZA CTD – sections 2.11, 3, 4, 4.14, 5, 13.1 
+Amendment of section 2.5 
+Amendment, for clarity, of sections 2.10.5 k), 3.1.2, 3.1.3 c), 3.1.4, 3.4, 3.5, 4.3, 
+4.5, new 4.6, 4.9 (original 4.8), 4.10 (original 4.9), 4.17, 5.2, 5.4, 13.3, 13.9 & new 
+section 3.1.1 p) 
+21 June 2010 
+SAHPGL-HPA-07_v12 
+Page 2 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+7 
+Amendment of name of “Post-registration Amendments”, “Guidance for  
+submission of SA CTD / eCTD Module 1" guidelines, and administrative 
+amendments: 
+Sections 2.5, 3, 3.1.1o), 4, 4.5, 5, 5.2.6, 5.2.8, 5.4, 13, 13.1, 13.2, Attachment A; 
+new 4.11 and renumbered. 
+Amendment of 2.2.2 for clarification & in line with CTD guideline. 
+Clarification of 4.3 & 4.4 in accordance with Biostudies guideline 
+3.9 & 4.4 and insertion of 4.11 in accordance with Quality and Bioequivalence 
+Guideline 2.1.2.11. 
+Deletion of “independent” in 6.2 & 8.1. 
+Insertion of “(including batch specific)” for shelf-life extension under working 
+code VSE in accordance with Amendments guideline Type C Inspectorate 
+category 19. 
+March 2011 
+7 
+13.1 Correction 
+June 2011 
+8 
+Deletion of section 9 on Proprietary Names, Attachment A (pre- screening  
+checklist) 
+Amendment of 2.11, 3.1.4, 4, 4.2, 5.2.8, 6, 13.2, 13.9 
+August 2012 
+9 
+Transition from MCC to SAHPRA 
+To include sections changed or deleted 
+May 2019 
+10 
+Updated to align with new processes and guidelines 
+July 2019 
+11 
+New template and numbering 
+Updated to align with new processes and guidelines 
+Amended sections: 1.2; 3.1; 3.4; 3.6; 3.7; 3.9; 3.14; 3.15; 4; 5; 6; 7; 9; 10 
+Added sections: 2.5; 3.5; 3.13; 3.16; 3.17; 3.18; 3.19 
+Deleted information on coding of submissions 
+Deleted reliance information in section 3.8 
+Deleted sections 3,10; 3,11 & 3,12 
+April 2023 
+12 
+Amended section 3.15 to include number of review times and response 
+timelines. 
+Deleted section 3.9 – SAHPRA Recognised Regulatory Authorities since it is 
+included in the Reliance Guideline. 
+Amended 3.12 to include email addresses. 
+Amended section 8 to include guideline number. 
+December 2023 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-HPA-07_v12 
+Page 3 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+ 
+SAHPGL-HPA-07_v12 
+Page 4 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 6 
+1. 
+INTRODUCTION .......................................................................................................................................... 7 
+1.1 
+Purpose ………………………………………………………………………………………………………………………………………………..7 
+1.2 
+Scope .......................................................................................................................................................... 7 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 7 
+3. 
+GENERAL ..................................................................................................................................................... 8 
+3.1 
+Applicant/PHCR/HCR .................................................................................................................................. 8 
+3.2 
+Confidentiality/Secrecy .............................................................................................................................. 8 
+3.3      Language ……………………………………………………………………………………………………………………………………………..9 
+3.4      eCTD Identifier/Application Number…………………………………………………………………………………………………….9 
+3.5      Where to submit applications ………………………………………………………………………………………………………………9 
+3.6      When a product should be registered ………………………………………………………………………………………………..10 
+3.7       Types of applications …………………………………………………………………………………………………………………………10 
+3.8       Evaluation Pathways …………………………………………………………………………………………………………………………12  
+3.9       SAHPRA's Recognised Regulatory Authorities ……………………………………………………………………………………12 
+3.10    Expedited review process ………………………………………………………………………………………………………………….13 
+3.11    Medicines for Use in a Public Health Emergency (PHE) ……………………………………………………………………..13 
+3.12    Fees …………………………………………………………………………………………………………………………………………………..13 
+3.13    Same or separate applications …………………………………………………………………………………………………………..13 
+3.14    Variations Permitted during the Registration process ………………………………………………………………………..15 
+3.15    Permissible review response rounds and period for response submissions ……………………………………….16 
+3.16    Renewals ……………………………………………………………………………………………………………………………………………16 
+3.17    Cancellation or Withdrawal of applications ……………………………………………………………………………………….16 
+4.        REQUIREMENTS OF AN APPLICATION …………………………………………………………………………………………………16 
+5.        PROPRIETARY NAME AND SCHEDULING OF SUBSTANCE AND MEDICINE ……………………………………………17 
+6.        MANUFACTURING REQUIREMENTS ……………………………………………………………………………………………………17 
+7.        SAMPLES …………………………………………………………………………………………………………………………………………….18 
+8.        STANDARD PROFESSIONAL INFORMATION WARNINGS AND INFORMATION ……………………………………..18 
+SAHPGL-HPA-07_v12 
+Page 5 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+9.        RESPONSIBILITIES OF EACH UNIT ……………………………………………………………………………………………………….18 
+9.1      PEM (Sub Programme 4) ……………………………………………………………………………………………………………………18 
+9.2      IRC (Programme 3) …………………………………………………………………………………………………………………………….19 
+9.3      CEM (Sub Programme 4) ……………………………………………………………………………………………………………………19 
+9.4      HPA (Programme 2) …………………………………………………………………………………………………………………………..20 
+10.      REFERENCES …………………………………………………………………………………………………………………………………… …20 
+11. 
+VALIDITY ................................................................................................................................................... 20 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-07_v12 
+Page 6 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+API  
+Active Pharmaceutical Ingredient (also known as Drug Substance)  
+Applicant:  
+Organization creating and submitting the eCTD submission. Can refer to either 
+the PHCR or HCR  
+Application number:  
+The application number is the official reference number assigned to the 
+dossier or eCTD application by the Authority.  It remains with the dossier for 
+its full life cycle and also in archiving.  
+CD  
+Compact Disc  
+CD-ROM  
+Compact Disc Read-Only Memory  
+CEM 
+Clinical Evaluation and Management 
+Clone  
+Application submitted by the innovator as a copy of its own product under a 
+different proprietary name at any stage during the product life cycle  
+CTD   
+Common Technical Document  
+Dossier:  
+A collection of documents compiled by an applicant in compliance with South 
+African legislation and guidelines in order to seek registration of a medicine, 
+or any variations thereof.  An application may comprise a number of 
+submissions.  
+eCTD application:  
+A collection of electronic documents compiled by an applicant in compliance 
+with South African legislation and guidelines in order to seek registration of a 
+medicine, or any amendments thereof.  An eCTD application may comprise a 
+number of eCTD Sequences.  In South Africa, an eCTD application may 
+comprise several strengths, each with a unique proprietary name.  Such a 
+collection may also be described as a dossier.  
+eCTD Submission:  
+An eCTD Submission is an electronic-only submission in the eCTD format that 
+is supported by paper documents (e.g., some documents from Module 1).  
+eSubmission:  
+An electronic submission that follows the CTD format.  
+FPP  
+Finished Pharmaceutical Product  
+HCR  
+Holder of Certificate of Registration  
+HPA 
+Health Products Authorisation 
+ICH                   
+International Council for Harmonisation (of Technical Requirements for 
+Registration of Pharmaceuticals for Human Use) 
+INN  
+International Non-proprietary Name  
+IRC 
+Inspectorate and Regulatory Compliance 
+PEM 
+Pharmaceutical Evaluation Management 
+PHCR  
+Proposed Holder of Certificate of Registration  
+PI  
+Professional Information  
+PIL  
+Patient Information Leaflet  
+Q & BE 
+Quality and Bioequivalence 
+QIS 
+Quality Information Summary 
+SAHPGL-HPA-07_v12 
+Page 7 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+QOS 
+Quality Overall Summary 
+Replica 
+A copy of an already registered generic product, submitted by the same or by 
+another applicant at any stage during the product life cycle. 
+RRA 
+Recognised Regulatory Authority 
+SAHPRA  
+South African Health Products Regulatory Authority  
+ 
+ 
+ 
+SAHPGL-HPA-07_v12 
+Page 8 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+1. INTRODUCTION 
+The registration of a medicine in South Africa is governed by the provisions and requirements of the 
+Medicines and Related Substances Act, 1965 (Act No. 101 of 1965), (hereafter 'the Act') and the 
+regulations and guidelines published in terms thereof. 
+These guidelines describe the information required for the registration of “medicines” and for an 
+application to amend a registered medicine. The information submitted will be evaluated in terms of 
+the provisions of the Act. 
+Medical devices including in vitro diagnostics are addressed in separate guidelines. 
+It is a legal requirement that data submitted for evaluation should substantiate all claims and should 
+meet technical requirements of quality, safety and efficacy of the product for the purposes for which it 
+is intended. The guidelines are meant to guide the applicant in meeting the requirements of the Act. It 
+is acknowledged, however, that in some instances scientific developments may dictate alternative 
+approaches. When a deviation from a guideline is decided on, a detailed motivation giving the 
+reason(s) for the deviation and justification for the alternative approach should be included in the 
+expert report submitted with the application. 
+Whenever there is doubt, applicants are advised to consult SAHPRA for confirmation and / or 
+clarification before completing and submitting the application form; refer to the website for contact 
+details. Applicants should always refer to the current version of the relevant guidelines and the 
+addenda thereto before completing the application form. 
+Guidelines are constantly evolving due to scientific developments and harmonisation of the 
+requirements of regional and international regulatory authorities. SAHPRA endeavours to regularly 
+update the guidelines to reflect current thinking and keep its technical requirements and evaluation 
+policies in line with “best international medicines regulatory practice”. 
+1.1 Purpose 
+The aim of this guideline is to assist applicants in the preparation of documentation for the registration 
+of medicines for human use. The types of medicine include a new medicine for a new chemical entity 
+(NCE) including clones, a multisource (generic) product including replicas, a product line extension, a 
+biological medicine, and a complementary medicine. 
+1.2 Scope 
+These guidelines are relevant only to human medicines including biological and complementary 
+medicines.  Separate guidelines apply to the registration of veterinary medicines (SAHPGL-PEM-VET-04 
+Guideline for Registration of Veterinary Medicines) and medical devices. 
+2. LEGAL PROVISION 
+Legislation requires that SAHPRA shall register every medicine before it may be sold / marketed. An 
+application for the registration of a medicine should therefore be submitted for evaluation and 
+approval. 
+ 
+SAHPGL-HPA-07_v12 
+Page 9 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+3. GENERAL 
+3.1 Applicant / PHCR / HCR 
+The term ‘applicant’ can refer either to the proposed holder of the certificate of registration (PHCR), 
+as in the case of a new registration, or to the holder of the certificate of registration (HCR), as in 
+the case of a variation application. Throughout this document, the term ‘applicant’ is used to refer 
+to either the PHCR or the HCR, based on whichever is applicable in the context. 
+Eligibility to apply for registration of a medicine is governed by Regulation 16 of the Act. An 
+application may be made by any of the following: 
+a) 
+a person, body corporate / juristic person, company, residing and doing business in South 
+Africa; 
+b) 
+a close corporation incorporated in South Africa; or 
+c) 
+a company in South Africa with at least 
+- 
+a responsible delegated person residing in South Africa and 
+- 
+an authorised person residing in South Africa who must be a person with appropriate 
+knowledge of all aspects of the medicine and who shall be responsible for 
+communication with the Authority. 
+The application submitted should be signed by the pharmacist authorised to communicate with 
+the Authority. This pharmacist should be in the full-time employ of the company and may be: 
+• 
+the Responsible Pharmacist in terms of the Pharmacy Act, 1974 (Act 53 of 1974) as amended, 
+or 
+• 
+another registered pharmacist responsible for regulatory affairs and with appropriate 
+knowledge of all aspects of the medicine. 
+The following should be included: 
+• 
+proof of current registration (copy of certificate) of the pharmacist who signed the dossier, and 
+• 
+proof of current registration of the Responsible Pharmacist in terms of Act 53; 
+• 
+an individualised, person-specific letter of authorisation for the signatory, issued by the 
+person responsible for the overall management and control of the business (CEO). (Note that 
+such a letter is not required for the Responsible Pharmacist if the Responsible Pharmacist signs 
+the application.) 
+An applicant should submit a Site Master File (SMF) in accordance with the Site Master File 
+Guideline SAHPGL-INSP-04.  For subsequent applications, reference to the allocated SMF number 
+will suffice. 
+3.2 Confidentiality /Secrecy 
+The confidentiality of information submitted to SAHPRA is governed by Section 34 of the Act. The 
+Authority, advisory committee members or staff of the Authority may NOT 
+• disclose to any person, any information acquired in the exercise of powers or performance of 
+functions under the Act and relating to the business affairs of any person, except 
+ 
+for the purpose of exercising his / her powers, or for the performance of his/her 
+functions under the Act, or 
+SAHPGL-HPA-07_v12 
+Page 10 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+ 
+when required to do so by any competent court or under any law, or 
+ 
+with the written authority of the CEO, or 
+• 
+use such information for self-gain or for the benefit of his employer. 
+SAHPRA may insist on written confirmation of the identity and affiliation of an individual inquiring 
+telephonically, or in person, about a medicine. No information shall be disclosed telephonically 
+unless the Authority staff member knows the enquirer is entitled to receive the information. 
+3.3 Language 
+In terms of Regulation 16 (4) of the Act, all applications and supporting data submitted to SAHPRA 
+should be presented in English (UK)). Original documents not in English should be accompanied by 
+an English translation. 
+3.4 eCTD identifier/Application Number 
+Refer to the guideline 2.23 Submission of Regulatory information in eCTD format  
+3.5 Where to submit applications 
+The medium for submitting eCTD, CTD and eSubmission related submissions to the authority is 
+through the online upload utility (refer to the SAHPGL-ICT-01_File Transfer Protocol (FTP) User 
+Guide for Files/Dossier Submission). A request for the File Transfer Protocol (FTP) User Guide for 
+Files/Dossier Submission should be sent to newmedicines@sahpra.org.za. An applicant seeking 
+access to the FPT should submit a request, with a licence number, to newmedicines@sahpra.org.za.  
+ 
+In the event that the Online Upload Utility is inaccessible due to a natural disaster and/or the 
+submission size exceeds the required limit as defined on the electronic submission system, USB 
+drives (2.0 or higher) are permitted and should meet the following requirements: 
+The submission media should be packed adequately (in an envelope) to prevent damage to the 
+media. All the contained media units should be appropriately labelled as described below.  
+An USB submitted with an eCTD should include the following label information, clearly presented 
+and printed on the media, or attached securely to the USB drive (for example using a tag that is 
+securely attached to the USB body)  
+• 
+The applicant’s name   
+• 
+The proprietary name(s)   
+• 
+The registration number or application number   
+• 
+The International Non-proprietary Name(s) (INN) of the product 
+• 
+The sequence number of the eCTD submissions contained on the USB 
+• 
+The submission date (MM-YYYY)  
+• 
+The submission type of each eCTD submission(s) contained on the USB, as per the eCTD  
+ envelope information. 
+Applications should be delivered to the SAHPRA Reception, Building A, Loftus Park, Second floor, 
+Kirkness Road, Arcadia, Pretoria, where they will be logged and acknowledged. All correspondence 
+should be addressed to the Chief Executive Officer.  
+SAHPGL-HPA-07_v12 
+Page 11 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+SAHPRA will not take responsibility for applications posted or delivered to any other place or in any 
+other manner. 
+HPA should be notified if applications are submitted in a manner other than the Online Upload 
+Utility. 
+3.6 When a product should be registered 
+A product is liable for registration with SAHPRA if any of the following apply. 
+i) 
+Any of the ingredients of a product is listed in one of the Schedules to the Act; 
+ii) 
+The product is a medicine by virtue of the definition of a medicine in 
+the Act. The Act defines a medicine as: 
+"any substance or mixture of substances used, or purported to be suitable for use, or 
+manufactured or sold for use in; 
+(a) 
+the diagnosis, treatment, mitigation, modification or prevention of disease, 
+abnormal physical or mental state, or the symptoms thereof in man; or 
+(b) 
+restoring, correcting, or modifying any somatic or psychic or organic 
+function in man; and includes any veterinary medicine.” 
+iii) 
+If the product falls under any of the pharmacological classifications as specified in Annexure 
+1 and 2 to the Regulations 
+iv) 
+The intended use of a product and the text / words used in promoting the product, even if no 
+claims are reflected on the label, render the product registerable.  
+The relevant provisions and guidelines shall apply to a medicine called up as a complementary 
+medicine. 
+3.7 Types of applications 
+Medicine applications for registration for humans are divided into the following types for the 
+determination of fees and allocation to reviewers for evaluation: 
+New chemical entity applications (including clones) that include non-clinical and clinical 
+information in support of the efficacy and safety of the formulation / dosage form, indication(s) 
+and dosage regimen. 
+Multisource / generic applications (including replicas) and extension applications that include: 
+• 
+clinical information in support of efficacy and safety of the formulation / dosage form, or  
+ 
+indication(s) or dosage regimen. 
+• 
+comparative bioavailability / bioequivalence studies as proof of efficacy. 
+• 
+comparative dissolution studies as proof of efficacy 
+• 
+any other comparative studies as proof of efficacy 
+• 
+others, not mentioned above e.g., liquids / solutions. 
+ 
+Category D Medicines: Guideline 7.03 - Use of the ZA-CTD Format in the Preparation of a Registration 
+Application” should also be followed to determine completeness. 
+ 
+Data provided in applications for registration of Category D medicines should be in the latest version 
+SAHPGL-HPA-07_v12 
+Page 12 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+of the Common Technical Document (ZA-CTD) format as published by the SAHPRA. A risk-based 
+approach is undertaken for Category D medicines where discipline-specific medicines are considered 
+across a range from HIGH RISK (clinical evidence required in justification of safety and efficacy) to 
+LOW RISK (traditional evidence may be submitted in justification of safety and efficacy) based 
+primarily on indication but also on composition and dosage form. 
+ 
+The Authority will in future, consider online mechanisms for the submission of applications for 
+registration of Category D Medicines, which will continue to make use of the CTD format.  
+ 
+The following guidelines are relevant to the compilation of applications for registration of 
+Complementary Medicines: 
+(a) 
+Guideline 7.01 - Discipline-Specific Safety and Efficacy 
+(b) 
+Guideline 7.04 - Health Supplements Safety and Efficacy 
+(c) 
+Guideline 7.05 - Registration Application ZA-CTD – Quality 
+(d) 
+Guideline 7.06 – Specified Substances 
+ 
+Biological medicines: Biopharmaceuticals and Biosimilars 
+Biological medicine: A medicine where the active ingredient and / or key excipients have been 
+derived from living organisms or tissues or manufactured using a biological process. Biological 
+medicines can be defined largely by reference to their method of manufacture (the biological 
+process). These include inter alia medicines prepared from the following substrates: 
+ 
+(i) 
+Microbial cultures (fermentation), 
+(ii) 
+Plant or Animal Cell cultures (including those resulting from recombinant DNA/RNA or 
+hybridoma techniques 
+(iii) 
+Extraction from biological tissues; and 
+(iv) Propagation of live agents in embryos or animals. 
+ 
+The living substrate may be genetically modified in several ways to provide the required active 
+ingredient, including recombinant DNA technology or hybridoma techniques. 
+ 
+Biological Medicines include, but may not be limited to the following: 
+(i) 
+Plasma-derived products, e.g., Clotting factors, Immunosera, 
+(ii) 
+Vaccines, 
+(iii) 
+Biotechnology-derived medicinal products (rDNA products) e.g., rHu-antihemophilic factors,  
+ 
+hormones, cytokines, enzymes, monoclonal antibodies, erythropoietin’s, 
+(iv) Human Gene therapy. 
+ 
+It has been the practice, in South Africa, that SAHPRA will decide that certain well-characterised 
+low- molecular weight medicinal biological compounds, such as antibiotics, insulin etc. be excluded 
+from biological medicine status. 
+ 
+Biopharmaceutical: Patented biological medicine. 
+Biosimilar: Biological medicines that are manufactured to be similar to the registered originator/ 
+innovator medicines. 
+SAHPGL-HPA-07_v12 
+Page 13 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+3.8 Evaluation Pathways 
+Medicines applications for new registrations and variations in South Africa will follow one of four 
+evaluation / review pathways: 
+ 
+i. 
+Full review 
+ii. 
+Abridged review 
+iii. 
+Verified review 
+iv. 
+Recognition 
+ 
+Full review is defined as a comprehensive / thorough review of all aspects of the dossier, based 
+primarily on the evaluation of data (and summaries thereof) submitted by the applicant. This is 
+the default evaluation pathway for new registrations and variations not previously approved by 
+SAHPRA or an RRA, or where reliance documentation provided to SAHPRA is deemed to be 
+insufficient. 
+Refer to the Reliance Guideline – SAHPGL-BAU-01 for information on evaluation pathways.   
+3.9 SAHPRA’s Recognised Regulatory Authorities 
+Refer to the Reliance Guideline – SAHPGL-BAU-01 for information on the RRAs with which SAHPRA 
+aligns itself and collaborative procedures.  
+ 
+ 
+3.10 Expedited review process 
+Refer to the latest version of HPA03-202223 Priority Review Requests Communication  
+ 
+3.11 Medicines for Use in a Public Health Emergency (PHE) 
+Refer to the latest version of the guideline - SAHPGL-PEM-01 Availability of medicines for use in a 
+PHE. 
+3.12 Fees 
+The fees payable are published in the Government Gazette and are also available on the SAHPRA 
+website. 
+Refer to 17.5 Payment Guideline for the details of the payment of fees to SAHPRA.  
+Note:  
+The only valid payment evidence to be included in M1.2.2.1 should be the proof of payment from 
+the applicant’s bank. 
+On notification of registration, the registration fee proof of payment, from the applicant’s bank, 
+and the final, signed PI and PIL should be submitted in one email via the relevant mailbox: 
+newregcertificates@sahpra.org.za or newvetcertificates@sahpra.org.za, to SAHPRA. 
+SAHPGL-HPA-07_v12 
+Page 14 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+3.13 Same or separate applications 
+For the purposes of registration, the following products will be regarded as either being the same 
+product or separate product applications: 
+ 
+TYPE OF APPLICATIONS 
+Application 
+Same 
+Separate 
+3.13.1 Each individual dosage form of a particular medicine 
+X 
+3.13.2 Variations of the active pharmaceutical ingredient (API) of a product 
+X 
+3.13.3 Tablets / Capsules / Suppositories / Lozenges 
+a)   Different pack-sizes of the same strength and formulation. 
+X 
+b)   Different strengths and formulations. 
+X 
+c)   Uncoated and coated tablets of the same strength and formulation. 
+X 
+3.13.4 Syrups / Liquids / Solutions (excluding parenterals) / Creams / Ointments 
+a)   Different container sizes of the same strength and formulation. 
+X 
+b)   The same container size of different strengths and formulations. 
+X 
+ 
+ 
+TYPE OF APPLICATIONS 
+Application 
+Same 
+Separate 
+3.13.5 Ampoules and Vials and Large Volume Parenterals 
+a) Ampoules or single dose vials containing identical solutions of the same 
+strength but of different volumes (i.e., resulting in different total doses). 
+X 
+b)   Ampoules containing solutions of different strengths. 
+X 
+c) Ampoules and single dose vials containing e.g., dry powder, crystals of different 
+mass. 
+X 
+d) Ampoules and single dose vials containing the same respective masses of e.g., 
+dry powder, crystals. 
+X 
+e) Ampoules, single dose vials, as well as pre-filled disposable syringes and 
+cartridges containing identical solutions of the same strength and same volume 
+of liquid. 
+X 
+f) Dental cartridges containing different volumes of fluids of the   same strength 
+(provided the dose remains constant). 
+X 
+g)   Ampoules containing “water for injection”, but of different volumes. 
+X 
+SAHPGL-HPA-07_v12 
+Page 15 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+h) Special ampoules of dry powder and “water for injections” contained in the same 
+unit but intended for mixing at the time of injection if water for injections is fully 
+described in dossier. 
+X 
+i) Ampoules containing identical solutions of different volumes used only as 
+diluent in the reconstitution of a preparation for parenteral use. 
+X 
+j) Multidose vials containing different volumes of the same strength and 
+formulation with the same dosage schedule. 
+X 
+k) Multidose vials and a single dose ampoule or vial of the same formulation if the 
+single-dose ampoule or vial corresponds to the dose indicated for the multidose 
+vial. 
+X 
+l) Multidose vials containing dry powder of different mass of the same 
+formulation, and the same concentration when reconstituted. 
+X 
+m) An ampoule of diluent packed together with any preparation including 
+biological medicines if diluent is fully described in dossier. 
+X 
+n) Infusion solutions of the different volumes and of the same formulation which 
+are packed in containers of exactly the same type of material depending on the 
+relevant information submitted. 
+X 
+o) Infusion solutions of the same formulation and of the same or different volume 
+which are packed in containers made of different types of materials. 
+X 
+p) A preparation, packed in plastic containers, intended to be marketed in glass 
+containers containing the same volume and the same formulation. 
+X 
+q)  Products with the same strength and formulation but with different colours and 
+/ or flavours. 
+X 
+TYPE OF APPLICATIONS 
+Application 
+Same 
+Separate 
+r) Applications containing the same API(s) applying for additional indications which 
+render the product in a different scheduling status, or different 
+pharmacological classification, or have any other restrictions imposed other 
+than the original application. 
+X 
+s) Removal of antimicrobial preservative from single dose presentation of 
+registered vaccine that included a preservative in the original approved 
+formulation 
+X 
+3.13.6 Same formulation with different proprietary names whether of the same or 
+different applicants 
+X 
+3.13.7 Clone or Replica applications 
+X 
+SAHPGL-HPA-07_v12 
+Page 16 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+3.14 Variations Permitted during the Registration Process 
+All applications for registration in terms of Section 15 of the Act 101 are required to be complete in 
+terms of the eCTD and data requirements and no variations during the registration process are 
+permissible except for the following: 
+3.14.1 Transfer of Applicancy with motivation in exceptional circumstances 
+3.14.2 Urgent restriction safety updates as requested by or as deemed necessary by SAHPRA 
+or the applicant following consultation with SAHPRA 
+3.14.3 Updated reliance documentation, e.g. where an RRA approval is obtained for the 
+product after the application was submitted to SAHPRA 
+ 
+3.15 Permissible review response rounds and period for response submissions 
+3.15.1 Technical Screening 
+3.15.1.1 SAHPRA’s review process for technical screening will permit for all units a maximum     
+number of one response round. If the applicant fails to address the queries adequately, the 
+application will be tabled for rejection from the respective unit. 
+3.15.1.2 Each response timeframe should be no longer than 10 working days from the date sent to 
+the applicant. 
+3.15.1.3 Applicants may submit a written request for one extension of timeline for a response and 
+which may not exceed a further 10 working days. 
+ 
+  
+This request will however only be considered by the Authority if the applicant provides 
+appropriate justification. The Authority will review the justification of the Applicant’s request 
+and will respond in writing to the Applicant. 
+SAHPGL-HPA-07_v12 
+Page 17 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+3.15.2 Evaluation Phase 
+3.15.2.1  The review process for new medicines and variations will permit for all units a maximum 
+number of three response rounds. If the applicant fails to address the queries adequately by 
+the third query round, the application will be tabled for rejection from the respective unit. 
+3.15.2.2  Each response timeframe to Clinical and Quality queries should be no longer than 30 working 
+days from the date sent to the applicant.  
+Each response timeframe to Inspectorate and N&S queries should be no longer than 10 
+working days from the date sent to the applicant. 
+3.15.2.3  Applicants may submit a *written request for one extension of timeline for a response per 
+response round and which may not exceed a further 30 working days. 
+* A query letter should be responded to within 30 working days. Applicants may request an 
+additional period of up to 30 working days for providing their responses in writing to the Authority 
+outlining their reasons. This request will however only be considered by the Authority if the 
+applicant provides appropriate scientific justification. The Authority will review the justification for 
+the additional period (up to 30 additional working days) for responding to a query letter following 
+receipt of the Applicant’s request and will grant such request in writing to the Applicant, only if it is 
+considered that this extension will enable the Applicant to respond fully to the queries raised. 
+Extensions beyond 60 working days from the initial date of issue of a query letter would not 
+normally be accepted. 
+3.15.2.4  Note, if an applicant does not respond to the query referenced in 3.15.1.3 or 3.15.2.3 and 
+does not communicate any request for extension, this application will be tabled for rejection. 
+3.15.2.5 Applicants are encouraged to respond sooner than the expected response timeline. 
+3.16 Renewals 
+Refer to the latest version of the following documents: 
+• 
+SAHPGL-HPA-04 Renewal of Human and Veterinary Medicines Requirements and Process 
+• 
+Communication on Medicines Registration Renewals Implementation Framework 
+• 
+Renewals Frequently Asked Questions (FAQs)  
+3.17 Cancellation or Withdrawal of applications 
+HCRs of medicines and applicants should, before applying to the Authority, carefully consider any 
+decision to cancel or withdraw, as the case may be, a registration or application for registration, 
+as the Authority, after consideration of all issues involved, has resolved the following with 
+immediate effect. 
+Any medicine 
+• 
+of which the registration has been cancelled, or any “old medicine” of which the 
+application for registration has been withdrawn by notice in the Government Gazette, and 
+• 
+for which a written application or request has been submitted by the holder of a 
+SAHPGL-HPA-07_v12 
+Page 18 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+certificate of registration or by the applicant, to the CEO 
+will under no circumstances be re-instated. 
+ 
+Written applications or requests to cancel registrations or withdraw applications for registration 
+should be sent to the dedicated mailbox: cancellations@sahpra.org.za 
+Should the applicant desire to re-register such medicine, a new application for registration of a 
+medicine must be submitted in accordance with the requirements of the Act and the relevant 
+ Regulations. 
+An application for registration of a medicine may, at whatever stage of processing, be withdrawn 
+by written application to the CEO. The withdrawal shall under no circumstances be reversed once 
+such an application is approved and the approval confirmed in writing. A new application for 
+registration must be submitted should the applicant wish to proceed with registration thereafter. 
+4. REQUIREMENTS OF AN APPLICATION 
+Submission of new applications in eCTD (electronic Common Technical Document) format is 
+mandatory (excluding complementary and veterinary medicines).  
+Post-registration variations may be submitted in eCTD or eSubmission format. Refer to SAHPGL-
+HPA-05 BAU Variations Communication for more detail. 
+For further information on the accepted submission format and timelines for implementation of 
+digital requirements, refer to the following guidelines. 
+• 
+2.21 South African Specification for eCTD Regional - Module 1 
+• 
+2.23 Guidance for submission of regulatory information in eCTD format  
+• 
+9.127 BAU eCTD Implementation Roadmap  
+ 
+Specific guidelines also apply to the requirements for an application for complementary medicines. 
+5. PROPRIETARY NAME AND SCHEDULING OF SUBSTANCE AND MEDICINE 
+Refer to the current version of the Guideline for Proprietary Names for Medicines (SAHPGL-CEM-NS-03) 
+and Guideline to the scheduling of substance and medicine (SAHPGL-CEM-NS-02) 
+6. MANUFACTURING REQUIREMENTS 
+Only medicines manufactured, packed and quality controlled at sites compliant with the current 
+principles of Good Manufacturing Practice (GMP) as prescribed by SAHPRA will be considered for 
+registration. 
+SAHPRA's general policy is that the standard to be used to assess compliance with current Good 
+Manufacturing Practice (cGMP), is the South African Guide to Good Manufacturing Practice (SA guide 
+to GMP) (latest edition) (SAHPGL-INSP-02) 
+Under Section 22C of the Act, all South African manufacturers should be licensed (effective 2 May 
+2004). 
+The aim of these licensing requirements and standards is to protect public health by ensuring that 
+SAHPGL-HPA-07_v12 
+Page 19 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+medicines meet defined standards of quality and are manufactured in conditions that are clean and 
+free of contaminants. 
+The Act requires that overseas manufacturers of medicine supplied to South Africa should comply with 
+the same or equivalent manufacturing standards as expected of South African manufacturers. 
+Evidence in relation to compliance with Good Manufacturing Practices of the overseas manufacturer is 
+required for applications for registration of imported medicines. When acceptable evidence of GMP 
+compliance is not available, overseas manufacturers are inspected by the GMP Inspectorate before 
+registration of the medicine is approved. SAHPRA reserves the right to request additional 
+documentation, schedule an inspection or reject any sites. 
+7. SAMPLES 
+All medicine applications for registration must include a sample of a unit pack, Section 15(1) of the Act. 
+Photographs of all dimensions of the sample in the final primary packaging and of the sample itself 
+should be included in the application on submission. A sample may be requested by SAHPRA for testing 
+and/or viewing purposes. 
+8. STANDARDISED PROFESSIONAL INFORMATION WARNINGS AND 
+INFORMATION 
+Refer to the current version of Professional Information for Human Medicines: Standardised Texts 
+Guideline SAHPGL-CEM-04. This guideline should be read in conjunction with current 
+pharmacovigilance recommendations for the medicine. 
+9. RESPONSIBILITIES OF EACH UNIT 
+9.1 Pharmaceutical Evaluations Management (PEM) Sub Programme 4 consists of the 
+following sub-units. 
+9.1.1  PEM Pre-Reg Sub-Unit also referenced as the Quality & Bioequivalence Unit (Q & BE) is 
+responsible for the evaluation of all new registrations (small molecules) in terms of 
+a) 
+Quality of the drug substance (API) and drug product (finished pharmaceutical product) 
+b) 
+Bioequivalence of generic medicines to their innovator counterparts. 
+ 
+9.1.2 PEM Post registration Sub-Unit also referenced as the Quality & Bioequivalence (Q & BE) 
+Variations Unit is responsible for the evaluations of variations to registered products (small 
+molecules) in terms of  
+a) 
+Quality of the drug substance (API) and drug product (finished pharmaceutical product) 
+b) 
+Bioequivalence of generic medicines to their innovator counterparts. 
+ 
+9.1.3 The Complementary Medicines Sub-Unit is responsible for 
+a) 
+evaluation and review of applications for the registration of Complementary Medicines 
+b) 
+receiving and collating initial and subsequent responses  
+SAHPGL-HPA-07_v12 
+Page 20 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+c) 
+evaluation and review of applications for the amendment of the register for 
+Complementary Medicines 
+d) 
+issue licenses for the manufacture, imports, exports, wholesale and distribution of 
+Complementary Medicines. 
+9.1.4 The Biologicals Sub-Unit is responsible for 
+a) 
+biological new registration applications and responses to resolutions, and matters 
+pertaining to biological medicines during review for registration. 
+b) 
+evaluation of technical changes to registered biological medicines and “old” biological 
+medicines. 
+c) 
+evaluation of clinical aspects of the Professional Information and relevant changes to 
+Professional Information for biological medicines. 
+d) 
+technical support to other units with respect to biological matters. 
+ 
+Note:   For biologicals: 
+• 
+For any activities not described above, the applications and / or queries should be directed to 
+(and properly coded for) the relevant Units. 
+• 
+Relevant supportive documentation should be attached as per the Modules/Sections described 
+in the relevant CTD format. 
+ 
+9.1.5 Veterinary medicines Sub-Unit 
+Refer to SAHPGL-PEM-VET-04 Guideline for Registration of Veterinary Medicines for information on 
+Veterinary product applications. 
+9.2 Inspectorate and Regulatory Compliance (IRC) Programme 3 
+The Inspectorate and Regulatory Compliance is responsible for 
+a) 
+inspection and evaluation of sites for the manufacturing, packing, and testing of 
+medicines nationally and internationally, as well as inspection and evaluation of all 
+storage and distribution sites for medicines 
+b) 
+investigation of complaints regarding registered and unregistered medicines 
+c) 
+monitoring compliance with the Act and prosecution in case of non-compliance 
+d) 
+monitoring the importation and exportation of medicines in consultation with customs 
+authorities 
+e) 
+Licensing of manufacturers, importers and exporters of orthodox medicines 
+9.3 Clinical Evaluations and Management (CEM) Sub Programme 4  
+9.3.1  The Clinical Evaluation Unit is responsible for 
+a) 
+evaluation of clinical and pre-clinical data 
+b) 
+evaluation of clinical aspects of the Professional Information and relevant changes to  
+ 
+Professional Information 
+c) 
+evaluation of proprietary names and changes thereto 
+ 
+SAHPGL-HPA-07_v12 
+Page 21 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+9.3.2 The Clinical Trials Unit is responsible for the evaluation of 
+a) 
+clinical trial applications and clinical trial amendments 
+b) 
+reports of adverse events arising from a clinical trial 
+9.4 Health Products Authorisation (HPA) Programme 2 
+Health Products Authorisation is responsible for the following: 
+a) 
+receiving applications for registration of medicines and variations  
+b) 
+certification of new registrations, applicant transfers and proprietary name changes 
+c) 
+cancellations of registered medicines and withdrawal of applications for the registration  
+ 
+of medicines 
+d) 
+communication of queries to applicants 
+ 
+10 REFERENCES 
+The following related documents are referenced: 
+10.1 
+SAHPGL-CEM-01 Clinical Guideline 
+10.2 
+SAHPGL-CEM-02 Guideline for Professional Information for Human Medicines 
+10.3 
+SAHPGL-CEM-03 Guideline for Patient Information Leaflet for Human Medicines 
+10.4 
+SAHPGL-CEM-04 Standardised Texts Guideline 
+10.5 
+SAHPGL-HPA-04 Renewal of Human and Veterinary Medicines Requirements and processes 
+10.6 
+SAHPGL-PEM-01 Availability of medicines in a Public Health Emergency (PHE) 
+10.7 
+9.127 eCTD Implementation Roadmap Communication 
+10.8 
+SAHPGL-BAU-01 Reliance Guideline 
+10.9 
+2.23 Guideline for Submission in eCTD format 
+10.10 SAHPGL-HPA-03 eCTD Validation Criteria 
+10.11 2.21 South African Specification for eCTD Regional - Module 1 
+10.12 SAHPGL-PEM-02 Quality and Bioequivalence Guideline 
+10.13 SAHPGL-INSP-02 Guideline for Good Manufacturing Practice 
+SAHPGL-HPA-07_v12 
+Page 22 of 22
+General Information Guideline 
+11 December 2023 
+ 
+ 
+10.14 17.05 Payment Guideline 
+11 VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the General 
+Information Guideline, 2.01. It will be reviewed on this timeframe or as and when required. 
+

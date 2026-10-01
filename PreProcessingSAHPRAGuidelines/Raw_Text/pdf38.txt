@@ -1,0 +1,381 @@
+SAHPGL-INSP-RC-08_v4
+Page 1 of 10
+5 November 2025
+GUIDELINE FOR DONATION OF MEDICINES, MEDICAL DEVICES,
+AND IVDs
+This guideline provides an outline of the principles and process to be followed in the donation of medicines, medical
+devices, and in vitro diagnostics (IVDs). The guideline applies to both people and entities wishing to make donations and
+the recipients of such donations. The South African Health Products Regulatory Authority (the Authority) may at any
+time in terms of Section 19(2) of the Medicines and Related Substances Act, 1965 (Act 101 of 1965), (the Medicines Act),
+request any additional information relating to the donation of a medicine, medical device, or IVD. In addition, the
+Authority may make amendments to this guideline in keeping with the knowledge that is current at the time. The
+Authority is committed to ensuring that all medicines, medical devices, and IVDs that are donated are of the required
+quality, safety, efficacy, or performance.
+Document History
+Final
+Version
+Reason for Amendment
+Effective Date
+[dd Month yyyy]
+1
+First publication released for implementation and comment
+29 April 2003
+2
+Updated to include new contact details and reference to ZA-CTD
+September 2010
+3
+Updated to include medical devices and IVDs
+April 2020
+4
+Updated to include donation to the Private Sector
+30 October 2025
+DR BOITUMELO SEMETE-MAKOKOTLELA
+CHIEF EXECUTIVE OFFICER
+[SAHPGL-INSP-RC-08_v4
+Page 2 of 10
+DONATION OF MEDICINES AND MEDICAL DEVICES, INCLUDING IVDs
+5 November 2025
+Contents
+Document History................................................................................................................................................ 1
+Glossary................................................................................................................................................................ 6
+1.
+INTRODUCTION.......................................................................................................................................... 7
+1.1
+Purpose...................................................................................................................................................... 7
+1.2
+Scope..........................................................................................................................................................7
+1.3
+Principles for the donation of medicines, medical devices and IVDs.........................................................7
+2.
+LEGAL PROVISION...................................................................................................................................... 8
+3.
+REQUIREMENTS FOR DONATED MEDICINES, MEDICAL DEVICES AND IVDs............................................ 10
+4.
+REFERENCES............................................................................................................................................. 11
+5.
+VALIDITY................................................................................................................................................... 11
+[SAHPGL-INSP-RC-08_v4
+Page 3 of 10
+DONATION OF MEDICINES AND MEDICAL DEVICES, INCLUDING IVDs
+5 November 2025
+Glossary
+Abbreviation/ Term
+Meaning
+Essential
+In-Vitro
+Diagnostics List
+WHO model list of essential in vitro diagnostics. The EDL is a health policy
+document, based on scientific evidence, consisting of a list of categories of IVD
+tests and recommendations for using those tests in relation to the assay format,
+test purpose, specimen type, and health care setting.
+Essential medicine
+Means a medicine that satisfies the priority health care needs of the 
+population and is selected with due regard to disease prevalence and public 
+health relevance, evidence of clinical efficacy and safety, and comparative 
+costs and cost-effectiveness.1 The EML status of a medicine is independent of 
+its pack size but is dependent on its dosage form and indication
+Health establishment
+means the whole or part of a public or private institution, facility, building or 
+place, whether for profit or not, that is operated or designed to provide 
+inpatient or outpatient treatment, diagnostic or therapeutic interventions, 
+nursing, rehabilitative, palliative, convalescent, preventative or other health 
+services
+In vitro diagnostic (IVD)
+means a medical device, whether used alone or in combination, intended by 
+the manufacturer for the in vitro examination of specimens derived from the 
+human body solely or principally to provide information for
+diagnostic, monitoring or compatibility purposesʡ
+Medicine
+means any substance or mixture of substances used or purporting to be 
+suitable for use or manufactured or sold for use in
+(i)
+the diagnosis, treatment, mitigation, modification, or prevention 
+of disease, abnormal physical or mental state, or the symptoms
+thereof in humansʡ or
+(ii)
+restoring, correcting, or modifying any somatic or psychic or 
+organic function in humansʡ, and includes any veterinary 
+medicineʡ
+Medical Device͞
+medical device͟ means any instrument, apparatus, implement, machine, 
+appliance, implant, reagent for in vitro use,
+software, material, or other similar or related article, including Group III and 
+IV Hazardous Substances contemplated in the
+Hazardous Substances Act, 1973 (Act No. 15 of 1973)Ͷ
+intended by the manufacturer to be used, alone or in combination, for 
+humans or animals, for one or more of the following:
+(i)diagnosis, prevention, monitoring, treatment, or alleviation of diseaseʡ
+(ii)diagnosis, monitoring, treatment, alleviation of, or compensation for an 
+injuryʡ
+(iii)investigation, replacement, modification, or support of the anatomy or of a
+physiological processʡ
+(iv)supporting or sustaining lifeʡ
+(v)control of conceptionʡ
+(vi)disinfection of medical devicesʡ or
+[SAHPGL-INSP-RC-08_v4
+Page 4 of 10
+DONATION OF MEDICINES AND MEDICAL DEVICES, INCLUDING IVDs
+5 November 2025
+(vii)providing information for medical or diagnostic purposes by means of in
+vitro examination of specimens derived from the
+human bodyʡ and
+which does not achieve its primary intended action by pharmacological, 
+immunological, or metabolic means, in or on the
+human or animal body, but which may be assisted in its intended function by 
+such meansʡ
+Medical Product
+means medicines, medical devices, including IVDs
+National Essential 
+Medicines List 
+Committee (NEMLC)
+means the non-statutory, advisory committee appointed by the Minister of 
+Health, responsible for the development and management of the national 
+EML and standard treatment guideline (STGs). The STGs and EML guide 
+clinical practice at all public sector health establishments and inform 
+procurement of medicines in the public sector.
+Standard Treatment 
+Guidelines (STGs)
+means the implementation mechanism of the EML, which guides health care 
+professionals on the use of medicines that appear on the EML and consists of 
+a collection of chapters containing disorder groups, background information 
+on the disorder, treatment regimens, as well as other relevant information.
+[SAHPGL-INSP-RC-08_v4
+Page 5 of 10
+DONATION OF MEDICINES AND MEDICAL DEVICES, INCLUDING IVDs
+5 November 2025
+1.
+INTRODUCTION
+1.1
+Purpose
+This guideline guides the appropriate, ethical, and effective donation of medicines and medical devices,
+including IVDs in South Africa, ensuring alignment with national legislation, public health needs, and 
+safety standards in the donation of medicines, medical devices including IVDs, while promoting
+accountability and equity in resource-limited settings.
+Over the years, there has been an enormous increase in scientific knowledge about the mode of action, 
+effects, and side effects of medicines, medical devices, including IVDs. It is important for all stakeholders 
+to understand that these products have both benefits and risks, that they must be used carefully and 
+appropriately, and that some can do more harm than good.
+There are many different scenarios for the donation of medicines, medical devices, including IVDs. 
+Donations may take place in cases of unexpected disease outbreaks or as part of development aid in 
+anticipated disease outbreaks, in case of shortages of Critical Medicines, Medical devices, including IVDs,
+and Post post-clinical trials access. They may involve donations (i.e. direct or through private voluntary 
+organisations), aid from governments or persons authorised to sell medicines, medical devices and/or 
+IVDs.
+While most donation guidelines focus on the public health sector, there is an increasing need to support 
+the private healthcare sector, including registered clinics, private hospitals, non-profit health providers, 
+and emergency relief organisations. These guidelines ensure donations of medicines, Medical Devices, 
+including IVDs to the public and private sector are safe, lawful, transparent, and patient-centered.
+1.2
+Scope
+The guidelines apply to all local and international donorsͶnot exclusive of manufacturers, distributors, 
+NGOs, and international health agencies, private healthcare institutions, non-profit organizations, and 
+private pharmacies operating legally within South Africa, who wish to donate medicines or medical 
+devices including IVDs to the South African public or private healthcare providers.
+The guideline applies to Medicines, medical devices, including IVDs donated by both local and 
+international donors including but not exclusive manufacturers, distributors, NGOs, and international 
+health agencies, private healthcare institutions, non-profit organizations, and private pharmacies 
+operating legally within South Africa, to the South African public or private healthcare providers.
+The scope of this guideline does not cover Veterinary medicines.
+1.3
+Principles for the donation of medicines, medical devices and IVDs
+The guideline is based on the following principles:
+1.3.1
+Medicines, medical devices, including IVDs, donated must be of acceptable quality, safety, 
+efficacy, or performance. For example, if the quality, safety, efficacy or performance of an item is
+unacceptable in the country from which it originates, it is also unacceptable as a donation;
+1.3.2
+Donations must take place in line with current government policies and administrative 
+arrangements;
+[SAHPGL-INSP-RC-08_v4
+Page 6 of 10
+DONATION OF MEDICINES AND MEDICAL DEVICES, INCLUDING IVDs
+5 November 2025
+1.3.3
+The donation of a medicine, medical device including IVDs, should benefit the recipient of the 
+donation and the clients/patients served to the maximum extent possible;
+1.3.4
+A donation should be given with full respect for the wishes and authority of the recipient;
+1.3.5
+Donations may include medical products that are registered in terms of the Medicines Act or 
+those that are not registered;
+1.3.6
+There should be effective communication between the donor and the recipient - donations 
+should be based on an expressed need and should not be sent unannounced.
+1.3.7
+Medicines that have been issued to patients and then returned to a pharmacy or other health 
+establishment shall not be accepted as donated medicines.
+1.3.8
+Reprocessed Medical Devices, including IVDs intended by the original manufacturer for single use
+shall not be accepted as donated medical devices, including IVDs.
+1.3.9
+Medical devices intended by the original manufacturer to be reusable may be considered for 
+donation, following review by the Authority.
+1.3.10 Donated medicines, Medical Devices, including IVDs, must not be sold for profit under any 
+circumstances
+1.3.11 Donations should not be used for marketing or promotional purposes.
+1.3.12 Donations to private entities must not create unfair advantage, disrupt markets, or compromise 
+public health objectives.
+2.
+LEGAL PROVISION
+Section 1 of the Medicines Act defines ͞ sell͟ as follows:͞
+sell͟ means sell by wholesale or retail and includes import, offer, advertise, keep, expose, transmit, consign, 
+convey or deliver for sale or authorize, direct or allow a sale or prepare or possess for purposes of sale, and 
+barter or exchange or supply or dispose of to any person whether for a consideration or otherwise; and ͞ sale͟
+and͞ sold͟ have corresponding meanings; 
+Section 1(3) of the Medicines Act states:
+In determining whether or not the registration or availability of a medicine is in the public interest, regard 
+shall be had only to the safety, quality and therapeutic efficacy thereof in relation to its effect on the health of
+a person or any animal.
+Section 21 of the Medicines Act states:
+(1) The Authority may, in writing, authorize any person to sell during a specified period to any specified 
+person or institution a specified quantity of any medicine, medical device, or IVD which is not 
+registered.
+(2) Any medicine, medical device, or IVD sold in pursuance of any authority granted under subsection (1) may 
+be used for such purposes and in such manner and during such period as the Authority may in writing 
+determine.
+(3) The Authority may at any time, by notice in writing, withdraw any authority granted in terms of subsection
+(1) if effect is not given to any determination made in terms of subsection (2).
+Regulation 29 of the General Regulations made in terms of the Medicines Act (Government Notice 859, 25 
+August 2017) states:
+Authorisation of sale of an unregistered medicine for certain purposes
+[SAHPGL-INSP-RC-08_v4
+Page 7 of 10
+DONATION OF MEDICINES AND MEDICAL DEVICES, INCLUDING IVDs
+5 November 2025
+(1) Subject to the provision of information, requirements and conditions as determined by the Authority, a 
+person desiring to sell an unregistered medicine subject to registration in terms of section 14 of the Act, for 
+purposes other than a clinical trial, shall apply to the Authority, on an application form obtainable from the 
+office of the Chief Executive Officer, for authorisation in terms of Section 21 of the Act to sell such a medicine.
+2) An application referred to in sub-regulation (1) must be accompanied by the prescribed fee and must 
+contain at least the following information-
+(a) duly completed application form;
+(b) product brochure containing relevant chemical, pharmaceutical, pre-clinical pharmacological and 
+toxicological data, and where applicable, human or animal pharmacological and clinical data with the 
+medicine concerned;
+(c) witnessed informed consent document, where applicable;
+(d) details of registration or pending registration of the medicine with any other regulatory authority, if 
+available;
+(e) evidence of compliance of the manufacturer of the medicine with Good Manufacturing Practice standards 
+as determined by the Authority;
+(f) reasons why a South African registered medicine cannot be used; and
+(g) any other information as may be required by the Authority.
+(3) The person under whose supervision the unregistered medicine or substance is prescribed shall submit to 
+the Authority-
+(a) any adverse event report;
+(b) progress reports after every six months from the date following commencement of the use of the 
+unregistered medicine; and
+(c) progress report 30 days after the completion or termination of the use of the medicine.
+(4) The Authority may-
+(a) impose any additional conditions;
+(b) request additional information;
+(c) inspects the site where the unregistered medicine is manufactured, stored or administered; or
+(d) withdraw the authorisation to treat the patient or animal,
+if the Authority is of the opinion that the safety of any patient or animal is compromised, that the scientific 
+reasons for administering the unregistered medicine have changed or for any other reason as determined by 
+the Authority.
+(5) A medicine referred to in sub-regulation (1) shall be properly labelled and the package shall sufficiently 
+identify the information as per the provisions of regulation 12(5)(c).
+[SAHPGL-INSP-RC-08_v4
+Page 8 of 10
+DONATION OF MEDICINES AND MEDICAL DEVICES, INCLUDING IVDs
+5 November 2025
+Section 18B of the Medicines Act which deals with the sampling of medicines, medical devices or IVDs 
+(amended by Medicines and Related Substances Amendment Acts, No. 72 of 2008 and No. 14 of 2015 which 
+came into effect on 1 June 2017) provides that:
+(1) No person shall sample any medicine, medical device or IVD
+(2) Use of medicine, medical devices or IVDs for exhibition or appraisal purposes shall be as prescribed.
+(3) For the purposes of this section ͚ sample͛ means the free supply of medicine, medical devices or IVDs by a 
+device or IVD establishment, manufacturer or wholesaler or its agent to a pharmacist, medical practitioner, 
+dentist, veterinarian, practitioner, nurse or other person registered under the Health Professions Act, 1974 
+(Act No. 56 of 1974), or any professional or person authorized to use the device.
+NOTE: The Minister of Health, has in terms of section 36(1) of the Medicines Act, excluded medicines, 
+medical devices and IVDs donated to the State, or provided to the State as a sample as part of the submission
+of a bid for a tender published by the State, from the provisions of section 18B of the Act: Provided that such 
+donations are made or samples provided in accordance with guidelines as determined by the Authority and 
+the relevant procedures required by the State (Date of notice ʹ 22 May 2020).
+[SAHPGL-INSP-RC-08_v4
+Page 9 of 10
+DONATION OF MEDICINES AND MEDICAL DEVICES, INCLUDING IVDs
+5 November 2025
+3.
+REQUIREMENTS FOR DONATED MEDICINES, MEDICAL DEVICES, INCLUDING
+IVDs
+3.1
+All donations should be based on the health needs of the recipient within the Republic of South 
+Africa.
+3.2
+It is the responsibility of the recipient to specify their needs so as to prevent unsolicited donations 
+and donations that arrive unannounced and unwanted.
+3.3
+Medicines donated to the State must appear on the Standard Treatment Guidelines/Essential 
+Medicines List of the National Department of Health (NDoH) and must be compatible with overall 
+government policy. Exceptions may be made on recommendation of the National Essential 
+Medicines List Committee (NEMLC).
+3.4
+The presentation, strength, and formulation of donated medicines should, as far as possible, be like
+those of medicines commonly used in South Africa.
+3.5
+Donations of medical devices, including IVDs, must be in line with Government policy.
+3.6
+Donated Medical Devices, including IVD͛ s must come with clear operation manuals and 
+maintenance instructions in at least English and all the necessary accessories and consumables
+3.7
+Medicines, medical devices, including IVDs supplied as donations, must comply with all regulatory 
+requirements on safety, quality, efficacy and or performance and should not differ from those that 
+are authorized for sale 
+3.8
+The importation of medicines, medical devices, including IVDs, which are not registered in terms of 
+the Medicines Act, must be reviewed and authorised by the Authority.
+3.9
+To avoid delay and additional expense, importation documents must be submitted to the Authority 
+for approval before shipment of a consignment. Refer to SAHPGL-INSP-RC-02- Guideline for the 
+Importation and Exportation of Medicines
+3.10
+A minimum of 12 months' shelf life must remain at the time of delivery unless otherwise approved 
+by SAHPRA and the recipient.
+3.11
+Narcotics and psychotropics (Controlled Substances) require an additional permit for import 
+obtained from SAHPRA
+3.12
+The following supporting documents must be submitted to the Authority via email on 
+regulatorycompliance@sahpra.org.za:
+3.12.1 A list of products to be donated;
+3.12.2 Quantity of the products to be donated
+3.12.3. The name and address of the original manufacturer(s) of the product/s;
+3.12.4. The expiry dates (if applicable);
+3.12.5. The name and address of the recipient
+[SAHPGL-INSP-RC-08_v4
+Page 10 of 10
+DONATION OF MEDICINES AND MEDICAL DEVICES, INCLUDING IVDs
+5 November 2025
+3.12.6 A request letter on the company letterhead
+3.13 In the case of medical devices, including IVDs, a declaration of conformity by the original manufacturer 
+of the medical device that the medical device conforms to the safety and performance principles of 
+medical device.
+3.14 Donations of medicines, medical devices, including IVDs that do not comply with the requirements,
+will be rejected and sent back to the donor at the donor͛ s expense.
+3.15 Specific Provisions for donations to the private Sector
+3.15.1 When donating to private entities (non-profit or for-profit), the donor and recipient must provide 
+assurance that donated items will be used free of charge
+3.15.2 Donations must not be used for commercial promotion
+3.15.3 A signed agreement between the donor and the recipient, outlining intended use, distribution, 
+and reporting obligations must be submitted to the Authority.
+3.15.4 The donor must obtain authorization from the National Department of Health, to ensure that the 
+donation is in line with the public health needs and ethical considerations.
+3.16 Post-Trial Access (Named-patient access) after 4 years of completion of a Clinical Trial
+3.17 The Authority reserves the right to inspect any donated products for compliance purposes.
+4.
+REFERENCES
+WHO Guidelines for Medicine Donations (4th edition)
+South African Essential Medicines List (EML)
+SAHPRA Guidelines on Medical Devices and Section 21 Applications
+SAHPRA Guidelines on the Importation and Exportation of Medicines  and Medical Devices including IVDs
+National Health Act (Act 61 of 2003)
+Medicines and Related Substances Act (Act 101 of 1965)
+Medical device Regulations
+5.
+VALIDITY
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the 5.08
+DONATION OF MEDICINES, MEDICAL DEVICES AND IVDs. It will be reviewed on this every five(5) years or as
+and when required.
+

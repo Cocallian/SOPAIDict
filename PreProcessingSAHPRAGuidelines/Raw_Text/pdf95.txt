@@ -1,0 +1,4520 @@
+SAHPGL-HPA-03_v4 
+Page 1 of 85
+ 
+ 
+ 
+30 November 2022 
+GUIDELINE ON SOUTH AFRICAN eCTD VALIDATION CRITERIA 
+This document is intended to provide requirements to applicants wishing to submit applications for the registration of medicines in 
+eCTD format. It reflects the current situation and will be regularly updated with changes in legislation and experience gained. It is 
+important that applicants adhere to the administrative requirements to avoid delays in the processing and evaluation of 
+applications. 
+ 
+ 
+ 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First 
+issue, 
+public 
+comments 
+incorporated 
+and 
+published 
+for 
+implementation 
+March 2013 
+2 
+− 
+Rules revised in line with the EU 
+− 
+New rules included: 1.4; 1.5; 2.1, 2.2, 2.3; 3.6; 4.1, 4.2; 7.4, 7.5; 8.6; 9.1, 
+9.2, 9.3, 9.4, 9.BP1 to 10, 10.1, 10.2; 11.1, 11.2; 12.1, 12.2, 12.3; 14.7, 
+14.8, 14.10, 14.BP2, 14.BP3, 14.BP5; 19.1, 19.BP10; 20.1, 20.4, 20.BP9, 
+19.BP10; 21.BP1, 21.BP2 
+− 
+Clarification of rules 9.BP1, 2, 3, 8, 9 
+− 
+Correction of filename in section3.2.R.1.2 
+October 2016 
+3 
+Revised and implemented. 
+April 2017 
+4 
+− 
+Content revised on the latest SAHPRA guideline template 
+− 
+Old document number 2.22 changed to SAHPGL-HPA-03 
+November 2022 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-HPA-03_v4 
+Page 2 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 4 
+3. 
+eCTD VALIDATION CRITERIA ....................................................................................................................... 5 
+4. 
+REFERENCES ............................................................................................................................................. 85 
+5. 
+VALIDITY ................................................................................................................................................... 85 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 3 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+API  
+Active Pharmaceutical Ingredient (also known as Drug Substance)  
+CD  
+Compact Disc  
+CD-ROM  
+Compact Disc Read-Only Memory  
+CTD   
+Common Technical Document  
+DTD  
+Document Type Definition  
+DVD  
+Digital Video Disc  
+ICH                   
+International Council for Harmonisation (of Technical Requirements for 
+Registration of Pharmaceuticals for Human Use) 
+MD5  
+Message-Digest algorithm 5  
+Util 
+Utility folder in the eCTD Sequence.  Contains technical files 
+XML  
+Extensible Markup Language  
+ZA/SA  
+South Africa  
+PDF  
+Portable Document Format  
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 4 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+This guideline provides the technical requirements to applicants on the electronic Common Technical 
+Document (eCTD).  It is to be used in the preparation and submission of applications for registration and 
+variation of medicines to SAHPRA, in the eCTD format established by the International Council for 
+Harmonisation (ICH) of Technical Requirements for Registration of Pharmaceuticals for Human Use.  
+Applicants who apply in the eCTD format must comply with the requirements for such submissions; these are: 
+• 
+the requirements defined in this guideline  
+• 
+the South African Specification for eCTD Module 1  
+• 
+the Electronic Common Technical Document Specification (v3.2.2), developed by the ICH M2 
+Expert Working Group (EWG)   
+• 
+the Guidance for the Submission of Regulatory information in eCTD Format    
+1.1 
+Purpose 
+The eCTD is intended as an electronic-only submission. 
+This document is intended to provide requirements to applicants wishing to submit applications for the 
+registration of medicines in eCTD format. It reflects the current situation and will be regularly updated with 
+changes in legislation and experience gained. 
+It is important that applicants adhere to the administrative requirements to avoid delays in the processing 
+and evaluation of applications.  
+1.2 
+Scope 
+This guideline applies to all human medicines (pharmaceutical and biological). It does not apply to 
+veterinary medicinal products or complementary medicines.  
+Once an applicant submits an application in the eCTD format, all responses to recommendations, additional 
+information, and variations for the same medicine should be submitted in the eCTD format.  Applicant 
+cannot revert to the paper based CTD or eSubmission format for subsequent submissions for the same 
+medicine.   
+2. 
+LEGAL PROVISION 
+There are no legal provisions for this guideline.
+SAHPGL-HPA-03_v4 
+Page 5 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+3. 
+eCTD VALIDATION CRITERIA 
+ZA rule 
+no. (V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+1. ICH DTD 
+1.1 
+ICH DTD 
+The ICH DTD is named correctly. 
+P/F 
+ 
+1.2 
+ICH DTD 
+The ICH DTD is placed in the correct folder. 
+P/F 
+ 
+1.3 
+ICH DTD 
+A currently acceptable version of the ICH DTD is 
+used (checksum matches the published value). 
+P/F 
+ 
+1.4 
+ICH DTD 
+The version number of the ICH  
+DTD/specification used in the sequence being 
+tested is higher than or equal to the version of the 
+DTD used in the sequence numerically preceding 
+the incoming sequence in the eCTD lifecycle.  
+P/F 
+ 
+1.5 
+ICH DTD 
+The version number of the ICH  
+DTD/specification used in the sequence being 
+tested is lower than or equal to the version of the 
+DTD used in the sequence numerically succeeding 
+the incoming sequence in the eCTD lifecycle. 
+P/F 
+ 
+2. ICH Stylesheet 
+2.1 
+ICH Stylesheet 
+The specified filename is used. 
+P/F 
+ 
+SAHPGL-HPA-03_v4 
+Page 6 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+2.2 
+ICH Stylesheet  
+The file is placed in the correct folder. 
+P/F 
+ 
+2.3 
+ICH Stylesheet 
+The checksum for the stylesheet used must match 
+the published checksum for the stylesheet 
+associated with the DTD used for the sequence. 
+P/F 
+ 
+ 
+ZA rule no. 
+(V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+3. Index 
+XML 
+ 
+ 
+ 
+3.1 
+Index XML 
+The index.xml is placed in the folder xxxx. 
+P/F 
+ 
+3.2 
+Index XML 
+There is a backbone file named index.xml. 
+P/F 
+ 
+3.3 
+Index XML 
+The index.xml file is well formed. 
+P/F 
+ 
+3.4 
+Index XML 
+The index.xml file is valid.  
+P/F 
+ 
+3.5 
+Index XML 
+The reference to the DTD in index.xml is 
+directed to the DTD provided in the util folder. 
+P/F 
+ 
+3.6 
+Index XML  
+The reference to the stylesheet in index.xml 
+is directed to the stylesheet provided in the 
+util folder. 
+P/F 
+ 
+4. Index 
+MD5 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 7 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+4.1 
+Index MD5 txt 
+The file is placed in the correct folder. 
+P/F 
+ 
+4.2 
+Index MD5 txt 
+The file is named correctly. 
+P/F 
+ 
+4.3 
+Index MD5 txt 
+The checksum of the index.xml, when 
+calculated by the validation tool, should 
+match the checksum provided in the index-
+md5.txt 
+P/F 
+ 
+5. 
+Checksum 
+ 
+ 
+ 
+5.1 
+Checksum 
+The checksum-type attribute must have the 
+value md5 or MD5. 
+P/F 
+ 
+ 
+ZA rule no. 
+(V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+6. Sequence Number 
+6.1 
+Sequence number 
+The sequence number is 4 digits (i.e., 
+numbers between 0000 and 9999) 
+P/F 
+ 
+6.2 
+Sequence number 
+The sequence number has not already 
+been used* 
+P/F 
+ 
+6.3 
+Sequence number 
+The sequence folder name matches the 
+sequence number in the za- envelope in za-
+regional.xml 
+P/F 
+ 
+SAHPGL-HPA-03_v4 
+Page 8 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+7. ZA M1 DTD 
+7.1 
+ZA M1 DTD 
+The ZA M1 DTD is named correctly. 
+P/F 
+ 
+7.2 
+ZA M1 DTD 
+The ZA M1 DTD is placed in the correct 
+folder. 
+P/F 
+ 
+7.3 
+ZA M1 DTD 
+A currently acceptable version of the ZA M1 
+DTD is used (checksum matches the 
+published value). 
+P/F 
+ 
+7.4 
+ZA M1 DTD 
+The version number of the ZA M1  
+DTD/specification used in the sequence 
+being tested is higher than or equal to the 
+version of the ZA M1 DTD used in the 
+sequence numerically preceding the 
+incoming sequence in the eCTD lifecycle. 
+P/F 
+ 
+7.5 
+ZA M1 DTD 
+The version number of the ZA M1  
+DTD/specification used in the sequence 
+being tested is lower than or equal to the 
+version of the ZA M1 DTD used in the 
+sequence numerically succeeding the 
+incoming sequence in the eCTD lifecycle. 
+P/F 
+ 
+SAHPGL-HPA-03_v4 
+Page 9 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+ 
+ 
+ 
+ZA rule no. 
+(V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+8. ZA regional XML 
+ 
+ 
+8.1 
+ZA regional XML 
+The za-regional.xml is placed in the folder 
+xxxx/m1/za. 
+P/F 
+ 
+8.2 
+ZA regional XML 
+There is a ZA M1 backbone file named za-
+regional.xml. 
+P/F 
+ 
+8.3 
+ZA regional XML 
+The za-regional.xml is well formed. 
+P/F 
+ 
+8.4 
+ZA regional XML 
+The za-regional.xml is valid. 
+P/F 
+ 
+8.5 
+ZA regional XML 
+The reference to the DTD in za-
+regional.xml is directed to the DTD 
+provided in the util folder. 
+P/F 
+ 
+8.6 
+ZA regional XML  
+The reference to the stylesheet in za-
+regional.xml is directed to the stylesheet 
+provided in the util folder. 
+P/F 
+ 
+9. ZA Module 1 
+ 
+ 
+9.1 
+ZA Module 1 
+A Letter of application must exist in section 
+1.0. 
+P/F 
+ 
+SAHPGL-HPA-03_v4 
+Page 10 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+9.2 
+ZA Module 1 
+The operation attribute of the Letter of 
+application must be new. 
+P/F 
+ 
+9.3 
+ZA Module 1 
+An Application Form must exist in section 
+1.2.1. 
+P/F 
+One or several application forms can be 
+added to this section.  Not for submission 
+types Withdrawal and Cancellation, as here 
+an application form is not required. 
+For more information, please refer to the 
+Guidance for the Submission of Regulatory 
+Information in eCTD  
+ 
+ZA rule no. 
+(V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+9.4 
+ZA Module 1 
+An Electronic copy declaration must exist in 
+section 1.2.2.4. 
+P/F 
+Not for submission types Withdrawal and 
+Cancellation, as here the electronic copy 
+declaration is not required.  For more 
+information, please refer to the Guidance for 
+the Submission of Regulatory Information in 
+eCTD format. 
+9.5 
+ZA Module 1 
+A Validation Template has to exist in 
+section 1.8. 
+P/F 
+Not for submission types Withdrawal and 
+Cancellation, as here a validation template is 
+SAHPGL-HPA-03_v4 
+Page 11 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+not required. For more information, please 
+refer to the Guidance for the  
+Submission of Regulatory Information in 
+eCTD format. 
+9.BP1 
+ZA Module 1 
+The operation attribute of the Application 
+form should be new. 
+BP 
+Not for submission types Withdrawal and 
+Cancellation. For more information, please 
+refer to the Guidance for the Submission of 
+Regulatory Information in eCTD format. 
+9.BP2 
+ZA Module 1 
+The operation attribute of the Proof of 
+payment should be new. 
+BP 
+Not for submission types Withdrawal and 
+Cancellation. For more information, please 
+refer to the Guidance for the Submission of 
+Regulatory Information in eCTD format. 
+9.BP3 
+ZA Module 1 
+The operation attribute of the Electronic 
+copy declaration should be new. 
+BP 
+Not for submission types Withdrawal and 
+Cancellation. For more information, please 
+refer to the Guidance for the Submission of 
+Regulatory Information in eCTD format. 
+9.BP4 
+ZA Module 1 
+The operation attribute of the Tabulated 
+Schedule of Amendments should be new. 
+BP 
+For more information, please refer to the 
+Guidance for the Submission of Regulatory 
+Information in eCTD format. 
+9.BP5 
+ZA Module 1 
+The cross-references in the Patient  
+BP 
+Only for submission type "New application". 
+SAHPGL-HPA-03_v4 
+Page 12 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+Information Leaflet in section 1.3.2 should 
+be hyperlinked to the package insert in 
+section 1.3.1.1. 
+For more information, please refer to the 
+Guidance for the Submission of Regulatory 
+Information in eCTD format. 
+ 
+ 
+ZA rule no. 
+(V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+9.BP6 
+ZA Module 1 
+The cross-references in the package 
+insert in section 1.3.1.1 should be 
+hyperlinked to the actual references. 
+BP 
+Only for submission type "New application". 
+For more information, please refer to the 
+Guidance for the Submission of Regulatory 
+Information in eCTD format. 
+9.BP7 
+ZA Module 1 
+The references in Sections B to D of the 
+Validation template in section 1.8 should 
+be hyperlinked to the respective 
+documents in the eCTD. 
+BP 
+Only for submission type "New application". 
+9.BP8 
+ZA Module 1 
+The references in the “Tabulated 
+Schedule of Amendments” should be 
+hyperlinked to the relevant documents 
+dealing with the recommendations and 
+responses. 
+BP 
+see “Amendments” guideline and Guidance for 
+the Submission of Regulatory Information in 
+eCTD format 
+SAHPGL-HPA-03_v4 
+Page 13 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+9.BP9 
+ZA Module 1 
+A Tabulated Schedule of Amendments 
+must exist in section 1.5.2.1. 
+BP 
+Only for some submission types of 
+pharmaceutical responses and amendments.  
+For more information, please refer to the 
+Guidance for the Submission of Regulatory 
+Information in eCTD format, section 5.6 
+10. ZA M1 envelope MOD file 
+10.1 
+ZA M1 envelope MOD 
+file 
+The ZA M1 envelope MOD file is named 
+correctly. 
+P/F  
+ 
+10.2 
+ZA M1 envelope MOD 
+file 
+The ZA M1 envelope MOD file is placed in 
+the correct folder. 
+P/F 
+ 
+10.3 
+ZA M1 envelope MOD 
+file 
+The checksum for the za-envelope.mod 
+file used must match the published 
+checksum for the za-envelope.mod file 
+associated with the DTD used for the 
+sequence. 
+P/F 
+ 
+ 
+ZA rule no. 
+(V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+11. ZA M1 leaf MOD file 
+ 
+ 
+11.1 
+ZA M1 leaf MOD file 
+The ZA M1 leaf MOD file is named correctly. P/F 
+ 
+SAHPGL-HPA-03_v4 
+Page 14 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+11.2 
+ZA M1 leaf MOD file 
+The ZA M1 leaf MOD file is placed in the 
+correct folder. 
+P/F 
+ 
+11.3 
+ZA M1 leaf MOD file 
+The checksum for the za-leaf.mod file used 
+must match the published checksum for the 
+zaleaf.mod file associated with the DTD 
+used for the sequence. 
+P/F 
+ 
+12. ZA M1 stylesheet 
+ 
+ 
+12.1 
+ZA M1 stylesheet  
+The ZA M1 stylesheet is named correctly. 
+P/F 
+ 
+12.2 
+ZA M1 stylesheet  
+The ZA M1 stylesheet is placed in the 
+correct folder. 
+P/F 
+ 
+12.3 
+ZA M1 stylesheet  
+The checksum for the stylesheet used must 
+match the published checksum for the 
+stylesheet associated with the DTD used for 
+the sequence. 
+P/F 
+ 
+13. Node Extension 
+ 
+ 
+13.1 
+Node extension 
+For every node-extension the "title" attribute 
+is not empty. 
+P/F 
+ 
+14. Files/Folders 
+ 
+ 
+14.1 
+Files/Folders 
+The files provided in the folders for Module 1 
+are in acceptable formats. 
+P/F 
+Only PDF is allowed to be used as file 
+format. Please refer to the ZA M1 
+specification, chapter 3.1. 
+SAHPGL-HPA-03_v4 
+Page 15 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+14.2 
+Files/Folders 
+The files provided in the folders for Module 
+2-5 are in acceptable formats. 
+P/F 
+Please refer to the ICH specification for 
+further information about file formats. 
+14.3 
+Files/folders 
+Total folder/file path does not exceed 180 
+characters. 
+P/F 
+ 
+ 
+ZA rule no. 
+(V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+14.4 
+Files/folders 
+File names do not exceed 64 characters. 
+P/F 
+ 
+14.5 
+Files/Folders 
+Folder names must not exceed 64 
+characters. 
+P/F 
+ 
+14.6 
+Files/folders 
+All characters used in referenced file 
+names are valid (according to the name 
+requirements of the ICH eCTD 
+Specification).  
+P/F 
+ 
+14.7 
+Files/Folders 
+All characters used in folder names are 
+valid 
+(according 
+to 
+the 
+name 
+requirements 
+of 
+the 
+ICH 
+eCTD 
+Specification). 
+P/F 
+ 
+14.8 
+Files/Folders 
+There are no empty folders 
+P/F 
+ 
+SAHPGL-HPA-03_v4 
+Page 16 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+14.9 
+Files/folders 
+There are no unreferenced files in M1, M2, 
+M3, M4 and M5 folders (including sub-
+folders but excluding 'util' subfolders). 
+P/F 
+ 
+14.10 
+Files/folders 
+The only files in the root folder are the 
+index.xml and index-md5.txt. 
+P/F 
+ 
+14.BP1 
+Files/Folders 
+Individual files do not exceed 200 MB in 
+size. 
+BP 
+ 
+14.BP2 
+Files/Folders 
+The recommended folder structure and 
+folder names from the ICH and ZA 
+specifications are used. 
+BP 
+ 
+14.BP3 
+Files/Folders 
+The recommended file names from the 
+ICH and ZA specifications are used for all 
+files. 
+BP 
+ 
+14.BP4 
+Files/folders 
+All files should have one and only one file 
+extension. The file extension should be 
+used to indicate the format of the file. 
+BP 
+ 
+ 
+ZA rule no. 
+(V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+SAHPGL-HPA-03_v4 
+Page 17 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+14.BP5 
+Files/folders 
+If documents are placed in section 3.2.R 
+(including subfolders), the structure must 
+follow the structure given in the ZA M1 
+specification. 
+BP 
+A detailed description of the required folder 
+and file names is given in the validation criteria 
+for South Africa in the information about Files 
+and Folder names. 
+15. ID Attributes 
+ 
+ 
+15.BP1 
+ID Attribute 
+The ID attribute value starts with a letter or 
+underscore character. 
+BP 
+ 
+16. Leaf 
+ 
+ 
+16.BP1 
+Leaf 
+Checks for elements not having any leaf 
+child nodes - all the lowest level heading 
+elements included in the submission 
+contain at least one leaf. 
+BP 
+ 
+17. Leaf Attributes 
+ 
+ 
+17.1 
+Leaf Attributes 
+The regenerated checksum for every 
+referenced file is the same as each 
+associated checksum provided in the 
+backbone file (e.g., za- regional.xml). 
+P/F 
+ 
+17.2 
+Leaf Attributes 
+For every leaf the "title" attribute is not 
+empty. 
+P/F 
+ 
+SAHPGL-HPA-03_v4 
+Page 18 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+17.3 
+Leaf Attributes 
+All leaves with an operation attribute value 
+of replace, delete or append must have a 
+value for modified-file. 
+P/F 
+ 
+17.4 
+Leaf Attributes 
+All leaves with an operation attribute value 
+of new must have no value for modified-file. 
+P/F 
+ 
+ 
+ 
+ZA rule no. 
+(V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+17.5 
+Leaf Attributes 
+The syntax of the modified file entry is in 
+accordance with ICH 3.0 or 3.2: If the 
+operation is append, replace or delete, 
+then the modified file attribute must use 
+the correct syntax (i.e., modified-  
+file="../0001/index.xml#a1234567") 
+P/F 
+ 
+17.BP1 
+Leaf Attributes 
+No modified file references an invalid 
+document: If the operation is append, 
+replace or delete, then the modified file 
+attribute should point to a valid document. 
+BP 
+If submissions are received non-sequentially 
+then it is possible that a sequence refers to a 
+file in a later sequence not yet received by the 
+agency, so warning only should be given. This 
+SAHPGL-HPA-03_v4 
+Page 19 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+criterion can only be validated in the lifecycle 
+(not part of a stand-alone validation). 
+18. xlink:href 
+18.1 
+xlink:href 
+xlink:href conforms to the eCTD standard  
+(using the relative path to the file and file 
+name) 
+P/F 
+ 
+18.2 
+xlink:href 
+If the operation is new, append or replace, 
+then xlink:href should point to a document 
+P/F 
+ 
+18.3 
+xlink:href 
+If the operation is delete, then xlink: href 
+should not exist. 
+P/F 
+ 
+18.4 
+xlink:href 
+No references in index files (xlink: href) 
+should target files outside the eCTD life 
+cycle. 
+P/F 
+ 
+ 
+ZA rule no. 
+(V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+19. Modified File 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 20 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+19.1 
+Modified File 
+For all leaves except leaves within node 
+extensions within the same CTD section 
+with an operation attribute value of 
+replace, delete or append, the modified file 
+must be present in the same CTD section 
+of the dossier. 
+P/F 
+Using the operation attribute 'delete' to remove 
+content in sections in ZA m1 which are no 
+longer used, due to updates of the CTD, are 
+exempt from this rule. 
+19.BP1 
+Modified File 
+For all leaves within node extensions 
+within the same CTD section with an 
+operation attribute value of replace, delete 
+or append, the modified file should be 
+present in the same node extension. 
+BP 
+Sections are defined by the CTD and also by 
+attributes in the eCTD. eCTD attributes also 
+create applicant defined sections. For 
+example, each 'substance' or 'manufacturer' 
+attribute in m3-2-s-drug-substance, or 'product-
+name' attribute in m3-2-p-drug-product will 
+create a new CTD section, and lifecycle 
+between these sections is also not allowed.  
+20. PDF Files 
+ 
+ 
+20.1 
+PDF Files  
+No PDF has been created and saved as 
+version 1.3 or earlier 
+P/F 
+ 
+20.2 
+PDF Files 
+There is no security setting or password 
+protection to open any individual file. 
+P/F 
+ 
+20.3 
+PDF Files 
+There are no further security settings 
+applied to any individual file. 
+P/F 
+Files in the sections 33-lit-ref, 43-lit-ref, and 54-
+lit-ref are excluded from this check. 
+SAHPGL-HPA-03_v4 
+Page 21 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+20.4 
+PDF Files  
+The submission does not contain 
+corrupted files. 
+P/F 
+ 
+20.BP1 
+PDF Files  
+PDF Format is PDF 1.4, 1.5, 1.6, or 1.7 
+BP 
+ 
+20.BP2 
+PDF Files  
+Hyperlinks and bookmarks within 
+documents, or between documents within 
+the same sequence, have a valid target. 
+BP 
+ 
+ 
+ 
+ZA rule no. 
+(V2.0) 
+Category (V2.0) 
+VALIDATION CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+20.BP3 
+PDF Files  
+Hyperlinks and bookmarks to destinations in 
+a different sequence in the same eCTD 
+have a valid target. 
+BP 
+ 
+20.BP4 
+PDF Files  
+All hyperlinks and bookmarks are set to 
+'inherit zoom'. 
+BP 
+ 
+20.BP5 
+PDF Files  
+PDFs must have "Fast Web View" active. 
+BP 
+ 
+20.BP6 
+PDF Files  
+PDF Document Properties for the Initial 
+View are set for 'Page Layout = Default' and 
+'Magnification = Default' 
+BP 
+ 
+20.BP7 
+PDF Files  
+All PDF links and Hyperlinks are relative 
+(are not absolute or rooted). 
+BP 
+ 
+SAHPGL-HPA-03_v4 
+Page 22 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+20.BP8 
+PDF Files  
+Bookmarks pane should be visible if 
+bookmarks are included with a PDF 
+document. 
+BP 
+ 
+20.BP9 
+PDF Files  
+The bookmarks panel should not be visible 
+if there are no bookmarks included within a 
+PDF document. 
+BP 
+ 
+20.BP10 
+PDF Files  
+All hyperlinks and bookmarks between two  
+PDFs must be configured as specified in 
+ISO 32000-1:2008 
+BP 
+ 
+21. Envelope Attributes 
+21.BP1 
+Envelope Attributes 
+If the submission type is a Response to a 
+preregistration recommendation or post-
+registration, then the related sequence 
+attribute is a four digit number. 
+BP 
+ 
+21.BP2 
+Envelope Attributes 
+If the submission type is not a Response to 
+a pre-registration recommendation or post-
+registration, then the related sequence 
+attribute must be "none". 
+BP 
+ 
+SAHPGL-HPA-03_v4 
+Page 23 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+ 
+ZA rule 
+no. 
+(V2.0) 
+Category 
+(V2.0) 
+VALIDATION CRITERIA 
+ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+ZA rule 
+no. 
+(V1.0) 
+Category 
+(V1.0) 
+VALIDATION 
+CRITERIA ZA (V1.0) 
+Severity 
+(V1.0) 
+1. ICH DTD 
+1.1 
+ICH DTD 
+The ICH DTD is named 
+correctly. 
+P/F 
+ 
+6 
+DTD 
+(ICH) 
+A valid ICH DTD 
+exists 
+P/F 
+1.2 
+ICH DTD 
+The ICH DTD is placed 
+in the correct folder. 
+P/F 
+ 
+6 
+DTD 
+(ICH) 
+A valid ICH DTD 
+exists 
+P/F 
+1.3 
+ICH DTD 
+A currently acceptable 
+version of the ICH DTD 
+is used (checksum 
+matches the published 
+value). 
+P/F 
+ 
+4 
+DTD 
+The checksum of the 
+ICH and ZA-M1 
+DTDs and .mod files 
+found in the util/dtd 
+folder is the same as 
+that of the 
+corresponding DTDs 
+and .mod files 
+located in the eCTD 
+validator's 
+installation folder 
+(subfolder DTDs), or 
+the same as the 
+P/F 
+SAHPGL-HPA-03_v4 
+Page 24 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+published reference 
+DTDs if available. 
+Please refer to 
+document 2.27 
+eCTD Checksums 
+for the checksum of 
+the ZA DTD. 
+1.4 
+ICH DTD 
+The version number of 
+the ICH  
+DTD/specification used 
+in the sequence being 
+tested is higher than or 
+equal to the version of 
+the DTD used in the 
+sequence numerically 
+preceding the incoming 
+sequence in the eCTD 
+lifecycle.  
+P/F 
+ 
+ 
+ 
+ 
+ 
+1.5 
+ICH DTD 
+The version number of 
+the ICH  
+DTD/specification used 
+in the sequence being 
+P/F 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 25 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+tested is lower than or 
+equal to the version of 
+the DTD used in the 
+sequence numerically 
+succeeding the incoming 
+sequence in the eCTD 
+lifecycle. 
+2. ICH Stylesheet 
+2.1 
+ICH Stylesheet The specified filename is 
+used. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+2.2 
+ICH Stylesheet The file is placed in the 
+correct folder. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+2.3 
+ICH Stylesheet 
+The checksum for the 
+stylesheet used must 
+match the published 
+checksum for the 
+stylesheet associated 
+with the DTD used for 
+the sequence. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+3. Index XML 
+3.1 
+Index XML 
+The index.xml is placed 
+in the folder xxxx. 
+P/F 
+ 
+12 
+index.xml 
+The index.xml/za-
+regional.xml is 
+P/F 
+SAHPGL-HPA-03_v4 
+Page 26 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+present and is 
+placed in a correct 
+position (i.e., ensure 
+there is a ZA Module 
+1 backbone file 
+named za- 
+regional.xml in the 
+folder xxxx/m1/za) 
+3.2 
+Index XML 
+There is a backbone file 
+named index.xml. 
+P/F 
+ 
+12 
+index.xml 
+The index.xml/za-
+regional.xml is 
+present and is 
+placed in a correct 
+position (i.e., ensure 
+there is a ZA Module 
+1 backbone file 
+named za- 
+regional.xml in the 
+folder xxxx/m1/za) 
+P/F 
+SAHPGL-HPA-03_v4 
+Page 27 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+ZA rule 
+no. 
+(V2.0) 
+Category 
+(V2.0) 
+VALIDATION CRITERIA 
+ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+ZA rule 
+no. 
+(V1.0) 
+Category 
+(V1.0) 
+VALIDATION 
+CRITERIA ZA (V1.0) 
+Severity 
+(V1.0) 
+  
+  
+3.3 
+Index XML 
+The index.xml file is well 
+formed. 
+P/F 
+ 
+3 
+DTD 
+The index.xml/za-
+regional.xml are well 
+formed and valid 
+when compared to  
+the DTD versions 
+provided in the  
+'util/dtd’ folder 
+P/F 
+3.4 
+Index XML 
+The index.xml file is 
+valid.  
+P/F 
+ 
+3 
+DTD 
+The index.xml/za-
+regional.xml are well 
+formed and valid 
+when compared to  
+the DTD versions 
+provided in the  
+'util/dtd’ folder 
+P/F 
+3.5 
+Index XML 
+The reference to the 
+DTD in index.xml is 
+directed to the DTD 
+provided in the util folder. 
+P/F 
+ 
+3 
+DTD 
+The index.xml/za-
+regional.xml are well 
+formed and valid 
+when compared to  
+P/F 
+SAHPGL-HPA-03_v4 
+Page 28 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+the DTD versions 
+provided in the  
+'util/dtd’ folder 
+3.6 
+Index XML  
+The reference to the 
+stylesheet in index.xml is 
+directed to the stylesheet 
+provided in the util folder. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+4. Index MD5 
+ 
+ 
+ 
+ 
+ 
+4.1 
+Index MD5 txt The file is placed in the 
+correct folder. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+4.2 
+Index MD5 txt The file is named 
+correctly. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+4.3 
+Index MD5 txt 
+The checksum of the 
+index.xml, when 
+calculated by the 
+validation tool, should 
+match the checksum 
+provided in the index-
+md5.txt 
+P/F 
+ 
+2 
+Checksum
+The checksum of 
+the index.xml, when 
+calculated by the 
+validation 
+tool, 
+should match the 
+checksum provided 
+in the index-md5.txt 
+P/F 
+5. Checksum 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 29 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+5.1 
+Checksum 
+The checksum-type 
+attribute must have the 
+value md5 or MD5. 
+P/F 
+ 
+1 
+Checksum
+The checksum-type 
+attribute must have 
+the value md5 or 
+MD5. 
+P/F 
+6. Sequence Number  
+ 
+ 
+ 
+ 
+6.1 
+Sequence 
+number 
+The sequence number is 
+4 digits (i.e., numbers 
+between 0000 and 
+9999). 
+P/F 
+ 
+19 
+Sequence 
+Number 
+The sequence 
+number is 4 digits 
+(i.e., numbers 
+between 0000 and 
+9999) 
+P/F 
+6.2 
+Sequence 
+number 
+The sequence number 
+has not already been 
+used. 
+P/F 
+This criterion can only be 
+validated in the lifecycle 
+(not part of a stand-alone 
+validation). 
+20 
+Sequence 
+Number 
+The 
+sequence
+number 
+has 
+not
+already been used* 
+P/F 
+6.3 
+Sequence 
+number 
+The sequence folder 
+name matches the 
+sequence number in the 
+za- envelope in za-
+regional.xml 
+P/F 
+ 
+21 
+Sequence 
+Number 
+The sequence folder 
+name matches the 
+sequence number in 
+the za- envelope in 
+za-regional.xml 
+P/F 
+7. ZA M1 DTD 
+ 
+ 
+ 
+ 
+ 
+7.1 
+ZA M1 DTD 
+The ZA M1 DTD is 
+named correctly. 
+P/F 
+ 
+5 
+DTD (ZA) A valid ZA M1 DTD 
+exists 
+P/F 
+SAHPGL-HPA-03_v4 
+Page 30 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+7.2 
+ZA M1 DTD 
+The ZA M1 DTD is placed
+in the correct folder. 
+P/F 
+ 
+5 
+DTD (ZA) A valid ZA M1 DTD 
+exists 
+P/F 
+ 
+ZA rule 
+no. 
+(V2.0) 
+Category 
+(V2.0) 
+VALIDATION CRITERIA 
+ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+ZA rule 
+no. 
+(V1.0) 
+Category 
+(V1.0) 
+VALIDATION 
+CRITERIA ZA (V1.0) 
+Severity 
+(V1.0) 
+  
+  
+7.3 
+ZA M1 DTD 
+A currently acceptable 
+version of the ZA M1 
+DTD is used (checksum 
+matches the published 
+value). 
+P/F 
+ 
+4 
+DTD 
+The checksum of the 
+ICH and ZA-M1 
+DTDs and .mod files 
+found in the util/dtd 
+folder is the same as 
+that of the 
+corresponding DTDs 
+and .mod files 
+located in the eCTD 
+validator's 
+installation folder 
+(subfolder DTDs), or 
+the same as the 
+published reference 
+DTDs if available. 
+P/F 
+SAHPGL-HPA-03_v4 
+Page 31 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+Please refer to 
+document 2.27 
+eCTD Checksums 
+for the checksum of 
+the ZA DTD. 
+7.4 
+ZA M1 DTD 
+The version number of 
+the ZA M1  
+DTD/specification used 
+in the sequence being 
+tested is higher than or 
+equal to the version of 
+the ZA M1 DTD used in 
+the sequence 
+numerically preceding 
+the incoming sequence 
+in the eCTD lifecycle. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+7.5 
+ZA M1 DTD 
+The version number of 
+the ZA M1  
+DTD/specification used 
+in the sequence being 
+tested is lower than or 
+equal to the version of 
+P/F 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 32 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+the ZA M1 DTD used in 
+the sequence 
+numerically succeeding 
+the incoming sequence 
+in the eCTD lifecycle. 
+8. ZA regional XML 
+8.1 
+ZA regional 
+XML 
+The za-regional.xml is 
+placed in the folder 
+xxxx/m1/za. 
+P/F 
+ 
+12 
+index.xml 
+The index.xml/za-
+regional.xml is 
+present and is 
+placed in a correct 
+position (i.e., ensure 
+there is a ZA Module 
+1 backbone file 
+named za- 
+regional.xml in the 
+folder xxxx/m1/za) 
+P/F 
+8.2 
+ZA regional 
+XML 
+There is a ZA M1 
+backbone file named za-
+regional.xml. 
+P/F 
+ 
+12 
+index.xml The 
+index.xml/za-
+regional.xml 
+is 
+present and is placed 
+in a correct  
+P/F 
+8.3 
+ZA regional 
+XML 
+The za-regional.xml is 
+well formed. 
+P/F 
+ 
+3 
+DTD 
+The index.xml/za-
+regional.xml are well 
+P/F 
+SAHPGL-HPA-03_v4 
+Page 33 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+formed and valid 
+when compared to  
+the DTD versions 
+provided in the  
+'util/dtd’ folder 
+8.4 
+ZA regional 
+XML 
+The za-regional.xml is 
+valid. 
+P/F 
+ 
+3 
+DTD 
+The index.xml/za-
+regional.xml are well 
+formed and valid 
+when compared to  
+the DTD versions 
+provided in the  
+'util/dtd’ folder 
+P/F 
+8.5 
+ZA regional 
+XML 
+The reference to the 
+DTD in za-regional.xml is 
+directed to the DTD 
+provided in the util folder. 
+P/F 
+ 
+3 
+DTD 
+The index.xml/za-
+regional.xml are well 
+formed and valid 
+when compared to  
+the DTD versions 
+provided in the  
+'util/dtd’ folder 
+P/F 
+8.6 
+ZA regional 
+XML  
+The reference to the 
+stylesheet in za-
+regional.xml is directed 
+P/F 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 34 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+to the stylesheet 
+provided in the util folder. 
+ 
+ZA rule 
+no. 
+(V2.0) 
+Category 
+(V2.0) 
+VALIDATION CRITERIA 
+ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+ZA rule 
+no. 
+(V1.0) 
+Category 
+(V1.0) 
+VALIDATION 
+CRITERIA ZA (V1.0) 
+Severity 
+(V1.0) 
+9. ZA Module  1 
+9.1 
+ZA Module 1 
+A Letter of Application 
+must exist in section 1.0. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+9.2 
+ZA Module 1 
+The operation attribute of 
+the Letter of Application 
+must be new. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+9.3 
+ZA Module 1 
+An Application Form 
+must exist in section 
+1.2.1. 
+P/F 
+One or several 
+application forms can be 
+added to this section.  
+Not for submission types 
+Withdrawal and 
+Cancellation, as here an 
+application form is not 
+required. 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 35 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+For more information, 
+please refer to the 
+Guidance for the 
+Submission of Regulatory 
+Information in eCTD 
+format. 
+9.4 
+ZA Module 1 
+An Electronic copy 
+declaration must exist in 
+section 1.2.2.4. 
+P/F 
+Not for submission types 
+Withdrawal and 
+Cancellation, as here the 
+electronic copy 
+declaration is not 
+required.  For more 
+information, please refer 
+to the Guidance for the 
+Submission of Regulatory 
+Information in eCTD 
+format. 
+ 
+ 
+ 
+ 
+9.5 
+ZA Module 1 
+A Validation Template 
+has to exist in section 
+1.8. 
+P/F 
+Not for submission types 
+Withdrawal and 
+Cancellation, as here a 
+validation template is not 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 36 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+required.  For more 
+information, please refer  
+to the Guidance for the 
+Submission of  
+Regulatory Information in 
+eCTD format. 
+9.BP1 
+ZA Module 1 
+The operation attribute of 
+the Application Form 
+should be new. 
+BP 
+Not for submission types 
+Withdrawal and 
+Cancellation. For more 
+information, please refer 
+to the Guidance for the 
+Submission of  
+Regulatory Information in 
+eCTD format. 
+ 
+ 
+ 
+ 
+9.BP2 
+ZA Module 1 
+The operation attribute of 
+the Proof of Payment 
+should be new. 
+BP 
+Not for submission types 
+Withdrawal and 
+Cancellation.  For more 
+information, please refer 
+to the Guidance for the 
+Submission of  
+Regulatory Information in 
+eCTD format. 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 37 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+9.BP3 
+ZA Module 1 
+The operation attribute of 
+the Electronic copy 
+declaration should be 
+new. 
+BP 
+Not for submission types 
+Withdrawal and 
+Cancellation.  For more 
+information, please refer 
+to the Guidance for the 
+Submission of  
+Regulatory Information in 
+eCTD format. 
+ 
+ 
+ 
+ 
+9.BP4 
+ZA Module 1 
+The operation attribute of 
+the Tabulated Schedule 
+of Amendments should 
+be new. 
+BP 
+For more information, 
+please refer to the 
+Guidance for the 
+Submission of Regulatory 
+Information in eCTD 
+format. 
+ 
+ 
+ 
+ 
+9.BP5 
+ZA Module 1 
+The cross-references in 
+the Patient  
+Information Leaflet in 
+section 1.3.2 should be 
+hyperlinked to the 
+package insert in section 
+1.3.1.1. 
+BP 
+Only for submission type 
+"New application". 
+For more information, 
+please refer to the 
+Guidance for the 
+Submission of Regulatory 
+Information in eCTD 
+format. 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 38 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+ 
+ZA rule 
+no. 
+(V2.0) 
+Category 
+(V2.0) 
+VALIDATION CRITERIA 
+ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+ZA rule 
+no. 
+(V1.0) 
+Category 
+(V1.0) 
+VALIDATION 
+CRITERIA ZA (V1.0) 
+Severity 
+(V1.0) 
+  
+  
+9.BP6 
+ZA Module 1 
+The cross-references in 
+the package insert in 
+section 1.3.1.1 should be 
+hyperlinked to the actual 
+references. 
+BP 
+Only for submission type 
+"New application". 
+For more information, 
+please refer to the 
+Guidance for the 
+Submission of Regulatory 
+Information in eCTD 
+format. 
+ 
+ 
+ 
+ 
+9.BP7 
+ZA Module 1 
+The references in 
+Sections B to D of the 
+Validation template in 
+section 1.8 should be 
+hyperlinked to the 
+respective documents in 
+the eCTD. 
+BP 
+Only for submission type 
+"New application". 
+ 
+ 
+ 
+ 
+9.BP8 
+ZA Module 1 
+The references in the 
+“Tabulated Schedule of 
+Amendments” should be 
+BP 
+See “Amendments” 
+guideline and Guidance 
+for the Submission of 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 39 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+hyperlinked to the 
+relevant documents 
+dealing with the 
+recommendations and 
+responses. 
+Regulatory Information in 
+eCTD format 
+9.BP9 
+ZA Module 1 
+A Tabulated Schedule of 
+Amendments should 
+exist in section 1.5.2.1. 
+BP 
+Only for some submission 
+types of pharmaceutical 
+responses and 
+amendments.  For more 
+information, please refer 
+to the  
+Guidance for the 
+Submission of Regulatory 
+Information in eCTD 
+format, section 5.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rule 22 is replaced by 
+rule 1.2 and 2.2 
+22 
+Util 
+Folder 
+A 'util' folder exists 
+and is in the correct 
+location (xxxx/util) 
+P/F 
+10. ZA M1 envelope MOD file 
+10.1 
+ZA M1 
+envelope MOD 
+file 
+The ZA M1 envelope 
+MOD file is named 
+correctly. 
+P/F  
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 40 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+10.2 
+ZA M1 
+envelope MOD 
+file 
+The ZA M1 envelope 
+MOD file is placed in the 
+correct folder. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+10.3 
+ZA M1 
+envelope MOD 
+file 
+The checksum for the za-
+envelope.mod file used 
+must match the 
+published checksum for 
+the za-envelope.mod file 
+associated with the DTD 
+used for the sequence. 
+P/F 
+ 
+4 
+DTD 
+The checksum of the 
+ICH and ZA-M1 
+DTDs and .mod files 
+found in the util/dtd 
+folder is the same as 
+that of the 
+corresponding DTDs 
+and .mod files 
+located in the eCTD 
+validator's installation 
+folder (subfolder 
+DTDs), or the same 
+as the published 
+reference DTDs if 
+available. Please 
+refer to document 
+2.27 eCTD 
+Checksums for the 
+P/F 
+SAHPGL-HPA-03_v4 
+Page 41 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+checksum of the ZA 
+DTD. 
+11. ZA M1 leaf MOD file 
+11.1 
+ZA M1 leaf 
+MOD file 
+The ZA M1 leaf MOD file 
+is named correctly. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+11.2 
+ZA M1 leaf 
+MOD file 
+The ZA M1 leaf MOD file 
+is placed in the correct 
+folder. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+ 
+ZA rule 
+no. 
+(V2.0) 
+Category 
+(V2.0) 
+VALIDATION 
+CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+ZA rule 
+no. 
+(V1.0) 
+Category 
+(V1.0) 
+VALIDATION 
+CRITERIA ZA (V1.0)
+Severity 
+(V1.0) 
+  
+  
+11.3 
+ZA M1 leaf 
+MOD file 
+The checksum for the 
+za-leaf.mod file used 
+must match the 
+published checksum for 
+the za-leaf.mod file 
+associated with the DTD 
+used for the sequence. 
+P/F 
+ 
+4 
+DTD 
+The checksum of the 
+ICH and ZA-M1 
+DTDs and .mod files 
+found in the util/dtd 
+folder is the same as 
+that of the 
+corresponding DTDs 
+P/F 
+SAHPGL-HPA-03_v4 
+Page 42 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+and .mod files 
+located in the eCTD 
+validator's 
+installation folder 
+(subfolder DTDs), or 
+the same as the 
+published reference 
+DTDs if available. 
+Please refer to 
+document 2.27 
+eCTD Checksums 
+for the checksum of 
+the ZA DTD. 
+12. ZA M1 stylesheet 
+12.1 
+ZA M1 
+stylesheet  
+The ZA M1 stylesheet is 
+named correctly. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+12.2 
+ZA M1 
+stylesheet  
+The ZA M1 stylesheet is 
+placed in the correct 
+folder. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+12.3 
+ZA M1 
+stylesheet  
+The checksum for the 
+stylesheet used must 
+match the published 
+P/F 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 43 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+checksum for the 
+stylesheet associated 
+with the DTD used for 
+the sequence. 
+13. Node Extension 
+13.1 
+Node 
+extension 
+For every node-
+extension the "title" 
+attribute is not empty. 
+P/F 
+ 
+26 
+XML 
+XML: Every leaf or 
+node extension 'title' 
+attribute is not empty 
+P/F 
+14. Files/Folders 
+14.1 
+Files/Folders 
+The files provided in the 
+folders for Module 1 are 
+in acceptable formats. 
+P/F 
+Only PDF is allowed to 
+be used as file format.  
+Please refer to the ZA 
+M1 specification, chapter 
+3.1. 
+8 
+Files/folders
+All file formats used 
+are valid (MS Word 
+files, if requested, 
+should not be 
+included in the eCTD 
+backbone but 
+provided separately -
+see Chapter 4.7 in 
+the Guidance for 
+Submission of  
+Regulatory 
+Information in eCTD  
+Format)  
+P/F 
+SAHPGL-HPA-03_v4 
+Page 44 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+14.2 
+Files/Folders 
+The files provided in the 
+folders for Module 2-5 
+are in acceptable 
+formats. 
+P/F 
+Please refer to the ICH 
+specification for further 
+information about file 
+formats. 
+8 
+Files/folders
+All file formats used 
+are valid (MS Word 
+files, if requested, 
+should not be 
+included in the eCTD 
+backbone but 
+provided separately -
+see Chapter 4.7 in 
+the Guidance for 
+Submission of  
+Regulatory 
+Information in eCTD  
+Format)  
+P/F 
+14.3 
+Files/folders 
+Total folder/file path 
+does not exceed 180 
+characters 
+P/F 
+ 
+9 
+Files/folders
+Total folder/file path 
+does not exceed 180 
+characters 
+P/F 
+14.4 
+Files/folders 
+File names do not 
+exceed 64 characters 
+P/F 
+ 
+10 
+Files/foldersFile names do not 
+exceed 64 
+characters 
+P/F 
+SAHPGL-HPA-03_v4 
+Page 45 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+ 
+ZA rule 
+no. 
+(V2.0) 
+Category 
+(V2.0) 
+VALIDATION 
+CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+ZA rule 
+no. 
+(V1.0) 
+Category 
+(V1.0) 
+VALIDATION 
+CRITERIA ZA 
+(V1.0) 
+Severity 
+(V1.0) 
+  
+  
+14.5 
+Files/Folders 
+Folder names must not 
+exceed 64 characters 
+P/F 
+ 
+ 
+ 
+ 
+ 
+14.6 
+Files/folders 
+All characters used in 
+referenced file names 
+are valid (according to 
+the name requirements 
+of the ICH eCTD 
+Specification). 
+P/F 
+ 
+11 
+Files/folders
+All characters used 
+in referenced file 
+names are valid 
+(according to the 
+name requirements 
+of the ICH eCTD 
+Specification)  
+P/F 
+14.7 
+Files/Folders 
+All characters used in 
+folder names are valid 
+(according to the name 
+requirements 
+of 
+the 
+ICH 
+eCTD 
+Specification). 
+P/F 
+ 
+ 
+ 
+ 
+ 
+14.8 
+Files/Folders 
+There are no empty 
+folders. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 46 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+14.9 
+Files/folders 
+There are no 
+unreferenced files in M1, 
+M2, M3, M4 and M5 
+folders (including sub-
+folders but excluding 
+'util' subfolders). 
+P/F 
+ 
+7 
+File 
+Reference 
+There are no 
+unreferenced files in 
+the root folder, M1, 
+M2, M3, M4 & M5 
+folders (including 
+sub-folders but 
+excluding 'util' 
+subfolders, the 
+indexmd5.txt and 
+index.xml). 
+P/F 
+14.10 
+Files/folders 
+The only files in the root 
+folder are the index.xml 
+and index-md5.txt. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+14.BP1 Files/Folders 
+Individual files do not 
+exceed 200 MB in size. 
+BP 
+ 
+28 
+Files/foldersIndividual files do 
+not exceed 100 MB 
+in size 
+BP 
+14.BP2 Files/Folders 
+The recommended 
+folder structure and 
+folder names from the 
+ICH and ZA 
+specifications are used. 
+BP 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 47 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+14.BP3 Files/Folders 
+The recommended file 
+names from the ICH and 
+ZA specifications are 
+used for all files. 
+BP 
+ 
+ 
+ 
+ 
+ 
+14.BP4 Files/folders 
+All files should have one 
+and only one file 
+extension. The file 
+extension should be 
+used to indicate the 
+format of the file. 
+BP 
+ 
+39 
+PDF 
+All files should have 
+one and only one file 
+extension. The file 
+extension should be 
+used to indicate the 
+format of the file. 
+BP 
+14.BP5 Files/folders 
+If documents are placed 
+in section 3.2.R 
+(including subfolders), 
+the structure must follow 
+the structure given in the 
+ZA M1 specification. 
+BP 
+A detailed description of 
+the required folder and 
+file names is given in the 
+validation criteria for 
+South Africa in the 
+information about Files 
+and Folder names. 
+ 
+ 
+ 
+ 
+15. ID Attributes 
+15.BP1 ID Attribute 
+The ID attribute value 
+starts with a letter or 
+underscore character 
+BP 
+ 
+29 
+ID Attribute 
+The ID attribute 
+value starts with a 
+letter or underscore 
+character 
+BP 
+SAHPGL-HPA-03_v4 
+Page 48 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+16. Leaf 
+16.BP1 Leaf 
+Checks for elements not 
+having any leaf child 
+nodes - all the lowest 
+level heading elements 
+included in the 
+submission contain at 
+least one leaf. 
+BP 
+ 
+30 
+Leaf 
+Checks for elements 
+not having any leaf 
+child nodes - all the 
+lowest level heading 
+elements included in 
+the submission 
+contain at least one 
+leaf 
+BP 
+ 
+ZA 
+rule 
+no. 
+(V2.0) 
+Category 
+(V2.0) 
+VALIDATION CRITERIA ZA V2.0 Severity 
+(V2.0) 
+Comment 
+(V2.0) 
+ZA 
+rule 
+no. 
+(V1.0) 
+Category 
+(V1.0) 
+VALIDATION CRITERIA ZA 
+(V1.0) 
+Severity 
+(V1.0) 
+17. Leaf Attributes 
+17.1 
+Leaf 
+Attributes 
+The regenerated checksum for 
+every referenced file is the same 
+as each associated checksum 
+provided in the backbone file (e.g., 
+za- regional.xml). 
+P/F 
+ 
+37 
+Checksum 
+The regenerated checksum for 
+every referenced file is the same 
+as each associated checksum 
+provided in the backbone file (e.g., 
+za- regional.xml) 
+BP 
+SAHPGL-HPA-03_v4 
+Page 49 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+17.2 Leaf 
+Attributes 
+For every leaf the "title" attribute is 
+not empty. 
+P/F 
+ 
+26 
+XML 
+XML:Every leaf or node extension 
+'title' attribute is not  empty 
+P/F 
+17.3 
+Leaf 
+Attributes 
+All leaves with an operation 
+attribute value of replace, delete or 
+append must have a value for 
+modified-file. 
+P/F 
+ 
+14, 
+15, 16 
+Modified 
+File 
+The syntax of the modified file 
+entry is in accordance with ICH 3.0 
+or 3.2: If the value of the operation 
+attribute is append, the eCTD 
+Validator verifies that: the modified 
+file must exist / the title is given / 
+href must exist. 
+The syntax of the modified file 
+entry is in accordance with ICH 3.0 
+or 3.2: If the value of the operation 
+attribute is replace, the eCTD 
+Validator verifies that: the modified 
+file must exist / the title is given. 
+The syntax of the modified file 
+entry is in accordance with ICH 3.0 
+or 3.2: If the value of the operation 
+attribute is delete, the eCTD 
+Validator verifies that: the modified 
+file must exist / the title is required 
+/ href must not exist. 
+P/F 
+SAHPGL-HPA-03_v4 
+Page 50 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+17.4 
+Leaf 
+Attributes 
+All leaves with an operation 
+attribute value of new must have 
+no value for modified-file. 
+P/F 
+ 
+13 
+Modified 
+File 
+The syntax of the modified file 
+entry is in accordance with ICH 3.0 
+or 3.2: If the value of the operation 
+attribute is new, the eCTD 
+Validator verifies that: the modified 
+file must not exist / the title is given 
+/ href must exist. 
+P/F 
+17.5 
+Leaf 
+Attributes 
+The syntax of the modified file 
+entry is in accordance with ICH 3.0 
+or 3.2: If the operation is append, 
+replace or delete, then the 
+modified file attribute must use the 
+correct syntax (i.e. modified-  
+file="../0001/index.xml#a1234567") 
+P/F 
+ 
+17 
+Modified 
+File 
+The syntax of the modified file 
+entry is in accordance with ICH 3.0 
+or 3.2: If the operation is append, 
+replace or delete, then the 
+modified file attribute must use the 
+correct syntax (i.e. modified-  
+file="../0001/index.xml#a1234567") 
+P/F 
+ 
+ZA rule 
+no. 
+(V2.0) 
+Category 
+(V2.0) 
+VALIDATION CRITERIA 
+ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+ZA rule 
+no. 
+(V1.0) 
+Category 
+(V1.0) 
+VALIDATION 
+CRITERIA ZA (V1.0) 
+Severity 
+(V1.0) 
+SAHPGL-HPA-03_v4 
+Page 51 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+  
+  
+17.BP1 
+Leaf Attributes 
+No modified file 
+references an invalid 
+document: If the 
+operation is append, 
+replace or delete, then 
+the modified file attribute 
+should point to a valid 
+document. 
+BP 
+If submissions are 
+received non- 
+sequentially then it is 
+possible that a sequence 
+refers to a file in a later 
+sequence not yet 
+received by the agency, 
+so warning only should be 
+given.  This criterion can 
+only be validated in the 
+lifecycle (not part of a 
+stand-alone validation). 
+35 
+Modified 
+File 
+No modified file 
+references an invalid 
+document: If the 
+operation is append, 
+replace or delete, 
+then the modified file 
+attribute should point 
+to a valid document 
+(although if 
+submissions are 
+received non- 
+sequentially then it is 
+possible that a 
+sequence refers to a 
+file in a later 
+sequence not yet 
+received by the 
+agency, so warning 
+only should be 
+given) *  
+BP 
+18. xlink:href 
+SAHPGL-HPA-03_v4 
+Page 52 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+18.1 
+xlink:href 
+xlink:href conforms to the 
+eCTD standard  
+(using the relative path to 
+the file and file name) 
+P/F 
+ 
+23 
+xlink:href 
+xlink:href conforms to 
+the eCTD standard 
+(using the relative 
+path to the file and 
+file name) 
+P/F 
+18.2 
+xlink:href 
+If the operation is new, 
+append or replace, then 
+xlink:href should point to 
+a document 
+P/F 
+ 
+24 
+xlink:href 
+If the operation is 
+new, append or  
+replace, then 
+xlink:href should 
+point to  
+a document 
+P/F 
+18.3 
+xlink:href 
+If the operation is delete, 
+then xlink:href should not 
+exist. 
+P/F 
+ 
+25 
+xlink:href 
+If the operation is 
+delete, then 
+xlink:href should be 
+blank 
+P/F 
+18.4 
+xlink:href 
+No references in index 
+files (xlink:href) should 
+target files outside the 
+eCTD life cycle. 
+P/F 
+ 
+27 
+xlink:href 
+No references in 
+index files (xlink:href) 
+should target files 
+outside the eCTD life 
+cycle. 
+P/F 
+19. Modified File 
+SAHPGL-HPA-03_v4 
+Page 53 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+19.1 
+Modified File 
+For all leaves except 
+leaves within node 
+extensions within the 
+same CTD section with 
+an operation attribute 
+value of replace, delete 
+or append, the modified 
+file must be present in 
+the same CTD section of 
+the dossier. 
+P/F 
+Using the operation 
+attribute 'delete' to 
+remove content in 
+sections in ZA m1 which 
+are no longer used, due 
+to updates of the CTD, 
+are exempt from this rule. 
+ 
+ 
+ 
+ 
+19.BP1 Modified File 
+For all leaves within 
+node extensions within 
+the same CTD section 
+with an operation 
+attribute value of replace, 
+delete or append, the 
+modified file should be 
+present in the same 
+node extension. 
+BP 
+Sections are defined by 
+the CTD and also by 
+attributes in the eCTD.  
+eCTD attributes also 
+create applicant defined 
+sections.  For example, 
+each 'substance' or 
+'manufacturer' attribute in 
+m3-2-s-drug-substance, 
+or 'product-name' 
+attribute in m3-2-p-drug-
+product will create a new 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 54 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+CTD section, and lifecycle 
+between these sections is 
+also not allowed.  
+ 
+ 
+ 
+ 
+New rule 17.3 
+16 
+Modified 
+File 
+The syntax of the 
+modified file entry is 
+in accordance with 
+ICH 3.0 or 3.2: If the 
+value of the 
+operation attribute is 
+delete, the eCTD 
+Validator verifies 
+that: the modified file 
+must exist / the title 
+is required / href 
+must not exist. 
+P/F 
+ 
+ZA rule 
+no. 
+(V2.0) 
+Category 
+(V2.0) 
+VALIDATION CRITERIA 
+ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+ZA rule 
+no. 
+(V1.0) 
+Category 
+(V1.0) 
+VALIDATION 
+CRITERIA ZA (V1.0) 
+Severity 
+(V1.0) 
+SAHPGL-HPA-03_v4 
+Page 55 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+  
+   
+ 
+ 
+New rule 17.3 
+14 
+Modified 
+File 
+The syntax of the 
+modified file entry is 
+in accordance with 
+ICH 3.0 or 3.2: If the 
+value of the 
+operation attribute is 
+append, the eCTD 
+Validator verifies 
+that: the modified file 
+must exist / the title 
+is  given / href must 
+exist.  
+P/F 
+20. PDF Files 
+20.1 
+PDF Files  
+No PDF has been 
+created and saved as 
+version 1.3 or earlier 
+P/F 
+ 
+ 
+ 
+ 
+ 
+20.2 
+PDF Files 
+There is no security 
+setting or password 
+protection to open any 
+individual file. 
+P/F 
+ 
+18 
+Security 
+There is no security 
+setting or password 
+protection on any 
+individual file 
+P/F 
+SAHPGL-HPA-03_v4 
+Page 56 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+20.3 
+PDF Files 
+There are no further 
+security settings applied 
+to any individual file. 
+P/F 
+Files in the sections 33-
+lit-ref, 43-lit-ref, 54-litref 
+are excluded from this 
+check. 
+18 
+Security 
+There is no security 
+setting or password 
+protection on any 
+individual file 
+P/F 
+20.4 
+PDF Files  
+The submission does not 
+contain corrupted files. 
+P/F 
+ 
+ 
+ 
+ 
+ 
+20.BP1 PDF Files  
+PDF Format is PDF 1.4, 
+1.5, 1.6, or 1.7 
+BP 
+ 
+31 
+PDF 
+PDF Format is PDF 
+1.4, 1.5, 1.6, or  
+1 7 
+BP 
+20.BP2 PDF Files  
+Hyperlinks and 
+bookmarks within 
+documents, or between 
+documents within the 
+same sequence, have a 
+valid target. 
+BP 
+ 
+32 
+PDF 
+There are no broken 
+links in a PDF 
+document 
+BP 
+20.BP3 PDF Files  
+Hyperlinks and 
+bookmarks to 
+destinations in a different 
+sequence in the same 
+eCTD have a valid 
+target. 
+BP 
+ 
+32 
+PDF 
+There are no broken 
+links in a PDF 
+document 
+BP 
+SAHPGL-HPA-03_v4 
+Page 57 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+20.BP4 PDF Files  
+All hyperlinks and 
+bookmarks are set to 
+'inherit zoom'. 
+BP 
+ 
+38 
+PDF 
+PDFs open in "most 
+recent view" (i.e., 
+'inherit zoom' for 
+bookmarks and links, 
+and 'default' in open 
+dialogue box.  
+(ICH eCTD spec p7-
+4)). 
+BP 
+20.BP5 PDF Files  
+PDFs must have "Fast 
+Web View" active. 
+BP 
+ 
+33 
+PDF 
+PDFs have the 'Fast 
+Web Access' option 
+active 
+BP 
+20.BP6 PDF Files  
+PDF Document 
+Properties for the Initial 
+View are set for 'Page 
+Layout = Default' and 
+'Magnification = Default'. 
+BP 
+ 
+38 
+PDF 
+PDFs open in "most 
+recent view" (i.e., 
+'inherit zoom' for 
+bookmarks and links, 
+and 'default' in open 
+dialogue box.  
+(ICH eCTD spec p7-
+4)). 
+BP 
+20.BP7 PDF Files  
+All PDF links and 
+Hyperlinks are relative 
+BP 
+ 
+34 
+PDF 
+All PDF links and 
+Hyperlinks are 
+BP 
+SAHPGL-HPA-03_v4 
+Page 58 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+(are not absolute or 
+rooted). 
+relative (are not 
+absolute or rooted) 
+20.BP8 PDF Files  
+Bookmarks panel should 
+be visible if bookmarks 
+are included with a PDF 
+document. 
+BP 
+ 
+36 
+PDF 
+initial 
+view 
+Bookmarks pane 
+should be visible if 
+bookmarks are 
+included with a PDF 
+document 
+BP 
+20.BP9 PDF Files  
+The bookmarks panel 
+should not be visible if 
+there are no bookmarks 
+included within a PDF 
+document. 
+BP 
+ 
+ 
+ 
+ 
+ 
+20.BP10 PDF Files  
+All hyperlinks and 
+bookmarks between two  
+PDFs must be configured 
+as specified in ISO 
+32000-1:2008 
+BP 
+ 
+ 
+ 
+ 
+ 
+ 
+ZA 
+rule 
+Category 
+(V2.0) 
+VALIDATION 
+CRITERIA ZA V2.0 
+Severity 
+(V2.0) 
+Comment (V2.0) 
+ZA 
+rule 
+Category 
+(V1.0) 
+VALIDATION 
+CRITERIA ZA 
+(V1.0) 
+Severity 
+(V1.0) 
+SAHPGL-HPA-03_v4 
+Page 59 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+no. 
+(V2.0) 
+no. 
+(V1.0) 
+21. Envelope 
+Attributes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21.BP1 
+Envelope 
+Attributes 
+If the submission type is 
+a Response to a 
+preregistration 
+recommendation or 
+postregistration, then 
+the related sequence 
+attribute is a four-digit 
+number. 
+BP 
+ 
+ 
+ 
+ 
+ 
+21.BP2 
+Envelope 
+Attributes 
+If the submission type is 
+not a Response to a 
+pre-registration 
+recommendation or 
+post-registration, then 
+the related sequence 
+attribute must be 
+"none". 
+BP 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 60 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+SAHPGL-HPA-03_v4 
+Page 61 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+LEGEND 
+Black 
+These entries are fixed text for folder and file names according to the ZA and ICH specifications.  The level of 
+adherence to these names is specified in the eCTD validation criteria. 
+ 
+ 
+ 
+ 
+Red 
+These entries are variable text for folder and file names according to the ZA and ICH specifications.  In all folder  
+ 
+locations containing file names entirely in red text or files with -var  
+ 
+Blue (compendial) 
+If the folder name starts with this text, then component file names below are entirely variable.  If the folder name  
+ 
+does not start with this word, then the fixed filenames should be followed. 
+ 
+Bold, no file extension 
+These entries indicate folder names, and are coloured in accordance with the legend above. 
+Regular, with file extension(.pdf) 
+These entries indicate file names, and are coloured in accordance with the legend above. 
+Use of Additional Folders 
+ At these locations, a complete branch of the table of contents can be added. 
+At these locations, one or more optional subfolders may be used, (also as nested folders, i.e., folders within folders) 
+but files can also be placed directly at this location.  The subfolders and at these locations, there must be a subfolder if 
+content is provided.  Optional additional subfolders: 
+ 
+ 
+ 
+ 
+ 
+multiple branches possible 
+optional folder 
+ 
+folder required and 
+additional folders optional 
+ 
+SAHPGL-HPA-03_v4 
+Page 62 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+product-name 
+ 0000 
+index .xml  
+index-md5.txt 
+m1  
+za 
+za-regional.xml   
+10-application-letter   
+application-letter-var.pdf 
+12-application 
+121-application-form 
+application-form-var.pdf  
+122-annexes 
+1221-proof-of-payment  
+proof-of-payment-var  
+1222-letter-of-authorisation  
+letter-of-authorisation-var.pdf 
+1223-dossier-product-batch-information  
+dossier-product-batch-information-var.pdf 
+1224-electronic-copy-declaration  
+electronic-copy-declaration-var.pdf 
+SAHPGL-HPA-03_v4 
+Page 63 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+1225-cv-pharmacovigilance  
+cv-pharmacovigilance-var.pdf 
+1226-api-change-control  
+api-change-control-var.pdf 
+1227-vamf-certificate  
+vamf-certificate-var.pdf 
+1228-pmf-certificate  
+pmf-certificate-var.pdf 
+13-za-labelling-packaging 
+131-sapi   
+1311-pi   
+pi-var.pdf 
+1312-stdrefs   
+stdrefs-var.pdf 
+132-pil   
+pil-var.pdf 
+133-labels   
+label-var.pdf    
+134-braille   
+braille-var.pdf    
+14-expert-information    
+SAHPGL-HPA-03_v4 
+Page 64 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+141-quality   
+quality-var.pdf    
+142-non-clinical 
+non-clinical-var.pdf    
+143-clinical   
+clinical-var.pdf    
+15-specific-requirements     
+151-literature-based    
+literature-based-var.pdf     
+152-amendment   
+   
+1521-amendment-schedule    
+amendment-schedule-var.pdf 
+1522-medicine-register  
+medicine-register-var.pdf 
+1523-affidavit  
+affidavit-var.pdf 
+153-proprietary-name   
+proprietary-name-var.pdf 
+154-gmo   
+gmo-var.pdf   
+155-pi-amendment   
+SAHPGL-HPA-03_v4 
+Page 65 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+pi-amendment-var.pdf 
+16-environ-risk-assessment 
+161-nongmo    
+nongmo-var.pdf   
+162-gmo    
+gmo-var.pdf  
+17-gmp 
+171-last-inspection  
+ 
+last-inspection-var.pdf   
+172-inspection-report-or-equivalent   
+inspection-report-var.pdf 
+173-gmp-certificate  
+gmp-certificate-var.pdf  
+174-release 
+1741-api  
+api-var.pdf 
+1742-ipi  
+ipi-var.pdf 
+1743-fprc-tests  
+fprc-tests-var.pdf 
+1744-fprr-criteria  
+SAHPGL-HPA-03_v4 
+Page 66 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+fprr-criteria-var.pdf 
+175-contract-confirmation  
+contract-confirmation-var.pdf  
+176-cpp 
+cpp-var.pdf 
+177-sapc-reg  
+sapc-reg-var.pdf 
+178-comp-reg  
+comp-reg-var.pdf 
+179-docs-phcr  
+phcr-var.pdf 
+1710-sample-documents 
+17101-sample-submission-confirmation  
+confirmation-sample-var.pdf 
+17102-sample-bmr  
+sample-bmr-var.pdf 
+17103-sample-coa  
+sample-coa-var.pdf 
+1711-manufacturing-permit  
+manufacturing-permit-var.pdf 
+1712-inspection-flow-diagram  
+SAHPGL-HPA-03_v4 
+Page 67 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+inspection-flow-diagram-var.pdf 
+1713-organogram  
+organogram-var.pdf   
+18-compliance-screening   
+compliance-screening-var.pdf   
+19-indiv-patient-data   
+  
+indiv-patient-data-var.pdf 
+110-foreign-reg-status 
+1101-countries-same-appl  
+countries-same-appl-var.pdf 
+1102-foreign-reg-certif-or-ma  
+foreign-reg-cert-or-ma-var.pdf 
+1103-foreign-pi  
+foreign-pi-var.pdf 
+1104-data-set-similarities  
+data-set-similarities-var.pdf 
+111-be-trial-info  
+be-trial-info-var.pdf  
+112-paediatric-dev-program  
+paediatric-dev-program-var.pdf 
+113-risk-management-plan  
+SAHPGL-HPA-03_v4 
+Page 68 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+risk-management-plan-var.pdf 
+ 
+m2   
+ 
+22-intro   
+ 
+introduction-var.pdf 
+23-qos 
+qos-var.pdf 
+OR 
+introduction-var.pdf  
+drug-substance-var.pdf  
+drug-product-var.pdf  
+appendices-var.pdf 
+regional-information-var.pdf   
+ 
+24-nonclin-over   
+ 
+nonclinical-overview-var.pdf   
+ 
+25-clin-over   
+ 
+clinical-overview-var.pdf    
+26-nonclin-sum   
+ 
+introduction-var.pdf   
+ 
+pharmacol-written-summary-var.pdf  
+pharmacol-tabulated-summary-var.pdf 
+SAHPGL-HPA-03_v4 
+Page 69 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+pharmkin-written-summary-var.pdf  
+pharmkin-tabulated-summary-var.pdf  
+toxicology-written-summary-var.pdf 
+toxicology-tabulated-summary-var.pdf 
+27-clin-sum  
+summary-biopharm-var.pdf  
+summary-clin-pharm-var.pdf  
+summary-clin-efficacy-var.pdf  
+summary-clin-safety-var.pdf  
+literature-references-var.pdf  
+synopses-indiv-studies-var.pdf 
+m3 
+32-body-data 
+32s-drug-sub 
+ 
+drug-substance   
+ 
+2s1-gen-info     
+  
+  
+ 
+nomenclature-var.pdf 
+structure-var.pdf  
+general-properties-var.pdf 
+32s2-manuf 
+manufacturer-var.pdf  
+multiple branches possible 
+SAHPGL-HPA-03_v4 
+Page 70 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+manuf-process-and-controls-var.pdf  
+control-of-materials-var.pdf  
+control-critical-steps-var.pdf  
+process-validation-var.pdf  
+manuf-process-development-var.pdf 
+32s3-charac 
+elucidation-of-structure-var.pdf     
+  
+  
+ 
+impurities-var.pdf 
+32s4-contr-drug-sub 
+ctrlstrat-var.pdf 
+32s41-spec 
+specification-var.pdf     
+  
+  
+ 
+32s42-analyt-proc   
+  
+  
+  
+ 
+analytical-procedure.pdf   
+  
+  
+  
+ 
+32s43-val-analyt-proc   
+  
+  
+  
+ 
+validation-analyt-procedure.pdf   
+  
+  
+  
+32s44-batch-analys   
+  
+  
+  
+ 
+batch-analyses-var.pdf 
+32s45-justif-spec 
+justification-of-specification-var.pdf  
+  
+  
+  
+32s5-ref-stand   
+  
+  
+  
+ 
+Refer to ICH eCTD Q&A 81, additional files 
+are now allowed for control strategy 
+summary. 
+SAHPGL-HPA-03_v4 
+Page 71 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+reference-standards-var.pdf    
+  
+  
+ 
+32s6-cont-closure-sys   
+  
+  
+  
+ 
+container-closure-system-var.pdf 
+32s7-stab 
+stability-summary-var.pdf 
+postapproval-stability-var.pdf   
+  
+  
+  
+ 
+ 
+stability-data-var.pdf 
+ 
+32p-drug-prod   
+  
+  
+ 
+ 
+drug-product   
+32p1-desc-comp 
+description-and-composition-var.pdf   
+  
+  
+  
+32p2-pharm-dev 
+pharmaceutical-development-var.pdf 
+32p3-manuf 
+manufacturers-var.pdf  
+batch-formula-var.pdf  
+manuf-process-and-controls-var.pdf 
+control-critical-steps-var.pdf   
+  
+  
+  
+ 
+process-validation-var.pdf  
+ 
+ 
+ 
+ 
+ 
+ 
+multiple branches possible 
+SAHPGL-HPA-03_v4 
+Page 72 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+32p4-contr-excip 
+excipients.pdf  
+excipient 
+specifications-var.pdf  
+analytical-procedures-var.pdf 
+validation-analyt-procedures-var.pdf   
+ 
+justification-of-specifications-var.pdf   
+compendial-excipients 
+specifications.pdf  
+analytical-procedures.pdf  
+validation-analyt-procedures.pdf   
+  
+  
+  
+ 
+justification-of-specifications.pdf   
+  
+  
+  
+ 
+excipients-human-animal-var.pdf   
+  
+  
+  
+ 
+novel-excipients-var.pdf 
+32p5-contr-drug-prod 
+ctrlstrat-var.pdf 
+32p51-spec 
+specifications-var.pdf   
+  
+  
+  
+  
+ 
+32p52-analyt-proc   
+  
+  
+  
+  
+ 
+analytical-procedure.pdf 
+32p53-val-analyt-proc     
+  
+ 
+multiple branches possible 
+Refer to ICH eCTD Q&A 73, options 1 & 2, 
+file name entirely variable, multiple files 
+allowed. 
+Refer to ICH eCTD Q&A 81, additional files 
+are now allowed for control strategy 
+summary. 
+multiple branches possible 
+SAHPGL-HPA-03_v4 
+Page 73 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+validation-analytical-procedures.pdf 
+32p54-batch-analys   
+  
+  
+  
+  
+ 
+batch-analyses-var.pdf 
+32p55-charac-imp 
+characterisation-impurities-var.pdf     
+  
+  
+  
+ 
+32p56-justif-spec 
+justification-of-specifications-var.pdf   
+  
+  
+  
+ 
+32p6-ref-stand   
+  
+  
+  
+ 
+reference-standards-var.pdf   
+  
+  
+  
+ 
+32p7-cont-closure-sys   
+  
+  
+  
+ 
+container-closure-system-var.pdf 
+32p8-stab 
+stability-summary-var.pdf 
+postapproval-stability-var.pdf     
+  
+  
+ 
+stability-data-var.pdf 
+32a-app 
+32a1-fac-equip   
+  
+  
+ 
+manufacturer 
+facilities-and-equipment-report.pdf 
+32a2-advent-agent  
+substance 
+optional folder 
+optional folder 
+SAHPGL-HPA-03_v4 
+Page 74 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+ 
+adventitious-agents-report.pdf   
+ 
+32a3-excip-substance folder 
+ 
+ 
+ 
+substance.pdf  
+ 
+ 
+32r-reg-info 
+32r1-availabilit 
+ 
+32r11-overview 
+                 
+overview-var.pdf 
+32r12-ref 
+                 
+ref-prd-var.pdf 
+32r13-coa 
+                    
+coa-var.pdf 
+32r14-availability 
+              
+avail-var.pdf 
+32r2-parent-api-diff-sites  
+statement-var.pdf 
+32r3-cep  
+cep-var.pdf 
+32r4-multiple-api-mnf  
+comp-rep-var.pdf  
+comp-results-var.pdf  
+multiple branches possible 
+optional folder 
+folder required  
+folder required  
+folder required  
+folder required  
+folder required  
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+In line with ICH eCTD specification, "The directory/file 
+structure would typically follow that of the drug substance 
+section in Module 3.2.S." 
+SAHPGL-HPA-03_v4 
+Page 75 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+compliance-guidelines-var.pdf  
+coa-var.pdf 
+32r5-med-dev 
+                  
+med-dev-var.pdf 
+32r6-animal-human-orig 
+     
+   origin-var.pdf 
+32r7-bmr 
+                              
+bmr-var.pdf 
+32r8-other 
+                               
+ 
+other-var.pdf 
+ 
+33-lit-ref 
+folder 
+                                     
+reference.pdf   
+m4 
+42-stud-rep 
+421-pharmacol 
+4211-prim-pd  
+study-report 
+              
+study-report.pdf      
+4212-sec-pd 
+study-report 
+               
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+optional folder 
+optional folder 
+optional folder 
+SAHPGL-HPA-03_v4 
+Page 76 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+study-report.pdf 
+4213-safety-pharmacol 
+study-report 
+ 
+study-report.pdf 
+ 
+ 
+4214-pd-drug-interact 
+ 
+study-report 
+  
+study-report.pdf 
+422-pk 
+4221-analyt-met-val  
+study-report 
+study-report.pdf 
+4222-absorp 
+study-report 
+study-report.pdf 
+4223-distrib 
+study-report 
+study-report.pdf 
+4224-metab 
+study-report 
+study-report.pdf 
+4225-excr 
+optional folder 
+optional folder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+SAHPGL-HPA-03_v4 
+Page 77 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+study-report 
+study-report.pdf 
+4226-pk-drug interact  
+study-report 
+study-report.pdf 
+4227-other-pk-stud  
+study-report 
+study-report.pdf   
+  
+ 
+423-tox 
+4231-single-dose-tox  
+study-report 
+study-report.pdf 
+4232-repeat-dose-tox  
+study-report 
+ 
+study-report.pdf   
+4233-genotox 
+42331-in-vitro 
+study-report 
+study-report.pdf 
+42332-in-vivo 
+study-report  
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+SAHPGL-HPA-03_v4 
+Page 78 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+study-report.pdf 
+4234-carcigen 
+42341-lt-stud 
+study-report 
+study-report.pdf 
+42342-smt-stud  
+study-report 
+study-report.pdf 
+42343-other-stud  
+study-report 
+study-report.pdf 
+4235-repro-dev-tox 
+42351-fert-embryo-dev  
+study-report 
+study-report.pdf 
+42352-embryo-fetal-dev  
+study-report 
+study-report.pdf 
+42353-pre-postnatal-dev  
+study-report 
+study-report.pdf 
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+SAHPGL-HPA-03_v4 
+Page 79 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+42354-juv 
+study-report 
+study-report.pdf 
+4236-loc-tol 
+study-report 
+study-report.pdf 
+4237-other-tox-stud 
+42371-antigen 
+study-report 
+study-report.pdf 
+42372-immunotox  
+study-report 
+study-report.pdf 
+42373-mechan-stud  
+study-report  
+study-report.pdf 
+42374-dep 
+study-report 
+study-report.pdf 
+42375-metab 
+study-report 
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+optional folder 
+SAHPGL-HPA-03_v4 
+Page 80 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+study-report.pdf 
+42376-imp 
+study-report 
+study-report.pdf 
+42377-other 
+study-report 
+study-report.pdf 
+43-lit-ref  
+folder 
+reference.pdf  
+m5 
+52-tab-list   
+ 
+tabular-listing-var.pdf   
+ 
+53-clin-stud-rep 
+531-rep-biopharm-stud   
+  
+  
+ 
+ 
+ 
+ 
+5311-ba-stud-rep   
+  
+ 
+study-report   
+  
+  
+  
+ 
+study-report.pdf   
+  
+  
+ 
+5312-compar-ba-be-stud-rep    
+  
+  
+ 
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf 
+optional folder 
+optional folder 
+optional folder 
+folder required and additional folders optional 
+folder required and additional folders optional 
+SAHPGL-HPA-03_v4 
+Page 81 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+5313-in-vitro-in-vivo-corr-stud-rep 
+study-report   
+study-report.pdf   
+5314-bioanalyt-analyt-met   
+study-report   
+  
+  
+  
+ 
+study-report.pdf   
+  
+ 
+532-rep-stud-pk-human-biomat  
+5321-plasma-prot-bind-stud-rep   
+  
+  
+  
+ 
+study-report 
+study-report.pdf  
+5322-rep-hep-metab-interact-stud 
+study-report   
+study-report.pdf   
+  
+  
+ 
+5323-stud-other-human-biomat   
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf 
+533-rep-human-pk-stud 
+5331-healthy-subj-pk-init-tol-stud-rep 
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf 
+5332-patient-pk-init-tol-stud-rep 
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+SAHPGL-HPA-03_v4 
+Page 82 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf 
+5333-intrin-factor-pk-stud-rep  
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf 
+5334-extrin-factor-pk-stud-rep   
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf   
+  
+  
+ 
+5335-popul-pk-stud-rep   
+  
+  
+  
+ 
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf 
+534-rep-human-pd-stud     
+  
+ 
+5341-healthy-subj-pd-stud-rep 
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf   
+  
+  
+ 
+5342-patient-pd-stud-rep   
+  
+  
+  
+ 
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf 
+535-rep-effic-safety-stud     
+  
+ 
+indication   
+  
+  
+ 
+5351-stud-rep-contr  
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+multiple branches possible 
+SAHPGL-HPA-03_v4 
+Page 83 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf 
+5352-stud-rep-uncontr   
+ 
+study-report 
+study-report.pdf   
+  
+  
+  
+ 
+5353-rep-analys-data-more-one-stud 
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf 
+5354-other-stud-rep     
+study-report   
+  
+  
+ 
+ 
+ 
+study-report.pdf 
+536-postmark-exp  
+folder  
+study-report.pdf 
+537-crf-ipl 
+study     
+  
+ 
+filename.pdf 
+ 
+54-lit-ref  
+folder 
+reference.pdf 
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+folder required and additional folders optional 
+optional folder 
+optional folder 
+optional folder 
+SAHPGL-HPA-03_v4 
+Page 84 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+util 
+dtd 
+za-regional.dtd  
+za-envelope.mod  
+za-leaf.mod  
+ich-ectd-3-2.dtd 
+style 
+ectd-2-0.xsl  
+za-regional.xsl 
+ 
+  
+SAHPGL-HPA-03_v4 
+Page 85 of 85
+Guideline on South African eCTD Validation Criteria 
+30 November 2022 
+ 
+ 
+ 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+Guideline for Submission in eCTD format. 
+4.2 
+General Information. 
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+number 2.22 for eCTD Validation Criteria. It will be reviewed on this timeframe or as and when required. 
+

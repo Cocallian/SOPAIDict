@@ -1,0 +1,282 @@
+SAHPGL-CEM-CT-03  EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES_August 2022_v3 
+Page 1 of 6
+ 
+ 
+ 
+August 2022 
+EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES 
+ 
+This document highlights the importance of having emergency standard operating procedures in place during the conduct of clinical 
+trial at sites and includes the minimum requirements for emergency procedures.  This guideline represents the South African Health 
+Product Regulatory Authority’s (SAHPRA) current thinking on the measures to be taken to ensure that patients gain access to 
+emergency procedures during the conduct of clinical trial.  SAHPRA reserves the right to request any additional information and may 
+make amendments in keeping with the knowledge which is current. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+Document 9.60 for implementation, Version 1 
+July 2015 
+2 
+Replacement of 9.60 with guideline 2.41, change in title 
+Amendment of sections 1, 2, 5, 9 (old 7) 
+Addition of sections 7 & 8 
+May 2019 
+3 
+Administrative changes 
+Change of document number from 2.41 to SAHPGL-CEM-CT-03 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-CT-03 EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES August 2022_v3 
+Page 2 of 6
+EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES 
+1 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+1. 
+BACKGROUND ........................................................................................................................................... 3 
+2. 
+STANDARD OPERATING PROCEDURE TO DEAL WITH MEDICAL EMERGENCIES ....................................... 3 
+3. 
+LOCATION OF THE RESUSCITATION/EMERGENCY TROLLEY ...................................................................... 3 
+4. 
+MONITORING ............................................................................................................................................. 3 
+5. 
+RESUSCITATION/EMERGENCY TROLLEY EQUIPMENT ............................................................................... 3 
+6. 
+ADEQUATELY TRAINED STAFF ................................................................................................................... 5 
+7. 
+EMERGENCY UNBLINDING ........................................................................................................................ 5 
+8. 
+RECORD KEEPING....................................................................................................................................... 6 
+9. 
+REFERENCES ............................................................................................................................................... 6 
+10. VALIDITY .................................................................................................................................................... 6 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-CT-03 EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES August 2022_v3 
+Page 3 of 6
+EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES 
+1 August 2022 
+ 
+ 
+ 
+ 
+1. 
+BACKGROUND 
+Clinical trials involve the use of predominantly unregistered drugs in human participants.  The potential 
+associated risks are often not well known, especially in phase I and II studies.  Although efforts are made to 
+control risks to clinical trial participants, some risks may be unavoidable because of the uncertainty inherent 
+in clinical research. 
+For this reason, trial protocols should incorporate a clear guideline for medical emergencies, including the 
+following mandatory requirements:  
+ 
+An emergency standard operating procedure for medical emergencies;  
+ 
+Participant post-dose observational period on the trial site; 
+ 
+A resuscitation trolley that provides the required equipment and recommended medicines; 
+ 
+The provision of suitably trained personnel; and  
+ 
+A written procedure for rapidly identifying a ‘blinded’ investigational product in an emergency. 
+While this guideline aims to improve participant protection, there may be instances where sites may not meet 
+or need to meet these minimum requirements.  Clear justification would be required in such instances, and 
+this will be reviewed on a case-by-case basis to ensure that participant safety is not compromised.  Further 
+information may be required in such instances.  Sites that comply with the guidelines will not require any 
+further information to be provided. 
+2. 
+STANDARD OPERATING PROCEDURE TO DEAL WITH MEDICAL EMERGENCIES 
+All clinical trial sites should have an emergency standard operating procedure in place that should be available 
+for inspection by the South African Health Product Regulatory Authority (SAHPRA).  Additional emergency 
+equipment and/or medicines listed below may be appropriate depending on the nature and scope of the trial. 
+3. 
+LOCATION OF THE RESUSCITATION/EMERGENCY TROLLEY 
+The resuscitation trolley should be located within the clinical trial unit where any invasive protocol defined 
+procedures are conducted and/or investigational product (IP) administered and be under the control of a 
+designated person at the clinical trial site. 
+4. 
+MONITORING 
+Monthly checks of the resuscitation trolley, including availability of equipment and/or medicines as well as 
+expiry dates, should be performed by a suitably qualified member of the research team, and documentation 
+of these checks should be maintained, and be made available for SAHPRA inspection. 
+5. 
+RESUSCITATION/EMERGENCY TROLLEY EQUIPMENT 
+There are a number of different national and international bodies which set the minimum recommended 
+contents of a resuscitation trolley for areas of a hospital other than the Emergency Centre, or for use in general 
+SAHPGL-CEM-CT-03 EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES August 2022_v3 
+Page 4 of 6
+EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES 
+1 August 2022 
+ 
+ 
+practice rooms, including the Emergency Medicine Society of South Africa.  There are, however, no such 
+provisions for clinical trial units.  It is thus recommended that the minimum requirements for clinical trial units 
+be adapted from the minimum requirements of the Emergency Medicine Society of South Africa, Practice 
+Guideline EM006 (2008).  These are the essential basic minimum items recommended but more items may be 
+needed depending on clinical requirement: 
+DEVICES TO OPEN AND PROTECT AIRWAY 
+Laryngoscope set 
+Handle with adult and/or paediatric blades, spare 
+bulbs and spare batteries 
+Tracheal tubes 
+Uncuffed and/or cuffed; available sizes dependent 
+on population seen in unit 
+Tape or equivalent to tie tube in place 
+ 
+Oropharyngeal airways 
+Available sizes dependent on population seen in 
+unit 
+Pulse Oximeter  
+ 
+EQUIPMENT FOR DIFFICULT INTUBATION 
+Introducers for ET tubes  
+Available sizes dependent on population seen in 
+unit 
+Magill’s forceps 
+Adult and/or paediatric 
+Laryngeal masks 
+Available sizes dependent on population seen in 
+unit 
+DEVICES TO DELIVER OXYGEN AND TO VENTILATE PATIENTS 
+Bag valve ventilation devices 
+With oxygen reservoir and adult and/or paediatric 
+masks 
+Oxygen delivery devices 
+ 
+Oxygen supply 
+ 
+EQUIPMENT TO DIAGNOSE AND TREAT CARDIAC DYSRHYTHMIAS 
+Defibrillator 
+or 
+Automated 
+external 
+defibrillator  
+With conductive paste or pads, paddles, electrodes 
+in appropriate sizes dependent on population seen 
+in unit 
+DEVICES TO GAIN INTRAVASCULAR ACCESS 
+IV cannulae (various) 
+Available sizes dependent on population seen in 
+unit 
+Needles and syringes (various) 
+Available sizes dependent on population seen in 
+unit 
+Sharps container 
+ 
+IV administration sets 
+Available sizes dependent on population seen in 
+unit 
+EQUIPMENT FOR MONITORING AIRWAY, BREATHING AND CIRCULATION 
+SAHPGL-CEM-CT-03 EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES August 2022_v3 
+Page 5 of 6
+EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES 
+1 August 2022 
+ 
+ 
+Stethoscope 
+Available sizes dependent on population seen in 
+unit 
+Non-invasive blood pressure monitoring 
+device 
+Available cuff sizes dependent on population seen 
+in unit 
+Thermometer 
+ 
+Glucometer 
+ 
+APPROPRIATE HARDWARE 
+Drip stand or equivalent hanging device 
+ 
+Suction devices and suction catheters 
+ 
+Universal precautions 
+Gloves etc. 
+ESSENTIAL MEDICINES  
+Adrenaline (Epinephrine) 
+Antihistamine (e.g. promethazine) 
+Aspirin 
+Atropine 
+Dextrose 50 % IV 
+Diazepam 
+Hydrocortisone 
+Lignocaine IV 
+IV SOLUTIONS 
+Ringer’s lactate or 
+0,9 % NaCl (sodium chloride) 
+6. 
+ADEQUATELY TRAINED STAFF 
+Each clinical trial unit should have adequately trained investigators (at least one on site where and when 
+investigational product is administered) and staff to manage medical emergencies with relevant expertise in 
+the area of study.   
+The investigators should be trained to use the equipment and medicines that they have available in the trolley.  
+There must be an emergency 24-hour contact number for trial participants that may experience an unexpected 
+adverse event. 
+Phase I sites may require additional emergency facilities and resources in addition to those discussed in this 
+document. 
+7. 
+EMERGENCY UNBLINDING 
+The investigators must have a written procedure for rapidly identifying a ‘blinded’ investigational product in 
+SAHPGL-CEM-CT-03 EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES August 2022_v3 
+Page 6 of 6
+EMERGENCY PROCEDURES FOR CLINICAL TRIAL SITES 
+1 August 2022 
+ 
+ 
+an emergency.  The procedure must be secure, readily available at all times during the trial, and not allow 
+breaks of the blinding to go undetected.  It is of importance that an investigator may immediately unblind a 
+participant’s treatment allocation, without having to first contact the Sponsor or trial staff. 
+8. 
+RECORD KEEPING 
+All medical emergencies occurring at a trial site must be recorded in detail in an appropriate minute book and 
+be available for SAHPRA inspection. 
+9. 
+REFERENCES 
+The following related documents are referenced: 
+1. EMSSA 
+Practice 
+Guideline 
+EM006. 
+2008. 
+Available 
+from 
+[https://emssa.org.za/wp-
+content/uploads/2017/10/em006.pdf] Accessed 25 July 2022. 
+2. ABPI. 
+ 
+Guidelines 
+for 
+phase 
+1 
+clinical 
+trials. 
+2018 
+edition. 
+Available 
+from 
+[https://www.abpi.org.uk/publications/guidelines-for-phase-i-clinical-trials-2018-edition/] Accessed 
+12 July 2022. 
+10. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces Emergency 
+Procedures for Clinical Trial Sites, old document number 2.41.  It will be reviewed on this timeframe or as and 
+when required. 
+ 
+ 
+

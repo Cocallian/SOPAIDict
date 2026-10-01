@@ -1,0 +1,882 @@
+SAHPGL-RDN-XR-02_v1 
+Page 1 of 22
+ 
+ 
+ 
+15 August 2022 
+GUIDELINE FOR CODE OF PRACTICE FOR USERS OF MEDICAL X-
+RAY EQUIPMENT 
+This Code of Practice sets out requirements and recommendations for radiation safety associated with the use of medical 
+diagnostic x-ray equipment. The Hazardous Substances Act, 1973 (Act 15 of 1973) and Regulations (No R1332 of 3 August 
+1973). 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+0 
+First issue and implementation 
+January 2015 
+1 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-XR-02 allocated to this 
+Guideline 
+- 
+Form RC002 changed to GLF-RDN-XR-02A; Form RC001 changed to 
+GLF-RDN-XR-02B; Form RC005 changed to GLF-RDN-XR-02C; Form 
+RC006-1 changed to GLF-RDN-XR-02E, Form RC008 changed to GLF-
+RDN-XR-02F; Form RC-DEALER changed to GLF-RDN-XR-02G and Form 
+RC010 also changed to GLF-RDN-XR-10A 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-02_v1 
+Page 2 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 5 
+1.1 Purpose ...................................................................................................................................................... 5 
+1.2 Scope ......................................................................................................................................................... 5 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 5 
+3. 
+REQUIREMENTS AND RECOMMENDATIONS ............................................................................................. 6 
+3.1 Licensing .................................................................................................................................................... 6 
+3.2 Responsibilities of The Licence Holders / Responsible Persons ................................................................ 8 
+3.3 Operators ................................................................................................................................................. 10 
+3.4 Radiation Workers ................................................................................................................................... 11 
+3.5 Radiation Protection ................................................................................................................................ 14 
+3.6 Premises Requirements ........................................................................................................................... 18 
+3.7 Radiation Warning Signs, Notices and Lights at entrances to X-ray rooms ............................................ 18 
+4. 
+REFERENCES ............................................................................................................................................. 19 
+4.1 Related Articles ........................................................................................................................................ 19 
+4.2 Related Guidelines ................................................................................................................................... 19 
+5. 
+VALIDITY .................................................................................................................................................. 20 
+6. 
+ANNEXURES ............................................................................................................................................. 21 
+6.1 Annexure A: Holding of Patients During X-Ray Procedures .................................................................... 21 
+6.2 Annexure B: Medical Examinations for Radiation Workers .................................................................... 22 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-02_v1 
+Page 3 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ACT   
+Hazardous Substances Act, 1973 (Act 15 of 1973)  
+DOH   
+Department of Health  
+HPCSA  
+Health Professions Council of South Africa  
+IER   
+Individual Equipment Record  
+mSv   
+MilliSievert  
+TLD   
+Thermo Luminescent Dosimeter  
+NTP   
+Nuclear Technology Products  
+PRMD  
+Personal Radiation Monitoring Device  
+SABS  
+South African Bureau of Standards  
+SAHPRA 
+South African Health Products Regulatory Authority 
+SANAS  
+South African National Accreditation System  
+SDR   
+Supplementary Diagnostic Radiographer  
+QA   
+Quality Assurance  
+QC   
+Quality Control  
+Actinic marking  
+Permanent transfer of patient data / identification on to the film prior to 
+processing  
+ALARA  
+As Low As Reasonably Achievable  
+Controlled area  
+A controlled area is a limited access area in which the occupational exposure of 
+personnel to radiation is under the supervision of an individual in charge of 
+radiation protection. This implies that access, occupancy and working 
+conditions are controlled for radiation protection purposes  
+Diagnostic QC  
+Requirements for licence holders with respect to Quality Control Test for 
+diagnostic x-ray imaging systems  
+SAHPGL-RDN-XR-02_v1 
+Page 4 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+Inspection Bodies  
+An organisation approved by SAHPRA Radiation Control 
+ 
+Radiation worker  
+Any person who is potentially exposed to radiation because of his/her 
+occupation to more than three tenths of the occupational dose limit (20mSv 
+per annum)  
+Regulations  
+Regulations relating to the Control of Electronic Products (No R1332 of 3 August 
+1973)  
+Supervision  
+The supervisor accepts and shares with the supervisee responsibility for 
+ensuring that the supervisee’s work is professional and ethical, operating within 
+whatever legal requirements and organisational norms apply  
+Supervision (direct)  
+The supervisor provides on-site and in-view observation and guidance of a 
+supervisee who performs an assigned activity.  The proximity of this supervision 
+is such that immediate intervention is possible if problems occur  
+X-ray unit 
+An electronic product that is designed, manufactured, or assembled with the 
+primary purpose of producing x-rays 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-02_v1 
+Page 5 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+This Code sets out requirements and recommendations for radiation safety associated with the use of medical 
+diagnostic x-ray equipment. The Hazardous Substances Act, 1973 (Act 15 of 1973) and Regulations (No R1332 
+of 3 August 1973) govern the safe use of medical x-ray equipment in South Africa. Requirements from the Act 
+and Regulations are incorporated in this Code.  Further requirements are taken from source material listed in 
+the section of References.  
+Whenever compliance with a requirement in this Code is mandated, the word must / shall is used.  The word 
+should indicate a practice that is recommended but not mandatory at this stage. Where a given technology or 
+practice is not specifically covered by this Code, guidance in matters of radiation protection should be sought 
+from the SAHPRA:  Radiation Control. The Licensee shall be responsible for ensuring that corrective action 
+takes place on items of non-compliance with this Code. The Act does not allow any person to use radiation 
+equipment unless he/she holds a licence under the Act for that purpose. This Code does not cover the use of 
+x-rays for dental and veterinary diagnosis. This Code must be read in conjunction with SAHPRA Radiation 
+Control Guideline documents as listed in 4.2 of this Code. All forms and guidelines are available at: 
+https://www.sahpra.org.za/radiation-control-guidelines-and-codes-of-practice/  
+1.1 
+Purpose 
+The importance of radiation safety training was reiterated by the World Health Organization (WHO). It has 
+been recognized since early studies on X-rays that exposure to high levels of radiation may cause tissue 
+damage, and that chronic exposure to lower levels of radiation may result in cancer. Electromagnetic 
+radiation from medical procedures constitutes the single largest manmade means by which people 
+encounter radiation exposure. Protection against the medical use of radiation is therefore even more 
+important than protection against any other source of radiation 
+1.2 
+Scope 
+This Code of Practice sets out requirements and recommendations for radiation safety associated with the 
+use of medical diagnostic x-ray equipment for license holders of X-Ray USE license. 
+2. 
+LEGAL PROVISION 
+The guideline is implemented in promulgating the Hazardous Substances Act 15, 1973 (Act15 of 1973) the 
+related Regulations R.1332 
+ 
+SAHPGL-RDN-XR-02_v1 
+Page 6 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+3. 
+REQUIREMENTS AND RECOMMENDATIONS 
+3.1 
+Licensing 
+3.1.1 Regulations 
+The Regulations (R.1332) concerning to the Control of Electronic Products require that a joint product and 
+premises licence be obtained for x-ray equipment before it may be installed and commissioned.  
+(a) Licences are not transferable and are issued:  
+• 
+To a specific person or institution.  
+• 
+For specific equipment and its application, and 
+• 
+For a specific premises.  
+(b) Licenses are issued subject to the Regulations concerning the Control of Electronic Products and the 
+application of specific conditions.  
+(c) Licence holders must verify the accuracy of the information displayed on the licence issued and 
+communicate any inaccuracies to SAHPRA Radiation Control.  
+3.1.2 Application for licenses 
+It is the responsibility of the prospective user of an x-ray unit to be in possession of a licence from 
+Radiation Control prior to installation of the unit.  
+• 
+New units (new Form No.: GLF-RDN-XR-02G, replaced old form RC-DEALER)  
+A GLF-RDN-XR-02G (old RC-DEALER) application form is a combined form to be completed by both the 
+supplier and the end user of a new x-ray unit. As per the import licence conditions of the supplier, a 
+completed RCDEALER form must be submitted by the supplier. The section applicable to the user must be 
+completed and the form returned to the supplier. The supplier is responsible to submit the completed 
+form to Radiation Control for processing before installation.  
+• 
+Pre-owned units (new Form No.: GLF-RDN-XR-02B, replaced old Form RC001)  
+New form GLF-RDN-XR-02B (old form RC001) must be completed for a pre-owned x-ray unit. It is the 
+responsibility of the prospective user to submit the completed application form GLF-RDN-XR-02B (old 
+form RC001) to Radiation Control.  
+A completed and signed GLF-RDN-XR-02A (old RC002) form from the previous owner must be submitted 
+together with this GLF-RDN-XR-02B (old form RC001). 
+Allow 30 Working days for processing of applications.  
+3.1.3 Installations 
+The installation of an x-ray unit may only commence after a licence to install the unit has been issued 
+SAHPGL-RDN-XR-02_v1 
+Page 7 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+“May Install”.  
+3.1.4 Acceptance tests 
+Only Inspection Bodies approved by SAHPRA Radiation Control and accredited by SANAS may perform 
+acceptance tests on x-ray equipment. A list of approved Inspection Bodies and scope of the licenses are 
+available on the Radiation Control website. (Refer to "Diagnostic QC" document on SAHPRA Radiation 
+Control website - see 4.2 in this Code). 
+3.1.5 New Units 
+When a new unit is installed, acceptance tests must be performed by the supplier of the x-ray unit and the 
+results recorded on the prescribed form and filed in the IER of the unit.  
+3.1.6 Pre-Owned units 
+• 
+The prospective user must ensure that acceptance tests are performed. Granting of a licence to use a 
+unit is subject to submission of the acceptance results of the tests results to Radiation Control.  
+• 
+When an existing licensed unit is moved to a new premises (building) or room, prior to use, acceptance 
+tests must be performed on the unit and the results submitted to Radiation Control.  
+NOTE: Units that have not been previously licensed by the Directorate: Radiation Control will not be 
+licensed for use.  
+3.1.7 Disposal/modification of X-ray equipment/Sale and Cancellation of licence (new Form No.: GLF-
+RDN-XR-02A, replaced old form RC002) 
+The licence holder must apply for and obtain permission from Radiation Control by submitting a completed 
+form GLF-RDN-XR-02A (old form RC002) prior to cancellation, modification, disposal and/or sale of x-ray 
+equipment.  
+• 
+Particulars regarding the type of disposal, e.g., sale, dismantling, disappearance or storage of a unit, 
+must be furnished to Radiation Control before the cancellation of the licence will be affected.  
+3.1.8 New/modified premises (New Form No.: GLF-RDN-XR-02A, replaced old form RC002) 
+The licence holder must apply for and obtain permission prior to:  
+• 
+Modification of any licensed premises or layout of equipment on such premises, and/or  
+• 
+Change of licensed premises (building) or equipment moved to other rooms within the same building.  
+3.1.9 Responsible person 
+The licence holder must appoint a responsible person that has adequate knowledge and experience in the 
+SAHPGL-RDN-XR-02_v1 
+Page 8 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+field of radiation protection in general. The appointed person is responsible to the licence holder for the 
+safe use of the x-ray equipment (see also section 3.2).  
+The person appointed must be qualified in either of the following categories and registered with the Health 
+Professions Council of South Africa (HPCSA):  
+• 
+Radiography 
+• 
+Radiology 
+• 
+Medical Physics or 
+• 
+Chiropractic  
+The responsible person must be appointed in writing indicating the scope of the actions delegated by the 
+licence holder. 
+3.1.10 Change of responsible person (new Form No.: GLF-RDN-XR-02C, replaced old form RC005) 
+The licence holder must notify Radiation Control of a change in responsible person by submitting a 
+completed form GLF-RDN-XR-02C (old form RC005).  
+3.2 
+Responsibilities of The Licence Holders / Responsible Persons 
+3.2.1 The licence holder of a diagnostic x-ray facility is ultimately responsible for:  
+(a) 
+The entire scope of radiation safety, for the equipment and premises for which he/she holds a 
+licence;  
+(b) 
+Fulfilment of all related statutory requirements, and  
+(c) 
+Compliance to the Act, Regulations and Conditions specified in the licence.  
+3.2.2 The licence holder / responsible person must ensure that:  
+• 
+The equipment and the facilities, in which such equipment is installed and used, meet all applicable 
+radiation safety standards.  
+• 
+The equipment is maintained and functions properly.  
+• 
+The equipment is used and maintained only by competent and appropriately        trained persons / 
+personnel.  
+• 
+Applicable Quality Control (QC) tests are performed at the prescribed frequencies as stipulated in 
+SAHPGL-RDN-XR-02_v1 
+Page 9 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+"Diagnostic QC" document on SAHPRA Radiation Control website - see 4.2 in this Code. 
+• 
+The required QC equipment is provided.  
+• 
+Ensure that radiation surveys to monitor safe performance of equipment and to monitor radiation 
+levels in work areas are undertaken.  
+• 
+Radiation workers (occupationally exposed persons) are identified and issued with personal radiation 
+monitoring devices (PRMD's).  
+• 
+The appropriate protective clothing, devices and equipment is provided to personnel and properly 
+used.  
+• 
+Radiation safety rules are communicated to and followed by all personnel.  
+• 
+Operational procedures are established and maintained to ensure that the radiation exposure to 
+workers, patients and public is kept as low as reasonably achievable (ALARA) without compromising 
+the diagnostic efficiency of the result, and   
+• 
+Workers are educated in the hazards and risks of ionising radiation.   
+3.2.3 Keeping of patient records   
+Records must be kept and available for inspection purposes by Radiation Control.  
+A record / register must be kept of all patients undergoing x-ray examinations. The record / register must 
+be preserved for 5 years and contain the following information:  
+• 
+surname, name, date of birth or ID number / age and gender.  
+• 
+date of examination.  
+• 
+brief clinical indication of the examination.  
+• 
+type of examination.  
+• 
+number of exposures (repeat exposures included) and  
+• 
+fluoroscopy time, dose results (if available) and the name of the person performing the fluoroscopy 
+procedure  
+• 
+total dose read-out or Dose Area Product (DAP) reading (if applicable)  
+SAHPGL-RDN-XR-02_v1 
+Page 10 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+• 
+brief statement of the diagnostic information obtained from the examination.  
+3.2.4 Keeping of equipment records   
+• 
+IER must be kept and contain all required information as stipulated in "Diagnostic QC" document on 
+SAHPRA Radiation Control website - see 4.2 in this Code. 
+• 
+Radiation worker record (see par 3.4)  
+3.2.5 Submission of acceptance tests results to Radiation Control  
+Acceptance test results of pre-owned x-ray units must be submitted to Radiation Control following 
+installation (see par 3.1.6).  
+3.2.6 Appointment of Medical Physicist for Interventional Radiology Procedures (new Form No.: GLF-
+RDN-XR-02E, replaced old form RC006-1)  
+A medical physicist must be appointed in writing to establish and implement an optimization program for 
+interventional Radiology procedures as stipulated in "Diagnostic QC" document on SAHPRA Radiation 
+Control website - see 4.2 in this Code 
+3.3 
+Operators 
+3.3.1 Registered Professionals 
+Only the following persons who are appropriately trained and registered with the HPCSA in Radiography 
+and/or Radiology, may operate x-ray equipment and perform examinations within their appropriate scope 
+of practice:  
+• 
+Radiographer   
+• 
+Supplementary Diagnostic Radiographer (SDR):   
+o May only work in a government hospital or an institution operated or subsidised by government 
+or provincial authority or by the South African Chamber of Mines  
+o (Refer to Medical, Dental and Supplementary Health Services Professions Act, 1974 (Act no 56 of 
+1974) Annexure 7)  
+o Supplementary diagnosti radiographers must be supervised, at least once a week, by a qualified 
+registered radiographer  
+o The supervisor is not required to be present at all times.  However, the supervisor shall meet with 
+the supervisee on a continuous and regular basis and review the assigned duties as appropriate 
+SAHPGL-RDN-XR-02_v1 
+Page 11 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+to the tasks to be performed. 
+• 
+Chiropractor  
+• 
+Radiologist  
+3.3.2 Operators of mammography units  
+With effect from 1 July 2009 mammography examinations shall only be performed by qualified 
+radiographers in possession of a recognised additional qualification (postgraduate) in mammography.  
+o Details of accredited courses can be obtained from the Professional Board for Radiography and 
+Clinical Technology at the HPCSA.  
+3.3.3 Operators of C-arm units  
+The operator MUST BE a Radiographer or Radiologist.   
+3.4 
+Radiation Workers 
+3.4.1 Dose limits for radiation workers and public  
+ 
+Application  
+Occupational  
+Public  
+Effective dose  
+20 mSv per annum, not more 
+than 100 mSv over a period of 5 
+years (not more than 50 mSv in 
+any one year)  
+1 mSv per annum  
+ 
+Annual equivalent dose to the  
+ 
+lens of the eye  
+  
+ 
+  20 mSv  
+ 1 mSv  
+ 
+skin  
+  
+500 mSv  
+50 mSv  
+ 
+hands and feet  
+  
+500 mSv  
+--------  
+ 
+i. 
+A radiation worker must be older than 18 years. However, if a radiation worker in training is younger 
+than 18, but older than 16, such worker must work under direct supervision.  
+ii. 
+The holder of the licence must keep record of the following for a period of 10 years for each radiation 
+worker:  
+SAHPGL-RDN-XR-02_v1 
+Page 12 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+(a) The monthly dose reports furnished by the monitoring service provider (SABS) and  
+(b) Results of medical examinations.  
+iii. 
+Pregnant radiation workers  
+When pregnancy has been diagnosed the women shall not be allowed to work under working conditions 
+where the maximum equivalent dose limit of 2 mSv to the women's abdomen (lower trunk) for the 
+remainder of the pregnancy could be exceeded. Pregnant radiographers shall continue to be monitored in 
+the prescribed manner. Taking into account the specific working conditions, pregnant radiographers must 
+be issued with a direct reading pocket alarm dosimeter, and in so doing prevent that such women are 
+unwittingly exposed to radiation. 
+• 
+The employer should provide continuous education as to the risks to the foetus and actual dose levels 
+in the various working environments.    
+• 
+Radiation workers, especially young females, must always and not only when pregnant, be well versed 
+in the uses of ionisation radiation.  
+(Refer to Guideline document on Radiation Control website - see 4.2 in this Code)  
+iv. 
+Appointment of radiation workers  
+NOTE: Licence holders are no longer required to submit form GLF-RDN-XR-02F (old form RC008) or inform 
+Radiation Control of any change in the register as stipulated in Regulation III.4 (b) & (c).   
+v. 
+Medical examinations of radiation workers 
+(a) Before any person is appointed / classified as a radiation worker, he/she must undergo a medical 
+examination.  
+(b) Medical examinations for radiation workers should follow general pre-employment occupational 
+medical practice for determining fitness for work.   
+(c) In addition to the pre-employment medical examination a radiation worker may be required to 
+undergo a medical examination in the event of the following:  
+• 
+When a radiation occurrence / incident resulting in an abnormally high dose is suspected to 
+have taken place or has been confirmed.  
+• 
+When a medical practitioner deems it necessary.  
+SAHPGL-RDN-XR-02_v1 
+Page 13 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+• 
+When such an examination is considered necessary either by the regulatory authority or the 
+holder of the licence and   
+• 
+When the radiation worker suspects that his/her health has been or will be adversely 
+affected by occupational factors.  
+NOTE: Annual medical examinations and those pertaining to de-registration are no longer required by 
+SAHPRA Radiation Control, but it remains the prerogative of the licence holder should he/she deems it 
+necessary.  
+vi. 
+Monitoring of radiation workers 
+(a) The licence holder must ensure that all radiation workers, which include permanently allocated 
+nursing staff involved with radiation procedures in the x-ray department, are issued with a 
+personal radiation monitoring device (PRMD)  
+o For correct positioning of the PRMD refer to guideline document on Radiation Control website 
+- see 4.2 (3) in this Code  
+(b) Application forms for a PRMD can be obtained directly from the following current monitoring 
+services provider:  
+o SABS Holdings (Pty) Ltd; Radiation Protection Services, rps@sabs.co.za  
+o Dosimeter Services (Pty) Ltd, nds@netcare.co.za  
+(c) The service provider will forward the radiation dose records to the licence holder on a monthly 
+basis or after a radiation occurrence.  The dose records must be kept for 10 years.  
+(d) The licence holder must ensure that the service provider replaces PRMD's at regular intervals not 
+exceeding 32 days.  
+vii. 
+Termination of employment as a radiation worker 
+• 
+When a radiation worker ceases to be employed by the licence holder, the holder must provide that 
+worker with a copy of his/her complete dose record.  Such complete records can be obtained from the 
+SABS/Dosimeter Services on request.  
+Note: Licence holders are no longer required to inform Radiation Control of any change in the register as 
+stipulated in Regulation III.4 (c).  
+SAHPGL-RDN-XR-02_v1 
+Page 14 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+viii. 
+Appointment of radiation workers by a new employer 
+• 
+The licence holder must obtain from the SABS/Dosimeter Services the previous dose records of the 
+newly appointed radiation worker.  
+ix. 
+Radiation occurrences (new Form No.: GLF-RDN-XR-10A, replaced old form RC010)  
+• 
+Details of any radiation occurrence or suspected radiation occurrence must immediately be reported 
+to the Director: Radiation Control on form GLF-RDN-XR-10A (old form RC010).  
+3.5 
+Radiation Protection 
+Basic radiation protection principles are based on:  
+• 
+The justification of the practice- No radiation examination shall be adopted unless the benefit 
+outweighs the associated risk.  
+• 
+The optimisation of protection- Radiation doses from medical exposures and those received by the 
+public and occupationally exposed persons must be kept as low as reasonable achievable (ALARA), 
+economic and social factors taken into account.  
+• 
+Limitation of individual dose and risk- All medical applications of ionising radiation must be managed 
+in such a way that radiation doses to occupationally exposed person and members of the public do not 
+exceed the specified dose limits (see par 3.4.1).  
+3.5.1 Protection of patients  
+(a) All medical exposures shall be subject to the principles of justification and optimisation.  
+(b) X-ray examinations shall not be performed unless there are valid clinical indications.  
+(c) Examinations on children shall require a higher justification since such patients may be more 
+sensitive to radiation.  
+(d) Obtain previous x-ray images to minimise the taking of repeat films.  
+(e) CT Screening programmes of asymptomatic persons shall not be instituted unless approved by 
+SAHPRA. Screening programmes prescribed by other Governmental Acts are acceptable.  
+(f) Licence holders shall be aware of the approximate patient radiation doses. Reference dose levels 
+should be introduced for applications in diagnostic x-ray examinations as performed in their 
+facilities.  
+SAHPGL-RDN-XR-02_v1 
+Page 15 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+o Diagnostic reference levels (DRLs) refer to dose levels in medical diagnostic practices for typical 
+x-ray examinations for groups of standard size patients or standard phantoms for broadly 
+defined types of equipment.  These levels are expected not be exceeded for standard 
+procedures when good and normal practice regarding diagnostic and technical performance is 
+applied.   
+o The objective of a DRL is to help avoid unnecessary radiation dose to the patient that does not 
+contribute to useful diagnostic information and does not produce the expected medical 
+benefit to the patient.  
+o The specific purpose of the DRL is to provide a benchmark for comparison, not to define a 
+maximum of minimum exposure limit.  
+(Refer to the Guideline document on Radiation Control website - see 4.2 (9) in this Code)  
+(a) When appropriate, consider other modalities such as MRI or ultrasound which do not use ionising 
+radiation.  
+(b) Examinations with potential high patient doses such as CT examinations should only be carried out 
+after a proper clinical justification by the radiologist.  
+(c) For each projection select the highest kilovoltage (KV) and fastest film-screen combination 
+compatible with the image quality requirements of the examination.  
+(d) The primary beam shall be collimated at all times.  
+(e) Means to permanently transfer patient identification, prior to processing of the images, must be 
+provided.  
+(f) Radiation examinations may only be requested by:  
+o A medical practitioner or  
+o Any appropriately trained and registered health professional.  
+(Refer to the to Annexure B in this Code)  
+(a) Pulsed fluoroscopy should be routinely used.  During fluoroscopy, radiation time is minimise by 
+pulsing the beam. 
+At low-pulsed frequencies, major dose savings are made while ensuring diagnostic images.  
+SAHPGL-RDN-XR-02_v1 
+Page 16 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+(b) A film screen speed of not less than 300 is recommended for general radiography.  
+3.5.2 Protection of pregnant patients  
+(a) X-ray examinations must be justified, and only essential views performed.  
+(b) Alternative imaging modalities, especially ultrasound for obstetric procedures, shall be used where 
+appropriate.  An x-ray examination shall not be performed to assess foetal development where 
+ultrasound facilities are available.  
+(c) X-ray pelvimetry shall not be performed on a routine basis.  
+(d) For examinations where the primary beam unavoidably irradiates the foetus, the methods of 
+minimising dose shall be used as appropriate and particular attention shall be given to:  
+o Minimising the number of views.  
+o Strict beam collimation.  
+o Using higher kVp settings.  
+o Using fast image recording media.  
+o Where practicable, using PA projections in preference to AP projections.  
+3.5.3 Protection of women of reproductive capacity  
+(a) X-ray examinations involving the exposure of the abdomen of women likely to be pregnant shall 
+be avoided unless there are strong clinical indications for the examination.  
+(b) In order to minimise the possibility of unintentional exposure to the embryo / foetus, notices must 
+be posted at several places within the radiology facility.  
+(c) The notices shall contain wording similar to or having the same meaning as the following:  
+"If you might be pregnant notify the radiographer before your x-ray examination."  
+3.5.4 Protection of pediatric patients  
+The longer life expectancy of children results in greater potential for the manifestation of possible harmful 
+effects of radiation. In addition to the requirements in this Code for patients in general (see par 3.5 (1.1), 
+the following requirements for paediatric x-ray examinations shall be observed:  
+(a) For a given procedure each view shall be examined, where practical, before deciding whether to 
+SAHPGL-RDN-XR-02_v1 
+Page 17 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+take a further view;  
+(b) Fluoroscopy shall be used only when general radiography will not provide the information required 
+and  
+(c) There shall be strong justification for x-ray procedures involving high doses such as CT (Refer to 
+Guideline document on Radiation Control website - see 4.2 (5) in this Code).  
+3.5.5 Protection of non-radiation personnel and members of the public  
+(a) Members of the public are not allowed to enter controlled areas unsupervised.  
+(b) Non-radiation personnel or members of the public shall not remain in the x-ray room during any 
+x-ray procedure unless they are required to be in attendance.  
+(c) The occasional use of non-radiation personnel to give assistance, particularly in ward or theatre 
+radiography, is acceptable but shall involve the full use of protective clothing, devices, and 
+techniques to minimise personnel dose.  Care shall be taken to ensure that the same non-radiation 
+personnel are not always involved.  Women who are pregnant shall not be used in this role.  
+3.5.6 Protection of persons holding patients or image receptors  
+(a) No person shall hold a patient, x-ray film cassette, or other imaging equipment or x-ray tube head 
+in position during exposures unless it is otherwise impossible to obtain a diagnostically useful 
+image and not merely that it is a matter of convenience.  
+(b) Holding of patients or x-ray film cassettes during exposure shall be done by persons accompanying 
+the patient in preference to non-radiation personnel, and by non-radiation personnel in 
+preference to radiation workers. Non-radiation personnel should be chosen based on a roster, i.e., 
+it shall not be the same person who does the holding.  No pregnant women or young persons 
+(under the age of 18) shall do any holding.  
+(c) Any persons holding patients or film cassettes in position during an x-ray examination shall wear 
+a lead rubber apron and wherever practicable, lead rubber gloves.  No part of the holder's body 
+shall be in the primary beam, even if covered with protective clothing.  
+Refer to Annexure A of this code. 
+3.5.7 Protective clothing 
+(a) Any person who cannot remain in the protected area during x-ray examinations shall wear a 
+SAHPGL-RDN-XR-02_v1 
+Page 18 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+protective apron of at least 0,25 mm lead equivalence.  
+(b) Any person standing within 1 metre of the x-ray tube or patient during fluoroscopy examinations 
+shall wear eye protection (leaded glasses), thyroid protection and a protective apron of at least 
+0.35 mm lead equivalent.  
+(c) Protective gloves shall be at least 0.35 mm lead equivalence. (d)   Gonad shields shall be at least 
+0.5mm lead equivalence.  
+(Refer to the Guideline documents on Radiation Control website – see 4.2 (3), 4.2 (8) & 4.2 (10) in this Code)  
+3.5.8 Record and Report Radiation Injuries  
+The licence holder shall ensure that all suspected radiation occurrences are immediately reported to the 
+Director: Radiation Control.  A "radiation occurrence" means a single event or series of events occurring 
+during the use of a listed electronic product which has resulted in injurious or potentially injurious exposure 
+of any person to ionising radiation as a direct result of the use of that product.  The licence holder must 
+investigate the circumstances of the exposure, the possible effects on a person(s) concerned and decide on 
+the action to be taken.   
+The outcome of this investigation must be documented.  
+3.6 
+Premises Requirements 
+Refer to guideline document on Radiation Control website: General Guidelines with regard to the design of 
+x-ray rooms (see Annexure 4.2 in this Code). 
+3.7 
+Radiation Warning Signs, Notices and Lights at entrances to X-ray rooms 
+Appropriate radiation warning signs and notices must be displayed and required warning lights in working 
+order:  
+(a) Fixed units:  
+A radiation warning sign and  
+warning notice, "X-RAYS NO UNAUTHORISED ENTRY" must be 
+displayed at all entrances leading to the rooms where x-ray units are installed.  
+(b) Mobile units:   
+A radiation warning sign and  
+warning notice, "X-RAYS NO UNAUTHORISED USE" must be displayed 
+on the control panel of the x-ray units.  
+SAHPGL-RDN-XR-02_v1 
+Page 19 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+(c) Warning lights for CT & Fluoroscopy units (excluding theatres):  
+A red warning light, which is only activated when the beam is on and when fluoroscopy is in progress, 
+must be mounted in a conspicuous place outside the entrance to the x-ray rooms.  
+(Refer to Guideline document on Radiation Control website - 4.2 (8) in this Code)   
+4. 
+REFERENCES 
+4.1 
+Related Articles 
+4.1.1 
+Australian Government.  Australian Radiation Protection and Nuclear Safety Agency, 2008.   
+Radiation Protection in Medical Applications of Ionizing Radiation.  Publication No. 14. 
+http://www.arpansa.gov.au  
+4.1.2 
+International Commission on Radiological Protection, 1991.1990 Recommendations of the 
+International Commission on Radiological Protection.  ICRP Publication 60 Vol 21/1-3.  Pergamon 
+Press. http://www.icrp.org  
+4.1.3 
+International Commission on Radiological Protection, 2000.  Pregnancy and Medical Radiation.  
+ICRP Publication 84 vol 30/1.   Pergamon Press. http://www.icrp.org  
+4.1.4 
+New Zealand Ministry of Health, National Radiation Laboratory, 1994.  Code of Safe Practice for the 
+use of x-rays in Medical Diagnosis.  NRL C5. http://nrl.moh.govt.nz  
+4.1.5 
+South 
+Africa, 
+1973. 
+ 
+Hazardous 
+Substances 
+Act, 
+1973 
+(Act 
+of 
+15 
+of 
+1973). 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+4.1.6 
+South Africa, 1973.  Regulations Concerning the Control of Electronic Products.  Regulation Gazette 
+No 3991. https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+4.1.7 
+International Commission on Radiological Protection, 73. Radiological Protection and Safety in 
+Medicine.  Annals of the ICRP Volume 26/2.  Elsevier B.V. http://www.icrp.org  
+4.1.8 
+ICRP, Statement on tissue Reactions. ref 4825-3093-1464 (21 April 2011). http://www.icrp.org 
+4.2 
+Related Guidelines 
+4.2.1 
+Code: Diagnostic QC – Requirements for licence holders with respect to Quality Control tests for 
+diagnostic x-ray imaging systems. 
+4.2.2 
+Management of pregnant radiographers and other staff members. 
+4.2.3 
+Personal monitoring when a lead rubber apron is worn – medical and veterinary use of x-ray 
+equipment. 
+4.2.4 
+Request for medical examinations. 
+4.2.5 
+FDA Public Health Notification: Reducing radiation risk from computed tomography for pediatric 
+and small adult patients – 2 November 2001. 
+SAHPGL-RDN-XR-02_v1 
+Page 20 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+4.2.6 
+General guidelines with regard to the design of x-ray rooms. 
+4.2.7 
+Display and format of radiation warning signs at entrances to rooms containing x-ray units. 
+4.2.8 
+Guidelines – Protective Clothing. 
+4.2.9 
+Patient dose measurements in Diagnostic Radiography. 
+4.2.10 Radiation Protection of personnel in theatre 
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces old Code of Practice 
+for Users of Medical X-Ray Equipment. It will be reviewed on this timeframe or as and when required. 
+ 
+ 
+SAHPGL-RDN-XR-02_v1 
+Page 21 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+6. 
+ANNEXURES 
+6.1 
+Annexure A: Holding of Patients During X-Ray Procedures 
+Radiographers should not hold patients during x-ray procedures 
+i. 
+Patients should be held only after it is determined that available restraining devices are inadequate 
+ii. 
+In cases when a patient must be held, a person accompanying the patient or a parent, especially 
+when children are involved should do it. If this is not possible staff members of other departments, 
+e.g. nursing personnel, should do it. 
+iii. 
+Permanently allocated nursing personnel involved with radiation procedures in the Radiography 
+Department must be registered as a radiation worker and issued with a personal monitoring device 
+(TLD). 
+iv. 
+No individual should have the responsibility of routinely holding patients during x-ray procedures. 
+v. 
+Individuals holding/supporting patients shall wear a protective apron and ensure that no part of their 
+body is exposed to the primary x-ray beam. 
+vi. 
+If the hands are likely to be close to the primary beam, protective gloves should be worn. When 
+neonates are held, the exposure will normally be so small that it will not be necessary to wear 
+protective gloves. 
+vii. 
+To assist in minimizing exposure it is important for the radiographer to collimate carefully to the area 
+of clinical interest. 
+viii. 
+Pregnant women or persons under the age of 18 years should not be permitted to hold patients 
+ 
+ 
+SAHPGL-RDN-XR-02_v1 
+Page 22 of 22
+Guideline for Code of Practice for Users of Medical X-Rays Equipment 
+15 August 2022 
+ 
+ 
+6.2 
+Annexure B: Medical Examinations for Radiation Workers 
+The current Regulations concerning the control of electronic products, published in 1973 prescribe annual 
+medical examinations. However, the International Standards concerning annual medical examinations have 
+changed. Therefore, the regulator currently applies the following guidelines: 
+1. Before any person is appointed / classified as a radiation worker, he/she must undergo a medical 
+examination. 
+2. Medical examinations for radiation workers should follow general pre- employment occupational 
+medical practice for determining fitness for work. 
+3. In addition to the initial pre-employment medical examination each radiation worker may be required 
+to undergo a medical examination in the event of the following: 
+• 
+When a radiation occurrence / incident resulting in an abnormally high dose is suspected to have 
+taken place or has been confirmed. 
+• 
+When a medical practitioner deems it necessary. 
+• 
+When such an examination is considered necessary either by the regulatory authority or the holder 
+of the licence and 
+• 
+When the radiation worker suspects that his/her health has been or will be adversely affected by 
+occupational factors. 
+NOTE: Annual medical examinations and those pertaining to de-registration are no longer required by the 
+regulator but it remains the prerogative of the licence holder should he/she deems it necessary. 
+ 
+

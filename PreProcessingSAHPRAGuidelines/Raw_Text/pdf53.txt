@@ -1,0 +1,699 @@
+SAHPGL-MD-11_v1 
+Page 1 of 16
+ 
+ 
+ 
+13 December 2024 
+GUIDELINE FOR COMPLETING MEDICAL DEVICE ADVERSE 
+EVENT FORM FOR LICENCE HOLDERS (LICENSEE) / HOLDERS OF 
+A CERTIFICATE OF REGISTRATION OF A MEDICAL DEVICE 
+(INCLUDING AN IVD) 
+This document has been prepared to serve as a recommendation to a holder of a medical device establishment licence (Licensee) / 
+Holder of a Certificate of Registration of a medical device (including an IVD) (HCR) regarding completing a medical device adverse 
+event form and providing the South African Health Products Regulatory Authority’s (SAHPRA) current thinking on the safety, quality 
+and performance of medical devices. SAHPRA reserves the right to request for any additional information to establish the safety, 
+quality and performance of a medical device (including IVDs) and may make amendments in keeping with the knowledge which is 
+current at the time of consideration of data which has been submitted regarding adverse events for medical devices (including IVDs). 
+SAHPRA is committed to ensuring that all medical devices (including IVDs) that are registered are of the required quality and safety, 
+and perform as intended. It is important for applicants to adhere to these requirements. 
+ 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue 
+November 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-MD-11_v1 
+Page 2 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 4 
+3. 
+GUIDELINE DOCUMENT ON COMPLETING ADVERSE EVENT FORM FOR MEDICAL DEVICES .................... 4 
+3.1 
+Adverse Event (AE) Classification ............................................................................................................... 5 
+3.2 
+Patient Information Details ........................................................................................................................ 5 
+3.3 
+Adverse Event Reporter Information ......................................................................................................... 5 
+3.4 
+Adverse Event Information ........................................................................................................................ 6 
+3.5 
+Describe the adverse event: Do not include names of patient, doctor, hospitals etc. .............................. 9 
+3.6 
+Suspected Medical Device ........................................................................................................................ 10 
+3.7 
+Manufacturer’s Investigations ................................................................................................................. 12 
+3.8 
+Remedial Action/ Corrective Action/ Preventative Actions Taken .......................................................... 12 
+4. 
+MEDICAL DEVICE VIGILANCE CONTACT DETAILS ..................................................................................... 13 
+5. 
+REFERENCES ............................................................................................................................................. 13 
+6. 
+VALIDITY ................................................................................................................................................... 13 
+7. 
+ANNEXURES .............................................................................................................................................. 14 
+7.1 
+Annexure 1: Medical Device Adverse Event Reporting Form (GLF-MD-11A) .......................................... 14 
+ 
+ 
+ 
+ 
+SAHPGL-MD-11_v1 
+Page 3 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Adverse Event (AE) 
+means possible faults or failures of a medical device or IVD or difficulties in 
+the use of or an undesirable outcome associated with the use of a 
+medical device or IVD that can or does result in permanent impairment, injury 
+or death to the professional user or patient user. 
+HCR  
+Holder of Certificate of Registration  
+IVD  
+In vitro diagnostic 
+Near Adverse Event 
+− 
+is an event that might have led to a death or serious injury. It may be 
+that, due to the timely intervention of a healthcare practitioner, a death 
+or serious injury did not occur. 
+− 
+For an event to be defined as a near adverse event, it is sufficient that: 
+o an event associated with the device happened 
+− 
+if the event occurred again, it might lead to a public health threat, death 
+or serious injury testing or examination of the device or the information 
+supplied with the device, or scientific literature indicated some factor 
+that could lead to a death or serious injury. 
+Licensee 
+ 
+Holder of a medical device establishment licence 
+Serious Injury  
+(Also known as serious deterioration in state of health) is either: 
+• 
+Life threatening illness or injury. 
+• 
+Permanent impairment of a body function or permanent damage to a 
+body structure. 
+• 
+A condition necessitating medical or surgical intervention to prevent 
+permanent impairment of a body function or permanent damage to a 
+body structure. 
+Serious public health 
+threat 
+Any event type, which results in imminent risk to the study population of 
+death, serious injury, or serious illness that requires prompt remedial action. 
+UDI 
+Unique Device Identifier  
+ 
+ 
+ 
+SAHPGL-MD-11_v1 
+Page 4 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+1. 
+INTRODUCTION 
+This guideline provides the information to be supplied to SAHPRA when completing the form to report an 
+adverse event for a medical device (including an IVD). 
+The Medical Device Adverse Event Reporting Form (GLF-MD-11A, see Annexure 1 below) to be used to supply 
+the required information can be accessed on the SAHPRA website. Each completed adverse event form for a 
+medical device (including an IVD) should be submitted to: mdvigilance@sahpra.org.za . 
+1.1 
+Purpose 
+The purpose of this guideline is to outline the format and data requirements for reporting of an adverse 
+event, using the Medical Device Adverse Event Reporting Form GLF-MD-11A for medical devices (including 
+IVDs). 
+1.2 
+Scope 
+This guideline is intended to aid in the understanding of the information required in the different sections 
+of the form for adverse event reporting of medical devices (including IVDs). This guideline is relevant only 
+to medical devices (including IVDs).  
+2. 
+LEGAL PROVISION 
+This guideline is based on the requirements of the Medicines and Related Substances Act, 101 of 1965, as 
+amended and the Regulations relating to Medical Devices and in vitro diagnostic medical devices (IVDs).  
+3. 
+GUIDELINE DOCUMENT ON COMPLETING ADVERSE EVENT FORM FOR MEDICAL 
+DEVICES 
+When an adverse event is reported by the holder of a medical device establishment licence (Licensee) and 
+the Holder of a Certificate of Registration (HCR), the following information must be completed: 
+− 
+Authorised Representative: Name, contact details including telephone number and email address. 
+− 
+Establishment Licence Name and Number: this is the information under which the licensee and HCR, 
+is legally authorised to sell medical devices (including IVDs) in South Africa. 
+− 
+Identify the report type being submitted. Select relevant type: Initial, follow-up, final. 
+− 
+A SAHPRA adverse event reference number is allocated to adverse events reported to the regulatory 
+authority, this number should be included in follow-up and final reports if known. 
+SAHPGL-MD-11_v1 
+Page 5 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+ 
+3.1 
+Adverse Event (AE) Classification 
+Indicate if the AE resulted in death, serious or minor injury, etc., if other, please specify the outcome of the 
+AE. 
+If the AE is related to a SAHPRA Pre-Market or Post Market Clinical Study, indicate the name of the clinical 
+trial and study ID. 
+The Licensee and HCR must identify a unique reference number within the Licensee’s and HCR’s Quality 
+Management System, to enable location of the case and relevant records, when required. 
+3.2 
+Patient Information Details 
+Patient age at time of event and Date of Birth 
+Patient Name: Details such as the patient's initials, patient number, or some other type of identifier may 
+be used. The patient's identity is held in strict confidence and protected to the fullest extent of the law. If 
+no patient was involved, as may be the case with a quality problem or a product use error, leave blank or 
+input N/A. 
+Patient Sex/Gender: Enter the patient’s sex at birth (the sex that a person has or was assigned to at birth), 
+alternatively enter the patient’s current gender (how the patient thinks of themself). 
+Weight: Indicate the weight units: i.e. kilograms (kg)/ gram (g). Make the best estimate if exact weight is 
+unknown. 
+3.3 
+Adverse Event Reporter Information 
+Name, Address, Phone No, E-mail: Please provide the name, mailing address, phone number and e-mail 
+address of the reporter.  
+Is the reporter a User, Healthcare Professional (HCP), or Manufacturer? Select the applicable option of 
+the reporter. 
+Reporter’s Occupation: Please indicate the occupation (particularly the type of healthcare professional), 
+and include speciality, if appropriate. If not a healthcare professional, please state occupation.  
+Name/Address of location where AE occurred: The name and address of the hospital or doctor’s or 
+healthcare professional’s offices where the event occurred should be supplied here. If not in a clinical 
+SAHPGL-MD-11_v1 
+Page 6 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+location, provide location, e.g., home. This is also important for tracing the location of the product and to 
+coordinate the retrieval of the product by the licensee or HCR for further investigations by the original 
+manufacturer. 
+Has the original manufacturer been notified of AE?  
+Select: Yes, if you notified the original manufacturer. 
+Select: No, if you did not notify the original manufacturer.  
+Notification date: If Yes, is selected: Please provide the date as to when you notified the original 
+manufacturer. 
+Reporter’s/HCP Phone: To facilitate follow-up questions that may arise, the contact number of the 
+healthcare professional involved should be provided if available. 
+Name of Contact Person: The contact person may be different from the healthcare professional or the 
+reporter; in some hospitals it could be the person responsible for quality. Whilst everyone is required to 
+report adverse events, some hospitals have a specific contact person to coordinate communication with 
+the Regulator or manufacturer once an adverse event has been submitted. 
+Name and physical address of the original Manufacturer: Please indicate the name and physical address 
+of the original manufacturer of the product. This information helps to link the report on the reported event 
+to the reports filed by other sources.  
+Pregnancy – please indicate if yes or no. 
+3.4 
+Adverse Event Information 
+Date Adverse Event Occurred: Provide the actual or best estimate of the date of the first onset of the 
+adverse event. If the day is unknown, the month and year are acceptable. If the day and month are 
+unknown, the year is acceptable. 
+− 
+When a newborn baby is found to have a congenital anomaly, the event onset date is the date of 
+the birth of the child. 
+− 
+When a foetus is aborted because of a congenital anomaly, or is miscarried, the event onset date 
+is the date of when the pregnancy is terminated. 
+SAHPGL-MD-11_v1 
+Page 7 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+If information is available as to the time during pregnancy when exposure occurred, indicate that 
+information in narrative under event description. 
+Date Adverse Event Submitted to SAHPRA: The date the adverse event report is completed and submitted 
+to SAHPRA. 
+Type of Report and/or Health Effect/Impact of the adverse event: Indicate if this is an Adverse Event 
+Report or a product quality problem. Choose the appropriate box. Both boxes should be checked if a 
+product quality problem may have caused or contributed to the adverse event. Outcome Attributed to 
+Adverse Event: Indicate all that apply to the reported event: 
+Death: Check only if you suspect that the death was an outcome of the adverse event and include the date 
+if known. 
+Date of death: Include date of death DD-MM-YYYY 
+Life-threatening: Check if you suspect that: 
+− 
+The patient was at substantial risk of dying, before the adverse event, or 
+− 
+Use or continued use of the medical device (including an IVD) or medicine might have resulted in 
+the death of the patient. 
+Hospitalisation (initial or prolonged): Check if admission to the hospital or prolongation of hospitalisation 
+was a result of the adverse event. 
+Do not check if: 
+− 
+A patient in the hospital received a medicine and subsequently developed an otherwise non-
+serious adverse event, unless the adverse event prolonged the hospital stay. 
+Do check if: 
+− 
+A patient is admitted to the hospital for one or more days, even if released on the same day. 
+− 
+An emergency room visit results in admission to the hospital. 
+Emergency room visits that do not result in admission to the hospital should be evaluated for one of the 
+other serious outcomes [e.g., life-threatening; required intervention to prevent permanent impairment or 
+SAHPGL-MD-11_v1 
+Page 8 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+damage; other serious (medically important event)]. 
+Other Serious or Important Medical Events: Check when the event does not fit the other outcomes, but 
+the event could have jeopardised the patient and could have required medical or surgical intervention 
+(treatment) to prevent one of the other outcomes. Examples include allergic bronchospasm (a serious 
+problem with breathing) requiring treatment in an emergency room, serious blood dyscrasias (blood 
+disorders) or seizures/ convulsions that do not result in hospitalisation. The development of drug 
+dependence or drug abuse would also be examples of important medical events. 
+Required Intervention to Prevent Permanent Impairment or Damage: Check if you believe that medical or 
+surgical intervention was necessary to preclude permanent impairment of a body function, or prevent 
+permanent damage to a body structure, either situation suspected to be due to the use of a medical 
+product. 
+Disability or Permanent Damage: Check if the adverse event resulted in a substantial disruption of a 
+person's ability to conduct normal life functions. Such would be the case if the adverse event resulted in a 
+significant, persistent or permanent change, impairment, damage or disruption in the patient's body 
+function/ structure, physical activities and/ or quality of life. 
+Congenital Anomaly/Birth Defects: Check if you suspect that exposure to a medical product prior to 
+conception or during pregnancy may have resulted in an adverse outcome in the child. 
+Select any of the below examples to identify health impact or outcome of the adverse event that applies 
+and include detail as part of the event description in the next section:  
+Death, Brain death, Change in Therapeutic Response, Delay to Diagnosis, Delay to Treatment/ Therapy 
+Disruption of Subsequent Medical Procedure, Exacerbation of Existing Condition, Hospitalisation or 
+Prolonged Hospitalisation, Fetal Harm, Inadequate/Inappropriate Treatment or Diagnostic Exposure, Minor 
+Injury/Illness/Impairment, Serious Injury/Illness/Impairment, Misdiagnosis/ Misclassification, Prolonged 
+Episode of Care, Recognised Device or Procedural Complication, Reduction in Life Expectancy, Sedation, 
+Rehabilitation, Surgical Intervention, Serious Public Health Threat, Unexpected Deterioration, Unexpected 
+Diagnostic Intervention, Unexpected Medical Intervention, Insufficient Information, Unanticipated Adverse 
+Device Effect, No Health Consequences or Impact, No Patient Involvement, Appropriate Term/Code Not 
+Available 
+SAHPGL-MD-11_v1 
+Page 9 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+3.5 
+Describe the adverse event: Do not include names of patient, doctor, hospitals etc. 
+For an adverse event: Describe the event in detail, including a description of what happened and a summary 
+of all relevant clinical information (medical status prior to the event; signs and/ or symptoms; differential 
+diagnosis for the event in question; clinical course; treatment; outcome, etc.). If available and if relevant, 
+include synopses of any office visit notes or the hospital discharge summary. Use XYZ or ABCDs instead of 
+names. Follow the prompts below: 
+Describe the events as they occurred and the consequences for the patient, user or other person. The 
+details may include but are not limited to the following:  
+− 
+What happened (where, when, how, to whom)?  
+− 
+Is this the first time the device was used by the hospital, healthcare worker, patient or  a user?  
+− 
+If not, how long has the device been in use? When was it previously used?  
+− 
+Have there been any previous problems with the device? If so, how often have these problems 
+occurred?  
+− 
+Was the device used according to directions? What were the environmental conditions 
+surrounding the incident (if applicable)?  
+− 
+What were the parameters or control settings at the time of the incident?  
+− 
+How many other units of the device were involved in the incident?  
+− 
+Was the device misused in any way (for example: reuse of a single-use device)?  
+− 
+What method was used to clean, sterilise or re-sterilise the device? Was this consistent with the 
+manufacturer's recommendations?  
+− 
+How was the product stored or maintained? What are the consequences? Include the details of 
+any harmful health effect(s) from the incident, the severity of the effect(s) and any treatment 
+required. 
+Results of relevant tests and laboratory data should be entered in the block provided. 
+Relevant History and Pre-existing medical conditions: Be as complete as possible, including time courses 
+for pre-existing diagnoses. Provide information of other risk factors can help in the evaluation of a reported 
+SAHPGL-MD-11_v1 
+Page 10 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+adverse event. Example of conditions in the patient, e.g., hypertension (high blood pressure, diabetes 
+mellitus, liver or kidney problems etc. 
+Any interventions taken to care for the patient? Describe actions taken to help the patient or prevent the 
+situation getting worse. 
+− 
+relevant tests and laboratory data should be entered.  
+If it is determined that reuse of a medical device labelled for single use might have caused or contributed 
+to an adverse patient outcome, please report the facts of the adverse event and the contribution of reuse 
+to the occurrence. 
+For a product quality problem: Describe the problem (quality, performance, or safety concern) in sufficient 
+detail so that the circumstances surrounding the defect or malfunction of the medical device (including an 
+IVD) can be understood. 
+− 
+If available, the results of any evaluation of a malfunctioning device and, if known, any relevant 
+maintenance/ service information should be included in this section. 
+3.6 
+Suspected Medical Device 
+This information is to identify the suspected medical device (including an IVD). 
+Unique Device Identifier (UDI)#: This number may be found on the device, its label, or accompanying 
+packaging. 
+Medical Device Establishment Licence Number: this is the number allocated by SAHPRA to a license. 
+Medical Device registration number: this is the number allocated by SAHPRA on registration of the medical 
+device (including an IVD), as applicable, after a call up for registration has been published by SAHPRA.    
+GMDN Code: Information in the form of a 5-digit numeric code. It represents a comprehensive set of terms, 
+which name and group medical device products including implantable devices, medical equipment, 
+consumables, and diagnostic devices. Data exchange between manufacturers, regulators and healthcare 
+authorities facilitates the exchange of post-market vigilance information. 
+Model No: The exact model number found on the device label or accompanying packaging. 
+Batch No or Lot No: This number can be found on the label or packaging material.  
+SAHPGL-MD-11_v1 
+Page 11 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+Serial No: This number can be found on the device, its label, or accompanying packaging; it is assigned by 
+the manufacturer and should be specific to each device. 
+Is this a Single-use Device? Indicate "Yes" or "No". 
+Was the device re-sterilised? Select Yes or No. What method was used to clean, sterilise or re-sterilise the 
+device? Was this consistent with the manufacturer's recommendations? 
+If this is a single use device that was reprocessed and reused on a patient, Enter Name and Address of the 
+Re-processor.  
+Is the product used past expiry? Select Yes or No depending on expiry date. Expiration date (DD/MM/YYYY): 
+If available, this date can often be found on the device itself or printed on the accompanying packaging. 
+Is this an implantable device? If implanted, provide date (DD/MM/YYYY): For a medical device that is 
+implanted in the patient, provide the implant date or your best estimate. If the day is unknown, the month 
+and year are acceptable. If only the year is known, write the year of implant. This is acceptable. 
+If explanted, provide date (DD/MM/YYYY): If an implanted medical device was removed from the patient, 
+provide the explant date or your best estimate. If the day is unknown, the month and year are acceptable. 
+If the month and day are unknown, the year is acceptable. 
+Is product is returned to manufacturer? This is important, the return of product involved in adverse events 
+allows the manufacturer to conduct an investigation on the affected medical device (including an IVD). It is 
+advised that there is no interference like cleaning and sterilising of the product as it can complicate 
+investigations. To transport products that may have human tissue and are considered biohazardous, it is 
+advised that suitable packaging materials for hazardous materials (including used medical device kits) are 
+used. 
+Other medical devices involved in this event: Provide a list of other medical devices that were involved in 
+the adverse event. It may be clear that these other products had no causal link to the event, however, for 
+comprehensive investigation and analysis, a list of other medical devices that were also in use must be 
+provided. How many other units of the medical device were involved in the incident? Submit the identity 
+of any other medical device and accessories involved, if known. This refers to any other equipment that 
+was used with the medical device or in the vicinity of the medical device. It is also useful to include 
+information concerning medicines used concomitantly during the procedure. Similar events: If there are 
+known similar events involving the same product, then a statement can be made to highlight if there should 
+SAHPGL-MD-11_v1 
+Page 12 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+be an investigation into a trend or that this is not an isolated incident. An example is “a new biopsy device 
+is taking bigger bite samples than the old model and causes haemorrhaging”.    
+3.7 
+Manufacturer’s Investigations 
+Manufacturer Statement on similar adverse events submitted to other regulatory authorities: Where 
+available; include date of reports, number of similar events, number of medical devices involved, incident 
+rate of similar events, list relevant CAPAs in other countries opened as a result of similar adverse events. 
+Manufacturer device analysis results: In describing the parts and components which were involved in, or 
+affected by, the medical device adverse event/ incident at a high level. The description of the results should 
+make an attempt to indicate the category of the issue as Biological, Chemical, Electrical & Magnetic, 
+Measurement, Mechanical, Optical, Safety and others etc.  
+In this section, the Regulator requires the reporter to submit their preliminary comments with respect to 
+the adverse event. The comments should include a discussion of the preliminary findings of the 
+investigation and an assessment of the risk to patients/ users.  
+3.8 
+Remedial Action/Corrective Action/Preventative Actions Taken 
+SAHPRA requires the Licensee and HCR to submit the course of action in respect of the adverse event, 
+including an investigation, that is proposed and a timetable to carry out the proposed actions and to submit 
+a final report. This should also include whether the device was repaired or replaced following the incident 
+and the details of the repair or replacement, if available when submitting the follow-up report. 
+The proposed remedial actions, correction(s) and corrective and preventative action(s) must reduce the risk 
+of the device to patients, users and other people to acceptable levels. Proposed remedial actions may 
+include a temporary stop-sale or product hold, a field safety notification (including a safety alert) or field 
+safety corrective action, or a recall, including communication of information about the risk to all users. The 
+situation should be monitored to confirm that the remedial actions have reduced the risk to acceptable 
+levels. A list of already completed actions and planned actions must be detailed. 
+ 
+ 
+SAHPGL-MD-11_v1 
+Page 13 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+4. 
+MEDICAL DEVICE VIGILANCE CONTACT DETAILS 
+The Regulatory Authority should be contacted on the below contact details for medical device-related adverse 
+events or vigilance reporting as required by these guidelines: 
+E-mail 
+: mdvigilance@sahpra.org.za 
+Tel 
+: 012 501 0476 
+Physical address 
+: Loftus Park 
+ 
+  Building A 
+ 
+  Kirkness Road, Arcadia 
+ 
+  Pretoria 
+5. 
+REFERENCES 
+The following related documents are referenced: 
+5.1 
+Act 101 of 1965 Medicines and Related Substances Act, as amended. 
+5.2 
+Regulations relating to Medical Devices. Government Notice No. 1515, Government Gazette No. 
+40480 09 December 2016 
+5.3 
+GHTF/SG5/N5:2012 Reportable Events During Pre-Market Clinical Investigations 
+5.4 
+IMDRF IMDRF/AE WG/N43FINAL:2020 IMDRF terminologies for categorised Adverse Event Reporting 
+(AER):  terms, terminology structure and codes 
+6. 
+VALIDITY 
+This guideline is valid for a period of five (5) years from the effective date of revision. It will be reviewed within 
+this timeframe or as and when required. 
+ 
+SAHPGL-MD-11_v1 
+Page 14 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+7. 
+ANNEXURES 
+7.1 
+Annexure 1: Medical Device Adverse Event Reporting Form (GLF-MD-11A) 
+Reporting/queries: 
+Building A, Loftus Park 
+402 Kirkness Street, Arcadia, 
+Pretoria 
+Tel: (012) 501 0476 
+E-mail: mdvigilance@sahpra.org.za 
+ Initial Report 
+ Follow Up Report 
+ Final Report 
+SAHPRA MD AE Ref No.       
+Authorised Representative (AR) Name:            
+AR Contact Details: Tel:             Email:            
+Establishment Name:             
+Establishment Licence No.:            
+NOTE: Only 1 device may be reported per adverse event form. 
+Adverse Event Classification 
+☐Death ☐Serious injury   ☐ Minor injury ☐Quality issue     ☐Near adverse event  ☐ Life threatening ☐ Required or prolonged 
+☐ Hospitalisation ☐ Caused persistent disability or incapacity ☐Other 
+If other specify:                                                                             
+(if the AE is related to a SAHPRA Pre-Market Clinical or Post-Market Clinical study, answer YES)  ☐ Yes   ☐  No 
+If yes, name of Clinical Trial and Study ID#:                                                                
+Patient Information 
+Patient age at time of event (number in years):             
+Patient Sex/Gender:   ☐  M   ☐  F   ☐  Unknown  
+Patient Date of Birth(dd/mm/yyyy):                 
+Patient Weight:             ☐  Kg or ☐  Grams 
+ Patient Name or Identifier:            
+ Pregnant: ☐  Yes   ☐  No 
+Adverse Event Reporter Information 
+Reporter Name: (First name, last name)                  
+Reporter Phone:                  
+Is the reporter a User ☐ Healthcare Professional (HCP) ☐ Manufacturer ☐  
+Reporter Email Address:                 
+Reporter Occupation:                 
+HCP Phone:                  
+Name and address of location where AE occurred:                 
+Name of contact person:                 
+Has the Manufacturer been notified of AE?   ☐ Yes   ☐  No    
+Notification date:                 
+Name and physical address of the original 
+Manufacturer:                      
+Adverse Event Information 
+Date Adverse Event Occurred:            
+Date Adverse Event Submitted to SAHPRA:            
+Type of adverse event and/or health impact: check all that apply 
+☐ 
+Change in Therapeutic Response 
+☐ 
+Death 
+☐ 
+Brain Death 
+☐ 
+Delay to Diagnosis 
+☐ 
+Delay to Treatment / Therapy 
+☐ 
+Disruption of Subsequent Medical Procedure 
+☐ 
+Exacerbation of Existing Condition 
+☐ 
+Hospitalisation or Prolonged Hospitalisation 
+☐ 
+Foetal Harm 
+☐ 
+Inadequate / Inappropriate Treatment or Diagnostic Exposure 
+☐ 
+Minor Injury / Illness / Impairment 
+☐ 
+Serious Injury / Illness / Impairment 
+☐ 
+Misdiagnosis / Misclassification 
+☐ 
+Prolonged Episode of Care 
+☐ 
+Recognised Device or Procedural Complication 
+☐ 
+Reduction in Life Expectancy 
+☐ 
+Sedation 
+☐ 
+Rehabilitation 
+☐ 
+Surgical Intervention 
+☐ 
+Serious Public Health Threat 
+☐ 
+Unexpected Deterioration 
+☐ 
+Unexpected Diagnostic Intervention 
+☐ 
+Unexpected Medical Intervention 
+☐ 
+Insufficient Information 
+ 
+☐ 
+Unanticipated Adverse Device Effect 
+☐ 
+No Health Consequences or Impact 
+☐ 
+No Patient Involvement 
+☐ 
+Other 
+Death                       
+Date of Death 
+SAHPGL-MD-11_v1 
+Page 15 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+Describe the adverse event. No patient names should be included in the adverse event description.  
+Refer to table 1 to include the anatomy of the minimum clinical signs, symptoms, conditions of the adverse event: 
+                                                                                                
+                                                                                                
+Relevant Lab Tests / Results: 
+                                                                                                
+Relevant History, Including Preexisting Medical Conditions (e.g. allergies, pregnancy, liver/kidney problems, smoking, medicines etc.) 
+                                                                                                          
+                                                                                                          
+Any interventions taken to care for the patient?  
+☐ No intervention  
+☐ Intervention unknown 
+☐ Any intervention, elaborate below:                                                                             
+Suspected Medical Device 
+UDI:            (If available)  
+GMDN Code:            
+Product name or description: (brand name or common name):              
+Number of devices involved regarding the same event at the same facility:            
+For how long the device has been in use?            
+Device/s storage conditions:            
+Medical Device SAHPRA Registration number: (when available) 
+Model name and number:            
+Serial number:            
+Batch/Lot/Serial #: (if not known, enter UNKNOWN)             
+Is this a single use device?   ☐  Yes  ☐  No 
+Re-sterilised? or Reprocessed?   ☐  Yes   ☐  No   ☐  Unknown   ☐  
+N/A 
+Used past expiry date?  ☐  Yes   ☐  No  ☐  N/A 
+If reprocessed and used on patient, enter preprocessor’s name and address:             
+Is this device implantable?   ☐  Yes   ☐  No    
+Implant Date:            
+Product Explanted?   ☐  Yes   ☐   No    
+Explant Date:            
+Is product returned to manufacturer?  ☐  Yes  ☐  No  ☐  Disposed  ☐  Implanted ☐  Retained ☐     N/A ☐  Other – specify        
+Other medical devices involved in this event?                                                                        
+Similar events?                                                                                                 
+Manufacturers Investigations 
+Statement by the Holder of Certificate of Registration (HCR) or Licensee on similar adverse events submitted to other regulatory 
+authorities: 
+(Where available; include date of reports, number of similar events, number of devices involved, incident rate of similar events, list 
+relevant CAPAs in other countries opened as a result of similar adverse events) 
+                                                                                                          
+                                                                                                          
+Manufacturer device analysis results: refer to Table 2 for describing the parts and components which were involved in, or affected 
+by, the medical device adverse event/incident. 
+                                                                                                          
+                                                                                                          
+Remedial Action/Corrective Action/Preventative Actions Taken: 
+                                                                                                          
+                                                                                                          
+SAHPGL-MD-11_v1 
+Page 16 of 16
+Guideline for Completing Medical Device Adverse Event Form 
+13 December 2024 
+ 
+ 
+Completed Actions: 
+                                                        
+                                                        
+Planned Actions: 
+                                                   
+                                                   
+ 
+

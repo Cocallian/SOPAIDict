@@ -1,0 +1,145 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Subject 
+ 
+ 
+ 
+ 
+Variations Addendum 
+28 September 2020 
+Interim measures pending update of Variations Addendum 
+Dear Industry colleagues, 
+Please be advised that the Variations addendum (2.08_Variations Addendum for Human and 
+Veterinary Medicines_June2020_v1.docx) has been withdrawn on 1st September 2020 from the 
+SAHPRA website for updates to some general aspects including administrative and quality variation 
+coding.  
+ 
+An Interim guidance namely, 2.08a_Interim Variations Addendum for Human and Veterinary 
+Medicines_September2020_v1.docx will we uploaded as the interim measure until the revised 
+guidance is accepted for implementation. 
+ 
+The Interim guideline reverts the below listed Quality variation coding to the EMA variation 
+classification. The proposed Inspectorate timelines of 60 days will be revisited within 12 months 
+from implementation. The interim guideline also includes the update on the interpretation of Quality 
+Variation Type II fees. 
+Please note that the Clinical, amendments will not be affected and that these will remain essentially 
+unchanged from the 2.08_Variations Addendum for Human and Veterinary Medicines_June2020_v1.  
+List of Quality Variation codes  
+SAHPRA/EMA code 
+Code description 
+EMA/SAHPRA 
+Classification 
+B.I.a.1a 
+The proposed manufacturer is part of the same 
+pharmaceutical group as the currently approved 
+manufacture 
+Type IAIN 
+B.I.a.2a 
+Minor change in the manufacturing process of the 
+active substance 
+Type IA 
+B.I.a.3a 
+Up to 10-fold increase compared to the originally 
+approved batch size 
+Type IA 
+B.I.a.3d 
+More than 10-fold increase compared to the originally 
+approved batch size 
+Type IB 
+B.II.a.3b1 
+Any minor adjustment of the quantitative composition 
+of the finished product with respect to excipients 
+ 
+Type IA 
+B.II.b.3a 
+Minor change in the manufacturing process 
+Type IA 
+B.II.b.4a 
+Up to 10-fold compared to the originally approved 
+batch size 
+Type IA 
+DocuSign Envelope ID: 0E2A03DA-7101-4635-9B01-ADF4A5CF3D8C
+Subject 
+Jan-20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 2 
+Subject 
+Page 2 
+B.II.b.4e 
+More than 10-fold increase Type IAIN compared to the 
+originally approved batch size for immediate release 
+(oral) pharmaceutical forms 
+Type IB 
+B.III.1a3 
+New certificate of suitability (CEP) from a new 
+manufacturer (replacement or addition) 
+Type IAIN 
+ 
+List of Inspectorate quality codes  
+Code 
+Classification 
+Timeline 
+required 
+Description of change 
+B.II.b.1.b 
+IAin 
+60 days 
+Replacement or addition of a manufacturing 
+site for part or all of the manufacturing process 
+of the finished product - Primary packaging site 
+B.II.b.1.e 
+IB 
+60 days  
+Replacement or addition of a manufacturing 
+site for part or all of the manufacturing process 
+of the finished product - Site where any 
+manufacturing operation(s) take place, except 
+batch-release, batch control, primary and 
+secondary packaging, for non-sterile medicinal 
+products 
+B.II.b.1.f 
+IB 
+60 days 
+Replacement or addition of a manufacturing 
+site for part or all of the manufacturing process 
+of the finished product - Site where any 
+manufacturing operation(s) take place, except 
+batch release, batch control, and secondary 
+packaging, for sterile medicinal products 
+(including those that are aseptically 
+manufactured) excluding 
+biological/immunological medicinal products 
+Applicants are advised that the alteration for the above mentioned codes is a temporary alteration 
+which SAHPRA commit to revisit within 12 months. 
+ 
+Applicants who have already prepared quality variations for submission based on the 
+2.08_Variations Addendum for Human and Veterinary Medicines_June2020_v1.docx guidance may 
+wish to reconsider submission based on the above. 
+Applicants are advised that variations submitted as Type 1A and Type IAin (whilst implemented or 
+implementable) should receive a response from SAHPRA within 30 days of the date of submission of 
+these notifications in line with EMA guideline for submission of notifications. No communication 
+from SAHPRA following the 30-day notification period implies that the implementation of the 
+notification is accepted. 
+ 
+For any further enquiries on the above please contact silverani.padayachee@sahpra.org.za 
+DocuSign Envelope ID: 0E2A03DA-7101-4635-9B01-ADF4A5CF3D8C
+

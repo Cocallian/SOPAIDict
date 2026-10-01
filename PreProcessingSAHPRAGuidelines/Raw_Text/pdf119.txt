@@ -1,0 +1,478 @@
+SAHPGL-CEM-PV-05_v6  Guideline for handling dear healthcare professional letters relating to medicine safety  
+ 
+ 
+Page 1 of 8 
+ 
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUIDELINE FOR HANDLING DEAR HEALTHCARE PROFESSIONAL 
+LETTERS RELATING TO MEDICINE SAFETY 
+August 2022 
+ 
+This document has been prepared to serve as a guideline to those who prepare and distribute Dear Healthcare Professional letters. It 
+represents South African Health Products Regulatory Authority (SAHPRA) current thinking on the safety, quality and efficacy of 
+medicines.  SAHPRA reserves the right to request any additional information to establish the safety, quality and efficacy of a medicine 
+and may make amendments in keeping with the knowledge which is current at the time of consideration of safety data.   
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+“Process for handling Dear Dr Letters and Drug Alerts” First version 
+published as Circular 
+30 July 2003 
+2 
+Amended to be in new format of guidelines and communications 
+May 2006 
+3 
+Overall editing int al to address timelines 1.2, new 1.4 
+2.1, 2.2, 2.3, 2.5, 2.6, 2.7, 2.8, 2.10, 2.13 (now 2.11), 2.14 (now 2.12) 
+and 3 deleted 
+August 2014 
+September 2014 
+4 
+Change of address for electronic copy of the letter 
+March 2015 
+5 
+Revised to include heading, 1, 2, 3, 4, 5, 6, 7 and addition of a reference 
+January 2020 
+6 
+Changed to SAHPRA revised document template 
+Changed document number from 9.08 to SAHPGL-CEM-PV-05-v6 
+Corrected email for submissions of dear healthcare professionals letter 
+correspondence pvsubmissions@sahpra.org.za  
+August 2022 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-PV-05_v6 Guideline for handling dear healthcare professional letters relating to medicine safety 
+ 
+Page 2 of 8 
+ 
+Guideline for handling Dear Healthcare Professional Letters  
+ 
+ 
+ 
+ 
+August 2022 
+  
+ 
+TABLE OF CONTENTS 
+Page 
+1             INTRODUCTION…………………………………………………………………………………………………………………………3 
+2             DEFINITION……………………………………………………………………………………………………………………………….3 
+3             LIST OF ABBREVIATIONS……………………………………………………………………………………………………………3 
+4             PRINCIPLES……………………………………………………………………………………………………………………………….3 
+5             PURPOSE…………………………………………………………………………………………………………………………………..5 
+6             PROCESS………………………………………………………………………………………………………………………………….. 5 
+7             FORMAT OF THE LETTER……………………………………………………………………………………………………………6 
+8             REFERENCES………………………………………………………………………………………………………………………………8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-PV-05_v6 Guideline for handling dear healthcare professional letters relating to medicine safety 
+ 
+Page 3 of 8 
+ 
+Guideline for handling Dear Healthcare Professional Letters  
+ 
+ 
+ 
+ 
+August 2022 
+  
+1 INTRODUCTION 
+This guideline is intended to assist holders of a certificate of registration(holder)/applicants with the 
+development of the dear healthcare professional (DHCP) letter for safety concerns associated with the use 
+of registered medicines and “Old Medicines” which arise during post-registration and post-marketing. It 
+provides recommendations to holders/applicants and SAHPRA personnel on the expected content and 
+format of a DHCP letter. This includes recommendations on when to distribute a DHCP letter, the principles 
+and process relating to issuing of DHCP letters and how to organise the information so that it is 
+communicated effectively to healthcare practitioners. 
+ 
+Communicating safety information to patients and healthcare professionals is a public health responsibility, 
+and is essential to achieve the objectives of pharmacovigilance in terms of promoting the safe and rational 
+use of medicines and preventing harm from adverse reactions. A DHCP letter may be complemented by 
+other communication tools and channels and the principle of consistent information should apply. 
+ 
+For the purpose of this guideline, "SAHPRA" refers to the South African Health Products Regulatory 
+Authority, hereafter referred to as the Authority, and “NADEMC” refers to the National Adverse Drug Event 
+Monitoring Centre. The terms “holder of certificate of registration” (holder) and “applicant” are used 
+interchangeably. The terms “medicine” and “drug” are also used interchangeably.  
+ 
+ 
+2 DEFINITION 
+A Dear Healthcare Professional (DHCP) letter is a communiqué in a form of a letter intended to convey 
+important medicine safety information, distributed by holders/applicants directly to individual healthcare 
+professionals. The DHCP letter further advises healthcare professionals on the need to take certain action or 
+adapt their practices in relation to the use of the implicated medicine. Such letters can be requested by 
+SAHPRA or initiated by the holder/applicant. Regardless of the initiator of the DHCPL, the letters should 
+always be approved by SAHPRA before distribution to healthcare professionals.  
+ 
+3 LIST OF ABBREVIATIONS 
+ADRs 
+ 
+Adverse Drug Reactions 
+ 
+DHCP 
+ 
+Dear Health Care Professional  
+HCP 
+ 
+HealthCare Professional 
+HCR [HOLDER] 
+Holder of a Certificate of Registration 
+PI 
+ 
+Professional Information 
+PIL 
+ 
+Patient Information Leaflet 
+USRN 
+ 
+Urgent Safety Restriction Notice 
+SAHPRA South African Health Products Regulatory Authority 
+ 
+4 PRINCIPLES 
+4.1 Communication of safety is considered part of risk assessment and management process throughout the 
+life cycle of a medicine. 
+ 
+4.2 Communicating safety information through DHCP letter should be effectively and adequately coordinated 
+between the holder/applicant and SAHPRA. 
+ 
+ 
+ 
+SAHPGL-CEM-PV-05_v6 Guideline for handling dear healthcare professional letters relating to medicine safety 
+ 
+Page 4 of 8 
+ 
+Guideline for handling Dear Healthcare Professional Letters  
+ 
+ 
+ 
+ 
+August 2022 
+  
+ 
+4.3 DHCP letters should deliver relevant, clear, concise, accurate and consistent messages and reach the right 
+healthcare professionals at the right time. 
+ 
+4.4 DHCP letter should be tailored to the appropriate healthcare professionals using appropriate terminology 
+and taking into account different levels of knowledge and needs. 
+ 
+4.5 The targeted DHCP letter recipients must be agreed upon by both the holder/applicant and the Authority 
+before an approved DCHP letter can be issued.  
+ 
+4.6 In cases where Allied Health Professionals are to be informed about a safety concern that is related to their 
+profession, SAHPRA should prescribe the Allied Health Professionals to be included in the distribution list.  
+ 
+4.7 The information on risk should be presented in the context of the benefits of the medicine and should 
+include appropriate information on the seriousness, severity, risk factors, time to onset and reversibility of 
+the adverse reaction. 
+ 
+4.8 New information should be summarised, highlighted and presented using the language used in the 
+proposed updated Professional Information, as appropriate. 
+ 
+4.9 DHCP letters should provide recommendations on how to deal with any safety concerns with regards to a 
+medicine. 
+ 
+4.10 The DHCP letter should include the appropriate contact information (contact details for reporting cases 
+of ADRs) of both the applicant and the Authority and the procedure for reporting suspected ADRs. 
+ 
+4.11 DHCP letter should avoid discussion of noncritical information that could obscure the important 
+information. 
+ 
+4.12 The following information should be avoided as it could obscure or divert attention from the important 
+safety information:  
+• 
+Marketing information about the medicine including numbers of prescription, patient exposures, 
+approvals and pending approvals, 
+• 
+Extensive details about the design of a clinical study, 
+• 
+Information about a safety review panel, 
+• 
+Plans to further investigate the problem (if not specifically related to the problem) and  
+• 
+Promotional language/material. 
+ 
+4.13 In a situation where the reason to distribute a DHCP letter is in line with the requirements of an Urgent 
+Safety Restriction Notice (USRN), the USRN procedure as outlined in Guideline 2.08 Variations Addendum 
+for Human and Veterinary Medicines must be followed. 
+ 
+4.14 DHCP letter content should not be longer than five (5) pages. 
+ 
+ 
+ 
+SAHPGL-CEM-PV-05_v6 Guideline for handling dear healthcare professional letters relating to medicine safety 
+ 
+Page 5 of 8 
+ 
+Guideline for handling Dear Healthcare Professional Letters  
+ 
+ 
+ 
+ 
+August 2022 
+  
+4.15 DHCP letter should be finalised and approved by SAHPRA within twenty (20) working days of the initial 
+communication from or to the holder/applicant. 
+ 
+4.16 DHCP letter must be distributed to healthcare professionals and published on the applicant’s website 
+within five (5) working days subsequent to the Authority communicating the approved letter to the 
+holder/applicant. No safety related DHCP letter should be distributed to HCPs without the Authority’s 
+approval.  
+ 
+4.17 The DHCP letter which contains safety information, should be emailed to the relevant HCPs as agreed 
+upon by the Applicant and the Authority. 
+ 
+4.18 In the instance where a PI/PIL updated is necessitated by a DHCP letter, the Authority and the Applicant 
+will agree upon the wording of the label update and this will be indicated in the DHCP letter.  
+ 
+ 
+5 PURPOSE 
+SAHPRA may request the holders/applicants to distribute a DHCP letter in any situation where it is deemed 
+necessary, relevant to the safe and effective use of the medicine. However, holders/applicants may also initiate 
+a DHCP letter. A DHCP letter should be issued in the following situations: 
+• 
+A change in the risk-benefit balance of a medicine (for example, new data identifying a previously 
+unknown risk or a change in the frequency or severity or a known risk),  
+• 
+New recommendations for treating or preventing ADRs, 
+• 
+Important change to the product information, in particular restriction of an indication, new 
+contraindication, change in the recommended dose, major warnings or precautions for use. 
+• 
+Restriction in availability and accessibility which impact on the medicine’s current use by 
+healthcare professionals and patients. 
+• 
+Suspension, withdrawal or revocation of a marketing authorisation with recall of the medicinal 
+product from the market for safety reasons;  
+• 
+Ongoing assessment of an important potential risk, for which data available at a particular point 
+in time are insufficient to take regulatory action (in this case, the DHCP letter should encourage 
+close monitoring of the safety concern in clinical practice and encourage reporting, and possibly 
+provide information on how to minimise the potential risk). 
+ 
+6 PROCESS 
+6.1 The holder/applicant should notify the Authority within five (5) working days of the receipt of the safety 
+concern from other Regulatory Authorities as per. Alternatively, the holder/applicant should respond to 
+the Authority’s recommendation to issue a DHCP letter by submitting a draft DHCP letter within five (5) 
+working days of the date of the recommendation letter to the Authority for review. 
+6.2 The format of the draft DHCP letter should be aligned with the Authority’s guideline for handling DHCP 
+letters. 
+6.3 The holder/applicant should submit to the Authority a draft of the proposed DHCP letter (in a word 
+format), motivation (where relevant), most recently approved Professional Information and the 
+supporting data of the safety information. 
+ 
+ 
+ 
+SAHPGL-CEM-PV-05_v6 Guideline for handling dear healthcare professional letters relating to medicine safety 
+ 
+Page 6 of 8 
+ 
+Guideline for handling Dear Healthcare Professional Letters  
+ 
+ 
+ 
+ 
+August 2022 
+  
+6.4 In cases where the process is initiated by the applicant, and the consequence of the new information 
+requires an amendment to the PI/PIL, the applicant must include the proposed PI/PIL in which the 
+proposed changes are indicated at the same time as the proposed DHCP letter. In cases where the process 
+is initiated by the Authority, the amended PI/PIL should only be submitted to the relevant unit once the 
+exact wording for the amendment is provided by the Authority.  
+6.5 Correspondences between the Authority and the holder/applicant relating to changes in DHCP letter text 
+or corrections should be actioned in a timely manner, within three (3) working days of receipt by the 
+holder/applicant.  
+6.6 Only three (3) correspondences are permitted between the applicant and the Authority per letter. Should 
+the applicant not be in agreement with the amendments made by the Authority, the matter would be 
+referred to the CEO for decision-making.  
+6.7 The DHCP letter should only be distributed once the final letter is approved by the Authority.  
+6.8 The holder/applicant should submit to the Authority a copy of the final DHCP letter signed by the relevant 
+signatory before distribution.  
+6.9 The Authority should endorse the letter by signing it. Once the letter is signed by the Authority, the 
+applicant can distribute the letter to the target audience with both the Authority and the applicant’s 
+signatures. 
+6.10 An emailed distribution list indicating the number of HCPs who were emailed should be submitted to 
+the Authority within fourteen (14) working days after communication of the approved DHCP letter by the 
+Authority to the applicant.  
+6.11 NOTE: For safety concerns relating to active substances contained in medicines authorised for more than 
+one (1) holder, (i.e. not necessarily on a specific trade name), a collaborated DHCP letter should be 
+considered.  
+6.12 A lead holder/applicant should be identified, who will be responsible for coordinating the process of 
+reviewing the collaborated DHCP letter between the Authority and the holders/applicants concerned. 
+6.13 All communication between the Authority and the holders/applicants relating to the collaborated DHCP 
+letter should be done through the lead holder/applicant, who must then communicate to the other 
+holders/applicants concerned. 
+6.14 The lead holder/applicant must consolidate all comments from other holders/applicants relating to the 
+DHCP letter and convey them to the Authority. 
+6.15 A collaborated DHCP letter should follow the same process as an uncollaborated DHCP letter.  
+ 
+7 FORMAT OF DHCP LETTERS 
+7.1 Contents of a DHCPL 
+7.1.1 The heading of the letter must read as “Important medicines safety information” 
+7.1.2 The date of the final approved proposed DHCPL.  
+7.1.3 Greeting statement (e.g. Dear Healthcare Professional) 
+7.1.4 The subject line of the letter should be written in bold (underlined or not) or within a border or text 
+box to further draw attention to the information and should include: 
+a) name of the medicine (international non-proprietary, followed by the trade name), registration 
+number and a concise description of the issue that is addressed in the body of the letter. 
+b) characterisation of the seriousness of the problem (that is, serious, life-threatening, fatal adverse 
+reactions) and the population at risk. Note: use of vague terms to characterise the incidence of 
+reaction should be avoided, e.g. rare, infrequent. 
+ 
+ 
+SAHPGL-CEM-PV-05_v6 Guideline for handling dear healthcare professional letters relating to medicine safety 
+ 
+Page 7 of 8 
+ 
+Guideline for handling Dear Healthcare Professional Letters  
+ 
+ 
+ 
+ 
+August 2022 
+  
+c) statement regarding a well-defined increase in the magnitude of risk or rate of reaction and rate 
+observed in controlled trials or epidemiological studies can be used, e.g. the rate of reaction X is 
+doubled. 
+7.1.5 The initial paragraph of the letter should be introductory and may include the following type of 
+information: 
+a) Purpose of the letter e.g. to inform healthcare professionals about a specific medicine safety issue. 
+b) A statement on the agreement between the holder/applicant and SAHPRA on the safety information.  
+c) Description of the safety concern 
+d) Existing information that has changed, if any e.g. information that is no longer valid in light of the new 
+safety information. 
+7.1.6 The second paragraph of the letter should briefly summarise the information essential to a healthcare 
+professionals’ understanding the nature and management of the problem and actions taken to address 
+the issue. This paragraph may include the following type of information: 
+a) Description of the safety information, 
+b) Whether the risk occurred with approved use of the medicine or not, 
+c) Population at risk, 
+d) Labelling changes using verbatim language from the prescribing information may be included 
+(summarised) and 
+e) Rationale for change in indication, usage or dose, if relevant. 
+7.1.7 The interior paragraphs of the letter should provide background of the medicine(s) and the safety 
+concern and any other additional details that may be helpful in understanding the issue. The information 
+may include the following: 
+a) Brief description of the indications and usage,  
+b) Concise description of the issue that gave rise to the new warning or other change in the prescribing 
+information, including the nature and severity of the issue. 
+c) Degree of risk, if known. Reliable incidence and/or prevalence data from a controlled trial, 
+observational study, or any other reliable source, can be included if available. If the new information 
+is based on spontaneous reports, the number of reports must be included if that number is an 
+important factor in explaining why a regulatory action is taken to revise the prescribing information 
+and alert the healthcare professionals. 
+d) Attributes of affected patient populations or subsets.  
+e) Summary of the data or other information that is the basis for a new safety warning (e.g. summary 
+information about a controlled clinical trial, epidemiologic study, or spontaneous adverse event 
+reporting). 
+f) Limitations of the data and other information (e.g. what is known and what is not known). 
+g) Mechanism of the adverse reaction if known. 
+h) Whether the event is common to the medicine class or not. 
+i) Additional research undertaken to better understand the adverse reaction. 
+7.1.8 The last paragraphs of the letter should provide advice to healthcare professionals with regards to 
+actions to be taken in response to the new safety issue, if any (management), such as: 
+a) Recommended action, including but not limited to: 
+• 
+Discontinued use, 
+• 
+Limitations of use,  
+• 
+Dose reduction, 
+ 
+ 
+SAHPGL-CEM-PV-05_v6 Guideline for handling dear healthcare professional letters relating to medicine safety 
+ 
+Page 8 of 8 
+ 
+Guideline for handling Dear Healthcare Professional Letters  
+ 
+ 
+ 
+ 
+August 2022 
+  
+• 
+Patient monitoring for specific clinical findings or laboratory results and 
+• 
+Additional testing required before prescribing. 
+b) Patient counselling, including but not limited to: 
+• 
+Contacting their healthcare professional if they experience a specific clinical sign or symptom, 
+• 
+Stopping the medicine immediately if they experience a specific clinical sign or symptom or 
+• 
+Consulting their healthcare professional before discontinuing the medicine. 
+c) The DHCP letter should include a statement that the Professional Information is in the process of 
+being reviewed to reflect the relevant information, if applicable.  
+7.1.9 Concluding paragraph should include the following information: 
+a) Information on how to report new cases of the adverse reaction or other safety issues described in 
+the letter, 
+b) A list of holder/applicant-specific medicines containing the active ingredient (Trade names) should be 
+provided together with each medicine’s registration number and contact information for direct 
+inquiries regarding the safety issue and 
+c)  Contact information of the Authority. 
+ 
+7.2 References where applicable 
+ 
+7.3 Signature(s) of the relevant holder/applicant’s personnel 
+ 
+NB: All correspondences between the Authority and the holder/applicant pertaining to DHCP letter must be 
+done through an email (pvsubmissions@sahpra.org.za). The DHCP letter must be distributed to the target 
+groups mainly by email. Post may be used as a supplementary method. 
+ 
+8 REFERENCES 
+8.1 U.S. Department of Health and Human Services - Food and Drug Administration, 2014. Guidance for 
+Industry and FDA staff: Dear Healthcare Provider Letters: Improving Communication of Important Safety 
+Information. OMB Control No. 0910-075. 
+8.2 EMA Guideline on Good Pharmacovigilance Practices (GVP) – Module XV – Safety Communication 
+EMA/118465/2012. 
+ 
+9 VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces. It will be reviewed 
+as and when required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

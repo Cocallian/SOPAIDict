@@ -1,0 +1,510 @@
+SAHPGL-LIC-02_Wholesale License Guide_version 3_QMS 
+reviewed
+Page 1 of 14
+ 
+ 
+ 
+10 April 2026 
+GUIDELINE ON HOW TO APPLY FOR LICENCE TO ACT AS A 
+WHOLESALER OF MEDICINES AND /OR SCHEDULED 
+SUBSTANCES 
+This guideline is intended to provide recommendations to applicants wishing to submit an application for a licence to act as a 
+wholesaler of medicine and/or scheduled substances. It is not intended as an exclusive approach and should not be taken as a 
+complete or authoritative statement of the law. SAHPRA reserves the right to request any additional information to establish the 
+safety, quality, and efficacy of a medicine and/or scheduled substances in keeping with the knowledge current at the time of 
+evaluation. The SAHPRA is committed to ensure that all medicines and/or scheduled substances will be of the required quality, safety, 
+and efficacy and that the wholesaler and/or distributor complies with acceptable quality assurance principles and good wholesaling / 
+distributing practices as determined by SAHPRA. It is important that applicants adhere to the administrative requirements to avoid 
+delays in the processing and evaluation of applications.  
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+Date of Finalisation and Implementation 
+January 2004 
+2 
+Amendment to various sections of the Guideline and due for comments. 
+Guideline number change from 16.02 to SAHPGL-LIC-02 
+June 2022 
+3 
+Addition of section 14 – Application processing timelines 
+March 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 2 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 5 
+3. 
+Guiding Principles ....................................................................................................................................... 6 
+4. 
+Persons Requiring a Wholesale Licence ..................................................................................................... 6 
+5. 
+Persons who do not require a Wholesale Licence ..................................................................................... 6 
+6. 
+How to obtain a Licence ............................................................................................................................. 7 
+7. 
+Wholesale Licence Holder’s Obligations .................................................................................................... 9 
+7.1 
+The standard provisions for wholesale licence (WL) require a licence holder to: ..................................... 9 
+8. 
+Inspections (as stipulated by Section 28 of Act 101 of 1965 read together with Regulation 23(3)) ......... 9 
+9. 
+Powers to Supsend or Revoke a Wholesale Licence (as per the provisions of Section 22E of Act 101 of 
+1965) 10 
+10. 
+Process to follow when a SAHPRA licensed site ceases to exist .............................................................. 10 
+11. 
+Fees Payable ............................................................................................................................................. 11 
+12. 
+Application Processing Timelines ............................................................................................................. 12 
+13. 
+Contact Details ......................................................................................................................................... 13 
+14. 
+REFERENCES ............................................................................................................................................. 13 
+15. 
+VALIDITY ................................................................................................................................................... 14 
+ 
+ 
+ 
+ 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 3 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+CEO 
+Chief Executive Officer 
+Act 101 of 1965/Medicines Act The Medicines and Related Substances Act, 1965(Act 101 of 1965) as 
+amended 
+GWP 
+Good Wholesaling Practices 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SAPC 
+South African Pharmacy Council 
+RP 
+Responsible Pharmacist 
+Act 53 of 1974 
+The Pharmacy Act 53 of 1974 as amended. 
+WL 
+Wholesaler Licence 
+ 
+ 
+ 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 4 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+1. INTRODUCTION 
+The South African Health Products Regulatory Authority (SAHPRA or The Authority) regulates medicines for 
+human and animal use, in accordance with the provisions of the Medicines and Related Substances Act; (Act 
+101 of 1965) as amended and the relevant Regulations made thereunder. (Hereafter referred to as the Act 101 
+of 1965 or the Medicines Act.) Amongst other things, it is unlawful for medicines or scheduled substances to 
+be marketed, manufactured, distributed, and sold or supplied in the Republic of South Africa (RSA) except in 
+accordance with the appropriate authorization, registration certificates, licences, clinical trial approvals or 
+exemptions obtained from the Authority. The licensing system includes SAHPRA, the Chief Executive Officer of 
+SAHPRA and the Program: Inspectorate and Regulatory Compliance, whose duties comprise the issue of 
+licences to those engaged in the sale or supply of medicines and scheduled substances by way of wholesale 
+dealing. Furthermore, the Good Wholesaling Practice (GWP) Inspectors and SAHPRA are responsible for 
+ensuring that licence holders comply with the provisions and conditions of their licences. The wholesale or 
+distribution of veterinary medicine or scheduled substances for animal use, registered with The Authority in 
+terms of the provisions of the Medicines Act , is subject to the same legislation and the requirements are 
+similar. The purpose of this Guidance Note is to provide guidance on the law covering the wholesale 
+distribution of medicines and scheduled substances and wholesale dealing of medicines and scheduled 
+substances for human and animal use and controlled in terms of the provisions of the Medicines Act. 
+1.1 Purpose 
+This guideline is intended to provide recommendations to applicants wishing to submit an application for a 
+licence to act as a wholesaler of medicine and/or scheduled substances. 
+1.2 Scope 
+This document lays down guidelines on how to apply for a licence to wholesale and distribute Medicines 
+and Scheduled Substances and applies equally to products for human and for veterinary use as per Act 101 
+of 1965 and exclude applications for Complementary Medicines licenses (Category D medicines). 
+Information relevant to the Complementary Medicines licensing can be accessed on the website: 
+https://www.sahpra.org.za/e-services/complementary medicines/ 
+In this Guideline, the word "should" indicates requirements that are expected to apply unless shown to be 
+inapplicable or replaced by an alternative demonstrated to provide at least an equivalent level of quality 
+assurance. The scope also includes the following: 
+1.2.1 
+All activities consisting of procuring, holding, supplying, or exporting medicines and 
+scheduled substances, apart from supplying medicines and scheduled substances to the 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 5 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+public, are wholesale distribution. Transport companies are seen as third-party service 
+providers to licensed wholesalers and are not licensed separately by SAHPRA.  
+1.2.2 
+Wholesaling of unregistered medicines and scheduled substances e.g., investigational 
+medicinal products, or medicines and scheduled substances solely for export purposes are 
+also controlled in accordance with the relevant provisions of the Act 101 of 1965 and its 
+relevant regulations. 
+1.2.3 
+Wholesale dealing is the sale of medicines and scheduled substances in the course of a 
+business, to a person who buys it for selling or supply, or for administration to a human 
+being or animal. Therefore, the wholesale licence entails any sale or supply except to the 
+end-user (patient) and to another wholesaler. A wholesaler should not engage in retail 
+activities. 
+1.2.4 
+Section 22C of the Medicines Act read together with Regulation 1 provides that: 
+"wholesaler", including a wholesale pharmacy, means a dealer or trader who acquires any 
+medicine or scheduled substances from an approved manufacturer or primary importer 
+and sells or distributes it to the retail sector. 
+1.2.5 
+Section 22H of the Medicines Act prohibits any wholesaler from buying any medicine or 
+scheduled substances from any other source except from the original manufacturer or from 
+the primary importer of the finished product, except when specifically exempted by the 
+Director-General of Health from such provisions. 
+1.2.6 
+The scope also includes the licencing of Government's Provincial Depot 
+2. LEGAL PROVISION 
+The distribution of medicines in South Africa is governed strictly by the Medicines and Related Substances 
+Act No.101 of 1965, as amended (Medicines Act). The most recent amendments were brought into effect 
+on 1 June 2017.  
+Other pieces of legislation govern the movement of medicines in the supply chain and persons authorised 
+to distribute medicines within the supply chain including the: 
+• 
+Pharmacy Act No. 53 of 1974, as amended. 
+• 
+Health Professions Act No.56 of 1974, as amended (HPA). 
+• 
+National Health Act No 61 of 2003, on human tissue. 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 6 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+• 
+Animal Diseases Act No 35 of 1984, on medicines with animal content 
+The wholesaling and distribution of medicine and scheduled substances requires a licence that must be 
+obtained from the South African Health Products Regulatory Authority (SAHPRA). 
+3. Guiding Principles 
+3.1 All parties involved in the supply chain of medicines and scheduled substances are responsible for 
+the effective, efficient, and safe handling, storage, and distribution of such products in a manner that 
+does not risk exposure to storage (temperature, humidity, light) outside of their recommended 
+storage conditions. This would prevent any excursions from the recommended storage conditions 
+that could potentially affect the quality, safety, and effectiveness of the products. 
+3.2 The principles of Good Wholesaling Practices are equally applicable to medicines and scheduled 
+substances moving through the supply chain from the manufacturer to the end user, as well as 
+medicines and scheduled substances which are moving backwards in the supply chain because of the 
+return or recall thereof. 
+3.3 All parties involved in the wholesaling process should apply due diligence with adherence to the 
+principles of Good Wholesaling Practices, for example, procedures relating to traceability, 
+recognition of security risks, purchasing suspect products, poor storage, or failure to establish the 
+bona fides of purchasers. 
+4. Persons Requiring a Wholesale Licence 
+Persons who in the course of a business are engaged in: 
+a. Wholesale distribution of medicines and scheduled substances 
+b. Wholesale dealing of medicines and scheduled substances for human and animal use 
+c. Requires a wholesale dealer's (WL) licence unless exemption was obtained. 
+5. Persons who do not require a Wholesale Licence 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 7 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+5.1 The Holder of a certificate of Registration if the product has not left the premises of the licensed 
+manufacturer or assembler before it is sold or supplied. 
+5.2 A person who holds a manufacturer's licence does not also need a wholesale licence in order to 
+distribute those products to which the manufacturer's licence relates, but if any other products are 
+distributed a wholesale licence is required. 
+5.3 Activities that are not wholesale distribution are therefore not licensed as such. 
+5.4 A pharmacist in a registered pharmacy, hospital or health centre, or someone acting under his 
+supervision, who sells or supplies a medicines or scheduled substances in accordance with a 
+practitioner's prescription. 
+5.5 A group of persons who order goods jointly for subsequent retail sale by an individual. 
+6. How to obtain a Licence 
+6.1 Standard application form for wholesale dealer's licence (WL) to act as a wholesaler of or distributor 
+of medicines and/or scheduled substances is available from the Office of the Chief Executive Officer 
+of SAHPRA or from the SAHPRA website www.sahpra.org.za 
+6.2 An application for WL should be accompanied by the prescribed application fee (see the gazetted 
+published fees in the SAHPRA website) and in the case of a new Wholesaler an additional inspection 
+fee will be required. The Applicant shall provide acceptable documentation proof obtained from the 
+following institutions: 
+6.2.1 
+The SA Pharmacy Council, of: 
+• 
+The particulars of the owner of the business, which includes the Certificate of recording 
+of a Pharmacy Owner 
+• 
+The registration of the responsible pharmacist 
+• 
+Certificate of recording of a Pharmacy. 
+6.2.2 
+The Director-General of Health: 
+• 
+A licence for the premises wherein or from which such business shall be carried on. 
+NOTE: All wholesalers in operation prior to 2 May 2003 are deemed to have a premises licence 
+6.2.3 
+Additional documents required: 
+• 
+Cover Letter -Which explains the reason for the application and type, i.e., whether it is a 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 8 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+NEW/RENEWAL/AMENDMENT application. 
+• 
+CIPC/CIPRO/DTI CERTIFICATES OR DOCUMENTS proving ownership of the business  
+6.3 The application for WL should include the qualification of staff to store, distribute and sell medicines 
+or scheduled substances and should be able to comply with good wholesale / distribution practices 
+as determined by SAHPRA. 
+6.4 The application for the WL should have a Site Master File document (guideline found in the SAHPRA 
+website www.sahpra.org.za) attached to it. This Site Master File document should include: 
+• 
+A copy of the local area plan of the location of the business premises indicating all adjacent 
+properties and the nature of the business being carried out, on such premises. 
+• 
+A floor plan of the building in which the business premises are situated 
+• 
+A plan of the actual layout of the business premises 
+• 
+An inventory of equipment to be used in conducting the business 
+• 
+A manual of procedures and practices to be implemented to ensure the safety, efficacy 
+and quality of medicines, or scheduled substances to be distributed and sold. 
+6.5 The application for the WL should specify whether the medicines or scheduled substances to be 
+distributed and sold. 
+6.6 The Authority (SAHPRA) will only issue a WL when it is satisfied, usually following an inspection of a 
+site by the designated Inspectors, that the information contained in the application is accurate and in 
+compliance with requirements of the legislation and good wholesale practices. 
+6.7 Where appropriate, SAHPRA may refuse to grant a licence. In such cases the CEO of SAHPRA will 
+notify the applicant to furnish The Authority with such additional documentation or information as 
+The Authority may require. The notification will set out the reason for the proposal and give the 
+applicant a reasonable period to respond. The applicant may make written representations. Before 
+making a final decision on its proposal The Authority will take the applicant's written representation 
+into consideration. 
+6.8 The legislative basis for the information required when applying for a WL may be found in the 
+Medicines Act. 
+6.8.1 
+Section 22C(1)(b) of the Act 101 of 1965 
+6.8.2 
+Regulation 23 of the regulations to the Act 101 of 1965 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 9 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+ 
+7. Wholesale Licence Holder’s Obligations 
+7.1 The standard provisions for wholesale licence (WL) require a licence holder to: 
+a. Provide and maintain suitable staff, premises, equipment, and facilities; 
+b. Provide information as requested by The Authority regarding the type and quantity of any 
+Medicines or scheduled substances which he/she currently handles, stores, or distributes;  
+c. Inform the Authority of any proposed structural alterations to or discontinuance of use of 
+premises to which the licence relates or which have been approved from time to time by SAHPRA; 
+d. Retain such transaction documents as are necessary to facilitate the withdrawal or recall of any 
+medicines or scheduled substances; 
+e. Permit SAHPRA to carry out inspections, take samples or copies of documents; 
+f. To have in place an emergency plan for the recall of medicines or scheduled substances; 
+g. To keep specified records and legal documents as required by the Medicines Act that are 
+available for inspection by SAHPRA for a period of five years after the date of receipt or dispatch; 
+h. To appoint and designate a Responsible Pharmacist under whose personal supervision all 
+activities take place; 
+i. 
+Appoint and designate a natural person who resides in the Republic who shall be responsible to 
+SAHPRA for compliance with the Act 101 of 1965; 
+j. 
+To obtain medicines or scheduled substances only from licensed manufacturers and/or approved 
+importers whose licences relate to those medicines or scheduled substances or from persons 
+who are exempt from holding such licenses; 
+k. Apply for the renewal of the license every 5 years at least 180 days before the expiry of the 
+existing licence. 
+8. Inspections (as stipulated by Section 28 of Act 101 of 1965 read together with 
+Regulation 23(3)) 
+8.1 The SAHPRA Inspectorate Unit's GWP Inspectors carry out regular and repeated inspection of 
+wholesale distribution sites. Inspections enable SAHPRA to confirm that licence holders are 
+complying with the conditions of their licences, with the provisions of the Medicines Act and with 
+Good Wholesaling Practice (GWP) / Good Distribution Practice (GDP).  
+8.2 Amongst other things, Inspectors are empowered to: 
+a. Enter any place or premises from which the owner is the holder of a licence to act as wholesaler 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 10 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+or distributor of medicines or scheduled substances; 
+b. Inspect the premises used in the storage and distribution of medicines or scheduled substances 
+and inspect any documentation or records relating to the storage and distribution of medicines 
+or scheduled substances;  
+c. Take samples; 
+d. Seize any book, record, documentation or medicine, scheduled substances. 
+It is required by legislation that licence holders shall make their premises available for inspection by 
+the Inspectorate at any reasonable time.  
+8.3 Following an inspection, the Inspector prepares a report of his findings. A letter is sent to the licence 
+applicant or holder noting any deficiencies found and asking for proposals to remedy them. In the 
+event of serious non-compliance with GWP/GDP, the report is referred to The Authority for formal 
+action, which can include the refusal, suspension or revoking of a licence. 
+9. Powers to Supsend or Revoke a Wholesale Licence (as per the provisions of 
+Section 22E of Act 101 of 1965) 
+9.1 The Authority may revoke or suspend a licence when a statutory condition of that licence is no 
+longer being met, or the licence holder does not comply with the Act 101 of 1965 or if the RP fails to 
+control the distribution of medicines and/or scheduled substances.  
+9.2 The Authority will give the licence holder notice of its removal intention to suspend or revoke the 
+licence. The licence holder will be given a notice period of not less than 20 days from the day of the 
+notice to respond and give reasons why such licence should not be removed revoked or suspended.  
+9.3 A licence holder or applicant may at any time within the period of 30 days from the date on which 
+the decision is served on him appeal to the Minister to question the validity of SAHPRA's decision as 
+per Section 24A of Act 101 of 1965. 
+10. Process to follow when a SAHPRA licensed site ceases to exist 
+If a SAHPRA licenced site ceases to exist due to any business conditions, the process outlined below shall be 
+followed: 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 11 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+10.1 
+The Company's CEO/MD together with the RP must write a letter in their company's letter head 
+addressed to the CEO of SAHPRA in not less than 30 days to the closure of the site as per 
+Regulation 23(9) of Act 101 of 1965. The letter must confirm to SAHPRA the proposed date of 
+closure. 
+10.2 
+The Company must confirm to SAHPRA that the intended closure has been communicated to 
+NDOH and to the SAPC. 
+10.3 
+The Company to return to SAHPRA the original licence with all its Annexures within 10days of 
+closure of the business. 
+11. Fees Payable 
+11.1 The Medicines and Related Substances Act 101 of 1965 introduced provisions in terms of 
+Section 35 (1) (xxxi) and (xxxii) read together with Section 35 (4) for the payment of fees for 
+licences, certificates, and inspections. The current fees legislation for medicines and scheduled 
+substances is contained in the Medicines Regulations as amended.  
+11.2 Fees are currently payable for the following: 
+a. Licence applications (new and amendment applications) 
+b. Licence renewal  
+c. Licence issue  
+d. Performance of inspections 
+An annual retention fee is also payable during the currency of a licence.  
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 12 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+11.3 A schedule of the current fees is available from the Office of the Chief Executive Officer of 
+SAHPRA or on the SAHPRA website at www.sahpra.org.za 
+11.4 When SAHPRA plans to make changes to the amount or frequency of fees, licence holders are 
+consulted and given the opportunity to comment on the new fee proposals. Details of the new 
+fees are published in the government gazette and on the South African Health Products 
+Regulatory Authority's website at www.sahpra.org.za 
+11.5 Application fees are non-refundable regardless of the outcome of the application (including 
+rejection, non-approval, unresolved or failure to respond to query rounds).  
+NB: During administrative screening and technical evaluation, the licensing unit may issue requests for 
+additional information or clarification where deficiencies are identified. The unit may allow up to two 
+(2) rounds of queries, at its discretion. Applicants are required to submit complete, accurate and 
+satisfactory responses to each query within the timelines specified. Where deficiencies remain 
+unresolved after the permitted query rounds, the application may not be recommended for approval, 
+and the review process may be terminated. 
+12. Application Processing Timelines 
+12.1 The licensing unit aims to: 
+a. Acknowledge receipt of applications which meet the minimum requirements within 2 business 
+days.  
+b. Finalise New Applications within 160 business days.  
+c. Finalise Renewal Applications: within 30 business days (reliant on provision of a valid resolution 
+letter by the company)  
+NB: Renewal applications must be submitted at least 180 days prior to the expiry of the licence.  
+d. Amendment Applications: within 30 business days (for administrative and technical amendments 
+not requiring an inspection)  
+NB: Technical amendments may warrant an inspection, incurring additional time to finalise the 
+application (Refer to guideline SAHPGL-LIC-03: Guideline on How to Amend a Current Licence). 
+e. Timelines for the processing and finalization of licensing applications are measured solely on the 
+time which an application is under active review by SAHPRA.  
+NB: Time during which an application is with a company (including periods awaiting responses, 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 13 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+corrective actions or readiness for an inspection) will be excluded. 
+12.2 Inspection scheduling and conduct: 
+a. New applicants are encouraged to request a pre-submission engagement with the SAHPRA Pharma 
+Licensing and Inspectorate units prior to submission of a licence application. The purpose of this 
+engagement is to facilitate alignment on inspection readiness and the appropriate timing for 
+submission of a licence application. 
+b. Proposed date of inspection: when proposing an inspection date with the application, the applicant 
+must consider that: 
+i. 
+Inspections are conducted once the company deems itself ready for an inspection. 
+ii. 
+Inspections are planned a quarter in advance. 
+c. Where an applicant is not inspection-ready on the agreed inspection date, the licence application 
+may be rejected. Fees associated with rejected and refused applications are non-refundable. 
+d. The licensing unit aims to provide a regulatory decision within 30 business days after receiving an 
+inspection resolution letter. 
+13. Contact Details 
+Refer to SAHPRA website: https://www.sahpra.org.za/key-contacts/ and  
+https://www.sahpra.org.za/inspectorate-and-regulatory-compliance/ 
+14. REFERENCES 
+The following related documents are referenced: 
+Related Legislation 
+• 
+Medicines and Related Substances Act 101 of 1965 as amended 
+• 
+Pharmacy Act No. 53 of 1974 as amended 
+• 
+Health Professions Act No.56 of 1974, as amended (HPA). 
+• 
+National Health Act No 61 of 2003, on human tissue. 
+• 
+Animal Diseases Act No 35 of 1984, on medicines with animal content 
+ 
+Related Guidelines 
+• 
+SAHPRA Guideline on how to amend a current licence 
+• 
+SAHPRA Guideline on Good Wholesaling Practices for Wholesalers 
+ 
+SAHPGL-LIC-02_Licence-to-Wholesale_Mar 26_v3 
+Page 14 of 14
+Guideline on how to apply for a licence to act as a Wholesaler of Medicines and Scheduled Substances 
+10 April 2026 
+ 
+ 
+15. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the 
+SAHPGL-LIC-02_v2. It will be reviewed on this timeframe or as and when required. 
+

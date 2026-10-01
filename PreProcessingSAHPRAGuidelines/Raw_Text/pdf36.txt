@@ -1,0 +1,872 @@
+SAHPGL-RDN-XR-27_v1 
+Page 1 of 20
+ 
+ 
+ 
+14 November 2025 
+GUIDELINE FOR USERS OF ULTRA-PORTABLE X-RAY EQUIPMENT 
+This guideline sets out requirements and recommendations for radiation safety associated with the use of ultra-portable diagnostic 
+X-ray equipment. It represents the South African Health Product Regulatory Authority’s (SAHPRA) current thinking on the safety, 
+efficacy, and quality of X-ray equipment. The Hazardous Substances Act, 1973 (Act 15 of 1973) and Regulations (No R1332 of 3 August 
+1973) govern the safe use of X-ray equipment in South Africa. The Medicines and Related Substances Act 101 of 1965 governs the 
+regulation of all medical devices in South Africa. 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue and implementation 
+14 November 2025 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL- RDN-XR-27_v1 
+Page 2 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 5 
+1.1 
+Purpose ...................................................................................................................................................... 5 
+1.2 
+Scope .......................................................................................................................................................... 5 
+1.3 
+Background................................................................................................................................................. 5 
+1.4 
+Definition of ultra-portable radiography ................................................................................................... 6 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 6 
+3. 
+GENERAL REQUIREMENTS .......................................................................................................................... 6 
+3.1 
+EU-Based Reliance Approach ..................................................................................................................... 6 
+3.1.1 Alignment with International Standards .................................................................................................... 7 
+3.1.2 Weight Variance Allowance ....................................................................................................................... 7 
+4. 
+REQUIREMENTS OF IMPORTERS AND DISTRIBUTORS OF UP-XR ............................................................... 7 
+4.1 
+Import Licensing ......................................................................................................................................... 7 
+4.1.1 Applicant Eligibility ..................................................................................................................................... 7 
+4.1.2 Application ................................................................................................................................................. 7 
+4.1.3 Required Documentation ........................................................................................................................... 8 
+4.1.4 Application Review and Approval .............................................................................................................. 8 
+4.2 
+Install and Use Licensing ............................................................................................................................ 8 
+4.2.1 Applicant Eligibility for Install and Use Licence .......................................................................................... 8 
+4.2.2 Application ................................................................................................................................................. 8 
+4.2.3 Application Review and Approval .............................................................................................................. 8 
+4.3 
+Post Approval Requirements ..................................................................................................................... 9 
+4.3.1 Post-Market Surveillance ........................................................................................................................... 9 
+4.3.2 Vigilance and Adverse Event Reporting ..................................................................................................... 9 
+5. 
+REQUIREMENTS OF UP-XR USE LICENSE HOLDERS .................................................................................... 9 
+5.1 
+Use Licensing .............................................................................................................................................. 9 
+5.1.1 Individual Equipment Record (IER)............................................................................................................. 9 
+5.1.2 Acceptance Testing .................................................................................................................................... 9 
+5.1.3 Review and Approval................................................................................................................................ 10 
+5.2 
+Quality Assurance ..................................................................................................................................... 10 
+SAHPGL- RDN-XR-27_v1 
+Page 3 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+5.3 
+Premises Requirements ........................................................................................................................... 10 
+5.4 
+Operator Requirements ........................................................................................................................... 10 
+5.4.1 Radiography ............................................................................................................................................. 10 
+5.4.2 Radiologist ................................................................................................................................................ 10 
+5.5 
+Radiation Worker Requirements ............................................................................................................. 11 
+5.6 
+Radiation Management ............................................................................................................................ 11 
+5.7 
+Record Keeping ........................................................................................................................................ 11 
+6. 
+ULTRA-PORTABLE X-RAY DEVICES WITH CAD SOFTWARE ....................................................................... 11 
+7. 
+VALIDITY ................................................................................................................................................... 11 
+8. 
+REFERENCES ............................................................................................................................................. 12 
+8.1 
+The following related documents are referenced ................................................................................... 12 
+8.2 
+Related Guidelines ................................................................................................................................... 12 
+9. 
+ANNEXURES .............................................................................................................................................. 13 
+Annexure 4: OPERATIONAL PROCEDURES FOR RADIATION SAFETY IN NON-DEDICATED SETTINGS ................ 15 
+1. SITE ESTABLISHMENT AND ASSESSMENT ....................................................................................................... 15 
+2. SAFETY PROCEDURES ..................................................................................................................................... 15 
+3. PERSONAL PROTECTIVE EQUIPMENT (PPE).................................................................................................... 16 
+4. RADIATION MONITORING .............................................................................................................................. 16 
+5. QUALITY CONTROL TESTING SCHEDULE ......................................................................................................... 16 
+6. EQUIPMENT CONSIDERATIONS ...................................................................................................................... 17 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL- RDN-XR-27_v1 
+Page 4 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Act 
+Hazardous Substances Act, 1973 (Act 15 of 1973) 
+ALARA 
+As Low as Reasonably Achievable 
+CE 
+Conformité Européenne 
+CAD 
+Computer Aided Detection 
+EU 
+European Union 
+HPCSA 
+Health Professions Council of South Africa 
+HSA 
+Hazardous Substances Act, 1973 (Act 15 of 1973) 
+IAEA 
+International Atomic Energy Agency 
+IER 
+Individual Equipment Record 
+kV 
+Kilo voltage 
+MDR 
+Medical Device Regulation (EU) 2017/745 
+MDD 
+Medical Device Directive 93/42/EEC 
+QA 
+Quality Assurance 
+QC 
+Quality Control 
+QMS 
+Quality Management System 
+PPE 
+Personal protective equipment 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SOP 
+Standard Operating Procedure 
+TB 
+Tuberculosis 
+UP-XR 
+Ultra-Portable X-Ray 
+WHO 
+World Health Organization 
+SAHPGL- RDN-XR-27_v1 
+Page 5 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+1. INTRODUCTION 
+This guideline sets out requirements for the importation and use of ultra-portable X-ray (UP-XR) and 
+recommendations for radiation safety associated with the use thereof. The document emphasises the 
+importance of radiation safety for UP-XR systems, while ensuring alignment with the World Health 
+Organization’s (WHO) and International Atomic Energy Agency (IAEA) principles of radiation protection.  
+Where a given technology or practice is not explicitly covered by this guideline, guidance in matters of radiation 
+protection should be sought from the South African Health Products Regulatory Authority’s (SAHPRA)’s 
+Radiation Control Unit. The licensee shall be responsible for ensuring that corrective action takes place on 
+items of non-compliance with this guideline. The Hazardous Substances Act (HSA) does not allow any person 
+to use radiation equipment unless he/she holds a license under the HSA for that purpose, while the Medicines 
+and Related Substances Act (MRSA) governs the regulation of all medical devices that enter South Africa. The 
+use of ultra-portable X-ray equipment without proper licensing is strictly prohibited and may result in legal 
+penalties. This guideline must be read in conjunction with the HSA, the MRSA, and related regulations. All 
+relevant forms and guidelines are available at: https://www.sahpra.org.za/radiation-control-guidelines-and-
+codes-of-practice/. 
+1.1 Purpose 
+The purpose of this guideline is to guide importers, distributors, and users of ultra-portable digital X-rays 
+(UP-XRs) to ensure the safe and effective use of the equipment for its intended purpose(s). 
+1.2 Scope 
+This guideline applies to all license holders of ultra-portable X-ray equipment in South Africa. It establishes 
+the regulatory framework for the importation, installation, and use of UP-XR equipment. The use of an 
+ultra-portable X-ray should be strictly justified for patients who cannot access a fixed X-ray unit due to their 
+location or clinical condition.  
+1.3 Background 
+Radiography plays a critical role in the screening and diagnosis of tuberculosis (TB) and other pulmonary 
+conditions in South Africa. The evolution of X-ray technology has progressed from analogue to digital systems, 
+with further advancements leading to mobile and ultra-portable solutions. 
+Ultra-portable X-ray systems offer significant advantages in terms of mobility, accessibility, and reduced 
+radiation exposure. Ultra-portable radiography systems differ from conventional fixed and mobile X-ray 
+SAHPGL- RDN-XR-27_v1 
+Page 6 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+systems in their reduced generator output power and intended use in non-dedicated settings, including field 
+and community environments. This necessitates a tailored regulatory approach that adequately addresses 
+safety and effectiveness, particularly regarding the unique questions posed to radiation safety and image 
+quality. As per the IAEA for any activity involving radiation exposure, the three general principles of radiation 
+protection are: justification, optimisation, and dose limitation. Therefore, the radiation exposure must have a 
+net overall benefit. 
+1.4 Definition of ultra-portable radiography 
+The WHO and the IAEA classify ultra-portable radiography systems as a sub-type of portable radiographic 
+digital equipment, defined as those “used in a variety of X-ray imaging applications to support out-of-hospital 
+infrastructure screening, diagnostic, and monitoring interventions, applications and campaigns”, including 
+adult and paediatric applications/interventions as appropriate. The permitted level of use includes dedicated 
+and non-dedicated settings, such as healthcare centres, temporary and/or emergency health centres, outreach 
+and field interventions (mobile clinics, screening campaigns, home care), and/or teleradiology solutions in 
+remote areas.   
+2. LEGAL PROVISION 
+The use of ultra-portable X-ray equipment in South Africa is governed by the: 
+- 
+Hazardous Substances Act 15 of 1973 
+- 
+Regulations R.1332 of 3 August 1973 
+- 
+Regulations R.1302 14 June 1991 
+- 
+Medicines and Related Substances Act 101 of 1965 
+- 
+Medical device regulations 
+3. GENERAL REQUIREMENTS 
+3.1 EU-Based Reliance Approach 
+In accordance with SAHPGL-BAU-01_v4 and SAHPGL-RDN-XR-24, this guideline establishes a reliance-based 
+regulatory pathway for the submission of ultra-portable chest radiography systems for market authorisation. 
+Importers/Dealers must ensure that their devices have obtained Conformité Européenne (CE) marking under 
+the European Union (EU)'s Medical Device Regulation (MDR 2017/745) or Medical Device Directorate (MDD 
+93/42/EEC), demonstrating compliance with all applicable EU requirements for safety and performance. 
+SAHPGL- RDN-XR-27_v1 
+Page 7 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+3.1.1 Alignment with International Standards 
+Ultra-portable radiography systems submitted for consideration by SAHPRA must further demonstrate 
+compliance with the minimum technical specifications of the WHO and IAEA (Annex 1). For the intended 
+purpose of chest X-rays system who do not comply with the technical specifications will be rejected. 
+3.1.2 Weight Variance Allowance 
+At the discretion of SAHPRA, the total system weight is permitted to vary by 5 kg over the permissible weight 
+specified by WHO-IAEA. As a result, the total system weight must be no greater than 35 kg, including all 
+essential components as defined in the minimum technical specifications. 
+4. REQUIREMENTS OF IMPORTERS AND DISTRIBUTORS OF UP-XR 
+4.1 Import Licensing 
+4.1.1 Applicant Eligibility 
+Entities applying to import UP-XR are required to: 
+ 
+Hold a Medical Device Establishment License as mandated by the Medicines and Related Substances 
+Act 101 of 1965 Section 22C and medical device regulations further detailed in guideline SAHPGL-MD-
+06_v3. 
+ 
+Comply with the requirements for the importation of ionising radiation-emitting devices as mandated 
+by the HSA and detailed per SAHPGL-RDN-XR-24. 
+ 
+Appoint an Authorised Representative with responsibilities defined in the regulations relating to 
+medical devices (Annexure 10).  
+4.1.2 Application 
+In accordance with SAHPGL-RDN-XR-24_v1, a Primary Importer is required for devices that are manufactured 
+internationally to be imported into South Africa. The Primary Importer must comply with the requirements 
+and regulations of SAHPGL-RDN-XR-24_v1 and ensure compliance with the HSA. 
+The Primary Importer must apply for an import license to SAHPRA in accordance with SAHPGL-RDN-XR-24_v1. 
+The application must be submitted to the following email address: import.xrays@sahpra.org.za. All required 
+documentation for import must be submitted within 50 working days to allow finalisation of the application. 
+SAHPGL- RDN-XR-27_v1 
+Page 8 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+4.1.3 Required Documentation 
+The documentation outlined in Section 3 of SAHPGL-RDN-XR-24_v1 must be submitted in support of the 
+application for an import licence. 
+Eligibility must be clearly demonstrated by ensuring: 
+• 
+Supporting documentation highlights compliance with the WHO-IAEA specifications  
+• 
+The submission of both the Notified Body Certificate and Declaration of Conformity to 
+demonstrate EU market authorisation. 
+4.1.4 Application Review and Approval 
+SAHPRA will review the application and may request additional information or clarification as necessary.  
+Upon approval, an Import Licence with conditions will be issued for the ultra-portable radiography system. 
+This allows the Primary Importer to bring the device into South Africa. Additional licenses must be secured for 
+installation and use. 
+4.2 Install and Use Licensing 
+4.2.1 Applicant Eligibility for Install and Use License 
+Prospective Licence Holders must apply in conjunction with an entity that holds a valid licence for the 
+installation and operation of other modalities of diagnostic X-ray equipment in dedicated settings. The existing 
+facility must be compliant with the Hazardous Substances Act, regulations and licence conditions, as well as 
+the Medicines and Related Substances Act (Act No. 101 of 1965, as amended).  
+4.2.2 Application 
+The Primary Importer must apply for an "Install and Use" license to SAHPRA, utilising the GLF-RDN-XR-02G 
+form. The ultra-portable nature of the equipment should be specified in the application, alongside justification 
+for use in non-dedicated settings. The intended purpose of the equipment must be clearly specified and must 
+not deviate from the manufacturer's labelling and instructions for use. 
+4.2.3 Application Review and Approval 
+SAHPRA will review the application and may request additional information or clarification as necessary.  
+SAHPGL- RDN-XR-27_v1 
+Page 9 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+Upon approval, an Install and Use license will be issued, allowing the installation of the ultra-portable 
+radiography unit. Subsequently, a 'Use Licence' must be obtained by entities responsible for equipment 
+operation. 
+4.3 Post Approval Requirements 
+4.3.1 Post-Market Surveillance 
+Equipment manufacturers and primary importers of ultra-portable radiography systems must align with the 
+post-market surveillance measures for diagnostic X-ray systems outlined in SAHPGL-MD-03 and SAHPGL-INSP-
+RC-01_v3 and additional requirements for ultra-portable X-ray systems specified in Annex 4.  
+4.3.2 Vigilance and Adverse Event Reporting 
+Equipment manufacturers and primary importers are required to record and report all adverse events 
+including investigations, root cause analysis, and corrective and preventative actions (CAPA) as outlined in 
+SAHPGL-MD-03_v4. 
+ 
+5. REQUIREMENTS OF UP-XR USE LICENCE HOLDERS 
+5.1 Use Licensing 
+As ultra-portable X-ray systems form part of medical X-ray equipment, all aspects of SAHPGL-RDN-XR-02_v1 
+apply. Refer to this guideline for all regulations, forms, and installation/disposal procedures for medical X-ray 
+equipment.  
+5.1.1 Individual Equipment Record (IER) 
+As per SAHPGL-RDN-XR-02_v1, the License Holder is required to establish an Individual Equipment Record (IER) 
+for all new units. The IER must contain all information stipulated in SAHPGL-RDN-XR-01_v1. 
+5.1.2 Acceptance Testing 
+ 
+Acceptance Testing by a SAHPRA-approved Inspection Body is required upon installation, before 
+obtaining a Use License.  
+ 
+Required tests are specified in SAHPGL-RDN-XR-01_v1 and following manufacturer-specific testing. 
+Annex 4 outlines the required tests for ultra-portable equipment. 
+ 
+Acceptance tests for radiation safety must be performed in both dedicated and non-dedicated 
+SAHPGL- RDN-XR-27_v1 
+Page 10 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+settings. 
+ 
+Results from acceptance tests must be recorded on the prescribed form and filed in the IER of the unit. 
+5.1.3 Review and Approval 
+If the results of Acceptance Tests meet the expected performance standard, for both dedicated and non-
+dedicated settings, a Use License will be granted by SAHPRA for the equipment. This license must be connected 
+to an existing facility which is already in possession of a licensed X-ray product. The use of ultra-portable 
+devices will become the responsibility of the license holder to ensure that they are properly used and at any 
+time SAHPRA may visit the facility and the license holder should know the whereabouts of the ultra-portable 
+devices for which they have licenses. 
+5.2 Quality Assurance 
+After obtaining the Use License, the Licence Holder must conduct quality assurance testing aligned with 
+SAHPGL-RDN-XR-01_v1 and any conditions that exist on their license.  
+Additional tests required for ultra-portable equipment are specified in Annex 4. Any specific tests indicated by 
+manufacturers must be included in the periodic quality assurance schedule for the unit. 
+5.3 Premises Requirements 
+The requirements for premises where UP-XR equipment is used shall comply with Section 3.6 of SAHPGL-RDN-
+XR-02_v1, with specific adaptations for non-dedicated settings as outlined in Annex 4. 
+5.4 Operator Requirements 
+5.4.1 Radiography 
+Radiographers are qualified operators as accredited by the Health Professions Council of South Africa 
+(HPCSA) and eligible to be appointed as responsible persons on behalf of a licence holder.  
+5.4.2 Radiologist 
+Radiologists are qualified medical specialists in radiology accredited by the HPCSA for reporting of images, 
+interpretation, and diagnosis. A radiologist is also eligible to be an operator and appointed as responsible 
+persons. 
+SAHPGL- RDN-XR-27_v1 
+Page 11 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+5.5 Radiation Worker Requirements 
+All radiation workers involved in the operation of UP-XR equipment must comply with the requirements 
+specified in Regulation R.1332 Section III.5-6 and Section 3.4 of SAHPGL-RDN-XR-02_v1, including appropriate 
+monitoring and training. 
+5.6 Radiation Management 
+Appropriate radiation management must be strictly adhered to in both dedicated and non-dedicated settings.  
+ 
+The management of radiation workers must be followed as described in SAHPGL-RDN-XR-02_v1. 
+ 
+Required radiation safety practices for non-dedicated settings are outlined in Annex 4 of this 
+document. 
+ 
+Any incident involving radiation overexposure, equipment malfunction, or accidental radiation 
+exposure 
+must 
+be 
+reported 
+immediately 
+to 
+SAHPRA’s 
+Radiation 
+Control 
+Unit 
+at 
+radcon.incidence@sahpra.org.za. 
+5.7 Record Keeping  
+ 
+IER and radiation worker records must be kept by the License Holder in accordance with SAHPGL-RDN-
+XR-02. 
+ 
+Records should be readily available for inspection during audits or investigations by Radiation Control. 
+The retention of patients’ records must be done in accordance with the HCPCSA guidelines Booklet 9. 
+ 
+ULTRA-PORTABLE X-RAY DEVICES WITH CAD SOFTWARE 
+Where CAD or AI software is used for interpreting chest radiographs from ultra-portable X-ray devices in TB 
+screening and triage, only software pre-qualified, or otherwise approved, by the WHO or certified by Stringent 
+Regulatory Authorities (SRA) or WHO-listed Authorities (WLA; eligible authorities listed previously) for this 
+specific indication shall be permitted. Implementation parameters and threshold configurations must align 
+with local epidemiological context and designated clinical pathways. This provision shall be it operationalised 
+in accordance with WHO’s Policy on CAD for TB Screening (Annexure 8) and SAHPRA’s regulatory requirements 
+of Artificial Intelligence and Machine Learning Enabled Medical Devices (Annexure 9). 
+6. VALIDITY 
+This guideline is valid for a period of five (5) years from the effective date of publication. It will be reviewed 
+within this timeframe or as and when required. 
+ 
+SAHPGL- RDN-XR-27_v1 
+Page 12 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+7. Acknowledgement 
+The South African Health Products Regulatory Authority (SAHPRA) and the National Department of Health 
+(NDoH), supported by the Clinton Health Access Initiative (CHAI) and the Gates Foundation, work together to 
+improve access to ultra-portable radiography systems. 
+8. REFERENCES 
+8.1 The following related documents are referenced 
+1. South 
+Africa, 
+1973. 
+ 
+Hazardous 
+Substances 
+Act, 
+1973 
+(Act 
+15 
+of 
+1973). 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/ 
+2. South Africa, 1973. Regulations Concerning the Control of Electronic Products. Regulation Gazette No. 
+1822 (Regulation R1332 of 1973). https://www.sahpra.org.za/radiation-control-acts-and-regulations/ 
+3. South Africa, 1965. Medicines and Related Substances Act, 1965 (Act 101 of 1965) as amended. 
+https://www.sahpra.org.za/acts/ 
+4. International 
+Atomic 
+Energy 
+Agency, 
+International 
+Safety 
+Standards. 
+https://www.iaea.org/resources/rpop/resources/international-safety-standards/justification-and-
+optimization  
+5. European Union, 2017. Regulation of the European Parliament and of the Council on Medical Devices 
+(Regulation 2017/745 of 2017). (MDR 2017/745) https://eur-lex.europa.eu/eli/reg/2017/745/oj/eng 
+6. European Union, 1993. Council Directive concerning Medical Devices (Council Directive 93/42/EEC of 
+1993). (MDD 93/42/EEC) https://eur-lex.europa.eu/eli/dir/1993/42/oj/eng 
+8.2 Related Guidelines 
+8.2.1 
+SAHPGL-MD-06: Guideline for a License to Manufacture, Import, Export, or Distribute Medical 
+Devices and IVDs 
+8.2.2 
+SAHPGL-RDN-XR-01: Quality Control Tests for Diagnostic X-ray Imaging Systems 
+8.2.3 
+SAHPGL-RDN-XR-02: Code of Practice for Users of Medical X-ray Equipment 
+8.2.4 
+SAHPGL-RDN-XR-11: Requirements for Radiation Shielding of Rooms 
+8.2.5 
+SAHPGL-RDN-XR-24: Guideline for Import Applications of Electronic Devices Emitting Ionising 
+Radiation 
+8.2.6 
+SAHPGL-BAU-01: Reliance Guideline 
+8.2.7 
+SAHPGL-INSP-RC-01_v3 – Guidelines for Post-Marketing Surveillance of Medicines and Health 
+Products 
+8.2.8 
+SAHPGL-MD-03_v4 – Guideline for Medical Device Adverse Event Reporting 
+SAHPGL- RDN-XR-27_v1 
+Page 13 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+ 
+ 
+ 
+9. ANNEXURES 
+Annexure 
+# 
+Title 
+Hyperlink 
+1 
+Minimum Technical Specifications for 
+Ultra-Portable X-Ray Equipment (WHO-
+IAEA) 
+https://iris.who.int/bitstream/handle/10
+665/344514/9789240033818-
+eng.pdf?sequence=1    
+2
+GLF-RDN-XR-02G – Application form for a 
+License to Install and Use an X-Ray Device 
+and Related Components 
+https://www.sahpra.org.za/wp-
+content/uploads/2023/02/GLF-RDN-XR-
+02G_v1-Application-form-for-a-Licence-
+to-Install-and-Use-an-X-Ray-Device-and-
+Related-Components-Old-RC-
+DEALER.docx  
+3
+GLF-RDN-XR-02B – Application for A 
+License to Use an X-ray Device 
+https://www.sahpra.org.za/wp-
+content/uploads/2022/06/GLF-RDN-XR-
+02B_v1-APPLICATION-FOR-A-LICENCE-TO-
+USE-AN-X-RAY-DEVICE-RC001-Form.docx  
+4 
+Operational procedures for radiation safety 
+in a non-dedicated setting  
+ 
+Includes as Annexure 4 
+5
+Template for Individual Equipment Record 
+(IER) 
+Refer to SAHPRA’s Guideline for QC in 
+Medical Diagnostic X-ray Imaging 
+Systems SAHPGL-RDN-XR-01 
+ 
+6
+Site Assessment Form (for non-dedicated 
+settings) 
+Included as annexure 6
+7 
+Incident Reporting Template 
+ 
+https://www.sahpra.org.za/docu
+ment/reporting-national-
+radiation-occurrences/ 
+ 
+https://www.sahpra.org.za/docu
+ment/guideline-for-radiation-
+monitoring-requirements-and-
+radiation-occurrences/  
+8 
+Use of computer-aided detection software 
+for tuberculosis screening: WHO policy 
+statement 
+ 
+https://www.who.int/publications/i/item
+/9789240110373  
+9
+Regulatory Requirements of Artificial 
+Intelligence and Machine Learning (AI/ML) 
+Enabled Medical Devices 
+https://www.sahpra.org.za/document/re
+gulatory-requirements-of-artificial-
+intelligence-and-machine-learning-ai-ml-
+enabled-medical-devices/  
+SAHPGL- RDN-XR-27_v1 
+Page 14 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+10 
+Regulations Relating to Medical Devices 
+and In-Vitro Diagnostic Medical Devices 
+(IVDs) 
+https://www.sahpra.org.za/document/re
+gulations-relating-to-medical-devices-
+and-in-vitro-diagnostic-medical-devices-
+ivds/  
+SAHPGL- RDN-XR-27_v1 
+Page 15 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+Annexure 4: OPERATIONAL PROCEDURES FOR RADIATION SAFETY IN NON-
+DEDICATED SETTINGS 
+This addendum provides essential operational procedures for establishing and maintaining radiation safety in 
+temporary X-ray facilities using UP-XR systems in non-dedicated settings. All procedures must comply with 
+SAHPRA regulations and be performed by qualified personnel that has adequate knowledge and experience in 
+the field of radiation protection and are registered with the HPCSA in one of the following categories: 
+radiography, radiology, or medical physics. 
+1. SITE ESTABLISHMENT AND ASSESSMENT 
+Site Selection Requirements: 
+ 
+Minimum clear radius: 10 meters in all directions from the UP-XR system 
+ 
+Complete physical survey documenting open space, terrain, proximity to public areas, and natural 
+barriers 
+ 
+Environmental assessment, including weather conditions, ground stability, and potential interference 
+sources 
+ 
+Documentation: Site Assessment Form (GLF-RDN-XR-02H) and simple site plan with UP-XR 
+placement and controlled zone boundaries 
+ 
+Approval: Responsible person must approve the site assessment; complex sites require Radiation 
+Protection Advisor (RPA) consultation 
+Demarcation: Use portable barriers, stakes with coloured tape, radiation warning signs, and physical barriers 
+where possible. 
+2. SAFETY PROCEDURES 
+Operator Safety: 
+ 
+Positioning: Stand as far as possible behind the X-ray tube, use a remote control when possible, or a 
+wired switch no less than 2m in length, or according to manufacturer specifications. Never stand in 
+the primary beam or hold the generator while operating. 
+ 
+PPE Requirements: Lead apron (min 0.25mm Pb equivalent), thyroid shield, consider lead glasses for 
+outdoor operations 
+ 
+Exposure Limits: With lead apron - may operate inside controlled area; without lead apron - remain 
+outside controlled zone 
+ 
+ 
+SAHPGL- RDN-XR-27_v1 
+Page 16 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+Patient Safety: 
+ 
+Provide clear instructions and proper positioning to minimise repeat exposures 
+ 
+Use appropriate exposure factors per established charts as available 
+ 
+Restrict X-ray beam to area of interest using collimation 
+ 
+Follow special procedures for pregnant patients and paediatric patients 
+Public Safety: 
+ 
+Exclusion: No public allowed in controlled zone during exposures (exceptions for essential caregivers 
+with PPE) 
+ 
+Waiting Areas: Establish at least 10 meters from the X-ray tube 
+ 
+Post-Examination: Remove barriers and conduct final survey when operations are complete 
+3. PERSONAL PROTECTIVE EQUIPMENT (PPE) 
+Required PPE: 
+ 
+Lead Aprons: Min 0.25mm Pb equivalent, wrap-around style for operators, appropriately sized 
+ 
+Thyroid Shields: Min 0.25mm Pb equivalent, required for all operators in non-dedicated settings 
+ 
+Lead Gloves: Min 0.25mm Pb equivalent when hands might be near primary beam 
+ 
+Lead Glasses: Min 0.5mm Pb equivalent with side protection, recommended for all operators 
+ 
+Portable Shields: Min 0.5mm Pb equivalent, 1.7m height when available and practical 
+4. RADIATION MONITORING 
+Personnel Monitoring 
+ 
+Dosimetry: All radiation workers are issued a personal dosimeter  
+Area Monitoring 
+ 
+Instruments: Calibrated survey meters suitable for UP-XR energy range and field conditions 
+ 
+Frequency:  
+o 
+<1-day sites: twice-daily surveys at setup and set down 
+o 
+1–3-day sites: daily surveys 
+o 
+<3-day sites: once at setup 
+ 
+Protocol: Conduct surveys during initial setup, verify controlled zone boundaries, document results 
+5. QUALITY CONTROL TESTING SCHEDULE 
+Daily Checks (Before First Use) 
+ 
+Battery testing (≥50% charge), visual inspection of all components 
+SAHPGL- RDN-XR-27_v1 
+Page 17 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+ 
+Check cords, exposure switch, laser positioning, field light, X-ray window 
+ 
+Verify PPE availability and condition, check image quality, and initialisation process 
+ 
+Confirm radiation warning signage and controlled area distances 
+Weekly/Monthly Checks 
+ 
+Weekly: Solar panel cleaning 
+ 
+Monthly: Solar panel output/capacity/charging tests, battery charger functionality 
+Quarterly Checks 
+ 
+Exposure time range, kV range, software version verification 
+ 
+Comprehensive performance evaluation by a qualified medical physicist 
+Six-Monthly Checks 
+ 
+Battery capacity assessment, full charge verification, visual battery inspection 
+ 
+Internal component inspection for damage, loose connections, oil leakage 
+Annual Checks 
+ 
+High temperature simulation (35-40°C), standardised phantom testing 
+ 
+WHO-IAEA parameter evaluation, leakage measurements, entrance skin dose assessment 
+ 
+Total radiation assessment, exposure limit verification, distance confirmation 
+6. EQUIPMENT CONSIDERATIONS 
+Environmental Protection: 
+ 
+Use protective covers during transport, shield electronics from sunlight 
+ 
+Protect against dust/moisture, consider wind stabilisation 
+ 
+Operating Limits: Temperature 5-45°C, Humidity 20-80% non-condensing 
+Battery Management: 
+ 
+Maintain multiple charged batteries, follow manufacturer temperature recommendations 
+ 
+Document performance and replacement schedule, consider solar charging for remote locations 
+Maintenance: 
+ 
+Follow manufacturer's maintenance schedule with additional checks for environmental damage 
+ 
+Clean external surfaces after each day of use, apply safety-related updates promptly 
+ 
+Use only authorised personnel for repairs, verify radiation safety after repairs 
+ 
+ 
+SAHPGL- RDN-XR-27_v1 
+Page 18 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+Annexure 6: ULTRA-PORTABLE X-RAY (UP-XR) OUTDOOR SITE ASSESSMENT FORM 
+Reference: Based on SAHPRA Guideline for Code of Practice for Radiation Safety of UP-XR Equipment 
+1. 
+Deployment Details (Site, Date, Operator) 
+Date of Survey:
+Time of Survey: 
+ 
+Responsible Operator: 
+ 
+Operator Contact #: 
+ 
+UP-XR System Model: 
+ 
+Serial Number: 
+ 
+Deployment Location 
+(Address/GPS: 
+ 
+Expected Workload (Exams/Day): 
+ 
+ 
+2. 
+Minimum Space & Physical Requirements (Section 4.1.2) 
+☐ Minimum Clear Radius: Is there a clear radius of ≥10 meters in all directions from the UP-XR placement?   
+☐ Overhead Obstructions: Are there any overhead obstructions that could interfere with equipment or 
+operations?  
+(If checked, STOP and reassess). 
+ ☐ Ground Stability: Is the ground surface level and stable for system and patient positioning? 
+ ☐ Proximity to Public: Is the proposed location far enough from high-traffic public areas (e.g., pathways, 
+markets)? 
+ ☐ Natural Barriers: Are natural barriers (e.g., large mounds, thick bushes) utilized to minimize public access? 
+ 
+ 
+SAHPGL- RDN-XR-27_v1 
+Page 19 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+ 
+ 
+3. 
+Controlled Zone Establishment (Section 4.2) 
+Maximum Exposure Factors Considered:  90 kV, 2.5 mAs  120 kV, 5.0 mAs (Use this unless lower factors are 
+justified) 
+Workload Adjustment (Section 4.2.4): 
+ ☐ Expected Workload ≤30 examinations/day (Use standard dimensions below). 
+ ☐ Expected Workload > 30 examinations/day (Increase dimensions by 50%). 
+Controlled Zone Demarcation & Dimensions (Based on 120 kV, 5.0 mAs standard)  
+☐ Controlled zone boundaries marked using portable barriers/tape/rope. 
+ ☐ Radiation warning signs displayed at all potential entry points. 
+ ☐ Dedicated staff member assigned to control access, OR operator ensuring no unauthorized entry. 
+ ☐ Distance check: Actual measured distance is greater than the required minimum: 
+Back (towards X-ray tube): ≥ 7.0m (Required minimum) 
+Sides (L/R of patient): ≥ 4.0m (Required minimum) 
+Front (opposite X-ray tube): ≥ 4.0m (Required minimum) 
+ 
+4. 
+Environmental Assessment & Equipment Protection 
+Environmental Factor 
+Status 
+(Yes/ No) 
+MiƟgaƟon/Comments 
+Adverse Weather (Rain/High Wind/Dust) is 
+forecast. 
+ 
+ 
+Ground is adequately dry and stable.
+ 
+ 
+Sun posiƟon avoids glare on display and paƟent 
+setup. 
+ 
+ 
+Equipment is protected from direct 
+sunlight/moisture (e.g., covers, canopy). 
+ 
+ 
+ 
+5. 
+Pre-Operational Checklist  
+☐ All operators are wearing personal dosimeters (worn under the lead apron). 
+☐ All required PPE (Lead Apron ≥ 0.25mm Pb Eq., Thyroid Shield) is available, inspected, and free from 
+damage/cracks. 
+SAHPGL- RDN-XR-27_v1 
+Page 20 of 20
+Guideline for users of ultra-portable X-ray equipment
+14 November 2025
+ 
+ 
+☐ Remote control or maximum available cable length will be used for exposure. 
+☐ Waiting area for the public is established ≥8 meters from the X-ray tube. 
+☐ Clear instructions and signage are available for patients and the public (local languages used). 
+☐ A minimum of one portable shield (≥0.5mm Pb Eq., ≥1.7m height) is available and positioned for operator 
+safety (if required). 
+6. 
+Site Approval and Sign-Off  
+Declaration: I, the undersigned, confirm that the site meets all minimum requirements for establishing a 
+temporary UP-XR facility, and that the required controlled and supervised areas have been established 
+according to the protocol. 
+Operator 
+ 
+Printed Name
+Date 
+ 
+Signature 
+ 
+ 
+ 
+Note: If RPA Consultation is required due to site complexity or workload exceeding 30 exams/day, the RPA 
+must sign above. 
+

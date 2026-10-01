@@ -1,0 +1,410 @@
+SAHPGL-RDN-RN-02_v2 
+Page 1 of 11
+ 
+ 
+1 February 2024 
+GUIDELINE ON THE ORGANISATIONAL REQUIREMENTS FOR 
+AUTHORITY HOLDERS AND THEIR APPOINTED RADIATION 
+PROTECTION OFFICERS   
+This guideline sets out the responsibilities of authority holders and their radiation protection officers with respect to activities 
+involving the use of radioactive sources (Group IV hazardous substances), as explained in the Hazardous Substances Act 15 of 1973.  
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue 
+ 
+May 2020 
+2 
+- 
+Content structured on the new SAHRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-RN-02 allocated to this 
+Guideline 
+January 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-RN-02_v2 
+Page 2 of 11
+Guidelines on Organisational Requirements for Authority Holders and Their Appointed Radiation 
+Protection Officers 
+1 February 2024 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+RADIATION PROTECTION OFFICER ............................................................................................................ 4 
+4. 
+DUTIES OF THE RADIATION PROTECTION OFFICER ................................................................................... 5 
+5. 
+CLASSIFICATION OF WORKERS .................................................................................................................. 5 
+6. 
+REGISTER.................................................................................................................................................... 6 
+7. 
+MEDICAL SURVEILLANCE ........................................................................................................................... 6 
+8. 
+REGISTER OF SEALED SOURCES ................................................................................................................. 6 
+9. 
+RADIATION WARNING SIGNS .................................................................................................................... 6 
+10. MONITORING AND CALIBRATION.............................................................................................................. 7 
+10.1 Monitoring of persons ............................................................................................................................... 7 
+10.2 Monitoring of controlled areas .................................................................................................................. 7 
+11. ACCIDENTS AND EMERGENCIES ................................................................................................................ 9 
+12. LIMITATION OF EXPOSURE TO RADIATION ............................................................................................. 10 
+13. CALIBRATION OF MONITORING EQUIPMENT ......................................................................................... 10 
+14. REFERENCES ............................................................................................................................................. 10 
+15. VALIDITY .................................................................................................................................................. 11 
+ 
+ 
+SAHPGL-RDN-RN-02_v2 
+Page 3 of 11
+Guidelines on Organisational Requirements for Authority Holders and Their Appointed Radiation 
+Protection Officers 
+1 February 2024 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ARPO 
+Acting radiation protection officer 
+HPCSA 
+Health Professions Council of South Africa 
+NECSA 
+The South African Nuclear Energy Corporation 
+NMISA 
+National Metrology Institute of South Africa 
+R247 
+R247: Regulations relating to Group IV hazardous substances, made in terms 
+of section 29 of the Hazardous Substances Act 15 of 1973 and published 
+under Government Notice R247 in Government Gazette 14596, dated 26 
+February 1993. 
+RPO 
+radiation protection officer 
+SABS 
+South African Bureau of Standards 
+ 
+SAHPGL-RDN-RN-02_v2 
+Page 4 of 11
+Guidelines on Organisational Requirements for Authority Holders and Their Appointed Radiation 
+Protection Officers 
+1 February 2024 
+ 
+ 
+1. 
+INTRODUCTION 
+Good radiation safety practice and the achievement of satisfactory working conditions depend on the effective 
+organisation of health physics and safety. The holder of the authority for the use of radioactive material is 
+responsible for the radiological safety of the workers in his operation and that of members of the public liable 
+to exposure as a result of the radioactive material. 
+1.1 
+Purpose 
+The purpose of this guideline is to assist the authority holders to comply with regulatory requirements that 
+deal with the organisational requirements, and their appointed radiation protection officers (RPO) in 
+respect of group IV hazardous substances. 
+1.2 
+Scope 
+The guideline provides regulatory requirements in relation to roles and responsibilities of the RPO which 
+include the organisational responsibility pertaining to medical surveillance, radiation signs, monitoring and 
+calibration, monitoring of controlled areas, limitation of exposure to radiation, registration of sealed 
+sources, to ensure compliance to the legislature governing the safety use of radioactive materials. 
+2. 
+LEGAL PROVISION 
+This guideline is based on R2471, an in particular Regulations 6 to 11.   See also Regulations 25 and 26. 
+3. 
+RADIATION PROTECTION OFFICER 
+A person with the necessary knowledge and experience must be appointed to accept, on behalf of the holder 
+of the authority, the responsibility for the safe use of all radioactive material under the holder’s control and to 
+observe any statutory requirements in connection with the use of radioactive material. An alternate for the 
+RPO, to whom the duties of the RPO may be delegated, must also be nominated. However, the authority holder 
+remains responsible for the entire extent of radiation protection with regard to any Group IV hazardous 
+substance in respect of which they hold an authority. (See Regulation 5 of R247.) 
+The RPO’s knowledge and experience in the field of radiation protection must be adequate, considering the 
+potential radiation hazards attached to the use of the radioactive material under his/her control. For example, 
+complex procedures involving unsealed sources of relatively high activity will require more knowledge and 
+ 
+1  Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of the Hazardous Substances 
+Act 15 of 1973 and published under Government Notice R247 in Government Gazette 14596, dated 26 February 
+1993. 
+SAHPGL-RDN-RN-02_v2 
+Page 5 of 11
+Guidelines on Organisational Requirements for Authority Holders and Their Appointed Radiation 
+Protection Officers 
+1 February 2024 
+ 
+ 
+experience than handling of equipment containing sealed sources that form an integral part of the equipment. 
+NOTE: It is recommended that the RPO attend appropriate courses in radiation protection. Whenever 
+necessary, the RPO should call for advice or assistance from professionally competent persons.  
+4. 
+DUTIES OF THE RADIATION PROTECTION OFFICER 
+The RPO must ensure the following: 
+(a) 
+New personnel are instructed in safe working practices and in the nature of the biological effect 
+resulting from overexposure to radiation. 
+(b) 
+Operational procedures are so established and maintained that the radiation exposure of each 
+worker is kept as far below the authorised limits as is practicable. 
+(c) 
+Each case of excessive or abnormal exposure is investigated to determine its cause, and steps are 
+taken to prevent reoccurrence. 
+(d) 
+Monitoring devices for personnel are used where required and the records are kept of the results of 
+such monitoring. 
+(e) 
+Adequate records are kept of all sources, indicating the locations of these sources or the name of the 
+person to whom they have been assigned. 
+(f) 
+Periodic radiation surveys are conducted where required and, if needed, records of such surveys are 
+kept, including descriptions of corrective measures. 
+(g) 
+All shields, containers and handling equipment are maintained in a satisfactory condition. 
+(h) 
+Periodic leak tests are performed on sealed sources. 
+5. 
+CLASSIFICATION OF WORKERS 
+Where persons are employed at institutions where radioactive material is used or at installations, it is 
+necessary to distinguish those persons who as a result of their duties are potentially liable to exposures in 
+excess of three tenths of the whole body annual effective dose limit for radiation workers. All such persons 
+must be classified as radiation workers, other workers must not be classified as such. 
+It is advisable to limit the number of radiation workers as far as practicable. Measures must be taken to ensure 
+that the exposure of non-radiation workers to radiation sources is kept to a minimum, but in any event the 
+exposure may not exceed the authorised limits. This can be achieved by limiting work with radioactive material 
+to controlled areas to which only radiation workers have access.  
+SAHPGL-RDN-RN-02_v2 
+Page 6 of 11
+Guidelines on Organisational Requirements for Authority Holders and Their Appointed Radiation 
+Protection Officers 
+1 February 2024 
+ 
+ 
+6. 
+REGISTER 
+The holder must compile, in respect of all radiation workers, a register that contains at least the following 
+information for each radiation worker: 
+(a) 
+results of pre-employment and routine medical examinations, 
+(b) 
+a record of effective doses and exposures recorded by personal pocket dosimeters, respectively, and 
+(c) 
+any other relevant information. 
+7. 
+MEDICAL SURVEILLANCE 
+Radiation workers must be medically examined before employment as radiation workers, and then in 
+accordance with regulation 15 of Government Gazette No. R247 promulgated on 26 February 1993. Medical 
+examinations may also be necessary in the event of over-exposure or of radiation incidents where the 
+possibility of over-exposure exists. 
+Only persons declared by a medical practitioner (e.g., registered with HPCSA) as being medically fit for radiation 
+work may be employed as radiation workers. 
+8. 
+REGISTER OF SEALED SOURCES 
+The holder must keep, in respect of all sealed sources register that contains at least the following 
+information: 
+(a) 
+the nuclide, activity, and date on which the activity was specified, 
+(b) 
+the date received, 
+(c) 
+the purpose for which the source is used, 
+(d) 
+particulars of leak test, and 
+(e) 
+particulars of disposal or discarding of the source. 
+9. 
+RADIATION WARNING SIGNS 
+Radiation warning signs must be displayed at all entrances, storage places, in areas where radioactive 
+sources are used or installed, and where persons could be exposed to ionising radiation. 
+A list of the names and telephone numbers of persons who can be called in case of an emergency must be 
+prominently displayed in the locations referred to above. 
+SAHPGL-RDN-RN-02_v2 
+Page 7 of 11
+Guidelines on Organisational Requirements for Authority Holders and Their Appointed Radiation 
+Protection Officers 
+1 February 2024 
+ 
+ 
+10. MONITORING AND CALIBRATION 
+10.1 Monitoring of persons 
+10.1.1 General 
+The monitoring of persons means routine measurements of the dose equivalents or persons exposed in the 
+course of their work to radiation from external sources and, where applicable, from internally deposited 
+radioactive material. Measurements of the latter will be required only where unsealed sources are used, or 
+where leakage of a sealed source has occurred, and where the possibility of ingestion of radioactive 
+material exists. Unless specifically exempted by the regulatory authority, all radiation workers must be 
+monitored to determine their dose equivalents due to radiation from external sources (see 10.1.2), but 
+guidance regarding the need for internal monitoring must be sought from the regulatory authority. 
+10.1.2 Monitoring for external sources of radiation 
+All radiation workers must be issued with personal dosimeters, in addition, when working under areas such 
+that the radiation workers are liable to an exposure from gamma radiation in excess of 200 µSv (20 mR) 
+during any one day, direct-reading dosimeters such as pocket dosimeters must also be issued to the 
+radiation workers. 
+NOTE: The purpose of the pocket dosimeter is for the worker to establish at intervals during the day the 
+rate at which he/she is exposed to radiation and to enable him/her, if necessary, to change working 
+procedures or working conditions to reduce radiation exposures. Pocket-dosimeters reading must be 
+recorded at the end of each working day and these recordings must be filled in the register at the end of 
+each week. This record can be an important source of information when incidents indicated by or over-
+exposures recorded on personal dosimeters are investigated at a later stage. 
+10.1.3 Monitoring for internally deposited radioactive material 
+Where unsealed sources are used, it may be necessary, in addition to taking personal dosimeter reading, 
+also to monitor for any ingestion of radioactive material. This may be done by whole body counting or by 
+analysis of body excretions, or both. The techniques involved are of a complicated and specialised nature 
+and it is advisable to consult the regulatory authority in this regard. Whole body counters are available at 
+most of the training hospitals located in the main centres. 
+10.2 Monitoring of controlled areas 
+10.2.1 General 
+A systematic program of monitoring of controlled areas must be established to ensure satisfactory working 
+SAHPGL-RDN-RN-02_v2 
+Page 8 of 11
+Guidelines on Organisational Requirements for Authority Holders and Their Appointed Radiation 
+Protection Officers 
+1 February 2024 
+ 
+ 
+conditions and working procedures and thereby limit the exposure of persons to radiation. The three types 
+of monitoring involved are: 
+(a) 
+The monitoring of radiation from radioactive sources (See 10.2.2); 
+(b) 
+The monitoring for surface contamination (See 10.2.3); 
+(c) 
+The monitoring for air contamination (See 10.2.4). 
+10.2.2 Monitoring of direct and scattered radiation from radioactive sources 
+All areas around radioactive sources where persons could be exposed to direct or scattered radiation (or 
+both) must be monitored. Adjoining areas or rooms and, where applicable, areas outside building must be 
+included as these could also be occupied. Monitoring must be conducted before the start of a project, 
+during its progress and after significant modifications to existing installations have been made. 
+Portable ionisation chambers, Geiger-Muller counters and scintillation counters may be used, as applicable. 
+In some cases, thermoluminescent dosimeters, film dosimeters or digital dosimeters mounted at strategic 
+places, could be used. 
+10.2.3 Monitoring for surface contamination (unsealed) 
+Every object used for work with unsealed radioactive material is subject to contamination. This includes 
+work surfaces, walls, floors, clothing and equipment. Contamination by radioactive substances on work 
+surfaces, clothing and equipment may be a significant hazard to health and may also interfere with the 
+work being carried out. 
+All areas where radioactive material has been used and all equipment that has been in contact with 
+radioactive material must be monitored systematically for contamination. Such monitoring must be 
+performed at least when the work has been completed and, if necessary, also at appropriate times during 
+work periods. Whenever they leave the work area, persons (and their clothing) must be monitored so that 
+the spread of contamination is prevented and contained. 
+The permitted levels of surface contamination as laid down by the Regulator are given in Table 1.  
+Monitoring may be performed with the aid of contamination monitoring instruments and by the taking of 
+smear samples. The instruments used must be suitable for the type of radiation emitted by the 
+radionuclides used, e.g., alpha emitters and soft beta emitters will make the use of alpha scintillation 
+monitors and thin end-window Geiger-Muller counters essential (see 10.2.5). 
+SAHPGL-RDN-RN-02_v2 
+Page 9 of 11
+Guidelines on Organisational Requirements for Authority Holders and Their Appointed Radiation 
+Protection Officers 
+1 February 2024 
+ 
+ 
+Table 1: Permitted levels of surface contamination 
+ 
+ 
+ 
+ 
+The measurement may be averaged over 100 cm2. 
+10.2.4 Monitoring for air contamination 
+In situation where radioactive gases, aerosols, powders or dust are handled or produced, the air must be 
+monitored for contamination. 
+Where it is possible that, notwithstanding filtration of air exhausted to the atmosphere, the activity 
+released might exceed levels set by the regulatory authority, a reliable system of air monitoring must be 
+employed. 
+NOTE: When aerosols are to be monitored, the airborne substances are caused to be deposited by 
+electrostatic precipitation, impactors or filtration. 
+Some radioactive gases can be monitored only after collection by chemical or other means. 
+10.2.5 Suitability of monitoring equipment 
+Monitoring equipment must be carefully selected to ensure it has an adequate response to the type of 
+radiation to be measured, and that the equipment exhibits a minimum energy dependence over the range 
+of energies concerned. For example, a monitor designed to measure high-energy from, for example, cobalt-
+60 or iridium-192 sources may well have a very poor response to lower energy radiation emitted by sources 
+such as americium-241, and iodine-125 and will probably not be acceptable of detecting beta radiation at 
+all. (Detection of the latter would require a thin end – window Geiger-Muller counter or a scintillation 
+monitor). 
+10.2.6 Recording of results 
+Records must be kept of the results of environmental monitoring and of significant events concerning 
+radiation protection. In investigations, such records will usually be the only available source of data. 
+11. ACCIDENTS AND EMERGENCIES 
+Any accidents in which workers have been over-exposed to or contaminated with radioactive materials, or in 
+which radioactive material has been spilled, need special action and the procedures set out in the authority 
+” Inactive area”, parts of the body, 
+clothes etc, 
+Active areas, protective 
+clothing, glassware etc. 
+Alpha emitters: 
+0.3 Bq/cm2 
+3 Bq/cm2 
+Beta/gamma emitters: 
+3 Bq/cm2 
+30 Bq/cm2 
+SAHPGL-RDN-RN-02_v2 
+Page 10 of 11
+Guidelines on Organisational Requirements for Authority Holders and Their Appointed Radiation 
+Protection Officers 
+1 February 2024 
+ 
+ 
+holder’s internal rules must be followed. Each accident must be reported without delay to the RPO who in 
+turn must report it to the regulatory authority, any accident involving radioactivity must be reported 
+immediately to the RPO. 
+12. LIMITATION OF EXPOSURE TO RADIATION 
+All exposure must be kept as low as is reasonably achievable, economic and social factors being taken into 
+consideration. The exposure must therefore be so optimised that a further reduction in exposure would not 
+be justified by the additional cost entailed. 
+The radiation dose to individuals must not exceed the effective dose limits laid down by the regulatory 
+authority. These effective dose limits must be viewed as upper limits and must not be interpreted as being 
+necessarily allowable. Furthermore, long-continued exposure of a considerable proportion of workers at or 
+near the dose limits would be acceptable only if a careful analysis has shown that the results, resulting higher 
+risk are justified. 
+It will be possible to achieve the above-mentioned goals only if all levels of contamination of work areas and 
+air concentrations of radionuclides are kept as low as is practicable. 
+13. CALIBRATION OF MONITORING EQUIPMENT 
+All equipment, including pocket dosimeters, used for the monitoring of radiation and contamination, must be 
+regularly tested, and calibrated by an institution approved for the purpose (e.g., NMISA, or the SABS and 
+NECSA), as required by the regulatory authority.  
+The equipment must be calibrated before being brough into use, after repair and at intervals not exceeding 
+the following: 
+(a) 7 months in the case of radiation monitors used for industrial radiography, 
+(b) 14 months in the case of radiation monitors used for purposes other than industrial radiography, and 
+(c) 26 months in the case of pocket dosimeters and direct reading dosimeters. 
+NOTE: It is even more important that monitors are checked as often as possible to ensure that their batteries 
+are adequate, and they respond positively to radiation. 
+14. REFERENCES 
+The following related documents are referenced: 
+SAHPGL-RDN-RN-02_v2 
+Page 11 of 11
+Guidelines on Organisational Requirements for Authority Holders and Their Appointed Radiation 
+Protection Officers 
+1 February 2024 
+ 
+ 
+14.1 The Hazardous Substances Act of 1973. 
+14.2 Regulations relating to Group IV Hazardous Substances, made in terms of section(s) 6 to 11, 25 and 
+26 of the Hazardous Substances Act 15 of 1973 and published under Government Notice R247 in 
+Government Gazette 14596, dated 26 February 1993 (R247). 
+15. VALIDITY 
+This guideline is valid for a period of five years from the effective date of revision. It will be reviewed on this 
+timeframe or as and when required.  
+

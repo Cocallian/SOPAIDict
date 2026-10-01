@@ -1,0 +1,641 @@
+Page 1 of 13
+SAHPGL-RDN-RN-12_v2 
+ 
+ 
+ 
+12 December 2022 
+GUIDELINE FOR REPORTING NATIONAL RADIATION 
+OCCURRENCES 
+The purpose of this guide is to provide clarity on the reporting of various types of radiation incidents, accidents and other unusual 
+radiation events that must be reported to SAHPRA Radiation Control through the office of the Radionuclides subunit. 
+ 
+It is the responsibility of all employees to ensure that any unusual or unexpected radiation event or exposure affecting themselves or 
+others is reported immediately to the Authority Holder and the RPO/ARPO, who then have a legal responsibility to notify Radiation 
+Control as appropriate. 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+1 
+First issue, industrial comments incorporated and published for 
+implementation 
+March 2018 
+2 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+Old guideline no. GLN-RN900 INCIDENT changed to unique document 
+number SAHPGL-RDN-RN-12 
+- 
+Form RN900 changed to GLF-RDN-RN-12A 
+December 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-RN-12_v2 
+Page 2 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 6 
+1.1 
+Purpose ...................................................................................................................................................... 6 
+1.2 
+Scope .......................................................................................................................................................... 6 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 6 
+3. 
+WHICH INCIDENTS OR ACCIDENTS TO REPORT.......................................................................................... 6 
+3.1 
+Lessons learned .......................................................................................................................................... 6 
+3.2 
+Incidents that cause or may lead to radiation injuries or radiation doses exceeding the annual dose .... 7 
+3.3 
+Medical exposure of patients involving use of radioactive sources .......................................................... 7 
+3.4 
+Loss or theft of radioactive sources or radiation apparatus containing radioactive sources .................... 8 
+3.5 
+Incidents related to transport of radioactive material .............................................................................. 8 
+3.6 
+Damage to, or malfunctioning of an apparatus containing or used with radionuclides ........................... 8 
+3.7 
+Contamination with, or dispersal of, a radioactive material ..................................................................... 8 
+3.8 
+Unintentional or unauthorised discharges of radioactive materials into the atmosphere or ................... 8 
+3.9 
+Unintended intake ...................................................................................................................................... 9 
+3.10 Radiation source out of control ................................................................................................................. 9 
+3.11 Emergencies / emergency exposure situations ......................................................................................... 9 
+3.12 Notification by medical practitioners and other persons .......................................................................... 9 
+3.13 Other incidents that, in the opinion of the Authority Holder, warrant reporting ..................................... 9 
+4. 
+REPORTING INCIDENTS/ACCIDENTS........................................................................................................... 9 
+4.1 
+Who should report incidents/accidents to SAHPRA Radiation Control? ................................................... 9 
+4.2 
+Reporting procedures............................................................................................................................... 10 
+4.2.1 Initial notification of radiation occurrence ............................................................................................... 10 
+4.2.2 Compiling an incident/accident report ..................................................................................................... 10 
+4.2.3 Estimation of the severity of the accidental exposure ............................................................................. 11 
+4.3 
+Confidentiality .......................................................................................................................................... 12 
+5. 
+DOSE LIMITS ............................................................................................................................................. 12 
+6. 
+REFERENCES ............................................................................................................................................. 13 
+7. 
+VALIDITY ................................................................................................................................................... 13 
+ 
+ 
+SAHPGL-RDN-RN-12_v2 
+Page 3 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+Glossary 
+Abbreviations and definitions 
+AMP 
+Acting medical physicist (applicable to radiation oncology and nuclear medicine facilities 
+only) 
+ARPO 
+Acting radiation protection officer 
+CATS 
+Crimes against the State – a unit within the South African Police Service (SAPS) 
+IAEA 
+International Atomic Energy Agency 
+INES 
+International Nuclear Event Scale 
+ITDB 
+Illicit Trafficking Database 
+MP 
+Medical physicist (applicable to radiation oncology and nuclear medicine facilities) 
+R247 
+Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of 
+the Hazardous Substances Act 15 of 1973 (HSA) and published under Government Notice 
+R247 in Government Gazette 14596, dated 26 February 1993. 
+RPA/RPS 
+Radiation protection adviser / Radiation protection specialist. 
+RPO 
+Radiation protection officer 
+ 
+Terms and definitions 
+Contamination 
+  
+(1) The presence of any radioactive substance on surfaces or within solids, liquids or 
+gases (including the human body) where it is unintended or undesirable, or 
+(2) any process giving rise to its presence in such places. 
+Contamination 
+incidents 
+o Minor contamination incident: An abnormal occurrence involving low amounts of 
+radioactive materials, where the worker handling the spill knows how to clean it up, 
+has the decontamination materials on hand, and can respond within a reasonably 
+short time without incurring a risk of exposure or spreading. 
+o Major contamination incident: An abnormal occurrence involving large amounts of 
+radioactive material, high-risk radionuclides, large contaminated areas, 
+contamination of the skin, airborne radioactivity, or any situation where the 
+contamination may have spread outside the authorised area. 
+Defence in 
+depth 
+The application of multiple independent protective measures for a given safety objective, 
+so that the objective is achieved even if one of the protective measures fails. 
+Emergency 
+A non-routine situation that necessitates prompt action, primarily to mitigate a hazard or 
+adverse consequences for human health and safety, quality of life, property or the 
+environment. This includes radiation emergencies as well as conventional emergencies 
+such as fires, release of hazardous chemicals, storms or earthquakes.  
+It also includes situations for which prompt action is warranted to mitigate the effects of 
+a perceived hazard. 
+SAHPGL-RDN-RN-12_v2 
+Page 4 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+Emergency 
+exposure 
+situation 
+A situation of exposure that arises as a result of an accident, a malicious act, error or any 
+other unexpected event, and requires prompt action in order to avoid or reduce adverse 
+consequences.  
+Medical 
+physicist 
+A health professional with specialist education and training in the concepts and 
+techniques of applying physics in medicine, who is competent to practise independently 
+in one or more of the subfields (specialties) of medical physics and is registered with the 
+HPCSA as a medical physicist. 
+Near miss 
+An unplanned event that could have caused unplanned radiation exposure or a release 
+or spill of radioactive material, but which did not, in fact, result in such exposure. Only a 
+fortunate break in the chain of events prevented injury, fatality or damage. In other 
+words, a miss that was nonetheless very near. A near miss could be due to human error, 
+faulty processes, system faults or a consequence of a sequence of actual events. 
+Radiation 
+generator 
+A device capable of generating ionising radiation such as X-rays, neutrons, electrons or 
+other charged particles, and which may be used for scientific, industrial or medical 
+purposes. 
+Radiation 
+incidents and 
+accidents 
+ 
+o Radiation incident:  Any unintended or ill-advised event, when using ionising 
+radiation apparatus or radioactive substances, which results in, or has the potential to 
+result in, the exposure of any person or the environment to radiation beyond the 
+levels normally expected for a particular practice. This includes events that result 
+from operator error, equipment failure, or the failure of management systems and 
+that warrant investigation. In the context of reporting and analysis of events, the 
+word incidents is used to describe events that are less severe than accidents.  
+o Radiation accident:  Any unintended event, including operating errors, equipment 
+failures or other mishaps, the consequences or potential consequences of which are 
+not negligible from the point of view of protection or safety. A radiation incident that 
+has led to significant consequences for people, the environment or the facility. 
+Radioactive 
+material 
+Material designated in national law or by a regulatory body as being subject to 
+regulatory control because of its radioactivity. 
+Radioactive 
+sources  
+ 
+o Sealed radioactive source: Radioactive material that is permanently sealed in a 
+capsule or closely bonded and in a solid form.  
+o Unsealed radioactive source: Radioactive material that is not permanently 
+encapsulated, but usually contained in a vial or generator, e.g. Mo-99/Tc-99m 
+generator. Unsealed sources can be in solid, liquid or gas form. (Note that 
+brachytherapy seeds are usually treated as unsealed sources.) 
+o Disused radioactive source: A radioactive source that is no longer used, and is not 
+intended to be used, for the practice for which an authorisation has been granted. 
+Note that a disused source may still present a radiological hazard. 
+o Orphan source: A radioactive source that is not under regulatory control, either 
+because it has never been under regulatory control or because it has been 
+abandoned, lost, misplaced, stolen, or otherwise transferred without proper 
+authorisation. 
+ 
+SAHPGL-RDN-RN-12_v2 
+Page 5 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+Radioactive 
+sources  
+(continued) 
+o Spent radioactive source: A radioactive source that is no longer suitable for its 
+intended purpose because of radioactive decay. (Also called a depleted source.) Note 
+that a spent source may still present a significant radiological hazard. Also note that, 
+in practice, many spent sources may no longer be usable because their encapsulation 
+has passed its recommended working life, or the equipment containing them is no 
+longer in use. 
+o Vulnerable radioactive source: A radioactive source that is not under adequate 
+control to ensure long-term safety and security, making it relatively easily for 
+unauthorised persons to acquire or relatively liable to become orphaned. 
+Radiation 
+Safety 
+The achievement of proper operating conditions, prevention of accidents or mitigation of 
+accident consequences, to ensure protection of workers, patients, the public and the 
+environment from undue radiation hazards. 
+Radiation 
+Security 
+The prevention or detection of, and response to, theft, sabotage, unauthorised access, 
+illegal transfer or other malicious acts involving radioactive substances or their 
+associated facilities. 
+Safety and 
+security 
+culture: 
+A safety culture is a set of characteristics and attitudes that drives organisations and 
+individuals to make protection and safety issues their top priority.  
+A security culture is characterised by beliefs, attitudes, behaviour and management 
+systems that lead to more effective security.  
+Safety and security share the common aim of protecting human life and health and the 
+environment. In both design and implementation, safety and security measures should 
+be integrated so that they do not interfere with or compromise one another. A dynamic 
+and effective safety and security culture should exist at all levels of the Authority 
+Holder’s staff and management. 
+ 
+ 
+SAHPGL-RDN-RN-12_v2 
+Page 6 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Radiation incidents, accidents and other unusual radiation events occur from time to time. According to the 
+Regulations (R247, February 1993) relating to Group IV Hazardous Substances, an Authority Holder who 
+becomes aware of such an occurrence must notify the Regulator (now SAHPRA Radiation Control) “forthwith”, 
+and the initial notification must be followed up by a written report within seven days (see 4.2 below for details). 
+1.1 
+Purpose 
+The purpose of this guide is to provide clarity on the reporting of various types of incidents that must be 
+reported to SAHPRA Radiation Control through the office of the Radionuclides Subunit. 
+1.2 
+Scope 
+The Authority Holder and the RPO/ ARPO have a legal responsibility to protect the health, safety and 
+welfare of their employees, radiation workers, the public, patients (where applicable) and the environment 
+through the management of radiation protection, radiation safety and security of all radioactive sources in 
+their authority. 
+It is the responsibility of all employees to ensure that any unusual or unexpected radiation event or 
+exposure affecting themselves or others is reported immediately to the Authority Holder and the RPO/ 
+ARPO, who then have a legal responsibility to notify Radiation Control as appropriate. 
+2. 
+LEGAL PROVISION 
+The Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of the Hazardous 
+Substances Act 15 of 1973 and published under Government Notice R247 in Government Gazette 14596, dated 
+26 February 1993 (R247) require an Authority Holder who becomes aware of a radiation occurrence to notify 
+the Regulator (now SAHPRA Radiation Control) “forthwith”, and the initial notification must be followed up by 
+a written report within seven days. 
+3. 
+WHICH INCIDENTS OR ACCIDENTS TO REPORT 
+The following types of incidents/ accidents must be reported to the Radionuclides Subunit of SAHPRA Radiation 
+Control: 
+3.1 
+Lessons learned 
+(a) 
+Any near miss (no actual exposure – see earlier definition) 
+(b) 
+Any unplanned event that caused unnecessary exposure to a radiation worker, member of the public 
+or patient, but caused no significant clinical harm to the person(s) concerned 
+SAHPGL-RDN-RN-12_v2 
+Page 7 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+(c) 
+Any unplanned alarming / concerning / notable event that should be communicated to other users 
+as a lesson learned. 
+3.2 
+Incidents that cause or may lead to radiation injuries or radiation doses exceeding the 
+annual dose limits1 to workers or members of the public  
+(a) 
+Note that situations where radiation injuries or high doses occur must be reported to the Radiation 
+Control as soon as possible, and certainly within 24 hours.2 “High doses” here are those exceeding 
+0.25 Sv whole body dose, 0.75 Gy organ dose, or 6 Gy skin dose. 
+(b) 
+Any inadvertent exposure greater than 1 mSv to a human embryo or foetus must be specifically noted 
+in the report. (This applies to radiation workers as well as members of the public.) 
+3.3 
+Medical exposure of patients involving use of radioactive sources 
+(a) 
+Any inadvertent exposure to the embryo or foetus while performing a radiological procedure 
+(b) 
+Administration of the wrong radionuclide, or to the wrong patient or the wrong tissue, or by the 
+wrong route 
+In nuclear medicine:  
+(c) 
+Any incident where the activity of the radionuclide administered differs from the activity prescribed 
+in the hospital/practice standard protocol for that test, and the difference is clinically significant  
+(d) 
+Any diagnostic procedure other than as prescribed by the medical practitioner  
+(e) 
+Any diagnostic procedure resulting in an observable acute radiation effect  
+(f) 
+The omission of an intended thyroid block before I-131 MIBG administration 
+In radiotherapy:  
+(g) 
+Any incident where the activity of a radionuclide administered differs from the prescribed activity, 
+and the difference between the actual and intended activities is clinically significant  
+(h) 
+During administration of a therapeutic dose of radiation from an apparatus containing a radioactive 
+source, any incident where the deviation of the delivered dose from the total prescribed treatment 
+dose is clinically significant. 
+Collection of information on incidents in the medical sphere:  The fundamental role of an incident 
+reporting system is to enhance patient safety by learning from mistakes. The Authority Holder is 
+encouraged to maintain regular monitoring and checking, with a good governance and risk management 
+ 
+1  See section 5 of this document. 
+2 ARPANSA 2011, National Directory for Radiation Protection, Radiation Protection Series No. 6, July 2011, p37. 
+SAHPGL-RDN-RN-12_v2 
+Page 8 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+system, clinical audits and quality assurance programmes. A recording system for these non-notifiable 
+radiation incidents is advisable, even though they are not reportable to Radiation Control. 
+3.4 
+Loss or theft of radioactive sources or radiation apparatus containing radioactive sources 
+Note section 4.2 (a) regarding reporting to SAPS CATS. 
+3.5 
+Incidents related to transport of radioactive material  
+(a)  
+Where a package is lost or misrouted during transport 
+(b)  
+Where a package is damaged during freight handling or transport  
+(c)  
+Where a package is transported without the required documentation or correct labelling 
+(d)  
+Where the package is contaminated or the radiation levels on the outside of the package exceed 
+those stated on the label 
+(e)  
+Where a transport package used (usually by a manufacturer or distributor of radioactive sources) 
+does not comply with international standards. 
+3.6 
+Damage to, or malfunctioning of an apparatus containing or used with radionuclides  
+Where the damage or malfunction could in any way affect the radiation safety of the apparatus, including 
+issues such as shielding integrity or causing increased radiation levels.  
+3.7 
+Contamination with, or dispersal of, a radioactive material 
+(a) 
+Any fixed skin contamination greater than 3 Bq/cm2 for α-emitters and 30 Bq/cm2 for β- and γ-
+emitters remaining after 24 hours.3  
+(b) 
+Where a surface, substance or material is contaminated by a radioactive substance resulting from 
+the spillage of more than 100 times the exempt activity of that substance specified in IAEA GS-R Part 
+34 Table I-1. 
+3.8 
+Unintentional or unauthorized discharges of radioactive materials into the atmosphere or 
+environment  
+When the unintentional or unauthorised activity discharged exceeds 100 times the exempt activity for that 
+radionuclide specified in IAEA GSR Part 3 Table I-1. 
+ 
+3  JSP392  Leaflet 14, s 18.4 
+4  https://www.iaea.org/publications/8930/radiation-protection-and-safety-of-radiation-sources-
+international-basic-safety-standards  
+SAHPGL-RDN-RN-12_v2 
+Page 9 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+3.9 
+Unintended intake  
+Unintended intake of radioactive material by ingestion, inhalation or a via contaminated wound. 
+3.10 Radiation source out of control  
+Situations where a radiation source is out of control. “Out of control” means, for example, that the source 
+is not safely secured or shielded, or contamination is not confined. It includes: 
+(a) 
+radioactive sources being in any unintended location or in scrap metal 
+(b) 
+sources being left unattended 
+(c) 
+unauthorised possession of radioactive sources 
+(d) 
+the discovery of orphan radioactive sources. 
+3.11 Emergencies / emergency exposure situations 
+Any emergency exposure or other emergency situation. For example, when there is a fire in a facility where 
+radioactive sources were used or stored, no material may be removed in clearing-up operations until the 
+sealed sources have been removed and/or the area has been surveyed for contamination. 
+Note that in an emergency exposure situation, the preservation of life takes precedence, though one must 
+try to limit contamination and exposure as far as realistically possible. 
+3.12 Notification by medical practitioners and other persons 
+Where a medical practitioner is of the opinion that a person has been exposed to ionising radiation to such 
+an extent that medical treatment is required or that the person needs to be removed from his or her 
+particular working conditions, the medical practitioner shall notify SAHPRA Radiation Control of the 
+situation.5  
+3.13 Other incidents that, in the opinion of the Authority Holder, warrant reporting  
+Some examples:  
+(a) 
+Potentially hazardous situations that could serve as a warning to other users 
+(b) 
+Triggering of radiation monitors at entrances to scrap-metal processing plants or landfill sites. 
+4. 
+REPORTING INCIDENTS/ACCIDENTS  
+4.1 
+Who should report incidents/accidents to SAHPRA Radiation Control? 
+(a) 
+The Authority Holder, RPO or ARPO, MP or AMP, or RPA. 
+ 
+5  R247 (February 1993) Regulation 19 
+SAHPGL-RDN-RN-12_v2 
+Page 10 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+(b) 
+Any staff member who becomes aware of an incident/ accident and suspects that it was not reported 
+to or by the manager/ RPO 
+(c) 
+Any patient or member of the public 
+(d) 
+Any person who becomes aware of an incident/ accident or a radioactive source out of control that 
+may lead to potential radiation exposure to any person or the environment 
+(e) 
+Occupational health and safety officers 
+(f) 
+Managers of scrap-metal processing plants. 
+A feature of a high safety and security culture is that every individual takes responsibility to report any 
+radiation incident/accident, regardless of whether it took place at his/her own facility or at any other facility 
+or location. The principle is that we all collectively contribute to the enhancement of safety and security in 
+our environment. 
+Note: Scrap-metal processors should not reject a consignment that contains a radioactive source, but rather 
+accept it and call for assistance to remove the source from the consignment. This is to prevent radioactive 
+sources being discarded elsewhere, where there may be a greater danger of exposing the public. 
+4.2 
+Reporting procedures 
+4.2.1 Initial notification of radiation occurrence  
+SAHPRA Radiation Control must be notified immediately of the radiation occurrence. The initial 
+notification may be done by telephone or e-mail; however, this must be followed as soon as reasonably 
+possible – and certainly within 7 days – by a completed notification form GLF-RDN-RN-12A (Old Form 
+RN9006). Staff of the Regulator may offer technical advice or access support services where needed. 
+In the event of theft, the case must also be reported at the nearest police station to obtain a case 
+number, which must be recorded on the Incident notification form GLF-RDN-RN-12A (Old Form RN900). 
+The local police must be alerted specifically that the case must be referred to the CATS (Crimes against 
+the State) unit for further investigation. 
+4.2.2 Compiling an incident/accident report 
+The initial radiation occurrence notification must be followed within seven days7 by an incident/accident 
+report giving a detailed description of the event, preferably on form GLF-RDN-XR-12A (Old Form RN900). 
+Where a company or hospital is already using reporting form that is at least as a clear and detailed as 
+ 
+6  Incident notification form, available from www.sahpra.org.za (HEALTH PRODUCTS tab). 
+7  R247 (February 1993) Regulation 16 
+SAHPGL-RDN-RN-12_v2 
+Page 11 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+the GLF-RDN-RN-12A (Old Form RN900), that may be acceptable, at the discretion of Radiation Control. 
+The report must contain, as a minimum, the following headings and information, as applicable to the 
+occurrence:  
+o Introduction  
+o Date and time of the radiation occurrence  
+o Site and/or situation description (including source information, number of persons involved, their 
+work routine and duties performed at the time, and their contact details, doses, etc)  
+o Event description (sequence of events including adherence to working procedures, communication 
+to stakeholders, etc.) 
+o Estimation of severity of the event  
+o Immediate consequences and urgent corrective measures taken to lessen consequences 
+o Long-term consequences 
+o Number of persons affected, including a description of the effects as well as methods to determine 
+the effective dose(s), treatment and/or corrective measures taken 
+o Quantities of radionuclides involved  
+o Results of radiation monitoring or surveys or records (including make, model and date of calibration 
+of instruments, as appropriate) 
+o Readings on personal dosimeters (TLDs) or electronic pocket dosimeters (EPDs) 
+o Root cause analysis 
+o Summary of local orders, work procedures, safety documents, equipment manuals, maintenance 
+programmes 
+o Discussion  
+o Suggested remedial action, including communication to stakeholders, if applicable 
+o Conclusion.  
+4.2.3 Estimation of the severity of the accidental exposure 
+The severity of the accidental exposure is determined by: 
+o the type of radiation (α, β, γ radiation, neutrons; sealed or unsealed sources; external and/or 
+internal exposure)  
+o the number of persons involved 
+o the time spent close to the source 
+o the distance from the source 
+o the direction of the beam (if it was a collimated source) 
+SAHPGL-RDN-RN-12_v2 
+Page 12 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+o the shielding. 
+4.3 
+Confidentiality 
+(a) 
+A person who carries out or assists with an investigation related to patients shall keep confidentiality 
+in respect of all facts which come to his or her notice in the performance of his or her functions and 
+shall not disclose any such information to any person except the Authority Holder, RPO and staff of 
+the Regulator. Information contained in reports shall be kept confidential. 
+(b) 
+No personal particulars regarding a patient shall be disclosed to any person except by order of a 
+court.  
+5. 
+DOSE LIMITS 
+ 
+Occupational  
+dose limits 
+Public  
+dose limits 
+Effective dose                   20 mSv per year, averaged over five years, and 
+not more than 50 mSv in any one year 
+* 1 mSv  
+per year 
+ 
+Annual equivalent 
+dose to the: 
+ 
+ 
+ 
+eye (lens)8 
+20 mSv 
+1 mSv 
+ 
+skin 
+500 mSv 
+50 mSv 
+ 
+hands and feet 
+500 mSv 
+- 
+*   In exceptional cases, this limit may be exceeded, provided that the average over five years 
+remains less than 1 mSv per year. 
+Note:  Limits for pregnant radiation workers 
+Additional restrictions to the above occupational dose limits apply in the case of pregnant women. 
+When pregnancy has been diagnosed, the embryo/foetus must be protected by applying a 
+supplementary equivalent dose limit of 2 mSv to the surface of the woman’s abdomen (lower trunk) 
+for the remainder of the pregnancy. 
+The embryo/foetus is recognised as a member of the public and is therefore subject to the dose 
+limit of 1 mSv. However, where the mother is a radiation worker, the standard practice is to use a 
+ 
+8  The dose limits for the lens of the eye are in line with the recommendations in ICRU Publication 103.  
+These limits are lower than in Annexure 2 to R247. 
+ 
+SAHPGL-RDN-RN-12_v2 
+Page 13 of 13
+Guideline for Reporting National Radiation Occurrences 
+12 December 2022 
+ 
+ 
+limit of 2 mSv on the surface of her abdomen, rather than 1 mSv to the foetus, since it is easy to 
+measure the dose to the woman’s abdomen with an EPD. 
+When a female radiation worker informs the Authority Holder that she is pregnant, she shall be 
+removed from any duties that put the embryo/foetus at risk of being exposed to radiation doses 
+that could exceed the annual dose limit. Refer to Regulations R247 of 1993, Section 14 (3)(a). 
+6. 
+REFERENCES 
+The following related documents are referenced: 
+6.1 
+ARPANSA (Australian Radiation Protection and Nuclear Safety Agency). 2011. National Directory for 
+Radiation Protection.  Radiation Protection Series No. 6. 
+6.2 
+IAEA (International Atomic Energy Agency). 2011. IAEA Safety Standards. General Safety 
+Requirements Part 3. No. GSR Part 3 (Interim). 
+6.3 
+JSP392 – see United Kingdom Ministry of Defence. 2011. 
+6.4 
+R247 – see South Africa. 1993. 
+6.5 
+South Africa. 1973. Hazardous Substances Act, No.15 of 1973. Pretoria: Government Printer. 
+6.6 
+South Africa. 1993. Regulations relating to Group IV Hazardous Substances. Published under 
+Government Notice R247 in Government Gazette 14596 of 26 February 1993: Regulations 16, 19, 24, 
+25, 29.  
+6.7 
+United Kingdom Ministry of Defence. 2011. JSP 392: Radiation Safety Handbook Volume 2. Leaflet 
+14: Investigation, notification and reporting of unusual radiation events (revised Mar09) . Available 
+online 
+from 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/27797/Leaflet14
+ReportingMar09.pdf  
+7. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old Guideline 
+for Reporting Radiation Occurrences (GLN-RN900 INCIDENT), revised March 2018. It will be reviewed on this 
+timeframe or as and when required. 
+

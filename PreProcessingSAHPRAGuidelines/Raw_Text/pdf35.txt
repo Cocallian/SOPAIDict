@@ -1,0 +1,1073 @@
+SAHPGL-PEM-BIO-02_v5
+Page 1 of 29
+1 2 
+ N o v e m b e r 
+ 2 0 2 5 
+B I O S I M I L A R 
+ M E D I C I N E 
+ Q U A L I T Y , 
+ N O N - C L I N I C A L 
+ A N D 
+ C L I N I C A L 
+ 
+R E Q U I R E M E N T S 
+ 
+This guideline document is intended to provide recommendations to applicants wishing to submit applications for the registration
+of biosimilar medicines. It represents the South African Health Product Regulatory Authority’s (SAHPRA) current thinking on the
+safety, quality, and efficacy of medicines. It is not intended as an exclusive approach. SAHPRA reserves the right to request any
+additional information to establish the safety, quality, and efficacy of a medicine in keeping with the knowledge current at the time
+of evaluation. Alternative approaches may be used but these should be scientifically and technically justified. SAHPRA is committed
+to ensure that all registered medicines will be of the required quality, safety, and efficacy. It is important that applicants adhere to
+all the administrative requirements to avoid delays in the processing and evaluation of applications. Guidelines and application
+forms are available from the Office of the Chief Executive Officer and on the SAHPRA website.
+Document History
+Final
+Version
+Reason for Amendment
+Effective Date
+1
+Version 1: First publication released for comment
+January 2010
+Published for comment
+April 2010
+Deadline for comment
+15 July 2010
+2
+Finalised version for Implementation
+March 2012
+3
+Published for comment
+November 2013
+Deadline for comment (extended to 31 March 2014)
+31 January 2014
+4
+Finalised version for Implementation
+August 2014
+5
+Template update and changes to interchangeability statement
+January 2025
+Published for comment
+July 2025
+Finalised version for Implementation
+November 2025
+DR BOITUMELO SEMETE-MAKOKOTLELA
+CHIEF EXECUTIVE OFFICER
+Page 2 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+Contents
+Document History..................................................................................................................................... 1
+Glossary....................................................................................................................................................6
+2.
+INTRODUCTION................................................................................................................................. 9
+2.1 Purpose........................................................................................................................................... 10
+2.2 Scope...............................................................................................................................................10
+3.
+LEGAL PROVISION............................................................................................................................10
+4.
+QUALITY, NON-CLINICAL AND CLINICAL DATA..................................................................................11
+4.1. QUALITY AND NON-CLINICAL DATA.................................................................................................. 11
+4.1.1. Pharmaceutical Quality..................................................................................................................12
+4.1.2.
+In vitro biological studies........................................................................................................ 13
+4.1.3.
+Non-clinical (animal) studies...................................................................................................14
+4.2. CLINICAL DATA................................................................................................................................ 15
+5.
+REFERENCES.................................................................................................................................... 23
+6.
+VALIDITY..........................................................................................................................................24
+ANNEXURE 1: Product Class Specific for Monoclonal Antibodies............................................................. 25
+10
+REFERENCES.................................................................................................................................... 32
+Page 3 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+Glossary
+Some of the definitions below were modified (compared to those provided in other documents) to
+reflect the meanings as used in this guidance.
+Abbreviation/ 
+Terms
+Meaning
+CTD
+Common Technical Document
+DNA
+Deoxyribonucleic acid
+EMA
+European Medicines Agency
+SAHPRA
+South African Health Products Regulatory Authority
+GMP
+Good Manufacturing Practice - as defined in the current version of the Guideline to 
+Good Manufacturing Practice for Medicines
+Equivalence trial
+An equivalence clinical trial is conducted to demonstrate that there is no clinically 
+significant difference between a standard and an experimental treatment. The specified
+differences between the efficacies of the two treatments are shown to be no more 
+than some pre-specified margin 7.11.
+Immunogenicity
+The ability of a substance to trigger an immune response or reaction (e.g. development 
+of specific antibodies, T cell response, allergic or anaphylactic reaction) following 
+administration to an animal or human.
+Non-inferiority 
+trial
+Not inferior to a comparator in the parameter studied. A non-inferiority clinical trial is 
+one which has the primary objective of showing that the response to the investigational
+product is not clinically inferior to a comparator by a pre-specified margin 7.11.
+Originator 
+medicine 
+This is the innovator product - a medicine which has been licensed by a National 
+Regulatory Authority which SAHPRA aligns itself with on the basis of a full registration 
+dossier, i.e. the approved indication(s) for use were granted on the basis of full quality, 
+efficacy and safety data.
+PD
+Pharmacodynamic – the biochemical and physiological effects of drugs on the body and
+the mechanisms of drug action and the relationship between drug concentration and 
+effect.
+PK
+Pharmacokinetic – the study of the mechanisms of absorption and distribution of an 
+administered drug, the rate at which a drug action begins and the duration of the 
+Page 4 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+effect, the chemical changes of the substance in the body and the effects and routes of 
+excretion of the metabolites of the drug.
+Biological 
+Medicine
+These are medicines that contain a living organism or are derived from a living
+organism or biological processes. They include, but are not limited to the
+following: 
+
+Plasma-derived
+and
+animal
+products
+-
+e.g.,
+clotting
+factors,
+immunosera, antivenoms; 
+
+ Vaccines;
+
+Biotechnology-derived medicines (recombinant DNA products) - e.g.
+rHu-anti-haemophilic
+factors,
+hormones,
+cytokines,
+enzymes,
+monoclonal antibodies, erythropoietins, and nucleic acids;
+
+ Products developed for human gene therapy.
+Well-characterised, low-molecular mass, medicinal biological compounds, may
+be excluded by specific regulatory decision from the biological medicine status,
+and in that case, will not be reviewed through the biological medicines review
+process.
+Biosimilar or 
+Biosimilar 
+medicine 
+This is synonymous with follow-on biologics and similar biotherapeutic
+products (SBP). A biosimilar application is for a biological medicine that is
+similar, but not necessarily identical, in terms of quality, safety and efficacy to
+an already registered reference biological medicine.
+Reference 
+substance
+The active ingredient from the reference medicine that will be used in
+comparisons of physico-chemical characterisation, and other properties, of the
+biosimilar.
+Reference 
+medicine 
+The comparator for head-to-head comparability studies with the biosimilar
+product to show similarity in terms of quality, safety and efficacy. It is the
+originator medicine (innovator product).
+Only an innovator product that was registered by SAHPRA in South Africa on
+the basis of safety, efficacy and quality can serve as a reference medicine.
+The reference product that is registered in South Africa must be sourced from
+a country that SAHPRA aligns itself with.
+Page 5 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+It
+does
+not
+refer
+to
+measurement
+standards
+such
+as
+international,
+pharmacopeial, or national standards or reference standards.
+Similar
+This is the absence of a relevant (or significant) difference in the parameter of
+interest.
+Substitution
+Practice of replacing one product for another at the pharmacy-level without
+seeking the approval of the prescriber
+Interchangeable
+medicine 
+Means medicines that contain the same active substances which are identical
+in strength or concentration, dosage form and route of administration and
+meet the same or comparable standards, which comply with the requirements
+for therapeutic equivalence as prescribed;
+Page 6 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+1.
+PREAMBLE
+Biological medicines that are manufactured to be similar to registered originator medicines (unlike generic
+pharmaceutical medicines, which are identical) are known as Biosimilar.
+The SAHPRA practices for the registration of multisource “generic” pharmaceutical medicines do not apply to
+biological medicines. This guideline document outlines the specific information required for the registration of
+biosimilar medicines. These types of biological medicines are similar to a reference product already registered
+in South Africa.
+2.
+INTRODUCTION
+It is the policy of SAHPRA that all medicines containing or derived from living materials, including biosimilar 
+medicines, are regarded as Biological Medicines and that applications for registration will require primary 
+evaluation by the Biological Medicines Committee, in addition to other committees of SAHPRA. This guideline
+is aligned with that of EMA ICH Biotechnological/biological products subject to changes in their 
+manufacturing process: comparability of biotechnological/biological products – Scientific guideline and 
+should be read in conjunction with the EMA guidelines listed under section 5.
+If the new product is claimed to be similar in terms of quality, safety and efficacy to a reference medicine that
+has been registered in South Africa, the applicant may submit an application for the registration of a biosimilar
+medicine according to this guideline document.
+The information requirements for a biosimilar application primarily include defined requirements for
+physico-chemical and biological comparability and reduced non-clinical and clinical evidence for safety and
+efficacy as outlined in this guideline document.
+The original registered reference medicine is manufactured and controlled according to non-public proprietary
+methods that are not available to a “follow-on” developer; therefore, it is necessary that the applicant for a
+biosimilar medicine (that may use alternative production technologies) provide evidence that the biosimilar is
+indeed similar in quality, safety and efficacy to the registered medicine used as a reference product.
+If similarity cannot be demonstrated, the products cannot be considered to be biosimilar, and a full clinical
+submission application is required.
+An appropriate comparability exercise is required to demonstrate that the biosimilar and the reference
+medicinal products have similar profiles in terms of physico-chemical properties, quality, safety, and efficacy.
+Page 7 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+This guideline document outlines the quality, non-clinical and clinical requirements for biosimilar medicines.
+The quality section addresses the physico-chemical structural and functional requirements. The non-clinical
+section addresses the pharmaco-toxicological assessments. The clinical section addresses the requirements
+for pharmacokinetic, pharmacodynamic, safety and efficacy studies as well as pharmaco-toxicological
+assessments with special emphasis on studying the immunogenicity of biosimilar medicines. The section on
+pharmacovigilance addresses the in-use safety of the medicine as well as the risk management plan.
+Product class-specific annexes will supplement this guideline document where a need is identified.
+2.1 Purpose
+This guideline document is intended to provide recommendations to applicants wishing to submit applications
+for the registration of biosimilar medicines. It represents SAHPRA's current thinking on the safety, quality, and
+efficacy of medicines. It is not intended as an exclusive approach.
+2.2 Scope
+This guideline document is applicable to biological medicines containing well-characterised
+recombinant DNA-derived therapeutic proteins that can be shown to be similar to a biological
+medicine registered in South Africa. Vaccines, even if manufactured by recombinant DNA technology
+are excluded from the scope of this document (whereas requirements for monoclonal antibodies are
+outlined in Annexure 1).
+This guideline document also does not address the comparability exercise required for changes
+introduced in the manufacturing process of a registered product; that is, changes during
+development and post-registration. These issues are covered in the current SAHPRA Amendments
+guideline.
+An application for a biosimilar medicine that uses as reference a registered medicine classified as a
+pharmaceutical by SAHPRA is not exempt from this guideline document and should be submitted as
+described herein. SAHPRA may decide to waive some, or all the requirements based on the
+circumstances and nature of the product comparability exercise.
+This guideline document should be read in conjunction with all relevant current guidelines pertaining
+to medicinal products. See website www.sahpra.org.za
+Page 8 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+3.
+LEGAL PROVISION
+Medicines and Related Substances Act, 101 of 1965, as amended and the relevant Regulations.
+4.
+QUALITY, NON-CLINICAL AND CLINICAL DATA
+4.1. QUALITY AND NON-CLINICAL DATA
+The objective is to establish the chemical and molecular nature of the biosimilar active pharmaceutical
+ingredient (API) and drug product, and to show that it has no relevant differences in physico-chemical
+characteristics when compared to the API in a drug product of the reference medicine.
+The relevance of observed differences in the physico-chemical characteristics must be explored using
+appropriate functional bio-assays, and animal and clinical studies.
+Validated analytical techniques that show the comparable functionality of the biosimilar and the reference
+medicine in appropriate in vivo and in vitro systems should be used. The functions that are selected for analysis
+should be shown to relate to the biological activity of the molecule. All functions should be compared to the
+reference product activity and should be equivalent in those that are thought to be (major or minor)
+mechanisms of action, and no new activity is demonstrated that is not evident in the reference product.
+In vivo animal studies that show comparable toxicology and biological activity should be presented. Non-
+clinical studies should be performed before initiating clinical development, and should be comparative in
+nature, designed to detect differences in response between the biosimilar and the reference medicine, and
+not just the response per se.
+The design of an appropriate non-clinical study programme requires a clear understanding of the product
+characteristics. Results from the physicochemical and biological characterisation studies should be reviewed
+to assess the potential impact on efficacy and safety. A holistic approach is necessary to include all available
+information in the development of the non-clinical and clinical studies leading to a successful application for
+registration.
+Ongoing consideration should be given to the use of emerging validated technologies.
+The approach taken to establish the chemical and molecular nature of the biosimilar API, and to show that it
+has no detectable, relevant differences in physico-chemical characteristics, when compared to the API in the
+reference product, must be fully justified in the CTD non-clinical overview and/or the Quality Overall Summary.
+Page 9 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+Comparisons based on publications or pharmacopeial monographs are not sufficient to establish similarities.
+4.1.1. Pharmaceutical Quality
+The application for registration of a biosimilar shall provide a full quality dossier detailing the source materials
+and inactive pharmaceutical ingredients (IPIs), manufacture, stability and control of the process in accordance
+with SAHPRA guidelines and compliant with the Guideline for Good Manufacturing Practice and other relevant
+guidelines 5.4,5.5,5.6,5.7
+The basic requirement for a biosimilar is that it is demonstrated to be “similar” to the reference product. A
+lack of detectable, relevant differences between the biosimilar and the reference medicine is the basis for
+reducing non-clinical and clinical requirements for registration.
+The applicant should carry out a comprehensive physicochemical and biological characterisation of the
+biosimilar API substance; each of these analyses must be conducted in a head-to-head comparison with the
+reference API substance.
+Molecular characterisation should be as extensive as possible within the limits of current technology – these
+studies should, where possible be conducted in head-to-head comparison with the reference product. Primary,
+secondary, and tertiary structures should be demonstrated as well as the composition and structure of post-
+translational modifications and additions – e.g. glycosylation. Techniques used should include a search for,
+analysis and comparison of antigenic epitopes that could lead to adverse reactions.
+Examples of tests that may be used for physico-chemical characterisation:
+o
+Amino-acid sequence analysis of the purified product
+o
+Peptide mapping
+o
+Quantification of the active principle by biological assays
+o
+Molecular size analysis
+o
+Characterisation of higher order structure/s
+o
+Identification of iso-forms
+o
+Identification of post-translation modifications
+o
+Quantification of truncated (extended) amino acid sequence impurities
+OTHER FACTORS TO CONSIDER:
+o
+Chemical modification (e.g. oxidation, deamidation, methylation)
+Page 10 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+o
+Aggregate formation
+o
+Impurities (e.g. presence of host cell proteins)
+o
+Glycosylation pattern
+o
+Structural differences which may be relevant to immunogenicity or allergenicity
+To evaluate similarity, all aspects of product quality and heterogeneity should be assessed. Differences may
+be due to differences in source materials, process, impurities, or excipients, and should be assessed for their
+relevance and potential impact on the clinical safety and efficacy of the biosimilar, and a justification (e.g.
+own-study results or literature data) of the actions taken to assess the relevance of such differences must be
+provided.
+Differences in critical product quality attributes (i.e. those that are known to have a potential impact on clinical
+activity will add to the clinical testing required for the product). For example, if differences are found in
+glycosylation patterns that alter the biodistribution of the product and thereby change the dosing scheme,
+additional clinical testing for the product would likely be required. Differences of unknown clinical relevance,
+particularly regarding safety, may have to be addressed in additional pre- or post-marketing studies 5.8.
+Other differences between the biosimilar and reference substance may be acceptable and would not trigger
+the need for extra clinical evaluation. For example, a therapeutic protein that has lower levels of protein
+aggregates could be thought to have a better safety profile than the reference and may not need added clinical
+evaluation.
+Due to the unavailability of the API of the reference, the biosimilar manufacturer will typically use the
+commercially available reference medicine for the comparison, which will, by definition, be formulated with
+inactive pharmaceutical ingredients (IPI). It should be verified that these IPIs do not interfere with analytical
+methods and thereby impact the test results.
+If the reference API needs to be purified from a formulated reference medicine in order to be suitable for
+characterisation, studies must be carried out to demonstrate that product heterogeneity and relevant
+attributes of the active moiety are not affected by the isolation process. The approach employed to isolate
+and compare the biosimilar active substance to the reference active substance should be justified as
+appropriate for the intended purpose. Where possible, the product should be tested with and without
+manipulation.
+A similar comparison of the biosimilar medicine (final product) characteristics with the reference medicine
+should be undertaken.
+Page 11 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+4.1.2. In vitro biological studies
+In vitro biological studies should be performed before initiating clinical development and should be
+comparative in nature, designed to detect differences in response between the biosimilar and the reference
+medicine and not just the response per se.5.1
+Bioassays that show the comparable functionality of the biosimilar and the reference medicine in appropriate
+in vivo and in vitro systems should be used. The biological endpoints that are selected should be shown to
+relate to the clinical activity of the molecule. Design of an appropriate non-clinical study programme requires
+a clear understanding of product characteristics. Results from the physiochemical and biological
+characterisation studies should be reviewed to assess the potential impact on biological activity, efficacy, and
+safety.
+Comparative receptor-binding studies or cell-based assays, many of which may already be available from
+quality-related bioassays, should normally be undertaken in order to establish comparability in reactivity and
+the likely causative factor(s) if comparability cannot be established.
+4.1.3. Non-clinical (animal) studies
+In vivo animal studies to show comparable toxicology and activity should be presented.
+Animal studies should be designed to maximise the information obtained and to compare the biosimilar and
+reference medicine intended to be used in clinical trials. Such studies should be designed to detect differences
+in response between the biosimilar and reference medicine and should be conducted in a species known to be
+relevant and sensitive using appropriately up-to-date, validated methods.
+Where the model allows, consideration should be given to monitoring several endpoints such as:
+a)
+Pharmacodynamic effect/activity relevant to the clinical application. These data should usually be
+available from biological assays in the pharmaceutical modules of the dossier.
+b)
+Non-clinical toxicity as determined in at least one repeat dose toxicity study, including toxicokinetic
+measurements.
+Toxicokinetic measurements should include but not be limited to analysis of immunogenicity:
+
+Determination of relevant antibody titres
+Page 12 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+
+Where warranted due to biosimilar homology to endogenous proteins, analysis of anti-biosimilar
+antibody cross-reactivity to endogenous proteins may be needed
+
+Depending upon PK assay format and PD markers, the characterisation of neutralising antibodies
+may be needed to interpret the study
+
+It may be relevant to analyse other forms of immune response
+The duration of the studies should be sufficiently long to allow the detection of significant differences in toxicity
+and/or immune responses between the biosimilar and reference medicine.
+If there are specific safety concerns, these might be addressed by including relevant observations (i.e. local
+tolerance) in the same repeat dose toxicity study.
+Normally, other routine toxicological studies such as safety pharmacology, reproduction toxicology,
+mutagenicity and carcinogenicity studies are not required for biosimilar medicines, unless indicated from the
+results of repeat dose studies or other information 5.9
+Animal immunogenicity studies may be of value in demonstrating the similarity of immune responses to
+reference and biosimilar products but cannot be an alternative to immunogenicity studies in humans.
+4.2. CLINICAL DATA
+The clinical comparability exercise is a stepwise procedure that should begin with pharmacokinetic (PK) and
+pharmacodynamic (PD) studies followed by clinical efficacy and safety trial(s) or, in certain cases, PK/PD studies
+may be sufficient for demonstrating clinical comparability 5.10
+Clinical studies should have the following characteristics:
+
+The biosimilar final product (formulation) is compared to a reference medicine that has been
+registered in South Africa.
+
+In general, an equivalence design should be used for clinical studies.
+
+The efficacy of the biosimilar must be equivalent to the reference medicine7.12
+
+There must be evidence for efficacy and safety for each indication.
+
+A risk-benefit analysis of the biosimilar product should be similar to the reference medicine.
+The requirements depend on the existing knowledge about the reference medicine and the claimed
+therapeutic indication(s). Available product/disease-specific guidelines should be followed.
+Page 13 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+It is acknowledged that the manufacturing process will be optimised during development and before
+registration application. The required clinical data for the Phase 3 comparability study should be obtained with
+the test product as produced with the final manufacturing process, formulation, and specifications; and
+therefore, representing the quality profile of the intended commercial batches. Any deviation from this should
+be justified and supported by adequate additional data.
+For all clinical comparability trial designs, assay sensitivity must be ensured5.13. Evidence must be presented to
+show that the end-point tests used have been validated and conducted by a competent and accredited
+laboratory.
+4.2.1. Pharmacokinetic (PK) studies
+Comparative PK studies designed to demonstrate clinical comparability of key PK parameters between the
+biosimilar and the reference medicine are an essential part of demonstrating similarity.
+Specific considerations related to the inherent characteristics of proteins described in the EMA Guideline on
+clinical investigation of the pharmacokinetics of therapeutic proteins 5.10 should be taken into account.
+The design of comparative PK studies should not necessarily mimic that of the accepted “clinical comparability”
+design5.10, and differences in elimination characteristics between products, e.g. clearance and elimination half-
+life, should also be explored.
+The choice of the design for single-dose studies, steady-state studies, or repeated determination of PK
+parameters should be justified by the applicant. The crossover design is usually not appropriate for therapeutic
+proteins with a long half-life, e.g. therapeutic antibodies and pegylated proteins, or for proteins for which the
+formation of specific antibodies is likely; parallel group designs should be considered.
+The acceptance range to conclude clinical comparability with respect to any pharmacokinetic parameter
+should be based on an assessment of clinical data, considering all available efficacy and safety information on
+the biosimilar and reference medicine.
+The accepted criteria used to assess clinical comparability studies initially developed for chemically derived,
+orally administered products are not always sufficient for biological medicines and the clinical comparability
+limits should be defined and justified prior to conducting the study.
+4.2.2. Pharmacodynamic (PD) studies
+Page 14 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+The pharmacodynamic (PD) markers should be selected on the basis of their relevance to demonstrate the 
+therapeutic efficacy of the product. The pharmacodynamic effect of the biosimilar and the reference 
+medicine should be compared in a population where the possible differences can best be observed.
+The design and duration of the studies must be justified. Combined PK/PD studies may provide useful 
+information on the relationship between exposure and effect.
+The selected dose should be in the steep part of the dose-response curve. The most appropriate dose level 
+needs to be chosen.
+4.2.3. Confirmatory pharmacokinetic/pharmacodynamic (PK/PD) studies
+For biosimilar medicines, it is usual that comparative clinical trials of efficacy are required for the
+demonstration of clinical comparability. In certain cases, however, comparative PK/PD studies between the
+biosimilar and the reference medicine may be sufficient to demonstrate clinical comparability, provided that
+all the following conditions are met:
+a)
+The PK of the reference medicinal product is well characterised.
+b)
+There is sufficient knowledge of the pharmacodynamic properties of the reference medicine, including
+the binding to its target receptor(s) and intrinsic activity. Sometimes, the mechanism of action of the
+biological product will be disease specific.
+c)
+The relationship between dose/exposure and response/efficacy of the reference medicine (the
+therapeutic “concentration-response” curve) is sufficiently characterised.
+d)
+At least one PD marker is accepted as a surrogate marker for efficacy, and the relationship between
+dose/exposure to the product and this surrogate marker is validated and well-known. A PD marker
+may be considered a surrogate marker for efficacy if therapy-induced changes of that marker can
+explain changes in the clinical outcome.
+Examples include absolute neutrophil count to assess the effect of granulocyte-colony stimulating
+factor, and early viral load reduction in chronic hepatitis C to assess the effect of alpha interferons.
+The choice of the surrogate marker for use in PK/PD studies should be justified.
+If PK/PD studies are used to demonstrate comparability of the biosimilar, care should be taken to investigate
+a relevant dose range to demonstrate assay sensitivity5.13.
+The margins (limits) defining clinical comparability of PK and PD parameters must be defined a priori and
+justified5.14.
+Page 15 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+4.2.4. Clinical efficacy studies
+The physico-chemical and non-clinical studies should be sufficient to establish molecular and functional
+similarity between the biosimilar API and reference medicine API prior to any clinical studies of efficacy.
+Comparative clinical trials will be necessary to demonstrate clinical comparability between the biosimilar and
+the reference medicine, and not the clinical efficacy de novo. Clinical comparability margins should be pre-
+specified and justified, primarily on clinical grounds. As for all clinical comparability trial designs, assay
+sensitivity must be ensured.
+If a clinical comparability trial design is not feasible, other designs should be explored.
+Where the clinical effects of the medicine have been shown to be related to the same mode of action and the
+safety and efficacy of the biosimilar medicine and the reference product have been demonstrated for a
+particular clinical indication, it may be possible to extrapolate these data to other indications of the reference
+product that have not been independently and specifically studied for the biosimilar medicine in clinical trials.
+Such extrapolation for indications is, however, not valid if the main clinical trial to demonstrate comparability
+is not designed to demonstrate the non-inferiority of the biosimilar and is not able to detect potential
+differences between the biosimilar and reference products. The safety and immunogenicity of the biosimilar
+product must also be sufficiently characterised. The applicant should provide convincing motivation and
+discuss, in detail, the scientific basis and the risk/benefit for the proposed extrapolated clinical indications.
+This approach needs to be justified and supported by published and pharmacopeial evidence.
+4.2.5. Clinical safety and pharmacovigilance requirements
+Even if the efficacy is shown to be comparable, the biosimilar may exhibit a difference in the safety profile (in
+terms of nature, severity, or frequency of adverse reactions). Pre-registration safety data should be obtained
+in a number of patients sufficient to address the adverse effect profiles of the biosimilar and the reference
+medicine 5.15. Care should be given to compare the type, severity, and frequency of the adverse reactions
+between the biosimilar and the reference medicine.
+Data from pre-registration clinical studies are normally insufficient to identify all potential differences. Clinical
+safety of the biosimilar medicine must, therefore, be monitored closely on an ongoing basis during the post-
+approval phase including continued benefit-risk assessment. Within the registration procedure, the applicant
+Page 16 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+should present a risk management programme/pharmacovigilance plan 7.16. This should take into account risks
+identified during product development and potential risks.
+The applicant should give a risk specification in the application dossier for the biosimilar medicine under
+review. This includes a description of possible safety issues related to the tolerability of the biosimilar medicine
+that may result from a manufacturing process different from that of the originator and how these may be
+assessed in the post-marketing period. The applicant should propose possible activities to encourage the
+reporting of relevant adverse events, including events related to immunogenicity or loss of efficacy 5.17.
+Following registration of the biosimilar, the Holder of the Certificate of Registration (HCR) must comply with
+conditions of registration – the pharmacovigilance obligations will be closely monitored and reports of these
+activities, with defined timelines may be required. The routine Periodic Safety Update Reports 7.18 should also
+include information on adverse reaction reports, immunogenicity and any other information on tolerability or
+lack of efficacy that is applicable to South Africa and the registration conditions.
+It will be required that safety update information applicable to the reference medicine (product class) will be
+applicable to the biosimilar. This safety information must be evaluated and assessed by the HCR of the
+biosimilar in a scientific manner with regard to the causality of adverse events or adverse drug reactions and
+related frequencies, and the HCR should report to SAHPRA on the actions that will be taken to ensure the safety
+of patients.
+4.2.6. Immunogenicity
+All clinical studies should include an assessment of the immunogenicity of the product in comparison to the
+reference product. The assessment of immunogenicity requires a robust antibody testing strategy,
+characterisation of the observed immune response, as well as evaluation of the correlation between antibodies
+and pharmacokinetics or pharmacodynamics, relevant for clinical safety and efficacy in all aspects.
+4.2.6.1.
+Principles
+
+Assays used to assess immunogenicity should be relevant, sufficiently sensitive, and validated.
+
+The development of neutralising antibodies and other types of specific immune response should be
+assessed in healthy individuals and in the different therapeutic indications.
+
+Immunogenicity data should be collected from enough trial subjects to assess the development and
+variability of the immune response.
+Page 17 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+
+The impact of these immune responses on the clearance/bioavailability of the biosimilar and on the
+continued safety and efficacy of the biosimilar in the different therapeutic indications should be
+assessed.
+
+Testing for immunogenicity should be performed by state-of-the-art methods using assays with
+appropriate specificity and sensitivity. The screening assays should be validated and sensitive enough to
+detect low titre and low-affinity antibodies. An assay for neutralising antibodies should be available for
+further characterisation of antibodies detected by the screening assays.
+
+Standard methods and international standards should be used whenever possible.
+
+The possible interference of the circulating antigen with the antibody assays should be taken into
+account.
+
+The periodicity frequency and timing of sampling for the testing of antibodies should be justified.
+
+In view of the unpredictability of the onset and incidence of immunogenicity, long-term results of
+monitoring of antibodies at predetermined intervals will be required. In the case of chronic
+administration, one-year follow-up data will be required prior to registration.
+
+The applicant should consider the possibility of antibodies to process-related impurities.
+
+Consideration should be given to the allergenicity of the product.
+4.2.6.2.
+Evaluation of the clinical significance of the observed immune response
+If a difference in the immune response to the biosimilar is observed as compared to the reference medicine,
+further analyses to characterise the antibodies and their implications to clinical safety, efficacy and
+pharmacokinetic parameters are required. Special consideration should be given to those products where
+there is a chance that the immune response could seriously affect the endogenous protein and its unique
+biological function.
+The applicant should consider the role of immunogenicity in certain events, such as hypersensitivity, infusion
+reactions, autoimmunity, and loss of efficacy. The applicant needs to propose activities to encourage the
+reporting of relevant adverse events, including events related to loss of efficacy.
+4.2.7. Risk Management Plan
+A suitable Risk Management Plan (RMP) should be in place (or planned) for the biosimilar medicine at the time
+of application for registration. This should be fully described in the CTD dossier in Module 1.13. It may be
+necessary to include South African and special population groups in these RMP activities. This RMP will form
+part of the conditions of registration.
+Page 18 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+Pharmacovigilance reporting procedures as defined in the current SAHPRA guidelines should be adhered to.
+Additional conditions may be required as a condition of registration.
+The HCR is responsible for ensuring that the product is traceable, i.e. reflection of the proprietary name of the
+product on the adverse event reports.
+Following registration, any specific safety monitoring requirement, safety update or package insert
+amendment imposed on the reference medicine or product class should be applied, unless a waiver for such a
+requirement has been approved by SAHPRA.
+4.2.8. Interchangeability
+a)
+Biosimilars are not generic products and cannot be assumed to be identical to the reference medicine.
+The Active Biological Substance(s) may have different characteristics and formulations may be different
+resulting in differences in clinical performance or adverse effects.
+b)
+SAHPRA’s guidelines regarding biosimilars and their interchangeability are designed to ensure that these
+products can be used safely and efficaciously in South Africa. Here’s a summary of the key points for
+considerations:
+i.
+SAHPRA permits the interchangeability between a biosimilar and its reference biological medicine (or
+vice versa), as well as between two different biosimilars, if both have been demonstrated to be
+comparable to the same reference product.
+ii.
+For interchangeability, the applicant must submit a clinical variation to the Product Information (PI)
+and Patient Information Leaflet (PIL) to SAHPRA. This submission should include any special warnings
+or precautions to ensure patient safety. The PI should clearly state that the product is a biosimilar
+medicine.
+iii.
+The decision to interchange a biosimilar should be made at the prescriber’s level. Treating physicians
+are responsible for actively monitoring the patient during the switch from the reference product to
+the biosimilar.
+iv.
+According to the Medicines and Related Substances Act, 101 of 1965, substitution by a pharmacist
+(dispensing a different product than specified on the prescription without the treating physician’s
+informed consent) does not apply to biosimilars. This means that pharmacists cannot substitute a
+biosimilar for a reference biological medicine or another biosimilar without the physician's approval.
+Page 19 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+v.
+Physicians should prescribe the biosimilar or reference biological medicine by its trade name, not the
+Active Pharmaceutical Ingredient (API). This practice helps in tracking and monitoring the prescribed
+medicine effectively.
+vi.
+Interchangeability should apply to all approved indications for both medicines. if a HCR (Applicant)
+seeks approval for a new indication or different population (e.g., paediatric use), the question of
+interchangeability may need to be reassessed.
+vii.
+Equally, substitution in terms of Section 22F (Generic substitution) of the Medicines and Related
+Substances Act, 101 of 1965 (i.e. the practice by which a different product to that specified on the
+prescription is dispensed to the patient without the prior informed consent of the treating physician)
+does not apply to biosimilars.
+Page 20 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+5.
+REFERENCES
+5.1
+ICH Documents – see www.ICH.org
+5.2
+SAHPRA Guidelines and Documents – See www.sahpra.org.za
+5.3
+EMEA: Guideline on similar biological medicinal products containing biotechnology-derived proteins as active
+substance: Quality issues (EMEA/CHMP/BWP/49348/2005), https://www.ema.europa.eu/en/similar-biological-
+medicinal-products-containing-biotechnology-derived-proteins-active-substance-quality-issues-scientific-
+guideline#document-history-first-version-7782
+5.4
+EMEA: Guideline on similar biological products (CHMP/437/04). https://www.ema.europa.eu/en/similar-
+biological-medicinal-products-scientific-guideline
+5.5
+EMEA: Guideline on similar biological medicinal products containing biotechnology-derived proteins as active
+substance:
+non-clinical
+and
+clinical
+issues
+(EMEA/CHMP/BMWP/42832/2005),
+https://www.ema.europa.eu/en/similar-biological-medicinal-products-containing-biotechnology-derived-
+proteins-active-substance-non-clinical-clinical-issues-scientific-guideline
+5.6
+ICH Q7 Good manufacturing practice guide for active pharmaceutical ingredients
+5.7
+ICH Q8 Pharmaceutical development
+5.8
+Guidelines on Evaluation of Similar Biotherapeutic Products (SBPs); WHO/BS/09.2110; 2009.
+5.9
+SAHPRA Pharmaceutical and Analytical CTD/eCTD Guideline
+5.10
+ICH Q9 Quality risk management
+5.11
+ICH M3 (R1) 2000: Note for guidance on non-clinical safety studies for the conduct of human clinical trials for
+pharmaceuticals (CPMP/ICH/286/95)
+5.12
+EMEA:
+Guideline
+on
+clinical
+investigation
+of
+the
+pharmacokinetics
+of
+therapeutic
+proteins
+(EMEA/CHMP/89249/2004) 
+5.13
+IK. Hwang, T Morikawa. Design issues in noninferiority/equivalence trials. In: Drug Information Journal, Vol. 33,
+pp. 1205–1218, 1999
+5.14
+PJ. Atherton Skaff, JA Sloan, Design and Analysis of Equivalence Clinical Trials Via the SAS® System
+http://www2.sas.com/proceedings/sugi23/Stats/p218.pdf
+5.15
+ICH E10 - Note for guidance on choice of control group in clinical trials (CPMP/ICH/364/96)
+5.16
+ICH E9 - Note for guidance on statistical principles for clinical trials (CPMP/ICH/363/96)
+5.17
+SAHPRA: Post-Marketing Reporting of ADRs to Human Medicines in South Africa.
+5.18
+EMEA:
+Guideline
+risk
+management
+systems
+for
+medicinal
+products
+for
+human
+use
+(EMEA/CHMP
+96286/2005).https://www.sahpra.org.za/wp-content/uploads/2022/11/SAHPGL-CEM-PV-03-Risk-Management-
+Plan-for-Medicines-for-Human-Use_Sept-2022_v1.pdf
+5.19
+ICH E2E: Note for Guidance on Planning Pharmacovigilance Activities (CPMP/ICH/5716/03)
+5.20
+ICH E2C (R1): Periodic Safety Update Reports
+Page 21 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+6.
+VALIDITY
+This guideline document is valid for a period of five (5) years from the effective date of revision [2.30 
+Biosimilar Medicine Quality, Non-clinical and Clinical Requirements]. It will be reviewed in this timeframe or
+as and when required.
+Page 22 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+ANNEXURE 1: Product Class Specific for Monoclonal Antibodies
+1.
+Introduction
+This product class-specific annexure outlines the quality, non-clinical and clinical data requirements specific
+for the registration of monoclonal antibody (mAb) containing medicines considered by the applicant as similar
+to a reference product already registered by SAHPRA. While Annexure 1 is specifically related to mAbs, the
+principles discussed can also be applied to related substances, for example fusion proteins based on IgG Fc (-
+cept molecules).
+The annexure takes into account that different mAb products may share some properties but may differ in
+other aspects such as mechanism of action and antigenicity. It is recognised that mAbs are complex structures
+with complex and multiple functional domains within a single molecule. mAbs may thus differ in terms of
+antibody-antigen binding regions and their secondary biological effects.
+The quality aspects related to this class of biosimilar medicinal products should conform to those described in
+the principal document – the general biosimilar medicines guideline document. The biosimilar and the
+reference product should be structurally, physicochemically and biologically similar. The clinical and non-
+clinical studies should be designed to detect any potential differences between the reference product and the
+biosimilar product and to clearly identify the relevance of any such differences if present.
+2.
+Scope
+This document is supplementary to the South African Biosimilar Medicines Guidelines and should be read in
+conjunction with the said document.
+The annexure provides acceptable principles for registering biosimilar mAbs that are claimed to be similar to
+reference products of assured quality, safety and efficacy that have been based on a full dossier, by SAHPRA.
+3.
+Quality
+The quality comparison showing molecular similarity between the reference product and the biosimilar is
+indispensable. The development of the biosimilar should involve an extensive characterisation of a number of
+representative lots of the product that are shown to be similar to the reference product in all relevant quality
+attributes: structural, biochemical and biological properties.
+Page 23 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+As set out in the requirements for the South African Biosimilar Medicines Guidelines, the manufacture of the
+biosimilar should be based on a comprehensively designed production process taking all relevant guidelines
+into account. The manufacturing process should be consistent, robust and in compliance with the current Good
+Manufacturing Practices (SAGMP).
+4.
+Non-clinical Studies
+Non-clinical studies should be performed before commencing clinical trials. In principle, in vitro studies should
+be performed first, and the outcomes used to determine the in vivo studies required. The overall approach to
+the non-clinical and clinical studies must be fully justified in the non-clinical overview.
+4.1 In vitro Studies
+Data from at least three independent batches of the biosimilar mAb product used in the in vitro studies, one
+of which must be a production batch, should be provided.
+The studies should specifically include:
+
+Binding of antibody to target antigen or antigens.
+
+Binding to isoforms of the relevant Fc gamma receptors.
+
+Fab-associated functions such as receptor activation or blockade.
+
+Fc-associated functions such as antibody-dependent cell-mediated cytotoxicity, complement-
+dependent cytotoxicity, and complement activation.
+All such studies should be comparative and aim to detect differences between the biosimilar and the reference
+product. The studies should cover the functional aspects of the mAb, including those that may not be
+considered essential for the therapeutic action of the medicinal product.
+The applicant should rather consider developing and registering the biosimilar as a new product if it is not
+possible to demonstrate the biosimilarity of the biosimilar and reference mAb products through suitable
+non-clinical studies.
+4.2.
+In vivo Studies
+When outcomes of the in vitro studies show that it is not possible to fully demonstrate biosimilarity of the
+biosimilar and reference products, it is necessary to further evaluate biosimilarity by in vivo studies. The
+applicant should consider the necessity of such in vivo studies after, for instance, taking into account:
+
+Significant and relevant differences in formulation and the use of specific excipients.
+Page 24 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+
+Quality issues such as different amounts of chemical or biochemical substances in the candidate and
+reference products.
+
+Availability and relevance of in vitro assays to the mechanisms of action
+The scope of in vivo studies should consider whether additional information is needed on pharmacokinetics
+and safety issues. Animal models should conform to relevant ethical and scientific principles and guidelines.
+It is recognised that the different production processes used by the manufacturers of the reference and
+biosimilars may result in qualitative differences in levels of impurities and product-related substances. These
+differences may affect the biological effects of the mAb and have clinically important effects on the
+immunogenic potential of the biosimilars.
+Studies on safety pharmacology and reproduction toxicology are not required for non-clinical testing of
+biosimilar mAbs. Studies on local tolerance are usually not required but may have to be evaluated if excipients
+are present in the formulation for which there is insufficient clinical experience.
+5.
+Clinical Studies
+Comparative clinical studies between the biosimilar and reference medicinal product should always be
+conducted. The number and type of such studies may vary, and the design of such studies should be
+scientifically justified.
+A stepwise approach should be utilised, and the number of patients enrolled should be determined by the
+level of evidence obtained by the preceding steps that had been designed to support comparability.
+6.
+Pharmacokinetics (PK)
+The first step in comparing the biosimilar and reference mAb products is usually a study of their
+pharmacokinetic properties. The design of such studies depends on many factors including clinical context,
+safety, and the PK characteristics of the antibody. The applicant should take into account the
+recommendations of the SA Biosimilar Medicines Guidelines and Good Clinical Practice Guidelines (cGCP).
+Assays should be appropriate for their intended use and adequately validated.
+The study design should show comparability of the pharmacokinetics of the biosimilar and the reference
+product in an appropriate study population. The sample size should be appropriate to prove equivalence.
+Page 25 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+Healthy volunteers are more homogeneous, have less target-mediated clearance, and therefore more likely to
+have uniform outcomes in PK studies. A single-dose study in healthy volunteers is recommended.
+The potential influence of immunogenicity of long half-life mAb may best be studied in parallel groups. It
+should be considered whether it will be more appropriate to perform the PK study in a different population
+from that selected to establish similar clinical efficacy. The choice of the patient and healthy volunteer
+population for the PK study should be fully justified; such justification may be based on a review of the scientific
+literature. It is recommended that in an instance where PK studies are performed in healthy volunteers,
+supportive PK data be obtained in clinical patients to support evidence of similar PK behaviour of the biosimilar
+and reference mAb.
+The design of the studies to evaluate biosimilar PK/PD should amongst others, take into account:
+6.1
+Disease and patient characteristics: age range; number of previous treatments; concomitant
+treatments; and disease stage.
+6.2
+PK characteristics of the reference mAb: the PK of anticancer mAb may depend on the tumour burden
+that could be affected by multiple treatment doses; target and non-target mediated clearance mechanisms;
+and influence of potential receptor shedding.
+6.3
+If an mAb is registered for several clinical indications, it is usually not required to investigate the PK
+profile in all of these diseases. It is, however, necessary to do separate PK studies if the mAb is indicated in
+distinct therapeutic areas, for instance, treatment for cancer and autoimmune disease. At least one of these
+studies should be adequately sized to prove the equivalence between the products, while the other PK study
+needs to be designed to provide supportive descriptive PK data in the other indication.
+6.4
+In principle, it is usually not required to test all the therapeutic dosage regimens; the applicant should
+select the dose most likely to detect potential differences in the PK of the candidate and reference biosimilar
+medicinal products. It should be noted that a single-dose study with the lowest therapeutic dose in patients is
+considered the best design to investigate differences in target-mediated clearance.
+6.5
+If there are different routes of administration (intravenous, subcutaneous), and both these are applied
+for, both should preferably be investigated. It may be possible to waive the evaluation of intravenous
+administration of comparability if both absorption and elimination have been demonstrated for the
+subcutaneous route using additional PK parameters such as AUC.
+Page 26 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+6.6
+The sampling times should be selected to characterise the whole PK profile, including the elimination
+phase. It is important to characterise the full concentration-time profile at a steady state in cases of non-linear
+PK of the reference mAb. This is particularly relevant if the anticancer mAb exhibits dose- or time-dependent
+PK or immunogenicity-related changes in distribution or elimination kinetic properties.
+6.7
+In a single-dose study, the primary parameter should be the AUC(0-inf). Secondary parameters such
+as Cmax, tmax, volume of distribution, and half-life, should also be estimated.
+6.8
+In a multiple-dose study, the primary parameters should be truncated AUC after the first
+administration until the second administration (AUC(0-t)) and AUC over a dosage interval at a steady state.
+6.9
+Anti-drug antibodies, i.e. antibodies against the mAb medicinal product, should be measured in
+parallel to the PK assessment with appropriate sampling time intervals.
+6.10
+Comparability margins must be defined a priori and justified. Considerable inter-subject variability
+beyond 80%-125% of some parameters may have to be accounted for and justified. It should be noted that
+this may impact on clinical efficacy and safety.
+6.11
+Usually, proof of similar PK profiles should be demonstrated before clinical efficacy trials are initiated.
+If this is not the case, it must be justified on a case-to-case basis depending on the product profiles observed
+in the quality and non-clinical data.
+6.12
+PD parameters may sometimes add to the comparability proof for certain mAbs and certain clinical
+indications: PK studies can be combined with multiple PD endpoints (if such exist). It is noted that there are
+often no specific PD endpoints, and the comparison will then have to focus on non-clinical PD evaluations such
+as in vitro testing.
+6.13
+PD markers should be explored as pivotal proof of comparability. Dose-concentration-response or
+time-response relationships, selected to be within the linear part of the dose-response curve, may provide
+strong evidence of comparability of the candidate and reference biosimilar products. If the PD markers are
+provided as pivotal evidence of comparability of efficacy, their selection should be based on evidence of
+sensitivity to dose-response relationships in previous studies with the reference drug, and at least one PD
+marker can be related to patient outcome or the pharmacological effect of the molecule.
+7.
+Clinical Similarity
+Page 27 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+If dose-comparative and sensitive PD studies cannot convincingly demonstrate comparability in a clinically
+relevant manner, it is necessary to show similar clinical efficacy of the reference product and the biosimilar in
+an adequately randomised, parallel-group comparative clinical trial in accordance with cGCP. Deviations from
+these established guidelines must be scientifically justified on the basis that the proposal is designed to
+establish biosimilarity by using PD markers, clinical outcomes, or both. The guiding principle is to demonstrate
+equivalent efficacy and comparable safety of the biosimilar compared to the reference product, not patient
+benefit per se.
+7.1
+Comparability should be demonstrated in appropriate clinical models and the applicant should justify
+the choice of model in terms of safety and efficacy.
+7.2
+The safety of patients should not be compromised, and patients should not be exposed to the drug
+unless clinically indicated and warranted.
+In anticancer therapy, clinical and safety margins may be difficult to set, and it may be challenging to
+demonstrate equivalence. The preferred endpoint would be progression or disease-free survival or overall
+survival. Applicants are referred to the Guideline on the evaluation of anticancer medicinal products in man
+(see References). Such endpoints may not be feasible or sensitive enough to establish comparability. In all
+instances, the focus should be to demonstrate similar efficacy and safety compared to the reference product
+and not patient benefit per se.
+7.3
+Clinical studies in special populations like the paediatric population or the elderly are normally not
+required since the overall objective of the development programme is to establish comparability, and,
+therefore, the selection of the primary patient population is driven by the need for homogeneity and
+sensitivity.
+8.
+Clinical Safety
+The demonstration of clinical safety is part of the pivotal clinical study or studies demonstrating comparability.
+The type, severity and incidence of adverse reactions should be compared, focusing on those that have been
+documented for the reference product. It is advisable to use the same definitions as those that have been
+used for the reference product.
+Immunogenicity assessment is an important aspect and should be evaluated on a comparative basis. Note
+specifically the clinical outcomes of loss of efficacy and resistance against further treatment. It may, therefore,
+Page 28 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+not be advisable to include in the clinical trial group patients who have been treated with the reference
+product.
+In some cases, the development of antibodies is best detected in the healthy volunteer group. It is also
+important to take into account the potential effects of using a different expression system in evaluating the
+biosimilar and the reference product. Also, consider the dose of the mAb in relation to the expression of
+immunogenicity. It should be noted that a higher immunogenicity of the biosimilar compared to the reference
+product may impact the benefit/risk ratio and may cast doubt on biosimilarity.
+Additional long-term immunogenicity and safety data are required as part of the post-marketing authorisation
+and should be thoroughly discussed in the risk management plan.
+9.
+Pharmacovigilance
+The application for registration should include a comprehensive risk management plan on how safety will be
+monitored after the registration of the medicine. This should at least address:
+9.1
+Occurrence of rare and potentially serious adverse events such as susceptible risk of infection in
+specific population groups that are described and predicted based on the evidence provided by studies of the
+reference product.
+The pharmacovigilance plan may include participation of existing patient registries or large population-based
+databases and must be part of the risk management plan.
+Page 29 of 29
+SAHPGL-PEM-BIO-02_v5
+Biosimilar Medicine, Quality, Non-Clinical and Clinical Requirements
+12 November 2025
+10
+REFERENCES
+10.1 EMEA: Guideline on similar biological medicinal products containing biotechnology-derived proteins as
+active substance: Quality issues (EMEA/CHMP/BWP/49348/2005)
+10.2
+EMEA: Guideline on development, production, characterisation and specifications for monoclonal
+antibodies and related substances (EMEA/CHMP/BWP/157653/2007)
+10.3
+WHO:
+Guidelines
+on
+evaluation
+of
+similar
+biotherapeutic
+products
+(http://www.who.int/biologicals/areas/biological_therapeutics/BIOTHERAPEUTICS_FOR_WEB_22APRI
+L2010.pdf)
+10.4
+CHMP: Guideline on the clinical investigation of the pharmacokinetics of therapeutic proteins
+(CHMP/EWP/89249/2004)
+10.5
+CHMP: Guideline on the investigation of bioequivalence (CPMP/EWP/QWP/1401/98 Rev. 1/ Corr)
+10.6
+EMEA: Guideline on bio-analytical method validation (EMEA/CHMP/EWP/192217/2009).
+10.7
+SA GCP 2010. Guidelines for Good Practice in the Conduct of Clinical Trials with Human Participants in
+South Africa. Department of Health: Pretoria, South Africa (https://www.sahpra.org.za/document/sa-gcp-
+guidelines/)
+10.7
+CHMP: Guideline on the evaluation of anticancer medicinal products in man (CHMP/EWP/205/95/2006)
+10.8
+SA GMP: Guidelines for Good Manufacturing Practices in South Africa. Department of Health: Pretoria,
+South Africa. https://www.sahpra.org.za/document/gSauideline-for-good-manufacturing-practice/
+

@@ -1,0 +1,1132 @@
+SAHPGL-RDN-RN-06_v1 
+Page 1 of 23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 February 2024 
+ 
+GUIDELINE  FOR SAFE USE OF UNSEALED RADIOACTIVE 
+NUCLIDES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document History  
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+April 1994 
+1 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-RN-06 allocated to this 
+Guideline 
+January 2024 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER
+The use of unsealed radioactive sources is subject to regulatory control in terms of the Hazardous Substances Act 15 of 1973, as 
+amended. The body now responsible for administering this legislation is SAHPRA Radiation Control. 
+This code describes the requirements laid down by Radiation Control for premises such as radioisotope laboratories, counting 
+rooms, administration rooms (for in-vivo applications) and storerooms, and describes procedures for the safe use of unsealed 
+radioactive material. 
+Wherever the word must is used in this document, it implies that the requirement in question is compulsory. Where the word 
+should is used, compliance is strongly recommended but is not mandatory. 
+SAHPGL-RDN-RN-06_v1 
+Page 2 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+Contents  
+ 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+2. 
+GENERAL REQUIREMENTS FOR EQUIPMENT AND FACILITIES................................................................... 5 
+3. 
+CLASSIFICATION OF RADIONUCLIDE FACILITIES ........................................................................................ 7 
+4. 
+TYPE A RADIOSOTOPE LABORATORY ......................................................................................................... 8 
+5. 
+TYPE B RADIOISOTOPE LABORATORY ........................................................................................................ 9 
+6. 
+TYPE C RADIOISOTOPE LABORATORY ...................................................................................................... 11 
+7. 
+COUNTING ROOMS.................................................................................................................................. 11 
+8. 
+ADMINISTRATION ROOMS AND IN-VIVO APPLICATIONS ........................................................................ 12 
+9. 
+RADIOIMMUNOASSAY (RIA) LABORATORIES .......................................................................................... 14 
+10. STOREROOMS .......................................................................................................................................... 14 
+11. SAFE WORKING PROCEDURES ................................................................................................................. 15 
+12. DISPOSAL ................................................................................................................................................. 17 
+13. CONTAMINATION CONTROL ................................................................................................................... 17 
+14. REFERENCES ............................................................................................................................................. 19 
+15. VALIDITY .................................................................................................................................................. 20 
+16. APPENDICES ............................................................................................................................................. 21 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-RN-06_v1 
+Page 3 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ALImin 
+annual limits on intake (prescribed in ICRP Publication 61, Annual Limits on intake 
+of Radionuclides by Workers Based on the 1990 Recommendations) 
+GBq 
+gigabecquerel,  a unit of activity  (109 becquerel) 
+IAEA 
+International Atomic Energy Agency 
+ICRP 
+International Commission on Radiological Protection  
+LAF 
+laminar airflow 
+MBq 
+megabecquerel, a unit of activity (106 becquerel) 
+mSv 
+millisievert, a unit of equivalent dose (10-3 sievert) 
+NCRP 
+National Council on Radiation Protection and Measurements (USA) 
+PVC 
+polyvinyl chloride 
+R 
+rem [roentgen equivalent in man], a unit a unit of equivalent dose (1 rem = 10-2 
+sievert)   
+RIA 
+radioimmunoassay  
+SABS 
+South African Bureau of Standards 
+TLD 
+thermoluminescence dosimeter/dosimetry 
+ 
+ 
+ 
+SAHPGL-RDN-RN-06_v1 
+Page 4 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+1. 
+INTRODUCTION  
+R2471 defines an unsealed source as “any Group IV hazardous substance that is not a sealed source”. A sealed 
+source, in turn, is defined as “a Group IV hazardous substance that is firmly bonded within solid inactive 
+material or sealed in an inactive capsule of sufficient mechanical strength to exclude the possibility of contact 
+with such substance and of the dispersion thereof into the environment under foreseeable conditions of use 
+and wear; but this definition shall not apply where such bonding or encapsulation is solely for the purpose of 
+storage, transport or disposal”. 
+The above definitions indicate that the additional radiation hazards in the case of unsealed sources lies in the 
+likelihood of direct contact with the radioactive substance and of its dispersion into the environment.  In 
+dealing with unsealed radioactive materials, special attention must be paid to internal radiation hazards (via 
+inhalation, injection or ingestion). The extent of the precautions to be taken will depend upon factors such as 
+the type of nuclide used, the nature of the operations (category of work), and the activity (quantity) that is 
+used. Other factors to be taken into consideration are the specific activity (concentration) of the nuclide, the 
+radiotoxicity and chemical toxicity, as well as other chemical and physical properties of the material (e.g. 
+volatility and flammability).  
+1.1 
+Purpose 
+For the purposes of this Code of Practice, any radioactive material may be considered to be unsealed if it is 
+in a form that allows it to be readily removed from its container and subdivided or dispersed; in other 
+words, radioactive material in a form that gives rise to a risk of external or internal contamination.  
+This Code is intended as a guide to all persons using such materials. It describes the procedures by which 
+the provisions of the relevant legislation are administered and discusses hazards that may be encountered 
+as well as practical precautions against them. This Code is not intended to be a detailed laboratory manual: 
+at least an elementary knowledge of radiation and radioactivity is assumed. Further detailed information 
+on many points can be found in the publications listed in the References. 
+When dealing with unsealed radioactive materials, special attention must be paid to internal radiation 
+hazards. The extent of the precautions to be taken will depend upon a number of factors, such as the type 
+ 
+1 R247: Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of the 
+Hazardous Substances Act 15 of 1973 and published under Government Notice R247 in Government Gazette 
+14596, dated 26 February 1993. 
+ 
+SAHPGL-RDN-RN-06_v1 
+Page 5 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+of nuclide used, the nature of the operations (category of work), and the activity (quantity) that is used. 
+Other factors that must be taken into consideration are the specific activity (concentration) of the nuclide, 
+the radiotoxicity and chemical toxicity, as well as other chemical and physical properties of the material 
+(e.g. volatility and flammability). 
+1.2 
+Scope 
+This Code of Practice outlines the general precautions that persons must take when carrying out work with 
+unsealed radioactive material. 
+2. 
+GENERAL REQUIREMENTS FOR EQUIPMENT AND FACILITIES 
+2.1 
+The design of facilities and associated equipment for work with unsealed radionuclides, and the 
+general working procedures, must be aimed at: 
+2.1.1 minimising the exposure of staff 
+2.1.2 protecting visitors and workers in the vicinity of the workplace 
+2.1.3 controlling the spread of radioactive material into the working environment 
+2.1.4 controlling and minimising the spread of radioactive material and waste into the greater 
+environment.  
+2.2 
+For all types of radioisotope facilities there are certain common requirements concerning the 
+interior design and equipment. The walls, floor and work surfaces must be of impermeable material 
+and must be easy to clean. The material must furthermore have good thermal and chemical 
+resistance to the substances that are normally used in the laboratory. 
+2.3 
+Special consideration should be given to fireproof construction of buildings in which radioisotopes 
+are used or stored. Conventional brick-wall construction is most suitable for the facilities described 
+below. Modular construction (movable panels) should be avoided as it is very difficult to convert a 
+room of this design into a radioisotope laboratory. 
+2.4 
+Facilities should preferably be inspected and approved before applications for authorisation are 
+submitted. The user should contact the nearest regional Radiation Control office to arrange for an 
+inspection to be carried out.   
+2.5 
+The authority holder must provide persons working with unsealed radioactive material with 
+SAHPGL-RDN-RN-06_v1 
+Page 6 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+suitable protective clothing such as laboratory coats, overalls, gloves, safety glasses and overshoes. 
+2.6 
+Disposable paper towels must be available for general use in the laboratory. 
+2.7 
+All facilities where unsealed radioactive material is handled or stored must display notices 
+prohibiting the following practices: 
+2.7.1 Eating, drinking, smoking, and the application of cosmetics; 
+2.7.2 The pipetting by mouth of any liquid containing radioactive material. 
+2.8 
+Radiation warning signs must be posted on the doors of all facilities in which radionuclides are used 
+or stored (e.g. on laboratory doors, doors of storage facilities, etc.). The name and telephone 
+number of a person to be contacted in the event of an emergency must also appear on all storage 
+facilities. 
+2.9 
+A sign indicating the class and/or type of facility (e.g. "Type B Laboratory", "Counting Room", etc.) 
+must be displayed at the entrance to the facility 
+2.10 Any person who is likely to receive a whole-body dose in excess of about 5 mSv (a quarter of the 
+annual dose limit for radiation workers) must wear personal dosimetry (TLD badges - obtainable 
+from the SABS Radiation Protection Service, among others). If any doubt exists as to whether 
+personal dosimetry is required, personnel should wear TLD badges for 6 months to a year, in order 
+to ascertain whether their doses are likely to exceed 5 mSv. As a general rule, workers in A and B 
+type laboratories require such dosimetry. 
+2.11 In cases where the dose to the hands is likely to be more limiting than the whole-body dose (e.g. 
+when handling beta emitters, or when handling unsealed sources behind lead glass where the body 
+will be protected, but the hands will be exposed to relatively high levels of radiation) it is 
+recommended that finger TLDs be worn for a period of time, in order to establish whether dose 
+rates to the hands should be routinely monitored. 
+2.12 Any area where: 
+2.12.1 activities in excess of C laboratory limits are handled; and 
+2.12.2 normal working conditions, including the possible occurrence of minor mishaps, require the 
+workers to follow well-established procedures and practices aimed specifically at 
+SAHPGL-RDN-RN-06_v1 
+Page 7 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+controlling radiation exposure; and 
+2.12.3 the annual doses are likely to exceed 6 mSv or three-tenths of the occupational dose limits 
+for the lens of the eye, the skin and the extremities; 
+2.12.4 must be designated as a controlled area and must be clearly marked as such. Only classified 
+workers (workers subject to special medical surveillance and appropriate personal 
+dosimetry) may be permitted unrestricted access to controlled areas. 
+2.13 The furniture in radioisotope facilities must be reduced to a minimum and should be easy to clean 
+and decontaminate. 
+2.14 Routes of entry and exit for ventilating air should be clearly defined under all conditions of use, 
+including open and closed positions of doors and windows and various operating arrangements of 
+fume hoods. The siting of exhaust vents must be such as to prevent recirculation of exhausted air 
+and must prevent the exhausted air from entering adjacent rooms. 
+2.15 Laboratories must be provided with enough refuse bins to allow for appropriate segregation of 
+solid waste. The latest version of the Code of Practice for the Management and Disposal of Non-
+Nuclear Radioactive Waste issued by SAHPRA Radiation Control must be consulted in this regard. 
+(See References.) The bins must have foot-operated lids and must be lined with removable plastic 
+bags to facilitate the removal of waste without causing contamination. All receptacles for 
+radioactive waste must be clearly identified (e.g. as low-level radioactive waste or non-active 
+waste), and active bins must be marked with standard radiation warning signs. 
+2.16 When large activities are handled or stored, appropriate monitoring equipment such as a 
+contamination monitor and an exposure rate meter must be purchased. 
+3. 
+CLASSIFICATION OF RADIONUCLIDE FACILITIES 
+Facilities for unsealed sources are generally classified as one of the following: laboratories, counting rooms, 
+administration rooms (in-vivo), storerooms or isolation rooms. For convenience, laboratories are further 
+classified into Type A, B and C laboratories. Table 1 below indicates maximum activities of radionuclides that 
+may be handled in each type of laboratory at any one time. "ALImin" values for each individual nuclide are 
+specified in Appendix 1. 
+Table 1: Summary of activity limits in radionuclide laboratories 
+SAHPGL-RDN-RN-06_v1 
+Page 8 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+ 
+A Lab 
+B Lab 
+C Lab 
+Max activity that may be used 
+for Category I work  
+Unlimited 
+100 ALImin 
+ALImin/10 
+Max activity that may be used 
+for Category II work  
+Unlimited 
+1000 ALImin 
+ALImin 
+Max activity that may be used 
+for Category III work  
+Unlimited 
+10 000 ALImin 
+10 x ALImin 
+Category I work : Work with radioactive powders (i.e. dry and dusty) or radioactive gas.  
+Category II work: Wet operations (labelling procedures, chemical analyses).  
+Category III work: Very simple wet operations (subdivision of mother solutions).  
+For example, one may use up to 1 MBq of I-125 in a labelling procedure in a C laboratory, or one may use 500 
+MBq of P-32 at one time in a dry or dusty operation in a B-lab. If two people are simultaneously performing 
+identical operations with the dry and dusty P-32 in the B lab, they could thus handle a maximum of only 250 
+MBq each.  
+If more than one nuclide is to be used in a laboratory, the following equation must be satisfied:  
+ 
+where Ak is the activity of the nuclides, and Amaxk the maximum activity limit for each nuclide that may be used 
+in that facility.  
+Example: 14 MBq C-14 and 2 MBq P-32 are used simultaneously in wet operations in a C laboratory. Is this 
+acceptable?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+which is <1. 
+This situation is therefore acceptable.  
+4. 
+TYPE A RADIOSOTOPE LABORATORY 
+4.1 
+This type of laboratory should be specially designed for the purpose for which it will be used. 
+SAHPRA Radiation Control must be consulted beforehand. 
+SAHPGL-RDN-RN-06_v1 
+Page 9 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+4.2 
+Extremely high activities may be handled in A laboratories provided that the necessary precautions 
+are taken to ensure that exposure limits are not exceeded. 
+4.3 
+Type A laboratories, e.g. isotope production laboratories, typically incorporate lead-glass "hot cells" 
+equipped with remote-handling manipulators to protect workers from external radiation associated 
+with these high activities. 
+5. 
+TYPE B RADIOISOTOPE LABORATORY 
+Type B is the main type of laboratory at hospitals and scientific research institutions. In many cases type B is 
+synonymous with what is called a "hot laboratory", where the main isotope work is carried out and where 
+storage of radioactive material may also take place. When new laboratories are being planned for medical care 
+or research, the isotope laboratory should be planned as a type B laboratory.  
+Type B laboratories must comply with the following minimum requirements: 
+5.1 
+Floors, walls and working surfaces 
+Floors, walls and work surfaces must be smooth and non-absorbent to facilitate cleaning and 
+decontamination. Ceilings should be similarly surfaced. Floor covering must be non-slip and must (after 
+welding if necessary) be in one continuous sheet.   
+The junction of floors, walls and work surfaces must be rounded off to facilitate cleaning. Corners, cracks 
+and rough surfaces must be avoided. Where joints are unavoidable they should be placed where the risk of 
+spills and splashes is small and must be filled with a sealing compound.   
+All working surfaces must additionally be able to support the weight of the necessary shielding against 
+gamma radiation. (One m2 of lead brick wall 50 mm thick weighs 570 kg). 
+5.2 
+Sinks and plumbing 
+One sink must be allocated for liquid radioactive waste (and so marked). This sink must have a resilient non-
+permeable surface e.g. polypropylene, PVC or stainless steel. The drains must be connected as directly as 
+possible to the main sewer. Connections to open channels, and the use of large traps, must be avoided. All 
+traps must be accessible for monitoring.  
+A separate (non-active) hand wash basin, fitted with foot-, knee- or elbow-operated taps must be provided 
+near the exit of the laboratory, as specified in paragraph 5. 
+SAHPGL-RDN-RN-06_v1 
+Page 10 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+5.3 
+Fume hoods 
+A well-ventilated fume hood must be provided with the gas, water and electrical controls operable from 
+the outside of the fume hood. The air velocity in the fume hood must be at least 0.5 m/s in the normal 
+working position. Extractor fans should be positioned close to the outlet in order to maintain a negative 
+pressure throughout the duct, and the motor should be outside the duct. There must be a light on the fume 
+hood, indicating whether the fume hood is activated or not.   
+The surfaces of the fume hood and the ventilation duct must be smooth and non-absorbent and consist of 
+materials that withstand the chemicals that are normally used in the fume hood. The fume hood should be 
+provided with a sink, and a filter should be fitted in the outlet duct. 
+5.4 
+Lighting and ventilation 
+The laboratory must be well lit and ventilated, with a ventilation rate of at least 12 air changes/hour. A 
+laboratory provided with a fume hood is normally ventilated by continuous movement of air into the fume 
+hood. If work is to be permitted in the laboratory when the fume hood is switched off, additional ventilation 
+must be provided to ensure that the required air change rate is met.  
+Lights should preferably be of the recessed type so that they can be mounted flush with the ceiling.  
+5.5 
+Air conditioning 
+Room ventilation and air conditioning must be of such a nature that they prevent recirculation of exhausted 
+air from rooms where radionuclides are used, and which could under accident conditions become 
+contaminated, into inactive areas or into the central air conditioning system of the hospital 
+5.6 
+Personnel monitoring 
+An area near the exit of the laboratory must be demarcated to provide space for changing coats, shoes, 
+gloves, etc. A contamination monitor and basin for hand washing must be provided in this area.   
+All workers in B laboratories must be provided with personal dosimeters (TLD badges), unless they are 
+specifically exempted. If beta emitters such as P-32 are handled, wearers should be provided with finger or 
+wrist TLDs.  
+Routine bioassays (e.g. whole body or thyroid counting, urine analysis) should be considered if large 
+quantities of volatile sources are handled. 
+SAHPGL-RDN-RN-06_v1 
+Page 11 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+5.7 
+Monitoring equipment 
+Regulation 11 of R2472 requires that an authority holder must measure radiation and contamination levels. 
+In the case of a nuclear medicine department where unsealed radionuclides are being used, the authority 
+holder must have both a radiation monitor and a contamination monitor. 
+6. 
+TYPE C RADIOISOTOPE LABORATORY 
+A good chemical laboratory (classified as a type C laboratory according to IAEA specifications) will suffice for 
+work with "type C" activities. In addition to the general requirements listed in section 2, C laboratories must 
+comply with the following minimum requirements:  
+6.1 
+Floors, walls and working surfaces 
+The junction of floors and walls should preferably be rounded off to facilitate cleaning. Corners, cracks and 
+rough surfaces should be avoided. 
+6.2 
+Sinks 
+The laboratory must be fitted with at least one sink with elbow-, knee- or foot-operated taps. Unless there 
+are valid reasons to the contrary, the laboratory must be provided with a second sink to can be used 
+exclusively for the washing of contaminated glassware and for the disposal of low-level radioactive waste. 
+Connections to open channels should be avoided. 
+6.3 
+Lighting and ventilation 
+The laboratory must be well lit and must have a ventilation rate of between 8 and 12 air changes/hour.   
+6.4 
+Demarcation of work areas 
+Wherever possible, a type C laboratory should be dedicated exclusively for work with radioactive material. 
+Where this is not practicable, specific areas of the laboratory must be reserved for work with radioactive 
+material and must be clearly demarcated as such. 
+7. 
+COUNTING ROOMS 
+A room set aside purely for the use of an alpha, beta or gamma counter must meet the following requirements:  
+7.1 
+The floor must be of impermeable material and must be easy to clean. Corners, cracks and rough 
+ 
+2 R247: Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of the 
+Hazardous Substances Act 15 of 1973 and published under Government Notice R247 in Government Gazette 
+14596, dated 26 February 1993. 
+SAHPGL-RDN-RN-06_v1 
+Page 12 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+surfaces should be avoided. 
+7.2 
+The walls should be covered with non-absorbent paint. 
+7.3 
+No preparation work may be done in a counting room, and radioactive material may not be stored 
+in such a room.  
+8. 
+ADMINISTRATION ROOMS AND IN-VIVO APPLICATIONS 
+In-vivo applications include both diagnostic and therapeutic medical procedures involving the administration 
+of unsealed radionuclides to patients. The facilities required will depend on the nature of the work to be 
+performed. For instance, if patient doses are received in the form of pre-prepared sealed capsules for oral 
+administration, or sealed vials for intra-venous administration, requirements will be less stringent than in the 
+case where preparation work such as labelling, dilution, or subdivision must be done prior to administration. 
+8.1 
+General requirements for in-vivo work 
+8.1.1 All preparation work must be performed in a radioisotope laboratory. The type of laboratory will 
+depend on the activities handled, and the type of work performed (i.e. work category – see section 
+6). Where the doses of radioactive material are dispensed and handled within a "closed" system (e.g. 
+the milking of Tc-99m from a generator) their preparation may be considered to be category III type 
+work. Thus, for instance, up to 9.99 GBq (270 mCi) of Tc-99m could be dispensed (i.e. handled) in a 
+C-laboratory at any one time. Activities in excess of this may be stored in the laboratory, provided 
+that the requirements specified in section 13 (for storerooms) are met. 
+8.1.2 Laboratories in which such preparation work takes place must meet the applicable requirements laid 
+down in this code. However, allowances will be made in certain instances if the prescribed 
+requirements for radiation safety conflict with requirements for aseptic or "clean" conditions. For 
+example: 
+8.1.3 Where sinks might promote biological contamination of pharmaceuticals, they could be situated 
+immediately outside the laboratory instead of inside the room. 
+8.1.4 In the case of type B laboratories, the required fume hood might in some cases increase the risk of 
+biological contamination to an unacceptable level. (For example, it is not usually considered 
+appropriate to store isotope generators in fume hoods.) In such cases, it is recommended that a 
+laminar airflow (LAF) cabinet be installed instead of a fume hood. Such cabinets should have either a 
+down-flow or a modified cross-flow pattern. 
+SAHPGL-RDN-RN-06_v1 
+Page 13 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+8.1.5 Rooms in which diagnostic images are taken (e.g. gamma camera rooms) must at least meet the 
+requirements laid down for "counting rooms" in section 10. 
+8.1.6 An isotope calibrator must be available to control the activity administered to a patient. The 
+calibrator should be checked daily before use with a sealed test source. Detailed and accurate records 
+must be kept of amounts of radionuclides administered. 
+8.1.7 Where therapeutic doses are administered, an exposure meter must be available for monitoring the 
+dose rate from the patient, in order to establish whether hospitalisation is necessary and to quantify 
+the time and distance limits for staff and family who may attend the patient in hospital. 
+8.1.8 Any person who is likely to receive a whole-body dose higher than 5 mSv (i.e. a quarter of the annual 
+dose limit) must wear personal dosimetry (TLD badges). Most people involved in the preparation and 
+administration of radiopharmaceuticals for use in in-vivo diagnosis or therapy, or who are involved 
+with the handling of patients who have received therapeutic doses, would be required to wear TLD 
+badges. 
+8.1.9 Wherever possible, tongs, forceps and injection shields must be used when handling sources. 
+Additional shielding, such as lead bricks, lead glass or Perspex (for beta-emitters) must be used to 
+further reduce external radiation levels. Lead bricks should be painted or coated in some manner (to 
+prevent lead poisoning) and should be firmly secured.   
+8.1.10 If gases (e.g. xenon) are used, care must be taken to ensure that the gas exhaled by the patient is 
+released directly to the open air or is collected for later release. If the exhaled gas is stored for 
+decay, it must be stored in a well-ventilated area. 
+8.1.11 If amounts of radioactive material administered will result in a total integrated dose exceeding 5 
+mSv (0.5 R) at one metre from the patient in a year, facilities must be available for the 
+hospitalisation of the patient, and a separate toilet must be provided. Sources with short half-lives 
+used for diagnostic purposes would not usually necessitate hospitalisation. 
+8.1.12 The guidelines concerning the release of therapy patients laid down in NCRP publication 37, 
+Precautions in the Management of Patients who have received Therapeutic Amounts of 
+Radionuclides, must be followed.  
+8.2 
+Administration rooms 
+8.2.1 Rooms where no preparation work takes place, but where radioisotopes are administered to 
+SAHPGL-RDN-RN-06_v1 
+Page 14 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+patients, must meet all the requirements specified for a type C laboratory, other than those relating 
+to ventilation. Good ventilation in such rooms is, however, strongly recommended. 
+8.2.2 The working surfaces must additionally be able to support the weight of any necessary shielding 
+material. 
+8.2.3 In cases where therapeutic doses are administered, a contamination monitor must be available for 
+routine monitoring of working surfaces, and for use in the event of any accidental spillage. This 
+monitor must also be used by personnel to check their hands, clothes, and shoes for radioactivity on 
+leaving the laboratory. 
+9. 
+RADIOIMMUNOASSAY (RIA) LABORATORIES 
+RIA laboratories must meet all the requirements for a type C laboratory, other than those relating to 
+ventilation.  
+10. STOREROOMS 
+Radioactive material can be stored in radioisotope laboratories, but wherever possible it is preferable to 
+allocate a separate room for storage purposes. The following minimum requirements are laid down for storage 
+facilities: 
+10.1 
+The floor, walls and shelves of the room must be of impermeable material and easy to 
+decontaminate. Open cracks, joint and sharp corners must be avoided. 
+10.2 If necessary (e.g. if large quantities of gamma-emitting sources are stored) the storeroom must 
+incorporate shielding to ensure that radiation levels are kept within acceptable limits.   
+10.3 The storeroom must be locked to prevent unauthorised entry but should be provided with a suitable 
+means of exit that can be operated from the inside. 
+10.4 The storeroom should be equipped with an extractor fan that facilitates at least 8 air changes per 
+hour. The control switch must be situated outside the room, so that it can be activated before 
+entering the room. 
+10.5 Firefighting equipment must be available if flammable material is stored, and such material should 
+be stored in a separate part of the facility. 
+10.6 If activities exceeding 10 ALImin are stored, the storeroom (or laboratory) must be of a fire-resistant 
+SAHPGL-RDN-RN-06_v1 
+Page 15 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+construction and must be designated as a "controlled area". A contamination monitor must be 
+available for use by personnel entering the room, and consideration should also be given to 
+purchasing a dose rate meter. 
+10.7 A written inventory must be kept of the radioactive material in the storage facility. This record must 
+clearly indicate withdrawals from, and additions to, the radioactive stock.  
+Example: 2 GBq of tritiated water, 80 MBq of C-14 and 90 MBq of S-35 is kept in a storeroom. Must the 
+area be designated as a controlled area?  
+ 
+Thus, the storeroom need not be designated as a controlled area. 
+11. SAFE WORKING PROCEDURES 
+It is not possible to give detailed working procedures covering all types of work. The procedures will depend 
+on many different factors, especially the amount of activity used, the specific activity, the radiotoxicity, the 
+type and complexity of the work and the skill and knowledge of the worker. Such detailed rules and guidance 
+can best be given by the designated radiation protection officer. 
+The following general procedures and requirements must be applied: 
+11.1 All work involving radioactive material must be carried out in such a way as to ensure that doses of 
+radiation received are as low as reasonably achievable and do not exceed the limits laid down in 
+Reference 2. 
+11.2 No eating, drinking, smoking, application of cosmetics, pipetting by mouth, or any other activity that 
+could lead to the ingestion of active material may be permitted in areas where unsealed sources are 
+handled or stored. No food, drink, sweets, cigarettes or cosmetics may be taken into such areas. 
+11.3 At least two people must always be present when significant amounts of radioactive material are 
+being handled. 
+11.4 Appropriate protective clothing, such as laboratory coats, gloves, safety glasses, overalls and plastic 
+overshoes, must be worn. 
+SAHPGL-RDN-RN-06_v1 
+Page 16 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+11.5 Prior to commencement of work, any cuts, abrasions or open wounds must be covered with 
+waterproof dressing. 
+11.6 Working techniques must be well thought out and understood before work is undertaken. Practice 
+runs with non-active material must be carried out to ensure that operations are performed speedily 
+and confidently, with minimum exposure and risk of accidents. A balance should be struck between 
+hurried manipulations, which may cause accidents, and prolonged operations, which may lead to 
+excessive exposure. 
+11.7 Quantities of radionuclides, and specific activities used, must be as low as is reasonably achievable. 
+Where a non-radioactive alternative exists for a particular procedure, the radioactive option should 
+be selected only if the added benefit gained from it outweighs the relative disadvantages.   
+11.8 Working surfaces must be covered with disposable material (e.g. Benchkote). Manipulations must be 
+carried out over trays made of non-absorbent substances (e.g. stainless steel), lined with absorbent 
+material (e.g. paper towel). Wherever possible, radioactive material must be moved or carried only 
+within secondary containment.   
+11.9 Disposable handkerchiefs (e.g. tissues) must be used for nose blowing. 
+11.10 Vessels containing radioactive material must be covered when not in use, and must be adequately 
+marked. As far as possible, vessels and equipment used for radioactive work should be reserved 
+exclusively for such purposes.   
+11.11 When quantities of material exceeding the limits for type C laboratories are handled, the work must 
+be performed in a fume hood. 
+11.12 When maintenance work is performed on pipes, ducts, or sink traps in a radioisotope laboratory, a 
+contamination monitor must be used to check on radiation levels prior to, and during the course 
+of, such work. 
+11.13 Before leaving a radioisotope facility, workers must: 
+11.13.1 Remove gloves in such a way as to prevent contact between the potentially contaminated 
+outer surface and the skin. 
+11.13.2 Remove protective clothing. 
+SAHPGL-RDN-RN-06_v1 
+Page 17 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+11.13.3 Wash hands thoroughly. 
+11.13.4 Monitor hands, clothing and shoes (unless specifically exempted from this requirement). 
+If contamination levels exceed those specified in Table 2 below, decontamination 
+procedures must be carried out as described in paragraphs 16.10 to 16.15. 
+12. DISPOSAL 
+Disposal of unsealed radioactive material must be carefully controlled and must be carried out in accordance 
+with the requirements of SAHPRA Radiation Control (see Reference 1). 
+13. CONTAMINATION CONTROL 
+It is a requirement for type A and B laboratories, and a recommendation for type C laboratories, that systematic 
+monitoring be carried out to ensure that contamination levels do not exceed the levels specified in Table 2 
+below:  
+Table 2: Safe limits of contamination for laboratories 
+  
+"Inactive areas”:  parts of 
+|the body, clothes, etc 
+Active areas:  protective 
+clothing, glassware, etc. 
+Alpha emitters  
+0.3 Bq/cm2 
+3 Bq/cm2 
+Beta/gamma emitters   
+3 Bq/cm2 
+30 Bq/cm2 
+The measurement may be averaged over 100 cm2. 
+13.1 Equipment and work areas  
+13.1.1 
+Monitoring must be performed after the completion of work; if necessary, also several times 
+during the work, and at least once a week. Contamination levels may not exceed those specified 
+in Table 2, except inside contained workstations (e.g. fume hoods or glove boxes), where levels 
+must simply be as low as is reasonably achievable. Records must be kept of the results of routine 
+monitoring of the workplace. 
+13.1.2 
+Monitoring should be performed both with the help of counting instruments and by smear tests. 
+Geiger-Muller counters are suitable for examining the smear samples taken; the presence of 
+alpha-emitters or very soft beta-emitters may make an alpha monitor or liquid scintillation 
+counter necessary. 
+13.1.3 
+When alpha or soft beta emitters are used, the walls of beakers, bottles, pipettes, etc. may absorb 
+SAHPGL-RDN-RN-06_v1 
+Page 18 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+most of the radiation, so it is not enough to monitor only the outside of such containers.  
+13.1.4 
+Equipment should be cleaned by washing with detergents followed, if necessary, by the use of 
+complexing agents or ultrasonic methods. Equipment that cannot be decontaminated below 
+prescribed levels or retained until the activity has decayed below the prescribed levels, and for 
+which no further use can be found (e.g. in more active areas), should be discarded as radioactive 
+waste.  
+13.2 Spillages of radioactive material 
+13.2.1 
+Local procedures for dealing with spills must be drawn up and posted at the workplace. 
+13.2.2 
+All spillages, or suspected spillages, must be reported to the responsible person. Any serious 
+spillages or incidents must be reported to the Department. Spillages or other incidents which 
+cause levels of contamination that cannot be reduced to below the safe limits specified in Table 
+2, must be considered as "serious".   
+13.2.3 
+Absorbent paper should be laid immediately over a wet spill. Dry spills should preferably be 
+removed by wet methods, using wet absorbent paper to prevent dispersion, if necessary. 
+Swabbing should always be done inwards toward the centre of the spill. Any paper used should 
+then be placed in an appropriate waste receptacle and the affected area monitored.   
+13.2.4 
+Decontamination should be carried out until the surface levels are below the appropriate limits 
+given in Table 2. If contamination levels cannot be sufficiently reduced, the surface should be 
+stripped or covered. 
+13.2.5 
+In all of these operations, great care should be taken to avoid spreading of the radioactivity and 
+to prevent contamination of clothing, skin and monitoring instruments.  
+13.3 Decontamination of personnel  
+13.3.1 
+In the case of personnel decontamination, cleaning methods that seriously damage the skin (such 
+as vigorous brushing) must be avoided. If washing with mild soap and water is not effective, a 
+detergent or chelating agent specific to the chemical form of the contaminant should be used. 
+Moderate activity that remains fixed to the skin after cleaning may be less harmful than the use 
+of harsher decontamination measures. 
+13.3.2 
+Great care should be taken during decontamination of the face or hair to avoid spreading 
+contamination, particularly to the lips, nose and eyes. If the eyes require irrigation, adjacent skin 
+SAHPGL-RDN-RN-06_v1 
+Page 19 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+should first be decontaminated to prevent such contamination from being washed into the eyes. 
+The eyes should be irrigated outwards to avoid contamination of tear ducts.   
+13.3.3 
+If corrosive or other toxic materials are present in addition to radioactive contaminants, the usual 
+first-aid measures should be applied before attempting to carry out radioactive decontamination. 
+13.3.4 
+If the skin is accidentally broken when working with radioactive materials, the wound should be 
+irrigated immediately with tap water, the edges of the gash being spread to assist the flushing 
+action of the water and to encourage bleeding. Serious wounds must be referred to the appointed 
+doctor for further attention. 
+13.3.5 
+In the case of an accidental intake of radioactive materials, which it is believed may lead to a 
+significant dose of internal radiation, the appointed doctor must be contacted immediately, 
+followed by a notification to SAHPRA Radiation Control. Pending arrival of the doctor, certain 
+simple first-aid measures may be applied to assist in the elimination of the radioactivity. These 
+include the cleansing of the nasal passages, the expectoration of saliva and perhaps in some cases, 
+the induction of vomiting. 
+13.3.6 
+Any article of protective clothing or personal clothing found to be contaminated must be washed 
+separately and with due care. For articles contaminated with short-half-life nuclides, storage for 
+decay is recommended. If, despite washing and/or storage, contamination levels cannot be 
+reduced to the levels prescribed in Table 2, the article or garment must be disposed of as 
+radioactive waste. 
+14. REFERENCES 
+The following related documents are referenced: 
+14.1 Code of Practice for the Management and Disposal of Non-Nuclear Radioactive Waste. SAHPRA 
+Radiation Control.  (Update in progress at the time of publication of this document). 
+14.2 Ionising Radiation Dose Limits and Annual Limits on Intake of Radioactive Material. Directorate: 
+SAHPRA Radiation Control. (Update in progress at the time of publication of this document). 
+14.3 R247: Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of the 
+Hazardous Substances Act 15 of 1973 and published under Government Notice R247 in Government 
+Gazette 14596, dated 26 February 1993. 
+SAHPGL-RDN-RN-06_v1 
+Page 20 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+15. VALIDITY 
+This Code of Practice is valid for a period of 5 years from the effective date of revision and replaces the old 
+Requirements for the Safe Use of Unsealed Radioactive Nuclides [UNSEAL], revised April 1994. It will be 
+reviewed on this timeframe or as and when required. 
+ 
+ 
+SAHPGL-RDN-RN-06_v1 
+Page 21 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+16. APPENDICES 
+16.1 Appendix 1: The Concept of ALIMIN 
+ALIs (annual limits on intake) are prescribed in ICRP Publication 61, Annual Limits on Intake of Radionuclides 
+by Workers Based on the 1990 Recommendations. The limits have been set paying regard to the ICRP's new 
+annual dose limit, 20 mSv (2 rem). There are different ALI values for ingestion and inhalation. ALImin for each 
+nuclide means the lesser of these two values.  
+ Table 3 shows the values for ALImin for the most common radionuclides. For nuclides not included in the 
+table, the SAHPRA Radiation Control specifies applicable values.  
+Table 3: ALImin values for some common radionuclides 
+  
+Nuclide 
+ALImin (Bq) 
+ALImin (Ci) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nuclide 
+ALImin (Bq) 
+ALImin (Ci) 
+3H water 
+1.109 
+27 mCi 
+57Co 
+8.106 
+216 µCi 
+14C 
+4.107 
+1 mCi 
+58Co 
+7.106 
+189 µCi 
+18F 
+4.108 
+11 mCi 
+60Co 
+4.105 
+11 µCi 
+22Na 
+7.106 
+189 µCi 
+63Ni 
+1.107 
+270 µCi 
+24Na 
+5.107 
+1.4 mCi 
+64Cu 
+2.108 
+5.4 mCi 
+32P 
+5.106 
+135 µCi 
+67Cu 
+5.107 
+1.4 mCi 
+33P 
+3.107 
+810 µCi 
+62Zn 
+2.107 
+540 µCi 
+35S 
+3.107 
+810 µCi 
+65Zn 
+4.106 
+110 µCi 
+36Cl 
+3.106 
+81 µCi 
+69mZn 
+5.107 
+1.4 mCi 
+38Cl 
+2.108 
+5.4 mCi 
+67Ga 
+8.107 
+2.16 mCi 
+42K 
+5.107 
+1.4 mCi 
+68Ga 
+2.108 
+5.4 mCi 
+43K 
+9.107 
+2.4 mCi 
+73As 
+2.107 
+540 µCi 
+45Ca 
+1.107 
+270 µCi 
+74As 
+9.106 
+243 µCi 
+47Ca 
+1.107 
+270 µCi 
+75Se 
+9.106 
+243 µCi 
+51Cr 
+2.108 
+5.4 mCi 
+76Br 
+5.107 
+1.4 mCi 
+52Mn 
+1.107 
+270 µCi 
+77Br 
+2.108 
+5.4 mCi 
+52mMn 
+3.108 
+8.1 mCi 
+82Br 
+4.107 
+1.1 mCi 
+SAHPGL-RDN-RN-06_v1 
+Page 22 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+54Mn 
+1.107 
+270 µCi 
+81mRb 
+2.109 
+54 mCi 
+56Mn 
+9.107 
+2.4 mCi 
+81Rb 
+4.108 
+11 mCi 
+52Fe 
+1.107 
+270 µCi 
+86Rb 
+8.106 
+216 µCi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nuclide 
+ALImin (Bq) 
+ALImin (Ci) 
+ 
+Nuclide 
+ALImin (Bq) 
+ALImin (Ci) 
+55Fe 
+3.107 
+810 µCi 
+ 
+88Rb 
+2.108 
+5.4 mCi 
+59Fe 
+5.106 
+135 µCi 
+ 
+89Rb 
+4.108 
+11 mCi 
+56Co 
+2.106 
+54 µCi 
+ 
+85mSr 
+4.109 
+108 mCi 
+85Sr 
+1.107 
+270 µCi 
+ 
+134mCs 
+1.109 
+27 mCi 
+87mSr 
+7.108 
+19 mCi 
+137Cs 
+1.106 
+27 µCi 
+89Sr 
+2.106 
+54 µCi 
+131Ba 
+4.107 
+1 mCi 
+90Sr 
+6.104 
+1.6 µCi 
+133mBa 
+3.107 
+810 µCi 
+90Y 
+5.106 
+135 µCi 
+135mBa 
+4.107 
+1 mCi 
+99mTc 
+1.109 
+27 mCi 
+140La 
+8.106 
+216 µCi 
+99Mo 
+1.107 
+270 µCi 
+169Yb 
+9.106 
+243 µCi 
+113mIn 
+9.108 
+24 mCi 
+192Ir 
+3.106 
+81 µCi 
+124Sb 
+3.106 
+81 µCi 
+198Au 
+1.107 
+270 µCi 
+123I 
+9.107 
+2.4 mCi 
+197Hg 
+6.107 
+1.6 mCi 
+125I 
+1.106 
+27 µCi 
+203Hg 
+1.107 
+270 µCi 
+129I 
+2.105 
+5.4 µCi 
+201Tl 
+3.108 
+8 mCi 
+130I 
+1.107 
+270 µCi 
+204Tl 
+3.107 
+810 µCi 
+131I 
+8.105 
+22 µCi 
+210Pb 
+1.104 
+270 nCi 
+132I 
+7.107 
+1.9 mCi 
+212Pb 
+5.105 
+14 µCi 
+109Cd 
+1.106 
+27 µCi 
+210Po 
+1.104 
+270 nCi 
+115Cd 
+1.107 
+270 µCi 
+226Ra 
+9.103 
+243 nCi 
+111In 
+5.107 
+1.4 mCi 
+232Th 
+9.101 
+2.4 nCi 
+129Cs 
+3.108 
+8 mCi 
+238U 
+6.102 
+16 nCi 
+SAHPGL-RDN-RN-06_v1 
+Page 23 of 23
+ 
+Guideline for Code of Practice for Safe Use of Unsealed Radioactive Nuclides 
+1 February 2024 
+ 
+ 
+130Cs 
+7.108 
+19 mCi 
+241Am 
+3.102 
+8 nCi 
+131Cs 
+3.108 
+8 mCi 
+244Cm 
+5.102 
+14 nCi 
+134Cs 
+1.106 
+27 µCi 
+252Cf 
+5.102 
+14 nCi 
+ 
+

@@ -1,0 +1,635 @@
+SAHPGL-CRO-01_v1 
+Page 1 of 17 
+ 
+ 
+ 
+26 August 2026 
+GUIDELINE FOR BORDERLINE PRODUCTS  
+This guideline provides information on the process to be followed when the appropriate regulatory pathway 
+for a specific product is unclear. It also outlines the criteria to be applied to determine whether the product 
+is regulated in terms of the Medicines and Related Substances Act, 1965 (Act 101 of 1965). It should be 
+noted that regulatory decisions relating to borderline products will be made on a case-by-case basis. 
+Applicants are urged to comply with the administrative requirements when submitting applications relating 
+to borderline products to facilitate efficient processing. The South African Health Products Regulatory 
+Authority reserves the right to request additional information where necessary. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+1 
+First Version - NEW 
+August 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CRO-01_v1 
+Page 2 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+Contents 
+Document History ............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................ 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 5 
+1.1. Purpose ..................................................................................................................................................... 5 
+1.2. Scope ......................................................................................................................................................... 5 
+2. 
+LEGAL PROVISIONS ................................................................................................................................... 6 
+3. 
+HEALTH PRODUCTS ................................................................................................................................... 6 
+3.1 Medicine ................................................................................................................................................... 6 
+3.2 Medical devices ......................................................................................................................................... 7 
+3.3 Combination products .............................................................................................................................. 8 
+4. 
+NON-HEALTH PRODUCTS .......................................................................................................................... 9 
+4.1 Cosmetic ................................................................................................................................................... 9 
+4.2 Disinfectant ............................................................................................................................................... 9 
+4.3 Foodstuff ................................................................................................................................................. 10 
+4.4 Other consumer products ....................................................................................................................... 10 
+5. 
+BORDERLINE PRODUCTS ......................................................................................................................... 11 
+5.1 Criteria .................................................................................................................................................... 11 
+5.2 Request for classification of a borderline product .................................................................................. 12 
+5.3 Regulatory compliance ........................................................................................................................... 14 
+6. 
+SUBMITTING AN APPLICATION ............................................................................................................... 14 
+6.1 Processing of applications ....................................................................................................................... 15 
+7. 
+REFERENCES ............................................................................................................................................ 16 
+7.1 Acts and Regulations ............................................................................................................................... 16 
+7.2 Guidelines ............................................................................................................................................... 16 
+8. 
+VALIDITY .................................................................................................................................................. 16 
+ 
+ 
+ 
+ 
+SAHPGL-CRO-01_v1 
+Page 3 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Borderline Product 
+A product for which the appropriate regulatory pathway as a medicine, 
+medical device, cosmetic, foodstuff, disinfectant, or other consumer 
+product is unclear  
+Cosmetic 
+ 
+(Foodstuffs, Cosmetics and 
+Disinfectants Act, 1972 (Act 54 of 
+1972)) 
+Any article, preparation or substance (except a medicine as defined in the 
+Medicines and Related Substances Act, 1965 (Act 101 of 1965) intended to 
+be rubbed, poured, sprinkled or sprayed on or otherwise applied to the 
+human body, including the epidermis, hair, teeth, mucous membranes of 
+the oral cavity, lips and external genital organs, for purposes of cleansing, 
+perfuming, correcting body odours, conditioning, beautifying, protecting, 
+promoting attractiveness or improving or altering the appearance, and 
+includes any part or ingredient of any such article or substance (Note: 
+Definition amended by Act 39 of 2007) 
+DES 
+Drug Eluding Stent 
+Disinfectant 
+ 
+(Foodstuffs, Cosmetics and 
+Disinfectants Act, 1972 (Act 54 of 
+1972)) 
+Any article or substance used or applied or intended to be used or applied 
+as a germicide, preservative, or antiseptic, or as a deodorant or cleansing 
+material which is not a cosmetic  
+Foodstuff  
+ 
+(Foodstuffs, Cosmetics and 
+Disinfectants Act, 1972 (Act 54 of 
+1972)) 
+Any article or substance (except a medicine as defined in the Medicines 
+and Related Substances Act, 1965 (Act 101 of 1965) ordinarily eaten or 
+drunk by a person or purporting to be suitable, or manufactured or sold, 
+for human consumption, and includes any part or ingredient of any such 
+article or substance, or any substance used or intended or destined to be 
+used as a part or ingredient of any such article or substance  
+Health product 
+A medicine, medical device, or scheduled substance as regulated in terms 
+of the Medicines and Related Substances Act, 1965 (Act 101 of 1965) 
+IVD 
+In-vitro Diagnostics 
+Medical device 
+ 
+(Medicines and Related Substances 
+Act, 1965 (Act 101 of 1965)) 
+Any instrument, apparatus, implement, machine, appliance, implant, 
+reagent for in vitro use, software, material, or other similar or related 
+article, including Group III and IV Hazardous Substances contemplated in 
+the Hazardous Substances Act, 1973 (Act 15 of 1973) 
+(a) intended by the manufacturer to be used, alone or in combination, 
+for humans or animals, for one or more of the following: 
+(i) 
+diagnosis, prevention, monitoring, treatment, or alleviation of 
+disease; 
+(ii) diagnosis, monitoring, treatment, alleviation of, or 
+compensation for an injury; 
+(iii) investigation, replacement, modification, or support of the 
+anatomy or of a physiological process; 
+(iv) supporting or sustaining life; 
+SAHPGL-CRO-01_v1 
+Page 4 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+Abbreviation/ Term 
+Meaning 
+(v) control of conception; 
+(vi) disinfection of medical devices; or 
+(vii) providing information for medical or diagnostic purposes by 
+means of in vitro examination of specimens derived from the 
+human body; and which does not achieve its primary 
+intended action by pharmacological, immunological, or 
+metabolic means, in or on the human or animal body, but 
+which may be assisted in its intended function by such 
+Medicine  
+ 
+(Medicines and Related Substances 
+Act, 1965 (Act 101 of 1965)) 
+(a) 
+any substance or mixture of substances used or purporting to be 
+suitable for use or manufactured or sold for use in— 
+(i) 
+the diagnosis, treatment, mitigation, modification, or 
+prevention of disease, abnormal physical or mental state, or 
+the symptoms thereof in humans; or  
+(ii) restoring, correcting, or modifying any somatic or psychic, or 
+organic function in humans, and 
+(b) 
+includes any veterinary medicine  
+Scheduled Substance 
+ 
+(Medicines and Related Substances 
+Act, 1965 (Act 101 of 1965)) 
+Any medicine or other substance prescribed by the Minister under section 
+22A of the Medicines and Related Substances Act, 1965 (Act 101 of 1965) 
+TAC 
+Technical Advisory Committee 
+WHO 
+World Health Organization 
+ 
+ 
+SAHPGL-CRO-01_v1 
+Page 5 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+1. 
+INTRODUCTION 
+Health products that aim to diagnose, treat, or prevent disease and injury include all medicines and medical 
+devices (including in vitro diagnostic devices). Boundaries may sometimes be blurred, with products coming to 
+market which are difficult to distinguish as a medicine, medical device, cosmetic, disinfectant, or foodstuff. A 
+lack of clarity in such cases may lead to overlap or conflicting regulatory requirements. In some cases, the 
+product may escape regulation with no legislation specific to that product being applied. 
+According to the World Health Organization (WHO), “borderline products are generally medical products for 
+which it is unclear as to which legislation applies. Although such products may have some of the attributes of 
+two or more categories of regulated products, they are not necessarily combination products.” The WHO 
+advises that “to be predictable and transparent, the regulator should develop criteria and mechanisms for 
+determining the appropriate regulatory regime for such products through a guideline. It should describe 
+considerations and the process whereby an applicant may obtain an advisory opinion from the regulatory 
+authority.”1 Where necessary, the process should allow for consultation with subject matter experts, the 
+manufacturer concerned, as well as with other regulators as needed. It may also consider determinations made 
+by regulatory authorities in other jurisdictions.  
+1.1 Purpose 
+This guideline sets out the process to determine the appropriate regulatory pathway to be applied in the 
+regulation of borderline products. This approach will help to provide applicants with routing to the relevant 
+competent authority and avoid “regulatory orphaning” for products not clearly regulated under the 
+Medicines and Related Substances Act, 1965 (Act 101 of 1965) (the Medicines Act), or the Foodstuffs, 
+Disinfectants and Cosmetics Act, 1972 (Act 54 of 1972) (the Foodstuffs, Cosmetics & Disinfectants Act). 
+1.2 Scope 
+This document provides guidance on borderline products which could either be classified as medicines or 
+medical devices under the Medicines Act, products classified as cosmetics, disinfectants or foodstuff under 
+the Foodstuffs, Cosmetics and Disinfectants Act as well as other consumer products which are not regulated 
+by these two pieces of legislation. The scope includes combination products which, for purposes of this 
+guideline, may contain a scheduled substance, medicine, and/or a medical device. This guideline does not 
+include products that are, for example, regulated under the Fertilizers, Farm Feeds, Agricultural Remedies 
+ 
+1 WHO QAS/16.664, 2026. 
+ 
+SAHPGL-CRO-01_v1 
+Page 6 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+and Stock Remedies Act, 1947 (Act 36 of 1947). 
+2. 
+LEGAL PROVISIONS 
+According to Section 2A of the Medicines Act, the objects of SAHPRA are to monitor, evaluate, regulate, 
+investigate, inspect, register, and control medicines, scheduled substances, clinical trials, medical devices, 
+including in-vitro diagnostics (IVDs), and related matters in the public interest. The legal definitions of a 
+“medicine, medical device, and a scheduled substance” are provided in Section 1 of the same Act, while 
+Section 15 provides for the registration of medicines, medical devices, and IVDs. 
+If SAHPRA is satisfied that a medicine or medical device should be registered in terms of section 15(3)(a) of 
+the Medicines Act, SAHPRA may register the medicine or medical device subject to conditions determined 
+in terms of section 15(6). Before embarking on the process of application for registration of a product, a 
+decision may, however, be needed as to whether the product in question does indeed fall within the ambit 
+of the Medicines Act. This guideline has been developed to guide that decision-making process. 
+It must be noted, however, that products regulated under both the Medicines Act and the Foodstuffs, Cosmetics 
+and Disinfectants Act may in addition to specific regulatory control under these Acts, also be regulated by aspects 
+of other legislation including but not limited to: 
+• 
+the National Health Act, 2003 (Act 61 of 2003); 
+• 
+the Hazardous Substances Act, 1973 (Act 15 of 1973); 
+• 
+the National Regulator for Compulsory Specification Act, 2008 (Act 4 of 2008); or 
+• 
+the Legal Metrology Act, 2014 (Act 9 of 2014). 
+In addition, all products which fall under the definition of ‘goods’ as defined in the Consumer Protection Act 
+2008 (Act 68 of 2008) are also regulated by that Act. 
+3. 
+HEALTH PRODUCTS 
+3.1 
+Medicine 
+A medicine is defined in the Medicine Act as: 
+“(a) 
+any substance or mixture of substances used or purporting to be suitable for use or 
+manufactured or sold for use in— 
+SAHPGL-CRO-01_v1 
+Page 7 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+(i) 
+the diagnosis, treatment, mitigation, modification, or prevention of disease, abnormal 
+physical or mental state or the symptoms thereof in humans; or 
+(ii) restoring, correcting, or modifying any somatic or psychic, or organic function in humans, 
+and 
+(b) 
+includes any veterinary medicine.” 
+A substance or mixture of substances may be classified as a medicine based on what it is used for, or is 
+claimed to be suitable for use for, as per the definition provided above. The action of a medicine may be 
+achieved in, or on the body of a human or animal, by one or more of the following, or any other mechanism: 
+• 
+Pharmacological - meaning an interaction typically at a molecular level between a substance 
+or its metabolites and a constituent of the human body which results in the initiation, 
+enhancement, reduction, or blockade of physiological functions or pathological processes; 
+• 
+Immunological - meaning an action in or on the body that occurs through the stimulation 
+and/or mobilisation of cells and/or products involved in a specific immune reaction; or 
+• 
+Metabolic - meaning an action which involves an alteration of the normal chemical processes 
+participating in, and available for, normal body function. Such an action could involve the 
+substance or one or more of its metabolites stopping, starting or changing the rate, extent or 
+nature of a biochemical process, whether physiological or pathological.  
+The fact that a product is itself metabolised does not, however, imply that it achieves its principal intended 
+action by metabolic means. 
+3.2 
+Medical devices 
+A medical device is defined in the Medicines Act as: 
+“Any instrument, apparatus, implement, machine, appliance, implant, reagent for in vitro use, 
+software, material, or other similar or related article, including Group III and IV Hazardous Substances 
+contemplated in the Hazardous Substances Act, 1973 (Act 15 of 1973)— 
+(a) intended by the manufacturer to be used, alone or in combination, for humans or animals, for 
+one or more of the following:  
+(i) 
+diagnosis, prevention, monitoring, treatment, or alleviation of disease; 
+SAHPGL-CRO-01_v1 
+Page 8 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+(ii) 
+diagnosis, monitoring, treatment, alleviation of, or compensation for an injury; 
+(iii) 
+investigation, replacement, modification, or support of the anatomy or of a physiological 
+process; 
+(iv) 
+supporting or sustaining life; 
+(v) 
+control of conception; 
+(vi) 
+disinfection of medical devices; or 
+(vii) 
+providing information for medical or diagnostic purposes by means of in vitro 
+examination of specimens derived from the human body; and 
+(b) which does not achieve its primary intended action by pharmacological, immunological or 
+metabolic means, in or on the human or animal body, but which may be assisted in its intended 
+function by such.  
+Where a health product does not achieve its primary intended purpose by pharmacological, immunological, 
+or metabolic means, the product is designated as a medical device, e.g. coronary stent. Such a product may, 
+however, be assisted in that effect or purpose by pharmacological, immunological, or metabolic means, 
+e.g., a coronary stent coated with a scheduled substance, referred to as a drug eluting stent (DES). 
+A product that is a “related article,” is included in the definition of medical device e.g. operating software 
+in a medical device or a foot switch which is necessary to operate a medical device, is itself classified as a 
+medical device.  
+3.3 
+Combination products 
+In the case of medicines and medical devices, a combination product means a product which may be 
+comprised of two or more components regulated as a medicine and a medical device e.g. a syringe 
+prefilled with a medicine. These components may be physically, chemically, or otherwise combined or 
+mixed and presented as a single entity. A medical device may contain a medicine or a scheduled substance 
+which acts on the body in a manner ancillary to the device. However, where such a substance(s) acts in a 
+manner that is the primary intended mode of action, the product is regulated as a medicine rather than a 
+medical device e.g. medicine provided in a metered dose inhaler to treat asthma. Refer to SAHPGL 
+Guideline for Classification of Medical Devices. 
+ 
+SAHPGL-CRO-01_v1 
+Page 9 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+4. 
+NON-HEALTH PRODUCTS 
+4.1 
+Cosmetic 
+A cosmetic is defined in the Foodstuffs, Cosmetics and Disinfectants Act, 1972 as: 
+“Any article, preparation or substance (except a medicine as defined in the Medicines and Related 
+Substances Act, 1965 (Act 101 of 1965)) intended to be rubbed, poured, sprinkled or sprayed on or 
+otherwise applied to the human body, including the epidermis, hair, teeth, mucous membranes of the 
+oral cavity, lips and external genital organs, for purposes of cleansing, perfuming, correcting body 
+odours, conditioning, beautifying, protecting, promoting attractiveness or improving or altering the 
+appearance, and includes any part or ingredient of any such article or substance;” 
+Cosmetics are applied to external parts of the human body with the intended purpose as included in the 
+definition. There is a broad range of products at the cosmetic-medicine-medical device interface. A 
+therapeutic claim may not be made for a cosmetic. In addition, consideration must be given to whether the 
+product is being used, purporting to be suitable for use or manufactured or sold for use for the purposes 
+described in the definition of a medicine or medical device. If such a claim is made and depending on the 
+representation of its intended use and/or composition, the provisions of the Medicines Act may apply.  
+In cases where there is doubt, the appraisal should focus on whether the product is a medicine or a medical 
+device. Thus, if the product falls within the definition of a medicine or a medical device and/or a therapeutic 
+claim is made (e.g. reference made ‘to treat or prevent skin disease’), it must be assessed under the 
+medicine or medical device framework. If neither a medicine nor a medical device framework is applicable 
+it could, for example, be classified as a cosmetic.  
+4.2 
+Disinfectant  
+A disinfectant is defined in the Foodstuffs, Cosmetics and Disinfectants Act, 1972 as: 
+“Any article or substance used or applied or intended to be used or applied as a germicide, 
+preservative or antiseptic, or as a deodorant or cleansing material which is not a cosmetic.” 
+A sanitising product may be classified as a medicine, medical device or disinfectant depending on the: 
+(a) intended use and function of the product; 
+(b) composition of the product; 
+(c) surface to which it is applied e.g. the skin of a person or animal or an inanimate surface; and 
+SAHPGL-CRO-01_v1 
+Page 10 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+(d) the environment where the product is intended for use. 
+For example, a hand sanitiser for personal hygiene might be considered to be a cosmetic if marketed only for 
+cleansing, but if claims are made that it is antibacterial, it may be classified as a disinfectant or medicine. If, 
+the product’s claims or use align with any human or veterinary therapeutic intent, it is a medicine rather than 
+a disinfectant. Disinfectants used to clean medical instruments and inanimate surfaces in for example, 
+hospitals, operating rooms, intensive care units and burn units will be controlled as medical devices under 
+the Medicines Act.  
+4.3 
+Foodstuff  
+A foodstuff is defined in the Foodstuffs, Cosmetics and Disinfectants Act, 1972 as: 
+“Any article or substance (except a medicine as defined in the Medicines and Related Substances Act, 
+1965 (Act 101 of 1965)) ordinarily eaten or drunk by a person or purporting to be suitable, or 
+manufactured or sold, for human consumption, and includes any part or ingredient of any such article 
+or substance, or any substance used or intended or destined to be used as a part or ingredient of any 
+such article or substance; 
+In cases where there is doubt, the first consideration must be whether or not the product falls within the 
+definition of a medicine. Products marketed as foods or supplements should not make therapeutic claims 
+as doing so will result in classification as a medicine. 
+4.4 
+Other consumer products 
+In addition, there are other products which do not meet the definition of either a medicine, medical device, 
+foodstuff, cosmetic, or disinfectant and are intended for purposes or uses not covered by these product 
+types. Such products may include, but are not limited to, exercise equipment, software applications and 
+programmes, and information and communication technology. If, however, a product such as a fitness 
+tracker has the functionality of a medical device (e.g. electrocardiogram (ECG) monitoring in watches) it 
+should be regulated as a medical device.
+SAHPGL-CRO-01_v1 
+Page 11 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+5. 
+BORDERLINE PRODUCTS 
+The process for classification of a borderline product should be initiated when there is a lack of clarity or 
+dispute regarding the correct regulatory pathway to be followed for the classification of the product. In dealing 
+with these situations, the first step is to decide whether or not the product is regulated under the Medicines 
+Act. If it is determined that the product should be regulated by SAHPRA, a recommendation may be made 
+regarding the appropriate regulatory pathway to be applied. 
+5.1 
+Criteria 
+In order to decide the regulatory pathway appropriate for a borderline product, the following factors will be 
+considered: 
+(a) The legal definitions of a medicine, medical device, foodstuff, cosmetic, and disinfectant as 
+provided in the Medicines Act, and the Foodstuffs, Cosmetics and Disinfectants Act, MUST be 
+considered first. In addition, it must be ascertained whether the product itself or a component 
+of the product has been called up for registration in terms of section 14(2) of the Medicines Act. 
+It is also important to check whether the product or a component thereof has been declared as 
+undesirable in terms of section 23 of the Medicines Act in the case of medicines for human use, 
+or section 36A in the case of veterinary medicines. 
+(b) Consideration will also be given to the primary intended purpose and/or use of the product, 
+including any claim(s) made for the product. Both explicit and implicit claims are considered 
+when a product is classified. Explicit claims are stated clearly with no ambiguity regarding their 
+meaning or intent. In contrast, implicit claims use wording which may suggest a therapeutic 
+benefit in an indirect manner (for example -Product X is ‘clinically proven’).  
+Even if no therapeutic claim is made (either explicit or implicit), a product may be classified as a 
+medicine or a medical device, if the intrinsic properties of the product are such that there is no 
+other possible use. For example, paracetamol has no other use but as a medicine. 
+When considering the claim made for a product, it is important to note whether more than one 
+property can contribute to the overall effect of the product when used for this indication. To 
+make the necessary distinction, the applicant should, where appropriate do a risk assessment. 
+Specifically, if it is determined that the greater risk is associated with the modification of any 
+somatic, psychic, or organic function, then the safety, quality, and efficacy of the product would 
+be more appropriately assessed under the medicine framework. The reverse will also apply. 
+SAHPGL-CRO-01_v1 
+Page 12 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+(c) The method by which the primary mode of action is achieved, e.g., through pharmacological, 
+immunological, or metabolic means must be considered. The primary mode of action of the 
+product means the most important therapeutic action that makes the greatest contribution to 
+the overall intended therapeutic effect(s) of the product. For example, the primary mode of 
+action of a metered dose inhaler containing a scheduled substance used to treat asthma, is the 
+pharmacological action of the scheduled substance included in the product, and thus it is 
+regulated as a medicine. In another example, however, the primary mode of action of a drug-
+eluting stent, is for the stent to keep the blood vessel open. The scheduled substance coated 
+onto the stent has the secondary role of reducing the risk of blood clotting in the blood vessel. 
+The product is thus regulated as a medical device. 
+(d) The composition of the product - the presence of, for example, a scheduled substance, in a 
+product that is making a therapeutic claim, would make the product unsuitable for designation 
+as a cosmetic or foodstuff.  
+(e) The classification of similar products on the market and/or in other regulatory jurisdictions may 
+be considered by SAHPRA but will not be binding. It must be emphasised that classification is 
+done on a case-by-case basis with that applied in other jurisdictions used for guidance only, with 
+final decisions based on South African legislation and context. 
+The criteria above may not be given equal weight in support of a decision, as some factors may 
+be more important to consider in one circumstance versus another. Not all criteria need to be 
+applied if a decision can be reached after the examination of one or a few criteria. If the standard 
+criteria do not lead to a clear decision, supplementary considerations may be considered. The 
+final decision is dependent on the overall consideration. See decision tree in Annexure A 
+Once a product has been classified as a medicine or medical device in terms of the Medicines Act, further 
+classification would be applied in accordance with the Act, regulations, and applicable guidelines as 
+determined by SAHPRA. For example, a medicine could be classified into a category as provided in 
+Regulation 9 of the General Regulations published in terms of the Medicines Act. A medical device would 
+be further classified in accordance with SAHPGL-MD-04 Classification of Medical Devices and IVDs. 
+5.2 
+Request for classification of a borderline product 
+The process for classification of a borderline product may be initiated by a prospective applicant before the 
+submission of an application for registration of a health product in terms of the Medicines Act. Alternatively, 
+the process may be proposed to the applicant by SAHPRA after consideration of an application for 
+SAHPGL-CRO-01_v1 
+Page 13 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+registration of a product. In either case, the applicable fee is payable by the applicant. 
+Recommendations as to whether a borderline product falls under the jurisdiction of the Medicines Act are 
+made by a Technical Advisory Committee (TAC) appointed by the Chief Executive Officer of SAHPRA. The 
+TAC will consist of representatives of relevant units within SAHPRA and external experts in the areas of 
+foodstuffs, cosmetics, and disinfectants. 
+SAHPRA will provide the decision to the applicant as to whether the product is deemed to be a medicine, 
+medical device or scheduled substance regulated under the Medicines Act. If it is deemed to fall outside 
+the jurisdiction of SAHPRA, a recommendation may be made to the applicant regarding on an appropriate 
+alternative entity e.g. the Food Control Directorate of the National Department of Health for further input. 
+SAHPRA may change its view regarding the classification of the product in the event of any information or 
+evidence that has a bearing on the status of the product. This may relate to a change in the legislation 
+relating to the product (for example definitions), a change in scientific knowledge or even the way in which 
+the product is packaged, promoted, or presented. SAHPRA can provide no assurance that any product, 
+including products under development, will not subsequently be reclassified (for example, as a medicine or 
+medical device). SAHPRA will engage with the holder of the certificate of registration, or the applicable 
+licence holder regarding such a change in classification. 
+SAHPRA must also be informed if there is an intention to make a change to the claims made relating to a 
+product or to the composition thereof.
+SAHPGL-CRO-01_v1 
+Page 14 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+5.3 
+Regulatory compliance 
+In cases where a product is being marketed which may be considered to be a health product but is not 
+appropriately registered or authorised by SAHPRA, such a health product may also be referred to the TAC, 
+referred to in 5.2 above in cases where there is uncertainty and/or a dispute concerning the classification 
+thereof. 
+6. 
+SUBMITTING AN APPLICATION 
+An application form must be submitted to SAHPRA. The completed submission must include the following 
+documentation: 
+(a) Table of contents (paginated with hyperlinks to sections); 
+(b) Cover letter; 
+(c) Labelling including the professional information, patient information leaflet, and/or label (where 
+applicable); 
+(d) Information for use, user manual, marketing material, or brochure (where applicable); 
+(e) Safety data sheet (where applicable); 
+(f) Report of the results on developmental work (where applicable); 
+(g) Proposed classification with supporting rationale, including composition of the product, primary and 
+secondary (where applicable) mode of action with supporting evidence (where applicable), and any 
+proposed claims (explicit and/or implicit); 
+(h) Risk assessment file (in accordance with ISO 14971 in the case of medical devices and ICH Q9 Quality 
+Risk Management Guidelines in the case of medicines) and, where applicable, a risk management 
+plan;  
+(i) Classification of the product in other jurisdictions recognised by SAHPRA (where relevant); 
+(j) Proof of payment. 
+The applicant must ensure that all relevant fields are completed, and all supporting documentation is attached. 
+Incomplete applications will be identified as deficient, and review will not be progressed until deficiencies are 
+addressed. 
+SAHPGL-CRO-01_v1 
+Page 15 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+The prescribed fee and proof of payment must accompany the application. For the current fee payable, refer 
+to the Regulations regarding fees payable in terms of the provisions of the Medicines and Related Substances 
+Act, 1965 (Act 101 Of 1965) as published in the Government Gazette and on the SAHPRA website. 
+The completed application should be submitted electronically to: borderlineproducts@sahpra.org.za using the 
+identified code. 
+6.1 
+Processing of applications  
+Applications for classification of borderline products will be processed by SAHPRA within 30 working days 
+of receiving a complete and valid submission.  
+Upon receiving an application, SAHPRA will screen the application to ascertain whether all required 
+documents as outlined above have been submitted. In cases where outstanding documents or other 
+deficiencies are identified, SAHPRA will inform the applicant within 20 working days.  
+Applicants will be allowed two opportunities to respond to queries. If the applicant fails to submit 
+outstanding documents and/or address deficiencies within a stated timeframe, the application will be 
+considered incomplete and rejected. Any applicable fee already paid will be forfeited.  
+Once all required information has been received and evaluated, SAHPRA will issue a final response letter to 
+the applicant confirming whether the product falls under the jurisdiction of SAHPRA or provide a 
+recommendation as to the entity that could be approached for further advice. This letter will serve as 
+SAHPRA’s official position on the classification of the product. 
+Applicants who are aggrieved by the decision made by SAHPRA may appeal against such a decision in 
+accordance with section 24A of the Medicines Act.2. 
+If it is found that a product does fall under the jurisdiction of SAHPRA, a separate application for registration 
+(for example, for a medicine) must be submitted as a separate process together with the applicable fee.
+ 
+2 Refer to the SAHPRA guideline SAHPGL-LEG-01 Guideline for appeals against Regulatory Decisions 
+SAHPGL-CRO-01_v1 
+Page 16 of 17 
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+7. 
+REFERENCES 
+The following related documents are referenced: 
+7.1 
+Acts and Regulations 
+7.1.1 
+Medicines and Related Substances Act, 1965 (Act 101 of 1965) and regulations published in 
+terms of that Act; 
+7.1.2 
+Foodstuffs, Cosmetics and Disinfectants Act, 1972 (Act 54 of 1972) and regulations published 
+in terms of that Act; 
+7.1.3 
+The National Health Act, 2003 (Act 61 of 2003); 
+7.1.4 
+The Hazardous Substances Act, 1973 (Act 15 of 1973); 
+7.1.5 
+The National Regulator for Compulsory Specification Act, 2008 (Act 4 of 2008); 
+7.1.6 
+The Legal Metrology Act, 2014 (Act 9 of 2014); 
+7.1.7 
+WHO QAS/16.664, 2026. 
+7.2 
+Guidelines 
+7.2.1 
+SAHPGL-MD-04 Classification of Medical Devices and IVDs (2025) 
+7.2.2 
+SAHPGL-LEG-01 Guidelines for appeals against Regulatory decision (2024) 
+8. 
+VALIDITY 
+This guideline is valid for a period of five years from the date it was approved. It will be reviewed when the 
+validity period expires or as and when required.  
+Guideline for Borderline Products 
+26 August 2026 
+ 
+ 
+ 
+SAHPGL-CRO-01_v1                                                                                                                                                                                                                                                                                         Page 17 of 17 
+ANNEXURE A  
+

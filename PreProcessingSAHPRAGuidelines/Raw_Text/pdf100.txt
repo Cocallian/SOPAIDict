@@ -1,0 +1,275 @@
+SAHPGL-CEM-CT-08_v2 
+Page 1 of 7
+ 
+ 
+ 
+ 
+01 October 2022 
+GUIDELINE FOR CAPACITY BUILDING AND TRANSFORMATION 
+IN CLINICAL RESEARCH IN SOUTH AFRICA 
+This document has been prepared to serve as a guideline for preparation of applications to conduct clinical 
+trials in South Africa.  It represents the South African Health Products Regulatory Authority’s current 
+thinking on capacity building and transformation for clinical research in South Africa.  It is not intended as 
+an exclusive approach and the Authority reserves the right to request any additional information and may 
+make amendments in keeping with the knowledge which is current at the time. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+ 
+Version 1 published for comment 
+March 2018 
+ 
+1 
+Published for implementation 
+July 2021 
+2 
+- 
+Revised on the new SAHPRA Guideline Template 
+- 
+Change of document number from 2.49 to SAHPGL-CEM-CT-08 
+October 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-CT-08_v2 
+Page 2 of 7
+Guideline for Capacity Building and Transformation on Clinical Research in Clinical Trials 
+01 October 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+2. 
+BACKGROUND ........................................................................................................................................... 4 
+3. 
+CAPACITY BUILDING AND TRANSFORMATION DEFINED ........................................................................... 4 
+4. 
+BUILDING CAPACITY FOR CLINICAL RESEARCH IN SOUTH AFRICA ............................................................ 5 
+5. 
+APPLICATIONS FOR CLINICAL RESEARCH IN SOUTH AFRICA ..................................................................... 6 
+6. 
+REFERENCES ............................................................................................................................................... 6 
+7. 
+VALIDITY .................................................................................................................................................... 7 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-CT-08_v2 
+Page 3 of 7
+Guideline for Capacity Building and Transformation on Clinical Research in Clinical Trials 
+01 October 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+CRO 
+Clinical Research Organisations 
+CTF 
+Clinical Trial Application form 
+GCP 
+Good Clinical Practice 
+WHO 
+World Health Organisation 
+SAHPRA 
+South African Health Products Regulatory Authority 
+UNDP 
+United Nations Development Programme 
+ 
+ 
+ 
+SAHPGL-CEM-CT-08_v2 
+Page 4 of 7
+Guideline for Capacity Building and Transformation on Clinical Research in Clinical Trials 
+01 October 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+South African Health Products Regulatory Authority (SAHPRA) is committed to the building of research 
+capacity of health care professionals as well as transformation with regard to research activities 
+throughout the country.  The objective of this document is to articulate the Authority’s understanding 
+of capacity building and transformation so that SAHPRA, the pharmaceutical and medical device 
+industry, grant funded groups, provincial health authorities; applicants/sponsors and investigators in 
+clinical trials share a common understanding of the task of building the capacity of historically 
+disadvantaged groups of South Africans, providing opportunities for healthcare and scientific graduates 
+to acquire the necessary skills to conduct clinical trials, and promoting transformation in clinical 
+research. 
+2. 
+BACKGROUND 
+The South African landscape for clinical trials was noted to have grown by as much as 40 % between 
+1997 and 1998 (Christley, 1998).1   It is safe to speculate that such growth would have followed an 
+upward trajectory since 1998.  This is reflected in practical terms, in the present rate of applications 
+from the pharmaceutical and medical device industry for the conducting of clinical trials in South Africa.  
+Fear that the growth in clinical research applications in South Africa might outstrip capacity to deal with 
+such increase was highlighted by Burgess and Sulzer (2010).2 Furthermore, although close to 85 % of the 
+South African population is dependent on services provided by public health institutions, the vast 
+majority of applications to conduct clinical trials are directed at private sector sites.  In addition, there 
+are many young South African healthcare and scientific graduates, and other professionals who are in 
+need of opportunities to develop the skills of conducting clinical research.  
+To assist in addressing these challenges, it is necessary for all stakeholders involved in clinical research 
+to embrace transformation and capacity building to increase formalised training of young graduates, 
+encourage healthcare and scientific professionals to become clinical trial investigators and facilitate full 
+involvement of both private and public sector healthcare institutions. 
+3. 
+CAPACITY BUILDING AND TRANSFORMATION DEFINED  
+Capacity building in the South African context is defined as an evidence-driven process of strengthening 
+the ability of individuals, organisations and systems to perform core functions sustainably, and to 
+continue to improve and develop over time.  In 1991, the term capacity building evolved to become 
+“community capacity building” in the lexicon of the United Nations Development Programme (UNDP).3  
+The organisation, therefore, defines capacity building as a long-term continual process of development 
+that should include all stakeholders, including ministries, local authorities, non-governmental 
+organisations, professionals, community members, academics and others.  Capacity building thus 
+focuses on the need to use a country's human, scientific, technological, organisational, institutional and 
+resource capabilities to address issues confronting effective development in a country.  The goal of 
+capacity building is therefore to tackle challenges related to policy and methods of development, while 
+considering the potential, limits and needs of the people of the country concerned.  In the South African 
+context, this includes addressing the historically disadvantaged groups marginalised from mainstream 
+research activity along race, gender and other parameters.  The UNDP3 has further emphasised that 
+capacity building needs to be implemented through a three-pronged strategy: at an individual level, at 
+an institutional level and at the societal level.  
+Transformation is defined as a process of holistically changing perceptions through the actions of 
+individuals, organisations and other stakeholders to ensure increased access and opportunities for all 
+South Africans, particularly all women and the youth.  The UNDP3 as well as the World Health 
+SAHPGL-CEM-CT-08_v2 
+Page 5 of 7
+Guideline for Capacity Building and Transformation on Clinical Research in Clinical Trials 
+01 October 2022 
+ 
+ 
+Organisation (WHO)4 have consistently incorporated the concept of transformation into their global 
+programmes, especially in low-middle income countries.  These two global players (UNDP3 and WHO4) 
+define transformation as a long-term, continuous process of development that involves all stakeholders 
+with the primary aim of attempting to bridge the gap between developed and developing societies.  
+As the principle of capacity building is enhanced so too must all the elements of transformation.  If 
+transformation is achieved, it will translate into human capital development; equitable resource 
+distribution; elimination of skills imbalances across the demographic divides, and enhanced 
+competencies for clinical research.  
+4. 
+BUILDING CAPACITY FOR CLINICAL RESEARCH IN SOUTH AFRICA  
+SAHPRA has consistently encouraged a “capacity building” component in a clinical trial application.  It is 
+an expectation that speaks directly to the national imperative for enhancing research throughout the 
+country.  The overall objective of capacity building as envisaged by SAHPRA is the need to increase the 
+pool of healthcare and scientific professionals in South Africa who are exposed to clinical research.  
+These will be the individuals that will form the backbone of the human capital that will guarantee future 
+clinical research performance in South Africa.  
+Capacity building should not be seen as purely a redress for demographic imbalance in the South African 
+society. Its main thrust should be a concerted effort by all stakeholders including government, the 
+pharmaceutical and medical device industry, clinical research organisations (CROs) and academia, to 
+develop and recruit young, skilled medical and other professionals into the practice of conducting clinical 
+research.  In the process, the profile of the clinical research professional cohort needs to be transformed 
+to better reflect the gender, race and other demographic representation in South Africa. 
+The following steps, among others, need to be undertaken in order to achieve the objectives of capacity 
+building and transformation: 
+4.1 
+Partnerships between Department of Health, the pharmaceutical and medical device industry, academic 
+institutions and individuals, be encouraged and strengthened with a common focus on increasing the 
+number of healthcare and scientific professionals that will be involved in clinical research. 
+4.2 
+Collaboration with various Stakeholders in order to increase awareness on clinical trials, benefit of 
+clinical trials on stakeholder facilities. 
+4.3 
+In situations where there are no trial sites located within the facility, consider strategies to develop a 
+working relationship with experienced clinical trial sites situated closer to the facilities in order to build 
+capacity. 
+4.4 
+Where possible, all stakeholders be encouraged to engage academic institutions to develop and include 
+in their curriculum the teaching of subjects related to “Clinical Research & Regulatory Sciences”.   
+4.5 
+Young healthcare and scientific graduates from all sectors of society be encouraged and capacitated to 
+undergo training and acquire the necessary expertise for the conduct of clinical research.  
+4.6 
+Formal and informal ongoing upskilling should be undertaken at every clinical research centre to ensure 
+that those involved in clinical trials can acquire further competence.  This should, for example, include 
+support to new trial sites with improving procedures required to conduct clinical trials.  
+4.7 
+The number of trial sites be increased thus augmenting patient recruitment potential and contributing 
+towards capacity building. 
+ 
+SAHPGL-CEM-CT-08_v2 
+Page 6 of 7
+Guideline for Capacity Building and Transformation on Clinical Research in Clinical Trials 
+01 October 2022 
+ 
+ 
+5. 
+APPLICATIONS FOR CLINICAL RESEARCH IN SOUTH AFRICA  
+To support capacity building and transformation applications for clinical research, applications should 
+include evidence and activity plans to build capacity at each study site as well as enhancing research 
+activities and skills of professionals from historically disadvantaged groups.  In addition, the application 
+should provide evidence and plans to effect transformation in line with national legislation.  It must be 
+noted that although mandatory training in Good Clinical Practice (GCP) forms a part of capacity building, 
+it is only one component thereof.  
+To support transformation and capacity building it is thus proposed the sponsor/applicant must have a 
+policy on “Capacity Building and Transformation in Clinical Research in SA” in place, and preferentially 
+select sites that are compliant.  It is the responsibility of all stakeholders to assist sites to comply with 
+this Capacity Building and Transformation guideline.  
+SAHPRA proposes the following actions: 
+5.1 
+If a trial is to involve four or more trial sites (multi-centre clinical trials), a minimum of 25 % of the sites 
+should be public institution(s) and/or training sites unless there is a clear justification why this is not 
+possible.  All attempts to include public institutions and/or training sites in a multi-centre clinical trial 
+must be properly documented (see Clinical Trial Application form (CTF1): Details of Trialists and Sites), 
+and where any one such institution has declined participation, the applicant must provide written proof 
+of such request and provide reasons given by such institutions for declining to participate in the clinical 
+trial.  
+5.2 
+Public institutions may derive some benefit for hosting research which could include the training of staff 
+or provision of equipment needed for routine clinical services provided the appropriate approval 
+procedure is followed.  
+5.3 
+The sponsor/applicant is encouraged to ensure that selected trial sites include a diverse demographic 
+distribution of all healthcare professionals who possess the required qualifications and experience.  
+5.4 
+Both the sponsor/applicant and the clinical trial site should ensure that historically disadvantaged 
+healthcare professionals at all levels are given well defined roles that will enhance acquisition of 
+expertise for future involvement in the conduct of clinical trials.  If this is not the case, the site and/or 
+applicant are required to provide reasons for such and describe steps to improve the situation.  
+5.5 
+Efforts must be directed at encouraging the appointment and training of historically disadvantaged 
+personnel at all levels of clinical trial site (public institutions and private research sites) that will enhance 
+the full participation by such individuals in the conduct of clinical trials. 
+6. 
+REFERENCES 
+6.1 
+Christley, H.M. 1998. Conducting clinical trials in South Africa.  Applied Clinical Trials. Vol 7(9): 56 – 59. 
+6.2 
+Burgess, L.J. and Sulzer, N.U. 2010. Clinical trials in South Africa: need for capacity building and training. 
+South African Medical Journal. Vol 100(7): 402. 
+6.3 
+United Nations Development Programme. Defining Capacity Building.  Archived on 17 August 2017 from:  
+http://www.gdrc.org/uem/capacity-define.html.  
+6.4 
+World Health Organization. 2017. Ten years of Transformation: Making WHO fit for purpose. Accessed 
+on 01 September 2017 from: http://www.who.int/about/who_reform/ten-years-transformation/. 
+https://reliefweb.int/report/world/ten-years-transformation-making-who-fit-purpose-21st-century 
+SAHPGL-CEM-CT-08_v2 
+Page 7 of 7
+Guideline for Capacity Building and Transformation on Clinical Research in Clinical Trials 
+01 October 2022 
+ 
+ 
+7. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Capacity building and transformation in clinical research in South Africa, document number 2.49. It will be 
+reviewed on this timeframe or as and when required. 
+ 
+

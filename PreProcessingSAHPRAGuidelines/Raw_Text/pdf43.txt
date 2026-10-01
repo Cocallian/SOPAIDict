@@ -1,0 +1,2051 @@
+SAHPGL-PEM-02_v8 
+Page 1 of 42
+ 
+ 
+ 
+23 October 2025 
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+This guideline is intended to provide recommendations to applicants wishing to submit new registration applications as 
+well as variations. It represents the South African Health Product Regulatory Authority’s (SAHPRA)’s current thinking on 
+the safety, efficacy, and quality of medicines. It is not intended as an exclusive approach. SAHPRA reserves the right to 
+request any additional information to establish the safety, efficacy, and quality of a medicine in keeping with the 
+knowledge current at the time of evaluation. Alternative approaches may be used but these should be scientifically and 
+technically justified. The Authority is committed to ensure that all registered medicines will be of the required safety, 
+efficacy, and quality. It is important that applicants adhere to the administrative requirements to avoid delays in the 
+processing and evaluation of applications. 
+ 
+Guidelines and application forms are available from the SAHPRA website. 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment-i think we may remove the amendments from 
+last 10 years QMS may confirm 
+Effective Date 
+1 
+First publication released for implementation and comment 
+May 2003 
+Release for additional comments  
+November 2003 
+Deadline for comment 
+November 2003 
+Date for finalisation/implementation  
+December 2003 
+2 
+Amendment of sections 2, 2.1, 2.1.1 c) h), 2.1.2 a) d) i) j) k) l) m), 2.1.3 b), 
+3, 3.1, 3.2, 3.3, 3.4, 3.5.3, 3.5.4, 3.6, 3.7, 3.8, List of acronyms, 
+Terminology 
+June 2006 
+Deadline for comment 
+14 August 2006 
+Date of implementation 
+2 July 2007 
+3 
+Renumbering of section 2.1.3, amendment of section 2.1.3.2.a) & ii) and 
+addition of section 2.1.3.2 c) re foreign reference products, amendment 
+of section 3.5.4 re validation 
+April 2009 
+Date of implementation 
+June 2009 
+4 
+2.1.1 f) 
+June 2010 
+SAHPGL-PEM-02_v9 
+Page 2 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+2.1.2 & 2.1.3 renumbering, regrouping and clarification of confirmations 
+required and justification of reference products, 
+2.1.2.4, 2.1.2.6, 2.1.2.7 e), 2.1.3.2; 
+3.1.3, 3.1.4, 3.1.5 d) f) i) j) l) m) q), 3.1.6, 3.1.7 c) d) e), 3.1.10; 3.2.1, 3.2.3 
+b), 3.2.16; 
+3.3.1, 3.3.5, 3.3.10, 3.3.11, 3.3.12, 3.3.14; 
+3.4.9; 3.5.1 – 4; 
+3.6.1, 3.6.4, 3.6.6, 3.6.7, 3.6.9; 3.7; 3.8.2 a) b) d); 
+References 
+Date of implementation 
+June 2010 
+5 
+Amended in line with comments received on P&A guideline for CTD; 
+replaced “drug” with “API” in Terminology; indicated FPRR in IFD 
+March 2011 
+Sections 1, 2.1.1, 2.1.1 f), 2.1.2.1 e), 2.1.2.4 a), b), c); 2.1.2.5, 2.1.2.6, 
+2.1.2.7 + table; 
+3.1.1, 3.1.4, 3.1.5 d) e) i) j) k) l) 
+3.1.6, 3.1.7 c), 3.1.8, 3.1.10 
+3.2.1, 3.2.7, 3.2.8, 3.2.9, deleted 3.2.16 
+3.3.1, 3.3.2, deleted 3.3.10 
+3.4.1, 3.4.2, 3.4.5, 3.4.8 
+3.5.1, 3.5.2, 3.5.3, 3.5.4 
+3.6.1, 3.6.4, 3.6.5, 3.6.6, 3.6.11 
+3.8.2 
+List of Acronyms 
+ 
+Date of implementation 
+March 2011 
+6 
+Additions to 2.1.1, 2.1.2.1, and 3.8.2 b) for clarification 
+June 2011 
+Date of implementation 
+June 2011 
+7 
+Publication for comment 
+April 2019 
+Date of implementation 
+July 2019 
+SAHPGL-PEM-02_v9 
+Page 3 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+8 
+- Periodic review of documents 
+- Updated to align with current regulatory terms 
+- Updated to align with new guideline format change 
+- New version number issued from 2.02 to SAHPGL-PEM-02_v8 
+- Updated section 3 to include legal provision (section 15 (1) – (3) of the   
+Act) 
+-SCoRE document obsolete 
+-Add Quality overall summary & Quality information summary (QOS & 
+QIS) under list of forms.  
+- Section 7.5 Documentation required for reliance-based evaluation: 
+Delete information specific to Backlog requirements  
+-Hyperlink all mentioned documents 
+-Update Section 8 South Africa Specific Requirements to include 
+requirements for 3.2.S.4.1 Specification, 3.2.S.7 & 3.2.P.8 Stability   
+-update to include a reference statement to guideline to refer to in a case 
+of a rolling review  
+- Dissolution guideline is obsolete 
+- Stability guideline is obsolete 
+- Biostudies guideline is obsolete 
+- Replace Amendments guideline with Variations addendum  
+-Updated section 9 to include validity  
+-Update Appendix 1: In vitro Studies-Dissolution profile comparison to 
+include table 3: Change in inactive pharmaceutical ingredient (IPI) range:  
+  - Immediate release solid oral dosage form 
+  -Modified release solid oral dosage form (only non-release controlling 
+IPIs) 
+- Delete Appendix 3: Declaration for previous P&A Committee 
+approval/PEM Approval 
+May 2023 
+9 
+-Update to remove the use of old medicines as a reference product in BE 
+studies, to align with current practice 
+October 2025  
+SAHPGL-PEM-02_v9 
+Page 4 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+-Update to include CEP 2.0 requirements  
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-PEM-02_v9 
+Page 5 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+Contents 
+Document History ..................................................................................................................................... 1 
+Glossary .................................................................................................................................................... 7 
+1. 
+Introduction .................................................................................................................................... 9 
+2. 
+Scope .............................................................................................................................................. 9 
+3. 
+Legal provision ................................................................................................................................ 9 
+4. 
+Applicable SAHPRA guidelines to be read in conjunction with new guidelines ................................. 10 
+5. 
+Adopted guidelines ........................................................................................................................ 10 
+6. 
+Variations ...................................................................................................................................... 12 
+7. 
+Review pathways .......................................................................................................................... 12 
+7.1. A Pharmaceutical Evaluations and Management (PEM) evaluation will follow one of the following 
+review pathways: .................................................................................................................................... 12 
+7.2. SAHPRA’s recognised regulatory authorities ................................................................................... 14 
+7.3. Principles of reliance-based evaluation .......................................................................................... 14 
+7.4. Definitions of review pathways ...................................................................................................... 15 
+7.5. Documentation required for reliance-based evaluation .................................................................. 16 
+8. 
+South African Specific Requirements .............................................................................................. 18 
+8.1. Module 3.2.S Active substance ....................................................................................................... 18 
+8.1.1. 3.2.S.4.1 Specification .................................................................................................................... 18 
+8.1.2. 3.2.P.5.1 Final product specifications ............................................................................................. 18 
+8.2. Stability ......................................................................................................................................... 18 
+8.2.1. 3.2.S.7 Drug substance & 3.2.P.8 Drug product ............................................................................... 18 
+8.3. Module 3.2.R: Regional information ............................................................................................... 19 
+3.2.R.1   Pharmaceutical and Biological availability .................................................................................. 19 
+3.2.R.2 
+Parent API manufacturer / DMF Holder with various sites ......................................................... 30 
+3.2.R.3 
+Certificate(s) of suitability with respect the Ph.Eur. (CEPs) Confirmation of WHO API 
+Prequalification (CPQ) ............................................................................................................................. 30 
+Option 1:  Certificate of Suitability of the European Pharmacopoeia (CEP) ................................................ 30 
+Option 2:  Confirmation of API Prequalification document (CPQ). ............................................................. 31 
+3.2.R.4    Multiple API manufacturers ....................................................................................................... 32 
+3.2.R.5 
+Medical devices ........................................................................................................................ 33 
+SAHPGL-PEM-02_v9 
+Page 6 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+3.2.R.6 
+Materials of animal / human origin ........................................................................................... 33 
+3.2.R.7 
+Production documentation ....................................................................................................... 33 
+3.2.R.8 
+Other ....................................................................................................................................... 35 
+9. 
+Reference ...................................................................................................................................... 35 
+10. 
+Validity .......................................................................................................................................... 35 
+Appendix 1: In vitro studies – Dissolution profile comparison ................................................................... 36 
+Appendix 2: Sameness declaration for reliance-based evaluation models ................................................. 41 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-02_v9 
+Page 7 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+API 
+Active Pharmaceutical Ingredient 
+BCS 
+Biopharmaceuticals Classification System 
+BTIF 
+Bioequivalence Trial Information Form 
+CEP 
+Certificate of Suitability to the monographs of the European Pharmacopoeia 
+CoA 
+Certificate of Analysis 
+CPQ 
+Certificate of Pre-qualification 
+CTD 
+Common Technical Document 
+EMA 
+European Medicines Agency 
+FPP 
+Finished Pharmaceutical Product 
+GCP 
+Good Clinical Practice 
+GMP 
+Good Manufacturing Practice 
+GRP 
+Good Regulatory Practice 
+ICH 
+International Council for Harmonisation of Technical Requirements for 
+Registration of Pharmaceuticals for Human Use 
+IPRP 
+International Pharmaceutical Regulators Programme 
+LOD 
+Limit of Detection 
+PEM  
+Pharmaceutical Evaluations and Management  
+MHRA 
+Medicines and Healthcare products Regulatory Agency (UK) 
+NCE 
+New Chemical Entity 
+P&A 
+Pharmaceutical and Analytical 
+SAHPGL-PEM-02_v9 
+Page 8 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+PD 
+Product Dossier 
+Ph.Eur 
+European Pharmacopoeia 
+Post-reg. 
+Post-registration 
+PPL 
+Periplakin (protein coding gene) 
+PQ 
+Pre-qualification 
+Pre-reg. 
+Pre-registration 
+PSF 
+Product Summary File 
+QIS 
+Quality Information Summary 
+QOS 
+Quality Overall Summary 
+RRA 
+Recognised Regulatory Authority 
+RSA 
+Republic of South Africa 
+SADC 
+Southern African Development Community 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SmPC 
+Summary of Product Characteristics 
+SOP 
+Standard Operating Procedure 
+TGA 
+Therapeutic Goods Administration (Australia) 
+US FDA 
+United States of America Food and Drug Administration 
+USP 
+United States Pharmacopoeia 
+WHO 
+World Health Organization 
+ 
+SAHPGL-PEM-02_v9 
+Page 9 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+1. INTRODUCTION 
+The South African Health Products Regulatory Authority (SAHPRA) has decided to harmonise certain 
+organisational medicine policies and procedures with those of the European Medicines Agency (EMA). These 
+in turn are aligned to the framework of the International Council for Harmonisation of Technical Requirements 
+for Registration of Pharmaceuticals for Human Use (ICH). By doing so, SAHPRA will reflect global best practice 
+in terms of the safety, quality, and efficacy of health product regulation. 
+SAHPRA is adopting the EMA, ICH and Southern African Development Community (SADC) guidelines for 
+quality and bioequivalence requirements and endorses the principles contained therein. The EMA guidelines 
+adopted in Section 5 below should be read in conjunction with currently applicable SAHPRA guidelines 
+stipulated in Section 4 below.  
+Please note: Unless mentioned otherwise, where EMA guidelines adopted in South Africa include references 
+to European Union (EU) legislation, the requirements contained in the referenced EU legislation are not 
+applicable to the evaluation of medicines by SAHPRA. South African legislation will apply wherever relevant 
+and current. 
+2. SCOPE 
+This guideline is applicable to new applications for small molecule NCEs, generics and post registration 
+applications. Biological, complementary medicines and medical devices are not covered in this guideline. 
+3. LEGAL PROVISION  
+Section 15(1)-(3) of the Act states: 
+(1) Every application for the registration of a medicine, medical device or IVD shall be submitted 
+to the Chief Executive Officer in the prescribed form and shall be accompanied by- 
+(a) the prescribed particulars; 
+(b) samples of the relevant medicines; 
+(c) where practicable, samples of medical devices or IVDs; and 
+(d) the prescribed registration fees. 
+(2) As soon as possible after receipt by the Chief Executive Officer of an application contemplated 
+in subsection (1), he or she shall inform the applicant in writing that the application is being 
+considered. 
+(3) 
+(a) If after consideration of any such application and after any investigation or enquiry which it 
+SAHPGL-PEM-02_v9 
+Page 10 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+may consider necessary the Authority is satisfied that the medicine, medical device or IVD in 
+question- 
+(i) is suitable for the purpose for which it is intended; 
+(ii) complies with the prescribed requirements; and 
+(iii) is safe, efficacious and of good quality and, in the case of a medical device and IVD, performs 
+as intended, 
+the Authority shall issue the applicant with a certificate of registration to that effect. 
+4. APPLICABLE SAHPRA GUIDELINES TO BE READ IN CONJUNCTION WITH NEW 
+GUIDELINES 
+The SAHPRA guidelines/ forms listed below are to be read in conjunction with the adopted guidelines for    
+quality and bioequivalence requirements. The latest published (i.e., non-draft) version should always be 
+referred to.  
+List of Guidelines  
+SAHPGL-PEM-04 
+International Metric System (SI) Guideline 
+SAHPGL-HPA-07  
+General Information Guideline  
+SAHPGL-PEM-03  
+Guideline for the APIMF Procedure  
+2.24  
+Module 1 Guideline  
+SAHPL-CRO-02 
+Reliance guideline  
+List of forms  
+GLF-PEM-02D 
+Quality overall summary (QOS) 
+GLF-PEM-02C 
+Quality information summary (QIS) 
+OF-PEM-PRE-01H 
+Additional strength biowaiver application form 
+OF-PEM-PRE-01I 
+Biopharmaceutics classification system (BCS) based 
+biowaiver application form 
+OF-PEM-PRE-01J 
+Bioequivalence trial information form BTIF 
+OF-PEM-PRE-01P  
+Abridged review reliance template 
+OF-PEM-PRE-01Q  
+Verified review reliance template  
+ 
+5. ADOPTED GUIDELINES 
+The below list of adopted guidelines should be referred to for quality and bioequivalence requirements for 
+new registrations and variations to currently registered products. 
+Current versions are linked below; however, these are subject to updates, and the latest published non-draft 
+version should always be referred to. 
+At its discretion, SAHPRA may recognise guidance from the WHO, United States of America Food and Drug 
+Administration (US FDA) and other regulatory authorities with which SAHPRA aligns itself. However, 
+SAHPGL-PEM-02_v9 
+Page 11 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+applicants are advised to prepare submissions in line with the new guidelines, read in conjunction with 
+applicable SAHPRA guidelines listed in Section 4. 
+ Quality guidelines: 
+ 
+• 
+SADC quality guideline 
+• 
+ICH quality guidelines 
+ 
+o ICH Q1A – Stability testing of new drug substances and products 
+o ICH Q1B – Stability testing: Photostability of new drug substances and products  
+o ICH Q1C – Stability testing for new dosage forms 
+o ICH Q1D – Bracketing and matrixing designs for stability testing of new drug substances and 
+products 
+o ICH Q1E – Evaluation of stability data 
+o ICH Q2 – Analytical validation 
+o ICH Q3A – Impurities in new drug substances 
+o ICH Q3B – Impurities in new drug products 
+o ICH Q3C – Guideline for residual solvents 
+o ICH Q3D – Guideline for elemental impurities 
+o ICH Q6A – Specifications: Test procedures and acceptance criteria for new drug substances 
+and new drug products: Chemical substances 
+o ICH Q8 – Pharmaceutical development 
+o ICH Q11 – Development and manufacture of drug substances 
+o ICH Q14 – Analytical procedure development  
+ 
+ 
+• 
+EMA Quality guidelines are provided for: 
+ 
+o Active substance 
+ 
+o Manufacturing 
+ 
+o Impurities 
+ 
+o Specifications, analytical procedures, and analytical validation 
+ 
+o Excipients  
+ 
+o Packaging 
+ 
+o Stability 
+ 
+o Pharmaceutical development 
+ 
+o Quality by design 
+ 
+o Specific types of products 
+SAHPGL-PEM-02_v9 
+Page 12 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+ 
+o Lifecycle management 
+o EMA excipient labelling guideline 
+ 
+Bioequivalence guidelines 
+• 
+Bioanalytical method validation, presentation of biopharmaceutical and bioanalytical data, and 
+pharmacokinetic and clinical evaluation of modified release dosage forms 
+• 
+ICH M9 guideline on biopharmaceutics classification system-based biowaivers 
+• 
+ICH M10 Bioanalytical method validation and study sample analysis 
+• 
+M13A-C EWG Bioequivalence for immediate- release solid oral dosage forms 
+ 
+• 
+EMA Comment on bioequivalence for fixed combination products 
+ 
+• 
+EMA Questions and answers – Clinical pharmacology and pharmacokinetics 
+• 
+EMA Questions and answers – Pharmacokinetics Working Party 
+• 
+EMA reflection paper on the dissolution specification for generic oral immediate release products  
+ 
+• 
+SADC Bioequivalence guideline 
+ 
+6. VARIATIONS 
+SAHPRA has adopted the EU variation classification guidelines for orthodox human and veterinary medicines1  
+in full, but with specific exceptions. Please see SAHPRA’s Variations Addendum for Orthodox medicines for 
+more information about the application of the EU variation classification. 
+ 
+The QOS & QIS documents should be submitted with all applications in PDF, M 3.2.R.8, and word in the 
+working folder. The QIS should be submitted with all applicable variations. An updated QOS should be 
+submitted for new API source changes and extensive type II changes which results in major changes to the 
+dossier. 
+ 
+7. REVIEW PATHWAYS 
+7.1. 
+A Pharmaceutical Evaluations and Management (PEM) evaluation will follow one 
+of the following review pathways:    
+ 
+1 Any guidance regarding complementary and biological medicines, as well as medical devices, referenced in the EU variations 
+guidelines is not applicable to SAHPRA – existing guidelines will apply 
+SAHPGL-PEM-02_v9 
+Page 13 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+ 
+a) Full review 
+ 
+b) Abridged review 
+ 
+c) Verified review 
+ 
+d) Recognition 
+ 
+Review pathways (b), (c) and (d) represent reliance-based evaluations. Please see SAHPRA’s Reliance 
+Guideline for further information.  The World Health Organisation defines reliance as “[t]he act whereby the 
+regulatory authority in one jurisdiction may take into account and give significant weight to – i.e., totally or 
+partially rely upon – evaluations performed by another regulatory authority or trusted institution in reaching 
+its own decision. The relying authority remains responsible and accountable for decisions taken, even when it 
+relies on the decisions and information of others.” 
+ 
+SAHPGL-PEM-02_v9 
+Page 14 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+7.2. 
+SAHPRA’s recognised regulatory authorities 
+To qualify for a reliance evaluation pathway, a product being applied for must be registered by one or more of 
+the recognised regulatory authorities (RRAs) with which SAHPRA aligns itself. SAHPRA will leverage 
+evaluation efforts done by RRAs in order to make its evaluation process more efficient and enhance market 
+access. SAHPRA’s current RRAs include: 
+• 
+European Medicines Agency Centralised Procedure (EMA CP) 
+• 
+European Medicines Agency Decentralised Procedure (EMA DCP) (no restrictions on which member 
+state acts as the reference member state) 
+• 
+European Union Mutual Recognition Procedure 
+• 
+European Union National Procedure  
+• 
+Health Canada 
+• 
+Medicines and Health Products Regulatory Agency, UK (MHRA) 
+• 
+Ministry of Health, Labour, and Welfare (MHLW), Japan 
+• 
+Swiss Agency for Therapeutic Products (Swissmedic) 
+• 
+Therapeutic Goods Administration, Australia (TGA) 
+US Food and Drug Administration (US FDA) 
+Additional procedures can be used for reliance / collaborative review, which are not strictly regulatory 
+authorities: 
+• 
+World Health Organisation Prequalification (WHO CRP PQ and SRA) 
+• 
+Zazibona collaborative procedure 
+• 
+African Medicines Agency (AMA) 
+• 
+EU-Medicines for all (EU-M4all) 
+ 
+7.3. 
+Principles of reliance-based evaluation 
+ 
+  Reliance-based evaluation will be based on the following principles: 
+• 
+Reliance is applicable for both new registration and variation applications (Type I and Type II). 
+ 
+• 
+Reliance for Clinical and PEM is applied independently, i.e., the review types selected by the units 
+could differ based on unit-specific document requirements and the availability thereof. 
+ 
+• 
+The application submitted for registration by SAHPRA should be the same as the most updated 
+product on record at the RRA, i.e., all approved variations for the RRA’s registered product should be 
+incorporated in the application submitted for registration by SAHPRA. Pending variations with the 
+RRA should not be included in the application submitted to SAHPRA in order for the application to 
+qualify for reliance. 
+ 
+• 
+All decisions regarding final evaluation pathway (i.e., full review or reliance-based review) as well as 
+the extent of reliance on the RRA’s evaluation of the product being applied for are at the discretion 
+of SAHPRA, based on the documents (and quality thereof) available for reliance- based evaluation. 
+ 
+SAHPGL-PEM-02_v9 
+Page 15 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+• 
+All decisions regarding approval and final registration will be made by SAHPRA, in consideration of 
+multiple factors including an RRA registration. 
+ 
+7.4. 
+Definitions of review pathways 
+ 
+7.4.1 Full review 
+A full review involves a thorough review of all aspects of the dossier, including: 
+• 
+Module 1: Regional administrative data (as required) 
+• 
+Module 2: Relevant summaries 
+• 
+Module 3: Quality data 
+• 
+Module 5: Efficacy data (for generic medicines) 
+ 
+All applications for products/variations that have not been registered/approved by an RRA, or that lack 
+sufficient reliance documentation, will be considered for a full review. To reiterate, both new registrations 
+and Type I and Type II variations, for NCEs and generics, which meet these criteria will be considered for a full 
+review. 
+ 
+ 
+ 
+7.4.2 Abridged review 
+ 
+An abridged review is a reliance-based review comprising: 
+• 
+Validation by SAHPRA to ensure that the product application submitted for registration by 
+SAHPRA is the same as the product registered by the specified RRA. 
+• 
+Evaluation of Module 1 and 3.2.R: Regional administrative information (as required). 
+• 
+Evaluation of specific aspects of the dossier, depending on the type of application submitted 
+ 
+The abridged review process does not involve an abbreviated application – all data and information required 
+for a full review should be submitted, i.e., the full CTD module structure, as well as the QOS & QIS document. 
+Evaluators may still wish to review data in the dossier as required. 
+ 
+An abridged review is applicable to the following types of applications: 
+ 
+i. 
+For a new registration application for a generic medicine already registered by an RRA 
+ii. 
+For a new registration for a WHO PQ product: 
+ 
+• 
+Applicants are required to follow SAHPRA’s process for the WHO Collaborative 
+Registration Procedure in Expression of Interest-WHO Pre-Qualification Collaborative 
+Registration Procedure 
+ 
+iii. 
+For a Type II variation where the variation applied for has already been approved by an RRA 
+and 
+assessment 
+reports 
+are 
+provided. 
+ 
+SAHPGL-PEM-02_v9 
+Page 16 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+ 
+ 
+7.4.3 Verified review 
+ 
+A verified review is a reliance-based review comprising: 
+• 
+Validation by SAHPRA to ensure that the product application submitted for registration by 
+SAHPRA is the same as the product registered by the specified RRA. 
+ 
+• 
+Evaluation of Module 1 and 3.2.R: Regional administrative information (as required). 
+ 
+The verified review process does not involve an abbreviated application – all data and information 
+required for a full review should be submitted, i.e., the full CTD module structure, as well as the QOS 
+& QIS document. Evaluators may still wish to review data in the dossier as required. 
+ 
+A verified review is applicable to the following types of applications: 
+ 
+i. 
+For a new registration application for an NCE medicine already registered by an RRA. 
+ 
+ii. 
+For a Type I variation where the variation applied for has already been approved by an RRA 
+and assessment reports are provided. 
+ 
+7.4.4 Recognition 
+SAHPRA is currently in the process of negotiating recognition agreements with RRAs. Once such an 
+agreement is in place, SAHPRA will publish a framework for the practical implementation thereof. The 
+guiding principle is that applications approved by RRAs with which SAHPRA shares a recognition 
+agreement may not need to be evaluated separately by SAHPRA. Please note that this is not to be 
+confused with collaborative/work-sharing procedures, e.g., Zazibona. Currently, there are no existing 
+recognition agreements with RRA’s that SAHPRA aligns itself with. The recognition pathway will be 
+considered in the future once a framework has been developed.  
+7.5. 
+Documentation required for reliance-based evaluation 
+To qualify for a reliance-based review, an applicant needs to submit additional documentation to the 
+documentation required for a full review. 
+ 
+Table 1: Documentation required for reliance-based evaluation 
+ 
+Document required 
+• 
+Completed abridged review template (OF-PEM-PRE-01P) 
+• 
+Completed verified review template (OF-PEM-PRE-01Q) 
+SAHPGL-PEM-02_v9 
+Page 17 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+• 
+Full, initial scientific assessment/evaluation reports from the RRA where the product is registered,  
+• 
+Details of the outcomes of the application in all jurisdictions where it has been submitted, and 
+• 
+Foreign registration certificate(s), and/or approval of the variation/s, 
+• 
+SmPC, a copy of the patient information leaflet (PIL) and label of the product that has been registered 
+by the RRA, and 
+• 
+If available:  regulatory correspondence with the sponsor/applicant, follow-up assessments, and any 
+other documentation from the RRA related to the final registration decision, and 
+• 
+If available and where applicable: risk management plans and on- site inspection reports (or 
+equivalent), for example GCP/GRP. This does not include the data package filed with the RRA 
+• 
+Letter of approval from the RRA 
+• 
+Declaration: Sameness (Appendix 2) 
+ 
+Additional documentation requirements for the various types of applications may be stipulated in other 
+sections of this guideline or other guidelines.  
+ 
+Additional documentation requirements for WHO CRP PQ and SRA products are detailed in SAHPRA’s 
+process for the WHO Collaborative Registration Procedure Expression of Interest-WHO Pre-Qualification 
+Collaborative Registration Procedure. 
+Additional documentation requirements for Zazibona’s procedure are detailed in SAHPRA’s process for 
+Zazibona’s registration procedure.   
+Additional documentation requirements for reliance-based review of variations’ applications are detailed in 
+SAHPRA’s Variations Addendum for Orthodox Medicines. 
+ 
+7.5.1 Full assessment/evaluation reports 
+• 
+Please note that if the full assessment/evaluation reports from the RRA where the product is 
+registered are in a language which is not English, certified translated versions need to be provided as 
+per SAHPRA guidelines. 
+ 
+• 
+Please note that full assessment/evaluation reports from the RRA where the product is registered 
+should at least include safety, efficacy and quality report(s) prepared by the RRA upon which the 
+registration decision for the health product was based. 
+ 
+• 
+If full assessment/evaluation reports from the RRA are not provided by the applicant, the application 
+in 
+question 
+will 
+most 
+likely 
+default 
+to 
+a 
+full 
+review. 
+ 
+SAHPGL-PEM-02_v9 
+Page 18 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+8. South African Specific Requirements 
+The following guidelines contain information pertaining to the regional requirements specific to South Africa 
+for quality and bioequivalence. Refer to the General Information Guideline (SAHPGL-HPA-07) and Module 1 
+Guideline (2.24) for additional South Africa specific requirements. 
+8.1. 
+Module 3.2.S Active substance 
+8.1.1. 
+3.2.S.4.1 Specification 
+ 
+Please note that all specifications included from the API and FPP manufacturer in the submission will only be 
+accepted if version controlled, dated, and signed. 
+8.1.2 3.2.S.6. Container Closure System  
+Please note that primary and secondary packaging specifications must be signed, dated and version 
+controlled. 
+ 
+8.1.3 3.2.P.4.1 Specification (Inactive Pharmaceutical Ingredient) 
+Please note that excipient specifications if in-house must be signed, dated and version controlled.  
+Excipient specification must include the grade and a once off functionality test. 
+ 
+8.1.43.2.P.5.1 Final product specifications   
+Please note that all specifications included in the submission will only be accepted if version controlled, 
+dated, and signed. 
+ 
+8.1.5 3.2.P.7 Container Closure System  
+Please note that primary and secondary packaging specifications must be signed, dated and version 
+controlled. 
+8.2. 
+Stability 
+ 
+8.2.1. 
+3.2.S.7 Drug substance & 3.2.P.8 Drug product  
+South African Development Community (SADC), and ICH stability guidelines are applicable.  
+Applicants may choose to follow the requirements of SADC or ICH Stability Guideline, as long as this is clearly 
+stated in the Stability Protocol. This does not apply to products applied for through reliance on the Zazibona 
+collaborative process for evaluation. In this case, the SADC Stability Guideline must be adhered to. 
+Regarding the requirement for stability data for generics, a minimum of 6 months’ long-term and 3 months’ 
+accelerated stability data should be made available at the time of submission. However, SAHPRA would 
+SAHPGL-PEM-02_v9 
+Page 19 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+prefer that 12 months’ long-term and 6 months’ accelerated stability data is included in the new registration 
+application to facilitate retest periods. 
+For New chemical entities (NCEs), a minimum of 12 months’ long term and 6 months’ accelerated stability 
+data should be made available at the time of submission. 
+For variations, refer to the Variations Guideline (EU variation classification guidelines).   
+In case of a rolling review and Public Emergency review, refer to the Public Health Emergency guideline.  
+8.3. 
+Module 3.2.R: Regional information 
+3.2.R.1   Pharmaceutical and Biological availability 
+ 
+SCOPE 
+This module addresses the pharmaceutical and biological availability for generic applications and NCE 
+line extensions with special reference to the purpose of the study(ies), the reference product(s) and 
+the overall conclusion. 
+ 
+i) 
+Partial exemption from the requirements of 3.2.R.1 and 5.3.1 may be applicable if efficacy and 
+safety are intended to be established by clinical data (or for other reasons as determined by 
+SAHPRA), provided that clinical trials have been conducted with the same formulation as the 
+one being applied for, in which case: 
+ 
+• 
+The pharmaceutical availability profile(s) of the API(s) in the final formulation being applied 
+for, for which exemption or partial exemption is justified, should specifically be demonstrated, 
+e.g., the dissolution profiles for solid oral, oral suspension and parenteral suspension products 
+should be included in accordance with the reflection paper on the dissolution specification for 
+generic solid oral immediate release products with systemic action, and/or other relevant data 
+provided to unequivocally characterise the formulation used in the clinical trials. 
+ 
+ii) If clinical evidence in support of efficacy is not submitted, or if the final formulation being 
+applied for is not the same as that used in clinical trials, studies, and data to demonstrate the 
+pharmaceutical and/or biological availability/equivalence of the product should be included. 
+ 
+iii) If in the opinion of the applicant no data is required to substantiate efficacy (e.g., 
+parenteral solutions), clearly state the rationale for accepting safety and efficacy and 
+SAHPGL-PEM-02_v9 
+Page 20 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+include a discussion on the excipients (refer to EMA guideline on the investigation of 
+bioequivalence), and a comparison of final product characteristics in 3.2.R.1.4.2. 
+ 
+iv) One of the following methods depending on the relevancy may be used: 
+ 
+• 
+Bioavailability 
+• 
+Dissolution 
+• 
+Disintegration 
+• 
+Acid neutralising capacity 
+• 
+Microbial growth inhibition zones 
+• 
+Proof of release by membrane diffusion 
+• 
+Particle size distribution 
+• 
+Blanching test 
+• 
+EU guidance on locally applied locally acting products 
+• 
+EU guidance on locally acting products in the gut 
+• 
+Any other method provided the rationale for submitting the particular method is included. 
+The above methods are subject to change based on finalisation of EMA guidelines addressing 
+specific routes of administration. 
+ 
+v) Data submitted should always be comparative, except as stated above under i), when 
+product characterisation is submitted. 
+ 
+a) Bioequivalence and/or biowaivers 
+ 
+Refer to the EU Bioequivalence guideline  and EMA reflection paper on the dissolution specification for 
+generic oral immediate release products. 
+For new registration generic applications and applicable variations, SAHPRA requires the completion of a 
+Bioequivalence Trial Information Form (BTIF), designed to provide a summary of a bioequivalence study 
+submitted as part of a product dossier. The completed BTIF will be used by the evaluator to facilitate 
+more rapid and effective evaluation of the bioequivalence study. If applicable, please include a completed 
+BTIF in Microsoft Word format in the working documents folder. 
+ 
+b) In vitro dissolution 
+ 
+The studies should be carried out in accordance with the EMA bioequivalence guideline, reflection paper 
+and ICH M9 guideline on biopharmaceutics classification system-based biowaivers specified above. 
+However, the stringent EMA criteria with respect to time points after > 85% dissolution is achieved (i.e., 
+required for both test and reference products) do not need to be adhered to. 
+ 
+c) Disintegration 
+ 
+Disintegration as proof of efficacy may be used in the following instances: 
+SAHPGL-PEM-02_v9 
+Page 21 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+ 
+• 
+Vitamins or vitamins and mineral combinations when a claim is made as a supplement. 
+ 
+• 
+Sucralfate. 
+ 
+The disintegration test included for Nutritional Supplements in the USP, or in the Ph Eur should be used 
+for the vitamins. 
+ 
+The general disintegration test included in the USP/Ph Eur may be used for the other substances. 
+ 
+ 
+d) Acid neutralising capacity 
+Acid neutralising capacity may be used as proof of efficacy for products with an antacid or acid 
+neutralising claim. The acid neutralising capacity test included in the USP should be used. 
+e) Microbial growth inhibition zones 
+ 
+Microbial growth inhibition zones may be used as proof of efficacy for simple solution topical 
+formulations with a bacteriostatic/bacteriocidal/antiseptic claim. 
+ 
+f) Proof of release by membrane diffusion 
+ 
+Proof of release by membrane diffusion will not be accepted as proof of efficacy alone, unless data are 
+presented that show a correlation between release through a membrane and clinical efficacy. 
+ 
+Additional information can be found below: Quality and equivalence of topical products. 
+ 
+g) Particle size distribution 
+ 
+Particle size distribution may be used in support of proof of efficacy for inhalations. The Anderson 
+sampler or equivalent apparatus should be used. In addition, appropriate information should be 
+submitted to provide evidence of clinical safety and efficacy. 
+ 
+Additional information can be found below:  
+• 
+Pharmaceutical quality of inhalation and nasal 
+products 
+• 
+Requirements for clinical documentation for orally inhaled products  
+ 
+h) Blanching test 
+ 
+The blanching test may be used as proof of efficacy for topical dosage forms containing topical 
+corticosteroids. Additional information can be found at the link below:  
+SAHPGL-PEM-02_v9 
+Page 22 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+Quality and equivalence of topical products 
+The rationale for any other particular method should be provided.   
+ 
+ 
+STUDY PRODUCTS 
+ 
+A sufficient number of retention samples of both test and reference products used in the bioequivalence or 
+other studies, should be kept for one year in excess of the accepted shelf- life, or two years after completion 
+of the trial or until approval, whichever is longer, in order to allow re-testing if so, required by SAHPRA. A 
+complete audit trail of procurement, storage, transport, and use of both the test and reference products 
+should be recorded. 
+ 
+(1) Batch Size 
+The batch used in the bioequivalence or other studies should satisfy the following requirements: 
+ 
+i) 
+The batch size should be a minimum of 100 000 units or at least 10% of the production batch, 
+whichever is greater. If the batch size is less than 100 000 units, the use of a smaller batch size 
+should be motivated/justified. 
+ 
+ii) If the production batch size is smaller than 100 000 units, a full production batch should be used. 
+ 
+iii) A high level of assurance should be provided that the product and process used in the production of 
+the product will be feasible on an industrial scale. If the product is subjected to further scale-up, this 
+should be validated appropriately. 
+ 
+(2) Reference Products (comparators) (see also EMA bioequivalence guideline) 
+ 
+ 
+Copies of the labelling (label(s) and patient information leaflet/professional information) for the reference 
+as well as the innovator product marketed in South Africa should be provided in 
+3.2.R.1.2 except as under point a)(iii) below, in which case a SAHPRA approved patient information 
+leaflet/professional information for a generic or similar product should be submitted if available. 
+ 
+If a different chemical form is used, it must be confirmed that the safety/efficacy profile is not altered 
+(3.2.R.1.1.11). The confirmation may be documented/with bibliographical evidence. If well known (e.g., 
+hydrochloride, maleate, nitrate, stearate), reference to a pharmacopoeia accepted by SAHPRA may be 
+acceptable. 
+N.B. Products containing chemical entities/active moieties that are not registered in 
+South Africa cannot be used as reference products in efficacy and safety studies submitted 
+in support of an application. 
+SAHPGL-PEM-02_v9 
+Page 23 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+ 
+Product strengths not available in South Africa may be applied for and/or used in biostudies provided that 
+the dose range is approved/registered in South Africa. 
+ 
+i) Selection of Reference Product 
+ 
+The reference product should be an innovator product registered by SAHPRA and should be preferably 
+procured in South Africa. where the innovator product is not available, the market leader should be used 
+as the reference (e.g., IMS database). Applicant must submit evidence to substantiate market leadership 
+claim. The use of an old medicine is not acceptable.  
+ 
+The following options for selection of the reference product are listed in order of preference: 
+ 
+i) 
+the innovator product registered and procured in South Africa; or 
+ 
+ii) the innovator product, registered in South Africa, for which a marketing authorisation has 
+been granted by the health authority of a country with which SAHPRA aligns itself (see SAHPL-
+CRO-02_ Reliance Guideline, section 2.1), and which is to be purchased from that market; or 
+ 
+iii) a product from the latest edition of the WHO international comparator products for 
+equivalent assessment of interchangeable multisource (generic) products. The primary 
+manufacturing site is indicated in the WHO comparator list, and the comparator is to be 
+purchased in that country, or; 
+ 
+iv) in the case that no innovator product can be identified – within the context of (i)–(iii) above, the 
+choice of the reference must be made carefully and must be comprehensively justified by the 
+applicant. 
+ 
+j) Reference Products for Combination Products (see also EMA bioequivalence guideline) 
+Combination products should, in general, in accordance with a) above, be assessed with respect to 
+bioavailability and bioequivalence of individual active substances: 
+ 
+• 
+Either single entity products administered concurrently (in the case of clinically justifiable 
+combinations), or 
+ 
+• 
+Using an existing combination as the reference, which should be an innovator product 
+registered by SAHPRA on safety and efficacy data. 
+ 
+In the former instance, immediate release oral dosage forms containing a single API may be used as the 
+reference.   
+ 
+3.2.R.1.1 
+Overview 
+SAHPGL-PEM-02_v9 
+Page 24 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+3.2.R.1.1.1 
+Country where developed, company developed by test product synonyms. 
+Give a brief introductory description of the development of the test product, the 
+innovator and test product synonyms. 
+3.2.R.1.1.2 
+The type of study(ies) submitted as proof of efficacy, i.e., bioequivalence, dissolution, 
+comparative dissolution, or other study(ies). Give a brief description of the rationale for 
+the different studies. 
+3.2.R.1.1.3 
+The purpose of the study or studies (more than one may be applicable): 
+1) 
+comparison of the formulation to be marketed versus the formulation used in 
+clinical trials, or 
+2) 
+proof of efficacy for a multisource (generic) new dosage form/new strength 
+medicine application, or 
+3) 
+proof of efficacy of new formulation (formulation change); or 
+4) 
+proof of efficacy of products manufactured by new manufacturer (manufacturer 
+different to that of the test product - or previously approved/registered - when 
+relevant as per the Variations Addendum); or 
+5) 
+biowaiver in accordance with: 
+• 
+Similarity (for additional strengths) 
+ 
+• 
+Biopharmaceutical Classification System (BCS) 
+ 
+6) 
+characterisation of the clinical trial(s) test product being applied for.  
+3.2.R.1.1.4 
+The status of the reference product 
+• 
+Clinical trial formulation 
+ 
+• 
+Innovator product 
+ 
+• 
+Current formulation (for change of formulation) 
+ 
+3.2.R.1.1.5 
+A description of the type of study(ies), bioequivalence, dissolution, comparative 
+dissolution, or other study(ies). 
+3.2.R.1.1.6 
+Confirmation that the data submitted have been obtained with the formulation and 
+manufacturing process being applied for. 
+If the formulation and or manufacturing process being applied for is different to that 
+of the test product the relevant requirements in accordance with the Variations 
+Addendum and EU variations guide should be complied, and the relevant dissolution, 
+stability and validation data included in 3.2.R.1.4, 3.2.P.8 and 3.2.P.3.5 respectively. 
+ 
+ 
+SAHPGL-PEM-02_v9 
+Page 25 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+ 
+Please note: If the product being applied for is not identical to the test product used in 
+the biostudy (i.e., if changes have been made to the product), the applicant is required 
+to submit data to confirm essential similarity between the product being applied for and 
+the test product used in the bioequivalence study. The data should include, but not be 
+limited to, the following: 
+• 
+Unit formulation, manufacturing procedure and equipment 
+ 
+• 
+Site of manufacture and source of the API 
+ 
+• 
+Overall product specifications and any changes with respect to analytical 
+methods 
+ 
+If the reference product is expired or is not available, a batch of the reference product 
+procured from the same country and manufacturer as the biostudy reference product 
+should be used for dissolution testing. Please note that redoing the biostudy is not 
+required. 
+ 
+3.2.R.1.1.7 
+Confirmation that the test product (all strengths) was manufactured by the same 
+manufacturer and site applied for. 
+If the manufacturer or site being applied for is different to that of the test product the 
+relevant requirements in accordance with the Variations guideline should be complied, 
+and the dissolution, stability and validation data included in 3.2.R.1.4, 
+3.2.P.8 and 3.2.P.3.5 respectively. 
+3.2.R.1.1.8 
+Confirmation that the test product was manufactured with API(s) manufactured by the 
+same API manufacturer as being applied for. 
+Proof of physico-chemical equivalence is required if the manufacturer of the API is 
+additional or different to that stated in 3.2.S and must be included in 3.2.R.4. The 
+relevant requirements in accordance with the Variations guideline should also be 
+complied with and the dissolution, stability and validation data included in 3.2.R.1.4, 
+3.2.P.8 and 3.2.P.3.5 respectively. 
+3.2.R.1.1.9 
+A statement whether in vivo-in vitro correlation from the data was obtained by the 
+method(s) used, if applicable. 
+In vivo-in vitro correlation data should be included in 5.3.1.3. 
+3.2.R.1.1.10 
+Motivation for the use of the particular reference product [Refer to Selection of 
+Reference Products i above] The choice of reference product should be justified by the 
+applicant. Reference products registered in South Africa but produced in another 
+country, the health regulatory authority of which SAHPRA aligns itself with (“foreign” 
+reference product). 
+The following additional information should be supplied when the biostudy reference 
+product used is registered but not procured in South Africa: 
+1) 
+The name and address of the manufacturing site where the reference product 
+is manufactured. 
+SAHPGL-PEM-02_v9 
+Page 26 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+2) 
+The qualitative formulation of the reference product. 
+3) 
+Copies of the immediate container label as well as the carton or outer 
+container label of the reference product. 
+4) 
+For modified release, evidence of the mechanism of modified release of the 
+reference product. 
+5) 
+The method of manufacture of the reference product if claimed by the 
+applicant to be the same. 
+6) 
+Procurement information of the reference product: 
+• 
+Copy of licensing agreement/s if relevant 
+ 
+• 
+Distribution arrangements/agreement/s if relevant 
+ 
+• 
+Copy 
+of 
+purchase 
+invoice 
+(to 
+reflect 
+date 
+and 
+place 
+o
+f purchase) 3.2.R.1.2. 
+ 
+3.2.R.1.1.11 
+Motivation for the use of a pharmaceutical alternative or lower strength 
+3.2.R.1.1.12    Tabular summary of the information pertaining to the study products. 
+To facilitate evaluation a tabular summary (example on the next page) of the following 
+information pertaining to the study products, is required. 
+1) 
+Full details of the reference product(s) used as the standard for reference 
+purposes (including e.g., the applicant, proprietary name, lot number, expiry 
+date). 
+2) 
+If the reference product is registered but not procured in South Africa, the 
+labelling/SmPC/patient information leaflet of the reference product translated 
+into English if not in English, as well as the professional information/patient 
+information leaflet of the relevant innovator product in South Africa. 
+3) 
+Full details of the test product (including e.g., the applicant, proprietary name, lot 
+number, expiry date). 
+4) 
+Assay of test and reference products. The assay of the test and reference 
+products should not differ by more than 5% in assay unless justified. 
+5) 
+Dissolution profiles of test and reference products (EU guideline on the 
+investigation of bioequivalence). 
+6) 
+Certificates of Analysis for the test and reference products analysed using the 
+control procedures for description, assay, impurities, content uniformity and 
+dissolution proposed in the submission for the test product. Include in 3.2.R.1.3. 
+7) 
+A CoA of the API used in the test product study-batch. 
+8) 
+The size of the study/test product batch. 
+ 
+ 
+SAHPGL-PEM-02_v9 
+Page 27 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+ 
+Table 2: Tabular summary of study products 
+ 
+• 
+For example, a biostudy may be adapted as appropriate to include the innovator product in South 
+Africa or other information. 
+ 
+o If the biostudy reference product is not the innovator registered and on the market in South 
+Africa, an extra column for the details of the innovator product in South Africa corresponding 
+to that biostudy reference product is appropriate. Extra rows may be included as required to 
+reflect, e.g., more detailed dissolution results or similarity factor values, or page numbers of 
+documents. 
+ 
+Product Information 
+Reference Product(s) 
+of Biostudies 
+Corresponding RSA 
+Reference product 
+Test product 
+Formulation Applied 
+For 
+Name 
+Biostudy 
+Batch no and expiry date 
+HCR/PHCR 
+Country where purchased/ 
+manufactured 
+*** 
+Manufacturing site 
+Assay results* 
+Impurities 
+Dissolution results 
+Comparative dissolution 
+Batch no and expiry date 
+Assay results % 
+Comp. dissolution results 
+Similarity f2 
+Source of API 
+if known/relevant 
+if known/relevant 
+** 
+Batch size 
+if known/relevant 
+if known/relevant 
+SAHPGL-PEM-02_v9 
+Page 28 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+Product status 
+Clinical trial 
+formulation or 
+Innovator product or 
+Current formulation 
+(for change of 
+formulation) as the 
+case may be 
+Clinical trial 
+formulation or 
+Innovator product or 
+Current formulation 
+(for change of 
+formulation) as the 
+case may be 
+CoAs, test and reference 
+products and API of test 
+product study batch 
+3.2.R.1.3 p 
+3.2.R.1.3 p 
+3.2.R.1.3 p 
+Patient information leaflet 
+/Professional information / 
+SmPC 
+3.2.R.1.2 p 
+3.2.R.1.2 p 
+Module 1.3 
+ 
+ 
+Product Information 
+Reference Product(s) 
+of Biostudies 
+Corresponding RSA 
+Reference product 
+Test product 
+Formulation Applied 
+For 
+Label 
+3.2.R.1.2 p 
+Module 1.3 
+*Justification if the difference between test and reference is more than 5 % 
+** Proof of physical/chemical equivalence is required if the manufacturer is different to that in 3.2.S 
+*** Motivation and supporting data are required if the manufacturer and/or the site applied for is 
+different to the manufacturer and/or site of the test product 
+3.2.R.1.1.13 
+The formulation of each of the dosage strengths of the test product(s) in tabular form 
+in the case of an application for a biowaiver of proportionally similar dosage strengths. 
+3.2.R.1.1.14 
+A discussion and conclusion of the outcomes of each of the studies and other relevant 
+information to support and justify acceptance of product efficacy. 
+3.2.R.1.1.15 
+An overall conclusion 
+It is important to include, in addition to the individual study conclusions, an overall 
+conclusion of all the data submitted to support and justify product efficacy and where 
+relevant, safety. 
+3.2.R.1.1.16 
+References 
+ 
+ 
+SAHPGL-PEM-02_v9 
+Page 29 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+ 
+3.2.R.1.2 
+Reference product/s (local and foreign) (identification/documentation): 
+1) 
+Package inserts 
+2) 
+Label and carton 
+3) 
+Qualitative formulation 
+4) 
+Proof of procurement/invoice (foreign product) 
+ 
+3.2.R.1.3 
+Certificates of Analysis: 
+1) 
+Biostudy reference product 
+2) 
+RSA corresponding innovator 
+3) 
+Biostudy test product and any other strength 
+4) 
+API of the test product 
+5) 
+Before and after formulation/manufacturer/API changes 
+ 
+3.2.R.1.4 
+Pharmaceutical availability studies 
+Please refer to Appendix 1 for relevant guidance on in vitro studies – dissolution profile 
+comparison. 
+ 
+3.2.R.1.4.1 
+Dissolution studies, data, and reports: 
+1) 
+Dissolution profiles of the test and reference products 
+2) 
+Comparative dissolution between foreign reference product and RSA registered 
+innovator product (if applicable) 
+3) 
+Comparative dissolution between different strengths of the test product 
+(biowaiver of additional strengths) 
+4) 
+Comparative dissolution between test and reference products (BCS biowaiver) 
+5) 
+Comparative dissolution data in support of: 
+• 
+additional or different API manufacturer (for low solubility APIs or when 
+particle size or polymorphic form is critical to the bioavailability of the 
+product) 
+ 
+• 
+additional or different FPP manufacturer and/or site 
+ 
+• 
+different formulation being applied for to that of the test product 
+3.2.R.1.4.2 
+1) Other 
+2) Motivation for exemption of data to substantiate efficacy. 
+SAHPGL-PEM-02_v9 
+Page 30 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+If in the opinion of the applicant no data are required to substantiate efficacy (e.g., 
+parenteral solutions), the rationale for accepting safety and efficacy should be clearly 
+stated and include a discussion on the excipients (refer to EMA guideline on the 
+investigation of bioequivalence), and comparison of final product characteristics. 
+3.2.R.2 Parent API manufacturer / DMF Holder with various sites 
+1) If an identical route of synthesis, or manufacturing process of the PPL (in case of 
+Biological Medicines), including the purification step is used by each site of the same 
+parent company or DMF Holder, a statement to this effect will suffice with regard to 
+the route. 
+2) In this case include valid CoAs from the API manufacturer or manufacturer of the 
+primary production lot (in case of Biological Medicines) for two batches issued by 
+each site. 
+3.2.R.3 Certificate(s) of suitability with respect the Ph.Eur. (CEPs) Confirmation of WHO API 
+Prequalification (CPQ) 
+ 
+Option 1:  Certificate of Suitability of the European Pharmacopoeia (CEP) 
+ 
+The CEP holder should issue a signed and dated CEP letter of access to the applicant/FPP manufacturer.  
+ 
+In addition, a written commitment should be included that the applicant will inform SAHPRA in the event of 
+changes, or if the CEP is withdrawn. It should also be acknowledged by the applicant that withdrawal of the 
+CEP would require additional consideration of the API data requirements (full Module 3.2.S) to support the 
+product dossier. 
+ 
+Along with the application being supported by a CEP, the applicant should supply the following information 
+in the dossier, with data summarized in the QIS and QOS. 
+ 
+• 
+3.2.S.1.3 General properties - discussions on any additional applicable physicochemical and other 
+relevant API properties that are not controlled by the CEP and Ph.Eur. monograph, e.g., solubilities 
+and polymorphs as per guidance in this section. 
+ 
+• 
+3.2.S.3.1 Elucidation of structure and other characteristics - studies to identify polymorphs 
+(exception: where the CEP specifies a polymorphic form) and particle size distribution, where 
+applicable, as per guidance in this section. 
+ 
+• 
+3.2.S.4.1 Specification - the specifications of the FPP manufacturer including all tests and limits of 
+the CEP and Ph.Eur. monograph and any additional tests and acceptance criteria that are not 
+SAHPGL-PEM-02_v9 
+Page 31 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+controlled in the CEP and Ph.Eur. monograph, such as polymorphs and/or particle size distribution. 
+ 
+• 
+3.2.S.4.2 / 3.2.S.4.3 Analytical procedures and validation – for any methods used by the FPP 
+manufacturer in addition to those in the CEP and Ph.Eur. monograph. 
+ 
+• 
+3.2.S.4.4 Batch analysis - results from two batches of at least pilot scale, demonstrating compliance 
+with the FPP manufacturer’s API specifications. 
+ 
+• 
+3.2.S.5 Reference standards or materials – information on the FPP manufacturer’s reference 
+standards. 
+ 
+• 
+3.2.S.6 Container closure system - specifications including descriptions and identification of primary 
+packaging components. Exception: where the CEP specifies a container closure system and the 
+applicant / FPP manufacturer declares to use the same container closure system. 
+ 
+• 
+3.2.S.7 Stability - exception: where the CEP specifies a re-test period that is the same as or of longer 
+duration, and storage conditions which are the same or higher temperature and humidity as 
+proposed by the applicant. 
+ 
+In the case of sterile APIs, data on the sterilisation process of the API, including validation data, should be 
+included in the dossier. 
+ 
+Option 2:  Confirmation of API Prequalification document (CPQ) 
+ 
+A complete copy of the WHO Confirmation of API Prequalification document should be provided in this 
+section, together with the duly filled out authorisation box in the name of the FPP manufacturer or applicant. 
+ 
+The applicant should supply the following information in the dossier, with data summarised in the QOS 
+ 
+• 
+3.2.S.1.3 General properties - discussions on any additional applicable physicochemical and other 
+relevant API properties that are not controlled by the API manufacturer’s specifications 
+e.g., solubilities and polymorphs as per guidance in this section. 
+ 
+• 
+3.2.S.2 In the case of sterile APIs, data on the sterilisation process of the API, including validation 
+data, should be included in the dossier, unless it is stated on the CPQ that the API is sterile. 
+ 
+• 
+3.2.S.3.1 Elucidation of structure and other characteristics - studies to identify polymorphs and 
+SAHPGL-PEM-02_v9 
+Page 32 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+particle size distribution, where applicable, as per guidance in this section. 
+ 
+• 
+3.2.S.4.1 Specification - the specifications of the FPP manufacturer including all tests and limits of 
+the API manufacturer’s specifications and any additional tests and acceptance criteria that are not 
+controlled by the API manufacturer’s specifications such as polymorphs and/or particle size 
+distribution. 
+ 
+• 
+3.2.S.4.2 / 3.2.S.4.3 Analytical procedures and validation – for any methods used by the FPP 
+manufacturer in addition to those in the API manufacturer’s specifications. 
+ 
+• 
+3.2.S.4.4 Batch analysis - results from two batches of at least pilot scale, demonstrating compliance 
+with the FPP manufacturer’s API specifications. 
+ 
+• 
+3.2.S.5 Reference standards or materials – information on the FPP manufacturer’s reference 
+standards. 
+ 
+• 
+3.2.S.7 Stability - data to support the retest period if either the proposed retest period is longer or the 
+proposed storage conditions are at a lower temperature or humidity to that of the Prequalified API. 
+ 
+ 
+3.2.R.4    Multiple API manufacturers 
+If more than one manufacturer of the API is being applied for (irrespective of the apparent similarity of the 
+routes utilised by the different manufacturers), or when different routes of synthesis are used in the 
+manufacture of the API, the following should be submitted, in addition to Module 3.2.S for each API: 
+3.2.R.4.1 
+Comparison of the APIs 
+• 
+A report (desktop comparison) pointing out the differences in the routes used, 
+where applicable, and the differences with regard to the impurity profiles and 
+residual solvents unless justified. The specifications for the API should make 
+provision for these impurities and residual solvents. 
+ 
+3.2.R.4.2 
+Batch analysis data (in a comparative tabular format) for at least two batches 
+(minimum pilot scale) of the active substance from the current and proposed 
+manufacturers/sites. 
+3.2.R.4.3 
+Confirmation of compliance with guidelines 
+• 
+Confirmation of compliance with the EU variation classification guideline, stating 
+type and category (Module 1.5.2.1). Confirmation of compliance with the 
+applicable Stability guidelines and identification and location of the relevant data 
+in the dossier is required (Module 1.5.2.1). 
+ 
+3.2.R.4.4 
+Certificates of analysis 
+SAHPGL-PEM-02_v9 
+Page 33 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+• 
+Provide certificates of analysis for each batch of API reported on in 3.2.R.4.2 
+ 
+3.2.R.5 Medical devices 
+Validation/calibration/specifications of medical device(s) 
+3.2.R.6 Materials of animal/human origin 
+All ingredients of animal origin (excluding products from porcine origin) should be BSE/TSE 
+free. Include a declaration from FPP manufacturer that the materials used will always comply 
+with BSE/TSE free requirements. 
+ 
+3.2.R.7 Production documentation 
+Copy of the batch manufacturing record including the ingredient (API and excipients) 
+analytical reports, in process control tests reports, intermediate product test reports, 
+reconciliation records and a certificate of analysis for the batch must be presented. Please 
+note that if there is a major change in the production process that affects the quality 
+evaluation of the product, e.g., changes to the process, in-process controls, or ingredients, 
+updated production documents will be required by SAHPRA. For editorial or administrative 
+changes, annual notifications will suffice, and SAHPRA will not require submission of updated 
+production documents. For minor changes e.g., batch size changes, updated production 
+documents will be required.  
+3.2.R.7.1 
+Executed production documents 
+Copies of the executed production documents should be provided for the batches used in the 
+comparative bioavailability or biowaiver studies. Any notations made by operators on the 
+executed production documents should be clearly legible. 
+For solid oral dosage forms, the bio-batch should, at a minimum, be one-tenth that of full 
+production scale or 100 000 tablets or capsules, whichever is the larger. 
+For dosage forms that do not require a comparative bioavailability study, the executed 
+production documents should be provided for the batches used in the product development. 
+Copies of executed manufacturing records should be in English or translated into English 
+where relevant. 
+3.2.R.7.2 
+Blank/master production documents  
+SAHPGL-PEM-02_v9 
+Page 34 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+Copies of the FPP master production documents must be provided for each manufacturing 
+site (including addition of a new FPP manufacturing site for variations) and should ideally be 
+provided for each proposed strength and commercial batch size. Master production 
+documents from a pilot scale batch will be sufficient, if the process has not yet been scaled up 
+to production scale. Please note that the pilot batch size should correspond to at least 10% 
+of the production scale batch or 100 000 tablets or capsules, whichever is the larger. 
+Where the EMA guidelines permit bracketing for commercial batch sizes, master production 
+documents for the smallest and largest batches as validated will be sufficient. 
+The details in the master production documents should include, but not be limited to, the 
+following: 
+a) 
+master formula; 
+b) 
+dispensing, processing and packaging sections with relevant material and operational 
+details; 
+c) 
+relevant calculations (e.g., if the amount of API is adjusted based on the assay results or 
+on the anhydrous basis); 
+d) 
+identification of all equipment by, at minimum, type and working capacity (including 
+make, model and equipment number, where possible); 
+e) 
+process parameters (e.g., mixing time, mixing speed, milling screen size, processing 
+temperature range, granulation end-point, tablet machine speed (expressed as target 
+and range)); 
+f) 
+list of in-process tests (e.g., appearance, pH, assay, blend uniformity, viscosity, particle 
+size distribution, LOD, weight variation, hardness, disintegration time, weight gain 
+during coating, leaker test, minimum fill, clarity, filter integrity checks) and 
+specifications; 
+g) 
+sampling plan regarding the: 
+i. steps where sampling should be done (e.g., drying, lubrication, compression), 
+ii. number of samples that should be tested (e.g., for blend uniformity testing of low dose FPPs, 
+blend drawn using a sampling thief from x positions in the blender), 
+iii. 
+frequency of testing (e.g., weight variation every x minutes during compression or 
+capsule filling); 
+h) 
+precautions necessary to ensure product quality (e.g., temperature and humidity 
+control, maximum holding times); 
+i) 
+for sterile products, reference to SOPs in appropriate sections and a list of all relevant 
+SOPs at the end of the document; 
+j) 
+theoretical and actual yield; 
+k) 
+compliance with the GMP requirements. 
+SAHPGL-PEM-02_v9 
+Page 35 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+If some of the required detail is contained in standard operating procedures (SOPs) and not in the master 
+production document, the applicant should submit both the master production document and the relevant 
+SOPs. 
+3.2.R.8 Other 
+Placeholder section for documents that do not have a specified location in the CTD folder structure, but 
+which the applicant deems necessary for evaluation of the dossier. This includes the QOS & QIS 
+document. 
+ 
+9. Reference 
+The reference documents listed below are intended to provide additional information. However, it should be 
+noted that documents identified do not represent a comprehensive list of all reference documents and may 
+be further supplemented: 
+• 
+“European Medicines Agency quality guidelines” EMA quality guidelines 
+• 
+“European Medicines Agency Bioequivalence guidelines” 
+https://www.ema.europa.eu/en/investigation-bioequivalence-scientific-guideline 
+• 
+“European Medicines Agency variation classification guidelines for orthodox human and veterinary 
+medicines” EU variation classification guidelines 
+• 
+“International Council for Harmonisation of Technical Requirements for Registration of 
+Pharmaceuticals for Human Use” https://www.ich.org/page/ich-guidelines 
+• 
+“Southern African Development Community guidelines” https://zazibona.com/guidelines/ 
+• 
+“World Health Organisation” https://extranet.who.int/pqweb/ 
+ 
+10. Validity 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces SAHPGL-
+PEM-02_V8_ Quality-and-Bioequivalence-Guideline. It will be reviewed on this timeframe or as and 
+when required. 
+ 
+ 
+SAHPGL-PEM-02_v9 
+Page 36 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+Appendix 1: In vitro studies – Dissolution profile comparison 
+ 
+Please refer to the EMA Bioequivalence guideline for more information 
+ 
+For biowaiver purposes the dissolution profiles in three media (and the main/specification dissolution 
+medium if not one of the three dissolution media, as described in the ICH M9 guideline), of the test and the 
+reference product should be tested for similarity. The f2 similarity factor should be used to compare 
+dissolution profiles from different products and/or strengths of a product. An f2 value ≥ 50 indicates a 
+sufficiently similar dissolution profile such that further in vivo studies are not necessary. For an f2 value < 50, 
+it may be necessary to conduct an in vivo study. However, when both test and reference products dissolve 
+85% or more of the label amount of the API in ≤15 minutes similarity is accepted without the need to 
+calculate f2 values. 
+ 
+1. Proportionally similar formulations 
+ 
+a. Proportionally Similar Dosage Forms/Products 
+ 
+Pharmaceutical products are considered proportionally similar in the following cases: 
+ 
+• 
+When all APIs and inactive pharmaceutical ingredients (IPIs) are in exactly the same proportion 
+between different strengths (e.g., a 100 mg strength tablet has all API and IPIs exactly half of a 200 
+mg strength tablet and twice that of a 50 mg strength tablet). 
+ 
+• 
+When the APIs and IPIs are not in exactly the same proportion but the ratios of IPIs to the total mass 
+of the dosage form are within the limits defined by table 3 below. 
+ 
+• 
+When the pharmaceutical products contain a low concentration of the APIs (e.g., less than 5%) and 
+these products are of different strengths but are of similar mass. The difference in API content 
+between strengths may be compensated for by mass changes in one or more of the IPIs provided 
+that the total mass of the pharmaceutical product remains within 10 % of the mass of the 
+pharmaceutical product on which the bioequivalence study was performed. In addition, the same 
+IPIs should be used for all strengths, provided that the changes remain within the limits defined by 
+table 3 below. 
+ 
+Table 3:  Change in inactive pharmaceutical ingredient (IPI) range: 
+- Immediate release solid oral dosage form. 
+- 
+Modified 
+release 
+solid 
+oral 
+dosage 
+form 
+(only 
+non-release 
+controlling 
+IPIs) 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-02_v9 
+Page 37 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+DESCRIPTION 
+DOCUMENTS 
+WHICH 
+MAY 
+BE 
+AFFECTED/REQUIRED  
+ 
+IPI (m/m) per total target dosage form mass 
+% IPI 
+Formulation; 
+final 
+product 
+specifications 
+and 
+control procedures; 
+manufacturing 
+procedure. 
+Filler 
+≤ 5 % 
+Disintegrant: 
+Starch 
+≤ 3 % 
+Binder 
+≤ 1 % 
+Lubricant  
+Ca/Mg stearate 
+≤ 0.25 %  
+ 
+Other  
+≤ 1 % 
+Glidant:  
+ 
+Talc 
+≤ 1 % 
+Other 
+≤ 0.1 % 
+Film-coat 
+≤ 1 % 
+The total effect of all IPI changes should not be more than 5 % m/m relative to the total 
+dosage mass.  
+Calculation example 
+API 
+500mg 
+Total IPIs 
+100 mg 
+Total dosage mass 
+600 mg 
+Lactose: change from 30 to 45 mg (=15/600) 
+=+2.5 % 
+Cellulose: change from 50 to 35 mg (-15/600) 
+=-2.5 % 
+Absolute total change 
+= 5 % 
+ 
+ 
+A prerequisite for qualification for a biowaiver based on dose-proportionality of formulations is that: 
+ 
+• 
+The multisource product at one strength has been shown to be bioequivalent to the corresponding 
+strength of the reference product. 
+ 
+• 
+The further strengths of the multisource product are proportionally similar in formulation to that of 
+the studied strength. 
+ 
+When both criteria are met and all the dissolution profiles of the further dosage strengths are shown to be 
+SAHPGL-PEM-02_v9 
+Page 38 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+similar to the one of the studied strengths on a percentage released vs. time basis, the biowaiver procedure 
+can be considered for the further strengths. 
+ 
+b. Immediate release tablets 
+ 
+When the pharmaceutical product is the same dosage form but of a different strength and is proportionally 
+similar in its API and IPIs, a biowaiver may be acceptable. 
+ 
+c. Modified Release Products 
+ 
+A modified-release dosage form is one for which the API release characteristics of time course and/or location 
+are chosen to accomplish therapeutic, or convenience objectives not offered by conventional dosage forms 
+such as solutions, ointments, or promptly dissolving dosage forms. Delayed-release and extended-release 
+dosage forms are two types of modified-release dosage forms. 
+ 
+Delayed-release dosage forms - A delayed-release dosage form is one that releases an API(s) at a time other 
+than promptly after administration. 
+ 
+Extended-release dosage forms - An extended-release dosage form is one that allows at least a twofold 
+reduction in dosing frequency or significant increase in patient compliance or therapeutic performance as 
+compared to that presented as a conventional dosage form (e.g., as a solution or a prompt drug-releasing, 
+conventional solid dosage form). 
+ 
+ 
+SAHPGL-PEM-02_v9 
+Page 39 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+The terms-controlled release, prolonged action, and sustained release are used synonymously with 
+extended release. This document uses the term extended release to describe a formulation that does not 
+release an API immediately after oral dosing and that also allows a reduction in dosage frequency. This 
+nomenclature accords generally with the USP definition of extended release but does not specify an impact 
+on dosing frequency. The terms-controlled release and extended release are considered interchangeable in 
+this guidance. 
+ 
+Modified release products include delayed release products and extended (controlled) release products. In 
+general, bioequivalence studies are required. In addition to the studies required for immediate release 
+products, a food-effect study is necessary. Multiple dose studies are generally not recommended. 
+ 
+Beaded Capsules - Lower Strength 
+ 
+For extended-release beaded capsules where the strength differs only in the number of beads containing 
+the API, a single-dose, fasting BE study should be carried out on the highest strength. A biowaiver for the 
+lower strength based on dissolution studies can be requested. Dissolution profiles in support of a biowaiver 
+should be generated for each strength using the recommended dissolution test methods and media.  
+ 
+d. Tablets – Lower strength 
+ 
+For extended-release tablets when the pharmaceutical product is: 
+ 
+i. 
+in the same dosage form but in a different strength, and 
+ 
+ii. 
+is proportionally similar in its APIs and IPIs, and 
+iii. 
+has the same drug/API release mechanism, 
+ 
+An in vivo BE determination of one or more lower strengths may be waived based on dissolution testing as 
+previously described. Dissolution profiles should be generated on all the strengths of the test and the 
+reference products. 
+ 
+When the highest strength (generally, as usually the highest strength is used unless a lower strength is 
+chosen for reasons of safety) of the multisource product is bioequivalent to the highest strength or dose2 
+of the reference product, and other strengths are proportionally similar in formulations and the dissolution 
+profiles are similar between the dosage strengths, biowaiver can be considered to lower / other strengths. 
+ 
+ 
+2 Dose included in the dosage range of the SAHPRA-approved package insert of the innovator product registered in 
+South Africa 
+SAHPGL-PEM-02_v9 
+Page 40 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+2. Reference Products registered in South Africa but procured in another country, the regulatory 
+authority of which SAHPRA aligns itself with 
+ 
+Bioequivalence studies submitted where a foreign reference product has been used, will require 
+demonstration of equivalence between the foreign product and the innovator product marketed in South 
+Africa. If the reference product is not the current innovator product available on the SA market, then the 
+reference product may be procured from another country provided that it complies with the requirements 
+specified.  
+Dissolution profiles of the test and reference products should be compared for similarity as described in the 
+EMA Bioequivalence guideline for each of the three specified media irrespective of the solubility and/or 
+stability profiles. Further evidence in the main/specification dissolution medium, if not one of the required 
+dissolution media, should be provided. 
+ 
+3. Variations 
+ 
+Although this guideline comments primarily on registration requirements for multisource pharmaceutical 
+products, in vitro dissolution testing may also be suitable to confirm similarity of product quality and 
+performance characteristics with minor formulation or manufacturing changes after approval.  
+ 
+ 
+SAHPGL-PEM-02_v9 
+Page 41 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+Appendix 2: Sameness declaration for reliance-based evaluation models 
+ 
+To be completed by the applicant: 
+ 
+Application for {Application number, if 
+allocated} {Proposed product name} 
+{Name of recognised regulatory authority} 
+Registration date 
+Date(s) of approval of post-registration 
+variation(s) if applicable 
+ 
+ 
+I, {Full name}, {Job title} at {Company’s full legal name}, hereby confirm the following for application 
+{Application number, if allocated} submitted to the South African Health Products Regulatory Authority 
+(SAHPRA) on {Date of application submission}: 
+ 
+• 
+The information and documentation provided in support of this submission for registration is true 
+and correct. 
+ 
+• 
+The product submitted for registration with SAHPRA is the same as the product registered with the 
+above-specified regulatory authority or authorities. 
+ 
+• 
+The technical information in the dossier submitted to SAHPRA for registration is the same as the 
+technical information approved by the above-specified regulatory authority or authorities, taking 
+into account all variations that the above-specified regulatory authority or authorities have 
+approved since registration. 
+ 
+The “same” product is characterised by: 
+ 
+• 
+The same product dossier content; 
+ 
+o 
+Note:  For WHO PQ vaccines submitted to the WHO in Product Summary File (PSF) format, 
+this content needs to be transferred to CTD format 
+ 
+• 
+The same manufacturing chain, processes and control of materials and finished product, and in the 
+case of vaccines also by the same batch release scheme; 
+ 
+• 
+The same active pharmaceutical ingredient (API) and finished pharmaceutical product (FPP) 
+specifications 
+ 
+• 
+The same essential elements of product information for pharmaceutical products, and in the case 
+of vaccines, by the same product information, packaging presentation and labelling. 
+ 
+Information which need not be the same: 
+ 
+• 
+Module 1, i.e., region-specific administrative requirements 
+• 
+Module 3.2.R, i.e., region-specific requirements to enable bioequivalence evaluation with a 
+SAHPGL-PEM-02_v9 
+Page 42 of 42
+QUALITY AND BIOEQUIVALENCE GUIDELINE 
+23 October 2025 
+ 
+ 
+country-specific comparator if required 
+ 
+Minor differences which are not considered essential may include differences in administrative information, 
+brand name, format, and level of detail of product information as per regional requirements, labelling of 
+internal and external packaging and language of product information. 
+ 
+I hereby confirm that if documents have been submitted by [Insert full company legal name here] which 
+were received by the above-specified regulatory authority or authorities, these documents are complete 
+and unredacted. 
+ 
+Full name of Responsible pharmacist / Person authorised to communicate with the authority: Job 
+title, company: 
+Email address: 
+Telephone 
+number: 
+Signature: 
+ 
+Date: 
+Place: 
+https://www.sahpra.org.za/document/reliance-guideline/ 
+

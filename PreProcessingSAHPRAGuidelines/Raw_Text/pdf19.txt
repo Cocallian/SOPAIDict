@@ -1,0 +1,1669 @@
+SAHPGL-RDN-RN-20_v1
+Page 1 of 40
+3 0 
+ M a r c h 
+ 2 0 2 6 
+G U I D E L I N E  F O R  T R A N S P O R T A T I O N  S E C U R I T Y  F O R  R A D I O A C T I V E  M A T E R I A L 
+This guideline specifies the basic security conditions for obtaining a transport authority for Group IV hazardous
+substances as defined in the Hazardous Substances Act 15 of 1973, referred to in this guideline as radioactive
+material. This represents the guidance of the South African Health Products Regulatory Authority (SAHPRA)
+applicable to all governmental and private organisations involved in the transportation of Group IV hazardous
+substances. In the event of conflict with any transport security-related regulations, such regulations will take
+precedence.
+Document History
+Final
+Version
+Reason for Amendment
+Effective Date
+1
+New guideline
+April 2026
+2
+SAHPGL-RDN-RN-20_v1
+Page 2 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+Contents
+Document History............................................................................................................................ 1
+1.
+Preliminaries.........................................................................................................................4
+1.1
+Purpose........................................................................................................................................ 4
+1.2
+Scope............................................................................................................................................4
+1.3
+Fundamental Obligation............................................................................................................... 4
+2.
+Definitions............................................................................................................................ 5
+3.
+Responsibilities......................................................................................................................7
+3.1
+Responsibilities of the Authority Holder....................................................................................... 7
+3.2
+Qualification and Training.............................................................................................................7
+3.3
+Transfer of Radioactive Material...................................................................................................8
+3.4
+Export of Radioactive Material..................................................................................................... 8
+3.5
+Confirmation of Export............................................................................................................... 10
+3.6
+Import of Radioactive Material................................................................................................... 10
+3.7
+Confirmation of Import...............................................................................................................11
+3.8
+Reporting of Radiological Security Events................................................................................... 12
+4.
+Categorisation and Assignment of Security Level..................................................................... 13
+5.
+Requirements for Security in the Transport of Radioactive Material........................................... 15
+5.1
+Prudent Management Practices..................................................................................................15
+5.2
+Basic Transport Security Level Requirements (Categories 1, 2, and 3)..........................................16
+5.2.1
+Contingency Planning..............................................................................................................16
+5.2.2
+Trustworthiness Determination.............................................................................................. 17
+5.2.3
+Shipper and Carrier Credentials...............................................................................................17
+5.2.4
+Written Procedures.................................................................................................................18
+5.2.5
+Security Training..................................................................................................................... 18
+5.2.6
+Exchange of security-related information................................................................................19
+5.2.7
+Communications..................................................................................................................... 19
+5.2.8
+Security Verification................................................................................................................19
+5.2.9
+Receipt Verification.................................................................................................................19
+5.3
+Enhanced Transport Security Level Requirements (Category 1 and 2)..........................................20
+SAHPGL-RDN-RN-20_v1
+Page 3 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+5.3.1
+Information Protection........................................................................................................... 20
+5.3.2
+Transport Security Plan........................................................................................................... 20
+5.3.3
+Planning and Coordination......................................................................................................21
+5.3.4
+Physical Security..................................................................................................................... 22
+5.3.4.1
+Detection............................................................................................................................ 22
+5.3.4.2
+Delay...................................................................................................................................22
+5.3.4.3
+Response.............................................................................................................................23
+5.3.5
+Communications..................................................................................................................... 23
+5.3.6
+Pre-shipment Security Verification..........................................................................................23
+5.4
+Other Security Measures for Category 1 Shipments.................................................................... 23
+5.4.1
+Advance Notification...............................................................................................................24
+5.4.2
+Shipment Monitoring and Tracking......................................................................................... 24
+5.4.3
+Additional Physical Security.................................................................................................... 24
+5.4.4
+Additional Pre-Shipment Verification......................................................................................24
+5.5
+Additional Security Measures..................................................................................................... 25
+5.6
+Category 1, 2, and 3 Security Guidance Table..............................................................................26
+5.7
+International Shipment by Air or Sea.......................................................................................... 27
+5.8
+Use of International Standards and Other Publication................................................................ 27
+6.
+Inspection and Enforcement.................................................................................................. 27
+6.1
+Regulatory inspection of Vehicles and Information..................................................................... 27
+6.2
+Enforcement...............................................................................................................................27
+7.
+Validity Clause.....................................................................................................................29
+8.
+Annex I: Categorisation Table................................................................................................30
+8.1
+Table 1. Categories of Radioactive Material for Common Applications........................................30
+8.2
+Table 2. Activities Corresponding to Category Thresholds........................................................... 31
+9.
+Annex II: Transport Security Plan Template Outline..................................................................33
+SAHPGL-RDN-RN-20_v1
+Page 4 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+1. Preliminaries
+1.1 Purpose
+This guideline specifies the basic security conditions for obtaining a transport authority for Group IV hazardous
+substances as defined in the Hazardous Substances Act 15 of 1973, referred to in this guidance as radioactive
+material. This guidance is provided in support of the Regulations relating to Group IV Hazardous Substances,
+issued in terms of section 29 of the Hazardous Substances Act (15 of 1973) and published under Government
+Notice R247 in Government Gazette 14596, dated 26 February 1993 (R247) and any subsequent regulations
+made pursuant to the Hazardous Substances Act.
+This guidance is not intended to relieve an authorised party of the duty to take any additional actions as may
+be appropriate and necessary for radiological safety and security to protect the public, patients, radiation
+workers and the environment.
+1.2 Scope
+This guidance applies to all the transport and associated activities of all Category 1, 2, and 3 radioactive
+materials. This guidance does not apply to nuclear material (as defined in the Nuclear Energy Act, No. 46 of
+1999), except for radioactive sources that incorporate plutonium-239.
+This guidance applies to road, air, rail, and maritime transport of radioactive material both domestically and
+internationally and must be adhered to by all conveyors, users, and manufacturers.
+1.3 Fundamental Obligation
+Any person making an application for the transport of radioactive material must comply with this guidance
+and the security-related requirements and conditions of the applicable authority as a condition for receiving
+authorisation.
+SAHPGL-RDN-RN-20_v1
+Page 5 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+2. Definitions
+Definitions included in the Hazardous Substances Act 15 of 1973 shall also apply to this guideline. For the 
+purpose of this guideline, the following additional definitions apply:
+Act
+The Hazardous Substances Act 15 of 1973
+Associated activity
+The acquisition, disposal, possession, production, use, storage,
+import, export or transport of radioactive material.
+Associated facility
+A radioactive material facility
+Authority Holder
+Any person, organisation, or government entity authorised by the
+Regulator to engage in an associated activity or operate an associated
+facility. In relation to the transport of radioactive material, Authority
+Holders include the Consignor, Conveyor and Consignee.
+Authority
+A written authority referred to in section 3A of the Act
+Consignee
+Any person or organisation that is authorised to take delivery of a
+consignment of radioactive material (authorised recipient)
+Consignor/shipper
+Any person or organisation that prepares or offers a consignment of
+radioactive material for transport (authorised sender)
+Contingency Plan
+Predefined sets of actions for response to unauthorised acts
+indicative of attempted unauthorised removal or sabotage, including
+threats, designed to effectively counter such acts 
+Conveyor/Carrier
+Any person or organisation that is authorised to transport/convey
+radioactive material
+Delay
+The act of postponing hindering or causing something to occur more
+slowly
+Detection
+A process in a security system that begins with sensing a potentially
+malicious or other unauthorised act and that is completed with the
+assessment of the cause of the alarm
+Export
+The physical transfer of radioactive material originating from the
+Republic of South Africa to an importing State or to a recipient in an
+importing State
+Graded approach
+The application of radiological security measures proportional to the
+potential consequences of a malicious act
+Group IV Hazardous Substance
+means radioactive material which is outside a nuclear installation as
+defined in the Nuclear Energy Act, 1999, and is not a material which
+forms part of or is used or intended to be used in the nuclear fuel
+cycle, and -
+(a) has an activity concentration of more than 100 becquerels per
+gram and a total activity of more than 4 000 becquerels; or 
+(b) has an activity concentration of 100 becquerels or less per gram
+or a total activity of 4 000 becquerels or less and which the Minister
+has by notice, in the Gazette declared to be a Group IV hazardous
+substance,and which is used or intended to be used for medical,
+SAHPGL-RDN-RN-20_v1
+Page 6 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+scientific, agricultural, commercial or industrial purposes, and any
+radioactive waste arising from such radioactive material;
+[Definition of “Group IV hazardous substance” inserted by s. 1 of Act
+53/92, substituted by s. 84 of Act 131/93 and amended by s. 58 of Act
+46/99]
+Guard
+A person who is entrusted with responsibility for patrolling,
+monitoring, assessing, escorting individuals or transport, controlling
+access and or providing initial response
+IAEA
+International Atomic Energy Agency
+Import
+The physical transfer of radioactive material originating from an
+exporting State into the Republic of South Africa or to a recipient in
+South Africa
+Malicious Act
+An act or attempted act of sabotage or of unauthorised removal of
+radioactive material
+Management
+Operating an associated facility or engaging in an associated activity,
+including transport
+NECSA
+South African Nuclear Energy Corporation
+Performance testing
+Testing of security measures and the security system to determine
+whether or not they are implemented as designed; adequate for the
+proposed natural, industrial and threat environments; and in
+compliance with established performance requirements
+R247
+The Regulations relating to Group IV Hazardous Substances, made in
+terms of section 29 of the Hazardous Substances Act 15 of 1973 and
+published under Government Notice R247 in Government Gazette
+14596, dated 26 February 1993 (R247)
+Radioactive material
+Any Group IV hazardous substance as defined in the Hazardous
+Substances Act 15 of 1973
+Radiological security event
+An event that is assessed as having implications for radiological
+security. 
+Radiological Security Officer
+A person appointed as such in terms of Regulation 13 (3), including
+an Acting Radiological Security Officer 
+Radiological security
+The prevention and detection of, and response to, theft, sabotage,
+unauthorised access, illegal transfer or other malicious acts involving
+radioactive material, associated activities or associated facilities
+Regulatory authority/ Regulator
+South African Health Products Regulatory Authority
+Response
+The actions undertaken, following detection, to prevent an adversary
+from succeeding in unauthorised removal or sabotage or to mitigate
+potentially harmful consequences.
+Sabotage
+Any deliberate act directed against an associated facility or an
+associated activity that could directly or indirectly endanger the
+health and safety of the public, patients, radiation workers or the
+environment by exposure to radiation or release of radioactive
+substances.
+Safety
+Measures intended to minimise the likelihood of accidents involving
+radioactive material and, should such an accident occur, mitigate its
+consequences.
+SAHPGL-RDN-RN-20_v1
+Page 7 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+Special form
+Special form certificate is an official document that certify that a
+radioactive source meets international safety standards under IAEA
+and UN regulations. A sealed source that is solid, encapsulated and
+leak tight, such that it cannot disperse under normal transport
+conditions- this ensure that even if the source is damaged or dropped,
+it will not leak radioactive material.
+Security culture
+The assembly of characteristics, attitudes and behaviours of
+individuals, organisations and institutions which serve to support,
+enhance and sustain radiological security
+Security management
+The establishment and implementation of policies, plans, and
+procedures, and the deployment of the necessary resources, for the
+security of radioactive material associated facilities and associated
+activities. Security management includes measures for access control,
+trustworthiness
+verification,
+information
+protection,
+computer
+security, preparation of a Security Plan, training and qualification of
+personnel, accounting, inventory and response to and reporting of
+nuclear security events.
+Security Plan
+A document prepared by the Authority Holder (or applicant for an
+authority) that presents a detailed description of the security
+arrangements in place at an associated facility or in connection with
+an associated activity.
+Storage in Transit
+The holding of radioactive material in a location incidental to
+transport that provides security commensurate with the category of
+material being transported.
+Threat
+A person or group of persons with motivation, intention and
+capability to commit a malicious act.
+Trustworthiness determination
+An assessment of an individual’s integrity, honesty and reliability;
+pre-employment checks and checks during employment that are
+intended to identify the motivation or behaviour of persons with
+authorised access to associated facilities or associated activities or to
+sensitive information.
+Unauthorised removal
+The theft or other unlawful taking of radioactive material.
+3. Responsibilities
+3.1 Responsibilities of the Authority Holder
+The person holding the Authority to Convey is responsible for security during transport.
+3.2 Qualification and Training
+The Authority Holder shall ensure that all personnel on whom security depends are appropriately trained and
+qualified so that they understand their responsibilities and can perform their duties with appropriate
+SAHPGL-RDN-RN-20_v1
+Page 8 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+judgement and according to defined procedures. They shall be periodically retrained or re-qualified as may be
+appropriate.
+At a minimum, such training shall include:
+(1)
+All employees shall be informed at least annually of the importance of effective security measures
+and be trained in their implementation as appropriate.
+(2)
+Records shall be kept of such training and information sessions. The records shall include at a
+minimum the date, details of presenter(s), details of content, and details of attendees.
+(3)
+Training programmes shall be routinely evaluated and updated, as necessary.
+Individuals engaged in the transport of radioactive material should receive security training, including Basic
+Security Awareness Training. This training should include training on the need for transport security, the nature
+of security-related threats, methods to address security concerns and actions to be undertaken if a radioactive
+material security event occurs. It should also include awareness of Transport Security Plans when appropriate,
+commensurate with the responsibilities of individuals and their roles in implementing Transport Security Plans.
+3.3 Transfer of Radioactive Material
+The Authority Holder shall not transfer (hand over) radioactive material to another party unless:
+(1)
+the Authority Holder is authorised to do so by SAHPRA and
+(2)
+the recipient possesses a valid authority for the radioactive material; and
+(3)
+the Authority Holder provides the recipient with all relevant technical information to permit the
+safe and secure management of the radioactive material.
+3.4 Export of Radioactive Material
+Any person intending to export radioactive material shall apply to the Regulator for an export authority.
+(1)
+The application for authority to export radioactive material shall include a copy of the recipient’s
+authorisation to receive and possess the radioactive material to be exported. The recipient’s
+authorisation shall include at least the following information:
+(a)
+Name of the issuing authority;
+(b)
+Name of the recipient;
+SAHPGL-RDN-RN-20_v1
+Page 9 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+(c)
+Recipient location and legal address or principal place of business;
+(d)
+Name and contact details (phone number and email address) of responsible person;
+(e)
+Relevant radionuclides;
+(f)
+Activity level of the radionuclides (TBq);
+(g)
+Uses of the radioactive material;
+(h)
+Container to be used and a valid container certificate;
+(i)
+Manufacturer source certificate; and
+(j)
+Recipient authorisation expiry date (if any).
+(2)
+Other information to be submitted as part of the application for authority to export may
+include, as applicable: 
+(a)
+Chemical and physical form (e.g., solid, liquid, gas, capsule, resin);
+(b)
+Reason for export, e.g., sale, contract work, or returning depleted sources to manufacturer;
+(c)
+Type of packaging according to the IAEA Regulations for the Safe Transport of Radioactive
+Material;
+(d)
+Justification or explanation of any need to use the “exceptional circumstances” provisions
+in IAEA ‘Guidance on the Import and Export of Radioactive Sources’, if applicable;
+(e)
+Modes of transport (air, sea, road or rail) and name and Authority number of the Conveyor;
+(f)
+Port of exit and estimated date of export. (This information needs to be protected. The
+transmission of the dates may be in a separate enclosure or via password protected file.
+Access to this information must be for need-to-know personnel only, both with the exporter
+and SAHPRA.)
+(3)
+After receiving an authority to export Category 1 or 2 radioactive material, the Authority Holder
+shall ensure that: 
+(a)
+The export of the radioactive material is conducted in compliance with all applicable
+transport requirements of the IAEA Regulations for the Safe Transport of Radioactive
+Material and other, national Regulations on transport of dangerous goods, the IAEA Code
+SAHPGL-RDN-RN-20_v1
+Page 10 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+of Conduct and its ‘Supplementary Guidance on the Import and Export of Radioactive
+Sources’; and
+(b)
+The regulatory body or other relevant counterpart in the importing State is notified through
+the Regulator in advance (at least seven days to the extent practicable) of each shipment
+with the following information in writing: 
+i.
+the estimated date of export (This information needs to be transmitted securely as
+well).
+ii.
+exporting Authority Holder
+iii.
+recipient’s name and Import authority (license) number, and contact details of
+responsible person
+iv.
+radionuclide(s)
+v.
+Activity level of the radionuclides (TBq);
+vi.
+the number of radioactive sources and, if available, their unique identifiers.
+3.5 Confirmation of Export
+The Export Authority Holder shall provide the Regulator with documented evidence that all the radioactive
+material listed on the export authority have been cleared by the South African Revenue Services (SARS)
+Customs and the exportation has been concluded, or that the export transaction has been cancelled. This
+notification must occur within one month of completion of the exportation or cancellation.
+3.6 Import of Radioactive Material
+An Authority Holder intending to import radioactive material shall apply to SAHPRA for an import authority.
+(1)
+The application for authority to import radioactive material shall include the following
+information: 
+(a)
+Exporting country;
+(b)
+Name and email address of the regulatory body in the exporting state;
+(c)
+Name, address and contact details (phone number and email address) of the exporter;
+(d)
+Name and contact details (phone number and email address) of responsible person
+representing the recipient;
+SAHPGL-RDN-RN-20_v1
+Page 11 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+(e)
+Recipient location and legal address or principal place of business;
+(f)
+File number and authority number of end user’s authority to possess and use the
+radioactive material;
+(g)
+For each source: radionuclide name;
+(h)
+Activity level of the radionuclides (TBq);
+(i)
+Security category of the consignment;
+(j)
+Intended use of the radioactive material, whether sealed or unsealed, and physical form
+(e.g., solid, liquid, gas, capsule, resin);
+(k)
+Type of packaging according to the IAEA Regulations for the Safe Transport of Radioactive
+Material;
+(l)
+Details of the arrangements for the safe and secure disposal or management of the
+source(s), including financial provisions where appropriate, once they have become
+disused, including copies of any contractual agreements;
+(m)
+Justification or explanation of any need to use the “exceptional circumstances” provisions
+in IAEA ‘Guidance on the Import and Export of Radioactive Sources’, if applicable;
+(n)
+Modes of transport (air, sea, road or rail) and name and file number of end conveyor; and
+(o)
+Port of entry and expected date of entry.
+(2)
+After receiving authority to import the radioactive material, the Authority Holder shall, to the
+extent possible, ensure that the import of the radioactive material complies with all applicable
+transport requirements of the IAEA Regulations for the Safe Transport of Radioactive Material
+and with other national Regulations for transport of dangerous goods.
+3.7 Confirmation of Import
+The Authority Holder shall provide the Regulator with documented evidence that all the radioactive materials
+listed on the import authority have been cleared by SARS Customs and the importation has been concluded,
+or that the import transaction has been cancelled. This notification must occur within one month of completion
+of the importation or cancellation.
+SAHPGL-RDN-RN-20_v1
+Page 12 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+3.8 Reporting of Radiological Security Events
+The authority holder shall include provisions in the Transport Security Plan to report and take action if a
+situation involving the loss of control of unauthorised access to actual or attempted theft or sabotage, or
+misrouting during transport of radioactive material occurs. The Authority Holder shall include provisions in
+the Transport Security Plan for reporting and taking action as follows:
+(1)
+Immediately inform SAHPRA and SAPS Explosives Unit;
+(2)
+Take appropriate action to remedy the circumstances and to prevent a recurrence of similar
+situations;
+(3)
+Investigate the causes, circumstances, and consequences of the event and
+(4)
+Within seven days, or as required, provide the Regulator with a report on the causes of the event,
+its circumstances and consequences, and on the corrective or preventive actions taken or to be
+taken.
+SAHPGL-RDN-RN-20_v1
+Page 13 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+4. Categorisation and Assignment of Security Level
+Radioactive materials shall be assigned a security category of Enhanced Transport Security Level or Basic
+Transport Security Level. Packages containing Category 1 or 2 radioactive sources are assigned to the Enhanced
+Transport Security Level, and packages containing Category 3 radioactive sources are assigned to the Basic
+Transport Security Level. The category of the material is assigned based on the activity of the sources using
+the methodology described below:
+
+The D-value is a radionuclide-specific value assigned to radioactive material which, if not under control,
+could cause severe deterministic effects for a range of scenarios that include both external exposure
+from unshielded radioactive material and inadvertent internal exposure following dispersal (e.g., by
+fire or explosion) of the radioactive material. 
+
+The activity of radioactive material (A) in common applications varies over many orders of magnitude.
+D-values are therefore used to normalise the range of activities to provide a reference in comparing
+risks. This is done by taking the activity A of the source (in TBq) and dividing it by the D-value for the
+relevant radionuclide. 
+
+Authority Holders shall categorise their radioactive material in accordance with Annex I of this
+document. Authority Holders shall use the A/D ratio as shown in Table 1 for categorising radioactive
+sources with an assigned D value as listed in Table 2.
+
+For unsealed material, if the activity is greater than 3000A2, it falls within the Enhanced Transport
+Security Level. If below 3000A2, it falls within the Basic Transport Security Level. A2 values can be
+found in Table 2 of IAEA Publication Regulations for the Safe Transport of Radioactive Material (No.
+SSR-6 Rev. 1)
+See Figure 1 below for a graphic representation of the security levels.
+SAHPGL-RDN-RN-20_v1
+Page 14 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+FIGURE 1 TRANSPORT SECURITY LEVELS (NSS 9-G)
+SAHPGL-RDN-RN-20_v1
+Page 15 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+5. Requirements for Security in the Transport of Radioactive Material
+5.1 Prudent Management Practices
+Prudent Management Practices should be applied to all shipments of radioactive material regardless of
+material category. These practices are the same basic security precautions that might be applied to any cargo
+of high value. 
+1)
+General security provisions
+a)
+The Authority Holder shall ensure that all persons engaged in the transport of radioactive material
+apply security measures commensurate with their responsibilities and the level of threat.
+b)
+Radioactive material shall be transferred only to authorised Authority Holders.
+c)
+When radioactive material is temporarily stored at transit sites or makes an expected or unexpected
+stop, appropriate security measures shall be applied consistent with the measures applied during use
+and storage.
+d)
+The Authority Holder shall have procedures in place to ensure that, if any package is not delivered to
+the intended recipient at the expected time, an inquiry is initiated about the status of that package. If
+the package has been lost or stolen or appears to have been tampered with, procedures shall
+immediately be initiated to locate and recover the package.
+e)
+Enclosed lockable vehicles should be used for transportation of radioactive materials.
+f)
+Radioactive material must be transported in approved packaging and the transport package must be
+locked and secured to the vehicle to prevent inadvertent movement during transport.
+g)
+Transport containers must be locked inside the vehicle and must be positioned at the maximum
+distance possible from the passenger compartment.
+h)
+If an open vehicle is used, the transport container must be permanently fixed to the vehicle unless it
+weighs more than 2000 kg.
+i)
+Utilising carriers with package tracking systems (e.g., bar code system to monitor the status of the
+shipment), as appropriate;
+j)
+Not leaving packages or conveyances unattended for any longer than is absolutely necessary;
+SAHPGL-RDN-RN-20_v1
+Page 16 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+k)
+Providing drivers of road conveyances with effective communication capability;
+l)
+Satellite tracking system on vehicle.
+5.2 Basic Transport Security Level Requirements (Categories 1, 2, and 3)
+In addition to Prudent Management Practices, the Basic Transport Security Level Requirements shall be applied
+to radioactive material that has been evaluated as Category 1, 2, or 3.
+5.2.1
+Contingency Planning
+Contingency plans include predefined sets of actions for response to off-normal situations, such as
+unauthorised acts indicative of attempted unauthorised removal or sabotage, including threats thereof
+designed to effectively counter such acts. 
+Contingency plans must be developed for all shipments of Category 1, 2, and 3 radioactive materials. The
+graded approach will be applied such that the level of rigor and detail will be greater for higher category
+material, with Category 1 being the highest category and requiring the most detail.
+Category 3 Contingency Plans should include emergency contact telephone numbers and basic driver actions
+to take if an off-normal event occurs.
+Category 2 Contingency Plans should include emergency contact telephone numbers of detailed instructions
+on actions to take if an off-normal event occurs. 
+Category 1 Contingency Plans should include comprehensive instructions for response to off-normal situations
+based on an analysis of all credible hazards and threats which may arise during the shipment.
+General notes on developing contingency plans:
+
+All safety incidents have a security component if the shipment is halted.
+
+Contingency plans are a working document containing formats, such as flow-charts and bulleted lists.
+
+The credible hazards and threats may be identified using a standardised checklist.
+
+Identify categories of risks using the checklist, for example:
+o
+Environmental/Natural
+o
+Traffic/Routing
+o
+Medical
+o
+Mechanical
+SAHPGL-RDN-RN-20_v1
+Page 17 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+o
+Malicious act
+
+Each risk category should have a response framework developed so that an individual contingency plan
+does not need to be developed for every conceivable scenario – the basic actions are the same within
+each category. If there is a major difference in protocol, then a new plan can be developed (i.e., if
+there is severe weather inbound, vs a mudslide that damages the road – the severe weather might
+cause a delay in the shipment, while the mudslide might reroute the shipment, but both natural
+disasters).
+
+Contingency plans must always support and not hinder first responders, and should never dictate first
+responder actions (i.e., do not tell the police what to do, and need to be compatible with the police
+response so that they do not slow down or reduce the effectiveness of the police response).
+
+It is acceptable for security and safety contingency plans to be combined in a single document so that
+the driver has access to all contingency plans in a single location. 
+5.2.2
+Trustworthiness Determination
+The Authority Holder shall subject persons engaged in the transport of radioactive material to a
+trustworthiness determination commensurate with their responsibilities. 
+Methods of determining trustworthiness:
+1)
+Criminal history check conducted by the South African Police Service (SAPS).
+2)
+Conflict of interest statement, examples might include self-reported disclosures of any outside business
+dealings, which could cause a violation of this security guidance or incentives to compromise the security
+of radioactive material in transport. This statement should be reviewed and approved by a senior
+management official of the Authority Holder. 
+3)
+Drug and Alcohol testing should be administered at randomised intervals and should ensure that personnel
+performing their duties in the transport of radioactive material are not performing their duties while
+impaired. 
+5.2.3
+Shipper and Carrier Credentials
+Each crew member of any conveyance transporting radioactive material shall carry means of identification,
+such as an official identification document, including an identity document, driver’s license, or passport.
+SAHPGL-RDN-RN-20_v1
+Page 18 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+This photo identification must be accompanied by a written authorisation from the crew member’s employer,
+with the names of individuals specifically authorized to perform a given transport.
+5.2.4
+Written Procedures
+The Authority Holder shall develop implementation procedures and provide them to crew members. These
+procedures shall address the application of security measures which have been required as a condition of the
+Transport Authority issued by the regulatory body. 
+Response procedures should include basic steps on how to respond to an off-normal incident during transport,
+such as safe parking instructions and emergency points of contact. At a minimum, these procedures should
+include 24-hour contact information for the Authority Holder’s radiation protection officer, the regulatory
+body, and SAPS. Additionally, they may include emergency contact information for the national emergency
+centre and emergency services. Emergency services telephone numbers must be obtained from the local
+service providers. 
+5.2.5
+Security Training
+The Authority Holder shall ensure that all persons engaged in the transport of radioactive material receive
+training, including training in the elements of security awareness. Such training shall be provided or verified
+upon employment and periodically supplemented by retraining. Records of all security training undertaken
+shall be kept by the Authority Holder and shall be made available, upon request, to the employee and to the
+Regulatory Authority.
+Security Awareness training should include the following elements:
+a)
+Describe the need for transport security;
+b)
+The nature of security-related threats;
+c)
+Methods to address security concerns;
+d)
+Actions to be undertaken if a security event occurs; and
+e)
+Training on the Transport Security Plan, where applicable, and the individual’s role(s) in implementing
+the Transport Security Plan.
+SAHPGL-RDN-RN-20_v1
+Page 19 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+5.2.6
+Exchange of security-related information
+Authority Holders shall cooperate and with the appropriate authorities to exchange information on applying
+security measures and responding to security incidents.
+The purpose of information sharing is to ensure uniformity of security throughout the transport; however,
+information sharing should only be conducted in a manner that is consistent with information protection
+requirements. 
+5.2.7
+Communications
+During transport, the Authority Holder should provide the capability for vehicle crew members to
+communicate with their company or law enforcement to request assistance. This can be executed, for
+example, by using mobile telephones. Communication should remain effective throughout the entire journey.
+Where this is not possible, predefined communication points in the journey should be agreed to in order to
+provide evidence that the journey is proceeding as planned without incident.
+5.2.8
+Security Verification
+Conveyors shall perform security verification inspections of conveyances and shall ensure that these security
+measures remain effective during transport. This inspection should be documented using a signed and dated
+checklist prior to shipment departure. 
+Self-Inspections should be conducted to verify that security measures specified in the Prudent Management
+Practices and Basic Transport Security Level have been implemented as a condition for receiving a Transport
+Authority. 
+5.2.9
+Receipt Verification
+The Consignee should have procedures in place to verify that package contents match the expected radioactive
+material inventory and/or any relevant shipment documents available. The procedures should include
+provisions for notifying SAHPRA, Consignor, and Conveyor if radioactive material is discovered to be missing.
+SAHPGL-RDN-RN-20_v1
+Page 20 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+5.3 Enhanced Transport Security Level Requirements (Category 1 and 2)
+In addition to Prudent Management Practices and Basic Transport Security Level Requirements, Enhanced
+Transport Security Level Requirements shall be applied to radioactive material which has been evaluated as
+Category 1 or 2. 
+5.3.1
+Information Protection
+Measures should be taken to protect sensitive information relating to transport operations, including detailed
+information on the schedule and route. Such information should be shared on a need-to-know basis, and
+includes the security system design and operation, response capability, detection, assessment, and delay
+capabilities. 
+In addition, computer security is critical to protecting sensitive information. Computers should be access-
+controlled commensurate to the level of information stored. These systems should be accessible only by
+persons on a need-to-know basis who have undergone a trustworthiness verification. The primary application
+for information protection is found in the security plan, which contains the above-mentioned details.
+5.3.2
+Transport Security Plan
+A Transport Security Plan is required to be submitted to SAHPRA for all Category 1 and 2 transport applications.
+The Transport Security Plan for category 2 sources must be reviewed annually.
+If any aspect of the transport is subcontracted, the Authority Holder shall ensure that the subcontractor
+complies with the Transport Security Plan. The Transport Security Plan shall include at least the following
+elements and shall be modified as needed to reflect changes in the threat level:
+a)
+Specific allocation of responsibilities for security to competent and qualified persons with
+appropriate authority to carry out their responsibilities;
+b)
+Provision for keeping records of radioactive material packages or types of radioactive material
+transported;
+c)
+Review of current operations and assessment of vulnerability, including intermodal transfer,
+storage in transit, handling, and distribution as appropriate;
+d)
+Clear statements of transport security measures, including training and policies, response to
+conditions of a higher-level threat, verification of new employees and employment, operating
+practices, equipment, and other resources;
+SAHPGL-RDN-RN-20_v1
+Page 21 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+e)
+Effective procedures and equipment for timely reporting and responding to security-related
+threats, in addition to breaches of security or security-related incidents;
+f)
+Procedures for evaluating and testing Security Plans and procedures for periodic review and
+update of the plans;
+g)
+Measures to ensure the security of sensitive transport information contained in the Security
+Plan;
+h)
+Measures to ensure that the distribution of sensitive transport information is limited on a
+need-to-know basis;
+i)
+Measures to monitor the location of the shipment; and
+j)
+Where appropriate, details concerning agreements on the point of transfer of responsibility for
+security.
+For detailed instructions and an example plan and template, see Annex II of this document (NSS 9-G example
+TSP).
+Transport Security Plans must be submitted at the time of the application for authority to transport. SAHPRA
+will inform the applicant on the details of how a secure submission of the application must be made.
+5.3.3
+Planning and Coordination
+The shipper shall provide advance notification to the receiver and SAHPRA of each planned shipment. This
+advance notification must include details of the mode of transport and the expected shipment schedule. The
+Consignee shall confirm capability and readiness to accept delivery at the expected time and shall notify the
+shipper and SAHPRA on receipt or non-receipt within the expected delivery time frame.
+In the case of routine industrial radiography camera use, or other routine Category 2 users, the details of the
+transport must be recorded in the source log and be made available to SAHPRA for inspection. No additional
+notifications are required. This does not apply in cases where a radiography camera is being shipped for the
+purpose of replacing the source and a notification is required.
+5.3.4
+Physical Security
+The physical security system includes those measures that provide detection, delay, and response.
+SAHPGL-RDN-RN-20_v1
+Page 22 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+5.3.4.1 Detection
+At a minimum, detection is provided by the vehicle crew who have been briefed on the Transport Security
+Plan and have been provided with emergency contact information. The vehicle crew should be instructed to
+immediately contact law enforcement as well as their RPO if any suspicious activity is observed.
+NSS 9-G Section 5.48. Electronic intrusion detection and alarms, including duress alarms, should be considered.
+Electronic intrusion detection technologies can be suitable for providing an immediate indication of an
+intrusion into the cargo area. Examples of this technology include the following:
+(a) Balanced magnetic door switches;
+(b) Light sensors (for closed conveyances);
+(c) Fibre optic and other electronic seals;
+(d) Passive infrared, microwave or video motion detection.
+If electronic intrusion detection systems are implemented, they must be remotely monitored by personnel
+with training on the correct procedures to follow if an alarm is detected. 
+Enhanced detection will be provided by armed escorts and the RPO accompanying the shipment. Each must
+be able to communicate with SAHPRA, SAPS, and the Emergency Centre.
+5.3.4.2 Delay
+Locks and seals should be applied to conveyances, compartments or freight containers. Locks and seals should
+be checked to confirm the integrity before dispatch, after any stops made during the journey and during any
+intermodal transfer of each radioactive material consignment. 
+If enclosed freight containers are used, verification of the integrity of a door seal is sufficient, and individual
+seals on packages inside the freight container do not need to be verified. Lock fittings and components, such
+as attachment points and tie-downs, should be complementary to the quality and strength of the locks. In
+cases where chains are unavailable, the package should be contained within an ISO Intermodal Container to
+provide an additional barrier against direct access to the package.
+Procedures should be established to ensure the security of keys to conveyances and locks.
+SAHPGL-RDN-RN-20_v1
+Page 23 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+5.3.4.3 Response
+Response is provided by SAPS per their operating procedures. The Authority Holder must include contact
+information for SAPS in the instructions provided to the crew of the vehicle. 
+5.3.5
+Communications
+Routine communications may be conducted by mobile telephone. Techniques such as code words and phrases
+should be used to reduce the amount of sensitive information that is shared over open communications. This
+does not apply in an emergency.
+5.3.6
+Pre-shipment Security Verification
+The Consignor and Conveyor should conduct a pre-shipment security verification of the conveyance and
+security systems before commencing transport. The purpose of this verification is to ensure that the security
+measures are implemented as described in the Transport Security Plan and are functioning normally.
+This verification should ensure that security measures specified in the Prudent Management Practices, Basic
+Transport Security Level, and Enhanced Transport Security Level have been implemented as a condition for
+receiving a Transport Authority. 
+NSS 9-G Section 5.52. Corrective actions should be taken upon identifying that one or more elements are
+deficient. Without corrective actions, shipments should not be undertaken. 
+5.4 Other Security Measures for Category 1 Shipments
+In addition to Prudent Management Practices, Basic Transport Security Level Requirements, and Enhanced
+Transport Security Level Requirements, the following provisions shall be applied to radioactive material that
+has been evaluated as Category 1.
+5.4.1
+Advance Notification
+The Consignor shall provide advance notification to the receiver of each planned shipment, mode of transport,
+and expected delivery time. The Consignee shall confirm capability and readiness to accept delivery at the
+expected time and shall notify the Consignor on receipt or non-receipt within the expected delivery time frame.
+SAHPGL-RDN-RN-20_v1
+Page 24 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+5.4.2
+Shipment Monitoring and Tracking
+The Authority Holder shall use tracking methods or devices to monitor the movement of packages or
+conveyances containing radioactive material. All packages shall be tracked during transport to ensure that the
+status of the package can be determined at any time. Road vehicles transporting Category 1 quantities of
+radioactive material shall be equipped with automatic and real-time tracking capability.
+5.4.3
+Additional Physical Security
+Enhanced detection will be provided by armed escorts, the driver, and the radiation protection officer
+accompanying the shipment. Each will have a method for communication with SAHPRA, SAPS, and the National
+Emergency Centre.
+Enhanced delay will be provided by chain tie-downs/any other tie-down that does not compromise the
+integrity of the transport container. In cases where chains are not available, the package should be contained
+within an ISO Intermodal Container to provide an additional barrier against direct access to the package. 
+Enhanced response will be provided by armed escorts who will be responsible for the interruption and
+neutralisation of a security incident according to their own operating procedures.  
+5.4.4
+Additional Pre-Shipment Verification
+Category 1 pre-shipment security verification should be performed in stages. The first stage should occur well
+in advance of shipments to ensure deficiencies are identified and time is available to resolve them. Final
+verification should be conducted using a checklist just prior to departure to ensure that all security measures
+included in the Transport Security Plan are in place and operational. This pre-shipment verification should be
+documented using a signed and dated checklist before shipment departure.
+5.5 Additional Security Measures
+SAHPRA may require these security measures in addition to those specified in the security provisions identified
+in Prudent Management Practices, Basic Transport Security Level, Enhanced Transport Security Level, and
+Additional Security Measures for Category 1 Shipments in view of the design basis threat, the assessment of
+the prevailing threat, or the nature of the material being transported.
+In such cases, the SAHPRA may require the following Additional Measures to be applied to any of the above
+security levels on a case-by-case basis:
+SAHPGL-RDN-RN-20_v1
+Page 25 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+1)
+Additional training, beyond basic security awareness;
+2)
+Formal national security clearance of transport personnel commensurate with their responsibilities;
+3)
+Additional guards to accompany certain transports;
+4)
+Evaluation of the potential for sabotage and associated radiological consequences for a package
+design;
+5)
+Search of the conveyance before loading and shipment to ensure that it has not been tampered with
+in any way that could compromise security;
+6)
+Conveyances specially designed or modified to provide additional security features such as:
+a)
+Panic button
+b)
+Vehicle disablement
+7)
+Review of the Transport Security Plan by SAHPRA;
+8)
+Exercises to ensure that contingency plans are adequately robust;
+9)
+Written instructions detailing the responsibilities of personnel with specific security responsibilities;
+10) Additional measures, consistent with national requirements, to protect the confidentiality of
+information; and the
+11) Use of secure, redundant communications.
+SAHPGL-RDN-RN-20_v1
+Page 26 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+1 Additional security measures found in section 6.5 may be applied to any category of shipment as determined by SAHPRA
+2 Note that these security measures are described in shortened terms, refer to the section in parentheses for details of each 
+requirement
+5.6 Category 1, 2, and 3 Security Guidance Table1
+Security Provision2
+Category 3
+Category 2
+Category 1
+Graded approach applied (6.1(a))
+X
+X
+X
+Recipient is Authorised (6.1(b))
+X
+X
+X
+Security is maintained at stops (6.1(c))
+X
+X
+X
+Measures must be taken to find missing material (6.1(d))
+X
+X
+X
+Transport vehicles are lockable (6.1(e))
+X
+X
+X
+Package is approved and locked (6.1(f))
+X
+X
+X
+Package is locked in vehicle (6.1(g))
+X
+X
+X
+Package permanently fixed to vehicle (6.1(h))
+X
+X
+X
+Package should not be left unattended (6.1(i))
+X
+X
+X
+Basic package tracking (6.1(j))
+X
+X
+X
+Basic Communications (6.1(k))
+X
+X
+X
+Contingency Plans (6.2.1)
+X
+X
+X
+Trustworthiness Determination (6.2.2)
+X
+X
+X
+Carrier credentials (6.2.3)
+X
+X
+X
+Written procedures (6.2.4)
+X
+X
+X
+Basic Security Training (6.2.5)
+X
+X
+X
+Exchange of security information (6.2.6)
+X
+X
+X
+Tamper Evident Seals (6.2.7)
+X
+X
+X
+Self-Inspection/Verification (6.2.8)
+X
+X
+X
+Receipt Verification (6.2.10)
+X
+X
+X
+Protection of security related information (6.3.1)
+X
+X
+Transport Security Plan (6.3.2)
+X
+X
+Planning and coordination (6.3.3)
+X
+X
+Methodical Physical Protection System (6.3.4)
+X
+X
+Enhanced Communications (6.3.5)
+X
+X
+SAHPGL-RDN-RN-20_v1
+Page 27 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+Receipt Notification (6.3.6)
+X
+X
+Advanced Notification (6.4.1)
+X
+Satellite Tracking (6.4.2)
+X
+Enhanced Physical Protection System (6.4.3)
+X
+Detailed Security Verification (6.4.4)
+X
+5.7 International Shipment by Air or Sea
+For air transport, shipment shall be carried out in accordance with the applicable security provisions (Annexes
+17 and 18 of the Convention on International Civil Aviation and the International Civil Aviation Organization
+Technical Instructions for the Safe Transport of Dangerous Goods by Air).
+For maritime transport, shipment shall be carried out in accordance with the applicable security provisions of
+the International Ship and Port Facility Security Code and of the International Maritime Dangerous Goods
+Code as required by the International Convention for the Safety of Life at Sea (SOLAS 74 amended).
+5.8 Use of International Standards and Other Publication
+In lieu of specific compliance with the national legislation of South Africa, a shipment which imports radioactive
+material is deemed to be in compliance if it meets all the applicable requirements of IAEA guidance found in
+SSR-6 and NSS 9-G.
+6. Inspection and Enforcement
+6.1 Regulatory inspection of Vehicles and Information
+The Authority Holder shall provide inspectors and other officers appointed by the Regulator with immediate
+access to transport vehicles and locations in which radioactive materials are present to obtain information
+concerning the status of security and verify compliance with the Authority conditions. Each Authority Holder
+shall make available to the Regulator information and records regarding security as requested.
+6.2 Enforcement
+An Authority Holder who violates any security-related condition of an authority, is subject to the following
+enforcement actions by the Regulator.
+SAHPGL-RDN-RN-20_v1
+Page 28 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+(1)
+An Inspection Report requiring corrective action within a specified time;
+(2)
+A Notice of Violation issued by the Regulator stating the alleged violation and requiring the holder
+of an authority, within 20 business days of the date of the notice or other specified time, to submit
+a written reply, including:
+(a)
+Corrective steps, if any, which have been taken, and the results achieved;
+(b)
+Further corrective steps which will be taken; and
+(c)
+The date when full compliance will be achieved.
+(3)
+An Order issued by the Regulator modifying, suspending, or revoking an authority, seizing
+radioactive material or placing an embargo on its use, or taking such other action as may be
+proper. The order:
+(a)
+alleges the transgressions of the act in terms whereof the authority holder may be
+criminally charged;
+(b)
+provides that the holder of an authority must file a written answer to the order within 20
+business days of its date, or such other time as may be specified in the order;
+(c)
+provides for consideration by the Regulator the answer and modification or withdrawal of
+the order in the discretion of the Regulator and
+(d)
+states the effective date of the order.
+(4)
+Appeal by the Authority Holder against any decision of the Regulator may be made as follows:
+(a)
+The Authority Holder may submit a written appeal to the Regulator within 20 business days
+of the decision, stating the legal and/or factual grounds for reversing or modifying the
+decision; and
+(b)
+The Authority Holder will receive a written determination by the Regulator whether to
+reverse or modify the decision.
+(5)
+Referral for criminal prosecution: the Director-General may refer wilful violations of the
+conditions of an Authority to the Directorate for Priority Crimes for criminal investigation.
+SAHPGL-RDN-RN-20_v1
+Page 29 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+7. Validity Clause
+This guideline is valid for a period of five (5) years from the effective date of the revision or until superseded
+by a later revision. It will be reviewed on this timeframe or as and when required.
+SAHPGL-RDN-RN-20_v1
+Page 30 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+8. Annex I: Categorisation Table
+8.1 Table 1. Categories of Radioactive Material for Common Applications
+Category
+Practice
+Indicative
+A/D
+1
+Irradiators (industrial, sample or blood irradiators)
+Fixed multibeam teletherapy (gamma knife)
+Teletherapy
+A/D > 1000
+2
+Industrial gamma radiography
+High/medium dose rate brachytherapy
+1000 > A/D >
+10
+3
+Fixed industrial gauges that incorporate high activity radioactive
+sources
+Well logging gauges
+Soil density/moisture gauges
+10 > A/D > 1
+SAHPGL-RDN-RN-20_v1
+Page 31 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+3 
+The primary values to be used are given in TBq. Curie values are provided for practical usefulness and are rounded after conversion.
+* 
+These radionuclides are very unlikely to be used in individual radioactive sources with activity levels that would place them within Categories 1, 2 or 3.
+8.2 Table 2. Activities Corresponding to Category Thresholds
+Category 1
+Category 2
+Category 3
+Radionuclide
+1000 x D
+10 x D
+D
+(TBq)
+(Ci)3
+(TBq)
+(Ci)2
+(TBq)
+(Ci)2
+Am-241
+6.E+01
+2.E+03
+6.E-01
+2.E+01
+6.E-02
+2.E+00
+Am-241/Be
+6.E+01
+2.E+03
+6.E-01
+2.E+01
+6.E-02
+2.E+00
+Cf-252
+2.E+01
+5.E+02
+2.E-01
+5.E-00
+2.E-02
+5.E-01
+Cm-244
+5.E+01
+1.E+03
+5.E-01
+1.E+01
+5.E-02
+1.E+00
+Co-60
+3.E+01
+8.E+02
+3.E-01
+8.E+00
+3.E-02
+8.E-01
+Cs-137
+1.E+02
+3.E+03
+1.E+00
+3.E+01
+1.E-01
+3.E+00
+Gd-153
+1.E+03
+3.E+04
+1.E+01
+3.E+02
+1.E+00
+3.E+01
+Ir-192
+8.E+01
+2.E+03
+8.E-01
+2.E+01
+8.E-02
+2.E+00
+Pm-147
+4.E+04
+1.E+06
+4.E+02
+1.E+04
+4.E+01
+1.E+03
+Pu-238
+6.E+01
+2.E+03
+6.E-01
+2.E+01
+6.E-02
+2.E+00
+Pu-239/Be
+6.E+01
+2.E+03
+6.E-01
+2.E+01
+6.E-02
+2.E+00
+Ra-226
+4.E+01
+1.E+03
+4.E-01
+1.E+01
+4.E-02
+1.E+00
+Se-75
+2.E+02
+5.E+03
+2.E+00
+5.E+01
+2.E-01
+5.E+00
+Sr-90 (Y-90)
+1.E+03
+3.E+04
+1.E+01
+3.E+02
+1.E+00
+3.E+01
+Tm-170
+2.E+04
+5.E+05
+2.E+02
+5.E+03
+2.E+01
+5.E+02
+Yb-169
+3.E+02
+8.E+03
+3.E+00
+8.E+01
+3.E-01
+8.E+00
+Au-198*
+2.E+02
+5.E+03
+2.E+00
+5.E+01
+2.E-01
+5.E+00
+Cd-109*
+2.E+04
+5.E+05
+2.E+02
+5.E+03
+2.E+01
+5.E+02
+Co-57*
+7.E+02
+2.E+04
+7.E+00
+2.E+02
+7.E-01
+2.E+01
+Fe-55*
+8.E+05
+2.E+07
+8.E+03
+2.E+05
+8.E+02
+2.E+04
+Ge-68*
+7.E+02
+2.E+04
+7.E+00
+2.E+02
+7.E-01
+2.E+01
+Ni-63*
+6.E+04
+2.E+06
+6.E+02
+2.E+04
+6.E+01
+2.E+03
+Pd-103*
+9.E+04
+2.E+06
+9.E+02
+2.E+04
+9.E+01
+2.E+03
+Po-210*
+6.E+01
+2.E+03
+6.E-01
+2.E+01
+6.E-02
+2.E+00
+Ru-106 (Rh-106)*
+3.E+02
+8.E+03
+3.E+00
+8.E+01
+3.E-01
+8.E+00
+Tl-204*
+2.E+04
+5.E+05
+2.E+02
+5.E+03
+2.E+01
+5.E+02
+The category of radioactive material shall be further adjusted based on the following factors:
+SAHPGL-RDN-RN-20_v1
+Page 32 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+
+Radioactive decay: If the activity of radioactive material decays to a level below the appropriate
+threshold in Table 2 or below that which is normally used, the Authority Holder may re-categorise the
+radioactive material based on the new A/D ratio. 
+
+Aggregation of sources: When multiple items containing radioactive material are in close proximity,
+such as in manufacturing processes (e.g., in the same room or building) or in storage facilities (e.g., in
+the same enclosure or container), or in a single conveyance, the Authority Holder shall aggregate the
+activity of the radioactive material for the purpose of categorisation. In situations of this type, the
+summed activity of the radionuclide shall be divided by the appropriate D value and the calculated ratio
+A/D compared with the ratio’s A/D given in Table 2, thus allowing the set of different radionuclides to
+be categorised on the basis of activity. If radioactive material of various radionuclides is aggregated, then
+the sum of the ratio’s A/D should be used in determining the category, in accordance with the formula:
+Aggregate A/D =
+where:
+Ai,n = activity of each individual radioactive material i of radionuclide n. 
+Dn = D value for radionuclide n.
+
+n
+n
+i
+n
+i
+D
+A,
+SAHPGL-RDN-RN-20_v1
+Page 33 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+9. Annex II: Transport Security Plan Template Outline
+BOX I–1. EXAMPLE STRUCTURE OF THE TRANSPORT SECURITY PLAN
+1. SCOPE
+2. OBJECTIVES
+3. DESCRIPTION OF THE SHIPMENT AND MATERIAL TO BE  TRANSPORTED
+1.1. Description of radioactive material
+1.2. Mode(s) of transport
+4. A D M I N I S T R A T I V E  REQUIREMENTS
+1.1. Policies and procedures
+1.2. Vulnerability and threat assessment
+1.3. Testing and evaluating the Transport Security Plan
+1.4. Transport security verification
+1.5. Notification of relevant agencies
+1.6. Review and update of the Transport Security Plan
+5. P E R S O N N E L  QUALIFICATIONS
+1.1. Trustworthiness
+1.2. Training
+6. RESPONSIBILITIES
+1.1. Organisational structure
+1.2. Allocation and transfer of responsibilities
+7. I N F O R M A T I O N  MANAGEMENT
+1.1. Information security
+1.2. Records retention
+8. T R A N S P O R T  S E C U R I T Y  MEASURES
+1.1. Routes
+1.2. Transport security system
+1.1.1.
+Conveyance
+1.1.2.
+Operations command and control
+1.1.3.
+Nuclear security measures
+1.1.4.
+Communications and positional tracking for normal operations
+SAHPGL-RDN-RN-20_v1
+Page 34 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+1.1.5.
+Maintenance and testing of systems and equipment
+9. EMERGENCY  RESPONSE
+1.1. Emergency and contingency response
+1.2. Communications during incidents
+1.3. Reporting of threats and incidents
+SAHPGL-RDN-RN-20_v1
+Page 35 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+BOX I–2. DETAILS TO BE CONSIDERED FOR THE TRANSPORT SECURITY PLAN
+1. SCOPE
+This  section  defines  the  shipments  and  entities  that  are  covered  in  the  Transport Security 
+Plan, including the following:
+— The type of radioactive material to be shipped;
+— The locations of the shipper and receiver;
+— The identification of the carrier;
+— The regulations and requirements that were used in the development of the Transport 
+Security Plan.
+This section includes the complete legal name and address of the entity responsible for preparing
+and submitting the Transport Security Plan. This includes information about the shipper, carriers,
+receiver and other entities involved with the shipment, including guards employed for the shipment,
+and information about transit States when international transport is involved.
+2. OBJECTIVES
+This section provides a clear statement of the objectives that the plan intends to accomplish, including 
+the following:
+— Ensuring  security  to  protect  personnel,  equipment,  and  radioactive  material;
+— Providing  clear  direction  to  personnel  on  the  following  actions  to  be taken:
+●Ensuring security of shipments;
+●Providing an appropriate response to incidents.
+3. DESCRIPTION OF THE SHIPMENT AND MATERIAL TO BE  TRANSPORTED
+3.1. Description of radioactive material
+The description of the material to be transported includes the following:
+
+Nature of the material;
+
+Type;
+
+Quantity (activity);
+
+Physical and chemical characteristics;
+SAHPGL-RDN-RN-20_v1
+Page 36 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+
+Category;
+
+Hazards;
+
+Packaging;
+
+Number of packages in a consignment
+3.2. Mode(s) of transport
+This subsection specifies the mode(s) of transport (road, rail, air, water).
+4. A D M I N I S T R A T I V E  REQUIREMENTS
+This section states the persons, organisations and other entities involved in the transport covered by
+the plan. This section also provides a detailed presentation of all the administrative requirements
+that need to be satisfied to provide adequate security during the transport of the radioactive
+material.
+4.1. Policies and procedures
+This subsection lists those specific policies and procedures issued either by State entities or the
+responsible party that apply to the shipment(s). These policies and procedures are specified in the
+following:
+
+Policies and operational procedures for consistent implementation of security measures
+addressed in the Transport Security Plan;
+
+Contingency plans for responding to malicious acts during transport, recovery of lost or stolen
+material and mitigation of consequences.
+4.2. Vulnerability  and  threat  assessment
+Asapplicable,thissubsectiondescribeshowtheshipperandcarrierwillensure that security measures
+are adequate by performing a vulnerability assessment that considers the threat level.
+The vulnerability assessment includes a review of planned operations (equipment operability) and
+identification of potential vulnerabilities. This includes evaluating shipment-specific parameters such
+as modes of transport, intermodal transfers, overnight stops and information protection.
+The threat level used is described and a description of how threat level changes will be communicated
+and acted upon is included. Changes in circumstances that might necessitate evaluating the need for
+operational changes are identified in this section, such as activities that might impact routing (e.g.,
+SAHPGL-RDN-RN-20_v1
+Page 37 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+activists or demonstrations, road conditions, traffic conditions, secure parking for overnight trips).
+4.3. Testing and evaluating the Transport Security Plan
+This subsection specifies the procedures for evaluating and testing the effectiveness of the Transport
+Security Plan.
+4.4. Transport security verification
+This subsection describes how the shipper and carrier will ensure that all specified security measures
+are in place and operational prior to initiating a shipment. Any planned use of checklists for
+performing pre-shipment security verification and any corrective actions are outlined here.
+4.5. Notification of relevant agencies
+This subsection specifies responsibility for the timing and method of communicating notifications to
+relevant agencies (before, during, and after transportation).
+4.6. Review and update of the Transport Security Plan
+This subsection specifies when and how the reviews and updates of the Transport Security Plan are to
+be accomplished.
+5. PERSONNEL  QUALIFICATIONS
+5.1. Trustworthiness
+This subsection describes the level of trustworthiness needed for personnel involved in transport. It
+describes the process used to verify trustworthiness at each of those levels.
+5.2. Training
+This subsection specifies training qualifications for personnel involved in transport, including the
+nature and frequency of the training. It also includes a description of any exercises that will be
+conducted as well as the schedule that will be followed for each type of exercise. A description is
+also included of how the results of exercises will be evaluated, including documentation of the results
+of the exercises and any corrective actions taken.
+6. RESPONSIBILITIES
+This section specifies how responsibilities are assigned and how they are transferred as shipments
+proceed.
+6.1. Organisational  structure
+SAHPGL-RDN-RN-20_v1
+Page 38 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+This subsection specifies the organisational structure of the entities involved in the transport,
+describing the chain of command, including the names of responsible personnel.
+6.2. Allocation and transfer of responsibilities
+This subsection describes the responsibilities of all organisations and persons engaged in the
+transport of radioactive material, including how and when security responsibilities are transferred.
+7. I N F O R M A T I O N  MANAGEMENT
+This section specifies how all information will be managed, particularly for security-sensitive
+information. Reference to other information management procedures can be used.
+7.1. Information  security
+This subsection describes how the security of information will be ensured. This description might
+include identification of sensitive information, classification review and marking, reproduction
+restrictions, distribution (i.e., authorised access and need-to-know), storage requirements and
+destruction.
+7.2. Records retention
+This subsection identifies who has responsibility for retaining records to ensure records are handled
+in accordance with regulatory requirements and procedures (can include requirements for shippers,
+carriers and receivers).
+8. TRANSPORT  SECURITY  MEASURES
+This section describes the specific security measures that have been established for shipment,
+addressing those measures that apply before transport, during transport (including storage
+incidental to transport), and upon receipt of the radioactive material.
+8.1. Routing
+This subsection specifies routes and associated in-transit storage and intermodal transfer locations.
+The information provided here includes the following:
+
+Planned  (primary)  and  alternate  routes  for  all  modes  of  transport,  including criteria for 
+when the alternate routes will be used;
+
+Process  for  pre-shipment  evaluation  of  routes,  assessment  of vulnerabilities;
+
+Identification of any in-transit storage and intermodal transfers, including security 
+SAHPGL-RDN-RN-20_v1
+Page 39 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+arrangements.
+8.2. Transport security system
+This subsection describes the security system, including specific security measures (based on the
+transport security level of the shipment) and other arrangements that will be used.
+8.2.1. Conveyance
+This subsection describes the conveyances (road, rail, air, water), including any special requirements
+for the conveyances.
+8.2.2. Operations command and control
+This subsection identifies command and control procedures for normal and emergency operations.
+This information includes achain of command structure, decision-making authority, points of contact
+and identification of response agencies.
+Nuclear security  measures
+This subsection identifies the nuclear security measures to be used during transport. These measures
+include those used to provide detection, delay and response. Examples of these measures include
+the following:
+
+Tamper-indicating devices and seals (packages and conveyances);
+
+Locks  (single  or  multiple)  for  packages,  cargo  compartment,  and conveyance (e.g., 
+door keys, ignition keys);
+
+Secure tie-downs and over-packs;
+
+Immobilising  devices.
+This subsection also identifies the process for authorising alternative measures (i.e., when a feature
+is not operational or available).
+8.2.3. Communication and positional tracking for normal operations
+This subsection describes the structure of the primary and alternative communication systems for
+the transport operation. It also describes any system for tracking the conveyances, including
+identification of the location at which shipment monitoring will occur.
+8.2.4. Maintenance and testing of systems and equipment
+This subsection addresses how all of the systems involved in the shipment(s) (such as
+SAHPGL-RDN-RN-20_v1
+Page 40 of 40
+Guideline for Transportation Security for Radioactive Material
+30 March 2026
+communications and tracking) are maintained and tested. This subsection also addresses the
+checking and testing of all mission-related equipment that will be performed before the beginning of
+the transport. It also specifies periodic testing requirements.
+BOX I–2. DETAILS TO BE CONSIDERED FOR THE TRANSPORT SECURITY PLAN (cont.)
+1. EMERGENCY  RESPONSE
+Emergency response includes both tactical and non-tactical (i.e., non-security-related emergency)
+planning. This section identifies the range of incidents that might need response measures to be
+initiated, describes the appropriate response measures, and clearly defines the response resources.
+1.1. Emergency and contingency response
+This subsection identifies handling responses of non-nuclear or non-radiological emergency
+and security-related incidents; it is not to be confused with specific arrangements for response to a
+nuclear or radiological emergency. Response actions to be included in this subsection are actions
+that will be taken by crew members, the transport control centre or other operations centres;
+shipper and receiver technical support staff; emergency response units along the route; escort
+personnel (if present); guard or security force (if present), and response forces.
+Emergency situations can include road closure, vehicle breakdown, vehicle accidents, and driver
+illness. Corresponding emergency arrangements could include the availability of backup vehicles and
+drivers, capabilities for towing and lifting, and plans for use of safe havens.
+This subsection describes any necessary advance information to respond to forces along the route,
+including the time within which the communication of information must be completed before the
+shipment. It also identifies any accompanying guard or security force.
+1.2. Communications  during  incidents
+This subsection includes a description of the communications systems and actions that will be taken
+to address both emergency and nuclear security events. This information could include the types of
+communications equipment used and features to ensure the security of communications.
+1.3. Reporting of threats and incidents
+This subsection describes reporting requirements, including types of events that must be reported,  
+to  whom  and  how  the  event  will  be  reported,  and  the timeframe for reporting.
+

@@ -1,0 +1,750 @@
+SAHPGL-RDN-RN-10_v3 
+Page 1 of 18
+ 
+ 
+ 
+12 December 2022 
+GUIDELINE ON LEAK TESTS 
+This document has been prepared as a guide to assist with all requirements to check for all the radioactive leak test. Appropriate 
+radiation monitoring equipment should be used to perform leak test measurements with relevant sensitivity to detect alpha and beta 
+radiation or activity. 
+ 
+It is the responsibility of the authority holder, radiation protection officer and acting radiation protection officer to ensure that leak 
+test of all radioactive material is performed per the leak test frequency requirements for each type of application.  
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue, industrial comments incorporated and published for 
+implementation 
+September 2005 
+2 
+Amended list of service providers 
+January 2015 
+3 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-RN-10 allocated to this 
+Guideline 
+December 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-RN-10_v3 
+Page 2 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................ 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+1.3 
+Background................................................................................................................................................. 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 4 
+3. 
+REQUIREMENTS FOR AUTHORITY HOLDERS .............................................................................................. 5 
+3.1 
+What is a leak test? .................................................................................................................................... 5 
+4. 
+WHO MUST PERFORM THE LEAK TEST? ..................................................................................................... 5 
+5. 
+HOW MUST THE SMEAR SAMPLE BE SENT? .............................................................................................. 5 
+6. 
+HOW MUST THE LEAK TEST BE CARRIED OUT? .......................................................................................... 6 
+7. 
+WHAT MUST BE DONE WITH LEAK TEST RESULTS? ................................................................................... 6 
+8. 
+LEAK TEST FREQUENCIES ............................................................................................................................ 6 
+9. 
+REQUIREMENTS FOR LEAK TESTING FACILITIES ....................................................................................... 10 
+9.1 
+General Requirements ............................................................................................................................. 10 
+9.2 
+Training for Individual Responsible for Leak Testing ............................................................................... 11 
+9.3 
+Facilities and Equipment: ......................................................................................................................... 12 
+9.4 
+Radiation Safety Programme: .................................................................................................................. 12 
+10. 
+LEAK TEST METHODS ................................................................................................................................ 16 
+10.1 General ..................................................................................................................................................... 16 
+10.2 Acceptable Leak Test Methods ................................................................................................................ 17 
+11. 
+REFERENCES ............................................................................................................................................. 18 
+12. 
+VALIDITY ................................................................................................................................................... 18 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-RN-10_v3 
+Page 3 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+AH 
+Authority Holder 
+RPO 
+Radiation Protection Officer 
+ARPO 
+Acting Radiation Protection Officer 
+SAHPRA 
+South Africa Health Products Regulatory Authority 
+TLD 
+Thermoluminescent Dosimeter 
+EPD 
+Electronic Personal Dosimeter 
+ 
+ 
+ 
+SAHPGL-RDN-RN-10_v3 
+Page 4 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Leak test is a form of non-destructive testing used to check for leakage of radioactive material. This test is 
+performed by wiping the surface of the container of the radioactive material with an absorbent material (or 
+smear sample), then after, the absorbent material is tested for activity or alpha and beta particles absorbed 
+on the material. In this document the requirements for authority holders concerning the leak tests are 
+explained broadly. 
+1.1 
+Purpose 
+The purpose of leak test is to detect radioactive contamination around the container of the source. Thus, 
+this is done to ensure necessary precautions to be taken for the safe use and handling of such radioactive 
+material. 
+1.2 
+Scope 
+The scope of this document is to deal with all the requirements needed to be met in all procedures which 
+involves leak testing for radioactive contamination, the What, the Who and How of the leak test. 
+1.3 
+Background 
+A leak test (also known as a wipe tests or smear test) is a procedure which involves the following two steps: 
+A piece of absorbent material (e.g., tissue paper) is used to wipe the surface of a gauge containing a sealed 
+source. If radioactive material, e.g., (Cesium powder) is leaking from the source, some of the radioactive 
+material will adhere to the tissue paper. The absorbent material (smear sample) is monitored with a 
+contamination monitor to determine whether any radioactive material (contamination) is present. 
+Measuring radiation levels (exposure rates) directly in the vicinity of a gauge with a radiation monitor is 
+NOT a leak/wipe test. This is a different type of test which checks the integrity of the shielding container 
+and confirms that levels of gamma radiation near the gauge are acceptable. It is not possible to detect 
+contamination (and thus a leaking source) with a radiation monitor in this manner. 
+2. 
+LEGAL PROVISION 
+The Regulations relating to Group IV Hazardous Substances, made in terms of section 29 of the Hazardous 
+Substances Act 15 of 1973 and published under Government Notice R247 in Government Gazette 14596, dated 
+26 February 1993 (R247) require an Authority Holder when uses a Group IV hazardous substance in the course 
+of his activities, monitor or cause to be monitored the radiation levels and contamination, as the case may be, 
+at regular intervals as required by the particular activities in order to ensure that the applicable maximum dose 
+limits are not exceeded. 
+SAHPGL-RDN-RN-10_v3 
+Page 5 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+3. 
+REQUIREMENTS FOR AUTHORITY HOLDERS 
+3.1 
+What is a leak test? 
+A leak test (also known as a wipe tests or smear test) is a procedure which involves the following two steps: 
+3.1.1 
+A piece of absorbent material (e.g., tissue paper) is used to wipe the surface of a gauge containing 
+a sealed source. If radioactive material, (e.g., Cesium powder) is leaking from the source, some of 
+the radioactive material will adhere to the tissue paper. 
+3.1.2 
+The absorbent material (smear sample) is monitored with a contamination monitor to determine 
+whether any radioactive material (contamination) is present. Thus, this is solely for measuring alpha 
+and beta particles with a contamination monitor. 
+3.1.3 
+Measuring radiation levels (exposure rates) directly in the vicinity of a gauge with a radiation 
+monitor (survey meter) is NOT a leak/ wipe test. This is a different type of test which checks the 
+integrity of the shielding container and confirms that levels of gamma radiation near the gauge are 
+acceptable. It is not possible to detect contamination (and thus a leaking source) with a radiation 
+monitor in this manner that is meant to measure gamma radiation. 
+4. 
+WHO MUST PERFORM THE LEAK TEST? 
+Wherever possible, leak tests should be carried out on a routine basis by the company responsible for servicing 
+the gauge or any equipment with radiation sources. Where this is not feasible, however, the first step of the 
+leak test, i.e., taking the smear sample, may be performed by the Authority Holder's (AH’s), Radiation 
+Protection Officer (RPO) or the Acting Radiation Protection Officer (ARPO), or by someone acting under their 
+instruction. 
+If the AH has access to a suitable contamination monitor, the second step, i.e., the analysis of the smear, may 
+also be performed and recorded by the holder himself. 
+Usually, however, the AH does not have a contamination monitor. In such cases, smear samples may be sent 
+to the supplier of the gauge, or any other institution or company who has the necessary monitoring equipment 
+to perform the leak test. 
+5. 
+HOW MUST THE SMEAR SAMPLE BE SENT? 
+The smear samples should be sealed in a plastic bag, e.g., bank bags, and can be sent by road, rail or airfreight. 
+Smear samples may NOT be sent by normal post. Freight packages need only be marked "radioactive" on the 
+SAHPGL-RDN-RN-10_v3 
+Page 6 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+inside, i.e., they should be marked in such a manner that a radiation warning sign is clearly visible upon opening 
+the package. The consignment must be correctly identified in the transport documents and can be classed as 
+"excepted radioactive material". 
+6. 
+HOW MUST THE LEAK TEST BE CARRIED OUT? 
+The leak test should be performed with a piece of absorbent material, such as cotton wool, tissue, or filter 
+paper. The material can be moistened slightly with water or alcohol, or it can be used dry. 
+The gauge must be turned off before the test is carried out, i.e., the source must be in the fully shielded position 
+within the source container or housing. 
+Method: Gently wipe the external surface of the source container/housing, and along any joints or external 
+movable parts, where it is more feasible that contamination might occur. Do NOT dismantle any part of the 
+gauge or source container to do the leak test. 
+For certain types of gauges, e.g. some models of fill-level detector and thickness gauges more thorough internal 
+leak test can be carried out by trained representatives of the supplier of the gauge during routine maintenance 
+or servicing. These internal leak tests involve dismantling of the gauge and wiping the source directly and 
+should thus NOT be carried out by the AHs themselves. 
+7. 
+WHAT MUST BE DONE WITH LEAK TEST RESULTS? 
+The result of the leak test as recorded on the Leak Test Certificate should be safely filed and kept for inspection 
+purposes. 
+If a source is found to be leaking, the Radionuclides Sub-Unit of Radiation Control must be notified 
+immediately. 
+8. 
+LEAK TEST FREQUENCIES 
+The holder of the authority must ensure that leak tests are performed as indicated in Table 1. 
+TABLE 1: LEAK TEST FREQUENCIES 
+TYPE OF APPLICATIONS 
+ 
+   OTHER NAMES                   LEAK TEST FREQUENCY 
+*Sealed sources used in any aspect of food processing must be leak tested annually 
+SAHPGL-RDN-RN-10_v3 
+Page 7 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+*All radioactive sources, excluding Ra-226, not being used and only being stored must be leak-tested 
+once every two years.  Stored radioactive sources must be leak-tested before being put back into use 
+again. 
+AFTERLOADING DEVICE                                                                        Annually 
+ALIGNMENT GAUGE                                                                              Every 24 months 
+ASH MONITOR                                                                                        Every 24 months 
+ASPHALT GAUGE                                                                                    Every 24 months 
+BELT MASS METER                              CONVEYOR SCALE                  Every 24 months 
+                                                               BELT WEIGHER                       
+BETA LIGHTS                                        LUMINOUS MARKERS            Leak tests not required  
+                                                               LIGHT SOURCES 
+                                                               GUNSIGHTS 
+                                                               LUMINOUS EXIT SIGN 
+BOREHOLE LOGGIN 
+GEOGRAPHY LOGGING 
+Annually, unless source is permanently 
+built-in, in which case 2 yearly tests will 
+suffice 
+DENSITY GAUGE 
+DENSITY 
+METER   
+MASS FLOW METER 
+Every 24 months 
+DEWPOINT METER 
+ 
+Every 24 months 
+DUST MONITOR 
+ 
+Usually, every 24 months 
+SAHPGL-RDN-RN-10_v3 
+Page 8 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+ELECTRON CAPTURE DETECTOR 
+GASCHROMATOGRAPH 
+No leak tests required 
+INDUSTRIAL 
+RADIOGRAPHY 
+SOURCE 
+RADIOGRAPHY SOURCE 
+Every 6 months 
+IRRADIATOR 
+IRRADIATION        FACILITY   
+EXPERIMENTAL SOURCE 
+Every 6 months 
+LEVEL GAUGE 
+FILL LEVEL                            GAUGE 
+LEVEL CONTROL 
+  Every 24 months 
+MEASURING INSTRUMENT 
+PHOTOMETER/SPOTMETER 
+URANIUM ORE ANALYSER 
+TRANSFORMER RECTIFIER 
+TUBE  
+SPARK/FUSE 
+GAP 
+MEASURER 
+BONE 
+OR 
+PROFILE 
+SCANNER 
+SULPHUR-IN-OIL ANALYSER 
+Leak tests must be carried out every 
+24 months if the source is permanently 
+built into the gauge; else annually. 
+MOISTURE GAUGE 
+ 
+Gauges with a movable source rod 
+must be tested annually. Others, with 
+built-in source only, must be leak 
+tested every 24 months 
+PORTABLE LEVEL GAUGE 
+ 
+Annually 
+PRE-IONISER SOURCE 
+PLASMA DISPLAY TUBE 
+Not required 
+SAHPGL-RDN-RN-10_v3 
+Page 9 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+REFERENCE SOURCE 
+SEALED 
+SOURCE 
+CALIBRATION 
+SOURCE 
+EDUCATIONAL 
+SOURCE  
+FLOOD 
+SOURCE   
+ANATOMIC MARKER 
+Annually. If sources are not in regular 
+use (in storage) leak tests can be done 
+every 24 months, and before bringing 
+the source back into use. 
+SCINTILLATION COUNTER 
+LIQUID 
+SCINTILLATION 
+COUNTER 
+Source built into LSC’s generally need 
+not be leak tested. Loose calibration 
+sources should be leak tested 
+SMOKE DETECTORS 
+ 
+Not required 
+SOIL GAUGE 
+HIDRODENSIMETER        
+SOIL 
+METER   
+DENSITY/MOISTURE 
+GAUGE 
+Those soil gauges which have a 
+movable 
+source 
+rod 
+(usually 
+incorporating a Cs-137 source) must be 
+leak tested annually. Others, with 
+built-in source only, must be leak 
+tested every 24 months 
+STATIC ELIMINATORS 
+ANTISTATIC STRIPS 
+Leak test not required 
+TELETHERAPY UNIT 
+CANCER THERAPY UNIT 
+Annually 
+THERAPY SOURCE 
+CA 
+CERVIX 
+APPLICATOR 
+LINEAR 
+SOURCE 
+TRAIN   
+RA-NEEDLES                    
+STRONTIUM 
+EYE-
+APPLICATOR 
+Where appropriate, every 6 months. If 
+sources are stored (not in use) leak 
+tests must be done once a year and 
+before bringing back into use 
+THICKNESS GAUGE 
+SUBSTANCE 
+GAUGE 
+PROFILE 
+SCANNER   
+BASIS 
+WEIGHT 
+METER 
+Every 24 months, unless the gauge 
+incorporates a gaseous source (e.g., Kr-
+85, or H-3) in which case no leak test is 
+SAHPGL-RDN-RN-10_v3 
+Page 10 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+MASS FLOW METER 
+required 
+TRACERS 
+TRACE SOURCES 
+Leak tests usually not required, unless  
+tracers are sealed sources. 
+UNSEALED SOURCE 
+IN-VIVO/IN-VITRO/RIA 
+Not required 
+XRF ANALYSER 
+METAL 
+ANALYSER   
+MINERAL 
+ANALYSER 
+HILGER &WATTS ANALYSER   
+TEXAS NUCLEAR ANALYSER 
+Every 24 months - leak tests must be 
+carried out in accordance with the 
+manufacturer’s specifications 
+9. 
+REQUIREMENTS FOR LEAK TESTING FACILITIES 
+9.1 
+General Requirements 
+A. 
+Sealed sources and detector cells shall be tested for leakage and/or contamination at interval 
+as specified by the regulatory authority (see table 1). 
+B. 
+In the absence of a certificate from a supplier indicating that a leak test has been made within 
+the time specified for that source (see table 1) prior to the transfer, a sealed source or detector 
+cell received from another person shall not be used until tested. 
+C. 
+Each sealed source fabricated by the holder of the authority shall be inspected and tested for 
+construction defects, leakage, and contamination prior to any use or transfer as a sealed 
+source. 
+D. 
+Sealed sources need not be leak tested if: 
+(i) 
+they contain only hydrogen-3; or 
+(ii) 
+they contain only a radioactive gas; or 
+(iii) 
+the half-life of the isotope is 30 days or less; or 
+(iv) 
+they contain not more than 50 microcuries (1,85 MBq) of beta and/or gamma emitting 
+material or not more than 5 microcuries (185 kBq) of alpha emitting material; or 
+SAHPGL-RDN-RN-10_v3 
+Page 11 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+(v) 
+they are not designed to emit alpha particles, are in storage, and not being used. 
+However, when they are removed from storage for use or transferred to another person 
+and have not been tested within the required leak test interval, they shall be tested 
+before use or transfer. No sealed source or detector cell shall be stored for a period of 
+more than 10 years without being tested for leakage and/or contamination. 
+E. 
+The leak testing equipment shall be capable of detecting the presence of 0,5 nanocurie (18,5 
+Bq) of radioactive material on the test sample and the calibration certificate of the equipment 
+must be valid during the time the leak test is performed. If the test reveals the presence of 5 
+nanocurie (185 Bq) or more of removable contamination a report shall be filed with this 
+Radiation Control and the source shall be removed immediately from service and 
+decontaminated, repaired, or disposed of in accordance with regulations. The report shall be 
+filed within 5 days of the date the leak test result is known. The report shall specify the source 
+involved, the test results, and the corrective action taken. 
+F. 
+The holder of the authority is authorized to collect leak test samples for analysis. Tests for 
+leakage and/or contamination shall be performed by persons specifically accredited by 
+Radiation Control to perform such services. 
+9.2 
+Training for Individual Responsible for Leak Testing 
+A. 
+The following information should be provided about the individual(s) who will be responsible 
+for leak testing: 
+(i) 
+The person’s name 
+(ii) 
+The person’s training 
+B. 
+Formal training should encompass the following topics: 
+− 
+The principles and practices of radiation protection 
+− 
+Radiation measurements, monitoring techniques and the use of instruments 
+− 
+Mathematics and calculations basic to the use and measurement of radioactivity 
+− 
+The biological effects of radiation 
+C. 
+A minimum of 40 hours of formal course work should be completed by such a person. 
+SAHPGL-RDN-RN-10_v3 
+Page 12 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+D. 
+On-the-job training should encompass hands-on training in leak testing the typical sources and 
+devices specified in your application, including performing independent analysis of leak test 
+samples. 
+9.3 
+Facilities and Equipment: 
+A. 
+Describe such items as: 
+(i) 
+Laboratory counting rooms and calibration source storage facilities 
+(ii) 
+Receiving and handling areas where leak test samples are received from customers 
+(iii) 
+Shielded areas, including auxiliary shielding (“L” blocks, etc.), where bare sources may 
+be actually leak tested 
+(iv) 
+Storage facilities for sealed sources or devices that may be received by you for leak 
+testing in your facilities 
+(v) 
+Special tools for handling bare sources or devices and for wiping sealed or devices 
+(vi) 
+Provide Radiation Control with a certificate which certifies that the equipment has the 
+required sensitivity (see section II.1 (E)) 
+9.4 
+Radiation Safety Programme: 
+9.4.1 
+Personnel Monitoring Equipment 
+− 
+All personnel should wear personnel monitoring devices such as Thermoluminescent 
+Dosimeters (TLD's) or Electronic Personal Dosimeters (EPD’s) when performing routine leak 
+tests on uncontained/naked sealed sources in the low millicurie activity range and leak tests 
+on multi-millicurie sources contained in devices. 
+− 
+If personnel monitoring will not be used, provide a justification that clearly demonstrates it is 
+unlikely that any individual will receive a radiation dose equal to or greater than that specified 
+in the regulations for non-radiation workers (1 mSv a year). 
+9.4.2 
+Radiation Detection Instruments and Instruments Calibration 
+You should list the radiation instruments you will have available for use in performing the leak test services. 
+Your list should specify for each instrument: 
+SAHPGL-RDN-RN-10_v3 
+Page 13 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+(a) the type of the instrument 
+(b) the number of instrument available 
+(c) the radiation detected 
+(d) the sensitivity ranges 
+(e) the specific use 
+(f) when was the instrument calibrated 
+(g) expiry date of the instrument 
+(h) instrument serial number 
+The instrument listed should have sufficient sensitivity to accurately measure any radioactive 
+contamination on leak test samples obtained from your customer’s sources and devices. 
+9.4.2.1 Survey Meters 
+Survey meters must be calibrated at least once every 14 months and after any servicing of the 
+instrument (other than a simple battery exchange). You have three options for calibration, as 
+follows: 
+(a) The instrument will be returned to the manufacturer for calibration, 
+(b) If the survey instruments will be contracted out for calibration, state the name and address of 
+the firm 
+(c) If the instruments will be calibrated in-house, provide the following additional information: 
+(i) 
+The name of the manufacturer and model number of each radiation source to be used, 
+(ii) 
+The nuclide and quantity of radioactive material contained in each source, 
+(iii) 
+The accuracy of each source and the traceability of the source to a primary radiation 
+standard, 
+(iv) 
+The step-by-step procedures, including associated radiation safety procedures you will 
+SAHPGL-RDN-RN-10_v3 
+Page 14 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+use in calibrating, and, 
+(v) 
+The name, experience, and training in instrument calibration of each individual who 
+will perform the calibrations 
+9.4.2.2 Wipe Sample Counting Equipment 
+Quantitative measuring instruments used to perform analytic measurements on leak test samples 
+should be calibrated before use with standard sources having an accuracy better than or equal to 
+5 % of the stated value. Standard sources should be traceable to a primary radiation standard such 
+as those maintained by the National Bureau of Standards. You should supply the following 
+information on the calibration of the listed instruments you will use to perform measurements on 
+leak test samples: 
+(a) List the standard sources to be used with each listed wipe-sample counting instrument by 
+nuclide and quantity of radioactive material contained in each of the sources. 
+(b) Provide a statement of the accuracy of each standard source (information usually available 
+from the source manufacturer). At a minimum, you should state that the accuracy of the 
+standard will be ± 5 % of the stated value and traceable to a primary radiation standard such 
+as those maintained by the National Bureau of Standards. 
+(c) Provide an example of a calculation for converting leak test sample counting results to 
+becquerels or nanocuries.  
+9.4.2.3 Operating Procedures 
+The following elements should be included in your operating and emergency procedures, if 
+applicable: 
+(a) Instructions for performing the wipe tests, including materials to use and methods of handling 
+samples to prevent or minimize exposure to personnel. 
+(b) Surveys to be performed, such as those around the housing to be sure the device is in the 
+“safe”, “store” or “off” position before wipe samples are taken from designated areas of the 
+device. 
+(c) Surveys to be performed on wipe-or leak test samples to check for gross contamination before 
+SAHPGL-RDN-RN-10_v3 
+Page 15 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+removal from the site. 
+(d) Any specific instructions provided by source and device manufacturers on recommended 
+methods and areas to be wiped. 
+(e) Instructions on what to do in case of emergencies, for example, if sources or devices are found 
+to be leaking or excessive radiation levels are found around devices. These instructions should 
+include procedures for proper notification to customer personnel, means of preventing and 
+controlling the spread of contamination, and means of obtaining professional assistance, if 
+needed. 
+9.4.2.4 Commercial Leak Test Kits 
+If you plan to manufacture and distribute commercial leak test kits for your customer’s use, provide 
+samples of each type of kit you intend to distribute. Commercial leak test kits are designed to be 
+used by your customers to wipe specific sources or to wipe sources in specific devices; the wipes 
+are then returned to you for analysis. Each type of kit you wish to distribute should be identified by 
+a separate model number and clearly labelled as to the type and strength of the source or device it 
+is designed to test. 
+Each kit should contain all necessary components for use: 
+(a) the swabs, wipes, absorbent-tipped sticks, etc., that are to be used to make the wipes on the 
+specified sources or devices 
+(b) instructions for safe use of the particular kit (including the type and strength of the source the 
+kit is designed for), step-by-step procedures for making the wipes or smears, and procedures 
+for returning the wipes to you for analysis  
+(c) a label for the customer to fill out that identifies the customer's name, authority number, 
+source or device (by manufacturer, model number, and activity) wiped, and the name of the 
+individual who made the wipes. 
+You must have appropriate sample analysis equipment to properly evaluate the customer’s wipes 
+for each type of kit you wish to distribute. 
+9.4.2.5 Records 
+SAHPGL-RDN-RN-10_v3 
+Page 16 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+You should include copies or descriptions of the types of records you will maintain on leak test 
+samples as part of the documentation of your radiation protection program. 
+These records should include: 
+(a) Identification of each source or device (manufacturer, model number, serial number, isotope, 
+quantity) 
+(b) Identification of each customer (name, address, person to contact) 
+(c) Radiation survey measurements, as appropriate 
+(d) Date of test and date of next schedule test 
+(e) Information on test methods used (e.g., type of wipe such as dry filter paper pr wet cloth swipe 
+and areas wiped) 
+(f) Leak test results expressed in becquerels or nanocuries of alpha, beta, or gamma radiation for 
+each area wiped, and identification of the individual who performed the test. 
+You should include a copy of the leak test certificate you will supply to customers. 
+10. LEAK TEST METHODS 
+This part is included for informative purpose and as guide to promote uniformity of practice to meet the 
+objective of the standard. 
+10.1 General  
+Maintenance of its integrity after testing of the sealed source is the criterion for determining that a source 
+meets the specifications of a particular class for a given test. In the case of any test that depends on the 
+measurement of radioactive material associated with a test source as an indicator of source capsule 
+integrity, a comparison of activity removed from the source before and after a performance test must be 
+the criterion. The amount of activity removed from a source following a performance test, unless related 
+to the removable activity on the source before the test, is not a measure of leakage from the test source 
+interior or necessarily an indication of a breach in capsule integrity. 
+Several methods of leak testing (integrity testing) are acceptable to determine whether sealed sources 
+meet or fails the specifications of a test. Not all the listed leak test methods are applicable to all sources. 
+The test, or tests, most applicable to all particular source configurations should be chosen. In the case of 
+SAHPGL-RDN-RN-10_v3 
+Page 17 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+multiple encapsulations, different leak test methods may be appropriate for each encapsulation. 
+Leak Test Methods 
+A1. Screening measurements: 
+A screening measurement should be done to determine if any contamination is present. The swab should 
+be counted for an optimised time to determine if the reading is out of the range x ± 2,58 b, where x is the 
+average background and b the standard deviation of the background reading. If the measurement lies 
+within this range, there is a 99 % certainty that the reading is only background. If the value lies out of this 
+range a quantitative analysis shall be done on the swab. 
+10.2 Acceptable Leak Test Methods 
+10.2.1 General 
+For the tests by radioactive means, it is assumed that the source has been cleaned and is free from 
+radioactive surface contamination before the performance test is initiated. 
+10.2.2 Wipe (Smear) Test 
+Wipe all external surfaces of the sealed source thoroughly with a piece of filter paper or other suitable 
+material of high wet strength and absorbent capacity, moistened with a solvent which will not attack the 
+material of which the outer surfaces of the source are made and which, under conditions of this test, has 
+been demonstrated to be effective in removing the radioactive substance involved. Measure the activity 
+on the wiping material. If the activity is less than 5 nCi (185 Bq) the source is leak free. 
+10.2.3 Dry (Smear) Test 
+Wipe all external surface of the sealed source thoroughly with a piece of filter paper or other suitable 
+material of high wet strength and absorbent capacity, moistened with a solvent which will not attack the 
+material of which the outer surfaces of the source are made and which, under conditions of this test, has 
+been demonstrated to be effective in removing the radioactive substance involved. Measure the activity 
+on the wiping material. If the activity is less than 5 nCi (185 Bq), the source is considered to be leak free. 
+10.2.4 Immersion with Boiling Test 
+Immerse the sealed source in a solvent which will not attack the material of which the outer surfaces of the 
+source are made and which, under the conditions of this test, has been demonstrated to be effective in 
+SAHPGL-RDN-RN-10_v3 
+Page 18 of 18
+Guideline on Leak Tests 
+12 December 2022 
+ 
+ 
+removing the radionuclide involved. Boil for 10 minutes, remove the source (retaining the solvent) and 
+allow to cool, then rinse the source using fresh solvent. Repeat these operations twice, for a total of three 
+tests, using the original solvent for the boiling. Measure the total activity in the solvent. If the activity is less 
+than 5 nCi (185 Bq) the source is considered leak free. 
+10.2.5 Gaseous Emanation Test (for Radium-226 Sources) 
+Put the sealed source to be tested into an appropriate small gas-tight container together with activated 
+carbon or two cotton filters and leave it there for 24 hours. Take out the source and shut the container 
+again. Measure immediately the activity of the absorber. If the activity corresponds to less than 1 nCi (37 
+Bq) of Radon or daughter products, the source is considered leak free. 
+10.2.6 Kr-85 Test 
+Place the cleaned sealed source in a suitable pressure chamber. Evacuate the chamber and introduce a 
+known amount of Kr-85. Pressurize the chamber with argon to a pressure of at least 0,4 MN/𝑚2  (60 lb/𝑖𝑛2) 
+for at least 10 minutes. Vent the chamber and place the source in a clean test chamber. Purge the chamber 
+with argon at atmospheric pressure and allow the system to stand for at least 5 minutes. Draw a fraction 
+of the chamber atmosphere into an evacuated, calibrated Kr-85 counting chamber. Calculate the leak rate 
+from the counting rate. If the leak rate is less than 1 x 10−8 standard cubic centimeter per second, the 
+source is considered leak free. 
+11. REFERENCES 
+The following related documents are referenced: 
+11.1 South Africa. 1973. Hazardous Substances Act, No.15 of 1973. Pretoria: Government Printer. 
+11.2 South Africa. 1993. Regulations relating to Group IV Hazardous Substances. Published under 
+Government Notice R247 in Government Gazette 14596 of 26 February 1993 
+12. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+on Leak Tests, revised in January 2015. It will be reviewed on this timeframe or as and when required. 
+

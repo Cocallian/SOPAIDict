@@ -1,0 +1,671 @@
+SAHPGL-RDN-XR-16_v1 
+Page 1 of 16
+ 
+ 
+ 
+29 August 2022 
+GUIDELINE FOR CODE OF PRACTISE FOR INDUSTRIAL 
+RADIOGRAPHY X-RAY 
+X-Ray equipment used in industrial radiography is subject to regulatory control in terms of Article 3(1) of the Hazardous Substances 
+Act, 1973 (Act 15 of 1973), as amended.  The body responsible for administering this legislation is SAHPRA: Radiation Control. This 
+code of practice has been drawn up to limit the risk of overexposure of workers and members of the public, and to keep radiation 
+doses as low as is reasonably achievable (ALARA principle).  
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue and published for implementation 
+October 2015 
+2 
+− 
+Content structured on the new SAHPRA Guideline Template 
+− 
+A unique document number SAHPGL-RDN-XR-16 allocated to this 
+Guideline 
+− 
+Form RC001 changed to GLF-RDN-XR-02B, Form RC005 changed to GLF-
+RDN-XR-02C, Form RC010 changed to GLF-RDN-XR-10A, Form RC013-1 
+also changed to GLF-RDN-XR-16A 
+September 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-16_v1 
+Page 2 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+ADMINISTRATIVE AND MEDICAL REQUIREMENTS .................................................................................... 4 
+4. 
+EQUIPMENT SPECIFICATIONS AND PERIODIC TESTING ............................................................................. 7 
+5. 
+SPECIFICATIONS FOR ENCLOSED EXPOSURE FACILITIES ........................................................................... 8 
+6. 
+TRAINING REQUIREMENTS ........................................................................................................................ 9 
+6.1 Responsible Person ................................................................................................................................... 9 
+6.2 Initial Training requirements ..................................................................................................................... 9 
+6.3 Periodic Training of all radiation workers ............................................................................................... 10 
+6.4 Observations ............................................................................................................................................ 10 
+6.5 Records of training and observations ...................................................................................................... 10 
+7. 
+HANDLING PROCEDURES ......................................................................................................................... 11 
+7.1 General Requirement .............................................................................................................................. 11 
+7.2 Radiography in Open Areas ..................................................................................................................... 11 
+7.3 Radiography in Enclosed Exposure Facilities ........................................................................................... 12 
+8. 
+RADIATION MONITORING REQUIREMENTS ............................................................................................ 13 
+9. 
+DOSE LIMITATION .................................................................................................................................... 14 
+10. EMERGENCY PROCEDURES ...................................................................................................................... 14 
+11. REFERENCES ............................................................................................................................................. 15 
+12. VALIDITY .................................................................................................................................................. 16 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-16_v1 
+Page 3 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Approved 
+Approved by the SAHPRA: Radiation Control . 
+Directorate 
+The Directorate Radiation Control, SAHPRA 
+Enclosed exposure facility 
+A permanent, shielded installation or structure designed for industrial 
+radiography, which incorporates a fixed exposure device and in which such 
+work is regularly performed. 
+Industrial radiographer 
+means a person authorized by the Department to perform industrial 
+radiography. 
+Industrial radiography 
+Work involving the examination of the structure of materials by non-
+destructive methods, utilising ionising radiation.  Specifically included in the 
+definition of industrial radiography work are all 
+Operator 
+means a person who performs industrial radiography in an enclosed exposure 
+facility. 
+Overexposure 
+any exposure of a person to ionising radiation to an extent that an annual dose 
+limit is exceeded. 
+Radiography 
+in 
+open 
+areas 
+Radiography not performed in an enclosed exposure facility. 
+Trainee 
+A person who has successfully completed an approved examination in 
+industrial radiography, but who has not yet obtained the necessary practical 
+training period of 480 effective working hours under the supervision of an 
+approved and authorised industrial radiographer 
+X-Ray equipment 
+Electronic equipment producing ionising radiation (X-Rays) for the purposes of 
+industrial radiography. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-16_v1 
+Page 4 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+X-Ray equipment used in industrial radiography is subject to regulatory control in terms of Article 3(1) of the 
+Hazardous Substances Act, 1973 (Act 15 of 1973), as amended.  The body responsible for administering this 
+legislation is SAHPRA: Radiation Control 
+Industrial Radiography units emit sufficient ionising radiation to constitute a significant health hazard unless 
+adequately shielded and handled with proper care.  This code of practice has been drawn up to limit the risk 
+of overexposure of workers and members of the public, and to keep radiation doses as low as is reasonably 
+achievable (ALARA principle).  Wherever the word must be used in this document, it implies that the 
+requirement in question is compulsory.  Where the word should be used, compliance is strongly 
+recommended, but is not mandatory. 
+The holder of a licence must ensure that the requirements laid down in this code are always adhered to. 
+The latest version of this document as well as all forms and guidelines are available at: 
+https://www.sahpra.org.za/radiation-control-guidelines-and-codes-of-practice/  
+1.1 
+Purpose 
+The importance of radiation safety training was reiterated by the World Health Organization (WHO). It has 
+been recognized since early studies on X-Rays that exposure to high levels of radiation may cause tissue 
+damage, and that chronic exposure to lower levels of radiation may result in cancer. This code of practice 
+has been drawn up in order to limit the risk of overexposure of workers and members of the public, and to 
+keep radiation doses as low as is reasonably achievable (ALARA principle). 
+1.2 
+Scope 
+This Code of Practice sets out requirements and recommendations to license holders for radiation safety 
+associated with the use of Industrial Radiography X-Ray equipment. 
+2. 
+LEGAL PROVISION 
+The guideline is implemented in promulgating the Hazardous Substances Act 15, 1973 (Act15 of 1973) the 
+related Regulations R.1332. 
+3. 
+ADMINISTRATIVE AND MEDICAL REQUIREMENTS  
+3.1 
+An application for a licence to possess and use an X-Ray unit must be submitted to the Directorate 
+SAHPRA: Radiation Control on form GLF-RDN-XR-02B (old Form RC001).  The applicant must show 
+SAHPGL-RDN-XR-16_v1 
+Page 5 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+that he possesses the necessary equipment, facilities and trained personnel to ensure that the 
+radiographic work will be performed in a safe manner. 
+3.2 
+The person nominated to act as Responsible Person must either be a full-time employee or the 
+owner. The person nominated to act as Responsible Person must pass an approved examination 
+before he/she can assume this position. Candidates must have an approved Level II Industrial 
+Radiography qualification with two years’ experience. A service contract must be compiled between 
+the holder and the responsible person in terms of Paragraph III.3 of the Regulations Concerning the 
+Control of Electronic Products (Regulations No R1332 of 3 August 1973). Responsibilities for the 
+transfer of duties when resigning or when the contract expires must be included in the service 
+contract. 
+3.3 
+Should a Responsible Person change at any stage, SAHPRA Radiation Control must be informed of 
+the change on form GLF-RDN-XR-02C (old Form RC005). A copy of the required service contract 
+between the holder and the Responsible Person compiled in terms of Paragraph III.3 of the 
+Regulations Concerning the Control of Electronic Products (Regulations No R1332 of 3 August 1973) 
+must be attached. 
+3.4 
+An application for registration with SAHPRA: Radiation Control as an industrial radiographer must be 
+made on form GLF-RDN-XR-16A (old Form RC013-1).  Certified copies of documents must be included 
+to show that a course at an approved educational institution has been successfully completed. The 
+course must include both the technical and safety disciplines. Candidates must subsequently 
+undergo a practical training period of 480 effective working hours under the supervision of an 
+approved and authorised industrial radiographer. The practical training must be confirmed in a 
+logbook signed by the supervisor. The logbook must give a description of the work performed. 
+3.5 
+The holder of the licence must ensure that a document is drawn up outlining correct working 
+procedures.  The document must include details of all relevant safety procedures laid down by 
+SAHPRA: Radiation Control (i.e. it is recommended that this code form a major part of the document) 
+and must specify what actions are to be taken in the event of an emergency.  The holder of the licence 
+must take steps to ensure that his employees adhere to the correct working procedures. 
+3.6 
+A separate health register must be established for each radiation worker. This register must be 
+retained in safe custody, protected and safeguarded from fire, theft or destruction for a period of at 
+least 5 years by the holder of the authority. 
+3.7 
+When the South African Bureau of Standards (SABS)/ Dosimeter Services reports to the licence holder 
+SAHPGL-RDN-XR-16_v1 
+Page 6 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+that an employee's personal dosimeter (TLD) has registered more than the pro rata dose allocation 
+for the wearing period, the holder must complete form GLF-RDN-XR-10A (old Form RC010) and 
+forward it to SAHPRA: Radiation Control.  The holder must furthermore ensure that a copy of this 
+form is entered into the health register of the worker in question. 
+3.8 
+Radiation workers must be declared medically fit by a company appointed doctor before 
+employment.  A copy of this pre-employment medical evaluation must be entered into the health 
+register of the worker concerned. A medical examination must also be performed at termination of 
+radiation work with the employer. A copy of the post-employment medical evaluation must be kept 
+in the health register of the relevant worker. 
+3.9 
+Medical examinations must be carried out: 
+• 
+during registration/deregistration of radiation workers 
+• 
+when a radiation incident is suspected 
+• 
+when the Director General or a medical practitioner deems it necessary 
+• 
+when the radiation worker has a reasonable suspicion that his/her health may be detrimentally 
+affected by certain occupational factors. 
+3.10 When the SABS/ Dosimeter services reports to the authority holder that an employee's personal 
+dosimeter (TLD) has registered more than 50 mSv for the wearing period or if SAHPRA: Radiation 
+Control so requires, a blood sample must be drawn from that employee and be sent to iThemba Labs 
+(previously known as the National Accelerator Centre) at Faure for biological dosimetry within 30 
+days of being notified by the SABS. The procedure for the taking and sending of the blood sample 
+must be discussed with SAHPRA: Radiation Control. 
+3.11 When a radiation worker ceases to be employed by the licence holder, the holder must provide that 
+worker with a copy of his/her complete dose record.  Such complete records can be obtained from 
+the SABS on request. 
+3.12 The holder of the authority shall not transfer any industrial radiography X-Ray units unless this is 
+done with the prior approval of SAHPRA: Radiation Control. This requirement refers to situations 
+where X-Ray units are transferred between companies and when X-Ray units are permanently 
+transferred between different sections of a company. 
+SAHPGL-RDN-XR-16_v1 
+Page 7 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+4. 
+EQUIPMENT SPECIFICATIONS AND PERIODIC TESTING  
+4.1 
+An X-Ray tube must be enclosed in a tube housing in such a way that the dose equivalent rate from 
+leakage radiation measured at a distance of one meter from the focus does not exceed the following 
+values for the given applied voltages and the corresponding maximum tube currents:   
+− 
+up to 150 kV: 
+1 000 µSv/h (100 mR/h) 
+− 
+above 150 up to 200 kV: 
+2500 µSv/h (250 mR/h) 
+− 
+above 200 kV: 
+5000 µSv/h (500 mR/h) 
+For discharge X-Ray equipment, the dose equivalent rate shall be defined as the dose equivalent in 
+one hour at the highest pulse rate.  
+4.2 
+The tube head must provide a total filtration at least equal to the following values corresponding to 
+the maximum voltage for which the tube head is designed (ref 2):  
+− 
+up to 50 kV: 
+no requirement 
+− 
+above 50 up to 100 kV: 
+2 mm Al or the equivalent 
+− 
+above 100 up to 200 kV: 
+3 mm Al or the equivalent 
+− 
+above 200 up to 300 kV: 
+4 mm Al or the equivalent 
+− 
+above 300 kV: 
+0.5 mm Cu or the equivalent 
+4.3 
+A lead cap to be used for covering the radiation window during testing and start up preparation of 
+the tube must be supplied.  The lead cap must attenuate the primary beam so that the leakage 
+radiation limits are not exceeded.  
+4.4 
+The lead cap must be easy to mount correctly.  For panoramic X-Ray equipment the lead cap (belt) 
+must be mechanically strong.  
+4.5 
+Diaphragms giving different field sizes of the primary beam must be supplied.  
+4.6 
+The diaphragms must be easy to mount correctly.  Panoramic X-Ray equipment must be supplied 
+with diaphragms enabling directional beam exposure.  This is not required for X-Ray crawlers. 
+4.7 
+X-Ray equipment must be equipped with an extension cable for remote exposure control.  The length 
+of this cable must be at least 20 m for X-Ray equipment exceeding 200 kV, and 10 m for kV's of 200 
+and lower (ref 14).  
+4.8 
+The control panel must be provided with a key activated control. Without this key the control panel 
+SAHPGL-RDN-XR-16_v1 
+Page 8 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+must be inoperable.  Removal of the key after exposure must not result in any damage to the 
+equipment, e.g. overheating. 
+4.9 
+Proper operation of the unit via the control panel must be the only way of controlling exposures.  
+Accidental grounding of an electrical conductor must not result in generation of X-Rays.  
+4.10 Two independent means which indicate when X-Rays are being generated must be provided on the 
+control panel.  One of these indicators must be a red lamp of reliable design.  
+4.11 The control panel must be provided with door switch connectors for use on enclosed installations.  
+This system must be designed in such a way that, when exposure has been interrupted by the opening 
+of a door altering the switch circuit status, it shall be possible to resume generation of X-Rays only by 
+activation from the control panel after all doors have been closed again. 
+4.12 The control panel must be provided with a connection to an external warning lamp. 
+4.13 The tube head must be distinctly marked with the following information: 
+• 
+location of focus; 
+• 
+primary beam angle; and 
+• 
+for panoramic units the cylindrical window must be marked with a colour distinctly different 
+from that of the rest of the housing. 
+4.14 A brief guidance, written in one of the official languages of the country, shall accompany the unit (if 
+convenient, in the control panel cover).  The guidance shall contain a warning concerning radiation 
+hazards, and an indication that the installation must be operated by qualified personnel only. 
+4.15 The instruction manual for the use of X-Ray installations shall be written in one of the official 
+languages of the country and shall only deal with the type of apparatus concern. 
+5. 
+SPECIFICATIONS FOR ENCLOSED EXPOSURE FACILITIES  
+Any facility that does not comply with the following requirements is considered to be an open area (for 
+example an exposure bay with walls, maze and portable equipment): 
+5.1 
+The remote control shall be placed outside the enclosure. 
+5.2 
+5.1.2 An enclosed exposure facility may not be located in an area zoned for domestic use. 
+5.3 
+The facility must be clearly marked with radiation warning signs, and the name and telephone 
+SAHPGL-RDN-XR-16_v1 
+Page 9 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+number of a person to be contacted in the event of an emergency, must appear at the entrance to 
+the facility. 
+5.4 
+The facility must incorporate a means to indicate positively that an exposure is underway.  The facility 
+must incorporate warning lights linked to the on-off mechanism of the unit. 
+5.5 
+Facilities in which X-Ray equipment are installed must have interlock systems which prevent exposure 
+if one of the entrance doors is opened before exposure or opened during exposure. Resumption of 
+exposure must be possible only after manual restart at the control panel, after the door has been 
+closed. 
+5.6 
+Enclosed exposure facilities must be provided with a device which makes it possible for a person 
+accidentally left in the room, to open one of the doors easily and leave. 
+5.7 
+In facilities having more than one entrance door, the doors that are not controlled by the operator 
+must be lockable from the inside, and the door under his/her control, lockable from the outside.  If 
+the facility has only one door it must be lockable from the outside. 
+5.8 
+The radiation dose rate outside the exposure facility must comply with the requirements of 
+paragraphs 9.1 to 9.3, and at a distance of 1 m from the outer surface of an enclosed installation 
+should preferably not exceed 2.5 µSv/h (0.25 mR/h), but must not exceed 7.5 µSv/h (0.75 mR/h) 
+when the properties of the radiation source correspond to the maximum ratings stated for that 
+enclosed installation. 
+5.9 
+Enclosed installations must be provided with a sign stating the maximum rating and limitations on 
+the primary beam directions established for that installation. 
+6. 
+ TRAINING REQUIREMENTS  
+6.1 
+Responsible Person 
+6.1.1 The Responsible Person must ensure that all persons performing industrial radiography or who act 
+as radiographic operators and assistants have the necessary training and are familiar with the correct 
+operating and safety procedures.  In particular the training requirements specified below must be 
+met. 
+6.2 
+Initial Training requirements  
+6.2.1 Persons wishing to work as industrial radiographers must successfully complete a course in industrial 
+SAHPGL-RDN-XR-16_v1 
+Page 10 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+radiography at an approved institution. The course must include both the technical and safety 
+disciplines. Candidates must subsequently undergo a practical training period of 480 effective 
+working hours under the supervision of an approved and authorised industrial radiographer. The 
+practical training must be confirmed in a logbook signed by the supervisor. The logbook must give a 
+description of the work performed. An application for a personal authority to act as a qualified 
+industrial radiographer must be submitted to SAHPRA: Radiation Control on form GLF-RDN-XR-16A 
+(old Form RC013-1). 
+6.2.2 Assistants to the industrial radiographer and operators of enclosed exposure facilities must be given 
+sufficient training to enable them to carry out their work satisfactorily.  Such training must include 
+information on the risks associated with ionising radiation, prescribed safety requirements and 
+emergency procedures, as well as practical on-the-job training. After such training, the 
+assistant's/operator's knowledge and understanding must be evaluated, in order to gauge the 
+effectiveness of the training programme. 
+6.3 
+ Periodic Training of all radiation workers 
+6.3.1 All radiation workers (e.g. industrial radiographers, trainees, assistants and operators) must be given 
+periodic training in radiation safety aspects relating to their work at least once a year. The training 
+must ensure, in particular, that workers have a thorough knowledge of the procedural document 
+referred to in paragraph 3.5.  Such training must include an evaluation of the workers' knowledge 
+and understanding of the training material. 
+6.4 
+ Observations  
+6.4.1 The holder of a licence must ensure that the Responsible Person regularly observes the performance 
+of all radiation workers during actual radiographic operations, in order to establish whether correct 
+operating procedures and Departmental requirements are being adhered to.  Each worker must be 
+observed at least once every 3 months. 
+6.4.2 6.4.2 Where a radiation worker has not participated in a radiographic operation for more than 3 
+months, or where a worker has not used a particular type of radiographic apparatus for the above 
+period, the Responsible Person must observe that individual's performance the next time he 
+participates in radiographic operations. 
+6.5 
+ Records of training and observations  
+6.5.1 Records must be kept of all training and observations conducted.  These records must include details 
+SAHPGL-RDN-XR-16_v1 
+Page 11 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+of the performance of industrial radiographers during observations as well as information regarding 
+attendance and content of training courses.  As far as periodic training and training of radiographic 
+assistants and operators are concerned, records must also be kept of tests or other methods which 
+have been used to determine the individual's knowledge and understanding of safety requirements 
+and operating procedures. 
+7. 
+ HANDLING PROCEDURES  
+7.1 
+General Requirement 
+7.1.1 Industrial radiography may only be performed by: 
+7.1.1.1 a qualified industrial radiographer who has been granted a personal authority from SAHPRA: 
+Radiation Control to perform such work; or 
+7.1.1.2 a trainee industrial radiographer under the direct supervision of a fully qualified and 
+authorised industrial radiographer; or 
+7.1.1.3 an operator performing such work in an enclosed exposure facility. 
+7.1.1.4 In the case of a trainee, the qualified industrial radiographer must be physically present at all 
+times during radiography work and assumes full responsibility for the actions of the trainee. 
+7.2 
+Radiography in Open Areas 
+7.2.1 Before commencing work, an industrial radiographer must ensure that he/she, and the other 
+members of the radiography team (i.e. industrial radiographers, trainee industrial radiographers and 
+assistants), are wearing personal dosimeters (TLD's) and direct-reading dosimeters, and that he/she 
+has in his/her possession a functioning radiation monitor. The industrial radiographer must also have 
+the equipment necessary for the setting up of barriers (e.g. barrier rope, mechanical supports, etc.) 
+as well as radiation warning signs and, in the case of night-work, warning lights. 
+7.2.2 Radiography equipment, accessories and auxiliary apparatus (i.e. radiation monitors, direct-reading 
+dosimeters, alarm dosimeters, etc) must be checked daily by the industrial radiographer before and 
+after use.  If any equipment is not in a proper working order, radiography must NOT be carried out. 
+7.2.3 Appropriate collimators must be used for reduction of the field size of the primary beam to the 
+minimum practicable size necessary for the performance of the work.  Where it is not possible to use 
+a collimator, other appropriate shielding material should be used. 
+SAHPGL-RDN-XR-16_v1 
+Page 12 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+7.2.4 Barriers must be erected at a distance calculated prior to commencing the exposure, so as to ensure 
+that the instantaneous dose rate at the barrier is as low as is reasonably achievable and does not 
+exceed 10 µSv/h (1 mR/h).  Once the radiography unit has been activated, the radiation level at the 
+barriers must be checked with a monitor and the barriers moved, if necessary, to ensure that levels 
+are acceptably low. 
+7.2.5 In addition to the requirements of paragraph 7.2.4 and section 9 (regarding dose limitations), the 
+industrial radiographer must ensure, during the course of his/her work, that no individual is exposed 
+to radiation in excess of the following levels: 
+o workers not wearing Personal Dosimeters: 20 µSv (2 mrem) in any one day; and 
+o members of the Public: 4 µSv (0.4 mrem) in any one day. 
+7.2.6 Warning signs and, at night, warning lights must be prominently displayed at the barrier and must be 
+visible from all directions. 
+7.2.7 Before commencing the exposure the industrial radiographer must ensure that no people are within 
+the demarcated area. 
+7.2.8 Boundaries of adjacent sites on which industrial radiography is done should not overlap.  If overlap 
+is unavoidable, close liaison shall be maintained between operators responsible for the overlapping 
+sites to avoid accidental exposure (ref 14). 
+7.2.9 During the exposure, the industrial radiographer, or one of his/her assistants, must be in attendance 
+near the demarcated area, in order to take immediate corrective measures should any unplanned 
+entry into the area take place. 
+7.2.10 During start-up preparation or testing of X-Ray tubes, the radiation window must be closed by a 
+lead cap designed for this purpose. 
+7.2.11 A warning lamp connected to the control panel must be prominently positioned near an X-Ray tube 
+in order clearly to indicate exposure. 
+7.3 
+Radiography in Enclosed Exposure Facilities  
+7.3.1 Before commencing the exposure, the operator must ensure that there is nobody inside the exposure 
+facility. 
+7.3.2 The exposure must be terminated according to the correct termination procedures. Use of safety 
+SAHPGL-RDN-XR-16_v1 
+Page 13 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+devices such as interlocks for exposure termination is not permitted. 
+7.3.3 Before entering the enclosed exposure facility after an exposure, the operator must make certain 
+that the exposure has been terminated. 
+7.3.4 When the facility is not in use, the unit must be rendered inoperable by locking the control panel and 
+removing the key. 
+7.3.5 The operator must ensure compliance with all the limitations on use of the enclosed installation, e.g. 
+the limitations with respect to beam direction and output of industrial radiography equipment.  If 
+these conditions are not satisfied, the installation is no longer considered to be an enclosed 
+installation, and the work must be carried out in accordance with the requirements for open 
+installations. 
+7.3.6 TLD's must be worn by persons performing radiography in an enclosed exposure facility. 
+8. 
+ RADIATION MONITORING REQUIREMENTS  
+8.1 
+All the members of an industrial radiography team (i.e. industrial radiographers, trainee industrial 
+radiographers, student radiographers and assistants) as well as operators must be issued with a 
+personal dosimeter (TLD). The worker's unique Bureau Identification Number (BIN) must be indicated 
+on the personal dosimeter when returned to the SABS for processing. No “blank” TLD’s may be 
+issued to any member of a radiography team. No radiation worker may perform industrial 
+radiography work without a TLD issued in his/her name. 
+8.2 
+All the members of industrial radiography teams performing radiography in open areas, as well as 
+any other workers who are likely to receive more than 200 µSv (20 mR) during any one day, must in 
+addition be issued with a direct-reading dosimeter (pocket dosimeter) or a digital audible-alarm 
+dosimeter. The direct-reading dosimeter must have a full-scale deflection of at least 2 mSv (200 mR).  
+Daily doses must be accurately recorded, and such records kept for a period of at least 5 years. 
+8.3 
+Direct-reading dosimeters and audible-alarm dosimeters must be checked for correct response to 
+radiation at an approved facility, at periods not exceeding 26 months. 
+8.4 
+The dosimeters specified in paragraphs 9.1 to 9.2 above, must be worn by radiation workers (i.e. 
+attached to their clothing) during the course of their work. 
+8.5 
+Each radiography team performing radiography in an open area must be provided with a radiation 
+SAHPGL-RDN-XR-16_v1 
+Page 14 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+monitor (dose-rate meter) with a range sufficient to measure 10 µSv/h (1 mR/h) through to at least 
+10 mSv/h (1 R/h).  This monitor must be calibrated at an approved facility at periods not exceeding 7 
+months, and after servicing of the instrument. 
+8.6 
+Before starting work, the radiation workers must ensure that the above dosimeters and monitors are 
+in place, and in proper working order. If not, the radiography work must not be carried out. 
+9. 
+DOSE LIMITATION  
+9.1 
+Radiation doses to individuals must at all times be kept as low as is reasonably achievable (ALARA). 
+9.2 
+In addition to the requirement of ALARA, the holder of the licence, as well as radiation workers, must 
+ensure that radiation doses to individuals (including themselves) do not exceed the limits specified 
+by SAHPRA: Radiation Control: 
+SUMMARY OF DOSE LIMITS 
+ 
+ 
+OCCUPATIONAL 
+PUBLIC 
+ 
+APPLICATION 
+DOSE LIMIT 
+DOSE LIMIT 
+ 
+Effective Dose 
+* 20 mSv per year, averaged 
+** 1 mSv per year 
+ 
+ 
+over 5 years, and not more 
+ 
+ 
+than 50 mSv in any 1 year. 
+ 
+Annual Equivalent Dose to 
+ 
+ 
+lens of the eye 
+ 20 mSv 
+ 1 mSv 
+ 
+ 
+skin 
+500 mSv  
+50 mSv 
+ 
+ 
+hands and feet 
+500 mSv 
+- 
+* 
+Additional restrictions apply to the exposure of pregnant women. 
+** In exceptional cases, this may be exceeded provided that the average over 5 years is less than 1mSv per year. 
+9.3 
+Exposures in excess of the dose limits which occur as a result of circumstances which cannot 
+reasonably be considered as being under the control of the holder of the licence or the radiation 
+workers, will, however, not be viewed as a statutory infringement. 
+10. EMERGENCY PROCEDURES  
+10.1 The document drawn up by the holder of the licence in terms of paragraph 3.5 must include a 
+contingency plan describing procedures to be followed in the event of a radiation incident. The 
+contingency plan must include the following: 
+10.1.1 Immediate action to be taken in order to prevent excessive radiation doses. 
+10.1.2 Internal and external notification procedures. 
+10.1.3 Procedures for dealing with the incident and returning the situation to normal. 
+10.1.4 Information regarding medical examinations and blood tests. 
+SAHPGL-RDN-XR-16_v1 
+Page 15 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+10.2 SAHPRA: Radiation Control must be notified immediately by telephone 012 501-0451 and the 
+information must be reported to SAHPRA: Radiation Control in writing within 7 days in the following 
+instances (See Regulation 16):          
+10.2.1 If any person is overexposed or suspected of being overexposed. 
+11. REFERENCES 
+The following related documents are referenced: 
+11.1 Nordic Recommendations on Radiation Protection in Industrial Radiography, 1987. 
+11.2 Standard Specification for Apparatus for Gamma Radiography, SABS 1980 (SABS 1317). (International 
+Standard ISO 3999 - 1977) 
+11.3 Radiation Protection - Recommendations in the Nordic Countries, 1976. 
+11.4 Licenses for Radiography and Radiation Safety Requirements for Radiographic Operations, Part 34, 
+US NRC Rules and Regulations, 1990. 
+11.5 Government Gazette no. R184, August 1973 concerning regulations governing the Hazardous 
+Substances Act, 1973 (Act 15 of 1973) as amended. * 
+11.6 Proposed code of practice for the industrial use of ionising radiation, Part II: Radiation from listed 
+electronic products, Document for committee draft stage SABS. 
+11.7 Suggested State regulations for control of Radiation, Volume I, ionising Radiation, U.S. Department 
+of Health and Human Services, Public Health Service, Food and Drug Administration (1982). 
+11.8 The protection of persons against ionising radiation arising from any work activity, The Ionising 
+Radiation Regulations 1985, Health and Safety Commission. 
+11.9 Ionising Radiation Dose Limits and Annual Limits on Intake of Radioactive Material, Directorate: 
+Health Technology, Department of Health, Bellville, 1992. 
+11.10 Suggested State Regulations for Control of Radiation Volume I, Ionising Radiation, U.S. Department 
+of Health and Human Services, Public Health Service, Food and Drug Administration (1990). 
+11.11 Code of practice for the safe use of Industrial Radiography equipment (1989), Radiation Health 
+Series no. 31, National Health and Medical Research Council, Australia (December 1989). 
+11.12 ICRP ref 4825-3093-1464 (21 April 2011). 
+SAHPGL-RDN-XR-16_v1 
+Page 16 of 16
+Guideline for Code of Practise for Industrial Radiography X-Ray 
+29 August 2022 
+ 
+ 
+12. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old Code of 
+Practice for Industrial Radiography X-Ray, revised October 2015. It will be reviewed on this timeframe or as 
+and when required. 
+

@@ -1,0 +1,714 @@
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+f
+i
+i
+d
+Page 1 of 15
+ 
+ 
+ 
+10 April 2026 
+GUIDELINE ON HOW TO APPLY FOR A LICENCE TO MANUFACTURE, 
+IMPORT AND/OR EXPORT MEDICINES AND SCHEDULED SUBSTANCES 
+This guideline is intended to provide recommendations to applicants wishing to submit an application for a licence to manufacture, 
+import or export a medicine or scheduled substances.  It is not intended as an exclusive approach and should not be taken as a 
+complete or authoritative statement of the law.  SAHPRA reserves the right to request any additional information to establish the safety, 
+quality and efficacy of a medicine or scheduled substance in keeping with the knowledge current at the time of evaluation.  SAHPRA 
+is committed to ensure that all scheduled substances and registered medicines will be of the required quality, safety, and efficacy and 
+that the manufacturer complies with acceptable quality assurance principles and good manufacturing practices as determined by 
+SAHPRA to manufacture, import, or export.  It is important that applicants adhere to the administrative requirements to avoid delays 
+in the processing and evaluation of applications 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+0 
+First Publication released for implementation and Industry comments. 
+November 2003 
+1 
+Date of finalization/Implementation 
+January 2004 
+2 
+Authority: “MCC” to “SAHPRA” 
+Registrar of Medicines to the Chief Executive Officer (CEO) 
+Directorate: Inspectorate and Law Enforcement to Program 3: 
+Inspectorate and Regulatory Compliance 
+Director-General to CEO 
+November 2019 
+3 
+Amendments to various section of the Guideline  
+Guideline number changed from 16.01 to SAHPGL-LIC-01 
+June 2022 
+4 
+Inclusion of Section 3.10 Application processing timelines 
+March 2026 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 2 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 5 
+3. 
+LICENCE TO MANUFACTURE, IMPORT AND/OR EXPORT MEDICINES AND SCHEDULED SUBSTANCES ..... 5 
+3.1 
+Who must apply or not apply for a Manufacturing Licence ...................................................................... 5 
+3.2 
+How to obtain a Licence Application Form and Information to submit..................................................... 6 
+3.3 
+Manufacturer’s Obligations ....................................................................................................................... 8 
+3.4 
+Compliance with Good Manufacturing Practices (GMP) ........................................................................... 9 
+3.5 
+Personnel (Refer to Annex 16 of the 4.01 Guide to GMP) ....................................................................... 10 
+3.6 
+Inspections [as stipulated by Section 28 of Act 101 of 1965 read together with Regulation 23(3)] ....... 12 
+3.7 
+Powers to Suspend or Revoke Manufacturer’s Licence (as per the provisions of Section 22E of Act 101 
+of 1965) .............................................................................................................................................................. 12 
+3.8 
+Process to follow when a SAHPRA licenced site ceases to exist .............................................................. 13 
+3.9 
+Fees Payable (Refer to the gazetted fees on the SAHPRA website) ........................................................ 13 
+3.10 Application processing timelines ............................................................................................................. 14 
+3.11 Contact Details ......................................................................................................................................... 15 
+4. 
+REFERENCES ............................................................................................................................................. 15 
+5. 
+VALIDITY ................................................................................................................................................... 15 
+ 
+ 
+ 
+ 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 3 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Act 53 of 1974 
+The Pharmacy Act 53 of 1974 as amended 
+Act 101 of 1965/Medicines Act Medicines and Related Substances Act, 1965 (Act 101 of 1965) as amended 
+CEO 
+Chief Executive Officer 
+GDP 
+Good Distribution Practices 
+GMP 
+Good Manufacturing Practices 
+ML 
+Manufacturer Licence (Manufacture, Import or Export) 
+NDOH 
+National Department of Health 
+RP 
+Responsible Pharmacist 
+SAHPRA 
+South African Health Products Regulatory Authority (also known as The 
+Authority) 
+SAPC 
+South African Pharmacy Council 
+SMF 
+Site Master File 
+Holder of a certificate of 
+registration 
+a person in whose name a registration certificate has been granted and 
+who is responsible for all aspects of the medicine, including quality and 
+safety and compliance with conditions of registration 
+Importer and/or Exporter 
+A manufacturer wherein the manufacturing is contracted out to a third-
+party manufacturer. The third-party manufacturer could be located within 
+or beyond the borders of South Africa.  
+Wherein the product is registered by SAHPRA. 
+Wherein the scheduled substance is to be used in the manufacture of a 
+SAHPRA registered product. 
+Manufacture 
+all operations including purchasing of material, processing, production, 
+packaging, releasing, storage and shipment of medicines and related 
+substances in accordance with quality assurance and related controls 
+Manufacturer 
+a person manufacturing a medicine and includes a manufacturing 
+pharmacy 
+Responsible Pharmacist 
+a Responsible Pharmacist as defined in Section 1 of the Pharmacy Act 
+ 
+ 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 4 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+1. INTRODUCTION 
+The South African Health Products Regulatory Authority (SAHPRA) regulates medicines and scheduled 
+substances for human and animal use, on behalf of the Minister of Health and in accordance with the 
+provisions of the Medicines and Related Substances Act,1965 (Act 101 of 1965) and the relevant 
+Regulations made thereunder.  (Hereafter referred to as Act 101 of 1965 or the Medicines Act.) 
+Amongst other things, Act 101 of 1965 provides for a system of licences, certificates and exemptions from 
+the regulation and control of the manufacture of medicines and scheduled substances in South Africa.  
+Legislation in respect of medicines and scheduled substances is in accordance with the provisions of the 
+Medicines Act. These medicines and scheduled substances must, unless exempt, be registered by SAHPRA, 
+or must have an application number (regarded as “old Medicines”) and their manufacturer must hold an 
+appropriate manufacturer’s licence.  The manufacturer’s licence is required by Section 22C of the 
+Medicines Act. 
+Manufacturers of unregistered medicinal products e.g., investigational medicinal products, or medicine 
+solely for export purposes, are also controlled in accordance with the relevant provisions of Act 101 of 
+1965 and its regulations. 
+The manufacture of veterinary medicines or scheduled substances for animal use, registered with the 
+SAHPRA in terms of the provisions of the Medicines Act, is subject to the same legislation and the 
+requirements are similar. 
+A manufacturer’s licence is required for both total and partial manufacture, and for the various processes 
+of dividing up, packaging, or presentation.  However, such a licence is not required for preparation, dividing 
+up, and changes in packaging or presentation where these processes are carried out, solely for retail 
+supply, by or under the supervision of a pharmacist in a registered community pharmacy or hospital 
+pharmacy when such activity is performed in terms of the provisions of Section 14(4) of the Medicines Act, 
+or additionally, in the case of a hospital pharmacy, when performed in terms of the provision of Regulation 
+36 of the Medicines Act. 
+1.1 Purpose 
+This guideline is intended to provide recommendations to applicants wishing to submit an application for 
+a licence to manufacture, import or export a medicine or scheduled substances.  
+1.2 Scope 
+Normal text This document lays down guidelines on how to apply for a licence to Manufacture, Import 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 5 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+and/or Export medicines and /or scheduled substances.  It applies equally to medicines and/or scheduled 
+substances for human and for veterinary use as per Act 101 of 1965 and exclude applications for 
+Complementary Medicines licenses (Category D medicines). Information relevant to the Complementary 
+Medicines 
+licensing 
+can 
+be 
+accessed 
+on 
+the 
+website: 
+https://www.sahpra.org.za/e-
+services/complementary medicines licensing 
+In this Guideline, the word "should" indicates requirements that are expected to apply unless shown to be 
+inapplicable or replaced by an alternative, demonstrated to provide at least an equivalent level of quality 
+assurance. 
+The scope covers all the operations which include but are not limited to purchasing of raw materials, 
+processing of these raw materials, production of medicines and/or scheduled substances, packaging of 
+medicines and/or scheduled substances, releasing of the medicines and /or scheduled substances, storage 
+of medicines and scheduled substances, importation and/or exportation of medicines and scheduled 
+substances and all the related quality management system controls. 
+The scope also covers the licensing of Testing Laboratories and Holders of Certificates of Registration (HCR) 
+wherein the actual manufacturing is contracted out to third parties. 
+2. LEGAL PROVISION 
+Licences to manufacture, import or export medicines and/or scheduled substances are issued in 
+accordance with the requirements of Section 22C read with Regulation 23 and 24 of the Medicines Act. 
+3. LICENCE TO MANUFACTURE, IMPORT AND/OR EXPORT MEDICINES AND 
+SCHEDULED SUBSTANCES 
+3.1 Who must apply or not apply for a Manufacturing Licence 
+3.1.1 
+Granting/Re-granting of a Manufacturing and Packing Licence 
+3.1.1.1 A manufacturer licence (ML) can be granted for the manufacture and packing of medicines 
+and/or scheduled substances or for only the packaging of medicines and/or scheduled 
+substances.  Section 22C of the Medicines Act read together with Regulation 1 of the same 
+Act provides that:  
+3.1.1.1.1 
+"Manufacture" means all operations including purchasing of raw materials, 
+processing, production, packaging, releasing, storage and shipment of medicines and 
+related substances in accordance with quality assurance and related controls and  
+3.1.1.1.2 
+"manufacturer" means a person manufacturing a medicine and includes a 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 6 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+manufacturing pharmacy. 
+3.1.1.2 The over-labelling of medicines and scheduled substances (including parallel imports) is a 
+packaging activity and is therefore licensable. 
+3.1.2  Exemptions from a Licence to Manufacture, Import or Export 
+A manufacturer can apply for an exemption from the requirements to obtain a licence to manufacture, 
+import or export in terms of the provisions of Section 36 of the Medicines Act. An application for 
+exemption should be submitted to the Office of the Chief Executive Officer of SAHPRA together with 
+an appropriate motivation.  The Minister may, on the recommendation of SAHPRA (The Authority), by 
+notice in the Government Gazette exclude, subject to such conditions as he/she may determine, any 
+medicine from the operation of any or all the provisions of Act 101 of 1965 and may in like manner 
+amend or withdraw any such notice.  Advice on the exemptions from licensing can be obtained from 
+Program 3: Inspectorate and Regulatory Compliance (refer to SAHPRA website). 
+3.2 How to obtain a Licence Application Form and Information to submit 
+3.2.1 
+Standard application forms for manufacturer's licences (ML) are available from The Office of 
+the Chief Executive Officer of SAHPRA or from the SAHPRA website www.sahpra.org.za or 
+https://www.sahpra.org.za/inspectorate-and-regulatory-compliance 
+3.2.2 
+An application for a ML should be accompanied by the prescribed application fee (see the 
+gazetted published fees on the SAHPRA website) and, in the case of a new Manufacturer 
+Licence, an additional inspection fee will be required as per the SAHPRA gazetted fees 
+published on the SAHPRA website. The Applicant shall provide acceptable documentation 
+proof obtained from the following institutions: 
+3.2.2.1 The SA Pharmacy Council, namely: 
+• 
+The particulars of the owner of the business which includes the Certificate of 
+recording of a Pharmacy Owner 
+• 
+The registration of the responsible pharmacist 
+• 
+Certificate of recording of a Pharmacy. 
+3.2.2.2 The Director General of Health, namely: 
+• 
+A licence for the premises (NDOH Licence) wherein or from which such business 
+shall be carried on. 
+NOTE: All manufacturers in operation prior to 2 May 2003 are deemed to have a premises 
+licence. 
+3.2.3 
+The application for ML should include the qualification of staff to manufacture, store, 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 7 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+distribute and sell medicines and/or scheduled substances and documentary proof of the 
+ability to comply with good manufacturing practices (GMP)/or proof of compliance with GMP 
+as determined by SAHPRA. The application should include, amongst other documents, a Site 
+Master File (SMF) as outlined in regulation 23 of the Regulations to Act 101 of 1965.  This 
+should contain specific and factual information about the production and/or control of the 
+medicines and/or scheduled substances manufacturing operations to be carried out at that 
+site (facility). Guidance on what information should be included in the SMF can be obtained 
+on request from the Office of the Chief Executive Officer of SAHPRA or the SAHPRA website 
+www.sahpra.org.za in the guideline 4.08 for the SMF 
+3.2.4 
+The SMF, attached to the application form should include: 
+• 
+A copy of the local area plan of the location of the business premises indicating 
+all adjacent properties and the nature of the business being carried out on such 
+premises 
+• 
+A floor plan of the building in which the business premises are situated 
+• 
+A plan of the actual layout of the business premises 
+• 
+An inventory of equipment to be used in conducting the business 
+• 
+A manual of procedures and practices to be implemented to ensure the safety, 
+efficacy and quality of medicines or scheduled substances to be manufactured or 
+distributed and sold. 
+3.2.5 
+The application should specify the Medicines and/or scheduled substances to be 
+manufactured, distributed, or sold from that site as per the provided SAHPRA application 
+form. 
+3.2.6 
+Some of the information required to complete the application form also appears in the SMF. 
+3.2.7 
+The Authority will only issue a ML when it is satisfied, usually following an inspection of a site 
+by the GMP Inspectors, that the information contained in the application is accurate and in 
+compliance with requirements of the legislation and good manufacturing or distribution 
+practices. 
+3.2.8 
+Where appropriate, The Authority may refuse to grant or re-grant a licence.  In such cases 
+the Chief Executive Officer will notify the applicant to furnish SAHPRA with such additional 
+documentation or information as SAHPRA may require. The notification will set out the 
+reason for the proposal and give the applicant a period of not less than 20 days to respond as 
+per Section 22E of Act 101 of 1965.  The applicant may make written representations. Before 
+making a final decision on its proposal SAHPRA will take the applicant's written 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 8 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+representation into consideration. 
+3.2.9 
+The legislative basis for the information required when applying for a ML may be found in the 
+Medicines Act. 
+3.3 Manufacturer’s Obligations 
+3.3.1 
+The standard provisions for manufacturer's licences (MLs) are set out in Regulation 23 of the 
+Medicines Act.  These require a licence holder to: 
+a) Provide and maintain suitable staff, premises, equipment, and facilities. 
+b) Provide information as requested by SAHPRA regarding the type and quantity of any 
+medicines or scheduled substances which he currently handles, stores, or distributes. 
+c) Inform the Chief Executive Officer of SAHPRA of any proposed structural alterations to or 
+discontinuance of use of approved licensed premises. 
+d) Comply with current Good Manufacturing Practice. 
+e) Retain such transaction documents as are necessary to facilitate the withdrawal or recall 
+of medicines or scheduled substances. 
+f) Withhold any batch of medicines or scheduled substances from sale or export when 
+informed that it does not comply with its licence specifications or with provisions of Act 
+101 of 1965 or of any regulations under Act 101 of 1965. 
+g) Notify SAHPRA of any changes to the premises, operations, listed personnel, or products 
+to which the licence relates. 
+h) Permit SAHPRA to carry out inspections, take samples or copies of documents as 
+necessary. 
+i) 
+Manage and provide suitable housing for any animals. 
+j) 
+Have at his/her disposal the service of a Responsible Pharmacist who must control the 
+manufacturing of medicines or scheduled substances. 
+k) Appoint and designate a natural person who resides in the Republic who shall be 
+responsible to SAHPRA for compliance with Act 101 of 1965. 
+l) 
+Distribute products only to licensed wholesale dealers whose licences relate to those 
+medicines or scheduled substances, or to persons who may lawfully sell those medicines 
+or scheduled substances by retail or to persons who may lawfully administer those 
+medicines or scheduled substances. 
+m) Pay the annual licence retention fee as determined by SAHPRA in the gazetted fees 
+published on the SAHPRA website www.sahpra.org.za for continued licensing. 
+n) Comply with Act 101 of 1965 and the conditions of the licence. 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 9 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+o) Apply for the renewal of the licence every 5 years at least 180 days before the expiry of 
+the existing licence. 
+3.3.2 
+Inform the CEO of SAHPRA of any changes to any of the particulars furnished in the 
+application or entered in the register, which occurred after the granting/re-granting of the 
+licence, within 30 days of such change. 
+On application for the re-granting (renewal and/or amendment) of the licence, the 
+application should be accompanied by the prescribed fee (see the gazetted published fees on 
+the SAHPRA website) and contain the information and documentation required by points 
+3.3.2—3.3.5 
+3.4 Compliance with Good Manufacturing Practices (GMP) 
+3.4.1 
+The SA Guide to GMP sets out the "principles and guidelines of Good Manufacturing 
+Practice" (GMP) for medicines and scheduled substances. 
+3.4.2 
+The SA Guide to GMP is published on the SAHPRA's website at www.sahpra.org.za 
+3.4.3 
+To comply with GMP, holders of manufacturer's licences (MLs) should: 
+a) Establish and implement an effective pharmaceutical quality management system; 
+b) Have competent and appropriately qualified personnel, sufficient in number to achieve 
+the pharmaceutical quality objective(s) of their organisation; 
+c) Define the duties of managerial and supervisory staff responsible for implementation 
+and operating GMP in their job descriptions; 
+d) Give personnel sufficient authority training to meet the pharmaceutical quality 
+objective(s) of their organisation; 
+e) Institute and maintain hygiene programmes relating to health, hygiene, and clothing; 
+f) Provide and maintain premises and equipment appropriate to the intended operations; 
+g) Have system(s) of documentation covering all process specifications of the various 
+operations.  Batch documentation should be retained at least one year after the expiry 
+date of the batch to which it relates or at least five years after certification of the batch 
+by the Authorized Person, whichever is the longer; 
+h) Provide and maintain an independent quality control department, under the authority of 
+a person nominated as responsible for overall quality control/quality assurance; 
+i) 
+Retain records and samples of starting materials and finished products for the required 
+periods; 
+j) 
+Ensure that any work contracted out is the subject of a written contract; 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 10 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+k) Maintain an effective system whereby complaints are reviewed, and products may be 
+recalled; 
+l) 
+Carry out a program of regular self-inspection. 
+3.5 Personnel (Refer to Annex 16 of the 4.01 Guide to GMP) 
+3.5.1 
+The Responsible Pharmacist 
+3.5.1.1 It is required that the holder of a manufacturer's licence (ML) should appoint a 
+Responsible Pharmacist (RP), who is to be named on the licence. The RP's duties are 
+specific and are intended to ensure that every batch of medicines or scheduled 
+substances that have been manufactured and/or packed are checked in accordance 
+with legal requirements. A RP has a personal responsibility for ensuring that the 
+required tests and controls are carried out and must sign or certify, for each batch, 
+that the appropriate tests have been carried out and that they comply with the 
+relevant product or certificate of registration. Not more than one RP may be named 
+on the licence. 
+3.5.1.2 The Pharmacy Act 53 of 1974, Rules and Regulations (Act 53 of 1974) prescribe the 
+qualifications for a RP as well as the acts pertaining to the profession of a pharmacist.  
+Candidates for appointment as RP must meet specific educational requirements. 
+Candidates are expected to be a pharmacist, registered with the SA Pharmacy 
+Council, with appropriate experience in medicines or scheduled substances 
+manufacturing as applicable.  The RP's tasks are inter alia to: 
+a. ensure that each batch of the medicines or scheduled substances to which the 
+licence relates has been manufactured or packed and checked in compliance 
+with section 18 of the Medicines Act and associated regulations; 
+b. certify in a register or other appropriate record before the batch is released for 
+sale that each batch of medicines or scheduled substances satisfies the 
+conditions set out in the authorisation or certificate of registration before the 
+batch is released for sale. 
+3.5.1.3 A RP is required to be named on a licence which relates to manufacture of medicines 
+and/or scheduled substances including unregistered medicines and scheduled 
+substances intended solely for export. 
+3.5.1.4 Further guidance on the professional duties and responsibilities of a RP is given in the 
+Rules Relating to Good Pharmacy Practice document and these include the Ethics and 
+Professional Standards plus the Responsibility of a Pharmacist as per the SAPC 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 11 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+requirements.  The document is issued by the SA Pharmacy Council.  The SA-GMP 
+guide also lists some of the duties and responsibilities of the Responsible Pharmacist. 
+3.5.2 
+The Production Manager 
+3.5.2.1 An application for ML should have a suitably qualified Production Manager or Head 
+of the Production Department.  The Production Manager is responsible for: 
+a) Ensuring that the products are produced and stored according to the appropriate 
+documentation so that they reach the appropriate standards of quality; 
+b) Approving the instructions relating to production operations and to ensure their 
+strict implementation; 
+c) Ensuring that production records are evaluated and signed by an authorised 
+person before they are sent to the Quality Control (QC) Department; 
+d) Checking the maintenance of his/her department, premises, and equipment; 
+e) Ensuring that appropriate validation is done; 
+f) Ensuring that the required initial and continuing training of his/her department's 
+personnel is carried out and adapted according to the need. 
+3.5.2.2 The Quality Control Manager Quality Assurance Manager (Refer to Annex 16 of the 
+4.01 Guide to GMP)An applicant for a ML should have a suitably qualified Quality 
+Control Manager or Head of Quality Assurance independent of the Production 
+Department.  This person may not act as the Production Manager but can be named 
+the RP. 
+3.5.3 
+The Quality Control/Assurance Manager is responsible for: 
+a) Approving or rejecting, as he/she sees fit, starting materials, packaging materials and 
+intermediate, bulk, and finished products; 
+b) Evaluating batch records; 
+c) Ensuring that all necessary testing is carried out; 
+d) Approving specifications, sampling instructions, test methods and other quality control 
+procedures; 
+e) Approving and monitoring contract analysts; 
+f) Checking the maintenance of the department, premises, and equipment; 
+g) Ensuring that the appropriate validations are done; 
+h) Ensuring that the required initial and continuing training of his/her department's 
+personnel is carried out and adapted according to the need. 
+ 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 12 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+3.6 Inspections [as stipulated by Section 28 of Act 101 of 1965 read together with Regulation 
+23(3)] 
+3.6.1 
+The SAHPRA Program 3: Inspectorate and Regulatory Compliance carry out regular and 
+repeated inspection of manufacturing sites both in South Africa and in countries with which 
+SAHPRA does not have a Mutual Recognition Agreement. The Inspection enables the 
+Inspectorate Unit to confirm that licence holders are complying with the conditions of their 
+licence, with the provisions of the Medicines Act and with Good Manufacturing Practice 
+(GMP). 
+3.6.2 
+Amongst other things, Inspectors are empowered by Section 28 of the Medicine Act to: 
+a) Enter any place or premises from which: 
+i. 
+The holder of a licence to manufacture, import or export conducts business. 
+ii. 
+The holder of a certificate of registration of a medicine conducts business. 
+b) Inspect the premises used in the manufacture, packing, testing, storage, and distribution 
+of medicines and scheduled substances and inspect any documentation or records 
+relating to the manufacture, packing, storage and distribution of these medicines and 
+scheduled substances. 
+c) Take samples of any medicine or schedule substance for the purpose of testing or 
+analysis. 
+d) Seize any book, record, documentation or medicine or scheduled substances. 
+It is required by legislation that licence holders shall make their premises available for 
+inspection by the Inspectorate at any reasonable time. 
+3.6.3 
+Following an inspection, the Inspector prepares a report of his/her findings. A report is sent 
+to the licence applicant or holder noting any deficiencies found and asking for proposals to 
+remedy them. In the event of serious non-compliance with GMP, the report is referred to 
+SAHPRA for formal action, which can include the refusal, suspension or revoking of a licence, 
+or part of a licence. 
+3.6.4 
+Where quality control testing is contracted to a third party, the testing site should also be 
+made available for inspection and should also obtain a licence authorizing it to test medicines 
+and/or scheduled substances. 
+3.7 Powers to Suspend or Revoke Manufacturer’s Licence (as per the provisions of Section 22E 
+of Act 101 of 1965) 
+3.7.1 
+SAHPRA (The Authority) may revoke, amend, or suspend a licence when a statutory condition 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 13 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+of that licence is no longer being met.  The Authority will give the licence holder notice of its 
+proposal and set out the reasons.  In most cases the licence holder will be given a period of 
+not less than 20 days to respond.  The licence holder may give notice to the Authority of 
+his/her desire to be heard or make written representation to the Authority with respect to 
+the proposals. 
+3.7.2 
+Where it appears to SAHPRA that public safety is at risk, SAHPRA may suspend a licence with 
+immediate effect for such a period as SAHPRA may determine or revoke the licence in 
+question. 
+3.7.3 
+Licence provisions may be varied based on the application of the licence holder. 
+3.7.4 
+A licence holder or applicant may at any time within the period of 30 days from the date on 
+which the decision of the SAHPRA’s CEO is served on him/her appeal to the Minister to 
+question the validity of SAHPRA’s decision as per Section 24A of Act 101 of 1965. 
+3.8 Process to follow when a SAHPRA licenced site ceases to exist 
+If a SAHPRA licenced site ceases to exist due to any business conditions, the process outlined below shall 
+be followed: 
+3.8.1 
+The Company’s CEO/MD together with the RP must write a letter on their company’s letter 
+head addressed to the CEO of SAHPRA in not less than 30 days prior to the closure of the site 
+as per Regulation 23(9) of Act 101 of 1965. The letter must confirm to SAHPRA the proposed 
+date of closure. Licence provisions may be varied based on the application of the licence 
+holder. 
+3.8.2 
+The Company must confirm to SAHPRA that the intended closure has been communicated to 
+NDOH and to the SAPC. 
+3.8.3 
+The Company shall return to SAHPRA the original licence with all its Annexures within 10 
+days of closure of the business. 
+3.9 Fees Payable (Refer to the gazetted fees on the SAHPRA website) 
+3.9.1 
+The Medicines Act introduced provisions in terms of Section 35 (1) (xxxi) and (xxxii) read 
+together with Section 35 (4) for the payment of fees for licences, certificates, and 
+inspections. 
+The current fees legislation for medicines and scheduled substances is contained in the 
+Medicines Regulations as amended. 
+3.9.2 
+The fees are currently payable for the following: 
+a) 
+Licence applications (new and amendment applications) 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 14 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+b) 
+Licence renewal 
+c) 
+Licence issue 
+d) 
+Performance of an inspection 
+e) 
+Annual fees applicable for the retention of the licence as per regulation 24 of the 
+Regulations to the Medicines Act. 
+3.9.3 
+A schedule of the current fees is available from the Office of the Chief Executive Officer of 
+SAHPRA or on the SAHPRA website at www.sahpra.org.za 
+3.9.4 
+When SAHPRA plans to make changes to the amount or frequency of fees, licence holders 
+are consulted and given the opportunity to comment on the new fee proposals.  Details of 
+the new fees are published in the government gazette and on the Authority’s website at 
+www.sahpra.org.za 
+3.9.5 
+Application fees are non-refundable regardless of the outcome of the application (including 
+rejection, non-approval, unresolved or failure to respond to query rounds).  
+NB: During administrative screening and technical evaluation, the licensing unit may issue requests 
+for additional information or clarification where deficiencies are identified. The unit may allow up 
+to two (2) rounds of queries, at its discretion. Applicants are required to submit complete, accurate 
+and satisfactory responses to each query within the timelines specified. Where deficiencies remain 
+unresolved after the permitted query rounds, the application may not be recommended for 
+approval, and the review process may be terminated. 
+3.10 Application processing timelines 
+3.10.1 The licensing unit aims to: 
+a) Acknowledge receipt of applications which meet the minimum requirements within 2 
+business days.  
+b) Finalise New Applications within 150 business days.  
+c) Finalise Renewal Applications: within 30 business days (reliant on provision of a valid 
+resolution letter by the company)  
+NB: Renewal applications must be submitted at least 180 days prior to the expiry of the 
+licence.  
+d) Amendment Applications: within 30 business days (for administrative and technical 
+amendments not requiring an inspection)  
+NB: Technical amendments may warrant an inspection, incurring additional time to finalise 
+the application (Refer to guideline SAHPGL-LIC-03: Guideline on How to Amend a Current 
+Licence). 
+SAHPGL-LIC-01 Guid on how to apply for a licence to 
+manufacture version 4 QMS reviewed
+Page 15 of 15
+Guideline on how to apply for Licence to Manufacture, Import and/or Export Medicines and Schedule 
+Substances 
+10 April 2026 
+ 
+ 
+e) Timelines for the processing and finalization of licensing applications are measured solely 
+on the time which an application is under active review by SAHPRA.  
+NB: Time during which an application is with a company (including periods awaiting 
+responses, corrective actions or readiness for an inspection) will be excluded. 
+3.10.2 Inspection scheduling and conduct: 
+a) Proposed date of inspection: when proposing an inspection date with the application, the 
+applicant must consider that: 
+i. 
+Inspections are conducted once the company deems itself ready for an inspection. 
+ii. Inspections are planned a quarter in advance. 
+b) Where an applicant is not inspection-ready on the agreed inspection date, the licence 
+application may be rejected. Fees associated with rejected and refused applications are 
+non-refundable. 
+c) The licensing unit aims to provide a regulatory decision within 30 business days after 
+receiving an inspection resolution letter. 
+3.11 Contact Details 
+Refer to SAHPRA website: https://www.sahpra.org.za/key-contacts/ and  
+https://www.sahpra.org.za/inspectorate-and-regulatory-compliance/ 
+4. REFERENCES 
+The following related documents are referenced: 
+Related Regulations 
+• 
+The Pharmacy Act 53 of 1974 
+• 
+Medicines and Related Substances Act, 1965 (Act 101 of 1965) 
+ 
+Related Guidelines 
+• 
+SAHPRA Guideline on Good Manufacturing Practices 
+• 
+SAHPRA Guideline on How to amend a current licence 
+ 
+5. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the SAHPGL-LIC-
+03. It will be reviewed on this timeframe or as and when required. 
+

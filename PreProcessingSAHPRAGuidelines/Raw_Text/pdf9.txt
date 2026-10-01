@@ -1,0 +1,1334 @@
+SAHPGL-BAU-01_v7 
+Page 1 of 29 
+ 
+ 
+9 June 2026 
+RELIANCE GUIDELINE  
+This guideline is intended to provide recommendations to applicants wishing to submit new registration applications, as 
+well as variations, for reliance review-based evaluation. It represents the South African Health Products Regulatory 
+Authority’s (SAHPRA’s) current thinking on the safety, efficacy, and quality of medicines. It is not intended as an exclusive 
+approach. SAHPRA reserves the right to request any additional information to establish the safety, efficacy, and quality 
+of a medicine in keeping with the knowledge current at the time of evaluation. Alternative approaches may be used, but 
+these should be scientifically and technically justified. The Authority is committed to ensuring that all registered 
+medicines will be of the required safety, efficacy, and quality. It is important that applicants adhere to the administrative 
+requirements to avoid delays in the processing and evaluation of applications. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[Month yyyy] 
+1 
+First publication released for implementation 
+31 July 2019 
+2 
+Consolidation of already published information about SAHPRA Reliance 
+approaches 
+31 October 2021 
+ 
+3 
+Inclusion of references to forms and removal of reference to the list of 
+GMP Recognised Regulators, as this information is already included in 
+4.01 SA Guide to Good Manufacturing Practice 
+ 
+31 March 2022 
+ 
+ 
+4 
+- Transfer of content to the latest SAHPRA Guideline template 
+- Old document number 5.08 Reliance Guideline changed to 
+SAHPGL- BAU-01 in alignment with the latest SAHPRA document 
+coding structure 
+- Updated to reflect new requirements for reliance submissions 
+ 
+ 
+May 2024 
+5 
+- Updated to align with current processes,  
+- Added AMA and EU-M4all, and 
+- Included the clause for MOUs SAHPRA holds under Section 4.1 below. 
+July 2025 
+6 
+- Added an abbreviation for Collaborative Registration Procedure (CRP). 
+- Updated to reflect the evaluation timelines for applications reviewed 
+through the reliance and collaborative review pathways. 
+December 2025 
+7 
+- 
+Administrative 
+and 
+editorial 
+changes 
+include 
+updates 
+to 
+abbreviations and sentence re- wording [see section 1 introduction, 
+section 3, section 4.2, Section 4.3 and section 4.4 (Note)]; 
+- 
+In section 3 deleted of Communication to Industry and replaced with 
+June 2026 
+SAHPGL-BAU-01_v7 
+Page 2 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+Multiple Application Guideline; 
+- 
+Section 4.1, updated reliance pathway requirements regarding 
+maintenance of reliance status, restriction on switching RRAs post-
+registration, and prior RRA approval of variations; 
+- 
+Section 4.3 added Screening Checklist for New Medicine application 
+for registration (GLF-HPA-07C) and document number for validation 
+variation template (GLF-HPA-03A) and these documents are available 
+on the SAHPRA website; 
+- 
+Section 4.3 added Choosing the intended pathways enables SAHPRA 
+to conduct technical screening more efficiently; 
+- 
+Section 4.5 EMA with SAHPRA and added: Sameness must be 
+maintained from the time of product registration except for regional 
+specific differences agreed upon at the time of registration; 
+- 
+Section 9 added AMA; 
+- 
+Section 9.1 updated and added the section on requirements 
+applicable to finished products submitted under SAHPRA’s GMP 
+reliance 
+pathway 
+and 
+Requirements 
+applicable 
+to 
+active 
+pharmaceutical Ingredients; 
+- 
+In section 12, added the section on requirements for routine 
+independent lot release testing to include risk-based reliance 
+considerations and recognition of lot release certificates from aligned 
+NRAs and recognized WHO laboratories; and 
+- 
+Addition of SAHPRA GMP Guideline (SAHPGL-INSP-02) reference in 
+section 13. 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-BAU-01_v7 
+Page 3 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................ 1 
+Glossary ............................................................................................................................................................... 4 
+1. 
+INTRODUCTION ......................................................................................................................................... 7 
+1.1 
+Purpose ...................................................................................................................................................... 7 
+1.2 
+Scope ......................................................................................................................................................... 7 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 7 
+3. 
+RELIANCE-BASED EVALUATION PATHWAYS .............................................................................................. 8 
+4. 
+GENERAL DESCRIPTIONS OF THE RELIANCE-BASED EVALUATION PATHWAYS ......................................... 8 
+4.1 
+SAHPRA’s Recognised Regulatory Authorities ........................................................................................... 9 
+4.2 
+Independent application of reliance for Quality & Bioequivalence (quality and bioequivalence, .......... 11 
+4.3 
+Technical Screening of Applications ........................................................................................................ 12 
+4.4 
+Assessment Reports ................................................................................................................................ 12 
+4.5 
+Quality Variations .................................................................................................................................... 13 
+5. 
+PRINCIPLES OF RELIANCE-BASED EVALUATION – CLINICAL ..................................................................... 14 
+5.1 
+Abridged Review ...................................................................................................................................... 15 
+5.2 
+Verified Review ........................................................................................................................................ 16 
+6. 
+DOCUMENT/ DATA REQUIREMENTS FOR NEW REGISTRATION – CLINICAL ............................................ 17 
+6.1 
+Abridged Review Requirements .............................................................................................................. 17 
+6.2 
+Verified Review Requirements ................................................................................................................ 18 
+7. 
+PRINCIPLES OF RELIANCE-BASED EVALUATION - QUALITY & BIOEQUIVALENCE ..................................... 18 
+7.1 
+Abridged Review Requirements .............................................................................................................. 19 
+7.2 
+Verified Review Requirements ................................................................................................................ 19 
+8. 
+DOCUMENT/ DATA REQUIREMENTS FOR NEW REGISTRATION – QUALITY/ BIO- EQUIVALENCE ........... 19 
+9. 
+GOOD MANUFACTURING PRACTICE (GMP INSPECTIONS) ...................................................................... 25 
+9.1 
+Principles of Good Manufacturing Practice Reliance ............................................................................... 25 
+10. 
+CLINICAL TRIAL APPLICATION .................................................................................................................. 28 
+11. 
+PHARMACOVIGILANCE ............................................................................................................................ 28 
+12. 
+LOT RELEASE ............................................................................................................................................ 28 
+13. 
+REFERENCES ............................................................................................................................................. 28 
+14. 
+VALIDITY .................................................................................................................................................. 29 
+ 
+SAHPGL-BAU-01_v7 
+Page 4 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+AMA 
+African Medicines Agency 
+API 
+Active Pharmaceutical Ingredient 
+CHMP 
+Committee for Medicinal Products for Human Use 
+CPQ 
+Confirmation of WHO API Prequalification 
+CRP  
+Collaborative Registration Procedure 
+CTD 
+Common Technical Document 
+EA 
+Extension Application 
+EMA CVMP 
+European Medicines Agency Committee for Veterinary Medicinal Products 
+EU CP 
+EU Centralised Procedure 
+EU DCP 
+EU Decentralised Procedure 
+EU-M4all 
+EU-Medicines for all 
+EU 
+European Union 
+QIS 
+Quality Information Summary 
+QOS 
+Quality Overall Summary 
+GCP 
+Good Clinical Practice 
+GMP 
+Good Manufacturing Practice 
+GRP 
+Good Regulatory Practice 
+HCR 
+Holder of Certificate of Registration 
+MAH 
+Market Authorisation Holder: Equivalent to HCR: Holder of the Certificate of 
+Registration 
+MoU 
+Memorandum of Understanding 
+MHLW 
+Ministry of Health, Labour and Welfare (Japan) 
+MHRA 
+Medicines and Healthcare products Regulatory Agency (UK) 
+NCE 
+New Chemical Entity 
+PEM 
+Pharmaceutical Evaluation Management 
+Package Leaflet 
+Equivalent to PIL 
+PAR 
+Public assessment reports 
+PBRER 
+Periodic Benefit-Risk Evaluation Report 
+SAHPGL-BAU-01_v7 
+Page 5 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+PI 
+Professional information 
+PIC/S 
+Pharmaceutical Inspection Cooperation Scheme 
+PIL 
+Patient Information Leaflet 
+PMDA 
+Pharmaceutical and Medical Devices Agency 
+PQ 
+Pre-qualification 
+PSUR 
+Periodic Safety Update Report 
+Q and BE 
+Quality and Bioequivalence 
+SAHPRA 
+South African Health Products Regulatory Authority 
+Sameness 
+Sameness refers to two products having identical essential characteristics. It is 
+an important aspect of reliance that ensures that the same product that was 
+assessed by the reference regulatory authority is the same one being applied 
+for to the relying authority. The essential characteristics that are required to be 
+the same or sufficiently similar include but are not limited to: manufacturing 
+sites and/ or suppliers of the API, FPP, and excipients (/IPIs); manufacturing 
+processes and control of both the API, FPP, and excipients; pharmaceutical 
+form, strength, use, qualitative and quantitative composition. Additionally, the 
+results of supporting studies of safety, efficacy, and quality, indications, and 
+conditions of use should be the same. 
+SmPC 
+Summary of Product Characteristics: Equivalent to PI 
+SRA 
+Stringent regulatory authority 
+SwissMedic 
+Swiss Agency for Therapeutic Products 
+Well-established use 
+Medicines that include an active ingredient that has results supported by 
+scientific literature. 
+Recognition 
+A streamlined registration/ approval process based on directly recognising the 
+outcome of a review from an RRA with which SAHPRA shares a recognition 
+agreement. 
+RMP 
+Risk Management Plan 
+RRA 
+Recognised Regulatory Authority – a term used to refer to the list of 
+regulatory authorities with which SAHPRA aligns itself. 
+TGA 
+Therapeutic Goods Administration (Australia) 
+UK 
+United Kingdom 
+US FDA 
+United States Food and Drug Administration 
+WHO 
+World Health Organization 
+WHO-(WLA) 
+WHO listed Authorities (WLA) 
+ZAZIBONA 
+ZAZIBONA is a collaborative medicines registration initiative in Southern Africa 
+focusing on dossier assessments and good manufacturing practice (cGMP) 
+inspections. 
+SAHPGL-BAU-01_v7 
+Page 6 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+APVMA 
+Australian Pesticide and Veterinary Medicinal Products 
+JMAFF 
+Japanese Ministry of Agriculture, Forestry, and Fisheries 
+IPI 
+Inactive Pharmaceutical Ingredient 
+MAGHP 
+Marketing Authorisation for Global Health Products 
+HC 
+Health Canada 
+MOU 
+Memorandum of Understanding 
+AMRP 
+Abbreviated Medicine Review Process 
+UKVMD 
+United Kingdom Veterinary Medicines Directorate 
+MEDSAFE 
+New Zealand Medicines and Medical Devices Safety Authority 
+FPP 
+Finished Pharmaceutical Product 
+ 
+ 
+SAHPGL-BAU-01_v7 
+Page 7 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+1. 
+INTRODUCTION 
+The South African Health Products Regulatory Authority (SAHPRA) has decided to harmonise certain SAHPRA 
+medicine policies and procedures with those of the European Medicines Agency (EMA). By doing so, SAHPRA 
+will reflect global best practice in terms of the safety, quality and efficacy of health product regulation. In line 
+with this, SAHPRA has adopted the reliance review approach as a pathway for the registration of medicines. 
+This approach allows the Authority to leverage evaluation efforts done by a recognised regulatory authority 
+(RRA) with which it aligns, making its evaluation process more efficient and enhance market access.  
+Please note: Unless mentioned otherwise, where EMA guidelines adopted in South Africa include references 
+to European Union (EU) legislation, the requirements contained in the referenced EU legislation are not 
+applicable to the evaluation of medicines by SAHPRA. South African legislation will apply wherever relevant 
+and current.  
+1.1 
+Purpose 
+This guideline is intended to provide information and guidance to applicants/ Holders of Certificate of 
+Registration (HCRs) on the prescribed requirements and process to be followed, in cases where a new 
+registration or variation application is submitted to SAHPRA with the applicant/HCR requesting a reliance-
+based evaluation. 
+1.2 
+Scope 
+This guideline applies to new registration applications for human medicines, including biologicals. It is also 
+applicable to veterinary medicines and variation applications. 
+2. 
+LEGAL PROVISION 
+The Medicines and Related Substances Act (101/1965), as amended, details under Section 2B(2)(a)(2)(b) that: 
+(2)(a) The Authority may liaise with any other regulatory authority or institution and may, without limiting the 
+generality of this power, require the necessary information from, exchange information with, and receive 
+information from any such authority or institution in respect of – 
+(i) 
+matters of common interest; or 
+(ii) 
+a specification investigation; and 
+(2)(b) enter into agreements to co-operate with any regulatory authority to achieve the objects of this Act. 
+Regulation 16 to this Act, furthermore, states that: 
+SAHPGL-BAU-01_v7 
+Page 8 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+(8) In the case where a medicine in respect of which an application for registration is made is or was registered 
+with any regulatory body outside the Republic, the following information in respect of such medicines shall 
+accompany the application: 
+(a) a copy of the certificate of registration; 
+(b) professional information relating to the medicine; 
+(c) conditions of such registration; and 
+(d) any other information as may be required by the Authority. 
+3. 
+RELIANCE-BASED EVALUATION PATHWAYS 
+The World Health Organization (WHO) defines reliance as the act whereby the regulatory authority in one 
+jurisdiction may consider and give significant weight to – i.e., totally or partially rely upon – evaluations 
+performed by another regulatory authority or trusted institution in reaching its own decision. The relying 
+authority remains responsible and accountable for decisions taken, even when it relies on the decisions and 
+information of others. Wherever possible, SAHPRA will leverage these pathways, relying on the evaluation 
+efforts of Recognised Regulatory Authorities (RRAs) to reduce evaluation times. 
+Reliance-based evaluation pathways of medicine applications for new registrations and variations in South 
+Africa will follow one of three evaluation/ review pathways: 
+a) 
+Abridged review 
+b) 
+Verified review 
+c) 
+Recognition 
+NOTE: Pathways (a), (b), and (c) replace the prior Abbreviated Medicines Review Process (AMRP). The 
+application follows different reliance-based evaluation pathways between Clinical, Quality and Bioequivalence 
+(see Section 4 below and refer also to the Multiple Application Guideline (SAHPGL-HPA-08) on Clones and 
+Replicas). 
+4. 
+GENERAL DESCRIPTIONS OF THE RELIANCE-BASED EVALUATION PATHWAYS 
+a) 
+Abridged review: A streamlined review based primarily on full assessment reports from RRAs, 
+replacing the need to evaluate all data (and summaries thereof) submitted in support of an 
+application. 
+b) 
+Verified review: A streamlined review based primarily on verifying, instead of evaluating, 
+SAHPGL-BAU-01_v7 
+Page 9 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+information submitted in the application against information that has already been approved by 
+SAHPRA or an RRA. Note that full assessment reports are required for Quality and Bioequivalence 
+PEM-verified reviews as a fallback option for evaluators. 
+c) 
+Recognition: A streamlined registration/ approval process based on directly recognising the outcome 
+of a review from an RRA with which SAHPRA shares a recognition agreement. 
+NOTE: SAHPRA is currently in the process of negotiating recognition agreements with RRAs. Once such an 
+agreement is in place, SAHPRA will publish a framework for the practical implementation thereof. The 
+guiding principle is that applications approved by RRAs with which SAHPRA shares a recognition agreement 
+may not need to be evaluated separately by SAHPRA. Please note that this is not to be confused with 
+collaborative/ work-sharing procedures (e.g., ZAZIBONA). 
+4.1 
+SAHPRA’s Recognised Regulatory Authorities 
+To qualify for a reliance evaluation pathway, an application must have been approved by one or more of 
+the RRAs with which SAHPRA aligns itself. 
+SAHPRA’s current RRAs include: 
+§ 
+European Union Centralised Procedure (EU CP) 
+§ 
+European Union Decentralised Procedure (EU DCP) (no restrictions on which member state acts 
+as the reference member state) 
+§ 
+Health Canada 
+§ 
+Medicines and Health Products Regulatory Agency (MHRA (UK)) 
+§ 
+Ministry of Health, Labour and Welfare (MHLW)/ Pharmaceutical and Medical Devices Agency 
+(PMDA) - Japan 
+§ 
+Swiss Agency for Therapeutic Products (SwissMedic) 
+§ 
+Therapeutic Goods Administration (TGA) -Australia 
+§ 
+US Food and Drug Administration (US FDA) 
+§ 
+WHO listed Authorities (WLA) 
+SAHPRA has certain MOUs and agreements in place with organisations and regulatory authorities. The 
+scope of these agreements determines the applicability of certain reliance or work-sharing procedures. 
+Information on the use of these agreements or related procedures is communicated by SAHPRA when 
+applicable. 
+ 
+SAHPGL-BAU-01_v7 
+Page 10 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+The following additional procedures can be used for reliance/ collaborative review, which are not strictly 
+regulatory authorities: 
+§ 
+World Health Organization (WHO) collaborative registration process: 
+o 
+Prequalification (PQ) 
+o 
+SRA approved 
+§ 
+ZAZIBONA collaborative procedure 
+§ 
+European Medicines Agency 
+o 
+Mutual Recognition procedure and National Procedures within the EU 
+§ 
+SwissMedic Marketing Authorization for Global Health Products (MAGHP) procedure 
+§ 
+PIC/s Member States 
+§ 
+AMA 
+§ 
+EU-M4all 
+SAHPRA’s recognised regulatory authorities for registration of veterinary medicines include: 
+§ 
+EMA_CVMP 
+§ 
+US FDA 
+§ 
+JMAFF 
+§ 
+APVMA 
+§ 
+UKVMD 
+§ 
+HC 
+§ 
+MEDSAFE 
+§ 
+SwissMedic 
+§ 
+AMA 
+§ 
+Veterinary Zazibona 
+Should the applicant wish to pursue reliance for product registration, the reliance status should be maintained 
+throughout the lifecycle of the product. The Authority does not permit the switching of RRAs post registration. 
+Should a mechanism for switching RRAs after registration develop in future, this will be communicated through 
+subsequent updates to the guideline. Applicants are therefore required to ensure that all variations are 
+SAHPGL-BAU-01_v7 
+Page 11 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+submitted to and approved by the relevant RRA prior to submission to the Authority.  
+SAHPRA Evaluation Timelines for Collaborative Review and Reliance Pathways 
+SAHPRA’s timelines for the evaluation of applications submitted under the collaborative review pathways are 
+as follows:  
+§ 
+WHO Prequalification (WHO PQ): 90 working days 
+§ 
+WHO SRA Collaborative Registration Procedure (WHO SRA CRP): 90 working days 
+§ 
+African Medicines Agency (AMA): 90 working days 
+§ 
+Marketing Authorisation for Global Health Products (MAGHP): 90 working days 
+§ 
+ZAZIBONA Collaborative Procedure: 90 working days 
+§ 
+EU-M4ALL (EU Medicines for All): 90 working days 
+The evaluation timeline for applications qualifying for the abridged and verified review pathways is 200 
+working days. 
+Note: The timelines indicated above exclude the period allocated for technical screening and the time during 
+which the application is with the applicant for response. 
+4.2 
+Independent application of reliance for Quality & Bioequivalence (quality and 
+bioequivalence, and clinical) 
+Application(s) often differ in complexity between Clinical, Quality and Bioequivalence evaluation. For 
+example, a typical application for a generic/ multisource medicine requires a relatively straightforward 
+verification of PIs for Clinical review, however Quality and Bioequivalence face the added complexity of 
+bioequivalence assessments. Consequently, SAHPRA’s reliance pathways are applied independently for 
+Clinical, Quality and Bioequivalence. This has the following two key implications: 
+§ 
+Evaluation pathways may differ for Clinical, Quality and Bioequivalence evaluation (e.g., Clinical may 
+follow a verification procedure, while Quality and Bioequivalence follow a full review, depending on 
+the nature of the application and the quality of reliance documents submitted); 
+§ 
+The RRAs referenced in an application may differ for Clinical, Quality and Bioequivalence evaluation 
+(e.g., Clinical may rely on the SAHPRA-approved local innovator PI and latest EMA SmPC as part of a 
+verified review, while the Quality and Bioequivalence evaluation may rely on information approved by 
+the TGA). 
+SAHPGL-BAU-01_v7 
+Page 12 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+This approach widens the use of reliance, by not limiting an application to the same pathway/reference 
+RRA for Clinical, Quality and Bioequivalence evaluation. 
+4.3 
+Technical Screening of Applications 
+Applicants must indicate the intended evaluation pathways for Clinical, Quality and Bioequivalence 
+evaluation, along with a brief motivation. The intended evaluation pathways should be indicated on the 
+Screening Checklist for New Medicine application for registration (GLF-HPA-07C) / the variation validation 
+template (GLF-HPA-03A) in the relevant sections. These documents are available on the SAHPRA website. 
+By choosing the intended pathways enables SAHPRA to conduct technical screening more efficiently and 
+prevents unnecessary delays.  
+Decisions related to an application’s final evaluation pathway and the extent of reliance on an RRA’s 
+evaluation are fully at SAHPRA’s discretion. These decisions will depend on the availability and quality of 
+reliance documentation submitted. SAHPRA will share screening queries to the respective applicant(s) who 
+submitted insufficient reliance documentation, to maximise the number of applications that can qualify for 
+abridged and verified reviews. Where applicable, applications will default to a full review in the absence of 
+a suitable reliance pathway. 
+4.4 
+Assessment Reports 
+Where indicated as a requirement for an abridged or verified review, applicants are to provide SAHPRA 
+with full assessment reports from an RRA (submitted in Module 1.10). 
+The following requirements apply: 
+§ 
+Full assessment/ evaluation reports must include, at a minimum, the safety, efficacy, and quality 
+report(s) prepared by the RRA upon which the registration/ approval decision was based (refer to Table 
+2 for a list of documents required for Q-BE). 
+§ 
+Where full assessment/ evaluation reports from the RRA are in languages other than English, the 
+applicant must submit translated versions in line with Regulation 16 (4). 
+NOTE: SAHPRA requires assessment reports to be submitted directly by the applicant. Failure to submit 
+these reports will likely result in the application defaulting to a full review, which may significantly extend 
+the evaluation timeline. 
+For applications where the USFDA is the RRA, a letter of confirmation from the USFDA marketing 
+SAHPGL-BAU-01_v7 
+Page 13 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+authorisation holder (proprietary owner) confirming that they are the legal holder of the proprietary 
+information and that they wish to share information about this product with SAHPRA should be provided. 
+For applications with RRAs listed in Section 4.1 except for WHO collaborative procedures and US FDA-based 
+applications, SAHPRA will not source the RRA assessment reports, and the letter of access for reliance (GLF-
+PEM-02E) will not be applicable. Applicants are required to source the full reports from the Marketing 
+Authorisation Holder.  
+NOTE: SAHPRA retains the right to request additional information from applicants about the application. If 
+no full assessment reports are received from the RRA within three (3) months of the request, the application 
+will be reviewed using a full review. 
+All other Marketing Authorisation Holders that wish to submit assessment reports directly to SAHPRA 
+should use the dedicated email address: reliancereports@sahpra.org.za. The SAHPRA allocated application 
+number must be specified when sending the reports. 
+4.5 
+Quality Variations 
+For products registered through reliance only: 
+Type IA 
+§ 
+For Type IA & IAIN variations submitted to and implementable in the RRA, the applicant must provide 
+proof of submission to the RRA, and if available, the acknowledgement or approval communication. 
+The list of variations must be reflected in the covering letter submitted to the RRA, and these must 
+concur with the covering letter submitted to SAHPRA. Any rejection/ query letter regarding these Type 
+IA variations must be provided. These Type IA variations submitted to the RRA must be classified as 
+Type IA and may be grouped as a single variation to SAHPRA. 
+Type IB 
+§ 
+Type IB variations approved by the RRA may be classified as a Type IA variation provided the applicant 
+can provide approval/ acknowledgement communication and assessment reports from the RRA at the 
+time of submission to SAHPRA. These variations may be grouped as a single Type IA variation. The list 
+of variations must be reflected in the covering letter submitted to the RRA, and these must concur with 
+the covering letter submitted to SAHPRA. Any rejection/ query letter regarding these Type IB variations 
+must be provided. 
+SAHPGL-BAU-01_v7 
+Page 14 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+§ 
+If full assessment reports are not available, the change will remain a Type IB variation and must be 
+submitted under the applicable code as per the SAHPRA variations Addendum for Human and 
+Veterinary Medicines (SAHPGL-HPA-06). 
+Type II 
+§ 
+Type II variations approved by the RRA may be classified as Type IB variations provided the applicant 
+can provide approval/ acknowledgement communication and assessment reports from the RRA at the 
+time of submission to SAHPRA.  Each change must be classified as a separate Type IB variation. 
+§ 
+If full assessment reports are not available, the change will remain a Type II variation and may only be 
+implemented once an approval letter is issued by SAHPRA. 
+§ 
+For classification, conditions, and required documents, refer to the Variation Addendum for Human 
+and Veterinary Medicines (SAHPGL-HPA-06). 
+Please note that for changes which affect both SAHPRA Inspectorate and Quality Units, the above 
+classifications are not applicable. 
+All required supporting documents and amended sections of the dossier must be submitted to SAHPRA 
+regardless of the evaluation pathway. 
+Sameness must be maintained from the time of product registration except for regional specific 
+differences agreed upon at the time of registration.  
+5. 
+PRINCIPLES OF RELIANCE-BASED EVALUATION – CLINICAL 
+For PI/PIL content, SAHPRA will be using reliance wherever applicable. As per the documentation requirements 
+in Section 6 this typically involves the submission of the latest approved (and attainable) PI/PIL from a 
+regulatory authority with which SAHPRA aligns itself. SAHPRA considers PI/PILs previously approved by the EU 
+(either Centralised Procedure or Decentralised Procedure) as a default reference for reliance pathways. 
+Alternatively, applicants can provide an approved PI/PIL from any other RRA. 
+NOTE:  An application for an API that has not yet been registered by SAHPRA will be considered as a New 
+Chemical Entity (NCE) in South Africa, regardless of whether the molecule has already been registered by other 
+regulatory authorities. 
+SAHPGL-BAU-01_v7 
+Page 15 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+5.1 
+Abridged Review 
+The abridged review is based primarily on the overviews of pre-clinical and clinical data in CTD Modules 2.4 
+and 2.5. All supporting documents as stipulated in Section 6 of this guideline should be included in the 
+submission to qualify for an abridged review. 
+All NCE and biological applications, generic applications with clinical data, Type II variations, and EAs that 
+have prior approval from an RRA will be considered for an abridged review. In addition, all applications for 
+biosimilar medicines will be considered for an abridged review. 
+An abridged review is indicated specifically for the following types of applications: 
+5.1.1 
+Monocomponent medicines 
+§ 
+For registration of an NCE already approved by an RRA 
+§ 
+For registration of an NCE based on well-established use (relying on literature), where the 
+medicine has already been registered on the same basis by an RRA 
+§ 
+For a monocomponent multisource medicine/ generic registered by an RRA, and where clinical 
+data generated with the generic has been supplied in support of the application 
+§ 
+Biological medicine registered by an RRA 
+§ 
+Biosimilar medicine where the reference biological medicine has already been registered by 
+SAHPRA 
+5.1.2 
+Multicomponent medicines 
+§ 
+For a multicomponent fixed dose combination of two or more chemical entities, where the 
+combination is not registered by SAHPRA, but registered by an RRA 
+5.1.3 
+Type II variations 
+§ 
+For Type II variations where the amendment applied for has already been approved by an RRA 
+(e.g., additional/ amended therapeutic indications, safety amendments, posology, and method 
+of administration) 
+5.1.4 
+EAs 
+§ 
+For all EAs that have not yet been approved by SAHPRA for a given molecule but have been 
+approved by an RRA. 
+SAHPGL-BAU-01_v7 
+Page 16 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+5.2 
+Verified Review 
+The verified review is initiated to limit the evaluation time of applications for APIs already registered by 
+SAHPRA. The verified review is effectively a comparison of an applicant’s proposed PI against an up-to-date 
+reference PI (from a Clinical safety perspective). The primary reference is the latest approved PI of the 
+associated local innovator product. The latest-approved foreign innovator PI may be supplied as an 
+additional/ alternative reference only where the local innovator is materially outdated or no longer 
+marketed (see SAHPGL-CEM-02, a Guideline on Professional Information for Human Use for which sections 
+require complete localisation to the SA innovator product). 
+All Type IB variations and generic applications (without clinical data) for APIs already registered by SAHPRA 
+will be considered for a verified review. In addition, EAs that have already been approved by SAHPRA will 
+be considered for a verified review. 
+A verified review is indicated specifically for the following types of applications: 
+5.2.1 
+Monocomponent medicines 
+§ 
+For duplicates/ clones of medicines registered by SAHPRA 
+§ 
+For a multisource medicine/ generic with identical therapeutic indications, formulation/ 
+dosage form, and strength for APIs previously approved by SAHPRA 
+5.2.2 
+Multicomponent medicines 
+§ 
+For a multicomponent fixed dose combination of two or more chemical entities, where the 
+combination is already registered by SAHPRA 
+5.2.3 
+Type IB variations 
+§ 
+For all Type IB variations reviewed by SAHPRA 
+5.2.4 
+EAs 
+§ 
+For all EAs that have already been approved by SAHPRA for a given molecule 
+§ 
+For all EAs related to new pharmaceutical forms which follow the same route of administration 
+as that which has already been approved by SAHPRA (e.g., EA for a capsule, where SAHPRA has 
+already approved use of a tablet) 1 
+1Regardless of whether SAHPRA or an RRA has previously approved the EA for a given molecule (i.e., the EA 
+SAHPGL-BAU-01_v7 
+Page 17 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+for a capsule may not have been approved by SAHPRA or an RRA, but the application qualifies for verification 
+as SAHPRA has previously approved the same [oral] route of administration). 
+6. 
+DOCUMENT/ DATA REQUIREMENTS FOR NEW REGISTRATION – CLINICAL  
+6.1 
+Abridged Review Requirements 
+NOTE: Some requirements may not apply to a certain application type for abridged review. 
+6.1.1 
+Abridged review requirements: 
+(i) 
+Applicant cover letter (M1.0) 
+(ii) 
+Proposed PI and PIL (M1.3) 
+(iii) 
+Registration status and dates of approval with other regulatory authorities. This is stated in 
+the ME&R section, where it is a requirement 
+(iv) 
+Applicants are requested to highlight SAHPRA’s RRAs on this list 
+(v) 
+Risk Management Plan (RMP), if applicable (M1.13) 
+(vi) 
+Latest Periodic Safety Update Report (PSUR)/ Periodic Benefit-Risk Evaluation Report (PBRER) 
+if already registered by an RRA, if applicable – (M5) 
+Preclinical data (proof of concept, in vitro/ in vivo data, animal data) 
+(i) 
+Overview of preclinical data (M2.4) 
+(ii) 
+Synopsis of preclinical findings of relevance to humans (M2.6) 
+(iii) 
+Preclinical data expert report from the applicant (M2.4) 
+(iv) 
+Full preclinical data (M4) 
+ 
+Clinical data 
+(i) 
+Overview of clinical data (incl. safety, efficacy, pharmacology, and benefit/risk analysis) 
+(M2.5) 
+(ii) 
+Clinical expert reports on safety and efficacy from the applicant (M2.5) 
+(iii) 
+Synopsis of each clinical study included in the application (M2.7) 
+(iv) 
+Full clinical study data with formulation as applied for (FAAF) (M5) 
+(v) 
+Studies 
+demonstrating 
+pharmacology, 
+including 
+mechanism 
+of 
+action 
+and 
+pharmacotoxicology (M5) 
+(vi) 
+Studies demonstrating pharmacodynamic properties (M5) 
+SAHPGL-BAU-01_v7 
+Page 18 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+(vii) Studies 
+demonstrating 
+pharmacokinetic 
+properties, 
+including 
+pharmacodynamic/ 
+pharmacokinetic (PD/PK relationship, and where relevant, pharmacokinetic properties in 
+special populations (e.g., hepatic, renal, gender, race, elderly, children, other age groups) and 
+PD/PK interactions with other medicines relevant to the indication and target population (M5) 
+6.1.2 
+Rapporteur assessment reports from RRAs, if available (M1.10) 
+6.1.3 
+The relevant reference PI approved by an RRA (M1.10.3) 
+6.1.4 
+Correspondence between the Applicant and other reference RRAs concerning queries relating to 
+safety, efficacy, risk/ benefit, and RMP issues (if not included in the assessment report). Detailed 
+explanation/ reasons if registration/ approval was refused by a Regulator with which SAHPRA 
+aligns itself (M1.10). 
+6.2 
+Verified Review Requirements 
+NOTE: Some requirements may not apply to a certain application type for verified review. 
+6.2.1 
+Verified review requirements (i – v) (refer to 6.1.1 above) 
+6.2.2 
+Verified review requirement (vi) if/ when applicable for specified molecules and indications (refer 
+to 6.1.1 above) 
+6.2.3 
+The relevant primary reference innovator PI approved by SAHPRA (M1.3) 
+6.2.4 
+The relevant secondary reference PI approved by an RRA, if applicable in instances where the local 
+innovator PI is materially outdated (M1.3) 
+7. 
+PRINCIPLES OF RELIANCE-BASED EVALUATION - QUALITY & BIOEQUIVALENCE 
+Reliance-based evaluation will be based on the following principles: 
+§ 
+Reliance is applicable for both new registration and variation applications (Type IB and Type II). 
+§ 
+The application submitted for registration by SAHPRA should be the same as the most updated product 
+on record at the RRA, i.e., all approved variations for the RRA’s registered product should be 
+incorporated in the application submitted for registration by SAHPRA. Pending variations with the 
+RRA should not be included in the application submitted to SAHPRA for the application to qualify for 
+reliance. 
+SAHPGL-BAU-01_v7 
+Page 19 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+7.1 
+Abridged Review Requirements 
+An abridged review is a reliance-based review comprising: 
+§ 
+Validation by SAHPRA to ensure that the product application submitted for registration by SAHPRA is 
+the same as the product registered by the specified RRA 
+§ 
+Evaluation of Module 1: Regional administrative information (as required) 
+§ 
+Evaluation of specific aspects of the dossier, depending on the type of application submitted, an 
+abridged review applies to the following types of applications: 
+(i) 
+For a new registration application for a generic medicine already registered by an RRA 
+(ii) 
+For a new registration for a WHO PQ product: 
+§ 
+Applicants are required to follow SAHPRA’s process for the WHO Collaborative Registration Procedure 
+https://www.sahpra.org.za/document/expression-of-interest-who-pre-qualification-collaborative-
+registration-procedure/ 
+(i) 
+For a Type II variation where the variation applied for has already been approved by an RRA 
+7.2 
+Verified Review Requirements 
+A verified review is a reliance-based review comprising: 
+§ 
+Validation by SAHPRA to ensure that the product application submitted for registration by SAHPRA is 
+the same as the product registered by the specified RRA 
+§ 
+Evaluation of Module 1: Regional administrative information (as required). A verified review applies 
+to the following types of applications: 
+(i) 
+For a new registration application for an NCE medicine already registered by an RRA 
+(ii) 
+For a Type IB variation where the variation applied for has already been approved by an RRA 
+8. 
+DOCUMENT/ DATA REQUIREMENTS FOR NEW REGISTRATION – QUALITY/ BIO- 
+EQUIVALENCE 
+To qualify for a reliance-based review, an applicant needs to submit additional documentation beyond the 
+SAHPGL-BAU-01_v7 
+Page 20 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+documentation required for a full review (see Tablet 1 below). 
+Table 1: Documentation required for reliance-based evaluation. 
+Document required 
+Applicable types of applications 
+Completed abridged review template 
+5.1 i, ii 
+Completed verified review template 
+5.2 i 
+• Full assessment/ evaluation reports from 
+the RRA where the product is registered, 
+• Details of the outcomes of the application in 
+all 
+jurisdictions 
+where 
+it 
+has 
+been 
+submitted, 
+• Foreign registration certificate(s), and 
+• SmPC, a copy of the patient information 
+leaflet (PIL) and label of the product that 
+has been registered by the RRA, 
+• If available: initial scientific assessments, 
+regulatory 
+correspondence 
+with 
+the 
+sponsor/ applicant, follow-up assessments, 
+and any other documentation from the RRA 
+related to the final registration decision, 
+and 
+• If available and where applicable: risk 
+management plans and on-site inspection 
+reports (or equivalent), for example GCP/ 
+GRP. This does not include the data package 
+filed with the RRA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i, iv 
+i, iii 
+Letter of approval from the RRA 
+5.1 iv 
+iii 
+Declaration: Sameness 
+5.1 i, ii 
+i 
+ 
+Table 2: Documents that comprise a complete assessment of each RRA. 
+The table below lists the documents that comprise a complete assessment for each RRA. The full set of 
+SAHPGL-BAU-01_v7 
+Page 21 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+documents must be submitted in your reliance report-based application. 
+RRA 
+Required documentation 
+Therapeutic Goods Administration, Australia 
+• Comprehensive details of all studies 
+submitted and assessed 
+• All assessment report(s) 
+• Questions from the regulator to the 
+Market Authorisation Holder (and 
+answers) 
+• Summaries of meetings with TGA 
+(including presubmission advice, where 
+relevant) 
+• Approval letter 
+• Post marketing reviews 
+• Note: All relevant milestone dates are 
+specified in the submission evaluation 
+plan. 
+European Medicines Agency (EMA) 
+• Comprehensive details of all studies 
+submitted and assessed 
+• Centralised procedure assessment 
+reports (where applicable): 
+• Day 80 Quality, Non-Clinical, Clinical, 
+and Overview Assessment Reports 
+• Day 120 List of Questions (and 
+answers) 
+• Day 150 Quality, Non-Clinical, Clinical, 
+and Overview Assessment Reports 
+• Day 180 Joint Assessment Report 
+• Day 180 List of Outstanding Issues 
+• Final Assessment Report 
+• Decentralised procedure assessment 
+reports (where applicable): 
+o All assessment reports 
+o Questions from the regulator to the 
+Market Authorisation Holder (and 
+responses) 
+SAHPGL-BAU-01_v7 
+Page 22 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+RRA 
+Required documentation 
+o Summaries of meetings with the 
+EMA and/ or assessors (including 
+presubmission advice, where 
+relevant) 
+o Committee for Medicinal Products 
+for Human Use (CHMP) Summary of 
+Opinion 
+o Any other questions from the 
+regulator to the Market 
+Authorisation Holder 
+o Letter of undertaking 
+o European Commission decision 
+o Risk Management Plan review(s) 
+o Post marketing review(s) (e.g., 
+Periodic Safety Update Reports) 
+Pharmaceutical and Medical Devices Agency 
+(PMDA), Japan 
+• Comprehensive details of all studies 
+submitted and assessed 
+• Discussion documents, questions from 
+PMDA and answers provided, and 
+finalised minutes from Scientific 
+Consultation Meetings (if applicable) 
+• Outcome of Orphan designation, 
+priority or SAKIGAKE determination (if 
+relevant) 
+• Copies of questions and answers 
+exchanged between Sponsor and 
+PMDA 
+• Un-redacted English Translated Review 
+Report consisting of: 
+o Review Report 1 
+o Review Report 2 
+o Review Result 
+o Report on the Deliberation Results 
+o Approval Letter 
+o Post-marketing review(s) (e.g., Re-
+SAHPGL-BAU-01_v7 
+Page 23 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+RRA 
+Required documentation 
+examination Review Report, 
+Periodic Safety Reports) 
+Health Canada 
+• Comprehensive details of all studies 
+submitted and assessed 
+• Screening: Screening Report 
+• Clinical Review: Pharmaceutical Safety 
+and Efficacy Assessment Report 
+(PSEAR) 
+• Quality: Quality Evaluation Summary 
+(QES) and Manager’s Memo 
+• Bioequivalence: Comprehensive 
+Summary – Bioequivalence (CS-BE) and 
+Manager’s Memo 
+• Biostatistics: Biostatistics Consult 
+Report (if applicable) 
+• Risk Management Plan: Risk 
+Management Plan Assessment Report 
+(if applicable) 
+• Questions from the regulator to the 
+Market Authorisation Holder (and 
+responses) 
+• Summaries of meetings with Health 
+Canada (including presubmission 
+advice, where relevant) 
+• Final Manager’s Memo, and Executive 
+Summary 
+Medicines and Healthcare products Regulatory 
+Agency (MHRA), United Kingdom 
+• Comprehensive details of all studies 
+submitted and assessed 
+• All assessment reports as part of the 
+iterative process 
+• Questions from the regulator to the 
+Market Authorisation Holder (and 
+responses) 
+• Committee for Medicinal Products for 
+Human Use 
+• (CHMP) Summary of Opinion 
+SAHPGL-BAU-01_v7 
+Page 24 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+RRA 
+Required documentation 
+• Summaries of other meetings with the 
+MHRA (including presubmission advice, 
+where relevant) 
+• Approval letter 
+• Post marketing review(s) (e.g., Periodic 
+Safety Update Reports) 
+SwissMedic, Switzerland 
+• Comprehensive details of all studies 
+submitted and assessed 
+• All assessment report(s) 
+• Questions from the regulator to the Market 
+Authorisation Holder (and answers) 
+• Summaries of meetings with 
+SwissMedic (including presubmission 
+advice, where relevant) 
+• Approval letter 
+• Post marketing reviews 
+United States Food and Drug Administration (US 
+FDA) 
+• Comprehensive details of all studies 
+submitted and assessed 
+• Medical review(s) 
+• Chemistry review(s) 
+• Pharmacology review(s) 
+• Statistical review(s) 
+• Clinical pharmacology biopharmaceutics 
+review(s) 
+• Risk assessment and risk mitigation review(s) 
+• Administrative document(s) and 
+correspondence 
+• Cross discipline team leader review 
+• Office Director memo 
+• Summaries of meetings with the US 
+FDA (including presubmission advice, 
+where relevant) 
+• Summary review 
+• Complete response letter 
+SAHPGL-BAU-01_v7 
+Page 25 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+RRA 
+Required documentation 
+• Approval letter 
+• Post marketing reviews 
+Additional documentation requirements for the various types of applications may be stipulated in other 
+sections of this guideline or other guidelines. Additional documentation requirements for WHO PQ products 
+are detailed in SAHPRA’s process for the WHO Collaborative Registration Procedure. 
+Additional documentation requirements for reliance-based review of variations applications are detailed in 
+SAHPRA’s Variations Addendum for Orthodox Medicines. 
+Please note that public assessment reports will not be accepted. 
+9. 
+GOOD MANUFACTURING PRACTICE (GMP INSPECTIONS) 
+Good Manufacturing Practice (GMP) describes a set of principles and procedures that, when followed, ensure 
+that medicines and related substances are of high quality, safety, and efficacy. SAHPRA is a participating 
+authority of the Pharmaceutical Inspection Cooperation Scheme (jointly known as PIC/S). PIC/S aims to develop 
+international standards between countries and pharmaceutical inspection authorities, to provide harmonised 
+and constructive co-operation in the field of GMP. PIC/S affiliation is subject to initial and periodic assessment 
+of the participating authority to ensure that it has equivalent legislation, regulatory and enforcement 
+procedures, and inspection capacity. Besides employing a reliance approach to PIC/S affiliated authorities, 
+SAHPRA Inspectorate also applies reliance to WHO, AMA and ZAZIBONA inspections. 
+9.1 
+Principles of Good Manufacturing Practice Reliance 
+GMP agreements with competent international regulatory authorities support information sharing and 
+other desirable objectives for international regulatory collaboration. These agreements do not permit 
+automatic acceptance of the decisions of the other party but may be used to enhance regulatory oversight 
+and significantly reduce regulatory burden without diminution of compliance. 
+Manufacturers of medicines supplied in the South African market must demonstrate compliance with the 
+relevant code of GMP. This is usually, but not always, done through an on-site inspection and with 
+acceptable documentary GMP evidence. Hence, SAHPRA will not accept desk-top or virtual inspection 
+reports or GMP certificate issued by the regulatory authority following a desk-top or virtual inspection.  
+GMP approval guidance for sites involved in the manufacture of products can be found below. Please note 
+that adherence to these requirements does not guarantee a site will be deemed GMP compliant by SAHPRA. 
+SAHPGL-BAU-01_v7 
+Page 26 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+SAHPRA reserves the right to request additional documentation, schedule an inspection, or reject any 
+sites regardless of adherence to the below requirements.  
+The following requirements are applicable to finished products where the applicant has submitted GMP 
+certificates or reports from recognized authorities for SAHPRA to implement reliance 
+§ 
+The site has been approved by a recognised regulator, 
+§ 
+The site was approved by the recognized regulator within the previous three (3) years. This date is 
+calculated from the date of the inspection. 
+§ 
+The dosage form of the product within the application is within the same dosage form grouping as the 
+dosage form approved by the recognised regulator,  
+§ 
+The product type applied for is the same as the product type approved by the recognised regulator, 
+and 
+§ 
+The activities applied for by the applicant are the same activities that have been approved by the 
+recognised regulator. 
+§ 
+The manufacturing site addresses the name or number of the manufacturing building or block or 
+workshop should be clearly specified. This information should be the same as the information recorded 
+in the application form. 
+§ 
+The validity and acceptability of the GMP certificate e.g. all pages included and no alterations. 
+§ 
+For Biological products, the GMP certificates submitted should include all relevant manufacturing sites 
+from upstream manufacturing sites to fill and finish manufacturing sites. 
+§ 
+GMP inspection reports and certificates should be written in English, SAHPRA will not accept any GMP 
+certificate or inspection report written in foreign language.  
+NOTE: Refer to the latest GMP guideline (SAHPGL-INSP-02) for the recognised regulators, dosages, product 
+types, and activity groupings. 
+The following requirements are applicable to active pharmaceutical ingredients (APIs) where the 
+applicant has submitted GMP certificates or reports from recognized authorities for SAHPRA to 
+implement reliance: 
+SAHPGL-BAU-01_v7 
+Page 27 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+§ 
+Date of inspection should be within 3 years from the date of submission of the application. This date 
+is calculated from the date of the inspection. 
+§ 
+Health Authority should be one of SAHPRA Reliance Authorities for applications submitted from 01 
+July 2024 onwards. 
+§ 
+SAHPRA will only accept API GMP certificates or reports from local Regulatory Authority (country of 
+manufacturing site) for applications submitted before 01 July 2024 
+§ 
+Approved API or API intermediate should match the API or API intermediate listed on the application 
+form and in module 3 of the dossier. 
+§ 
+The API molecule(s) and grade e.g. USP, EP, EU grade should match the grade listed in the dossier 
+§ 
+The validity and acceptability of the GMP certificate e.g. all pages included and no alterations. 
+§ 
+The CEP certificate is acceptable instead of a GMP certificate or report.  
+§ 
+The manufacturing site addresses the name or number of the manufacturing building or block, or 
+workshop should be clearly specified on the GMP certificate or inspection report or CEP certificate. 
+This information should be the same as the information recorded in the relevant sections of the 
+dossier. 
+GMP inspection reports and certificates should be written in English, SAHPRA will not accept any GMP 
+certificate or inspection report written in foreign language. FOR APPLICATIONS WITHOUT RELEVANT GMP 
+CERTIFICATES, INSPECTION REPORTS or CEP CERTIFICATES FROM SAHPRA RELIANCE AUTHORITY – the 
+following requirement applies: 
+§ 
+The applicant should submit a request for a GMP inspection to SAHPRA to the following email address: 
+inspectorate@sahpra.org.za with subject line: Request for GMP inspection.  
+§ 
+The applicant should also propose an inspection date when submitting the request for inspection for 
+the manufacturing site(s). 
+§ 
+Proof of submission should be included in the dossier. 
+§ 
+Where a request for a GMP inspection has been submitted, SAHPRA will schedule an inspection for 
+the relevant manufacturing site, and the outcome of the inspection will determine the status of the 
+SAHPGL-BAU-01_v7 
+Page 28 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+application for GMP requirements.  
+§ 
+Applications without any relevant GMP certificates, inspection reports or CEP certificate or proof of 
+request for GMP inspection will be evaluated as reliance applications and subsequently rejected if they 
+do not meet the reliance requirements as outlined above.  
+10. CLINICAL TRIAL APPLICATION 
+Clinical Trial data is crucial in supporting the safety and efficacy of the product intended for registration. During 
+the review process, the Authority considers information regarding the review status of the clinical trial with 
+other Regulatory Authorities, as requested in the application form. As most of the clinical trials are multi-centre 
+trials, the Authority will further take into consideration proper monitoring of trial and local conditions or 
+prevalence of disease within the context of South Africa. 
+11. PHARMACOVIGILANCE 
+Vigilance is important for ensuring that health products available on the South African markets are safe, 
+effective and of acceptable quality and performance throughout the life cycle of the product. To ensure that 
+the Authority fulfils its mandate of monitoring the benefit-risk profile of the health products, the Authority will 
+consider the safety information communicated or actions taken by other RRAs. The Authority considers and 
+gives significant weight to assessments performed by RRAs in reaching its own regulatory decision. 
+Furthermore, SAHPRA is an independent authority and is, therefore, responsible and accountable for the 
+decisions taken, even when it relies on the decisions and information from other Regulatory Authorities. 
+12. LOT RELEASE  
+The requirement for routine independent lot release testing will be based on a risk assessment to determine 
+whether SAHPRA can apply reliance. The risk assessment considers the post-marketing experience related to 
+the safety and quality of the product. Reliance may be considered subject to the availability of a Lot Release 
+Certificate issued by a releasing NCL from a WLA or SAHPRA RRA (see Section 4.1 above). Reliance can also be 
+considered on an NRA designated ML3 provided that the product is WHO prequalified (see Section 4.1 above). 
+13. REFERENCES 
+The following related documents are referenced: 
+13.1 Sameness declaration for Reliance-based Evaluation Models: Appendix 2 to SAHPGL-PEM-02 
+SAHPGL-BAU-01_v7 
+Page 29 of 29 
+Reliance Guideline  
+9 June 2026 
+ 
+ 
+Quality and Bioequivalence Guideline 
+13.2 SAHPRA GMP Guideline SAHPGL-INSP-02 
+14. VALIDITY 
+This guideline is valid for five (5) years from the effective date of revision and replaces the old Reliance 
+Guideline (i.e. revision 6). It will be reviewed within this timeframe or as and when required. 
+

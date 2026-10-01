@@ -1,0 +1,680 @@
+SAHPGL-PEM-BIO-03_v3 
+Page 1 of 10
+ 
+ 
+ 
+15 September 2022 
+GUIDELINE FOR PRE-REGISTRATION CONSULTATION MEETING 
+This document provides guidance on the procedures involved in the scheduling and conduct of Pre-Registration 
+Consultation meetings between the Office of the Chief Regulatory Authority (CRO) of the South African Health 
+Product Regulatory Authority (SAHPRA), and the applicant / sponsor for biological medicines. The primary purpose 
+of the meetings is to address issues relating to the development of biological medicines in the planning phase of such 
+products. 
+ 
+Guidelines and application forms are available from the office of the CRO and on the SAHPRA website. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue and published for implementation 
+March 2015 
+2 
+Editorial and Format Changes 
+May 2020 
+3 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+Old document number 2.39 changed to SAHPGL-PEM-BIO-03 
+September 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+SAHPGL-PEM-BIO-03_v3 
+Page 2 of 10
+Guideline for Pre-registration Consultation Meeting 
+15 September 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1. Purpose ...................................................................................................................................................... 4 
+1.2. Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+TYPES OF PRC MEETINGS ........................................................................................................................... 4 
+3.1. TYPE A ........................................................................................................................................................ 4 
+3.2. TYPE B ........................................................................................................................................................ 5 
+3.3. TYPE C ........................................................................................................................................................ 5 
+3.3.1. 
+End of Phase I / Pre-Phase II meeting................................................................................................ 5 
+3.3.2. 
+End of Phase II / Pre-Phase III meeting ............................................................................................. 5 
+4. 
+PROCEDURE FOR REQUEST TO SCHEDULE MEETINGS .............................................................................. 5 
+5. 
+PRE-REGISTRATION CONSULTATION MEETING MATERIAL ....................................................................... 6 
+6. 
+CANCELLATION OF MEETING..................................................................................................................... 9 
+7. 
+THE MEETING ............................................................................................................................................ 9 
+8. 
+REFERENCES ............................................................................................................................................... 9 
+9. 
+VALIDITY .................................................................................................................................................. 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-BIO-03_v3 
+Page 3 of 10
+Guideline for Pre-registration Consultation Meeting 
+15 September 2022 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Applicant/Developer/Sponsor 
+The legal entity (or agent) that applies for the permit to conduct clinical 
+trials, and eventually for the registration of the new biological 
+medicine. 
+Pre-Registration Consultation 
+(PRC) Meeting 
+Meeting requested by developer at the point where the manufacturing 
+process for a potential product has reached a point of consistency and 
+has a potentially defined presentation/indication, but further 
+development could benefit from the advice of regulatory experts on the 
+pre-clinical or clinical development plan.  The consultation might enable 
+applicant/s to submit dossiers containing appropriate information in line 
+with the CTD format, which may lead to an appropriately constructed 
+dossier that will enable a decision on registration of a biological 
+medicine. 
+Pre-Registration Consultation 
+Expert Committee (PRC EC) 
+Core team of regulatory reviewers focused on the quality and clinical 
+development of a particular product, providing the core input to both 
+the Clinical Trials Committee (CTC) and Biological Medicines Committee 
+(BMC) when the application comes up for review.  The EC operates 
+separately from the CTC.  It predominantly focuses on product 
+development, leaving issues of trial conduct and relevant ethics review 
+bodies to the CTC. 
+Pre-Registration Consultation 
+(PRC) Meeting Material 
+Dossier to be compiled and submitted before a consultation meeting is 
+conducted. 
+Pre-Registration Consultation 
+(PRC) number 
+Unique number identifying the product/presentation, including the 
+dossier submitted for a Pre- Registration Consultation meeting. Each 
+communication from MCC to applicant gets the PRC plus a suffix 
+number identifying the sequence of communication, e.g. 334455/001, 
+334455/002. 
+Point of Contact (POC) 
+Person at SAHPRA identified as responsible to assist the applicant with 
+the procedure to schedule and coordinate a meeting. 
+ 
+ 
+ 
+SAHPGL-PEM-BIO-03_v3 
+Page 4 of 10
+Guideline for Pre-registration Consultation Meeting 
+15 September 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+SAHPRA through its Biological Medicines Unit has developed this guideline to address the need of applicants 
+and/or sponsors to consult the regulator prior to registration of the Biological product. 
+1.1. Purpose 
+The purpose of this guidance document it to describe the procedures involved in the scheduling and 
+conduct of Pre-Registration Consultation (PRC) meetings between the Office of the CRO of the SAHPRA and 
+the applicant / sponsor of biological medicines. The primary purpose of the meetings is to address issues 
+relating the development of a product in the planning phase of such products 
+1.2. Scope 
+This guideline applies to the scheduling of a PRC meeting by the parties involved in the development or 
+manufacturing of biological medicines that have not been previously submitted for registration to the MCC, 
+or to any other regulatory authority and for which registration may be sought from the MCC in the future. 
+PRC meetings with industry provide a forum for SAHPRA to provide guidance to organizations during 
+product development and facility design, and to facilitate their compliance with the regulations governing 
+the development of products. 
+This should be limited to local manufacturers and developers of biological medicines, including vaccine 
+developers where the major part of the clinical development will be in a South African population. 
+Meetings should serve a useful purpose and should not be premature or clearly unnecessary. In order to 
+guide the meeting, a checklist is to be submitted with the request for a meeting. 
+2. 
+LEGAL PROVISION 
+Medicines and Related Substances Act, 1965 (Act 101 of 1965), as amended and the relevant Regulations. 
+3. 
+TYPES OF PRC MEETINGS 
+Summary: Three types of meetings have relevance. 
+Type A: meeting conducted before finalization of non-clinical tests. This is not a formal submission. 
+Type B: meeting conducted when non-clinical development is complete and Ph-I trials are ready for 
+submission. This is a formal submission. 
+Type C:  These meetings are held during the clinical development phase and prior to final registration 
+application. 
+3.1. TYPE A 
+a. To review and reach agreement on the format of application. 
+b. Design of animal studies needed to support human clinical testing and product characterization 
+issues. 
+c. The scope and design of planned Phase I studies. 
+d. Facility design. 
+e. General product issues. 
+ 
+SAHPGL-PEM-BIO-03_v3 
+Page 5 of 10
+Guideline for Pre-registration Consultation Meeting 
+15 September 2022 
+ 
+ 
+3.2. TYPE B 
+a. Depict for reviewers the general information to be submitted in the registration application. 
+b. Discuss preliminary efficacy results derived from studies conducted to support registration 
+process and appropriate methods for final statistical analysis. 
+c. Discuss the proposed format for data in the planned marketing application. 
+d. To identify the studies that the sponsor/applicant will rely on as adequate and well-controlled. 
+e. Plans to assess paediatric safety and effectiveness. 
+f. To discuss submission of an incomplete application. 
+g. To discuss any major outstanding issues. 
+3.3. TYPE C 
+To discuss the Phase II or Phase III clinical development of a proposed Medicinal Product. The PRC EC 
+would typically conduct this, with attendance by CTC members. 
+3.3.1. End of Phase I / Pre-Phase II meeting 
+a. To review Phase I clinical testing data. 
+b. To reach agreement on design of Phase II controlled clinical trials, with the aim that such testing 
+will be adequate to provide sufficient data on the medicine’s safety and effectiveness to support 
+a decision on its approvability for marketing, and to discuss the need for, as well as the design 
+and timing of, studies of the biological medicine in paediatric patients. 
+3.3.2. End of Phase II / Pre-Phase III meeting 
+a. Review Phase II data to determine if it is safe to proceed to Phase III. 
+b. To evaluate plans for the Phase III program and protocols. 
+c. Plans to assess paediatric safety and effectiveness. 
+d. To identify any additional information necessary to support a registration application for the uses 
+under investigation. 
+4. 
+PROCEDURE FOR REQUEST TO SCHEDULE MEETINGS 
+4.1. All communications regarding meetings, as defined in this document, should be forwarded 
+to the CRO’s office. 
+4.2. All meetings must be preceded by the submission of a written application to the CRO of 
+Medicines and be accompanied by the necessary discussion materials. 
+4.3. Approximate lead-time for submission of information package in CTD format is 
+approximately one (1) month before the scheduled meeting with the Expert Committee. 
+4.4. Every effort to respond to meeting requests will be made by SAHPRA as expeditiously as possible. 
+4.5. Upon receipt of a request for consultation with the relevant Expert Committee of the 
+SAHPRA, the CRO will appoint an appropriate qualified Panel (max 6 persons) to conduct 
+the consultation. 
+4.6. Meetings may either be face-to face (in person) or electronic i.e. teleconference or video 
+conference/Skype. 
+4.7. Meetings will be strictly limited to one (1) hour and will result in a verbal response from the 
+panel at the conclusion of the meeting. 
+4.8. These responses are non-committal and are non-binding on the CRO or on SAHPRA. 
+SAHPGL-PEM-BIO-03_v3 
+Page 6 of 10
+Guideline for Pre-registration Consultation Meeting 
+15 September 2022 
+ 
+ 
+5. 
+PRE-REGISTRATION CONSULTATION MEETING MATERIAL 
+A completed PRC meeting Material Checklist must be submitted with the application. 
+The CHECKLIST is to be used for the preparation of a formal request to the office of the Chief Regulatory 
+Officer (CRO)/ South African Health Product Regulatory Authority (SAHPRA) for the purpose of the meeting 
+and should be submitted to the SAHPRA. 
+NOTE:  Information to be submitted as: 
+• 
+Covering letter explaining briefly the substance of the application; 
+• 
+1 x Hardcopy of all documents for filing; 
+• 
+1 x Hardcopy of 1 & 2 (below) plus ALL on CDs sufficient for each panel member (Max 6) 
+Item 
+ 
+✓ 
+1 
+MEETING AGENDA 
+ 
+ 
+Indicate Type of Meeting requested e.g. A, B or C 
+(Guideline: 20 minutes for scientific presentation; 30 minutes for discussion; 10 min for 
+Expert Committee Panel Response) 
+ 
+2 
+LIST of expected participants and personal profile [1 page per person] 
+ 
+ 
+LIST of the specific objectives of outcome that the applicant expects 
+ 
+ 
+LIST of specific questions to the Expert Committee 
+ 
+3 
+1.  PRODUCT DOSSIER: 
+ 
+ 
+• 
+Cover page containing the following information: 
+ 
+ 
+• 
+Name, Address, and contact information of Sponsor; 
+ 
+ 
+• 
+Name of the Product; 
+ 
+ 
+• 
+Date of submission; 
+ 
+ 
+• 
+Identification of the pre-phase; 
+ 
+ 
+• 
+Name and title and contact information of the person responsible for 
+monitoring the progress of the application; and 
+ 
+ 
+• 
+Signature of the Sponsor of sponsor’s authorized representative 
+ 
+ 
+2.  Page 2, Table of Contents 
+ 
+ 
+3.  Page 3 to end, Information as required for each pre-phase in an accurate and 
+complete English version, created in Arial 11 font, and single spacing. 
+ 
+ 
+4.  Information previously submitted: The sponsor is not required to submit information 
+previously submitted but may incorporate the information by reference. The reference 
+must be identified by name, reference number, volume and page number where the 
+information can be found. 
+ 
+3.1 
+Pre-Phase I (Limited to 30 A4 pages) 
+ 
+3.1.1 
+Description of product, including scientific rationale and chemical or biochemical 
+characterization 
+ 
+3.1.2 
+Description of the manufacturing facility (including status of facility e.g. certified for 
+GMP; ISO 9001, etc.) 
+ 
+3.1.3 
+Summary of the manufacturing process including: 
+ 
+ 
+a.  A flowchart; 
+ 
+ 
+b.  A description of the manufacturing process; 
+ 
+ 
+c.  A description of the source and quality of starting materials; 
+ 
+ 
+d. A description of in-process testing (e.g. quality controls {identity, assay, purity, 
+impurities profile}); and 
+ 
+ 
+e. Tentative lot-release specifications [descriptions of identity, purity, sterility (e.g. 
+sterilization process, release sterility and endotoxin testing, if applicable), stability, 
+general safety and potency) 
+ 
+SAHPGL-PEM-BIO-03_v3 
+Page 7 of 10
+Guideline for Pre-registration Consultation Meeting 
+15 September 2022 
+ 
+ 
+3.1.4 
+Summary of pre-clinical data of the proposed vaccine that support a clinical study, 
+including: 
+ 
+ 
+a.  Safety studies; and 
+ 
+ 
+b.  Activity studies (e.g. immunogenicity studies, neutralization assays, and 
+investigations in animal protection models) (linkage of pharmacological 
+and/or toxicological batches to trial batches) 
+ 
+3.1.5 
+Summary of the proposed Phase I study protocol to include: 
+ 
+ 
+a.  Description of study subjects; 
+ 
+ 
+b.  Inclusion / exclusion criteria; 
+ 
+ 
+c.  Statistical considerations; and 
+ 
+ 
+d.  Safety monitoring 
+ 
+ 
+(Do not include information on study sites, Investigator’s CVs, insurance, and informed 
+consent procedures) 
+ 
+3.1.6 
+List of questions or issues for discussion e.g.: 
+ 
+ 
+a.  Formulation issues 
+ 
+ 
+b.  Toxicology study design 
+ 
+ 
+c.  Use of a novel excipient 
+ 
+ 
+d.  Adequacy of in-process or lot release tests 
+ 
+ 
+e.  Phase I trial design, and 
+ 
+ 
+f.  Proposed label indication 
+ 
+3.2 
+Pre-Phase II [Limited to 40 A4 pages] 
+ 
+3.2.1 
+Description of product, including scientific rationale and chemical /biochemistry 
+characterization 
+ 
+3.2.2 
+Description of the manufacturing facility (including status of facility e.g. certified for 
+GMP; ISO 9001, etc.) 
+ 
+3.2.3 
+Summary of the manufacturing process including: 
+ 
+ 
+a.  A flowchart 
+ 
+ 
+b.  A description of the manufacturing process 
+ 
+ 
+c.  A description of the source and quality of starting materials 
+ 
+ 
+d.  A description of in-process testing, and 
+ 
+ 
+e.  Tentative lot-release specifications (descriptions of identity, purity, sterility, stability, 
+general safety and potency) 
+ 
+3.2.4 
+Summary of pre-clinical data of the proposed vaccine that support a clinical study, 
+including: 
+ 
+ 
+a.  Safety studies; and 
+ 
+ 
+b.  Activity studies (e.g. immunogenicity studies, neutralization assays, and 
+investigations in animal protection models) 
+ 
+3.2.5 
+Summary of the proposed Phase II study protocol including: 
+ 
+ 
+a.  Design 
+ 
+ 
+b.  Description of study subjects 
+ 
+ 
+c.  Inclusion / exclusion criteria 
+ 
+ 
+d.  Statistical consideration 
+ 
+ 
+e.  Efficacy endpoints and correlates of protection, and 
+ 
+ 
+f.  Safety monitoring 
+ 
+ 
+(Do not include information on study sites, Investigator’s CVs, insurance, and informed 
+consent procedures) 
+ 
+3.2.6 
+List of questions or issues for discussion e.g.: 
+ 
+ 
+a.  Formulation issues 
+ 
+ 
+b.  Toxicology study design 
+ 
+SAHPGL-PEM-BIO-03_v3 
+Page 8 of 10
+Guideline for Pre-registration Consultation Meeting 
+15 September 2022 
+ 
+ 
+ 
+c.  Use of a novel adjuvant 
+ 
+ 
+d.  Adequacy of in-process or lot release tests 
+ 
+ 
+e.  Phase II trial design 
+ 
+ 
+f.  Target population in South Africa 
+ 
+ 
+g.  Measures of efficacy and safety 
+ 
+ 
+h.  Proposed label indication, and 
+ 
+ 
+i.  Package inserts 
+ 
+3.3 
+Pre-Phase III (Limited to 50 A4 pages) 
+ 
+3.3.1 
+Description of product, including scientific rationale and chemical /biochemistry 
+characterization 
+ 
+3.3.2 
+Description of the manufacturing facility (including status of facility e.g. certified for 
+GMP; ISO 9001) 
+ 
+3.3.3 
+Summary of the manufacturing process including: 
+ 
+ 
+a.  A flowchart 
+ 
+ 
+b.  A description of the manufacturing process 
+ 
+ 
+c.  A description of the source and quality of starting materials 
+ 
+ 
+d.  A description of in-process testing 
+ 
+ 
+e.  Tentative lot-release specifications (descriptions of identity, purity, sterility, stability, 
+general safety and potency). 
+ 
+3.3.4 
+Summary of pre-clinical data of the proposed vaccine that support a clinical study, 
+including: 
+ 
+ 
+a.  Safety studies; and 
+ 
+ 
+b.  Activity studies (e.g. immunogenicity studies, neutralization assays, and 
+investigations in animal protection models) 
+ 
+3.3.5 
+Detailed description of Phase I safety data and Phase II safety and efficacy data 
+ 
+3.3.6 
+Previous human data relevant to the product (or similar products), if available, 
+including relevant immunogenicity of efficacy data as appropriate. 
+ 
+3.3.7 
+Summary of the proposed Phase III study protocol to include: 
+ 
+ 
+a.  Design 
+ 
+ 
+b.  Description of study subjects 
+ 
+ 
+c.  Inclusion / exclusion criteria 
+ 
+ 
+d.  Statistical considerations 
+ 
+ 
+e.  Efficacy endpoints and correlates of protection, and 
+ 
+ 
+f.  Safety Monitoring 
+ 
+ 
+(Do not include information on study sites, investigators CVs, insurance, informed 
+consent procedures) 
+ 
+3.3.8 
+Summary of data on the product that support its clinical application in human subjects 
+ 
+3.3.9 
+List of questions or issues for discussion e.g.: 
+ 
+ 
+a.  Formulation issues 
+ 
+ 
+b.  Trial design 
+ 
+ 
+c.  Measures of efficacy and safety 
+ 
+ 
+d.  Target population in South Africa, and 
+ 
+ 
+e.  Proposed package inserts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-BIO-03_v3 
+Page 9 of 10
+Guideline for Pre-registration Consultation Meeting 
+15 September 2022 
+ 
+ 
+6. 
+CANCELLATION OF MEETING 
+6.1. The POC must clearly convey to the Applicant that all the pre-read meeting material 
+(Dossier) should be received not less than one (1) month prior to the scheduled meeting. 
+6.2. The applicant should also be notified that failure to submit adequate meeting materials by 
+the appropriate date could result in cancellation. 
+6.3. Meetings may be postponed or cancelled by either party based on sufficient cause.  All 
+parties need to be immediately notified and a cancellation notice shall be forwarded in 
+writing by e-mail via the CRO’s office. 
+7. 
+THE MEETING 
+7.1. The POC shall ensure that a clear agenda and adequate materials are available for the PRC meeting. 
+7.2. The agenda for the sponsor /applicant’s question and SAHPRA responses as generated in the 
+internal pre-meeting. 
+7.3. The meeting will begin with introductions. 
+7.4. The appointed meeting leader or rapporteur will keep the meeting to the agenda with 
+attention to the time allotted and summarize issues and /or agreement reached at the 
+conclusion of the meeting. 
+7.5. In order to decrease misunderstandings, it is strongly recommended that the last 5 – 10 
+minutes of the meeting be used to summarize agreements reached, advice provided, action 
+items, and unresolved issues. 
+7.6. 
+Minutes of the meeting. 
+7.6.1. The secretariat will not provide minutes of the meeting to the applicant but will retain 
+notes for own use as compiled by the POC. 
+7.6.2. The applicant takes minutes for own reference and also submit such to the POC for 
+approval as a true reflection of proceedings. 
+7.6.3. In exceptional cases, the Panel / Expert committee may need to respond to the applicant in 
+writing or in a follow-up meeting. Written material will take the form of an Expert Opinion or 
+Advisory Statement. 
+7.6.4. In the event of the Developer intending to submit a Clinical Trial Application to the CTC 
+following consultation with the PRC EC; the PRC EC report will be provided to CTC. 
+8. 
+REFERENCES 
+The following related documents are referenced: 
+8.1. Guidance for Industry.  Formal Meetings Between the FDA and Sponsors or Applicants 
+http://www.fda.gov/downloads/Drugs/Guidances/ucm153222.pdf 
+ 
+8.2. Formal FDA Meeting Request: Guidance and Template (contains further links to relevant FDA 
+guidance documents)  http://ictr.johnshopkins.edu/wp-content/uploads/import//1331- 
+FDA%20Formal%20Meeting%20Guidance%20and%20Template.pdf 
+ 
+8.3. Pre-IND Meeting Checklist (contains further links to relevant FDA guidance documents)  
+http://icahn.mssm.edu/static_files/MSSM/Files/Research/Resources/Office%20of%20Clinical%20Resea 
+SAHPGL-PEM-BIO-03_v3 
+Page 10 of 10
+Guideline for Pre-registration Consultation Meeting 
+15 September 2022 
+ 
+ 
+rch/PreIND-Meeting-Checklist.pdf 
+8.4. European Medicines Agency Guidance for Companies requesting Scientific Advice and Protocol 
+Assistance 
+http://www.ema.europa.eu/docs/en_GB/document_library/Regulatory_and_procedural_guideline
+/2009/1 0/WC500004089.pdf 
+ 
+http://www.ema.europa.eu/ema/index.jsp?curl=pages/regulation/general/general_content_00004
+9.jsp& mid=WC0b01ac05800229b9 
+ 
+8.5. CHMP <Protocol Assistance> <Scientific Advice> Briefing Document Template (18/06/2010) 
+Template letter of intent for request of scientific advice or protocol assistance(08/11/2012) 
+http://www.ema.europa.eu/docs/en_GB/document_library/Template_or_form/2009/11/WC50001
+1910.p df 
+9. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Biological Medicines Pre-reg Consultation Meeting, document number 2.39.  It will be reviewed on this 
+timeframe or as and when required. 
+

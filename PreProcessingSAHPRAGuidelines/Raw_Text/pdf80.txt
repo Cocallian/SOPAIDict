@@ -1,0 +1,632 @@
+SAHPGL-INSP-RC-01_v3 
+Page 1 of 14
+ 
+ 
+ 
+27 July 2023 
+GUIDELINES FOR POST-MARKETING SURVEILLANCE OF 
+MEDICINES AND HEALTH PRODUCTS 
+To develop a medicines and health products information data bank on quality of medicines and health products in circulation and 
+disseminate such information to stakeholders involved in the medicines and health products supply chain. 
+To promote communication and cooperation between stakeholders and partners involved in medicines and health products supply 
+chain. 
+To identify possible causes of inferior quality of specific medicines and health products to which patients are exposed. 
+To determine registration status of medicines and health products on the market and to assess the quality and safety of medicines 
+and health products on the market and conformity with acceptable specifications as published in an official Pharmacopeial monograph 
+or registration dossiers. 
+To evaluate the quality of selected medicines and health products available in the market in selected areas or regions at various levels 
+of the distribution / supply chain with the aim of assessing the exposure of patients to poor-quality medicines and health products 
+and proposing appropriate actions. 
+To compare the quality of domestically produced and imported medicines and health products in order to recommend appropriate 
+regulatory actions and adjust pharmaceutical policy. 
+To propose possible strategies and implementation plans to address the problems identified by the survey based on usage, 
+dissatisfaction or adverse events reported. 
+To test the quality of selected medicines and health products in order to support the Authority in identification of 
+manufacturers/importers that are not in compliance with quality standards and regulatory measures. 
+To combat the spread of counterfeit/substandard medicines and health products in South Africa. 
+To find out if, within a selected category of medicines and health products any spurious/falsely labelled/falsified/counterfeit products 
+have penetrated the market in selected areas or regions, what the possible health impacts may be for patients, and to propose possible 
+strategies and implementation plans to prevent harm to patients. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+First 
+issue, 
+public 
+comments 
+incorporated 
+and 
+published 
+for 
+implementation 
+30 October 2021 
+2 
+New template for guidelines and document number changed from 5.12 to 
+SAHPGL-INSP-RC-01 
+24 June 2022 
+3 
+− Content structured in accordance with latest Guideline Template 
+− Document title changed from Guideline for Market Surveillance of 
+Medicines to Guideline for Post-Marketing Surveillance of Medicines 
+and Health Products 
+− Non-technical amendments after implementation of the guideline 
+27 July 2023 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-INSP-RC-01_v3 
+Page 2 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 5 
+1.1 
+Purpose ...................................................................................................................................................... 6 
+1.2 
+Scope .......................................................................................................................................................... 6 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 6 
+3. 
+REQUIREMENTS FOR POST-MARKETING SURVEILLANCE........................................................................... 7 
+3.1 
+Identification and selection of medicines and health products to be monitored. .................................... 7 
+3.2 
+Selection of areas or regions to be sampled. ............................................................................................. 8 
+3.3 
+Types of sample collection sites ................................................................................................................. 9 
+3.4 
+Sampling Protocol .................................................................................................................................... 10 
+3.5 
+Sample Collectors ..................................................................................................................................... 12 
+3.6 
+Laboratory Testing ................................................................................................................................... 12 
+3.7 
+Evaluating Results and Report Preparation ............................................................................................. 12 
+3.8 
+Results dissemination ............................................................................................................................... 12 
+3.9 
+Enforcement ............................................................................................................................................. 12 
+3.10 Monitoring and Evaluation ....................................................................................................................... 13 
+4. 
+REFERENCES ............................................................................................................................................. 13 
+5. 
+VALIDITY ................................................................................................................................................... 14 
+ 
+ 
+ 
+ 
+SAHPGL-INSP-RC-01_v3 
+Page 3 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation / Term 
+Meaning 
+Authority 
+means the South African Health Products Regulatory Authority established by 
+section 2 
+Batch number 
+means distinctive combination of numbers and/or letters which uniquely 
+identifies a batch on the labels, its batch records and corresponding certificates 
+of analysis. 
+cGMP 
+Current Good Manufacturing Practice 
+Health Products (for the 
+purpose of this guideline) 
+includes medical devices, in-vitro diagnostic medical devices (IVDs), 
+complementary medicines, biologicals, vaccines, blood and blood products and 
+medical gases. 
+INSP 
+Inspectorate 
+INN 
+International Non-Proprietary  
+IVDs 
+In-vitro Diagnostic Medical Devices 
+IVDs 
+means a medical device, whether used alone or in combination, intended by 
+the manufacturer for the in vitro examination of specimens derived from the 
+human body solely or principally to provide information for diagnostic, 
+monitoring or compatibility purposes 
+Label 
+when used as a verb, means brand, mark or otherwise designate or describe, 
+and when used as a noun, means any brand or mark or any written, pictorial 
+or other descriptive matter appearing on or attached to or packed with and 
+referring to any article or the package containing any article 
+MCO 
+Medicines Control Officer 
+Medicine 
+any substance or mixture of substances used or purporting to be suitable for 
+use or manufactured or sold for use in— 
+(i) 
+the diagnosis, treatment, mitigation, modification or prevention of 
+disease,  abnormal physical or mental state or the symptoms thereof in 
+humans; or 
+(ii) 
+restoring, correcting or modifying any somatic or psychic or organic 
+function in humans, and  
+includes any veterinary medicine,  
+OOS 
+Out of Specification 
+PI 
+Professional Information 
+PIL 
+Patient Information Leaflet 
+SAHPGL-INSP-RC-01_v3 
+Page 4 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+Abbreviation / Term 
+Meaning 
+PMS 
+Post-Marketing Surveillance 
+Post-Marketing 
+Surveillance 
+Post Marketing Surveillance (PMS) refers to the practice of monitoring quality, 
+safety and efficacy of medicines after they have been registered, authorised 
+and released onto the market 
+QAS 
+Quality Assurance Sampling 
+RC 
+Regulatory Compliance 
+Risk assessment 
+means identifying and characterizing the nature, frequency, and severity of the 
+risks associated with the use of a product. Risk assessment occurs throughout 
+a product’s lifecycle, from the early identification of a product as a candidate, 
+through the pre-marketing development process, and after marketing. 
+SADC 
+Southern African Development Community 
+SAHPGL 
+SAHPRA Guideline 
+SAHPRA 
+South African Health Products Regulatory Authority 
+Sample 
+means number of units (i.e. same product name, manufacturer, dosage form, 
+package size, packaging material and strength) representing the same batch 
+and collected at the same location/outlet. 
+Sampling 
+means is the process of selecting units (e.g., batch, people, organizations) from 
+a population of interest so that by studying the sample we may fairly generalize 
+our results back to the population from which they were chosen. 
+SF 
+Substandard and/or Falsified Medicines  
+The Medicines Act 
+Medicines and Related Substances Act, 1965 (Act 101 of 1965), as amended 
+TMDA 
+Tanzania Medicines and Medical Device Authority 
+Vigilance 
+in relation to a medicine, medical device or IVD, means the continuous 
+monitoring and evaluation of its safety, efficacy and performance profile and 
+the management of any risk throughout its life-cycle 
+WHO 
+World Health Organisation 
+ZAZIBONA 
+Collaborative registration initiative which includes Zambia, Zimbabwe, 
+Botswana and Namibia 
+ 
+ 
+SAHPGL-INSP-RC-01_v3 
+Page 5 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+1. 
+INTRODUCTION 
+This document pertains to the objectives and processes for Post Marketing Surveillance (PMS) for medicines 
+and health products conducted by the South African Health Products Regulatory Authority (SAHPRA) in 
+collaboration with other stakeholders. The role of other stakeholders will be determined by SAHPRA. It 
+describes the measures taken to ensure the ongoing compliance of medicines and health products with the 
+requirements for safety, quality, and performance after they are placed on the market. 
+All regulatory systems recognize the importance of quality medicines and health products. There are several 
+factors that may lead to medicines not fully complying with quality requirements and specifications. Those 
+factors may include manufacturing processes, transportation, storage, distribution, handling and dispensing to 
+patients. 
+South Africa imports numerous medicines and health products and thus imposes a risk of substandard and/ or 
+falsified medicines and health products (SF). This may allow unsafe and ineffective medicines and health 
+products on the market resulting from inadequate enforcement, existence of unofficial ports of entry, 
+unscrupulous dealers, inadequate cooperation and support from other law enforcement agencies and failure 
+of manufacturers to comply with Current Good Manufacturing Practices (cGMP) requirements. This may pose 
+risks to public health and consequently lead to significant increase in morbidity and mortality rates. It thus 
+necessitates the existence of a surveillance system to continuously monitor quality, safety and effectiveness 
+of medicines and health products circulating on the market. 
+PMS refers to the practice of monitoring quality, safety and efficacy of medicines and health products after 
+they have been registered and released onto the market. SAHPRA has been implementing its regulatory 
+strategies aiming at ensuring that medicines and health products which are being circulated and used in South 
+Africa are of good quality, safety and efficacy as well as performing adequately to protect and promote public 
+health. SAHPRA has developed these guidelines to guide the stakeholders in the medicines and health products 
+supply chain on how the SAHPRA PMS program for monitoring purposes will be conducted. Adherence to these 
+guidelines may lead to effective and functional surveillance systems that will increase confidence of the public 
+and lead to the existence of a cost-effective program. 
+SAHPRA conducts the PMS program through planning of sampling, sample collection, analysis and reporting. 
+The program review may be necessitated by changes in applicable laws and regulations governing SAHPRA 
+when the need arises. 
+SAHPGL-INSP-RC-01_v3 
+Page 6 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+1.1 
+Purpose 
+The Guideline outlines requirements that should be met in PMS. This PMS guideline deals with: 
+• 
+the identification and selection of medicines and health products to be monitored;  
+• 
+consideration of geographical coverage; 
+• 
+consideration of facilities to sample from; 
+• 
+development of sampling plan; 
+• 
+development of PMS protocol; 
+• 
+training of sample collectors; 
+• 
+sample collection; 
+• 
+sample testing;  
+• 
+evaluation of the label, Professional Information (PI) and Patient Information Leaflet (PIL); 
+• 
+report Out of Specification (OOS) testing results and non-conformances of label, PI and PIL to 
+Holder of the Certificate of Registration (HCR) and relevant SAHPRA unit; 
+• 
+enforcement; and 
+• 
+monitoring and evaluation. 
+1.2 
+Scope 
+Medicines include both human and veterinary medicines, and the surveillance may also include the 
+following health products: medical devices, in-vitro diagnostic medical devices (IVDs), complementary 
+medicines, biologicals, vaccines, blood and blood products and medical gases. 
+This guideline applies to imported or locally manufactured medicines and health products. 
+Coverage may also include certain public and private organizations and health facilities to include all levels 
+in the supply chain. 
+2. 
+LEGAL PROVISION 
+SAHPGL-INSP-RC-01_v3 
+Page 7 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+The Medicines and Related Substances Act, 1965 (Act 101 of 1965), as amended (hereinafter ‘The Medicines 
+Act’) makes provision for performing PMS in terms of Section 2B(1)(d) and Section 35(1)(xiii) which states: 
+Section 2B Functions of Authority 
+(1) 
+The Authority must, in order to achieve its objects— 
+d) ensure that evidence of existing and new adverse events, interactions, information with regard to post-
+marketing surveillance and vigilance is being monitored, analyzed and acted upon. 
+Section 35. Regulations 
+(1) 
+The Minister may, in consultation with the Authority, make regulations— 
+(xiii) relating to the responsibilities of both medical device and In-vitro Diagnostic (IVD) establishments 
+and users of medical devices and IVDs, in relation to the use, training, maintenance, calibration, 
+post-marketing surveillance, sterilization, disinfection, recall, decomposition, decommissioning or 
+decontamination of medical devices and IVDs. 
+3. 
+REQUIREMENTS FOR POST-MARKETING SURVEILLANCE 
+3.1 
+Identification and selection of medicines and health products to be monitored. 
+Identification and selection of medicines and health products to be monitored is one of the most important 
+steps in the preparation of the PMS program. Identification and selection shall be driven by the set 
+objectives and public health considerations. The potential public health impact of poor-quality medicines 
+and health products should also be a key guide for selection. In either case the program should indicate 
+criteria used in identification and selection of medicines and health products to be monitored. During 
+identification and selection, the following may be considered: 
+a) 
+Source of information such as: experience from inspection activities, dossier assessment, laboratory 
+analysis, vigilance activities, medicines and health products information or public health programs; 
+pharmacists and other healthcare professionals; 
+i. 
+Previous surveillance reports, published studies, scientific literatures; 
+ii. 
+Consumer complaints; 
+iii. Supplier performance; 
+SAHPGL-INSP-RC-01_v3 
+Page 8 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+iv. Importation data; and 
+v. 
+List of registered and unregistered medicines and health products authorized under certain 
+conditions (e.g. donation). 
+b) 
+Selection criteria may include but not limited to: 
+i. 
+Medicines and health products that are used for treating diseases of economic importance;  
+ii. 
+Medicines and health products for diseases of common occurrence in certain regions; 
+iii. Medicines and health products for priority endemic diseases; 
+iv. Medicines and health products for common chronic diseases or life-threatening illnesses; 
+v. 
+Medicines and health products which have indicated poor quality performance; 
+vi. Medicines and health products which are used by a specific at-risk group i.e., pregnant women, 
+paediatric and geriatric; 
+vii. Medicines and health products which are prone to resistance due to non-adherence; 
+viii. First line medicines and health products with complicated dosage regimen; 
+ix. Medicines and health products which require prolonged administration to a larger population 
+and several of them are used in combination; 
+x. 
+Medicines and health products that are candidates for counterfeiting; and 
+xi. Medicines and health products which are potentially dangerous, unstable, or difficult to 
+formulate. 
+c) 
+Selection of medicines and health products during protocol development. 
+Following identification of the medicine(s) and/ or health product(s) type as indicated in section 
+above, a medicine and/ or health product risk evaluation may be used in identification of specific 
+medicine(s) and/ or health product(s) to be collected in the specific PMS protocol. 
+3.2 
+Selection of areas or regions to be sampled. 
+A number of different geographical areas should be sampled unless the objectives expressly justify targeting 
+SAHPGL-INSP-RC-01_v3 
+Page 9 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+only one area. Samples should be collected in various locations, as situations in rural and suburban areas 
+often differ. Risk-based approaches may be applied to target sampling to specific geographical areas. 
+Depending on the surveillance objectives, the following criteria may be considered when selecting areas to 
+be surveyed: 
+a) 
+Population density; 
+b) 
+Incidence or prevalence of the disease for which the target medicines or health products are 
+indicated; 
+c) 
+Degree of urbanization;  
+d) 
+Income level of the population in the target area; 
+e) 
+Areas with complex distribution systems; 
+f) 
+Areas with outlets selling predominantly unregistered and/or unauthorized medicines and health 
+products; 
+g) 
+Regions and districts bordering other countries; 
+h) 
+Regions and districts that are not frequently inspected; 
+i) 
+Areas with high trends of quality problems (including major towns and centres); and 
+j) 
+Areas with high prevalence of diseases related to products being monitored. 
+3.3 
+Types of sample collection sites 
+During the planning stage, the type of sample collection sites will be reflected in the PMS Program, an 
+example is included below: 
+a) 
+Level 1 – points of entry to the market e.g., warehouses of pharmaceuticals importers 
+[manufacturers] and other facilities supplied directly within various programs; 
+b) 
+Level 2 – pharmaceuticals wholesalers and/ or distributors; 
+c) 
+Level 3 – retail pharmacies and other regulated dispensing facilities, hospitals, health centres, 
+dispensaries clinics, polyclinics and any other health facilities; 
+d) 
+Level 4 –formal retail outlets (including supermarkets) and the selling of medicines and/ or health 
+SAHPGL-INSP-RC-01_v3 
+Page 10 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+products outside the pharmaceutical distribution system including street vendors; and 
+e) 
+Level 5 – informal outlet selling medicines and/ or health products outside the approved distribution 
+system including street vendors. 
+3.4 
+Sampling Protocol 
+PMS Protocol will include a well-designed sampling plan that contains information such as name(s) of the 
+samples to be collected; unit pack; dosage form; strength; category; number of brands (containing the 
+identified International Non-Proprietary (INN) substance(s) to be collected; number of units per sample, 
+sampling site information and number of batches to be collected per each brand). The following should be 
+taken into consideration during the preparation of a sampling protocol: 
+a) 
+Identification of sample collection sites (regions/ districts & level); 
+b) 
+Priority products or categories of medicines and/ or health products to be sampled; 
+c) 
+Only facilities that potentially have targeted medicines and/ or health products for surveillance 
+should be included in the facilities list that will undergo risk scoring (if a medicine and/ or health 
+product is available only in the public sector all facilities in the private sector will be excluded). 
+d) 
+Samples to be taken close to the point of use of the products; 
+e) 
+Samples to be taken from each of the identified facilities (different levels of supply chain);  
+f) 
+Define a timeframe for sampling phase; 
+g) 
+Define and approve budget;  
+h) 
+The protocol should inform the type of test(s) required. This will inform the minimum quantity of 
+sample to be collected (number of units per sample); 
+i) 
+The protocol should include the testing scope of the medicines and/ or health products; 
+j) 
+Appropriate arrangement with the approved laboratory which will perform testing of products 
+should be done in the planning stage; 
+k) 
+Medicines and/ or health products selection: 
+Sample size needed and a number of units needed; 
+SAHPGL-INSP-RC-01_v3 
+Page 11 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+l) 
+Facilities for sample collection: 
+i. 
+Geographical Areas risk; and 
+ii. 
+Facility risk. 
+m) 
+Sampling plan:  
+i. 
+Randomized list of facilities for sampling and substitution list; 
+ii. 
+Name of medicines and/or health products to be collected at the facility; 
+iii. Number of units to be collected per sample; 
+iv. Storage and handling requirements during sample collection; 
+v. 
+Transportation to laboratories; and 
+vi. Sampling design. 
+n) 
+Testing Plan: 
+i. 
+What tests are recommended for PMS; 
+ii. 
+Screening method if available; 
+iii. What methods for testing; 
+iv. Risk-based approach - and expectations; and 
+v. 
+Laboratory testing and timelines. 
+o) 
+Evaluation of the printed packaging material by SAHPRA Medicines Control Officer (MCO) in terms of 
+the approved label, PI and PIL per the registration dossier as well as to the provisions of the Medicines 
+Act and the relevant Regulations 10, 11 & 12 and Guidelines SAHPGL-CEM-02 Guideline for 
+Professional Information for Human Medicines (Categories A and D) and SAHGL-CEM-03 Guideline 
+for Patient Information Leaflet for Human Medicines (Categories A and D); and 
+p) 
+Evaluating Results and Report Preparation. 
+SAHPGL-INSP-RC-01_v3 
+Page 12 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+3.5 
+Sample Collectors 
+Samples will be collected by trained SAHPRA officials.  
+3.6 
+Laboratory Testing 
+a) 
+A suitably World Health Organization (WHO) prequalified, or ISO 17025 certified laboratory shall be 
+used for all tests.  
+b) 
+The specific tests to be carried out will depend on the medicines and/ or health products collected 
+and the specific objectives of the survey. 
+c) 
+An official monograph will be used whenever needed. The method described in the dossier may be 
+used for products containing substances or combinations thereof that do not have an official 
+monograph available. 
+d) 
+Pharmacopoeia Standard according to WHO recognized and/ or validated method of analysis for new 
+molecules shall be used. 
+3.7 
+Evaluating Results and Report Preparation 
+a) 
+The results would be evaluated by experts. 
+b) 
+Report shall be prepared, approved and published. 
+3.8 
+Results dissemination 
+a) 
+A publication of PMS report shall be shared with the relevant stakeholders. 
+b) 
+The information should be made available to the public e.g., through reports, SAHPRA website, 
+conference and when applicable in academic journals. 
+c) 
+The information may also be shared with other regulatory agencies, reliance partners, WHO and 
+harmonization initiatives within ZAZIBONA (Collaborative registration initiative which includes 
+Zambia, Zimbabwe, Botswana and Namibia) and Southern African Development Community (SADC). 
+3.9 
+Enforcement 
+a) 
+The objective of PMS is to determine the quality of medicines and/or health products and adherence 
+to the legally set standards. Every PMS report should contain a summary of the results and 
+recommendations. 
+b) 
+The Authority will take necessary legal actions to protect the public. Based on benefit vs risk and 
+SAHPGL-INSP-RC-01_v3 
+Page 13 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+proportionate to the risk, the Authority will implement appropriate action from administrative 
+corrective action with monitoring. The enforcement will include but not limited to: 
+i. 
+Close monitoring of medicines and/or health products with relevant communication, risk 
+management and reporting in accordance with Section 2B(1)(e) of the Medicines Act; 
+ii. 
+Withdrawal of medicines and/or health products in accordance with SAHPGL-INSP-RC-05 
+Guideline for medicine recalls/ withdrawal and rapid alerts; 
+iii. Recall of batches in accordance with Regulation 22(4)(i) and SAHPGL-INSP-RC-05 Guideline for 
+medicine recalls/ withdrawal and rapid alerts; 
+iv. Cancellation of registration of medicines and/or health products in accordance with Section 
+16(1)-(4) of the Medicines Act; 
+v. 
+Suspend the 22C licence of the Applicant/HCR in accordance with Section 22E(2)(a) of the 
+Medicines Act for such period the Director-General or the Authority may determine; 
+vi. Revoke the 22C licence of the Applicant/HCR in accordance with Section 22E(2)(b) of the 
+Medicines Act; 
+vii. Institution of disciplinary proceedings as per Law and impose penalties as set out in Section 
+30(1)-(4) of the Medicines Act for offences as set out in Section 29(a)-(m) of the same Act; 
+viii. Any other applicable legislative action(s). 
+3.10 Monitoring and Evaluation 
+Monitoring and Evaluation is important to assess program effectiveness and performance. This will be done 
+through SAHPRA processes. 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+TMDA. 
+(2019, 
+July). 
+Post-Market 
+Surveillance 
+of 
+Medicines. 
+Retrieved 
+from 
+https://www.tmda.go.tz/pages/post-marketing-surveillance-of-medicines  
+4.2 
+WHO. (2015, June). Guidelines on the conduct of surveys of the quality of medicines QAS/15.630. 
+Retrieved from https://www.who.int/publications/m/item/qas-15.630  
+SAHPGL-INSP-RC-01_v3 
+Page 14 of 14
+Guideline for Post-Marketing Surveillance of Medicines and Health Products 
+27 July 2023 
+ 
+ 
+4.3 
+Medicines and Related Substances Act 101 of 1965, as amended. 
+4.4 
+Department of Health (South Africa).  2017.  Medicines and Related Substances Act, 1965 (Act no. 
+101 of 1965): General Regulations.  (Notice 859). Government Gazette, 41064:47, 25 August. 
+4.5 
+SAHPGL-CEM-02 (Latest version) Guideline for Professional Information for Human Medicines 
+(Categories A and D). 
+4.6 
+SAHGL-CEM-03 (Latest version) Guideline for Patient Information Leaflet for Human Medicines 
+(Categories A and D). 
+4.7 
+SAHPGL-INSP-RC-05 (Latest version) Guideline for medicine recalls/ withdrawal and rapid alerts. 
+4.8 
+SAHPGL-PEM—BIO-06 (Latest version) General Guidance Document on Quality, Safety and Efficacy 
+requirements for Biological Medicines. 
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old Guidelines 
+for Market Surveillance of Medicines, version 2. It will be reviewed on this timeframe or as and when required. 
+

@@ -1,0 +1,2773 @@
+SAHPGL-RDN-XR-01_v1 
+Page 1 of 37
+ 
+ 
+ 
+29 August 2022 
+GUIDELINES ON REQUIREMENTS FOR LICENCE HOLDERS WITH RESPECT 
+TO QUALITY CONTROL TESTS FOR MEDICAL DIAGNOSTIC X-RAY 
+IMAGING SYSTEMS  
+The South African Health Products Authority (SAHPRA) is the regulatory authority of South Africa responsible for the 
+regulation of health products intended for human and animal use; amongst others, radiation emitting devices and 
+radioactive nuclides. 
+This guideline sets out requirements with respect to quality control tests for radiation safety associated with the use of 
+medical diagnostic x-ray equipment to promulgate the Hazardous Substances Act, 1973 (Act 15 of 1973) and Regulations 
+(No R1332 of 3 August 1973). 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+April 2015 
+1 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-XR-01 allocated to this 
+Guideline 
+September 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 2 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical 
+Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary .............................................................................................................................................................. 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+GENERAL REQUIREMENTS ......................................................................................................................... 4 
+3.1 The Licence Holder shall: ........................................................................................................................... 4 
+4. 
+TABLE 1 INDIVIDUAL EQUIPMENT RECORD (IER) - (see also section VI) ................................................... 8 
+5. 
+TABLE 2 ACCEPTANCE AND ROUTINE QUALITY CONTROL TESTS 37 ......................................................... 9 
+6. 
+Table 3 & Table 4 (HVL values and Minimum requirements for monitors) ............................................. 29 
+7. 
+TABLE 5  DIAGNOSTIC REFERENCE LEVELS ............................................................................................... 30 
+8. 
+EXAMPLE OF A FORM THAT SHOULD BE INCLUDED IN IER ...................................................................... 32 
+9. 
+TEST GUIDELINES ..................................................................................................................................... 34 
+10. REFERENCES ............................................................................................................................................. 34 
+11 VALIDITY ................................................................................................................................................... 37 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 3 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical 
+Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+AAPM 
+American Association of Physicists in Medicine 
+AEC 
+Automatic Exposure Control 
+ALARA 
+As low as reasonably achievable 
+BIR 
+British Institute of Radiology 
+CR 
+Computed Radiographs 
+CT 
+Computed Tomography 
+DAP 
+Dose area Product 
+DDR 
+Direct Digital Radiograph  
+DOH 
+  
+Department of Health 
+DRL 
+Diagnostic reference levels 
+HVL 
+Half Value Layer 
+IB 
+Inspection Body 
+IER 
+Individual Equipment Record 
+IPEM 
+Institute Of Physics and Engineering in Medicine 
+NCRP 
+National Council on Radiation Protection and measurement 
+QA 
+Quality Assurance 
+QC 
+Quality Control 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SANAS 
+South African National Accreditation Standards 
+ 
+ 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 4 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical 
+Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+The goal of quality assurance is to improve patient care. quality control (QC) refers to the specific test required 
+to ensure effective and safe equipment performance. QC tests check the performance of the equipment under 
+routine clinical conditions, following established protocols for facilities, equipment, and procedures. 
+It is important to properly perform acceptance tests for image quality and safety purposes right after the 
+installation and during routine operation of a diagnostic x-ray device. Having a quality control (QC) program for 
+facilities operating medical X-Ray diagnostic device will ensure that patients are not receiving excessive radiation 
+during their examination. 
+1.1 
+Purpose 
+The purpose of this diagnostic quality control requirements document is to set the general requirements and 
+type of tests to be performed on acceptance and routinely on the various devices.  
+1.2 
+Scope 
+The guideline is reference document for licenced Inspection bodies who performs the quality control tests on 
+a regular basis as per their scope and for licence holders who performs certain test as stipulated below. 
+2. 
+LEGAL PROVISION 
+The Regulations R1332 of the hazardous substances act 15 of 1973; requires that a joint product and premises 
+licence be obtained for X-ray equipment before it may be installed and commissioned. 
+a) 
+ Licences are not transferable and are issued: To a specific person or institution; For specific equipment 
+and its application, and 
+b) 
+ For a specific premise. 
+It is the responsibility of the prospective user of an x-ray unit to be in possession of a licence from the regulator 
+prior to installation of the unit. Practitioners may be assisted by the supplier of the equipment in this process. 
+3. 
+GENERAL REQUIREMENTS 
+3.1 
+The Licence Holder shall: 
+3.1.1 
+Display the product licence number (see list of licences from Department of Health (DoH)) on 
+equipment.  
+3.1.1.1 See table 1 (row c) for which equipment this is a requirement. 
+SAHPGL-RDN-XR-01_v1 
+Page 5 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical 
+Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+3.1.2 
+Compile an Individual Equipment Record (IER) containing the information as listed in table1 (column 
+2) (see also section 7.1). 
+3.1.3 
+Perform the prescribed Acceptance- and Quality Control (QC) tests listed in table 2 by:30 31  
+3.1.3.1 An Inspection Body (IB) approved by the Department of Health (DoH) OR an appropriately 
+trained professional registered with the HPCSA as a medical physicist (see 3.2.) must be used 
+to perform all the acceptance tests as well as the routine tests listed in section III.2 of table 
+2. 
+3.1.3.2 If a medical physicist is used to perform the tests in 3.1, an Inspection Body approved by the 
+Department of Health (DoH) must formally contract such person(s). Formally contracted 
+means that the medical physicist is contracted by the IB (ISO/IEC 17020 and TR78) to 
+perform the tests. 
+3.1.4 
+Acquire the relevant quality control manuals or compile in-house written protocols, which describe 
+each test step by step to ensure that QC tests listed in section III.1 of table 2 are correctly 
+performed. 
+3.1.5 
+Ensure that persons that perform routine tests in section III.1 of table 2 are competent to execute 
+the tests; 
+3.1.6 
+Ensure that the required acceptance tests are performed before the diagnostic x-ray equipment 
+listed in table 2 is put into clinical service when: 
+3.1.6.1 Acquired or 
+3.1.6.2 Substantially upgraded. 
+• 
+Acceptance tests are the initial tests performed directly after installation and before 
+the equipment is being put into clinical service. 
+3.1.7 
+Ensure that all the quality control tests are performed at the prescribed frequencies as specified in 
+table 2. 
+3.1.7.1 QC tests may be performed more frequently than specified in table 2, influenced by the age, 
+stability, make, model, etc., of the equipment. 
+3.1.8 
+Ensure that image display monitors and reporting monitors comply with the requirements in section 
+V (Table 4, page 27) of this document. 
+3.1.9 
+Establish a program to ensure that the radiation dose administered to a patient for diagnostic 
+purposes is optimised (see bottom of table 4, page 27 for definition of optimisation). Such program 
+must at least use the measurements under tests 37, 76, 146, 161 and 185 to determine whether 
+radiation protection has been optimised. 
+3.1.9.1 Measurements (test results) for tests 37, 76, 146, 161 and 185 must be evaluated at the 
+SAHPGL-RDN-XR-01_v1 
+Page 6 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical 
+Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+prescribed frequencies. The following documents can be used as guidance documents for 
+establishment of Diagnostic Reference Levels (DRLs) and for comparisons 3 27 28 29 Inter unit 
+comparisons must also be performed. 
+3.1.9.2 A medical physicist must be appointed in writing to establish and implement an optimisation 
+program for Interventional Radiology procedures listed in section III.2.15.4.1. This 
+optimisation program must amongst other include the establishment of Diagnostic 
+Reference Levels (DRLs). The appointed medical physicist must audit and review the 
+optimisation program on a twelve-monthly cycle. 
+3.1.9.2.1 
+The tasks of the appointed medical physicist shall at least include the following but 
+not limited to: 
+3.1.9.2.1.1 Implementation of procedures in establishment and use of DRLs; 
+3.1.9.2.1.2 Investigate and review the program when DRLs are consistently exceeded 
+and ensure that corrective action is taken where appropriate. 
+3.1.9.2.1.3 Provide suitable training to theatre staff to achieve optimisation and such 
+training must be documented. 
+3.1.9.2.1.4 Assist with the investigations of over exposure to theatre staff. 
+3.1.9.2.1.5 Developing a local clinical protocol for each type of interventional procedure 
+and each x-ray unit, and this protocol must at least 38 include the following: 
+3.1.9.2.1.5.1 
+A statement on the ‘expected’ radiographic images including:  
+3.1.9.2.1.5.1.1 Projections; and technique factors, and 
+3.1.9.2.1.5.2 
+The ‘nominal’ values for: 
+3.1.9.2.1.5.2.1 Fluoroscopy times and DAP readings / or dose; and air kerma 
+rates; and resulting cumulative dose at each skin site exposed, 
+and 
+3.1.9.2.1.6 Any other tasks that could be included under optimisation and protection of 
+staff against unnecessary exposure to ionising radiation. 
+3.1.10 Keep a copy of the results of the tests mentioned in section f and g of table 1 for as long as the 
+equipment is in use and ensure that the following information is available: 
+3.1.10.1 The measurements (raw data), Date of test(s), Summary of the results (pass or fail), 
+Identification of product, Details of the person(s) that performed the tests, and Details of 
+the Inspection Body. 
+SAHPGL-RDN-XR-01_v1 
+Page 7 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical 
+Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+3.1.11 Report to the Director: Radiation Control if any one or more of the following conditions (trigger 
+values or trigger events) are observed: 
+3.1.11.1 Kerma-Air Product is greater than 500 Gy.cm2 per patient 
+3.1.11.2 Cumulative Dose at interventional reference point Ka,r is greater than 5 Gy per patient 
+3.1.11.3 A radiation injury is observed. 
+3.1.11.4 An unprescribed or erroneously prescribed procedure is performed, and 
+3.1.11.5 The patient is pregnant, and the pregnancy is unknown at the time of the procedure. 
+3.2 
+If the licence holder can provide sufficient proof that all QC tests as listed in Table 2 were performed 
+on general diagnostic imaging equipment under his control for the last two years, such licence holder 
+may apply to the Directorate; Radiation Control that the12 month QC test cycle be extended to a 24-
+month cycle (Equipment excluded is: Mammography, Fluoroscopy, Computed Tomography, and x-ray 
+units installed in vehicles). This provision will be cancelled with immediate effect if full compliance with 
+the requirements in this document is not maintained. 
+ 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 8 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+4. 
+TABLE 1 INDIVIDUAL EQUIPMENT RECORD (IER) - (see also section VI) 
+General 
+Radiography 
+Equipment 
+Processor & 
+Hardcopy 
+device 
+CR 
+Reader 
+DDR 
+System 
+Film 
+Viewer 
+Reporting 
+Monitor 
+Fluoroscopy 
+Equipment 
+Computed 
+Tomography 
+Equipment 
+Mammography 
+Equipment 
+a) 
+Unit - make, model and system ID 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+b) 
+Generator – make, model and serial number 
+X 
+X 
+X 
+X 
+c) 
+Product Licence number, date of the latest licence & 
+reference where a copy of the licence is kept 
+X 
+X 
+X 
+X 
+X 
+d) 
+Date of installation 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+e) 
+Operator’s manual – (Indication that the operator’s manual is 
+available and reference where it is kept) 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+f) 
+Results of acceptance tests 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+g) 
+Results of routine quality control tests 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+h) 
+Date(s) of tube replacement(s) 
+X 
+X 
+X 
+X 
+i) 
+Details of repairs/maintenance and/or modification(s). The 
+licence holder must ensure that all the applicable test(s) are 
+performed that could be affected by the aforementioned 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+j) 
+Should any of the tests in table 2 indicate non-compliance or 
+should any problems be detected (indicated), the licence 
+holder must implement corrective maintenance (repairs), 
+followed by re-testing 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+k) 
+Details of the IB and person(s) that performed the test(s) 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+ 
+The following documents can be used as guidance documents for purchasing of test quipment or1, 5, 6, 7, 10, 12, 16, 17 & 23    or alternatively ask the IB. 
+ 
+For guidelines on what tests should be performed for an application see section VII. 
+ 
+For new equipment acceptance tests is the responsibility of the company that installed the equipment. 
+ 
+1 The X in each cell for each category of equipment (column 3 to 11), indicates which information must be available in the IER. 
+SAHPGL-RDN-XR-01_v1 
+Page 9 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+5. 
+TABLE 2 ACCEPTANCE AND ROUTINE QUALITY CONTROL TESTS 37 
+ 
+III.1. Routine Tests in this section are to be performed by the licence holder or person(s) appointed by the licence holder and Acceptance Tests in this section must be performed by an Inspection Body 
+approved by SAHPRA: Radiation Control. 
+Physical parameter (required test) 
+Frequency 
+Standard 
+Reference 
+III.1.1.  General Tests 
+1. 
+Indicators, mechanical and other safety checks & warm-up 
+On acceptance & Daily 
+Results must be documented at least once every 3 months 
+page 30 5 
+2. 
+Gonad shields, lead rubber aprons and gloves 
+3 monthly 
+Available and free from holes or cracks (Visual check and if suspect perform an x-ray test) 
+3. 
+Appropriate technique chart displayed at x-ray unit 
+6 monthly 
+Available, applicable and compliant with ALARA principle 
+III.1.2.  X-ray Tubes and Generators 
+4. 
+Alignment of the centre of the X-ray field and the centre of the bucky 
+On acceptance & 3 monthly 
+Deviation must be 
+±1 cm @1m SID 
+RAD03 10 & (A2.1, A2.2) 5 
+5. 
+The X-ray field dimensions in the plane of the image receptor must 
+correspond with those indicated by the beam-limiting device 
+On acceptance & 3 monthly 
+Deviation must be 
+±1 cm @1m SID 
+RAD04 10 & (A2.1, A2.2) 5 
+6. 
+Congruence between the X-ray field and light field 
+On acceptance & 3 monthly 
+For any one side deviation must be 
+±1 cm misalignment 
+@1 m SID 
+RAD01 10 & (A2.1, A2.2) 5 
+7. 
+X-ray/light beam centring 
+On acceptance & 3 monthly 
+Deviation must be 
+±1 cm @1m SID 
+RAD02 10 & (A2.1, A2.2) 5 
+8. 
+Alignment and collimation to film changer / bucky 
+On acceptance & 6 monthly 
+Any side ±1 cm @1m 
+RAD06 10 & (A2.1, A2.2) 5 
+III.1.2.1. 
+Automatic Exposure Control (AEC) Device 
+9. 
+Constancy (reproducibility) (test all chambers) 
+At 4 months intervals 
+between annual tests 
+Baseline 
+ 20% mAs  or  if  mAs  readout  not  available, 
+Baseline 
+0.3 OD (use baseline of test 86 or 87) 
+(A4.2 or A4.1) 5 
+ 
+ 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 10 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+III.1.3.  Processor Monitoring 
+Tests must be performed before diagnostic films are processed. All measurements must be plotted on graph paper (Ref 15) 
+10. 
+Processing temperature 
+Daily 
+Baseline ± 1ºC 
+IFSP01 
+10 
+& (D1) 
+5
+ 
+11. 
+Base + Fog (B+F) 
+Daily 
+Variance 
++0.03 OD. Maximum OD 
+0.3 
+FSP02 
+10 
+& 
+17
+ 
+12. 
+Mid-density (MD) step (speed index) 
+Daily 
+Variance 
+± 0.15 OD 
+FSP03 
+10 
+& 
+17
+ 
+13. 
+Density difference (DD) (contrast index) 
+Daily 
+Variance 
+± 0.15 OD 
+FSP04 
+10 
+& 
+17
+ 
+III.1.4.  Intensifying Screens and Darkroom 
+14. 
+Cleanliness of darkroom and screens 
+Written protocol for maintaining darkroom cleanliness, cassettes and screens clean, free from blemishes 
+15. 
+Condition of cassettes and screens 
+12 monthly 
+Screen type, speed and date of installation 
+Identification (cassette no.) and light tightness 
+FSP08 
+10 
+(B1& B3) 
+5
+& 
+17
+ 
+, 
+16. 
+Darkroom fog 
+Acceptance & 6 monthly & 
+when fault reported 
+Density difference 
+0.05 for 2 minutes 
+(C1 & C2) 
+5
+& 
+17
+ 
+17. 
+Relative speed of intensifying screens 
+Before initial use & 
+24 monthly 
+Baseline minus 10% 
+FSP09 
+10 
+& 
+17
+ 
+2 & 12 
+III.1.5.  CR Reader 
+18. 
+Detector dose indicator monitoring (exposure index monitoring) 
+On acceptance & 3 monthly 
+Baseline ± 20% 
+CR01 10 
+5 
+12.2 
+, (K1)
+& (1)
+19. 
+Image uniformity 
+On acceptance & 3 monthly 
+Free from dots and lines 
+CR02 
+10 
+& (2) 
+12.2
+ 
+20. 
+Condition of cassettes and image plates 
+Supplier’s recommendation 
+Free of dirt or damage 
+CR03 
+10 
+& Supplier’s 
+maintenance manual 
+21. 
+Test is not required – see test 93 
+10 
+12.2 
+CR04
+& (3)
+22. 
+Test is not required – see test 95 
+CR05 10 
+12.2 
+& (4)
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 11 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+III.1.5.1. 
+AEC Device 
+23. 
+Sensitivity 
+On acceptance & 3 monthly Baseline ± 30% 
+CR14 10 & (K5) 5 
+III.1.6.  DDR System 
+24. 
+Detector dose indicator monitoring 
+On acceptance & 3 monthly Baseline ± 20% 
+DDR01 10 & (1) 12.4 
+25. 
+Image uniformity 
+On acceptance & 3 monthly Lines or rectangles not apparent 
+DDR02 10 & (2) 12.4 
+26. 
+Test is not required – see test 106 
+DDR03 10 & (3) 12.4 
+III.1.6.1. 
+AEC Device 
+27. 
+Sensitivity 
+On acceptance & 3 monthly Baseline ± 25% 
+DDR13 10 & (K5) 5 
+III.1.7.  Film Viewing 
+28. 
+Film viewer condition 
+6 monthly 
+Perceived brightness, colours and must be clean 
+and uniformlyilluminated
+DD01 10 & (M1) 5 
+III.1.8.  Image Display Monitor & Reporting Monitor2 
+29. 
+a) Condition of Image Display Monitor 
+b) Condition of Reporting Monitor – Each reporting monitor 
+must be labelled ―REPORTING MONITOR‖ 
+) At least 6 monthly. 
+) On acceptance & as 
+required or at least 
+weekly
+) Image display monitors should be clean & free from 
+flicker 
+) Reporting monitors should be clean, and the 
+perceived contrast of the test pattern should be
+IDD06 10 & Use SMPTE 
+or TG1818 
+30. 
+Test is not required – see test 119.2 
+IPEM 91 IDD07& TG 18 
+2 Reporting monitors refer to primary display systems used for the interpretation of medical images – i.e. excludes systems used by general medical staff & specialists after a report has been 
+provided as well as operators’ consoles, QC workstations and monitors used with fluoroscopy units, which are all classified as Display monitors (page 49 10) 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 12 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+31. 
+Distance and angle calibration (Comment: This test is intended for 
+applications where measurements of distance and angle are performed 
+using image display monitor & diagnostic workstation) 
+On acceptance & 3 monthly 
+± 5 mm 
+± 3˚ (degrees) 
+IDD08 
+10
+ 
+32. 
+Reporting monitors – Resolution 
+On acceptance & 3 monthly 
+Visual inspection of SMPTE or TG18-QC. Review both low contrast 
+and high contrast resolution patterns. Check resolution at centre 
+and periphery is consistent and similar to baseline image. Must be 
+visible
+IDD09 
+10 
+& SMPTE or 
+TG18
+18
+ 
+III.1.9.  Hardcopy Device (Only applicable if prints are used for reporting (interpretation of medical images)) 
+33. 
+Self – calibration 
+On acceptance & Weekly 
+Manufacturer’s specification 
+IDD15 
+10 
+& (N1) 
+5
+ 
+34. 
+Optical density consistency 
+On acceptance & 3 monthly 
+Baseline OD ± 0.20 
+IDD16 
+10 
+& (N2) 
+5
+ 
+35. 
+Image quality 
+On acceptance & 3 monthly 
+Based on visual inspection 
+IDD17 
+10 
+& (N3) 
+5
+ 
+III.1.10. Reject Analysis 
+36. 
+Reject analysis - Digital: Must use software supplied by vendor or 
+implement effective procedure (general radiography) 
+3 monthly 
+May  not  increase  with  more  than  2%  from  the  previous 
+determined rate and total rate should not exceed 10% 
+For film Screen use (Ch 2) 
+5
+ 
+(4 10)
+7 
+&
+17
+III.1.11. Fluoroscopy Equipment 
+37. 
+Fixed fluoroscopic x-ray units must be equipped with a Dose Area Product (DAP) meter or a device that provide a dose read-out during fluoroscopy. DAP readings or dose read-out must be recorded in a book/register. 
+The book/register must include the procedure, date of procedure, patient details, operator, specialist performing the procedure, the total dose (DAP reading/or dose) and the total fluoroscopy time. For each 
+procedure in section III.2.15.4 the average DAP reading / average dose and average time must be calculated for a 12 month cycle by the licence holder and be recorded (see also test 216). 
+38. 
+Radiation warning light at entrance, excluding theatres 
+On acceptance & Daily 
+Must work when beam is activated 
+39. 
+Dose rate reproducibility under automatic exposure control 
+On acceptance & 3 monthly 
+Baseline  
+25% (Use water container filled with water – 
+approximately 30 cm x 30cm wide and 20cm thick) 
+FLU01 
+10 
+& ( H3) 
+5
+ 
+III.1.11.1. 
+Fluorography (For this section use IPEM Report 77) 
+40. 
+Dose per frame reproducibility under automatic exposure control 
+On acceptance & 3 monthly 
+Baseline 
+25% (For equipment with DAP meter) 
+9 
+& (B I1.1) 
+5
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 13 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+41. 
+Resultant film density 
+On acceptance & 3 monthly 
+Baseline           0.3 OD (Optical density) 
+9 
+& (B I1.2) 
+5
+ 
+42. 
+Film density reproducibility 
+On acceptance & 3 monthly 
+Baseline            0.3 OD 
+9 
+& (B I1.3) 
+5
+ 
+III.1.11.2. 
+Digital Fluorography 
+43. 
+Test is not required – see test 137 
+FLG01 
+10
+ 
+44. 
+Test is not required – see test 138 
+FLG02 
+10
+ 
+45. 
+Test is not required – see test 139.1 
+10 
+FLG03
+III.1.12. Computed Tomography 
+46. 
+Indicators, radiation warning light at entrance, mechanical and other safety 
+checks 
+On acceptance & Daily 
+Must work properly 
+47. 
+Image noise 
+On acceptance & Daily 
+Baseline ± 10% 
+CT01 
+10 
+& (B J1) 
+5
+ 
+48. 
+CT number values 
+On acceptance & Daily 
+Water baseline ± 5 HU. Other material: baseline ± 10 HU 
+CT02 
+10 
+& (B J2) 
+5
+ 
+49. 
+Scan plane localisation from alignment lights 
+On acceptance & 3 monthly 
+± 2 mm 
+CT03 
+10 
+& (3.5.1) 
+18
+ 
+III.1.13. Screen Film Mammography - For this section use ACR manual 4OR 6 Or as a guideline 
+50. 
+Image quality evaluation (phantom images) 
+Weekly 
+At a minimum, the 4 largest fibers, the 3 largest speck groups, and the 3 
+largest masses must be visible. The background optical density must be 
+at least 1.4 and the density difference should be at least 0.4 for a 4-mm thick 
+acrylic disk. 
+Maximum allowable changes are: mAs ± 15%; background density ± 0.2; 
+density difference ± 0.05; fiber, speck groups or mass score decrease by 
+0.5. (Check manual for correct procedure) 
+Page 167 4 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 14 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+51. 
+Compression 
+On acceptance & 6 monthly 
+The maximum compression force must be between 111 Newton (11.3 
+kg) and 200 Newton (20.4 kg) 
+page 199 4 
+52. 
+Repeat and reject analysis 
+3 monthly 
+May not increase with more than 2% from the previous determined rate 
+and total rate shall not exceed 5% 
+page 202 4 , (Chapter 
+2) 
+5 
+& (4.10) 
+7
+ 
+53. 
+Accuracy of stereotactic device 
+On acceptance & Weekly or as 
+used 
+Errors of 
+1mm in X or Y or 
+3mm in Z 
+MAM10 
+10 
+& 
+page 118 
+11
+ 
+54. 
+Appropriate exposure technique chart (automatic and manual 
+exposures) displayed near the control panel of the unit 
+6 monthly 
+Available and applicable 
+page 145 4 
+55. 
+Analysis of fixer retention in film 
+6 monthly 
+The residual fixer retention shall be 
+5 micrograms per square cm 
+page 210 4 
+6 & 35 
+III.1.14. Digital Mammography - For this section use European guidelines for quality assurance in breast cancer screening and diagnosis 
+56. 
+Repeat and reject analysis 
+3 monthly 
+May not increase with more than 2% from the previous determined rate 
+and total rate shall not exceed 5% 
+(Chapter 2) 
+5
+ 
+page 202 4 & (4.10) 
+6
+ 
+57. 
+AEC device: 
+Long term reproducibility 
+On acceptance & weekly 
+Variation of SNR in the reference ROI and dose < ± 10%. 
+2b.2.1.3.4 6 & 
+0604 
+14
+ 
+58. 
+Image receptor homogeneity 
+On acceptance & Weekly 
+Variation in mean pixel value < ± 15% (on images); Maximum deviation 
+in SNR < ± 15% of mean SNR (on images); Maximum variation of the 
+mean SNR between weekly images ≤± 10% (between images); Entrance 
+surface air kerma OR tube loading (mAs) between weekly images ≤ ± 
+10% 
+2b.2.2.3. 6 & 
+(7.2.3) 
+23
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 15 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+59. 
+Image quality evaluation (phantom images – RMI 156) 
+Weekly 
+At a minimum, the 5 largest fibers, the 4 largest speck groups, 
+and the 4 largest masses must be visible. The background 
+optical density must be at least 1.4 for hard copy. 
+Maximum allowable changes are: mAs 10% (EI tolerances for 
+CR see table 7 of Ref 21); fiber, speck groups or mass score 
+d
+b
+0
+(Ch
+k
+l f
+d
+)
+d
+page 167 4 & 
+(7.2.4) 23 
+60. 
+Uncorrected defective detector elements (DR systems) 
+On acceptance & Weekly 
+Limits of the manufacturer. 
+2b.2.2.3.3 6 
+61. 
+Monitors: Geometrical distortion (CRT displays) 
+On acceptance & Daily 
+Borders should be completely visible, lines should be 
+straight, and the active display area should be centred on 
+2b.4.1.2 6 
+62. 
+Monitors: Contrast visibility 
+On acceptance & Daily 
+All corner patches shall be visible; the 5% and 95% pixel 
+value squares shall be clearly visible. 
+2b.4.1.3 6 
+63. 
+Monitors: Display artefacts 
+On acceptance & Daily 
+No disturbing artefacts should be visible. 
+2b.4.1.5 6 
+64. 
+Printers: 
+Geometrical distortion 
+On acceptance & Daily 
+Borders should be completely visible, lines should be straight. 
+2b.4.2.1 6 
+65. 
+Printers: 
+Contrast visibility 
+On acceptance & Daily 
+All corner patches should be visible; the 5% and 95% pixel 
+value squares should be clearly visible. 
+2b.4.2.2 6 
+66. 
+Printers: 
+Printer artefacts 
+Daily 
+No disturbing artefacts should be visible. 
+2b.4.2.4 6 
+ 
+ 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 16 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+15 
+III.1.15. Small Field Digital Mammography System 
+67. 
+Image quality evaluation (phantom images – RMI 156S) 
+Weekly (at least) or before 
+use 
+At a minimum, the 3 largest fibers, the 3 largest speck groups, and the 2.5 
+largest masses must be visible. The background optical density must be at 
+least 1.4 for hard copy. 
+Maximum allowable changes are: mAs 10% (EI tolerances for CR see table 
+7 of Ref 21); background density variation if hardcopy is produced is   0.2; 
+fiber, speck groups or mass score decrease by 
+0.5 (Check manual for correct procedure). 
+page 167 4 & 
+(7.2.4) 
+23
+ 
+68. 
+Accuracy of stereotactic device 
+On acceptance & Weekly or as 
+used 
+Errors of 
+1mm in X or Y or 
+3mm in Z 
+MAM10 
+10 
+& 
+page 118 
+11
+ 
+11 
+III.1.16. Additional tests for mobile Mammography Systems 
+69. 
+Must ensure that all freely moveable objects/equipment are firmly 
+locked or strapped down 
+Before moving 
+par 5.5.1 
+11
+ 
+70. 
+Perform visual check of breast support and associated equipment for 
+possible damage 
+After moving 
+par 5.5.2 
+11
+ 
+71. 
+Compression device 
+After moving 
+Mechanical function and safety aspects must be checked 
+72. 
+Alignment of x-ray beam to image receptor 
+After moving 
+For screen film see tests 149, 150 & 151 of this document; For 
+digital see test 166 of this document 
+73. 
+AEC system 
+After moving 
+For screen film see tests 153 & 154 of this document; For 
+digital see test 57 and 173 of this document 
+74. 
+Image quality 
+After moving 
+For screen film see test 50 of this document; For 
+digital see test 59 of this document 
+ 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 17 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+III.2. 
+Acceptance tests and Routine tests listed in this section must be performed by an Inspection Body (IB) approved by the Department of Health 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+III.2.1.  General Tests 
+75. 
+Safety of premises – On acceptance, when the workload increase or 
+technique factors change that may jeopardise premises safety 
+On acceptance & changes 
+that jeopardise safety 
+Controlled areas 
+5mSv/year, for uncontrolled areas 
+1mSv/year 
+NCRP 147 
+13  21
+ 
+& 
+76. 
+Entrance Surface Exposure (ESE) in air without backscatter for Chest, 
+Lumbar Spine, Abdomen, Skull and Foot (ANSI phantom) 
+For Paediatric – Perform measurements without phantom and on 
+manual setting (technique factors used by radiographer) 
+See section III.2.15.1 page 28 
+First set of ESE results must be 
+reported after 12 months 
+& thereafter every 24 months 
+ESE shall be evaluated in accordance with the guideline 
+For Paediatric measurements the detector must be positioned at table 
+to detector distance (TDD) – See section III.2.15.1 page 28 
+(IB report results on Electronic Submission) 
+Patient Dose 
+Measurements 
+16
+ 
+i 
+Paediatric, Table 19, 
+Page 97 36 
+III.2.2.  X-ray Tubes and Generators 
+77. 
+Accuracy of the source (focal spot)-to-image distance (SID) 
+indicators 
+On acceptance & 12 monthly 
+The difference between the indicated focus to film distance (FFD) and 
+the actual FFD must be 
+2% 
+RAD05 
+10 
+& 
+par 3.4 
+7
+ 
+78. 
+Brightness of the light field, which defines the x-ray field. 
+On acceptance & 12 monthly 
+Average illuminance must be 
+100 lux at 100 centimetres or at the 
+maximum FFD, whichever is less 
+par 2.11 
+7
+ 
+79. 
+Radiation output: repeatability 
+On acceptance & 12 monthly 
+Mean ± 10% 
+RAD09 
+10
+ 
+80. 
+Radiation output: reproducibility 
+On acceptance & 12 monthly 
+Baseline ± 20% 
+RAD10 
+10
+ 
+81. 
+The accuracy of the timer for different settings 
+On acceptance & 12 monthly 
+Manufacturers’ specifications for specific model or if not available 10% 
+RAD11 
+10
+ 
+82. 
+The accuracy of the kV for different settings 
+On acceptance & 12 monthly 
+Manufacturers’ specifications for specific model or if not available 10% 
+RAD12 
+10
+ 
+83. 
+Beam quality (half value layer (HVL)) 
+On acceptance & Only to be 
+tested when the x-ray tube or 
+collimator is replaced 
+See section IV table 3 
+par 2.3 
+7
+ 
+84. 
+Leakage radiation from the diagnostic source assembly (x-ray tube) 
+Acceptance, tube replacement 
+or after intervention of tube 
+housing. 
+< 1 mGy in 1 hour at 1 m from the focus 
+Tube leakage 
+20
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 18 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+III.2.2.1. 
+Automatic Exposure Control (AEC) Device 
+85. 
+Consistency between chambers 
+On acceptance & 12 monthly Mean ± 0.3 OD 
+FSP 14 10 
+86. 
+Repeatability (post-exposure mAs readout available, if 
+not perform 87) (86 or 87) 
+On acceptance & 12 monthly Mean ± 20% 
+FSP15 10 
+87. 
+Repeatability 
+On acceptance & 12 monthly Mean ± 0.2 OD 
+FSP16 10 
+88. 
+Reproducibility (test all chambers) (as FSP13 but for 
+different technique values – more extensive) 
+On acceptance & 12 monthly Baseline 
+0.3 OD 
+FSP17 10 
+89. 
+Image receptor dose 
+On acceptance & 12 monthly Baseline ± 30% 
+FSP18 10 
+III.2.3.  CR Reader (see also Ref 1.1 & KCARE (Ref 10)) 
+90. 
+Detector dose indicator repeatability 
+On acceptance & 12 monthly Baseline ± 10% 
+CR06 10 
+91. 
+Detector dose indicator reproducibility 
+On acceptance & 12 monthly Baseline ± 20% 
+CR07 10 
+92. 
+Measured uniformity 
+On acceptance & 12 monthly Mean ± 10% 
+CR08 10 
+93. 
+Threshold contrast detailed detectability 
+On acceptance & 12 monthly See comments CR09 
+CR09 10 
+94. 
+Erasure cycle efficiency 
+On acceptance & 12 monthly Blocker not visible in second image 
+CR10 10 
+95. 
+Limiting spatial resolution 
+On acceptance & 12 monthly Baseline minus 25% 
+CR11 10 
+96. 
+Scaling errors 
+On acceptance & 12 monthly 
+2% 
+CR12 10 
+97. 
+Dark Noise 
+On acceptance & 12 monthly Baseline + 50% 
+CR13 10 
+III.2.3.1. 
+AEC Device 
+98. 
+Consistency between chambers 
+(Sensitivity / reproducibility) 
+On acceptance & 12 monthly Baseline ± 30% 
+Mean ± 20% 
+CR16 10 
+99. 
+Repeatability 
+On acceptance & 12 monthly Mean ± 20% 
+CR17 10 
+SAHPGL-RDN-XR-01_v1 
+Page 19 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+100. 
+Reproducibility 
+On acceptance & 12 monthly 
+Baseline ± 30% 
+CR18 10 
+101. 
+Image receptor dose 
+On acceptance & 12 monthly 
+Baseline ± 30% 
+CR19 10 
+III.2.4.  DDR System (KCARE 10) 
+102. 
+Test not required - see 107 
+DDR04 10 
+103. 
+Detector dose indicator repeatability 
+On acceptance & 12 monthly 
+Baseline ± 10% 
+DDR05 10 
+104. 
+Detector dose indicator reproducibility 
+On acceptance & 12 monthly 
+Baseline ± 20% 
+DDR06 10 
+105. 
+Measured uniformity 
+On acceptance & 12 monthly 
+Mean ± 5% 
+DDR07 10 
+106. 
+Threshold contrast detail detectability 
+On acceptance & 12 monthly 
+See comments in report 91 
+DDR08 10 
+107. 
+Limiting spatial resolution 
+On acceptance & 12 monthly 
+Baseline minus 25% 
+DDR09 10 
+108. 
+Uniformity of resolution 
+On acceptance & 12 monthly 
+No increase in blurring from baseline 
+DDR10 10 
+109. 
+Scaling errors 
+On acceptance & 12 monthly 
+2% 
+DDR11 10 
+110. 
+Dark noise 
+On acceptance & 12 monthly 
+Baseline ± 50% 
+DDR12 10 
+III.2.4.1. 
+AEC Device 
+111. 
+Consistency between chambers (sensitivity reproducibility) 
+On acceptance & 12 monthly 
+Baseline ± 30% 
+Mean ± 20% 
+DDR15 10 
+112. 
+Repeatability 
+On acceptance & 12 monthly 
+Mean ± 20% 
+DDR16 10 
+113. 
+Reproducibility 
+On acceptance & 12 monthly 
+Baseline ± 30% 
+DDR17 10 
+SAHPGL-RDN-XR-01_v1 
+Page 20 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+114. 
+Image receptor dose 
+On acceptance & 12 monthly 
+Baseline ± 30% 
+DDR18 10 
+III.2.5.  Film Viewing (Viewing boxes used for Reporting/Interpretation of medical images - see Chapter 7 of IPEM 91) & Film processing 
+115. 
+Film viewer luminance 
+On acceptance & 12 monthly 
+1500 cd/m2 for general radiography 
+IDD02 10 
+116. 
+Film viewer uniformity 
+On acceptance & 12 monthly 
+20% 
+IDD03 10 
+117. 
+Film viewer variation 
+On acceptance & 12 monthly 
+20% difference from the mean value in bank 
+IDD04 10 
+118. 
+Room illumination 
+On acceptance & 12 monthly 
+100 lux for general radiography 
+IDD05 10 
+118.1. 
+Film processing evaluation – STEP 
+12 monthly 
+Processing speed between 80% to 120% 
+STEP 25 
+III.2.6.  Reporting Monitor 
+119. 
+DICOM greyscale calibration 
+On acceptance & 12 monthly 
+GSDF ±10% 
+IDD11 10 
+119.1. Minimum requirements for monitors 
+On acceptance & 12 monthly 
+Comply with table 4 
+table 1 & 2 24 
+119.2. Reporting monitors – Greyscale (luminance response) 
+On acceptance & 12 monthly 
+Ratio white to black   250 
+IDD07 10   18 
+&
+120. 
+Luminance uniformity 
+On acceptance & 12 monthly 
+Maximum variation 30% 
+IDD12 10 
+121. 
+Variation between monitors 
+On acceptance & 12 monthly 
+30% 
+IDD13 10 
+122. 
+Room illumination 
+On acceptance & 12 monthly 
+15 lux for CRT displays & < 20 lux for LCD displays 
+IDD14 10 + test 190 
+III.2.7.  Fluoroscopy Equipment 
+123. 
+Display monitor set–up 
+On acceptance & 12 monthly 
+All steps visible and black/white circles 
+FLU02 10 
+124. 
+Minimum requirements for monitors 
+On acceptance & 12 monthly 
+Comply with table 4 
+24 
+125. 
+Test is not required – see test 130 
+IPEM 91 FLU04 & BIR (B, H2) 
+SAHPGL-RDN-XR-01_v1 
+Page 21 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+126. 
+Field limitation requirement. X-Ray field/Image intensifier 
+On acceptance & 12 monthly 
+The ratio of the areas 
+1.15. 
+FLU05 
+10
+ 
+127. 
+Dose rate at entrance surface of phantom 
+On acceptance & 12 monthly 
+50 mGy/min (entrance air kerma) and baseline    25% 
+FLU06 
+10
+ 
+128. 
+Entrance exposure rate to image intensifier 
+On acceptance & 12 monthly 
+Baseline    25% 
+FLU07 
+10
+ 
+129. 
+Limiting spatial resolution 
+On acceptance & 12 monthly 
+36-40 cm: ≥ 0.7 line pairs mm−¹; 30-35 cm: ≥ 0.8 line pairs mm−¹ 25-29 
+cm: ≥ 0.9 line pairs mm−¹; 20-24 cm: ≥ 1.0 line pairs mm−¹ 15-18 cm ≥ 
+1.25 line pairs mm−¹. 
+FLU09 
+10
+ 
+130. 
+Threshold contrast 
+On acceptance & 12 monthly 
+See comments Flu10 
+FLU10 
+10
+ 
+131. 
+Image resolution uniformity 
+On acceptance & 12 monthly 
+See Comments FLU11 
+FLU11 
+10
+ 
+132. 
+Calibration of Dose area product meter (DAP/KAP meter) or the device 
+that provides a dose read-out during fluoroscopy (total dose) 
+On acceptance & 12 monthly 
+Calibration of DAP/KAP meter or dose read out device according to 
+manufacturer’s specifications 
+(Page 336 – 340 ) 
+22
+ 
+III.2.7.1. 
+Fluorography 
+133. 
+Overall Image quality 
+On acceptance & 12 monthly 
+Manufacturer’s specifications for a specific model 
+(B I1.4) 
+5
+ 
+134. 
+Resultant film density 
+On acceptance & 12 monthly 
+Baseline   0.3 OD 
+( B I1.3) 
+5
+ 
+135. 
+Dose per frame at the input face of the image intensifier under 
+automatic exposure control 
+On acceptance & 12 monthly 
+Baseline 
+25% or 
+1   Gy per frame (Largest field) 
+(B I1.1) 
+5
+ 
+136. 
+Image quality: limiting spatial resolution 
+On acceptance & 12 monthly 
+1.6 line-pairs/mm for 30-35 cm systems; 2.5 line-pairs/mm for 23-25 cm 
+systems, and 3 line-pairs/mm for 15-18 cm systems. 
+(B I1.4) 
+5 
+& 
+9
+ 
+III.2.7.2. 
+Digital Fluorography 
+137. 
+Dose per image at the input face of the image receptor under 
+automatic exposure control 
+On acceptance & 12 monthly 
+Baseline ± 25 % 
+FLG04 
+10
+ 
+138. 
+Limiting spatial resolution 
+On acceptance & 12 monthly 
+Baseline reduced by 2 groups 
+FLG05 
+10
+ 
+139. 
+Dynamic range 
+On acceptance & 12 monthly 
+See Comments FLG07 
+FLG07 
+10
+ 
+139.1. 
+Threshold contrast 
+On acceptance & 12 monthly 
+Baseline ± 2 discs 
+FLG06 
+10
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 22 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+III.2.8.  Computed Tomography 
+140. 
+Image noise 
+On acceptance & 12 monthly 
+Baseline ± 10% Inter –slice variation; Mean ± 10% 
+CT06 10 
+141. 
+CT number values 
+On acceptance & 12 monthly 
+Water baseline ± 5 HU 
+Other materials: baseline ± 10HU 
+CT07 10 
+142. 
+CT number uniformity 
+On acceptance & 12 monthly 
+Head phantom:   ±10HU 
+Body phantom:   ±20HU 
+CT08 10 
+143. 
+High contrast spatial resolution 
+On acceptance & 12 monthly 
+Baseline ±20% 
+CT09 10 
+144. 
+Computed tomography dose index (CTDI) 
+On acceptance & 12 monthly 
+Baseline ±15% 
+CT10 10 
+145. 
+Image slice thickness 
+On acceptance & 12 monthly 
+Baseline ±20% or ± 1mm, whichever is greater 
+CT13 10 
+146. 
+CTDIvol for technique factors used for groups specified in section 
+III.2.15.3 page 28 
+On acceptance & 12 monthly 
+Reference dose - table 3 of reference 1.2 and reference 24 
+(IB report results on Electronic Submission) 
+CT11 10 
+4 
+III.2.9.  Screen Film Mammography 
+147. 
+Screen-film systems – Image receptors 
+On acceptance & 12 monthly 
+Must have image receptors of 18x24 cm and 24x30 cm with matching moving grids 
+148. 
+Assessment of locks, detents, angulation indicators, and mechanical 
+support devices for X-ray tube and image receptor holder assembly 
+On acceptance & 12 monthly 
+Must function properly 
+Page 231 4 
+149. 
+Collimation assessment: 
+Deviation between X-ray field and light 
+field 
+On acceptance & 12 monthly 
+The sum of left plus right edge deviations or anterior plus chest 
+edge deviations must be 
+2% of SID 
+Page 233 4 
+150. 
+Collimation assessment: 
+Deviation   between   X-ray   field   and 
+edges of the image receptor 
+On acceptance & 12 monthly 
+The X-ray field may not exceed the image receptor at any side by 
+more than 2% of SID and the X-ray field may not fall within the 
+image receptor on the chest wall side 
+Page 233 4 
+151. 
+Collimation assessment: 
+Alignment   of   chest-wall   edges   of 
+compression paddle and film 
+On acceptance & 12 monthly 
+The chest-wall edge of the compression paddle may not fall within 
+the image receptor or project beyond the chest-wall edge of the 
+image receptor by more than 1% of SID 
+Page 233 4 
+SAHPGL-RDN-XR-01_v1 
+Page 23 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+152. 
+Evaluation of system resolution 
+On acceptance & 12 monthly 
+The resolution with the bars parallel to the anode-cathode axis must be 13 line–
+pairs/mm or with the bars perpendicular to the anode-cathode axis must be
+ 
+11 line–pairs/mm 
+Page 238 4 
+153. 
+Automatic exposure control (AEC) system performance: 
+Thickness tracking, kVp tracking and image mode tracking 
+On acceptance & 12 monthly 
+Equipment sold prior to 01/01/2003: The AEC system must maintain the film 
+optical density within 0.3 of the mean when the thickness of the phantom is 
+varied over 2-6 cm and the kVp is varied over the range of those used clinically 
+for these thickness.  If this requirement cannot be met, a technique chart shall be 
+developed showing appropriate techniques (kVp and density control settings) for 
+different breast thickness and compositions that must be used so that optical 
+densities within 0.3 of the average can be produced under photo timed conditions. 
+Equipment sold after 01/01/2003: The AEC system must maintain the film optical 
+density within  0.15 of the mean when the thickness of the phantom is varied over 
+2-6 cm and the kVp is varied over the range of those used clinically for these 
+thickness. 
+Page 241 4 
+154. 
+Automatic exposure control (AEC) system performance: 
+Density control 
+On acceptance & 12 monthly 
+Each step (density setting) shall result in a 12-15% change in mAs, or 
+approximately a 0.15 change in film optical density 
+Page 241 4 
+155. 
+Uniformity of screen speed (for all cassette sizes) 
+On acceptance & 12 monthly 
+The standard deviation for the control cassette densities must be less than 
+0.05 and density range for all cassettes (of the same size) must be   0.30 
+Page 246 4 
+156. 
+Image quality evaluation 
+On acceptance & 12 monthly 
+At a minimum, the 4 largest fibers, the 3 largest speck groups, and the 3 largest 
+masses must be visible. The background optical density must be at least 1.4 and the 
+density difference should be at least 0.4 for a 4-mm thick acrylic disk. 
+Page 258 4 
+157. 
+Artefact evaluation 
+On acceptance & 12 monthly 
+No significant artefacts must be visible 
+Page 249 4 
+158. 
+kVp accuracy and reproducibility 
+On acceptance & 12 monthly 
+The mean kVp may not differ from the nominal kVp (set value) with more than   
+5%, or the coefficient of variation may not exceed 0.02 
+Page 271 4 
+159. 
+Beam quality (HVL) measurement 
+On acceptance & 12 monthly 
+The measured HVL must be kVp/100 (mm Al) (Please note 0.03 must be added when 
+filtration is performed with compression paddle (see page 275) of 1999 addition, ACR) 
+Page 273 4 
+SAHPGL-RDN-XR-01_v1 
+Page 24 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+A cceptance Standard 
+Refe 
+160. 
+AEC reproducibility 
+On acceptance & 12 monthly 
+The coefficient of variation 
+for R (exposure) or mAs must be 
+0.05 
+Page 2 77 4 
+161. 
+Average glandular dose 
+On acceptance & 12 monthly 
+The dose must be 
+300 mRad (3 mGy) for 4.2 cm effective breast 
+Page 2 
+thickness (IB report results on Electronic Submission) 
+77 4 
+162. 
+Radiation output rate 
+On acceptance & 12 monthly 
+The output must be 
+800 mR/s (7.0 mGy/s) at maximum SID 3 
+Page 2 77 4 
+163. 
+View box luminance, room illuminance and masking 
+On acceptance & 12 monthly 
+Luminance of the view box shall be 
+3000 cd/m2  and iluminance of the 
+Page 2 
+room shall be 
+50 lux  Viewboxes must be masked to the exposed area of 
+the film 
+86 4 
+III.2.10. DDR & CR Mammography 6&35 (Reference 35 must be consulted) 
+164. 
+Assessment of locks, detents, angulation indicators, and mechanical support devices 
+for X-ray tube and image receptor holder assembly 
+On acceptance & 12 monthly 
+Comply to par 8.2.1 of Ref 
+21 
+(8.2.1) 23 
+165. 
+X-ray source: 
+Source-to-image distance – Only if adjustable 
+On acceptance & 12 monthly 
+Manufacturers specificatio 
+n, typical 600-650 mm. 
+2b.2.1.1.2 6 
+166. 
+X-ray source: 
+Alignment of X-ray field/image receptor 
+On acceptance & 12 monthly 
+All sides: X-rays must cover the film by no more than 5 mm outside the 
+2b.2.1.1.3 6 
+film. On chest wall edge: distance between film edge and edge of the 
+bucky must be ≤ 5 mm. 
+167. 
+X-ray source: 
+Radiation leakage 
+On acceptance and afte 
+housing. 
+r intervention on the tube 
+≤ 1 mGy in 1 ho ur at 1 m  
+fr om the focus 
+2b.2.1.1.4 6 
+168. 
+X-ray source: 
+Tube output 
+On acceptance & 12 monthly 
+> 30 μGy/mAs at 1 metre 
+and > 70% of value at acceptance 
+2b.2.1.1.5 6 
+169. 
+Tube voltage reproducibility and accuracy 
+On acceptance & 12 monthly 
+Accuracy for the range of 
+Reproducibility < ± 0.5 kV 
+clinically used tube voltages: < ± 1 kV 
+2b.2.1.2.1 6 
+170. 
+Half Value Layer (HVL) 
+On acceptance and afte 
+housing. 
+r intervention on the tube 
+4th edition supplement stand 
+ard. 
+2b.2.1.2.2 35 
+ 
+ 
+3 Test 168 - Units manufactured after 01-01-2003. Units manufactured prior to 01-01-2003 and that do not comply may not be resold. 
+SAHPGL-RDN-XR-01_v1 
+Page 25 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+171. 
+AEC-system: 
+Optical density control setting: central value and 
+difference per step (if applicable) 
+On acceptance & 12 monthly 
+Measure increase in exposure per step and inform user - must be 
+displayed at technique chart 
+2b.2.1.3.1 6 
+35
+172. 
+AEC-system: 
+Short term reproducibility 
+On acceptance & 12 monthly 
+< ± 5% 
+2b.2.1.3.3 6 
+173. 
+AEC-system: 
+Object thickness and tube voltage compensation 
+On acceptance & 12 monthly 
+Thickness indicator < ± 0.5 cm and 4th edition supplement standard. 
+2b.2.1.3.5,6, 
+35 
+174. 
+Compression force 
+On acceptance & 12 monthly 
+130 - 200 N (13-20 kg) maintained unchanged for at least 1 minute and indicated 
+compression force should be within ± 20 N of the measured value 
+2b.2.1.4 6 
+175. 
+Compression plate alignment 
+On acceptance & 12 monthly 
+≤ 5 mm 
+2b.2.1.4 6& 
+(8.9) 
+23
+ 
+176. 
+Local dense area (only DR systems) 
+On acceptance & 12 monthly 
+The SNR of each image should be within 20% of the average SNR 
+2b.2.1.3.6 35 
+177. 
+Grid imaging 
+On acceptance & 12 monthly 
+No significant non uniformity 
+2b.2.1.5.2 6 
+178. 
+Image receptor response function 
+On acceptance & 12 monthly 
+R2 > 0.99, results at acceptance are used as reference. 
+2b.2.2.1.1 6 
+179. 
+Image receptor Noise evaluation 
+On acceptance & 12 monthly 
+Results at acceptance are used as reference 
+2b.2.2.1.2 6 
+180. 
+Missed tissue at chest wall side 
+On acceptance 
+Width of missed tissue at chest wall side ≤ 5 mm 
+2b.2.2.2 4 6 & 
+(8.9) 
+23
+ 
+181. 
+Image receptor homogeneity and Image receptor detector element 
+failure (DR systems) 
+On acceptance & 12 monthly 
+Variation in mean pixel value < ± 30% (on images); Maximum deviation in SNR < ± 
+15% of mean SNR (on images); Maximum variation of the mean SNR between 
+weekly images ≤± 10% (between images); Entrance surface air kerma OR tube 
+loading (mAs) between annual images ≤ ± 10% 
+Limits of the manufacturer.
+2b.2.2.3.1 35 
+& 2b.2.2.3.2 6 
+182. 
+Inter plate sensitivity variations (CR systems) 
+On acceptance & 12 monthly 
+SNR variation ≤ ± 10%. Variation in entrance surface air kerma OR tube loading 
+(mAs)≤± 10%, 
+2b.2.2.4 6, 35 
+SAHPGL-RDN-XR-01_v1 
+Page 26 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+183. 
+Influence of other sources of radiation (CR) 
+On acceptance 
+The coins should not be visible. 
+2b.2.2.5 6 
+184. 
+Fading of latent image (CR) 
+On acceptance 
+Results at acceptance are used as reference. 
+2b.2.2.6 6 
+185. 
+Dosimetry 
+On acceptance & 12 monthly 
+< 2.5 mGy for 4.5 cm PMMA - see 2a.2.5.1 for rest of values 
+(IB report results on Electronic Submission) 
+2b.2.3 6 
+186. 
+Threshold contrast visibility 
+On acceptance & 12 monthly 
+See table in 2b.2.4.1 for limiting values 
+2b.2.4.1 6 
+187. 
+Exposure time 
+On acceptance & 12 monthly 
+< 2 s 
+2b.2.4.3 6 
+188. 
+Geometric distortion and artefact evaluation 
+On acceptance & 12 monthly 
+No disturbing artefacts, no visible distortion. 
+2b.2.4.4 6 
+189. 
+Ghost image/erasure thoroughness 
+On acceptance & 12 monthly 
+―Ghost image‖-factor < 0.3 
+2b.2.4.5 6 
+190. 
+Monitors :   Ambient light 
+On acceptance & 12 monthly 
+< 10 lux for CRT displays & < 20 lux for LCD displays 
+2b.4.1.1 6 +35 
+191. 
+Monitors: 
+Resolution 
+On acceptance & 12 monthly 
+All line patterns should be discernible. 
+2b.4.1.4 6 
+192. 
+Monitors: 
+Luminance range: Maximum to minimum luminance ratio On acceptance & 12 monthly 
+Primary display devices ≥ 250 
+Secondary display devices ≥ 100; Displays belonging to one displaying 
+station should not exceed 5% of the lowest. 
+2b.4.1.6 6 
+193. 
+Monitors: 
+Greyscale Display Function 
+On acceptance & 12 monthly 
+<± 10% of the GSDF for primary class displays and 
+<± 20% of the GSDF for secondary class displays 
+2b.4.1.7 6 
+194. 
+Monitors: 
+Luminance uniformity 
+On acceptance & 12 monthly 
+Maximum luminance deviation of a display device should be less than 30% 
+for CRT displays and LCD displays ((Lmax-Lmin)/Lcentre < 0.3). 
+2b.4.1.8 6 
+195. 
+Printers: 
+Resolution 
+On acceptance 
+All line patterns should be discernible 
+2b.4.2.3 6 
+196. 
+Printers: 
+Greyscale Display Function 
+On acceptance & 12 monthly 
+The calculated contrast response should fall within ± 10% of the GSDF 
+contrast response. 
+2b.4.2.6 6 
+197. 
+Printers: 
+Density uniformity 
+On acceptance & 12 monthly 
+Maximum optical density deviation should be less than 10% ((Dmax- 
+Dmin)/Dcentre < 0.1) 
+2b.4.2.7 6 
+SAHPGL-RDN-XR-01_v1 
+Page 27 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+198. 
+Image quality evaluation (phantom images – RMI 156) 
+On acceptance & 12 monthly 
+At a minimum, the 5 largest fibers, the 4 largest speck groups, and the 4 
+largest masses must be visible. The background optical density must be at 
+least 1.4 for hard copy. 
+Maximum allowable changes are: mAs  10% (EI tolerances for CR see 
+table 7 of Ref 21); fiber, speck groups or mass score decrease by 0.5 and 
+there shall be no blotches, lines and bright or dark pixels (Ref 21 par 
+7.2.4.4 and 7.3.2) 
+Page 167 4& 
+23 
+199. 
+Viewing boxes 
+On acceptance & 12 monthly 
+If mammograms are read on printed images, use the method and 
+limiting values described in section 2a.2.4.1 
+2b.4.3 6 
+III.2.11. Small Field Digital Mammography System 15 
+200. 
+For dedicated small field digital imaging systems the applicable quality control tests specified in section III.2.10 and III.1.14 must be included. For image quality use RMI 156S phantom 
+201. 
+Beam alignment: Alignment of the light field to the x-ray field 
+On acceptance & 12 monthly 
+± 10 mm on all sides 
+3.1 15 
+202. 
+Beam alignment: Alignment of the x-ray field to the imaged field 
+On acceptance & 12 monthly 
+0 to + 10 mm on all sides 
+3.1.1 15 
+203. 
+Size of image field 
+On acceptance 
+Each dimension should be within 5% of specified value 
+3.1.2 15 
+204. 
+X-ray field non-uniformity 
+On acceptance & 12 monthly 
+Variation in pixel value ≤10% from the value measured in the centre of the 
+image 
+   
+3 2 15
+205. 
+Automatic exposure control: Overall repeatability 
+On acceptance & 12 monthly 
+Maximum deviation in mAs ≤ 5% from the mean 
+3.3.1 15 
+206. 
+Constancy with change in phantom thickness 
+On acceptance & 12 monthly 
+Maximum deviation in pixel values ≤ 10% of the mean 
+3.3.2 15 
+207. 
+Constancy with change in tube voltage 
+On acceptance & 12 monthly 
+Maximum deviation in pixel values should not exceed 10% of the mean 
+3.3.3 15 
+208. 
+Display devices: 
+Greyscale 
+On acceptance & 12 monthly 
+Monitor – 5% steps from 0% and 100% grey levels equally visible 
+Hardcopy – baseline greyscale step ±0.15 OD (±0.05 OD for minimum 
+density step) 
+3.4.1 15 
+209. 
+Display devices: 
+Resolution 
+On acceptance & 12 monthly 
+Frequency high contrast resolution pattern resolved 
+3.4.1 15 
+SAHPGL-RDN-XR-01_v1 
+Page 28 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+Table 2 Continued 
+Physical parameter (required test) 
+Frequency 
+Acceptance Standard 
+Reference 
+210. 
+Hardcopy printer: 
+Greyscale 
+On acceptance & 12 monthly 
+Greyscale must match the image display monitor and the greyscale steps 
+selected shall be within the following tolerances: 
+Step 1: ± 0.05; 
+Step 2: ± 0.15; 
+Step 3: ± 0.15 
+3.4.2 15 
+211. 
+Hardcopy printer: 
+Resolution 
+On acceptance & 12 monthly 
+Maximum frequency in the high contrast patterns should be resolved 
+3.4.2 15 
+212. 
+Image quality: 
+Limiting spatial resolution 
+On acceptance & 12 monthly 
+Should be at least 70% of the Nyquist frequency of the detector. Should be 
+at least 75% of the value determined at commissioning 
+3.5.1 15 
+213. 
+Image quality evaluation (phantom images – RMI 156S) 
+On acceptance & 12 monthly 
+≥ 3 largest fibers, ≥ 3 largest speck groups, and ≥ 2.5 largest masses be 
+visible. The background optical density ≥ 1.4 for hard copy. Maximum 
+allowable changes are: mAs   15%; fiber, speck groups or mass score 
+decrease by 0.5. 
+Page 167 4 
+214. 
+Measurement of dose: Dose to the standard breast at the clinical 
+setting 
+On acceptance & 12 monthly 
+Variation within ± 25% of value determined at commissioning and the dose 
+must be     3 mGy for 4.2 cm effective breast thickness 
+3.6.1 15 
+III.2.12. DRLs 
+215. 
+A Medical physicist is appointed in writing and an 
+optimisation program is implemented 
+12 monthly 
+Comply with requirements in paragraph I.A.9.1.1 
+216. 
+For each procedure in section III.2.15.4 the average DAP reading / 
+average dose and average time was calculated by licence holder, 
+documented and reported by IB 
+12 monthly 
+The Inspection Body must report these results on the Electronic 
+Submission 
+Fluoroscopy 
+27, 28 & 29 
+ 
+ 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 29 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+6. 
+Table 3 & Table 4 (HVL values and Minimum requirements for monitors) 
+ 
+III.2.13. TABLE 3 – HVL values 
+X-ray tube voltage (kilovolt peak) 
+71 
+80 
+90 
+100 
+110 
+120 
+130 
+140 
+150 
+150 
+Minimum HVL (mm of Al) 
+2.1 
+2.3 
+2.5 
+2.7 
+3.0 
+3.2 
+3.5 
+3.8 
+4.1 
+See note 2 
+Minimum HVL (mm of Al), manufactured after June 2006 
+2.5 
+2.9 
+3.2 
+3.6 
+3.9 
+4.3 
+4.7 
+5.0 
+5.4 
+1. HALF-VALUE LAYERS for intermediate selected voltages are to be obtained by linear interpolation. 
+2. Linear extrapolation is to be used. 
+III.2.14. Table 4 - MINIMUM REQUIREMENTS FOR MONITORS 24 
+Description and application 
+Monitors purchased on or after 1 March 2012 
+Licensed with Department of 
+Health as a medical device for 
+Minimu
+m 
+CE 
+medical 
+01.  Diagnostic (reporting) monitor used in mammography 
+Yes 
+5 Megapixel 
+Yes 
+02.  Diagnostic (reporting) monitor used in conventional radiology 
+Yes 
+3 Megapixel 
+Yes 
+03.  Diagnostic (reporting) monitor used in Computed Tomography 
+Yes 
+1.3 Megapixel 
+Yes 
+04. All monitors not covered under 01, 02 and 03 (e.g. Image display monitor not to be used 
+for diagnosis but images viewed only in conjunction with the report – ward, clinic, 
+theatre, etc; Workstations; Image review monitors (not used for immediate feedback 
+to clinical activity); 
+Fluoroscopy (production of dynamic x-ray images which are 
+No 
+1 Megapixel 
+Yes 
+ 
+1. Optimisation in diagnostic radiology means that equipment and methods must be selected to ensure that radiation administered to a patient for diagnostic 
+purposes, is sufficient to enable the procedure to provide the required information; and not greater than is necessary to provide that information. 
+All diagnostic image interpretation shall be performed by making use of the application software which includes, zoom, pan, magnification and windowing tools to optimise spatial and 
+contrast resolution. 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 30 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+7. 
+TABLE 1  DIAGNOSTIC REFERENCE LEVELS 
+ 
+III.2.15.1. 
+GENERAL RADIOGRAPHY 
+Report ESD per radiograph (mGy) as determined with test 76 
+250 
+Chest (PA) Grid 
+251 
+Abdomen (AP) Grid 
+252 
+Lumbar Spine (AP) Grid 
+253 
+Skull (Lateral) Grid 
+254 
+Foot - Non-grid 
+255 
+Chest 1 year (TDD 13 cm) 
+256 
+Abdomen 1 year (TDD 13 cm 
+257 
+Chest 5 year (TDD 15 cm) 
+258 
+Abdomen 5 year (TDD 15 cm) 
+259 
+Chest (PA) 10 year (TDD 16.8 cm) 
+260 
+Abdomen 10 year (TDD 16.8 cm) 
+III.2.15.2. 
+MAMMOGRAPHY 
+Report ESD per radiograph (mGy) as determined with test 161 & 185 – Dose values for a 4.5 cm phantom must be reported 
+261 
+Mammography Average glandular dose 
+III.2.15.3. 
+COMPUTED TOMOGRAPHY 
+Report average CTDIvol per examination (mGy) as determined with test 146 
+Paediatric is between 1 to 5 years. 
+262 
+Adult head 
+263 
+Adult chest 
+264 
+Adult abdomen-pelvis 
+265 
+IVP 
+266 
+Paediatric abdomen 
+267 
+Paediatric head 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 31 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+INTERVENTIONAL EXAMINATIONS 
+Ablation 
+III.2.15.4. 
+FLUOROSCOPIC  EXAMINATIONS 
+Report average DAP value per examination (Gy.cm2) and average fluoroscopy time per examination as determined with test 37 for each fixed fluoroscopic unit. Pediatric is between 1 to 5 years. The 
+correction factor as determined with test 132 must be used to correct all average values for reporting 
+282 
+Barium (or water soluble) swallow 
+283 
+Barium meal 
+284 
+Barium follow through 
+285 
+Barium (or water soluble) enema 
+286 
+Small bowel enema 
+287 
+MCU 
+288 
+MCU - Pediatric 
+ 
+Procedure Name 
+Also known as 
+Procedure Name 
+Also known as 
+289 
+Coronary Angiography 
+CA (Coronary Angiogram) / Cardiac Catheterization 
+290 
+Cerebral Angiography 
+Cerebral Angiogram / Neuro-Angiogram 
+291 
+Cerebral Angiography + Interventions 
+Neuro-Angiogram + Interventions 
+292 
+Renal Angiography 
+Renal Angiogram / Renal Arteriography 
+293 
+Peripheral Angiography 
+Peripheral Angiogram / Peripheral Anteriogram 
+294 
+CA + EPS 
+Coronary angiogram + Electro Physiology Study 
+295 
+Catheter Ablation - Radio Frequency / Cardiac RF ablation / 
+Radio Frequency ablation 
+296 
+CA + LV function 
+CA + LV function; Left Ventriculography 
+297 
+EPS 
+Electrophysiology Study 
+298 
+Pacemaker (Bi Vent) 
+Biventricular Pacemaker / CRT (Cardiac 
+Resynchronization Therapy) 
+299 
+CA + EPS + Ablation 
+CA + EPS + Catheter ablations 
+300 
+TAVI 
+Valve placement; Transcatheter Aortic Valve 
+Implantation 
+301 
+Pacemaker (Permanent) 
+Pacemaker/ PPM 
+302 
+Pediatric Diagnostic heart caths 
+Pediatric Diagnostic left & right heart catheters 
+303 
+EVAR 
+Endovascular Anuerysm Repair / Endovascular Aortic Repair 
+304 
+Femoral angiogram 
+ERCP (Endoscopic retrograde 
+305 
+Uterine Artery Embolisation (UAE) 
+306 
+Percutaneous transhepatic 
+cholangiopancreatography) 
+SAHPGL-RDN-XR-01_v1 
+Page 32 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+8. 
+EXAMPLE OF A FORM THAT SHOULD BE INCLUDED IN IER 
+ 
+A 
+UNIT PARTICULARS 
+DoH ref. no.: 
+Date of latest DoH document 
+Copy is available at: 
+Product Licence no.: 
+Appointed person responsible for QC tests: 
+Inspection Body4 : 
+X = Indicate Applicability 
+General 
+Radiography 
+Processor & 
+Hardcopy device 
+CR System 
+DDR System 
+Reporting 
+Monitor 
+Fluoroscopy 
+Equipment 
+CT 
+Mammo 
+Date of installation 
+Operator’s manual(s) is available 
+& Where is it kept? 
+Results of acceptance tests is available 
+& date 
+Date(s) of replacement(s) 
+/ Upgrading 
+B 
+COMPONENT PARTICULARS 
+Make 
+Model 
+ID number /Serial number 
+Unit - make, model and system ID 
+Generator 
+X-ray Tube(s) 
+Comments 
+SAHPGL-RDN-XR-01_v1 
+Page 33 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+C 
+TESTS APPLICABLE ON MACHINE 
+DoH Licence no. 
+Table 2 
+Section III.1 
+The licence holder must perform Routine Tests. 
+An Inspection Body must perform acceptance tests. 
+Table 2 
+Section III.2 
+An Inspection Body must perform acceptance tests and Routine 
+tests5. 
+Ref. No. 
+Physical parameter to be tested 
+X = Indicate 
+Applicability 
+Ref. No. 
+Physical parameter to be tested 
+X = Indicate 
+Applicability 
+III.1.1 
+General Tests 
+III.2.1 
+General Tests 
+III.1.2 
+X-Ray Tubes and Generators 
+III.2.2 
+X-Ray Tubes and Generators 
+III.1.2.1 
+Automatic Exposure Control (AEC) Device 
+III.2.2.1 
+Automatic Exposure Control (AEC) Device 
+III.1.3 
+Processor Monitoring 
+III.1.4 
+Intensifying Screens and Darkroom 
+III.1.5 
+CR Reader 
+III.2.3 
+CR Reader 
+III.1.5.1 
+AEC Device 
+III.2.3.1 
+AEC Device 
+III.1.6 
+DDR System 
+III.2.4 
+DDR System 
+III.1.6.1 
+AEC Device 
+III.2.4.1 
+AEC Device 
+III.1.7 
+Film Viewing 
+III.2.5 
+Film Viewing 
+III.1.8 
+Image Display Monitor 
+III.2.6 
+Image Display Monitor 
+III.1.9 
+Hardcopy Device 
+III.1.10 
+Repeat and Reject Analysis 
+III.1.11 
+Fluoroscopy Equipment 
+III.2.7 
+Fluoroscopy Equipment 
+III.1.11.1 
+Fluorography 
+III.2.7.1 
+Fluorography 
+III.1.11.2 
+Digital Fluorography 
+III.2.7.2 
+Digital Fluorography 
+III.1.12 
+Computed Tomography 
+III.2.8 
+Computed Tomography 
+III.1.13 
+Screen Film Mammography 
+III.2.9 
+Screen Film Mammography 
+III.1.14 
+Digital Mammography 
+III.2.10 
+Digital Mammography 
+III.1.15 
+Small Field Digital Mammography System 
+III.2.11 
+Small Field Digital Mammography System 
+III.1.16 
+Additional Tests for mobile Mammography 
+Systems 
+33 An Inspection Body is an organization that is accredited by SANAS (www.sanas.co.za) and approved by the SAHPRA RADIATION CONTROL 
+ 
+SAHPGL-RDN-XR-01_v1 
+Page 34 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical 
+Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+9. 
+TEST GUIDELINES 
+• 
+X-Ray Tubes and Generators – Conventional film systems; (tests 1-17, 28, 33-36, 75-89, 115-118 118.1); 
+• 
+Computerized Radiography Reader (tests 18-20, 23, 29-35, 90-101, 119-122); 
+• 
+Direct Digital Radiography System, (tests 1-8, 24-25, 27, 29-36, 75-84,102-114,119-122); 
+• 
+Fixed Fluoroscopy Equipment (tests 1-3, 37-42, 75, 79-84, 123-139.1, 215, 216); 
+• 
+Mobile Fluoroscopy and X-Ray Tubes and Generators (tests 1-3, 39, 79-84, 123-131, 137-139.1) 
+• 
+Computed Tomography (tests 1-3, 29-32, 36, 46-49, 75, 119-122, 140-146) 
+• 
+Screen film Mammography (tests 1,10-17, 28, 50-55, 69-75, 116-117, 118.1, 147-163) 
+• 
+Digital Mammography (tests 1, 56-75, 119-122, 164-214) 
+10. REFERENCES 
+References listed below can/should be used as guidelines. Purchasing of these documents is not a requirement. 
+Other sources could be consulted in obtaining the relevant information. 
+6.1 
+AAPM (American Association of Physicists in Medicine), Instrumentation Requirements of Diagnostic 
+Radiological Physicists, Report no. 60 www.aapm.org 
+6.2 
+AAPM , Report no 93, Acceptance Testing and Quality Control of Photostimulable Storage Phosphor Imaging 
+Systems, www.aapm.org 
+6.3 
+AAPM ,Reference Values for Diagnostic Radiology: Application and Impact; Gray, JE, Archer, BR, Butler, PF, et 
+al. Radiology 2005; 235: 354-358. Report of AAPM Task Group No. 7 (Reference Values for Diagnostic X-Ray 
+Examinations) of the Radiation Protection Committee, www.aapm.org 
+6.4 
+ACR (American College of Radiology), Mammography Quality Control Manual (1999) www.arc.org ACR 
+Store Quality and Safety Quality Control Manuals 
+6.5 
+BIR (British Institute of Radiology), Assurance of Quality in the Diagnostic Imaging Department 2nd Edition, 
+2001, http://www.bir.org.uk Publications Bookshop 
+6.6 
+European guidelines for quality assurance in breast cancer screening and diagnosis – fourth edition, 
+European Communities, 2006, www.google.co.za search for ISBN 92-79-01258-4 
+6.7 
+Imaging Quality Assurance Manual Published by the Radiation Safety Office for the University of Rochester 
+Medical Center, Revision 15 Dated 7/03/2014,  
+http://extranet.urmc.rochester.edu/radiationsafety/documents/QA_Manual.pdf 
+SAHPGL-RDN-XR-01_v1 
+Page 35 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical 
+Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+6.8 
+IMPACT, CT Scanner Acceptance Testing, www.impactscan.org Reports & info acceptance testing of CT 
+6.9 
+IPEM (Institute of Physics and Engineering in Medicine) 1997, Recommended Standards for the Routine 
+Performance Testing of Diagnostic X-ray Imaging Systems, Report no. 77, www.IPEM.org.uk 
+6.10 IPEM (Institute of Physics and Engineering in Medicine) 2005, Recommended Standards for the Routine 
+Performance Testing of Diagnostic X-ray Imaging Systems, Report no. 91, www.IPEM.org.uk 
+6.11 IPEM (Institute of Physics and Engineering in Medicine), Report 89, The Commissioning and Routine Testing 
+of Mammographic X-Ray Systems, www.IPEM.org.uk 
+6.12 KCARE; Protocols for QA of CR System – Routine and Annual; Protocols for QA of DDR Systems – Routine and 
+Annual, http://www.kcare.co.uk Education Protocols 
+6.12.1 CR system: Commissioning & Annual tests; 
+6.12.2 CR system: Routine QA tests; 
+6.12.3 DDR system: Commissioning & Annual tests, and 
+6.12.4 DDR system: Routine QA tests. 
+6.13 NCRP (National Council on Radiation Protection and Measurements) 2004, Structural Shielding Design for 
+Medical X-Ray Imaging Facilities, NCRP Report No.147, http://www.ncrponline.org 
+6.14 NHSBSP Equipment Report 0604, June 2006, Commissioning and Routine testing of full field digital 
+mammography systems, www.cancerscreening.nhs.uk Search this site for Report 0604 
+6.15 NHSBSP Equipment Report 0705, May 2007, Commissioning and Routine testing of small field digital 
+mammography systems, www.cancerscreening.nhs.uk Search this site for Report 0705 
+6.15.1 Quality Assurance Guidelines for Mammography Including Radiographic Quality Control, Publication 
+No 63, www.cancerscreening.nhs.uk Search this site for Quality Assurance Guidelines for 
+Mammography Including Radiographic 
+6.16 Patient Dose Measurements in Diagnostic Radiology https://sites.google.com/site/radiationcontroldoh/ 
+Electronic devices – Use Electronic devices - ionising radiation Guidelines 
+6.17 Test procedures for film processing and intensifying screens, 
+https://sites.google.com/site/radiationcontroldoh/ Electronic devices – Use Electronic devices - ionising 
+radiation Guidelines 
+6.18 TG18 by AAPM (American Association of Physicists in Medicine), Task Group 18, 
+SAHPGL-RDN-XR-01_v1 
+Page 36 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical 
+Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+http://deckard.mc.duke.edu/~samei/tg18 OR www.aapm.org Publications Reports OR-03 
+6.19 Measurement of the Performance Characteristics of Diagnostic X-Ray Systems: Digital Imaging Systems, 
+www.IPEM.org.uk 
+6.20 Tube leakage, https://sites.google.com/site/radiationcontroldoh/ Electronic devices – Use Electronic 
+devices - ionising radiation Guidelines 
+6.21 Shielding, https://sites.google.com/site/radiationcontroldoh/ Electronic devices – Use Electronic devices - 
+ionising radiation Guidelines 
+6.22 www-pub.iaea.org/MTCD/publications/PDF/TRS457_web.pdf    OR    http://www.radcal.com/PDC.html 
+6.23 Quality Assurance for Digital Mammography Programme, www.iaea.org/books look under Human Health 
+Series 
+6.24 Display considerations for hospital-wide viewing of soft copy images, DS Brettle, BJR, 80 (2007), 503-507, 
+https://sites.google.com/site/radiationcontroldoh/ ectronic devices – Use electronic 
+devices - ionising 
+radiation Guidelines 
+6.25 Sensitometric Technique for Evaluation of Processing (STEP), 
+https://sites.google.com/site/radiationcontroldoh/ Electronic devices – Use Electronic devices - ionising 
+radiation Guidelines 
+6.26 DRLs for adult and pediatric patients, https://sites.google.com/site/radiationcontroldoh/ Electronic devices 
+– Use Electronic devices - ionising radiation Diagnostic Reference Levels DRLs 
+tables; 
+6.27 IPEM 2004, Guidance on the Establishment and Use of Diagnostic Reference Levels for Medical X-Ray 
+Examinations, Report no. 88, www.IPEM.org.uk 
+6.28 NCRP Report no. 172, Reference Levels and Achievable Doses in Medical and Dental Imaging: 
+Recommendations for the United States 
+6.29 ARPANSA - Diagnostic Reference Level Fact Sheet, https://sites.google.com/site/radiationcontroldoh/ 
+Electronic devices – Use  E lectronic devices - ionising radiation Diagnostic Reference Levels; 
+6.30 TR 78-03, Technical requirements for the application of SANS/ISO/IEC 17020: 2012 for testing of Diagnostic 
+X-ray Imaging Systems by Inspection Bodies, www.Sanas.co.za; 
+6.31 ISO/IEC 17020: 2012, Conformity assessment — Requirements for the operation of various types of bodies 
+performing inspection. 
+SAHPGL-RDN-XR-01_v1 
+Page 37 of 37
+Guidelines on Requirements for Licence Holders with Respect to Quality Control Tests for Medical 
+Diagnostic X-Ray Imaging Systems 
+29 August 2022 
+ 
+ 
+ 
+6.32 Navy Diagnostic Imaging Equipment Performance Survey Manual, Navy and Marine Corps Public Health 
+Center Technical Manual NMCPHC TM-6470.1,  
+http://www.med.navy.mil/sites/nmcphc/Documents/oem/Navy-Diagnostic-Imaging-Equipment-
+Performace-Survey-Manual.pdf 
+6.33 The Royal Australian and New Zealand College of Radiologists, Guidelines for Quality Control Testing for 
+Digital (CR DR) Mammography http://www.ranzcr.edu.au/quality-a-safety/radiology/practice-   quality-
+activities 
+6.34 Heggie et al, ACPSEM Position Paper, Recommendations for a Digital Mammography Quality Assurance 
+Program v3.0 
+6.35 European guidelines for quality assurance in breast cancer screening and diagnosis – fourth edition - 
+Supplements, European Communities, 2013, www.google.co.za search for ISBN 978-92-79- 32970-8 
+6.36 Dosimetry in Diagnostic Radiology for Paediatric Patients, Pub1609, IAEA 
+6.37 Diagnostic Radiology Physics: A Handbook for Teachers and Students, IAEA http://www-
+naweb.iaea.org/nahu/dmrp/publication.asp 
+6.38 Radiation Protection in Diagnostic and Interventional Radiology, Publication No. 14.1, ARPANSA, page 19, 
+http://www.arpansa.gov.au/ 
+6.39 Test phantoms, http://www.leedstestobjects.com 
+11 VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline for 
+Diagnostic QC, revised April 2015. It will be reviewed on this timeframe or as and when required. 
+

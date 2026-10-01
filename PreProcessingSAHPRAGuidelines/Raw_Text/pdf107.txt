@@ -1,0 +1,969 @@
+SAHPGL-INSP-01_v5
+Page 1 of 25
+18 September 2022
+GUIDELINE POST IMPORTATION TESTING
+The objective of this procedure is to define the process to be followed and to provide instruction to the Holder of the
+Certificate of Registration (HCR) when submitting application for Post-Importation Testing Exemption of imported
+products.
+To ensure that the integrity of imported products is not compromised during transit.
+To confirm the imported product’s integrity prior to release for sale in South Africa.
+Document History
+Final
+Version
+Reason for Amendment
+Effective Date
+1
+First issue and published for implementation
+December2003
+2
+Second revision and published for implementation
+March 2017
+3
+Third revision and published for implementation
+January 2021
+4
+General update to include Biological/ Biosimilar Products, finalised and
+published for implementation
+April 2022
+5
+−
+Content structured on the latest SAHPRA Guideline Template
+−
+Old guideline number 2.04 changed to SAHPGL-INSP-01
+September 2022
+DR BOITUMELO SEMETE-MAKOKOTLELA
+CHIEF EXECUTIVE OFFICER
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 2 of 25
+SAHPGL-INSP-08_v5
+Contents
+Document History............................................................................................................................................ 1
+Glossary............................................................................................................................................................3
+1.
+INTRODUCTION........................................................................................................................................ 5
+1.2 Purpose.................................................................................................................................................... 5
+1.3 Scope........................................................................................................................................................ 5
+2.
+LEGAL PROVISION.....................................................................................................................................6
+3.
+POST IMPORTATION EXEMPTIONS (PITE’s)...............................................................................................7
+4.
+GUIDELINES FOR MONITORING OF TRANSPORT...................................................................................... 8
+5.
+PRODUCT QUALITY PORTOFOLIO........................................................................................................... 10
+6.
+FEES........................................................................................................................................................ 12
+7.
+SUBMISSION...........................................................................................................................................12
+8.
+POST IMPORTATION EXEMPTION GRANTED...........................................................................................13
+9.
+CONDITIONS OF EXEMPTION................................................................................................................. 14
+10. PRODUCT RELEASE TO MARKET............................................................................................................. 15
+11. REFERENCES........................................................................................................................................... 16
+12. VALIDITY................................................................................................................................................. 16
+13. ATTACHMENTS........................................................................................................................................17
+13.1 Attachment 1: Application Template for PITE........................................................................................ 17
+13.2 Attachment 2: Evidence to support Product Quality Portfolio................................................................18
+13.3 Attachment 3: Summary of data: transportation of product..................................................................20
+13.4 Attachment 4: An Example of Master Release Document (MRD)...........................................................21
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 3 of 25
+SAHPGL-INSP-08_v5
+Glossary
+Abbreviation/ Term
+Meaning
+ALCOA
+A commonly used acronym for “attributable, legible, contemporaneous,
+original and accurate”
+ALCOA +
+A commonly used acronym for “attributable, legible, contemporaneous,
+original and accurate”, which puts additional emphasis on the attributes of
+being complete, consistent, enduring and available
+AMT
+Analytical Method Transfer
+AMV
+Analytical Method Verification
+APQR
+Annual Product Quality Review
+CEO
+Chief Executive Officer
+CTD
+Common Technical Document
+COA
+Certificate of Analysis
+CRO
+Chief Regulatory Officer
+FPRC
+Finished Product Release Control
+GMP
+Good Manufacturing Practice
+GRN
+Goods Received Note
+HCR
+Holder of Certificate of Registration also referred to as the “Applicant”
+MOA
+Memorandum of Agreement
+MOU
+Memorandum of Understanding
+MRA
+Mutual Recognition Agreement
+MRD
+Master Release Document
+MBR1
+Medisyne Beheer Raad
+MRF1
+Medicines Registration Form
+PI
+Professional Information
+PIC/S
+Pharmaceutical Inspection Convention
+Pharmaceutical Inspection Co-Operation Scheme
+PIL
+Patient Information Leaflet
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 4 of 25
+SAHPGL-INSP-08_v5
+PIT
+Post Importation Testing
+PITE
+Post Importation Testing Exemption
+PQP
+Product Quality Portfolio
+RH
+Relative Humidity
+RP
+Responsible Pharmacist
+RP-HPLC
+Reverse Phase High-performance liquid chromatography
+RRA
+Recognized Regulatory Authority
+SAHPRA
+South African Health Products Regulatory Authority
+UV/VIS
+Ultraviolet–visible spectroscopy
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 5 of 25
+SAHPGL-INSP-08_v5
+1.
+INTRODUCTION
+Meeting SAHPRA mandate on assuring Public health, the various processes that are implemented, demand that
+pharmaceutical products should not be treated in the same way as ordinary commodities. Their manufacturing
+and subsequent handling within the supply chain, both nationally and internationally, must conform to
+prescribed standards and be rigorously controlled. These precautions serve to assure that patients receive high
+standard quality of medicines and to prevent the infiltration of substandard and suspected falsified medicine into
+the supply system. The integrity of imported pharmaceutical products could be compromised at various stages
+during the life cycle. The market infiltration by substandard and suspected falsified medicines poses different
+hazards for public health and processes to ensure SAHPRA’s mandate is deemed crucial to ensure high-quality
+medicines to patients. Counterfeit and substandard medicines are a risk to public health as they are often not
+effective and so do not benefit patients and can also actively harm patients, even causing death. Serialisation in
+the pharmaceutical industry is one of the best tools companies could use to combat counterfeit medicines. It is
+therefore the responsibility of the Applicant to confirm the imported pharmaceutical products integrity prior to
+release for sale in South Africa.
+The guideline also includes a departure from the traditional reactive control system to a risk-based and pro-
+active approach under validated control and surveillance systems. The risk-based surveillance system which
+could include routine pre-release checks performed by applicants, routine post importation testing and market
+signals could identify risks and define the controls that will protect patients from substandard, falsified and
+unregulated medicines. This when added together, will assure not only the quality, but also the safety and
+efficacy of pharmaceutical products manufactured and distributed. Applicants and manufacturers must have
+robust quality management systems in place to ensure that the products that they place onto the market are
+safe, of good quality and efficacious.
+1.2
+Purpose
+To ensure that the integrity of imported products are not compromised during transit from source site to the
+patient. It is therefore important that the HCR confirms the imported product’s integrity prior to release for
+sale in South Africa. In terms of Regulation 53 (1) of Act 101 of 1965, this is done by:
+•
+Identification and assay, and/or other applicable tests performed locally on the final product. Or
+•
+Return of samples to overseas testing laboratories or the manufacturers that supplies the product, for
+identification and assay and/or other applicable testing.
+1.3
+Scope
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 6 of 25
+SAHPGL-INSP-08_v5
+This guideline applies to the following pharmaceutical products:
+a)
+Category A = Medicines which are intended for use in humans and which are, without manipulation,
+ready for administration, including packaged preparations where only a vehicle is added to the
+effective medicine;
+b)
+Category B = Medicines intended for use in humans and animals which cannot normally be
+administered without further manipulation;
+c)
+Category C = Medicines intended for veterinary use which are, without further manipulation, ready for
+administration, including packaged preparations where only a vehicle is added to the effective
+medicine; and
+d)
+Category D = Complementary medicines intended for use in humans and animals which are, without
+further manipulation, ready for administration, including packaged preparations where only a vehicle
+is added to the effective medicine.
+2.
+LEGAL PROVISION
+This guideline provides the framework of where SAHPRA systems are at this point. The default position of
+SAHPRA remains Post Importation testing and the guideline features that process as well as the process for
+exemption from this if the requirements are met. SAHPRA acknowledges that the system outlined herein is not
+static and we will be moving to a scenario where the Post Market surveillance processes will be strengthened and
+that SAHPRA endeavors to strengthen the partnership with other recognized Regulatory Authorities through a
+process of Memorandums of Agreements. This will enable us to leverage these systems to constantly review this
+guideline and move towards a system based on elimination of post importation controls as we have them at
+moment.
+This guideline is intended to provide recommendations to applicants wishing to submit, have submitted or is the
+current Holder of the Certificate of Registration applications for the registration of medicines. The integrity of
+imported products could be compromised during the life cycle of the product including during transit both from
+source site and to patient. According to Regulation 53 of Act 101 of 1965 Subregulation (1) Every medicine must
+continue to comply with the standards and specifications which were furnished to the Authority and which have
+been accepted by the Authority regarding such medicine. (2) Any proposed deviation from accepted standards
+and specifications referred to in subregulation (3) must be submitted to the Authority for prior approval as
+determined by the Authority and such deviation must not be introduced before the said approval has been
+granted. Therefore, as has been the accepted standard to comply with Regulation 53, the applicant confirms the
+imported product’s integrity prior to release for sale in South Africa, by testing conducted post importation. This
+is performed by: Qualitative (Identification) and quantitative (assay), and other performed locally on the final
+product or Returning of the samples to overseas testing laboratories or the manufacturer that supplied the
+product, for identification and assay and other relevant testing. This occurs under the environmental conditions
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 7 of 25
+SAHPGL-INSP-08_v5
+described and registered for the product.
+It represents the SAHPRA’s position on medicines meeting the requirements for the safety, quality and efficacy of
+medicines. SAHPRA reserves the right to request any additional information to establish the safety, quality and
+efficacy of a medicine in keeping with the knowledge current at the time of evaluation. If an importer/exporter of
+medicines cannot meet the requirement of post importation testing, this guideline is also intended to provide
+recommendations to applicants wishing to submit applications for waiver of Post-importation testing after the
+registration of medicines. It is important that applicants adhere to the administrative requirements to avoid
+delays in the processing and evaluation of applications. SAHPRA is committed to ensure that all registered
+medicines will be of the required quality, safety and efficacy. Guidelines and application forms are available from
+the office of the CRO/CEO and the SAHPRA website (www.sahpra.org.za).
+3.
+POST IMPORTATION EXEMPTIONS (PITE’s)
+3.1
+As stipulated prior, the default position of SAHPRA to ensure the quality safety, and efficacy of
+imported medicinal products, the Applicant ensures the following tests:
+
+Identification and assay, and/or other applicable tests as approved in the registered dossier
+performed locally on the final product. Or
+
+Return of samples to overseas testing laboratories or the manufacturers that supplies the product,
+for identification and assay and/or other applicable testing.
+Exemptions from post-importation testing will be considered in the following circumstances:
+3.2
+The applicant must in all instances provide full motivation for exemption from post-importation testing.
+3.3
+Required Documentation: The Company should submit a Product Quality Portfolio, which will provide
+evidence that the manufacturing and subsequent handling of the product within the distribution chain,
+both nationally and internationally, which conforms to prescribed standards and which are rigorously
+controlled.
+3.4
+This Product Quality Portfolio will serve as evidence to assure that patients receive high standard of
+quality medicines and to prevent the infiltration of substandard and suspected falsified medicine into
+the supply system.
+3.5
+The Applicant completes the application letter and Product Quality Portfolio for post-importation
+testing exemption, and submits the requirements to SAHPRA, accompanied by the relevant fees. At this
+stage, the Applications will be uploaded to the FTP folder and proof of submission should be submitted
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 8 of 25
+SAHPGL-INSP-08_v5
+to inspectorate@sahpra.org.za
+3.6
+Included conditions are that the medicinal products must be transported via a qualified shipping
+solution.
+3.7
+Ensure use of Calibrated monitoring devices (recording both minimum and maximum temperatures
+and where applicable RH) must be inside the container to record the conditions (temperature and
+relative humidity where applicable) whilst the product is in transit. Pre-existing global shipping
+validation data from other shipping routes to be used in lieu of transport validation of the specific route
+used for shipping of the product from the Principal to South Africa would require scientific justification
+and would be subject to approval from SAHPRA
+3.8
+Products which are exempted from post-importation testing are not exempt from meeting regulatory
+release parameters, including, but not limited to, product release specifications and the absence of
+environmental condition excursions i.e., temperature and humidity as applicable.
+3.9
+Requirements: submission of PITE requests refer to (Attachment 1)
+3.10 Evidence to Support Product Quality Portfolio: (Attachment 2)
+3.11 Continuous monitoring and control of transport conditions. Refer to (Attachment 3) transportation of
+products for monitoring and control of transport conditions.
+3.12 Final Product Release (Attachment 4)
+4.
+GUIDELINES FOR MONITORING OF TRANSPORT
+4.1
+The parameters that the Applicant should comply with are specified in the Product Quality Portfolio
+and one of the aspects is the monitoring of transport.
+4.2
+This section provides guidance monitoring and control of transport, that is, evidence that the
+conditions during transport are continuously monitored and controlled, including relevant parameters,
+such as temperature, humidity, and freeze conditions.
+4.3
+The transport monitoring and control conditions of each shipment are recorded by a suitable device
+which provides a printout or data in a GMP compliant, validated data base that will form a permanent
+record of the specific shipment and is filed with the batch release documents as applicable. Should the
+printout relate to different products of the same shipment, a QA verified transportation data should be
+reviewed and filed and/or be available electronically in relation to the batch release documentation.
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 9 of 25
+SAHPGL-INSP-08_v5
+4.4
+An SOP, specifying the details of inclusion of the recorders, should be available for inspection. The
+procedure should include amongst others, the number of recorders, position of placement, date of
+activation and inactivation (on leaving the place of dispatch i.e., factory, and on receipt by the applicant
+i.e., warehouse) and evaluation of the printout with the reference to the stability data and/or product
+distribution stability data
+4.5
+The monitoring and control mechanism should be qualified and/or calibrated as applicable and
+relevant records should be available for inspection. Thermo logger locations must be scientifically
+justified.
+4.6
+If the data obtained through accelerated and long-term stability studies does not support that the
+excursion has no impact on the long-term stability, then this data would not be considered as
+justification for release of products which have been exposed to environmental excursions observed
+during product transportation. This would include products sensitive to vibrations and lower
+temperatures. Note that monitoring as well as control of these parameters must be assured
+throughout transportation. The Applicant is to provide assurance that short term excursions do not
+have any impact on the long-term stability of the product. Appropriate thermal cycling studies can be
+used to support excursions above or below the approved storage conditions, provided there is no
+impact on the long-term stability and in these studies data for assay and other relevant tests for
+batches would be evaluated after exposure to short periods (cycles) of storage at each of two
+temperature extremes with ambient temperature used between the cycles. The cycle periods and
+extreme temperatures would be selected with consideration of the type of product (formulation,
+packaging, dosage form) and approved storage conditions.
+4.7
+Please note that exemption is applicable only for shipments monitored and controlled, and shipments
+not in compliance should therefore be identified and assayed and other relevant tests performed as
+stated in 3.1 if not otherwise justified.
+4.8
+Post-importation testing exemptions are only applicable for product packed in the final container.
+4.9
+The transport monitoring and control method, and parameters must be specified in the Master Release
+Document.
+4.10 A tabulated summary indicating the method of transport, the conditions during transport and the
+method of controlling the respective conditions should be submitted.
+4.11 Outcome of the evaluation of the transport conditions and relevant action, i.e., further testing to be
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 10 of 25
+SAHPGL-INSP-08_v5
+performed.
+4.12 The type of recorder used in transit and confirm temperature of transport vs temperature range of
+loggers.
+4.13 A specification that the received certificate of analysis is valid, is complete (reflects the actual results of
+the tests performed) and reflects compliance with the registration requirements.
+4.14 Visual identification of the product and dosage form.
+4.15 Confirmation of the integrity of the containers, seals, and labels. Each aspect should be specified and
+controlled to ensure that no damaged articles are accepted.
+5.
+PRODUCT QUALITY PORTOFOLIO
+The Product Quality Portfolio will include the following:
+5.1
+Medicine Registration Certificate.
+5.2
+A summary of historical number of shipments over the last three years as applicable, and shipment
+details including quantity of product imported and the yearly projection for future per annum. New
+products won’t have this historical data, and this will be considered when determining the period of
+PITE validity granted.
+5.3
+Product Dossier status including in terms of format e.g., MBR1, MRF1, CTD, amendment history and
+evidence of effective dossier management e.g., Procedure on Dossier management and Dossier
+Amendment History.
+5.4
+Container closure systems of the product and stability profile.
+5.5
+Current GMP certification of source site in terms of SAHPRA RRA and laboratories including contract
+laboratories, as this is applicable to the HCR. Standalone local laboratories are authorised by SAHPRA.
+For overseas contract laboratories, evidence that GMP status are verified as part of the Contract testing
+and vendor approval is required to be provided.
+5.6
+The previous year data including at period before time of application for Market Surveillance Evidence
+including complaints, recalls, suspensions and withdrawals of the product this could have a material
+impact on the validity of the PITE granted.
+5.7
+The pharmacovigilance system is there to assess the safety profile of the medicine. If an ADR happens
+in another country in relation to a product that is marketed in South Africa, this could ultimately
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 11 of 25
+SAHPGL-INSP-08_v5
+influence the PIL or PI in SA and thus there must be an awareness and review of this data. The PV SOP
+and relevant data will be evaluated by Inspectorate and as part of Quality Portfolio and where
+additional expertise required the information will be channelled to the relevant specialists If there are
+market signals in terms of Post Market Surveillance and the product may be required to be tested.
+There may be a requirement to either send the product to local laboratory to be tested or return to
+source site. Thus, the Validation/Verification status of Analytical Methods and/or the Analytical
+Method Transfer will be required when products are required to be tested should exemption be
+withdrawn.
+5.8
+The GMP certificate from an RRA does not necessarily reflect the HCR product/s and a declaration is
+required to clearly show that the product/s complies to the Validation requirements. Confirmation of
+the Validation status of the product the Applicant is applying for exemption, both in terms of process
+validation, cleaning validation continuous cleaning and process validation related at the source site.
+5.9
+Historical Post- importation testing data assessment including trend analysis. The data may not be
+available for new products but may be available for established products and the time requirement
+would be the previous year and that information could be retrieved from APQR.
+5.10 Product transportation studies/principles and risk assessment profile which may be obtained from
+historic monitoring data which maybe specific to the mode of transport and route.
+5.11 The continuous monitoring process that is defined for controls during transport for each shipment of
+pharmaceutical product including relevant parameters, such as temperature, humidity, and freeze
+conditions utilizing a qualified process with calibrated instruments.
+5.12 Provide evidence that the latest APQR has been performed and that a summary of this, including the
+pertinent products were provided.
+5.13 Serialisation means the application of a unique pharmaceutical products to the countries those who
+have implemented serialisation regulations.
+Evidence of serialisation or /tamper evident seals/
+devices/ unique product identifiers etc should be submitted where applicable. As the Reliance Model
+relies on a RRA reports and Certificates, some of those authorities are expecting a serialisation process.
+SAHPRA has not implemented this process yet although is aligned with PICS, thus evidence of
+Counterfeit combating system but not limited to serialization/tamper evident seals/ devices/ unique
+product identifiers etc.
+5.14 Nitrosamine Content declaration. Nitrosamine Content is a measure of the Quality Assurance of the
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 12 of 25
+SAHPGL-INSP-08_v5
+Product that throughout the supply chain of the product no Nitrosamine inducing substances or
+processes are introduced. New guidance documents recommend steps manufacturers of APIs and drug
+products should take to detect and prevent unacceptable levels of nitrosamine impurities in
+pharmaceutical products. The guidance also describes conditions that may introduce nitrosamine
+impurities. The recent unexpected finding of nitrosamine impurities, which are probable human
+carcinogens, in drugs such as angiotensin II receptor blockers (ARBs), ranitidine, nizatidine, and
+metformin, has made clear the need for a risk assessment strategy for potential nitrosamines in any
+pharmaceutical product at risk for their presence. Based on the current understanding, the guidance
+discusses potential root causes of nitrosamine formation and advises API and drug product
+manufacturers that they should conduct risk assessments of their approved or marketed products and
+products with pending applications and take appropriate actions to reduce or prevent the presence of
+nitrosamines in APIs and drug products
+5.15 As part of Post Marketing Surveillance, SAHPRA may draw samples to be tested by SAHPRA at selected
+Laboratory. SAHPRA will provide the applicant with the full details of the surveillance testing, including
+the laboratory chosen which may be the source site. The methods will be provided by the applicant and
+the Applicant will provide details of the AMT/AMV.
+6.
+FEES
+6.1
+The set fees will apply to submission of the Product Quality Portfolio.
+6.2
+The fee required is the fee for evaluation of requests for exemption from registered post importation
+testing requirements per product as per the gazetted fees
+7.
+SUBMISSION
+7.1
+The data pack comprising of the Product Quality Portfolio will be submitted to SAHPRA for assessment
+and review as per 5.0, and based on the supporting evidence assessed, SAHPRA will potentially exempt
+that pharmaceutical products from post- importation testing for the period determined by the
+evaluator of the application
+7.2
+Following the submission SAHPRA will provide an approval/non-approval within an envisaged 30-day
+timeframe.
+7.3
+Exemption, if approved, will be valid for a period of one to up to three years provided that after the full
+or partial requirements detailed in 4.0 above are complied with and this will be decided on the review
+of the Product Portfolio submission.
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 13 of 25
+SAHPGL-INSP-08_v5
+7.4
+Following this exemption, there could be a periodic review of the Product Quality Portfolio based on
+variations/amendments and further exemptions could then be granted based on the updated review
+and submission of applicable fees.
+8.
+POST IMPORTATION EXEMPTION GRANTED
+Once SAHPRA has reviewed and approved the Product Quality Portfolio to support the exemption request, the
+process followed by the Applicant will include the following (This will be the responsibility of the RP of the HCR
+and the systems will be evaluated at time of audit but primarily the RP will inform SAHPRA as required).
+8.1
+Ensure that inbound and outbound logistics meet the storage conditions based on the validated routes
+and temperature and humidity.
+8.2
+Evaluate excursions outside of registered storage conditions in terms of root cause and product impact.
+8.3
+It is the Applicants responsibility to perform root cause analysis when there is an excursion as well as
+determine impact that the excursion could have on the long-term stability of pharmaceutical product.
+8.4
+Check visual container integrity, noting any tampering, potential contamination and potential for
+falsified products.
+8.5
+Serialisation and track and trace process in terms of counterfeit prevention, where implemented.
+8.6
+Data loggers within the consignment, based on the transport validation, are removed on arrival, the
+validated software is available to read the data and the data is used as part of the release to market.
+8.7
+If data loggers are faulty (no download or data) there will be requirement by default to test the product
+and thus it be required that HCR have a laboratory registered as FPRC. The HCR will need to provide a
+rationale on a case-by-case basis if there is a probability to release product to market.
+8.8
+Transfer product within a defined timeframe to assure compliance to registered storage conditions
+especially thermolabile pharmaceutical products.
+8.9
+Ensure other conditions e.g. protect from light, humidity, etc. are complied with.
+8.10 Where applicable, remove the retention/release samples and transfer to the HCR for evaluation for
+release. Ensure the storage conditions of the retention /release samples where applicable are
+maintained as these samples could be utilized for testing post marketing.
+8.11 The data gathered from temperature monitoring devices must be recorded and analysed on a regular
+basis to demonstrate that biological medicines are being stored and transported at the correct
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 14 of 25
+SAHPGL-INSP-08_v5
+temperatures.
+8.12 Should there be a need to amend and address specific issues for Biological Medicines, this will be
+assessed. Some elements are issues that are specific to different Biological Products (e.g., The use of
+the identity and purity testing (RP-HPLC method) and the protein content (UV/VIS method) for post
+importation of biologicals in place of the cell-based bioassay test).
+9.
+CONDITIONS OF EXEMPTION
+9.1
+Post-importation testing exemption does not negate the need for the Applicant to assume full
+responsibility for product quality and for the release of products which are safe, effective and of high
+quality.
+9.2
+SAHPRA reserves the right to withdraw the exemption should the Applicant give cause based on e.g.,
+deviations from the approved Product Quality Portfolio or Any changes to the Product Quality Portfolio
+including the transport monitoring and control equipment, commitments and data previously
+submitted, invalidate the post-importation testing exemption granted. The Applicant has the
+responsibility of post market surveillance including all serious adverse drug reactions reported in South
+Africa, in relation to the imported medicine, in accordance with the SAHPRA vigilance guideline Post-
+Marketing Reporting of Adverse Drug Reactions to Human Medicines in South Africa, as well as
+notification and market signals e.g., Complaints, Withdrawals and Recalls in accordance with the
+relevant SAHPRA guidelines.
+9.3
+The re-submission of the PQP, if triggered, will require a new application with concomitant fees.
+9.4
+SAHPRA reserves the right to request for the applicant to supply samples of the imported medicinal
+product for testing and which will be for the Applicants cost
+9.5
+GMP status can change and an exemption can be withdrawn if, during an audit conducted by SAHPRA,
+deficiencies are found which could affect the validity of the PITE granted previously and can occur at
+any time regardless of the PITE period allowed.
+9.6
+Exemption, if approved, will be valid for a period of one to up to three years provided that after the full
+or partial requirements detailed in Section 4.0 above, are complied with and this will be determined on
+the review of the Product Portfolio submission and motivation.
+10. PRODUCT RELEASE TO MARKET
+10.1 Products which are exempted from post-importation testing are not exempt from meeting regulatory
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 15 of 25
+SAHPGL-INSP-08_v5
+release parameters.
+10.2 As part of the release to market process, the Responsible Pharmacist or Deputy Responsible
+Pharmacist is required to review the following (not exhaustive list) based on a robust internal
+procedure:
+10.2.1 Product storage conditions and product description as per current dossier
+10.2.2 Confirmation of the integrity of the containers, seals and labels. Each aspect should be specified and
+controlled to ensure that no damaged pharmaceutical products are accepted.
+10.2.3 Evidence to support that the product imported is not subject to conditions that may result in
+tampering / counterfeiting of the imported product.
+10.2.4 Serialization and track and trace process in terms of counterfeit prevention.
+10.2.5 The Batch Manufacturing and Packaging Record. The system that the Applicant uses needs to be
+defined in terms of ensuring that the relevant dossier documents and the current source documents
+at the manufacturing facility are the same. Any deviations from the source documents needs to be
+provided to the Applicant. The rationale for the system in use will be evaluated by SAHPRA as part of
+the
+10.2.6 Out of Specifications and Out of Trend data summaries.
+10.2.7 Deviations/Change Control.
+10.2.8 Valid COA.
+10.2.9 Data Logger Data: The product under discussion must be transported via a qualified shipping
+solution. Calibrated monitoring devices must be placed inside the container to record the conditions
+(temperature and relative humidity where applicable) whilst the product is in transit.
+10.2.10 Outcome of the evaluation of the transport conditions and relevant action, i.e. further testing to be
+performed.
+10.2.11 Artwork and Labelling (Is it clear that the company details are available if there was a complaint).
+10.3 Release to be completed with the review of the Release Samples which are stored at approved storage
+conditions.
+11. REFERENCES
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 16 of 25
+SAHPGL-INSP-08_v5
+The following related documents are referenced:
+11.1 Medicines and Related Substances Act, as amended Act 101 of 1965
+11.2 General Regulations to the Medicines and Related Substances act 101 of 1965, as amended
+11.3 Regulation 53 of Act 101 of 1965 Sub-regulation (1)
+12. VALIDITY
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the Post Importing
+Testing guideline, old document number 2.04. It will be reviewed on this timeframe or as and when required.
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 17 of 25
+SAHPGL-INSP-08_v5
+13. ATTACHMENTS
+13.1 Attachment 1: Application Template for PITE
+The Chief Executive Officer South African Health Authority (SAHPRA)
+SAHPRA Head Office
+Building A Loftus Park 2nd Floor
+402 Kirkness Road
+Arcadia 0083
+Reference Number:
+ATTENTION:
+Inspectorate and Regulatory Compliance
+Dear Sir / Madam
+REQUEST FOR POST-IMPORTATION TESTING EXEMPTION
+Product
+Propriety
+Name
+Application
+Number
+Dosage
+Form
+API
+First
+Time
+Exemption
+Request
+YES
+NO
+Renewal
+of
+Existing Exemption
+Date
+first
+time
+exemption granted
+Motivation Summary for Exemption: Summary of reasons why exemption should be considered
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 18 of 25
+SAHPGL-INSP-08_v5
+13.2 Attachment 2: Evidence to support Product Quality Portfolio
+Medicine Registration Certificate
+A summary of historical number of shipments,
+and
+shipment
+details
+including
+quantity
+of
+product imported and the yearly projection for
+future per annum as applicable
+Product Dossier status including in terms of
+format e.g. MBR1, MRF1, CTD, amendment
+history
+and
+evidence
+of
+effective
+dossier
+management.
+Container closure systems of the product and
+stability profile.
+Current GMP certification of source site and
+laboratories including contract laboratories as
+this is applicable to the HCR.
+Market
+Surveillance
+Evidence
+including
+complaints, recalls, suspensions and withdrawals
+of the product
+Pharmacovigilance system and listing of all
+serious adverse drug reactions reported in South
+Africa and internationally which may be pertinent
+to South Africa, in relation to the imported
+medicine.
+Validation status of Analytical Methods and the
+Analytical
+Method
+Transfer
+required
+when
+products are required to be tested should
+exemption
+be
+withdrawn,
+or
+post
+market
+surveillance testing is required
+Declaration that Data Integrity management at
+source site is complying to ALCOA+.
+Confirmation of the Validation status of the
+product the Applicant is applying for exemption,
+both in terms of process validation and cleaning
+validation at the source site
+Confirmation that the source site performs
+Continuous
+cleaning
+and
+process
+validation
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 19 of 25
+SAHPGL-INSP-08_v5
+related to the product that the Applicant is
+applying for exemption
+Historical
+Post-
+importation
+testing
+data
+assessment including trend analysis.
+Product transportation studies/principles and risk
+assessment profile.
+The
+continuous
+monitoring
+process
+that
+is
+defined for controls during transport for each
+shipment of pharmaceutical product including
+relevant
+parameters,
+such
+as
+temperature,
+humidity,
+and
+freeze
+conditions
+utilizing
+a
+qualified process with calibrated instruments.
+APQR profile and history.
+Evidence of a Robust Self - inspection program
+and how this was adapted to internal and external
+audits
+Evidence of Counterfeit combating serialization
+or applicable process to support track and trace
+system
+Nitrosamine Content declaration
+Application Fee and Proof of Payment attached:
+I declare that
+
+the request for post-importation testing is in line with the relevant current guidelines and/or a
+motivation for any deviation has been submitted
+
+no amendments, other than those stated in the amendment’s history, have been made.
+Signature of RP/DRP:
+Name
+Title
+Qualification
+Designation
+e-Mail
+Tel number
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 20 of 25
+13.3 Attachment 3: Summary of data: transportation of product
+NAME OF PRODUCT:
+REGISTRATION NUMBER:
+DOSAGE FORM:
+APPROVED STORAGE CONDITIONS:
+ASSURANCE: TEMPERATURE RECORDED IN EACH SHIPMENT
+Name
+of
+Product
+Batch Number
+Maximum
+and
+minimum
+temperature
+recorded
+Applicable other
+transport
+sensitive
+conditions
+e.g. vibration
+measurements
+or RH
+Duration of
+transport (Date
+commenced and
+date
+terminated)
+Mode of
+Transport
+Signature of
+Responsible
+pharmacist who
+verified
+the
+printouts
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 21 of 25
+13.4 Attachment 4: An Example of Master Release Document (MRD)
+COMPANY
+MASTER RELEASE DOCUMENT (MRD) PRODUCT NAME:
+Code:
+Page x of y
+Date:
+Batch number
+Approved storage conditions
+Date of Manufacture
+Final product specification reference number
+Expiry Date of Product compared against ZA CTD
+Receiving notice number (GRN)
+Dates of dispatch and of receipt
+Transit period specification, actual and conformity
+YES
+NO
+Quantity dispatched
+Number of containers received
+Test
+Specifications
+Result
+Signature
+Shipping containers’ condition
+Clean, undamaged
+Number approved; Number rejected
+Shipping container label
+Not tampered with
+Shipping container seal
+Present, intact
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 22 of 25
+Temperature and humidity
+printout (storage and transport
+conditions) Data loggers within
+the consignment, based on the
+transport validation, are
+removed on arrival, the
+validated software is available
+to read the data and the data is
+used as part of the release to
+market.
+Present, attached; conforms to
+product
+specific
+storage
+and
+handling requirements
+Data Logger Data: The product
+under discussion must be
+transported in a validated
+container. Calibrated
+monitoring devices must be
+placed inside the container to
+record the conditions
+(temperature and relative
+humidity) whilst the product is
+in transit
+Location
+and
+Assessment
+of
+Loggers
+Ensure
+that
+inbound
+and
+outbound logistics meet the
+storage conditions based on the
+validated routes, temperature
+and humidity
+Route Analysis and excursions
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 23 of 25
+If data loggers are faulty (no
+download or reading) there will
+be requirement by default to
+test the product and thus it be
+required that HCR have a local
+laboratory registered as FPRC
+for if testing has to be done or
+to return product back to
+Determine functioning and assess
+PIT
+Outcome of the evaluation of
+the transport conditions and
+relevant
+action,
+i.e.
+further
+testing to be performed.
+Assessment of excursions
+Certificate of Analysis Valid COA
+and Data Trend summary.
+Present, valid (batch specific), all
+test conducted as conforms to ZA
+CTD, complete
+The Batch Manufacturing and
+Packaging Record or defined
+Present
+Out of Specifications and Out of
+Trend data summaries.
+Declaration and outcome
+Deviations/Change Control
+Record and impact assessed
+Transfer product immediately to
+registered
+storage
+conditions
+especially
+thermolabilei
+Product transfer
+Ensure other conditions
+e.g.
+protect from light, humidity, etc.
+Storage Conditions
+Guideline for Post Importing Testing
+18 September 2022
+Guideline for Post Importing Testing
+18 September 2022
+SAHPGL-INSP-01_v5
+Page 25 of 25
+Originator
+Reviewer
+Approved
+Authorised
+Designation
+Designation
+Designation
+Signature
+Signature
+Signature
+Date
+Date
+Date
+Release
+to
+be
+done
+in
+conjunction of the review of the
+data of the previous APQR
+Previous APQR Review
+Conclusion: Conformance
+YES
+NO
+Further testing required?
+YES
+NO
+Comments
+Position/Function
+

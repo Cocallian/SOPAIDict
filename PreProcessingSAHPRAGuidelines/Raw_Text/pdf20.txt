@@ -1,0 +1,561 @@
+SAHPGL-CEM-CT-13_v1 
+Page 1 of 13
+ 
+ 
+ 
+25 March 2026 
+GUIDELINES TO CLINICAL TRIALS IN PREGNANCY AND 
+LACTATION 
+This document has been prepared to serve as a guideline for the preparation of applications to conduct clinical trials in South Africa. 
+It represents the South African Health Products Regulatory Authority’s [SAHPRA] current thinking on pregnancy and lactation for 
+clinical research in South Africa. It is not intended as an exclusive approach, and SAHPRA reserves the right to request any additional 
+information and may make amendments in keeping with the knowledge that is current at the time. 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+1 
+First issue – published for implementation 
+01 June 2026 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-CT-13_v1 
+Page 2 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+Contents 
+Document History .................................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................................. 3 
+1. 
+INTRODUCTION .......................................................................................................................................................... 4 
+1.1 
+Purpose ....................................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................................... 5 
+3. 
+PREGNANCY ................................................................................................................................................................ 5 
+3.1 
+Pre-submission Meetings ........................................................................................................................................... 5 
+3.2 
+Public Health Emergencies ......................................................................................................................................... 6 
+3.3 
+Prevailing Evidence (Non-clinical/ Clinical) ................................................................................................................. 6 
+3.4 
+Clinical studies incorporating pregnancies ................................................................................................................. 6 
+3.4.1 Scenario of Failed Contraception in Studies where WOCBP are enrolled with mandatory contraception................ 7 
+3.5 
+Phase 1 Studies - (Refer to first-in-human, Phase I guideline) ................................................................................... 7 
+3.6 
+Procedures .................................................................................................................................................................. 8 
+3.7 
+Sites and Investigators ................................................................................................................................................ 8 
+3.8 
+Registration of Investigational Product ...................................................................................................................... 9 
+3.9 
+Foetal/ Neonatal and Infant extension ...................................................................................................................... 9 
+3.10 
+Pregnancy studies with benefit to the Neonate/ Infant ............................................................................................. 9 
+3.11 
+Retention of obstetric and paediatric records ........................................................................................................... 9 
+3.12 
+Databases for Long term follow up of babies in the trial ........................................................................................... 9 
+4. 
+LACTATION ............................................................................................................................................................... 10 
+4.1 
+Breastfeeding Support .............................................................................................................................................. 10 
+4.2 
+Objectives ................................................................................................................................................................. 10 
+4.3 
+Inclusion of lactating mothers in studies .................................................................................................................. 11 
+4.4 
+Safety and Efficacy monitoring ................................................................................................................................. 11 
+4.5 
+Breastmilk Volumes .................................................................................................................................................. 11 
+5. 
+REFERENCES ............................................................................................................................................................. 12 
+6. 
+VALIDITY ................................................................................................................................................................... 13 
+ 
+SAHPGL-CEM-CT-13_v1 
+Page 3 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ABPI 
+The Association of the British Pharmaceutical Industry 
+CIOMS 
+Council for international organizations of medical sciences 
+COVID 
+The disease Covid-19 
+CTC 
+Clinical Trial Committee 
+CTF1 
+Clinical trials application form 
+DSMB 
+Data and Safety Monitoring Board 
+HIV 
+Human immunodeficiency virus 
+IP/IMP 
+Investigational product/ Investigational Medicinal Product 
+IVDs 
+In vitro diagnostic medical devices 
+LMIC 
+Low- and Middle-Income Countries 
+NCE 
+New chemical entity 
+UN 
+United Nations 
+PK and PD 
+Pharmacokinetics and Pharmacodynamics 
+SAD & MAD 
+Single Ascending Dose and Multiple Ascending Dose  
+SAGCP 
+The South African Good Clinical Practice guidelines 
+SAE/AESI/AEs 
+Serious adverse event/ adverse event of special interest/ adverse events 
+SAHPRA 
+The South African Health Products Regulatory Authority 
+SOP 
+Standard Operating Procedure 
+TIE 
+Time, Inconvenience and Expenses 
+ 
+SAHPGL-CEM-CT-13_v1 
+Page 4 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+1. 
+INTRODUCTION 
+All clinical trials related to pregnancy and lactation need to be rigorously scientifically, ethically, statistically, 
+and clinically sound and appropriate to both the needs of this group of participants and important to the needs 
+of the South African and the rest of the world thereby ensuring maximal safety and minimal risk as well as 
+critical benefits to Women of childbearing age, foetuses and neonates/ infants.  
+These studies therefore need to be in conformance with the latest and current guidelines regarding Good 
+Clinical Practice SAGCP, National Department of Health Guidelines for Ethics and Research as well as the latest 
+Declaration of Helsinki, ICH-GCP and CIOMS as well as other relevant clinical research guidelines. 
+Clinical research with individuals, groups, or communities in situations of vulnerability is only justified if it is 
+responsive to both their health needs and priorities as well as those of groups and communities who stand to 
+benefit from the resulting knowledge, practices, or interventions. 
+Such studies further need to conform to the UN Universal Declaration of Human Rights, the Constitution of the 
+Republic of South Africa, and relevant laws and regulations in the Republic.  
+While pregnancy is not considered a disease or illness, it needs to be recognized that there are physiological 
+and psychological changes in pregnancy, foetal and neonatal/ infant milieus, which may exhibit unique PK and 
+PD parameters. There may be unique pathological conditions contributing to the need to study interventions 
+in these participants.  
+1.1 
+Purpose 
+There is a need to be more inclusive, and retention of, with pregnancy and lactation related interventional 
+trials involving investigational products (new and existing chemical entities) and medical devices and IVDs 
+whilst not compromising safety, participant benefit, and protection of the participant, in all studies, Phases 
+1 to 4. Studies in this domain can be planned either as independent study or a sub study or as continued 
+pregnancy follow up embedded within studies or sub studies with other objectives.  
+1.2 
+Scope    
+This guideline applies to all clinical trials (Phase 1-4). It establishes a framework for:  
+• 
+Protection of participants in clinical trials related to pregnancy and lactation (maternal, foetal and 
+neonatal/ infant).  
+• 
+Enabling appropriate conduct and successful outcome of clinical trials in pregnancy and lactation. 
+SAHPGL-CEM-CT-13_v1 
+Page 5 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+• 
+To guide stakeholders on clinical trials during pregnancy and lactation.  
+• 
+To guide management of participants' outcomes for participants who become pregnant and/or lactate 
+during clinical trials not primarily designed for reproductive health. 
+In case of studies involving medical devices/ IVDs (e.g., diagnostic assays and kits, monitoring systems), refer 
+also to the Guidelines on clinical investigation requirements on https://www.sahpra.org.za/medical-devices-
+and-in-vitro-diagnostics-guidelines. 
+2. 
+LEGAL PROVISION 
+These guidelines are established in terms of Regulations issued in sections 90(s) and 72(6)(c) of the National 
+Health Act, Act No. 61 of 2003, as well as Regulation 30 of the Medicines and Related Substances Act, Act 
+No. 101 of 1965. 
+All role players involved in clinical trials related to pregnancy and lactation should also be familiar with the 
+Constitution of the Republic of South Africa, national and international guidelines, including but not limited 
+to the following current versions or their successors: 
+• 
+SA GCP  
+• 
+South African Ethics in Health Research Guidelines: Principles, Processes and Structures  
+• 
+Universal Declaration of Bioethics and Human Rights 
+• 
+Applicable legislation and associated regulations 
+• 
+ICH GCP  
+• 
+Declaration of Helsinki  
+• 
+ABPI (Section Special Populations: Women) 
+3. 
+PREGNANCY 
+3.1 
+Pre-submission Meetings 
+Stakeholders should, at both regulatory request and/ or self-decision, engage with SAHPRA to ensure 
+aspects of the planned study are discussed for smooth progress and regulatory success (refer to 
+communications with SAHPRA guidelines). 
+SAHPGL-CEM-CT-13_v1 
+Page 6 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+Pregnant or breastfeeding women should be included in human clinical trials where possible, i.e., when 
+safety and other relevant information are available during a clinical trial. This is to ensure that appropriate 
+knowledge about NCEs for this group of people is developed. 
+3.2 
+Public Health Emergencies 
+The recent COVID and HIV pandemics have illustrated the need for adequate study and planning of the use 
+of IPs in pregnancy and lactation.  
+Studies that address the scenarios of public health emergencies will be prioritized at the CTC level to 
+expedite early implementation. 
+More frequent vigilance in terms of early SAE/ AESI reporting or progress reports or applicant engagement, 
+or interim analyses by DSMBs or sponsors may be required at regulatory discretion.  
+3.3 
+Prevailing Evidence (Non-clinical/ Clinical) 
+In preparation for human studies, non-clinical developmental and reproductive safety and toxicology 
+studies must be done along with genotoxic studies. These studies must be available for any SAHPRA 
+submission for evaluation. 
+All clinical studies in pregnant women require clinical data in non-pregnant participants before extending 
+to pregnant participants. Outcomes of these studies will guide extension to pregnancy and lactation.  
+As there are maternal and fetal differences in each trimester, any study needs to take cognisance of the 
+appropriateness of the study design per trimester.  
+3.4 
+Clinical studies incorporating pregnancies 
+In specific, predetermined, pre-discussed situations, clinical studies may progress directly to pregnant and 
+lactating participants. 
+If the applicant/ sponsor determines that proceeding with trials in pregnancy is appropriate, then the 
+following approaches/ actions (in no specific order) need to be considered and/ or incorporated into the 
+development strategy: 
+• 
+Recruitment of pregnant individuals in each trimester into ongoing and/ or subsequent clinical 
+trials, 
+• 
+Removal of mandatory contraception requirements in ongoing and/or subsequent clinical trials, 
+SAHPGL-CEM-CT-13_v1 
+Page 7 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+• 
+Implementation of study(ies) specifically designed to be conducted in pregnant individuals if 
+needed, 
+• 
+Ongoing participation of individuals who become pregnant during clinical trials (source: ICH E21 
+Guidelines), and 
+• 
+Management of pregnancies where contraceptive methods have failed requires a safety review 
+before concluding on the risk-benefit of the IP. 
+Pregnant individuals must continue in the study but not receive any further IP (unless otherwise specified 
+in the protocol or if there is a demonstrated positive risk-benefit). 
+The baby should be followed up for an appropriate period, preferably up to a minimum of 18 months. 
+3.4.1 
+Scenario of Failed Contraception in Studies where WOCBP are enrolled with 
+mandatory contraception  
+Women of childbearing potential may experience a “breakthrough pregnancy” despite the implementation 
+of a trial-required method of contraception. Several outcomes may be presented depending on an informed 
+choice and intensive information sharing by the investigator and/ or sponsor, such as: 
+• 
+Continuation of pregnancy with or without IP under strict(er) investigator/ sponsor guidance and 
+surveillance until birth and close evaluation of infants thereafter, 
+• 
+Termination of Pregnancy and no continuation in the study, 
+• 
+Possible unblinding, 
+• 
+Reporting to the regulatory authority, 
+• 
+Re-evaluation of participant insurance if needed, and 
+• 
+Pregnant participants should be retained in studies as far as possible, and allowance should be 
+made to incorporate obstetric and post-natal and paediatric care within the study. 
+3.5 
+Phase 1 Studies - (Refer to first-in-human, Phase I guideline) 
+3.5.1 In exploratory Phase 1 studies, (SAD and MAD) women should typically be of “non-childbearing 
+potential”. (ABPI). 
+3.5.2 Generally, Phase I trials should not be done in pregnant women. 
+SAHPGL-CEM-CT-13_v1 
+Page 8 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+3.5.3 
+Should the trials be required in pregnant women, they must be performed at a later stage of 
+clinical IP(s) development once there is data from non-pregnant participants. 
+ 
+3.6 
+Procedures 
+Procedures should be carried out at minimal risk and at the very least within the standards of antenatal 
+care. The following items should be summarized and further described and included in the site capacity as 
+per Section 2.4 of the new trial application (CTF1). The SOP should further be provided for the items below: 
+• 
+An antenatal and postnatal care plan must be provided,  
+• 
+ Heath care professionals experienced in ultrasound should be available, 
+• 
+Midwives and obstetricians as well as other Health care professionals with adequate experience 
+should be available for delivery, 
+• 
+Site should include investigators with experience in neonatal management, 
+• 
+Participants should have easy access to antenatal and labour care, 
+• 
+Procedural obstetrics (Chorionic villous sampling, amniocentesis) should be done if clinically 
+indicated, 
+• 
+Cord blood to be taken only after delayed cord clamping, 
+• 
+Adhere to standardized blood volume draws as per the Ethics committees or SAHPRA CTC 
+review, 
+• 
+Infant follow-up should be with qualified personnel and 
+• 
+Appropriate emergency trolley as per SAHPRA guidelines must be available on site 
+3.7 
+Sites and Investigators  
+3.7.1 Clinical trial sites should have investigators who are obstetricians/ diplomates or proficient in the 
+management of obstetric emergencies. Sites should be set up to manage these or have quick and 
+established access to a facility with expertise and capacity to manage such outcomes. 
+3.7.2 Sonography has become an integral part of the standard of antenatal care- hence demonstrated 
+experience and/or qualification needs to be provided in the CTF1 Section 2.4. 
+SAHPGL-CEM-CT-13_v1 
+Page 9 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+3.7.3 The inclusion of neonatologists and/or paediatricians should be considered where appropriate in the 
+continuum of care. 
+3.7.4 Any study that involves pregnant women needs to have a formal SOP on where and how deliveries 
+will be managed. The applicant should propose and justify, based on the complexities of the study, 
+whether incorporation of an obstetrician and /or paediatrician and neonatologist may be necessary.  
+3.8 
+Registration of Investigational Product 
+SAHPRA CTC will only consider pregnancy/lactation-related studies where there is a potential benefit to the 
+South African population. 
+3.9 
+Foetal/ Neonatal and Infant extension 
+3.9.1 Many studies in pregnancy and lactation may have objectives and endpoints (or estimands) related 
+to the foetus and neonate or infant. 
+3.9.2 In studies where there are extensions to monitoring the outcomes of neonates and infants, as 
+incorporated in the study design, these studies should include investigators with experience in 
+paediatrics and/ neonatology and incorporate (both parent/ caregiver) TIE and insurance for the 
+neonate/ infant, as well as clinical care for the duration of the study.   
+3.10 Pregnancy studies with benefit to the Neonate/ Infant 
+3.10.1 Pregnancy (or maternal) studies may be justified to have value for maternal outcomes, or maternal-
+foetal, or maternal-infant outcomes. The Ethics thereof are evolving but advanced, especially as 
+regards vaccine studies in the maternal population. SAHPRA recognizes that IPs are also being 
+evaluated in this population. 
+3.10.2 SAHPRA CTC encourages the implementation of such studies on CTC review. 
+3.11 Retention of obstetric and paediatric records 
+In South Africa, child health records should be retained at least until the child's 21st birthday, as legally, 
+minors have until three years after reaching the age of majority to make claims. This applies to various 
+health records, including those related to obstetric care. Additionally, records should generally be kept for 
+at least six years after they become dormant (date of last contact). Records for patients with mental 
+incapacities should be kept for their lifetime. 
+3.12 Databases for Long term follow up of babies in the trial 
+SAHPGL-CEM-CT-13_v1 
+Page 10 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+Databases for long term follow up of babies born to pregnant women on clinical studies should be 
+maintained by the sponsor for a period relevant to the study.  
+4. 
+LACTATION 
+4.1 
+Breastfeeding Support 
+4.1.1 It is recognised that breastfeeding support and successful initiation and prolongation of 
+breastfeeding in South Africa require a sustained collaborative effort to improve, as evidenced by the 
+Tshwane declaration in support of breastfeeding (2011). 
+4.1.2 In the context of clinical studies, investigational products can potentially be present in breastmilk and 
+affect the neonate or infant. It is thus necessary to include studies or initiate studies on drug 
+metabolism and excretion during lactation for infant safety.   
+4.1.3 Although it is accepted that “breast is best”, outcomes of lactation research may indicate that, in 
+certain circumstances, alternatives to breastfeeding might be an option to avoid exposure to drugs 
+in breastmilk. 
+4.1.4 Infrastructural support is strongly recommended by providing safe, private spaces at clinical trial 
+centers with lactation consultant support if needed. Cultural/ Religious and Traditional practices and 
+beliefs must be considered in the design of lactation studies. 
+4.1.5 If required, the inclusion of paediatricians and lactation consultants may be necessary.   
+4.1.6 Lactation studies in South Africa and other LMICs should be supported 
+4.2 
+Objectives  
+Ultimately, clinical guidance on drug concentrations in breastmilk is driven by 3 outcomes: 
+• 
+The concentration of the IP in breastmilk 
+• 
+The dose of exposure to the infant  
+• 
+The safety (and possibly benefit) to the infant  
+Breastmilk is a dynamic human tissue. Characteristics differ from colostrum to foremilk, hindmilk, 
+premature, and term milk, with intraday variations. Thus, it is recommended that protocol norms be 
+established for uniformity in the collection of specimens. 
+SAHPGL-CEM-CT-13_v1 
+Page 11 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+4.3 
+Inclusion of lactating mothers in studies 
+• 
+Non-nursing mothers who are still producing breastmilk (but not breastfeeding their infant) may 
+be included in lactation studies. 
+• 
+Mothers who are breastfeeding: To assess drug exposure in breastmilk and breastfed infants. 
+• 
+Extension of pregnancy studies to the lactation period. 
+• 
+Temporary cessation of breastfeeding and replacement with formula will not be allowed. 
+4.4 
+Safety and Efficacy monitoring  
+4.4.1 The same principles apply with respect to the safety monitoring of lactating mothers and their 
+infants. The table of visit schedules should adequately consider this in the protocol. 
+4.4.2 In addition, certain conditions unique to the neonatal period may require extra consideration 
+(growth, development, neonatal pathology). 
+4.4.3 Neurodevelopmental outcomes may be of consideration for long-term follow-up. 
+4.4.4 For studies where there is maternal intervention for infant benefit, such as vaccine studies, more 
+information may be obtained by analysis of breastmilk.  
+4.4.5 Causality with SAEs/ AEs/ AESIs must be interpreted within the context of plausible exposure to IP. 
+4.4.6 Termination of studies in lactation will be guided by Safety Review committees, DSMBs, and 
+regulatory authorities. 
+4.5 
+Breastmilk Volumes 
+4.5.1 Standardized reference values for volumes of breastmilk collection in clinical studies are not 
+available. 
+4.5.2 The minimum amount of breastmilk for the indicated study should be utilized for optimal PK/ PD 
+analysis, or any other analysis. 
+4.5.3 Breastmilk is considered Human Tissue in South Africa (National Health Act 61 of 2003), and all 
+biological hazard precautions in acquisition, processing, storage, and transport should be taken.  An 
+export licence and material transfer agreement will be necessary for the export of the specimen. 
+SAHPGL-CEM-CT-13_v1 
+Page 12 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+NOTE: Only a maximum sample storage of 15 years is allowed unless it is scientifically justified.   
+5. 
+REFERENCES 
+5.1 
+Guidance for best practices for clinical trials. Geneva: World Health Organization; 2024. Licence: CC 
+BY-NC-SA 3.0 IGO. 
+5.2 
+National Health Research Ethics Council (2024) South African Ethics in Health Research Guidelines: 
+Principles, Processes and Structures, 3rd ed. National Department of Health of the Republic of South 
+Africa. Pretoria: NDoH. 137p. ISBN 978-0-621-52027-9. 
+5.3 
+ICH E21 Guideline on inclusion of pregnant and breastfeeding individuals in clinical trials: 
+https://www.ema.europa.eu/en/documents/other/ich-e21-guideline-inclusion-pregnant-
+breastfeeding-individuals-clinical-trials_en.pdf 
+5.4 
+World Medical Association. World Medical Association Declaration of Helsinki: Ethical Principles for 
+Medical 
+Research 
+Involving 
+Human 
+Participants. 
+JAMA. 
+2025;333(1):71–74. 
+doi:10.1001/jama.2024.21972 
+5.5 
+Department of Health, 2020. South African Good Clinical Practice: Clinical Trial Guidelines Pretoria, 
+South Africa 
+5.6 
+Guidelines 
+for 
+Phase 
+I 
+clinical 
+trials 
+2018 
+edition: 
+https://www.abpi.org.uk/media/tnnpj2lb/guidelines-for-phase-i-clinical-trials-2018-edition-
+20180626.pdf 
+5.7 
+Standard Operating Procedure: Research involving minors and vulnerable persons: Faculty of Health 
+Sciences Research Ethics Committee, University of Pretoria 4 May 2022; (accessed 16 June 2025) 
+5.8 
+International Ethical Guidelines for Health-related Research involving Humans. Geneva: Council for 
+International 
+Organizations 
+of 
+Medical 
+Sciences; 
+2016 
+p73-74 
+(https://cioms.ch/wp-
+content/uploads/2017/01/WEB-CIOMS-EthicalGuidelines.pdf; accessed 16 June 2025) 
+5.9 
+A.T. 
+Chamberlain 
+et 
+al., 
+Ethics 
+of 
+maternal 
+vaccination. 
+Science 
+358, 
+4453(2017).DOI:10.1126/science.aao4219 
+5.10 Munoz FM. Can We Protect Pregnant Women and Young Infants From COVID-19 Through Maternal 
+Immunization? JAMA Pediatr. 2021;175(6):561–562. doi:10.1001/jamapediatrics.2021.0043 
+SAHPGL-CEM-CT-13_v1 
+Page 13 of 13
+Guidelines to Clinical Trials in Pregnancy and Lactation 
+25 March 2026 
+ 
+ 
+5.11 HPCSA, Guidelines on the Keeping of Patient Records (2008), para 9Office, E. (2011). The Tshwane 
+declaration of support for breastfeeding in South Africa. South African Journal of Clinical Nutrition, 
+24(4), 214. 
+5.12 Clinical Lactation Studies: Considerations for Study Design Guidance for Industry; U.S. Department of 
+Health and Human Services Food and Drug Administration May 2019 
+5.13 Eke AC, et al. Optimizing Pharmacology Studies in Pregnant and Lactating Women Using Lessons From 
+HIV: A Consensus Statement. Clin Pharmacol Ther. 2021 Jul;110(1):36-48. doi: 10.1002/cpt.2048. 
+Epub 2020 Oct 15. PMID: 32930408; PMCID: PMC8167886. 
+5.14 Abduljalil K, Pansari A, Ning J, Jamei M. Prediction of drug concentrations in milk during 
+breastfeeding, integrating predictive algorithms within a physiologically-based pharmacokinetic 
+model. CPT Pharmacometrics Syst Pharmacol. 2021 Aug;10(8):878-889. doi: 10.1002/psp4.12662. 
+Epub 2021 Jul 2. PMID: 34213088; PMCID: PMC8376129. 
+6. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of implementation. It will be reviewed on 
+this timeframe or as and when required. 
+

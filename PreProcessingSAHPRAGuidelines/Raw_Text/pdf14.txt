@@ -1,0 +1,1024 @@
+SAHPGL-LIC-05_v2 
+Page 1 of 24
+ 
+ 
+ 
+10 April 2026 
+GWP GUIDELINE FOR THE IMPORTERS AND DISTRIBUTORS OF 
+SCHEDULED SUBSTANCES 
+Objective 
+This guideline is intended to provide recommendations to applicants wishing to submit an application for a 
+licence to import and /or distribute substances listed in the schedules in terms of the Medicines Act intended 
+for use in the manufacturing and/or compounding of medicines or scheduled substances. Furthermore, this 
+guideline document does not provide a stand-alone guidance on GWP and GMP for importers and distributors 
+of scheduled substances used in the manufacturing and/or compounding of medicines and related 
+substances. It is also not intended as an exclusive approach leaflet and should thus not be taken as a complete 
+or authoritative statement of the law. SAHPRA reserves the right to request any additional information to 
+establish the safety, quality and efficacy of any scheduled substance used in the manufacturing and/or 
+compounding of medicines or related substances in keeping with the knowledge current at the time of 
+evaluation. SAHPRA is committed to ensuring that any scheduled substance used in the manufacturing of all 
+registered medicines will be of the required quality, safety, and efficacy and that the manufacturer of such 
+scheduled substances complies with acceptable quality assurance principles and good manufacturing 
+practices as determined by SAHPRA during the manufacturing and importation of such scheduled substances 
+into the Republic of South Africa. It is important that applicants adhere to the administrative requirements to 
+avoid delays in the processing and evaluation of their applications.   
+ 
+The guidance in this Guidelines and application forms are available from the Office of the SAHPRA Chief 
+Executive Officer and the SAHPRA website www.sahpra.org.za or https://www.sahpra.org.za/inspectorate-
+pharma licencing-and-regulatory-compliance/ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+Date of Finalization/Implementation 
+April 2024 
+2 
+Addition of Section 9: Application Processing Timelines 
+March 2026 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-LIC-05_v2 
+Page 2 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+SAHPRA ................................................................................................................................................................. 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 3 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 5 
+3. 
+GUIDING PRINCIPLES .................................................................................................................................. 6 
+3.1 
+Quality Management System (QMS) .......................................................................................................... 7 
+3.2 
+Personnel .................................................................................................................................................... 7 
+3.3 
+Documentation .......................................................................................................................................... 8 
+3.4 
+Premises and Equipment ......................................................................................................................... 10 
+3.5 
+Operations ................................................................................................................................................ 11 
+3.6 
+Returns, Complaints and Recalls .............................................................................................................. 14 
+4. 
+WHO MUST APPLY FOR A LICENCE TO IMPORT AND DISTRIBUTE SCHEDULED SUBSTANCES (INCLUDING 
+CONTROLLED SCHEDULED SUBSTANCES) ........................................................................................................... 17 
+5. 
+HOW TO OBTAIN A LICENCE (APPLICATION FORM AND ADDITIONAL INFORMATION TO BE 
+SUBMITTED)........................................................................................................................................................ 17 
+6. 
+INSPECTION (AS STIPULATED IN REGULATION 23(3) OF THE GENERAL REGULATIONS TO ACT 101 OF 
+1965) …………………………………………………………………………………………………………………………………………………………..19 
+7. 
+POWER TO SUSPEND OR REVOKE A LICENCE TO IMPORT AND DISTRIBUTE A SCHEDULED SUBSTANCE 
+(AS PER PROVISION OF SECTION 22E OF ACT 101). ........................................................................................... 20 
+8. 
+FEES PAYABLE ........................................................................................................................................... 21 
+9. 
+CONTACT DETAILS .................................................................................................................................... 22 
+10. 
+REFERENCES ............................................................................................................................................. 24 
+11. 
+VALIDITY ................................................................................................................................................... 24 
+ 
+ 
+ 
+ 
+SAHPGL-LIC-05_v2 
+Page 3 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Act 53 of 1974 
+The Pharmacy Act 53 of 1974 as amended 
+Act 101 of 1965/Medicine 
+Act 
+Medicines and Related Substances Act 101 of 1965 as amended 
+ASMF 
+Active Substance Master File 
+CAPA  
+Corrective And Preventive Actions 
+CEO 
+Chief Executive Officer 
+DMF 
+Drug Master File 
+EHD 
+Extended Health Detention 
+GDP 
+Good Distribution Practice 
+GMP 
+Good Manufacturing Practice 
+GMCP 
+Good Medicine Compounding Practice 
+GPP 
+Good Pharmacy Practice 
+GWP 
+Good Wholesaling Practice 
+NDOH 
+National Department of Health 
+QMS 
+Quality Management Systems  
+RP 
+Responsible Pharmacist 
+SAHPRA 
+South African Health Products Regulatory Authority (also known as The 
+Authority) 
+SAPC 
+South African Pharmacy Council 
+SCHEDULED SUBSTANCE 
+It means any medicine or other substances prescribed by the Minister under 
+Section 22A of Act 101 of 1965 
+ 
+https://www.sahpra.org.za/wp-content/uploads/2023/04/Consolidated-
+Schedules_24-March-2023.pdf  
+SMF 
+Site Master File 
+1. INTRODUCTION 
+The purpose of this guideline is to provide guidance for a wholesaler to import (or procure) and 
+distribute scheduled substances used in the manufacturing of registered medicines and/or related 
+substances for human and animal use that are controlled in terms of the provisions of the Medicines 
+Act. 
+The South African Health Products Regulatory Authority (SAHPRA or The Authority) regulates medicines 
+for human and animal use, in accordance with the provisions of the Medicines and Related Substances 
+Act; (Act 101 of 1965) as amended and the relevant Regulations made thereunder. (Hereafter referred 
+to as the Act 101 of 1965 or the Medicines Act.) Amongst other things, it is unlawful for medicines or 
+scheduled substances to be imported, manufactured, distributed, and sold or supplied in the Republic 
+of South Africa (RSA) and/or exported out of the Republic of South Africa except in accordance with the 
+SAHPGL-LIC-05_v2 
+Page 4 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+appropriate authorization, registration certificates, licences, clinical trial approvals or exemptions 
+obtained from the Authority. The licensing system includes SAHPRA, the Chief Executive Officer of 
+SAHPRA and the Program: Inspectorate and Regulatory Compliance, whose duties comprise the issue of 
+licences to those engaged in the sale or supply of medicines and scheduled substances by way of 
+wholesale dealing. Furthermore, the Good Wholesaling Practice (GWP), Good Manufacturing Practice 
+(GMP) Inspectors and SAHPRA are responsible for ensuring that licence holders comply with the 
+provisions and conditions of their licences. The importation and/or distribution of veterinary medicine 
+or scheduled substances for animal use, registered with The Authority in terms of the provisions of the 
+Medicines Act, are subject to the same legislation and the requirements are similar.  
+1.1 Purpose 
+This guideline addresses applicants who wish to apply for a wholesaling licence to only import and 
+distribute scheduled substances for the manufacturing of registered medicines, and/or compounding 
+in terms of the Pharmacy Act and the Medicines Act. 
+These guidelines complement the rules on distribution as set out in the SA Guide to GMP on Basic 
+Requirements for Active Pharmaceutical Ingredients (including IPI) and also apply to distributors of 
+scheduled substances manufactured by themselves. 
+Any manufacturing activities in relation to the scheduled substances, including re-packaging, re-
+labelling, or dividing up, are subject to SA Guide to GMP on Basic Requirements for Active 
+Pharmaceutical Ingredients (including IPI) and are thus not covered by this guideline document. 
+1.2 Scope 
+This document lays down guidelines of how to apply for a Wholesale licence to Import and distribute 
+scheduled substances used in the manufacturing and compounding of Medicines and Related 
+Substances and applies equally to products for human and for veterinary use as per Act 101 of 1965. 
+The document further describes the process to be followed when importing a scheduled substances 
+into the Republic of South Africa as per Regulation 6 of the general regulations of the Medicine Act, 
+when it is intended to be used in the manufacturing or compounding of medicines or active 
+pharmaceutical ingredients. 
+Although General Regulation 6 applies to “medicine of scheduled substance”, it also needs to be read 
+with the preamble exception for industrial or analytical purposes.  
+SAHPGL-LIC-05_v2 
+Page 5 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+In this Guideline, the word "should” indicates requirements that are expected to apply unless shown to 
+not be applicable or unless replaced by an alternative demonstrated to provide at least an equivalent 
+level of quality assurance. The scope also includes the following: 
+1.2.1 
+An active pharmaceutical ingredient is any substance or mixture of substances intended to 
+be used in the manufacture or compounding of a medicinal product and/ or that, when used 
+during production, becomes an active ingredient of that product intended to exert a 
+pharmacological, immunological, or metabolic action functions or to make a medical 
+diagnosis.  
+1.2.2 
+For the purpose of these guidelines, distribution of scheduled substances shall comprise all 
+activities consisting of procuring, importing, holding, supplying, of these scheduled 
+substances. 
+1.2.3 
+These guidelines also apply to intermediates (including precursors) of raw materials used to 
+produce scheduled substances. 
+1.2.4 
+Any scheduled substance containing substances listed as specified schedule 5 and schedule 
+6 requires a permit in terms of Section 22A (9) or 22A (11) of the Medicines Act.  
+2. LEGAL PROVISION 
+These guidelines need to be applied in accordance with the relevant legislation applicable to each 
+profession engaged in manufacturing and/or compounding of medicines and or related substances. 
+Pharmacists (in the manufacturing, wholesaling, and/or compounding sites) and all the support 
+personnel are bound by the Pharmacy Act (Act 53 of 1974) and the regulations and rules published in 
+terms of that Act. All these personnel are also bound by the regulations and guidelines published in 
+terms of the Medicine Act. Holders of a Section 22C(1)(b) licence of the Medicine Act are also subject 
+to the Good Pharmacy Practice (GPP) Rules, as stipulated in the Section 22 of the Pharmacy Act. These 
+provisions should all be read in conjunction, and not separately. Each instrument may be amended 
+from time to time. 
+For ease of reference, the key provisions relating to importation and distribution of scheduled 
+substances provided in the Medicines Act and the General Regulations published in terms of that Act 
+are provided here: 
+Section 22C. Licensing. — (1) Subject to the provisions of this section— 
+(b) the Authority may, on application in the prescribed manner and on payment of the prescribed fee, 
+issue to a medical device or IVD establishment, manufacturer, wholesaler or distributor of a medicine, 
+SAHPGL-LIC-05_v2 
+Page 6 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+Scheduled substance, medical device or IVD a licence to manufacture, import, export, act as a 
+wholesaler of or distribute, as the case may be, such medicine, Scheduled substance, medical device or 
+IVD upon such conditions as to the application of such acceptable quality assurance principles and 
+good manufacturing and distribution practices as the Authority may determine. 
+(6) No medical device or IVD establishment, manufacturer, wholesaler, or distributor referred to in 
+subsection (1)(b) shall manufacture, act as a wholesaler of or distribute, as the case may be, any 
+medicine, Scheduled substance, medical device or IVD unless he or she is the holder of a licence 
+contemplated in the said subsection. 
+Section 22D. Period of validity and renewal of licence. 
+Section 22E. Suspension and cancellation of licence. 
+Section 22H. Purchase and sale of medicines, medical devices, IVDs and Scheduled substances by 
+wholesalers. 
+The relevant Regulations are as follows: 
+General Regulation 23- Licence to Manufacture, Import, Export, Act as a Wholesaler of or Distribute 
+Medicines or Scheduled Substances 
+General Regulation 24- Period of validity and renewal of Licence issued in terms of Regulation 23. 
+3. 
+GUIDING PRINCIPLES 
+All parties involved in the supply chain dealing with the Importation and Distribution of Scheduled 
+Substances used in the manufacturing or compounding of medicines and/ or related substances, are 
+responsible for the effective, efficient, and safe handling, storage, and distribution of such Scheduled 
+Substances in a manner that does not risk exposure to temperatures or any other condition that may 
+have an adverse effect on the quality of the product and that it is not stored outside of their 
+recommended storage conditions. They must prevent any excursions from the recommended storage 
+conditions that could potentially affect the quality, safety, and effectiveness of the scheduled 
+substance. 
+The principles of Good Manufacturing Practices and Good Wholesaling Practices are equally applicable 
+to any Scheduled Substance moving through the supply chain from the manufacturer to the end user, 
+as well as Scheduled Substances which are moving backwards in the supply chain because of the return 
+or recall thereof. 
+The following are important in the guiding principles: 
+SAHPGL-LIC-05_v2 
+Page 7 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+3.1 Quality Management System (QMS) 
+Importers and Distributors of scheduled substances should develop and maintain a quality 
+management system setting out roles, responsibilities, processes, and risk management principles 
+as per the S.A. Guide to Good Manufacturing Practice.  
+The Quality Management System (QMS) should be adequately resourced with qualified and 
+competent personnel, and suitable and sufficient premises, equipment, and facilities. It should 
+ensure that: 
+(i) 
+Scheduled substances are procured, imported, stored, and distributed in a way that is 
+compliant with the requirements of GMP and GWP of these scheduled substances; 
+(ii) 
+management roles and responsibilities are clearly specified and defined; 
+(iii) 
+ scheduled substances are delivered to the right recipients within a satisfactory time 
+period to avoid compromising their safety, quality, and efficacy; 
+(iv) 
+records are made contemporaneously and stored for a period of five years as per 
+General Regulations 35 and 36 of the Medicine Act; 
+(v) 
+deviations from established procedures are documented and investigated;  
+(vi) 
+appropriate corrective and preventive actions, commonly known as ‘CAPA’, are taken to 
+correct deviations and prevent them in line with the principles of quality risk 
+management;  
+(vii) 
+changes that may affect the storage and distribution of scheduled substances are 
+evaluated. 
+Furthermore, the size, the structure and complexity of the Importer and distributor’s activities 
+should be taken into consideration when developing or modifying the quality management 
+system. 
+3.2 Personnel 
+1. Importers and Distributors of scheduled substances should employ key personnel as per the 
+requirements of the S.A. Guide to Good Manufacturing Practice. 
+The Key Personnel include the following: 
+a. An Authorised Representative/natural person who resides in South Africa and 
+will be responsible to SAHPRA for the compliance with the requirements of the 
+Medicines and Related Substances Act,101 of 1965(Act 101 of 1965). 
+b. The Responsible Pharmacist who is responsible to SAHPRA for the compliance 
+SAHPGL-LIC-05_v2 
+Page 8 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+with the requirements of the Medicines and Related Substances Act,101 of 
+1965(Act 101 of 1965) and to the Pharmacy Council for compliance with the 
+requirements of the Pharmacy Act,1974(Act 53 of 1974). 
+c. The person responsible for Quality Assurance. This person must be part of the 
+decision-making process in all the matters that affect the quality of the 
+Scheduled Substance, including its testing, storage, and distribution to the end-
+user. 
+2. The designated person should fulfil his/her responsibilities personally. The designated person 
+can delegate duties but not responsibilities.  
+3. The responsibilities of all personnel involved in the importation and distribution of the 
+scheduled substances should be specified in writing. The personnel should be trained in the 
+requirements of GMP and GWP for scheduled substances. 
+4.  They should have the appropriate competence and experience to ensure that scheduled 
+substances are properly handled, stored, and distributed. 
+5.  The personnel should receive initial and continuing training relevant to their role, based on 
+written procedures and in accordance with the written training programme of the company. 
+6. A record of all training should be kept, and the effectiveness of training should be 
+periodically assessed and documented. 
+7. The S.A Guideline on Good Manufacturing Practices further explains the importance of the 
+correct qualifications for each role and responsibility in the organization, including the 
+training relevant and necessary for that particular role. 
+3.3 Documentation 
+1. Documentation comprises of all written procedures, instructions, contracts, records, and 
+data, in paper or in electronic form. These documents should be readily available or 
+retrievable. All documentation related to compliance of the Importer, wholesaler and 
+distributor with these guidelines should be made available on request of competent 
+authorities. 
+2. The documents should be sufficiently comprehensive with respect to the scope of 
+Importing, Wholesaling/Storing, and Distributing activities and in a language understood by 
+personnel. It should be written in clear, unambiguous language and be free from errors. 
+3. Any alteration made in the documentation should be signed and dated; the alteration 
+should permit the reading of the original information. Where appropriate, the reason for 
+the alteration should be recorded. 
+SAHPGL-LIC-05_v2 
+Page 9 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+4. Each employee should have ready access to all necessary documentation for the tasks 
+executed. 
+Below are some of the documents the Importer, Wholesaler and Distributor of Scheduled 
+Substances should have in their premises.  
+(i) Procedures 
+1. The Importer, Wholesaler/Storer and Distributor’s written procedures should describe all 
+the activities which affect the quality of scheduled substances. This could include receipt 
+and checking of deliveries, storage, cleaning, and maintenance of the premises (including 
+pest control), recording of the storage conditions, security of stocks on site and of 
+consignments in transit, withdrawal from saleable stock, handling of returned products, 
+recall plans, etc. 
+2. These procedures should be approved, signed, and dated by the person(s) responsible for 
+the quality management system of the company. 
+3. The company should ascertain that only valid and approved procedures are in use. 
+Documents should be reviewed regularly and kept up to date. Version control should be 
+applied to the procedures. After revision of a document a system should exist to prevent 
+inadvertent use of the superseded version. Superseded or obsolete procedures should be 
+removed from workstations and archived. The new version should be made available to 
+the relevant personnel and training records be updated. 
+(ii) Records 
+1. All the records should be clear, be made at the time each operation is performed and in 
+such a way that all significant activities or events are traceable.  These records should be 
+retained for at least 5 years after the expiry date of the scheduled substance batch to 
+which they relate. For scheduled substances with retest dates, records should be retained 
+for at least 5 years after the batch is completely distributed. 
+2. The records of each purchase and sale, showing the date of purchase or supply, name of 
+the scheduled substance, batch number and quantity received or supplied, and name and 
+address of the supplier and of the original manufacturer, as well as the details of 
+customer/client supplied to, if not the same, or of the shipping agent and/or the 
+consignee should be kept. These records should ensure the traceability of the origin and 
+destination of products, so that all the suppliers of, or those supplied with a scheduled 
+substance can be identified. These are some of the records that should be retained (as per 
+SAHPGL-LIC-05_v2 
+Page 10 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+point 1 above) and shall be made available whenever they are requested by the SAHPRA 
+Inspectors, or any other legal person authorized by the South African law to do so. The 
+records include, but are not limited to the following: 
+• 
+The identity of original manufacturer 
+• 
+The address of original manufacturer 
+• 
+The purchase orders raised (invoice number) 
+• 
+The bills of lading or transportation documentation (from the Manufacturer) 
+• 
+The receipt documents. 
+• 
+The name and/or designation of the scheduled substance. 
+• 
+The manufacturer’s batch number 
+• 
+The manufacturer’s expiry date and/or retest date of these scheduled substances 
+(which must be justified by stability studies if not included in an ASMF or DMF) 
+• 
+The transportation and distribution records (from the local company/Importer-
+Distributor) 
+• 
+All valid Certificates of Analysis, including those from the original manufacturer. 
+3.4 Premises and Equipment 
+1. The premises used for the storage of these scheduled substances should be suitable and 
+adequate to ensure proper storage and their distribution. (As per GWP and GMP 
+requirements) 
+2. The equipment used should provide protection from contamination or cross 
+contamination of these scheduled substances, e.g., narcotics, highly sensitive materials, 
+materials of high pharmacological activity or toxicity. 
+3. The premises should be suitably secure to prevent unauthorised access into the company 
+and to monitor all the activities happening within it. 
+4.  The premises should have signage with access control for authorized personnel to enter 
+relevant spaces. 
+5. All the monitoring devices and other equipment used in the facility, that are necessary to 
+guarantee the quality attributes of the scheduled substance, should be calibrated 
+according to an approved schedule against certified traceable standards. Relevant 
+qualification of equipment and validation of processes must be initially performed, 
+documented, and repeated based on the agreed plan. 
+SAHPGL-LIC-05_v2 
+Page 11 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+3.5 Operations 
+A company that Imports, Stores and Distribute a scheduled substance should under its quality 
+management system explain all the operations taking place at that particular site as per the GMP 
+and GWP principles. These should include (but are not limited) the following:  
+(1) 
+Orders 
+a. The document must clearly state where they procure these scheduled substances, 
+that is the name and address of the manufacturer and also explain/state if that 
+manufacturer is registered according to that country’s national law(s), per Section 
+22H of the Medicine Act. 
+b. The manufacturer must also be in possession of a licence/certificate permitting them 
+to manufacture as per their country’s national law(s). 
+(2) 
+Receipt 
+a. The document must clearly state how the areas for receiving these scheduled 
+substances should protect the deliveries from prevailing weather conditions during 
+unloading. Furthermore, these areas should be indicated with appropriate signage 
+and the reception area should be separate from the storage areas. The document 
+must also state that deliveries should be examined at receipt area in order to verify 
+that: 
+(i) 
+the containers are not damaged; 
+(ii) 
+all security seals are present with no sign of tampering; 
+(iii) 
+correct labelling, including correlation between the name used by the 
+supplier and the in-house name if these are different;  
+(iv) 
+necessary information, such as a certificate of analysis, is available; and  
+(v) 
+the scheduled substances consignment corresponds to the order 
+placed by the company. 
+(vi) 
+the expiry date and retest date (if applicable). 
+c. The document must also state that any scheduled substances delivered with broken 
+seals, damaged packaging, or suspected of possible contamination should be 
+quarantined either physically or using an equivalent electronic system and the cause of 
+the issue investigated. 
+d. The document must clearly explain how a scheduled substance which requires specific 
+storage measures, e.g., narcotics and products requiring a specific storage temperature 
+SAHPGL-LIC-05_v2 
+Page 12 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+or humidity, should be immediately identified, and stored in accordance with written 
+instructions and with relevant legislative provisions. 
+e. The document must clearly explain how the importer/distributor of a scheduled 
+substance handles any of these scheduled substances procured or imported by him 
+which is suspected to have been falsified. The company must segregate it either 
+physically or using an equivalent electronic system and inform the national competent 
+authority of the country in which the company is registered. 
+f. The document must clearly explain how rejected materials should be identified, 
+controlled, and quarantined to prevent their unauthorised use in manufacturing and 
+their further distribution. 
+g. Hard and /or soft copy records of destruction activities should be readily available, to 
+explain the process to be followed when the consignment is to be destroyed. 
+(3) 
+Storage 
+a. The document must clearly state why scheduled substances should be stored under 
+the conditions specified by the manufacturer, e.g., controlled temperature and 
+humidity when necessary, and in such a manner to prevent contamination and/or mix-
+up. These storage conditions should be monitored, and records maintained. The 
+records should be reviewed regularly by the person responsible for the quality 
+management system. When specific storage conditions are required, the storage area 
+should be qualified and operated within these specified limits. 
+b. The document must also state why the storage facilities should be clean and free from 
+litter, dust, and pests. It should further explain why adequate precautions should be 
+taken against spillage or breakage, attack by micro-organisms and cross-
+contamination. 
+c. The document must clearly describe the system used by the importer/distributor, and 
+this system must ensure stock rotation, e.g., ‘first expiry (retest date), first out’, with 
+regular and frequent checks that the system is operating correctly. Any electronic 
+warehouse management systems must be validated. The system must be able to 
+separate any scheduled substance beyond its expiry date, either physically or using any 
+equivalent electronic system, from approved stock and these scheduled substances 
+must not be supplied. There must be a contingency plan in place to manage equipment 
+failure and power outages, to ensure special storage conditions are maintained at all 
+times. 
+SAHPGL-LIC-05_v2 
+Page 13 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+d. The document must clearly explain how storage and/or transportation of these 
+scheduled substances is handled when these activities are contracted out. The 
+company must ensure that the contract acceptor knows and follows the appropriate 
+storage and transport conditions (in accordance with recommended storage conditions 
+for each substance and these have to be monitored during transportation). The 
+document must clearly explain the importance of a written contract between the 
+contract giver and contract acceptor, which clearly establishes the duties of each party. 
+The contract acceptor should not subcontract any of the work entrusted to him under 
+the contract without the contract giver’s written authorisation. 
+(4) 
+Deliveries to customers 
+a. The company must only supply these scheduled substances to registered 
+manufacturers/lawfully authorized professionals in accordance with Act 101 of 1965(as 
+amended). 
+b. These scheduled substances must be transported in accordance with the conditions 
+specified by their manufacturer and in a manner that does not adversely affect their 
+quality. The product, batch and container identity should be maintained at all times. 
+All original container labels should remain readable. 
+c. The company must have a system in place by which the distribution of each batch of 
+these scheduled substances can be readily identified to permit its recall. 
+(5) 
+Sharing of information 
+The companies that are Importers and Distributors of these scheduled substances must 
+develop and maintain documents and systems setting out processes and ways of how to 
+share information with their clients and/or national authorities. These documents/or 
+systems must be able to address the following concerns: 
+a.  How they notify their customers and the national authorities of any information or 
+event that they become aware of, which will have the potential to cause an 
+interruption to supply. 
+b. How they should transfer all product related quality or regulatory information received 
+from a scheduled substance manufacturer to the customer/national authority and from 
+the customer/national authority to the scheduled substance manufacturer. 
+c. How they provide to their scheduled substance customers/national authority the name 
+and address of the original scheduled substance manufacturer and the batch number(s) 
+SAHPGL-LIC-05_v2 
+Page 14 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+supplied. Furthermore, the document/system must also state that a copy of the original 
+certificate of analysis from the manufacturer should be provided to the 
+customer/national authority. The document/system must also explain how the original 
+manufacturer can respond to a competent authority directly or through the company. 
+(6) 
+Detention of Scheduled Substance consignment  
+6.1 Consignments/shipments would be detained unless: 
+b. The import licence is produced, and it corresponds with the shipping 
+documents.  
+c. Where an importer delays in providing missing import compliance documents, 
+the consignment may be given an extended health detention (EHD), and this 
+would require that the scheduled substances be moved to/stored in a SAHPRA 
+registered bonded warehouse.  
+d. Upon Applicant/Importer furnishing the authority with the relevant 
+documents release shall be granted 
+6.2 Consignment in-transit, an EHD will be given to the importer, after which an acquittal will 
+be send once consignment has landed to the rightful receiver.   
+3.6 Returns, Complaints and Recalls 
+The company must develop documents/systems on how they handle returns, complaints and 
+recalls. These documents/systems must be adequately maintained and be readily accessible 
+when required or requested by the authorities. The effectiveness of the system must be 
+challenged. 
+(1) 
+Returns 
+a.  Any Scheduled Substance returned to the supplying company must be clearly 
+identified as such and quarantined pending investigation. 
+b. Any Scheduled Substance which left the care of the supplying company, should only be 
+returned back to approved stock if all of the following conditions are met: 
+(i) 
+The scheduled substance is in its original unopened container(s) with all original 
+security seals present and is in good condition; 
+(ii) 
+the company returning the stock can demonstrate that the scheduled 
+substance has been stored and handled under proper required storage 
+conditions. Written information provided by the customer should be available 
+SAHPGL-LIC-05_v2 
+Page 15 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+for this purpose; 
+(iii) 
+the remaining shelf-life period of the scheduled substance is acceptable; 
+(iv) 
+the scheduled substance has been examined and assessed by a person trained 
+and authorised to do so; (This assessment should take into account the nature 
+of the scheduled substance, any special storage conditions it requires, and the 
+time elapsed since it was supplied. As necessary and if there is any doubt about 
+the quality of the returned scheduled substance, advice should be sought from 
+the manufacturer.) 
+(v) 
+that no loss of information/traceability has occurred during the time it was 
+supplied to the returning company. 
+c. The company must create and maintain records of all the returned scheduled 
+substances. This record/documentation must include the following: 
+(i) 
+the name and address of the customer/client returning the scheduled 
+substances; 
+(ii) 
+the name or designation of the scheduled, its batch number and quantity 
+returned; 
+(iii) 
+ the reason for return which must be clearly stated/documented; 
+(iv) 
+the return to stock for use or disposal of the returned scheduled substance and 
+records of the assessment performed. 
+d. The company’s documentation must clearly state that only appropriately trained and 
+authorised personnel should release scheduled substances for return to stock. Any 
+scheduled substances returned to saleable stock must be placed such that the stock 
+rotation system operates effectively. 
+(2) 
+Complaints 
+The company must have a system/record of all the complaints they receive, whether 
+received orally or in writing. These complaints must be recorded and investigated 
+according to a written and approved procedure of the company. If a complaint is about 
+the quality of a scheduled substance, the Importer/Distributor must refer the complaint 
+to the original manufacturer of the scheduled substance for them to review the 
+complaint. This will help the manufacturer in order to determine whether any further 
+action, either with other customers who may have received this scheduled substance or 
+with the competent authority, or both, should be initiated. The investigation into the 
+cause for the complaint must be conducted and documented by the appropriate party. 
+SAHPGL-LIC-05_v2 
+Page 16 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+a. The complaints records must include (but not limited to) the following: 
+(i) 
+the name and address of complainant (these must be kept confidential in 
+case the complainant wants to remain anonymous); 
+(ii) 
+the name, surname, title (where appropriate), and phone number of person 
+submitting the complaint; 
+(iii) 
+the nature of the complaint, including name and batch number of the 
+scheduled substance; 
+(iv) 
+the date on which the complaint was received; 
+(v) 
+the initially action taken, including dates and identity of person taking the 
+action; 
+(vi) 
+the date of any follow-up action taken, including the identity of the person 
+taking the action; 
+(vii) 
+the response provided to the originator of complaint, including the response 
+date; 
+(viii) 
+any final decision(outcome) on the status of the scheduled substance batch. 
+b. The records of complaints must be retained in order to evaluate trends, product-
+related frequencies, and severity with a view to taking additional, and if appropriate, 
+immediate corrective action. These must also be made available during inspections by 
+competent authorities. 
+c. Where a complaint is referred to the original scheduled substance manufacturer, the 
+record maintained by the Importer/distributor should include any response received 
+from the original scheduled substance manufacturer, including date and information 
+provided. 
+d. In the event of a serious or potentially life-threatening situation, local, national, and/or 
+international authorities must be informed, and their advice sought. 
+(3) 
+Recalls 
+a. If the situation warrants, that is, after the Importers/ distributors and pharmaceutical 
+products manufacturers have reviewed the complaint with the original scheduled 
+substance manufacturer and it is determined that further action is necessary, either 
+with other customers who may have received this scheduled substance or with the 
+regulatory authority (locally, nationally and/or internationally), a recall of this 
+scheduled substance should be initiated. The investigation into the cause of the 
+complaint or recall should be conducted and documented by the appropriate party. 
+SAHPGL-LIC-05_v2 
+Page 17 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+b. Every company handling scheduled substances must have a written procedure that 
+defines the circumstances under which a recall of a scheduled substance should be 
+considered. 
+c. This recall procedure must designate who should be involved in evaluating the 
+information, how a recall should be initiated, who should be informed about the recall, 
+and how the recalled material should be treated. The designated person (as per the 
+company’s organogram/QMS) should be involved in recalls. 
+4. WHO MUST APPLY FOR A LICENCE TO IMPORT AND DISTRIBUTE SCHEDULED 
+SUBSTANCES (INCLUDING CONTROLLED SCHEDULED SUBSTANCES) 
+4.1 Persons who in the course of a business are engaged in: 
+(a) importing scheduled substances. 
+(b) distribution of scheduled substances used in the manufacturing or compounding of 
+medicines for human and animal use. 
+5. 
+HOW TO OBTAIN A LICENCE (APPLICATION FORM AND ADDITIONAL 
+INFORMATION TO BE SUBMITTED). 
+5.1 Standard application form for an Importer and Distributor of Scheduled Substances licence is 
+available from The Office of the Chief Executive Officer of SAHPRA or from the SAHPRA 
+website:https://www.sahpra.org.za/inspectorate-pharmalicencing-and-regulatory-
+compliance/ 
+5.2 An application for an Importer and Distributor of Scheduled Substances should be 
+accompanied by the prescribed application fee (see the gazetted published fees on the 
+SAHPRA website) and in the case of a new Importer and Distributor Licence for Scheduled 
+Substances an additional inspection fee will be required as per the SAHPRA gazetted fees 
+published in the SAHPRA website.   
+5.3 The applicant shall provide within the application form acceptable documentation proof 
+obtained from the following institutions: 
+5.3.1 
+The SA Pharmacy Council, namely: 
+• 
+the particulars of the owner of the business which includes the Certificate of 
+recording of a Pharmacy Owner 
+• 
+the registration of the responsible pharmacist 
+SAHPGL-LIC-05_v2 
+Page 18 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+• 
+Certificate of recording of a Pharmacy. 
+5.3.2 
+The Director General of Health, namely: 
+• 
+a licence for the premises (NDOH Licence) wherein or from which such business carried 
+on/or proof of application. 
+5.3.3 
+The Additional documents required: 
+• 
+Cover Letter -Which explains the reason for the application and type, i.e., whether it 
+is a NEW/RENEWAL/AMENDMENT application. 
+• 
+CIPC/CIPRO/DTI CERTIFICATES OR DOCUMENTS proving ownership of the business.  
+• 
+Proof of licence application payment 
+• 
+The List of Imported and Distributed Scheduled Substances 
+• 
+The List of Lawfully authorised/Licensed facilities and professionals. 
+5.4 The application form for an Importer and Distributor of Scheduled Substances should include 
+the qualification of staff who handle the importation and distribution of these scheduled 
+substances and a documentary proof of the company’s ability to comply with good 
+manufacturing practices (GMP) and good wholesaling practices (GWP) /or proof of the 
+compliance with GMP/GWP as determined by SAHPRA. 
+5.5 The applicant should include a Site Master File (SMF) on the application form. This must contain 
+specific and factual information about all the operations to be carried out at that site(facility).  
+Guidance on what information should be included in the SMF can be obtained on request from 
+the Office of the Chief Executive Officer of SAHPRA or the SAHPRA website www.sahpra.org.za 
+The SMF, attached to the application form should include: 
+• 
+A copy of the local area plan of the location of the business premises indicating all 
+adjacent properties and the nature of the business being carried out on such 
+premises. 
+• 
+A floor plan of the building in which the business premises are situated. 
+• 
+A plan of the actual layout of the business premises 
+• 
+An inventory of equipment to be used in conducting the business. 
+• 
+A manual of procedures and practices to be implemented to ensure the safety, 
+efficacy, and quality of the scheduled substance to be Imported or distributed.  
+SAHPGL-LIC-05_v2 
+Page 19 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+5.6 The application for an Importer and Distributor of scheduled substances should specify the 
+scheduled substance to be imported and distributed by the applicant. 
+5.7 The Authority (SAHPRA) will only issue the licence to import and distribute scheduled 
+substances, when it is satisfied that all the requirements as stipulated in the Act 101 of 1965 
+as amended and its General Regulations together with all the applicable guidelines, have been 
+complied with. Furthermore, a site inspection must be done/carried out to ascertain the 
+accuracy and compliance to the legislative requirements. 
+5.8 Where appropriate, SAHPRA may refuse to grant a licence. In such cases the CEO of SAHPRA 
+will notify the applicant to furnish The Authority with such additional documentation or 
+information as The Authority may require. The notification will set out the reason for the 
+proposal and give the applicant a reasonable period to respond. The applicant may make 
+written representations. Before making a final decision on its proposal The Authority will take 
+the applicant’s written representation into consideration. 
+6. 
+INSPECTION (AS STIPULATED IN REGULATION 23(3) OF THE GENERAL 
+REGULATIONS TO ACT 101 OF 1965) 
+6.1 The Program 3: Inspectorate and Regulatory Compliance Units carry out regular and repeated 
+inspection of sites Importing and Distributing Scheduled Substances both in South Africa and 
+in countries with which SAHPRA does not have a Mutual Recognition Agreement.  The 
+Inspection enables the Inspectorate Unit to confirm that licence holders are complying with 
+the conditions of their licence, with the provisions of the Medicines Act and with Good 
+Manufacturing Practice (GMP) and Good Wholesaling Practice (GWP). 
+6.2 These Inspectors are also empowered by Section 28 of the Medicine Act to amongst other 
+things: 
+(a) 
+enter any place or premises from which:  
+• 
+The holder of a licence to import and distribute scheduled substances conducts 
+business from within  
+• 
+The holder of a certificate who Imports and/or distributes controlled scheduled 
+substances during the course of conducting their business. 
+(b) 
+inspect the premises used in the importation, storage, and distribution of scheduled 
+substances, and inspect any documentation or records relating to the importation,  
+SAHPGL-LIC-05_v2 
+Page 20 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+storage and distribution of these scheduled substances. 
+(c) 
+take samples of any scheduled substance for the purpose of testing or analysis 
+(d) 
+seize any book, record, documentation for any scheduled substance handled by that 
+site. 
+It is required by legislation that licence holders shall make their premises available for 
+inspection by the Inspectorate at any reasonable time. 
+6.3 Following an inspection, the Inspector prepares a report of his/her findings. A report is then 
+sent to the licence applicant or holder of a licence, noting any deficiencies found and asking 
+for proposals to remedy them.  In the event of serious non-compliance with GMP and/or 
+GWP, the report is referred to SAHPRA for formal action, which can include the refusal, 
+suspension or revoking of a licence, or part of a licence. 
+6.4 Where quality control testing of the scheduled substance is contracted to a third party, the 
+testing site should also be made available for inspection and should also obtain a licence 
+authorizing it to test the scheduled substances and any other related substances. 
+7. 
+POWER TO SUSPEND OR REVOKE A LICENCE TO IMPORT AND DISTRIBUTE A 
+SCHEDULED SUBSTANCE (AS PER PROVISION OF SECTION 22E OF ACT 101). 
+SAHPGL-LIC-05_v2 
+Page 21 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+7.1 SAHPRA (The Authority) may revoke, amend, or suspend a licence when statutory conditions 
+of that licence are no longer being met.  The Authority will give the licence holder notice of its 
+proposal and set out the reasons.  In most cases the licence holder will be given a period of 
+not less than 20 days to respond.  The licence holder may give notice to the Authority of 
+his/her desire to be heard or make written representation to the Authority with respect to 
+the proposals. 
+7.2 Where it appears to SAHPRA that public safety is at risk, SAHPRA may suspend a licence with 
+immediate effect for such a period as SAHPRA may determine or revoke the licence in 
+question. 
+7.3 The provisions of a Licence may be varied based on the application submitted by the licence 
+holder. 
+7.4 A licence holder or applicant may at any time within the period of 30 days from the date on 
+which the decision is served on him/her appeal to the Minister to question the validity of 
+SAHPRA’s decision. 
+8. 
+FEES PAYABLE 
+8.1 The Medicines and Related Substances Act 101 of 1965 introduced provisions in terms of 
+Section35(1)(xxxi) and(xxxii) read together with Section35(4) for the payment of fees for licences, 
+certificates, and inspections. The current fees legislation for medicines and scheduled substances 
+is contained in the Medicines Regulations as amended. 
+8.2 The fees which are currently payable are the following: 
+(a) 
+Licence applications (new and amendment applications) 
+(b) 
+Licence renewal 
+(c) 
+Licence issue 
+(d) 
+Performance of an inspection 
+An applicable annual fee also known as the licence retention fee, is also payable during the 
+currency of a licence. 
+SAHPGL-LIC-05_v2 
+Page 22 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+8.3 A schedule of the current fees is available from the Office of the Chief Executive Officer of 
+SAHPRA or on the SAHPRA website at www.sahpra.org.za 
+8.4 When SAHPRA plans to make changes to the amount or frequency of fees. Licence holders are 
+consulted and given the opportunity to comment on the new fee proposals. Details of the 
+new fees are published in the government gazette and on the South African Health Products 
+Regulatory Authority’s website at www.sahpra.org.za  
+8.5 Application fees are non-refundable regardless of the outcome of the application (including 
+rejection, non-approval, unresolved or failure to respond to query rounds).  
+NB: During administrative screening and technical evaluation, the licensing unit may issue 
+requests for additional information or clarification where deficiencies are identified. The unit 
+may allow up to two (2) rounds of queries, at its discretion. Applicants are required to submit 
+complete, accurate and satisfactory responses to each query within the timelines specified. 
+Where deficiencies remain unresolved after the permitted query rounds, the application may 
+not be recommended for approval, and the review process may be terminated. 
+9. 
+APPLICATION PROCESSING TIMELINES 
+9.1 The licensing unit aims to: 
+(a) Acknowledge receipt of applications which meet the minimum requirements within 2 
+business days.  
+(b) Finalise New Applications within 160 business days.  
+(c) Finalise Renewal Applications: within 30 business days (reliant on provision of a valid 
+resolution letter by the company)  
+NB: Renewal applications must be submitted at least 180 days prior to the expiry of the 
+licence.  
+(d) Amendment Applications: within 30 business days (for administrative and technical 
+amendments not requiring an inspection)  
+(e) NB: Technical amendments may warrant an inspection, incurring additional time to finalise 
+the application (Refer to guideline SAHPGL-LIC-03: Guideline on How to Amend a Current 
+Licence). 
+SAHPGL-LIC-05_v2 
+Page 23 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+(f) Timelines for the processing and finalization of licensing applications are measured solely 
+on the time which an application is under active review by SAHPRA.  
+NB: Time during which an application is with a company (including periods awaiting 
+responses, corrective actions or readiness for an inspection) will be excluded. 
+9.2 Inspection scheduling and conduct: 
+(a) New applicants are encouraged to request a pre-submission engagement with the SAHPRA 
+Pharma Licensing and Inspectorate units prior to submission of a licence application. The 
+purpose of this engagement is to facilitate alignment on inspection readiness and the 
+appropriate timing for submission of a licence application. 
+(b) Proposed date of inspection: when proposing an inspection date with the application, the 
+applicant must consider that: 
+i. 
+Inspections are conducted once the company deems itself ready for an inspection. 
+ii. Inspections are planned a quarter in advance. 
+(c) Where an applicant is not inspection-ready on the agreed inspection date, the licence 
+application may be rejected. Fees associated with rejected and refused applications are 
+non-refundable. 
+(d) he licensing unit aims to provide a regulatory decision within 30 business days after 
+receiving an inspection resolution letter. 
+10. 
+CONTACT DETAILS 
+SAHPRA and Programme 3(Inspectorate and Regulatory Compliance) can be contacted at: 
+The Office of the Chief Executive Office 
+South African Health Products Regulatory Authority 
+Private Bag X828 
+Pretoria 
+0001 
+Tel: 012 501 0300 
+Email: enquiries@sahpra.org.za  
+Refer to SAHPRA website: https://www.sahpra.org.za/key-contacts/ and 
+https://www.sahpra.org.za/inspectorate-and-regulatory-compliance/ 
+SAHPGL-LIC-05_v2 
+Page 24 of 24
+GWP Guideline for Importers and Distributors of Scheduled Substances 
+ 
+10 April 2026 
+ 
+ 
+ 
+11. REFERENCES 
+The following related documents are referenced: 
+Related Legislation  
+• 
+The Pharmacy Act 53 of 1974 as amended 
+• 
+Medicines and Related Substances Act 101 of 1965 as amended 
+• 
+General Regulations of the Medicines and Related Substances Act 101 of 1965 as amended 
+Other related documents 
+• 
+The WHO Import Processes- Annex 5 (Guideline on Import Procedures for medicinal products) 
+• 
+The PICS Guidelines on Good Distribution Practices for API’s 
+• 
+SAHPRA Guideline on Good Wholesaling Practices for Wholesalers 
+12. VALIDITY  
+This guideline is valid for a period of 5 years from the effective date of revision. It will be reviewed on 
+this timeframe or as and when required. 
+

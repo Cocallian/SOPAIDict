@@ -1,0 +1,2518 @@
+SAHPGL-INSP-03_v5
+Page 1 of 48
+18 September 2022
+GUIDELINE ON SOUTH AFRICAN GOOD WHOLESALING PRACTICE
+FOR WHOLESALERS
+This document has been prepared to serve as a recommendation to applicants wishing to conduct business as medicine
+wholesalers. It represents the South African Health Products Regulatory Authority’s current thinking on the safety,
+quality, and efficacy of medicines. It is not intended as an exclusive approach.
+Document History
+Final
+Version
+Reason for Amendment
+Effective Date
+1
+Version 1 - Implementation
+June 2003
+2
+Version 2 – Updated to amend various sections
+3
+Due date for comment Version 2
+March 2012
+4
+Version 2 Implementation
+July 2016
+5
+•
+Content structured on the latest SAHPRA Guideline Template
+•
+Old document number 4.02 changed to SAHPGL-INSP-03
+September 2022
+DR BOITUMELO SEMETE-MAKOKOTLELA
+CHIEF EXECUTIVE OFFICER
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 2 of 48
+Contents
+Document History............................................................................................................................................ 1
+Glossary............................................................................................................................................................4
+1.
+INTRODUCTION...................................................................................................................................... 10
+1.1 Purpose.................................................................................................................................................. 10
+1.2 Scope...................................................................................................................................................... 10
+2.
+LEGAL PROVISION...................................................................................................................................10
+3.
+Guidelines.............................................................................................................................................. 12
+3.1 Guiding Principles...................................................................................................................................12
+3.2 Contractual Activities, Service Level Agreements and Technical Agreements........................................ 13
+3.3 Customer Verification.............................................................................................................................14
+3.4 Vendor Verification.................................................................................................................................15
+3.5 Organization and Management.............................................................................................................. 15
+3.6 Personnel................................................................................................................................................15
+3.7 Quality Management System................................................................................................................. 21
+3.8 Documentation and Record Keeping...................................................................................................... 27
+3.9 Procurement for Wholesalers.................................................................................................................33
+3.10 Premises, Warehousing and Storage...................................................................................................... 33
+3.11 Shipment Containers and Container Labelling....................................................................................... 39
+3.12 Equipment.............................................................................................................................................. 39
+3.13 Vehicles.................................................................................................................................................. 40
+3.14 Sale and Dispatch of Pharmaceutical Products.......................................................................................41
+3.15 Transportation and Products in Transit...................................................................................................42
+3.16 Repackaging and Relabeling................................................................................................................... 44
+3.17 Complaints............................................................................................................................................. 44
+3.18 Recall or Withdrawal of Pharmaceutical Products..................................................................................45
+3.19 Returned and Rejected Products............................................................................................................45
+3.20 Disposal of Products............................................................................................................................... 47
+3.21 Counterfeit Pharmaceutical products.....................................................................................................48
+3.22 Export..................................................................................................................................................... 48
+3.23 Bond Store..............................................................................................................................................48
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 3 of 48
+4.
+REFERENCES........................................................................................................................................... 48
+5.
+VALIDITY................................................................................................................................................. 49
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 4 of 48
+Glossary
+The definitions provided below apply to words and phrases used in this guideline. Applicants should also
+consider the definitions as prescribed by the Medicines and Related Substances Act, 1965 as amended, the
+Foodstuffs, Cosmetics and Disinfectants Act, 1972 (Act 54 of 1972) and the Pharmacy Act,1974 (Act 53 of
+1974).
+Abbreviation/
+Term/Definitions
+Meaning
+ALCOA principles
+Attributable, Legible, Contemporaneous, Original, And Accurate (Data)
+ALCOA + 5
+Complete, Consistent, Enduring and Available (Data)
+“applicant”
+anyone who has submitted any kind of application
+“auditing”
+an independent and objective activity designed to add valueand improve an
+organization’s operations by helping an organization to accomplish its
+objectives by using a systematic, disciplined approach to evaluate and
+improve the effectiveness of risk management, control, and governance
+processes; and “audit” and “inspection” have corresponding meanings.
+calibration”
+the set of operations which establish, under specified conditions, the
+relationship between values indicated by an instrument or system for
+measuring, recording, and controlling, or the values represented by a material
+measure, and the corresponding known values of a reference standard. Limits
+for acceptance of the results of measuring should be established. Including the
+maximum permissible error or uncertainty of measurement;
+“change control”
+a formal system by which qualified representatives of appropriate disciplines
+review proposed or actual changes that might affect a validated status. The
+intent is to determine the need for action that would ensure that the system is
+maintained in a validated state; and that all affected players and processes are
+prepared to accommodate the change
+“cold chain”
+all the materials, equipment, processes, and procedures used to maintain all
+products (which require cold chain conditions) within the required temperature
+range of 2 °C to 8 °C from the time of manufacture until the products are
+administered to individuals;
+“cold chain incident”
+the exposure of a products (which require cold chain conditions) to a
+temperature outside the required temperature range of 2 °C to 8 °C for any
+period and the potency of the product is potentially compromised. The product
+temperature excursion tolerance and permissible time excursion is determined
+by each product manufacturer for each such product;
+“cold-chain product”
+all products which require constant storage between 2 °C and not exceeding 8
+°C. This also includes vaccines and other products that require storage at
+product specific temperatures. “Thermolabile products” has a corresponding
+meaning; all products which require constant storage between 2 °C and not
+exceeding 8 °C. This also includes vaccines and other products that require
+storage at product specific temperatures. “Thermolabile products” has a
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 5 of 48
+corresponding meaning.
+computerized system”
+computerized system” a system including the input of data, electronic
+processing, and the output of information to be used either for reporting or
+automatic control;
+“computer validation”
+“computer validation” documented evidence which provides a high degree of
+assurance that a computerized system records data correctly and that data
+processing complies with predetermined specifications;
+“consignment”
+“consignment” the quantity of pharmaceutical products supplied at one time
+in response to a particular request or order. A consignment may comprise one
+or more packages or containers and may include pharmaceutical products
+belonging to more than one batch:
+“container”
+the material employed in the packaging of a pharmaceutical product.
+Containers include primary, secondary and transportation containers.
+Containers are referred to as primary if they are intended to be in direct
+contact with the product. Secondary containers are not intended to be in
+direct contact with the product (containers could also be referred to as
+packaging);
+“contamination”
+the undesired introduction of impurities of a chemical or microbiological
+nature, or of foreign matter, into or onto starting material or onto, products,
+medical devices or IVDs during handling, production, sampling, packaging, or
+repackaging, storage, or transportation;
+“contract”
+business agreement for the supply of goods or performance of work for a
+specified or agreed time at a specified or agreed price;
+“contractor”
+a company or person under contract: a company or person with a formal
+contract to do a specific job, supplying labor and materials and providing and
+overseeing staff if needed;
+“corrective action”
+any action taken when the results of monitoring at the critical control
+point indicates a loss of control; and the action taken in response to audit
+findings;
+“critical control point”
+a step at which control can be applied and is essential to prevent or
+eliminate a pharmaceutical quality hazard or reduce it to an acceptable level;
+“cross contamination”
+the contamination of a starting material, intermediate product or
+finished product with another starting material or product during production,
+storage, and transportation;
+“cycle counting”
+an inventory accuracy audit technique whereby inventory is counted
+on a cyclic schedule rather than once a year. A cycle inventory count is usually
+taken on a regular, defined basis (often more frequently for high-value or fast-
+moving items). Most effective cycle counting systems require the counting of a
+certain number of items every workday with each item counted at a
+prescribed frequency. The key purpose of cycle counting is to identify items in
+error, thus triggering research, identification, and elimination of the cause of
+the errors;
+“destruction certificate”
+documentary proof of product destruction provided by a certified / approved
+waste destruction company.
+“direct personal
+supervision”
+guidance and support by a pharmacist whilst physically present in a
+pharmacy;
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 6 of 48
+“deviation”
+the failure to fulfil a specified requirement in terms of processes, standards
+and regulations as prescribed by the Pharmacy Act and the Medicines Act;
+“distribution”
+the procurement, purchasing, holding, storing, selling, supplying or
+movement of pharmaceutical products from the premises of the
+manufacturer of such products, or another central point, to the end user
+thereof, or to an intermediate point by means of various transport methods,
+via various storage and/or health establishments, except for the dispensing or
+providing pharmaceutical products directly to a patient or his/her agent;
+“distributor”
+Holder of Certificate of Registration (HCR) or proposed Holder of Certificate of
+Registration (PHCR) of pharmaceutical products
+“expiry / expiration date”
+the date placed on the container/label of a product designating the time
+during which a batch of the product is expected to remain within the
+approved shelf-life specification, if stored under defined conditions and after
+which it should not be used
+“finished product”
+product which has undergone all stages of production, including
+packaging in its final container;
+“first expiry/first out
+(FEFO)”
+a distribution procedure that ensures that the stock with the earliest
+expiry date is distributed and/or used before an identical stock item with a
+later expiry date is distributed and/or used;
+“first in/ first out (FIFO)”
+a distribution procedure to ensure that the oldest stock is distributed
+and/or used before a newer and identical stock item is distributed and/ or
+used;
+“first in / last out (FILO)”
+a distribution procedure whereby products are stored systematically on a first-
+in/last-out (FILO) basis;
+FPP
+finished pharmaceutical product
+“fridge box/ cold box”
+a lagged container, validated to maintain the cold chain for a specific
+period, when packed in a specified manner with a specific number of ice packs
+or gel pack
+“fridge item”
+see cold-chain product
+“hazard”
+any circumstance in the production, control and distribution of a
+pharmaceutical product which can cause harm, an adverse health or
+environmental effect;
+GDP
+the scope of compliance requirements for wholesaling and distribution
+practice.
+“ice packs/ soft gel
+packs”
+specialized packs that can be frozen or conditioned
+“IT”
+information technology
+“lagged container”
+an insulated container which meets the requirements of
+transporting pharmaceutical products at the required temperatures for the
+necessary duration of time;
+“logistics service
+provider”
+pharmaceutical wholesalers and distributors;
+“material safety data
+sheet (MSDS)”
+provides information regarding inter alia the safety, chemical
+properties, storage, handling, and disposal of the product. It may also describe
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 7 of 48
+the hazardous components of a product, how to treat leaks, spills, and fires,
+and how to treat improper human contact with the product;
+“Medicines Act”
+the Medicines and Related Substances Act, 1965 (Act 101 of 1965);
+“non-conformance/non-
+conformity
+the failure to fulfil a specified requirement;
+“pedigree”
+a complete record that traces the ownership of and transactions relating to a
+pharmaceutical product as it is distributed through the supply chain.
+“pest”
+refers to any objectionable animals or insects including, but not limited to,
+bird, rodents, flies, and larvae
+“Pharmacy Act”
+the Pharmacy Act, 1974 (Act 53 of 1974);
+“preventive action”
+an action to eliminate the cause of a potential non-conformity or
+another undesirable potential situation;
+“qualification”
+an action of proving that any premises, systems, and items of equipment work
+correctly and lead to the expected results. The meaning of the word
+“validation” is sometimes extended to incorporate the concept of
+qualification.
+“quality”
+means the degree to which a set of inherent properties of a product, system
+or process fulfils requirements
+“quality assurance”
+the activity of or group responsibility for ensuring that the facility
+(wholesaler) and its systems meet Good Wholesaling and Distribution Practice
+requirements
+“quality management”
+all management activities and functions involved in determination
+of quality policy and its implementation through means such as quality
+planning and quality assurance;
+“quality management
+system”
+the collective policies, plans, practices, and the supporting
+infrastructure by which an organization aims to reduce and eventually
+eliminate non-conformance to specifications, standards, and customer
+expectations in the most cost effective and efficient manner;
+“quality manual”
+a detailed document that sets forth practices and sequence of
+activities aimed at translating an organization’s quality policy into operational
+results, or conformance to standards (such as ISO 9 000 series);
+“quality policies”
+principles, rules, and guidelines formulated or adopted by an
+organization to reach its long-term goals;
+“quality records”
+documents recording specific information relating to a procedure
+or work instruction. Quality records are proof that an organization is
+complying with its procedures and policies;
+“quality risk
+management”
+a systematic process for the assessment, control, communication
+and review of risks to the quality of a pharmaceutical product across the
+product lifecycle;
+“quarantine”
+the status of starting or packaging materials, intermediate, bulk or finished
+products isolated physically or by other effective means whilst awaiting a
+decision on their release or refusal;
+“recall”
+the removal of specific batch/batches of a pharmaceutical product from the
+market for reasons relating to deficiencies in quality, safety, or efficacy;
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 8 of 48
+“regulated users
+‘users’ (owners of the good practice computerized systems being inspected) are
+collectively referred to as ‘regulated users’
+“re-validation”
+the repeat of the initial process validation to provide assurance that changes
+in the process and/ or in the process environment, whether intentional or
+unintentional, do not adversely affect process characteristics and product
+quality;
+“return”
+sending back to the manufacturer, wholesaler, or distributor a pharmaceutical
+product, which may or may not present a quality defect;
+“risk”
+the combination of the probability of occurrence of harm and the severity of
+that harm;
+“sampling”
+operations designed to obtain a representative portion of a pharmaceutical
+product, based on an appropriate statistical procedure, for a defined purpose,
+e.g., acceptance of consignments or batch release;
+“Scheduled substance”
+any medicine or other substance prescribed by the Minister of Health under
+Section 22A of the Medicines Act.
+“Service Level
+Agreement (SLA)”
+a negotiated agreement designed to create a common understanding about
+services, priorities, and responsibilities
+“shelf-life”
+the recommendation of time that products can be stored, during which the
+defined quality of a specified proportion of the goods remains acceptable
+under expected (or specified) conditions of distribution, storage, and display;
+“should”
+is used to state recommended or advisory procedures or identify
+recommended equipment
+“Site Master File”
+a document prepared by the wholesaler containing specific and
+factual Good Warehousing Practices (GWP) about the control of wholesaler
+operations of pharmaceutical products carried out at the named site;
+“Standard Operating
+Procedure (SOP)”
+an authorized, written procedure giving instructions for
+performing operations not necessarily specific to a given product but of a
+more general nature (e.g., equipment operation, maintenance and cleaning,
+validation, cleaning of premises and environmental control, sampling, and
+inspection);
+“storage”
+the storing of products up to the point of use;
+“special storage
+conditions”
+special storage conditions (e.g., temperature and/or relative humidity),
+“supplier”
+a person or entity engaged in the activity of providing or making available
+products or services along the supply chain
+“supply chain”
+a system of organizations, people, technology, activities, information, and
+resources involved in moving a product or service from supplier to customer;
+SFMP
+suspected falsified medical products
+“temperature “
+ambient: The required storage temperature of non-refrigerated medicinal
+product; usually stated on the product as ‘store below 25 °C
+room temperature:
++15 to + 25 °C
+cold or cool:
++8 to + 15 °C
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 9 of 48
+refrigerator:
++2 to +8 °C
+deep freeze:
+Below -15 °C
+ultra-frozen/ ultra-low: -70 °C
+“technical complaint”
+any complaint that is related to the safety, quality, and efficacy of
+the product
+“temperature mapping”
+a process that verifies that a storage facility or storage equipment
+does indeed create and maintain the temperatures for which it was designed
+“temperature recording
+device”
+an electronic device capable of monitoring the exact temperature
+reached during the different stages of storage and movement of a shipment of
+a pharmaceutical product in storage or transit, and provides a detailed reading
+either through a recorder chart or downloading of the information recorded
+through a software package;
+“thermolabile products”
+all products which require constant storage between 2 °C and not
+exceeding 8 °C. This also includes vaccines and other products that require
+storage at product specific temperatures below room temperature. “Cold-
+chain products” has a corresponding meaning;
+TTSPP
+time and temperature sensitive pharmaceutical products
+“transit”
+the period during which pharmaceutical products are in the process of being
+carried, conveyed, or transported across, over or through a passage or route
+to reach the destination;
+“validation”
+action of proving, in accordance with Good Wholesaling Practices, that any
+procedure, process, equipment, material, activity or system leads to the
+expected results (see also qualification);
+“validation master plan”
+a document that summarizes the firm’s overall philosophy,
+intentions and approach to be used for establishing performance adequacy.
+The Validation Master Plan (VMP) presents an overview of the entire
+validation operation, its organizational structure, its content, and planning.
+The core of the VMP being the list/ inventory of the items to be validated and
+the planning schedule;
+“validation protocol”
+a written plan stating how validation will be conducted, including
+test parameters, product characteristics, production equipment and decision
+points on what constitutes acceptable test results;
+“validation report”
+a written report on the validation activities, the validation data and
+the conclusion drawn;
+“vehicle”
+trucks, vans, buses, minibuses, cars, trailers, aircraft, railway carriages, boats
+and other means which are used to convey/transport products;
+“vendor”
+anyone who provides goods or services to a company; and “supplier” has a
+corresponding meaning
+“vendor / contractor
+audit”
+an evaluation of the ability of the manufacturer, applicant or
+contractor to deliver a quality service, pharmaceutical product.;
+“verification”
+the act of reviewing, inspecting, testing, checking, auditing or otherwise
+establishing and documenting whether items, processes, services, or
+documents conform to specified requirements;
+“withdrawal”
+the total withdrawal of a pharmaceutical product from the market.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 10 of 48
+1.
+INTRODUCTION
+Wholesaler distribution forms part of the supply chain of pharmaceutical products manufactured. Wholesalers
+are responsible for the effective, efficient, and safe handling, storage and distribution of such products ensuring
+the quality and identity of these during all aspects of the wholesaling and distribution process. This Guideline
+sets out appropriate steps for meeting this responsibility.
+Except for a brief mention under “storage” the Guideline does not deal with either common or statute law
+requirements such as the obligations of contractors, Occupational Health and Safety, Customs and Excise,
+Narcotics, Dangerous Goods, or the many legal requirements surrounding building construction. These must be
+understood by and met by the wholesaler.
+1.1
+Purpose
+The purpose of this guideline is to ensure that wholesalers are meeting the appropriate steps that are set
+out in the code of practice and ensuring that wholesalers are effectively, efficiently, and safely handling
+storage and distribution of such products.
+1.2
+Scope
+This document lays down guidelines for the distribution of pharmaceutical products and applies equally to
+products for human and for veterinary use as per Act 101. In this Guideline, the word "should” indicates
+requirements that are expected to apply unless shown to be inapplicable or replaced by an alternative
+demonstrated to provide at least an equivalent level of quality assurance.
+2.
+LEGAL PROVISION
+This guideline supports legislative requirements as outlined in the various Acts. This guideline does not replace
+or supersede any aspect as described in any one of the Acts or the Regulations within the Acts.
+In terms of the provisions of Regulation 2 of the Pharmacy Act relating to the “Ownership and Licensing of
+Pharmacies”, the State or any person may, subject to the provisions of Regulation 7(a) of the said Regulations,
+own or have a beneficial interest in a wholesale pharmacy. In terms of the provisions of Regulation 7 of the
+Pharmacy Act relating to the “Conditions for the ownership of wholesale pharmacies”, a person who may own a
+wholesale pharmacy in terms of Section 22A of the Pharmacy Act and who applies for a licence in terms of
+Section 22 of the said Act shall provide the Chief Executive Officer, with:
+a)
+Proof that such a person can comply with the standards of Good Pharmacy Practice as determined by
+the Pharmacy Council, and where applicable, Good Wholesaling Practice as determined by the South
+African Health Products Regulatory Authority; and
+b)
+An undertaking that such person shall comply with the standards referred to in paragraph (a)
+In terms of the provisions of Section 22C(1)(b) of the Medicines Act, the Authority may, on application in the
+prescribed manner and on payment of the prescribed fee, issue to a wholesaler of a pharmaceutical product a
+licence to act as a wholesaler of such a pharmaceutical product. The Authority may determine conditions to the
+licence, pertaining to acceptable quality assurance principles and Good Wholesaling Practices at the
+wholesaler.
+In terms of the provisions of Section 22D read together with Regulations 24 of the Medicines Act, a licence is
+valid for a period of five years upon which the licence must be renewed on application to the South African
+Health Products Regulatory Authority. An application for the renewal of a licence to act as a Wholesaler of
+pharmaceutical products shall be made to the Authority at least ninety days before the expiry of the existing
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 11 of 48
+licence.
+In terms of the provisions of Regulation 23 of the Medicines Act, the licensee must pay an annual license fee to
+the South African Health Products Regulatory Authority for continued registration. In accordance with SAHPRA
+Guidelines “Fees Payable to the office of the Chief Executive Officer”, the annual retention fee in respect of a
+licence issued in terms of Section 22C(1)(b) of the Medicines Act is payable on or before the last working day of
+June each year, failing which registration may be cancelled.
+In terms of the provisions of Regulation 23 of the Medicines Act, the licensee must notify the Chief Executive
+Officer of any changes to any particulars that was furnished in the application or appearing on the license e.g.,
+change in business address, change in Responsible Pharmacist.
+In accordance with Section 22D, read together with Regulation 22of the Medicines Act, a licence is issued in
+terms of Section 22C (1) (b), read together with Regulation 22 of the said Act, to a medical practitioner, nurse or
+other person registered under the Health Professions Act, 1974, to dispense or compound and dispense
+products, medical devices or IVDs.
+In accordance with Regulation 24(3)(c) of the Medicines Act, an application for the renewal of a licence to a
+medical practitioner, nurse or other person registered under the Health Professions Act, 1974, to dispense or
+compound products, medical devices or IVDs shall be made to the Chief Executive Officer (CEO) at least ninety
+days before the expiry of the existing licence.
+In terms of the provisions of Section 22(1) of the Pharmacy Act, the wholesale pharmacy of products, medical
+devices or IVDs shall apply to the Director-General of the Department of Health for a licence for the premises
+wherein or from which such business shall be carried on.
+A wholesale pharmacy issued with a licence in terms of Section 22(1) of the Pharmacy Act, shall notify the
+Pharmacy Council thereof in writing and on production of the said licence the Pharmacy Council shall record
+the name, business address, date of licence, licence number and any other particulars as prescribed.
+In terms of the provisions of Section 22(4) of the Pharmacy Act, a wholesale pharmacy shall, subject to such
+conditions as may be prescribed, be conducted under the continuous personal supervision of a Pharmacist in
+accordance with good pharmacy practice as determined in the rules made by the Pharmacy Council. A deputy
+Pharmacist must be appointed for the Pharmacist in charge.
+In terms of the provisions of Section 22(5) of the Pharmacy Act, the Pharmacist shall be responsible for any act
+performed by, or on behalf of the wholesaler of medicines, including any omission to perform an act required
+to be performed by, or on behalf of the wholesaler in medicines. Non-compliance of the above legal
+requirement may involve disciplinary actions by the Pharmacy Council unless he satisfies the Pharmacy Council
+that the responsibility for such act rests upon a Pharmacist other than himself or herself employed by the said
+wholesaler of medicines.
+In terms of the provisions of Section 22H(a) of the Medicines Act, no wholesaler shall purchase products,
+medical devices or IVDs from any source other than from the original manufacturer or from the primary
+importer/ applicant for registration of the finished product. In terms of Section 22A of the Medicines Act, a
+wholesale of products, medical devices or IVDs may sell Schedule 1 to Schedule 6 products, medical devices or
+IVDs to any person who may lawfully possess such products.
+The Responsible Pharmacist shall be responsible to control the access to Scheduled products, medical devices
+or IVDs and shall ensure that the wholesaler does not sell any Schedule 1 to Schedule 6 pharmaceutical product
+to any unlicensed / unregistered entity or permit holder.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 12 of 48
+The Responsible Pharmacist shall be responsible to survey on a regular basis if the licence/ permit holder
+continues to perform his or her approved activities at a specific physical address. The licence/ permit holder
+shall periodically provide the wholesaler of products, medical devices or IVDs with:
+a)
+A copy of annual renewal of registration with his/ her professional Council.
+b)
+An annual statement from his/ her municipal service provider regarding the licensed premises from
+which he conducts her or his approved activities.
+c)
+A copy of the current licence or permit issued by the South African Health Products Regulatory
+Authority, the Pharmacy Council, or the Department of Health, indicating the physical address from
+which the approved activities will be conducted.
+In terms of the provisions of Regulation 42 of the Medicines Act, the following requirements shall apply to any
+advertisement of a medicine:
+a)
+Products, medical devices or IVDs which do not contain a scheduled substance and those products,
+medical devices or IVDs which contain a substance appearing in Schedule 0 or Schedule 1 may be
+advertised to the public.
+b)
+Products, medical devices which contain a substance appearing in Schedule 2, Schedule 3, Schedule 4,
+Schedule 5, or Schedule 6 may be advertised only for the information of medical practitioners, dentists,
+veterinarians, pharmacists, and other persons authorized to prescribe or in a publication which is
+normally or only made available to persons referred to therein.
+c)
+In terms of Regulation 45 it shall not be so construed as to prohibit informing the public of the prices,
+names, pack sizes and strengths of products, medical devices or IVDs which contain a substance
+appearing in Schedule 2, Schedule 3, Schedule 4, Schedule 5, or Schedule 6; and
+d)
+The Responsible Pharmacist is responsible to approve and sign off all advertising material and to
+ensure that the materials comply with the provisions of Regulation 45 of the Medicines Act.
+3.
+Guidelines
+3.1
+Guiding Principles
+3.1.1
+All parties involved in the supply chain of pharmaceutical products are responsible for the
+effective, efficient, and safe handling, storage, and distribution of such products in a manner that
+does not risk exposure to temperatures outside of their recommended storage conditions. This
+would prevent any excursions from the recommended storage conditions that could potentially
+affect the quality, safety, and effectiveness of the products.
+3.1.2
+The principles of Good Warehousing Practices are equally applicable to pharmaceutical products
+moving through the supply chain from the manufacturer to the end user, as well as
+pharmaceutical products which are moving backwards in the chain because of the return or
+recall thereof.
+3.1.3
+All parties involved in the wholesaling process should apply due diligence with adherence to the
+principles of Good Wholesaling Practices, for example, procedures relating to traceability,
+recognition of security risks, purchasing suspect products, poor storage, or failure to establish the
+bona fides of purchasers.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 13 of 48
+3.2
+Contractual Activities, Service Level Agreements and Technical Agreements
+3.2.1
+Authorized procurement and release procedures for all administrative and technical operations
+performed should be in place to ensure that appropriate pharmaceutical products are sourced
+only from approved suppliers and distributed by approved entities. The approval should come
+from the competent authority of the individual country where the legal entity is registered.
+3.2.2
+The Responsible Pharmacist is responsible to ensure that contracts exist between the wholesaler
+(contract giver) and third-party contractors (contract acceptor) stipulating where all the
+responsibilities in terms of GWP lie.
+3.2.3
+Any activity relating to the supply chain of pharmaceutical products which is delegated to another
+party or entity should be agreed upon in a contract.
+3.2.4
+Apart from any commercial agreement in place between the parties, a technical contract or formal
+agreement must be put in place addressing all quality matters relating to the wholesaling of the
+pharmaceutical products. It should define in detail the responsibilities and accountabilities of the
+contract giver and contract acceptor to ensure product quality compliance. The Responsible
+Pharmacist for contract giver and contract acceptor must co-sign the technical document when the
+matter relates to the quality of products.
+3.2.5
+Recommended Service Level Agreements (SLAs) should include as a minimum and when
+applicable:
+3.2.5.1
+Rodent and pest control
+3.2.5.2
+Cleaning services
+3.2.5.3
+Couriers and freight forwarding (including any third-party services); clearing agent
+3.2.5.4
+Calibration services
+3.2.5.5
+Fire extinguishers
+3.2.5.6
+Waste disposal
+3.2.5.7
+Preventive maintenance of critical equipment
+3.2.5.8
+Security
+3.2.5.9
+IT
+3.2.5.10 Any other contracted out service which affects quality of products, IVDs, medical devices
+3.2.6
+The SLAs must ensure that the service provider is compliant with Good Warehousing Practices and
+will be held responsible for any deviation from the agreement.
+3.2.7
+The contract should permit the contract giver to visit the facilities of the contract acceptor for a
+vendor approval inspection.
+3.2.8
+In accordance with Good Wholesaling Practices, the contract giver is obliged to perform an annual
+vendor inspection at the premises of the contract acceptor.
+3.2.9
+All contract acceptors must comply with the relevant requirements stated in these guidelines.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 14 of 48
+3.2.10
+Subcontracting of services by the contract acceptor may be permissible under certain conditions
+subject to a written approval by the contract giver.
+3.2.11
+Inspection, auditing, and certification of compliance with a quality system (such as the applicable
+International Standardization Organization (ISO) series, or national or international guidelines) by
+external bodies are recommended. Such certification should not, however, be seen as a substitute
+for compliance with these GWP guidelines and the applicable principles of GMP relating to
+pharmaceutical products.
+3.3
+Customer Verification
+3.3.1
+In terms of Act 101 of 1965 as amended wholesalers may supply scheduled products, medical
+devices or IVDs to registered and licensed entities only as per the provisions of Section 22A of the
+Medicines Act however Schedule 0 products are available for open sale (i.e., in both pharmacy
+and non-pharmacy retail stores).
+3.3.2
+The wholesaler must have a process in place that verifies the following:
+3.3.2.1
+The name of the entity ordering.
+3.3.2.2
+The Pharmacy, Dispensing licence, or Department of Health licence/authorization
+number.
+3.3.2.3
+Any other relevant documentation.
+3.3.2.4
+That the delivery address on the account and invoice matches the physical delivery
+address displayed on the licence.
+3.3.2.5
+The expiry date of the licence in the case of e.g., dispensing doctors.
+3.3.2.6
+That the order correlates to the name on the licence; and
+3.3.2.7
+Any change of ownership or delivery address.
+3.3.3
+Only the Responsible Pharmacist has the authority to override or change the authorization of the
+supply of scheduled products, medical devices or IVDs.
+3.3.4
+A retail pharmacy within a hospital building must have a separate licence to that of the hospital
+pharmacy.
+3.3.5
+An individual pharmacy within a commercial grouping such as pharmacy chain stores must each
+have its own separate licence, which is separate to that of the head office and reflects the physical
+address from which the business of a pharmacy will be carried out from.
+3.3.6
+If a change of ownership or a change of premises occurs a new licence must be obtained.
+3.3.7
+A process must be put in place, where the current registration/licensing status can be verified on
+an annual basis to ensure that the wholesaler only supplies an entity that is still in good standing
+with the relevant regulatory bodies.
+3.3.8
+If there is more than one doctor in a practice that is dispensing pharmaceutical products each
+doctor is required to have his or her own dispensing licence. (The licence is issued to a doctor and
+not to a practice).
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 15 of 48
+3.4
+Vendor Verification
+3.4.1
+All wholesalers must ensure that the vendors from which they procure any pharmaceutical
+products, medical devices or IVDs must have the necessary licence in place; and that the
+pharmaceutical products, medical devices or IVDs are legitimate, from a legitimate source and
+registered with the South African Health Products Regulatory Authority.
+3.5
+Organization and Management
+3.5.1
+The wholesaler must be an entity that is appropriately authorized to perform the intended
+function in terms of the applicable legislation, and which can be held accountable for its activities.
+3.5.2
+There should be an adequate organizational structure defined with the aid of an organizational
+chart. The responsibility, authority and interrelationships of all personnel should be clearly
+indicated. This must be duly dated, be current, valid and authorized.
+3.5.3
+A designated qualified person should be appointed at each branch that has the defined authority
+and responsibility for ensuring that a quality management system is implemented and maintained.
+3.5.4
+Senior Management must be represented at all feedback of findings of audits.
+3.5.5
+Each facility is required to have its own Responsible Pharmacist.
+3.5.6
+Managerial and technical personnel must have the authority and resources needed to carry out
+their duties and to set up and maintain a quality management system, as well as to identify and
+correct deviations from the established quality management system.
+3.5.7
+The responsibilities placed on any one individual should not be so extensive as to present any risks
+to the pharmaceutical products’ quality or process.
+3.5.8
+There should be arrangements in place to ensure that management and personnel are not subject
+to commercial, political, financial, and other pressures or conflicts of interest that may have an
+adverse effect on the quality of service provided.
+3.5.9
+Individual responsibilities should be clearly defined and understood by the individuals concerned
+and recorded as written job descriptions. Certain activities may require special attention such as
+the supervision of performance of activities, in accordance with legislation.
+3.5.10
+Duties may be delegated or contracted out to suitably designated persons or entities as necessary.
+There should, however, be no gaps or unexplained overlaps regarding the application of Good
+Wholesaling Practices. These activities should be documented in quality agreements or contracts.
+There should be periodic audits of such activities concerning the application of Good Wholesaling
+Practices.
+3.5.11
+Safety procedures relating to all relevant aspects including the safety of personnel and property,
+environmental protection, and pharmaceutical product integrity, should be in place.
+3.6
+Personnel
+3.6.1
+General
+3.6.1.1
+All personnel involved in wholesaling or distribution activities should have the
+education, training, experience, or combination of these elements that will allow them
+to effectively discharge this responsibility and be capable of meeting these
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 16 of 48
+requirements. This training should be documented.
+3.6.1.2
+Procedures and conditions of work for employees and other persons having access to
+the products must be designed and administered to minimise the possibility of
+pharmaceutical products coming into unauthorized possession.
+3.6.1.3
+Key personnel involved in the wholesaling or distribution of a pharmaceutical product
+should have the ability appropriate to their responsibility for ensuring that
+pharmaceutical products are handled, stored, and distributed in accordance with
+minimum standards.
+3.6.1.4
+There must be an adequate number of competent personnel involved in all stages of the
+distribution of pharmaceutical products to ensure that the quality of these products is
+maintained.
+3.6.1.5
+Regulations by the relevant authorities regarding qualification and training of personnel
+should be complied with.
+3.6.1.6
+Personnel involved in the wholesaling or distribution of pharmaceutical products should
+be supplied with appropriate personal protective equipment suitable for the activities
+that they perform.
+3.6.1.7
+Personnel dealing with hazardous pharmaceutical products, including products
+containing materials that are highly active, toxic, and infectious or sensitizing, should be
+provided with specialized protective garments as necessary.
+3.6.1.8
+Material safety data sheets must be accessible to any staff member that requires the
+information. A Spillage Handling SOP must be available.
+3.6.1.9
+Appropriate procedures relating to personnel personal hygiene and sanitation relevant
+to the activities to be carried out, should be established, and observed. Such procedures
+should cover health, hygiene, and clothing of personnel.
+3.6.1.10 Codes of practice and disciplinary procedures should be in place to prevent and address
+situations where persons involved in the wholesaling or distribution of pharmaceutical
+products are suspected of, or found to be implicated in, the misappropriation and/or
+theft thereof.
+3.6.2
+Responsible Pharmacist
+3.6.2.1
+In accordance with Regulation 22 of the Pharmacy Act “Regulations Relating to the
+Practice of Pharmacy”, every wholesale pharmacy shall be conducted under the direct
+personal supervision of a Responsible Pharmacist whose name must be displayed
+conspicuously over the main entrance of such pharmacy.
+3.6.2.2
+In accordance with Regulation 28 of the “Regulations Relating to the Practice of
+Pharmacy”, the Responsible Pharmacist must:
+3.6.2.2.1
+Ensure that he or she in fact continuously supervises the wholesale
+pharmacy in which he or she has been appointed.
+3.6.2.2.2
+Have appropriate qualifications and experience in the services being
+rendered by a wholesale pharmacy.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 17 of 48
+3.6.2.2.3
+Ensure that persons employed in such a wholesale pharmacy and who
+provide services forming part of the scope of practice of a pharmacist are
+appropriately registered with the Pharmacy Council.
+3.6.2.2.4
+Notify the Pharmacy Council and the South African Health Products
+Regulatory Authority immediately upon receiving knowledge that his/her
+services as Responsible Pharmacist have been or will be terminated.
+3.6.2.2.5
+Take corrective measures in respect of deficiencies regarding inspection
+reports of the Pharmacy Council or in terms of the South African Health
+Products Regulatory Authority; and
+3.6.2.3
+In addition to the general responsibilities also:
+3.6.2.3.1
+Ensure that unauthorized persons do not obtain access to pharmaceutical
+products or the wholesale pharmacy premises outside of normal trading
+hours.
+3.6.2.3.2
+Establish policies and procedures for the employees of the wholesale
+pharmacy regarding the acts performed and services provided in the
+wholesale pharmacy.
+3.6.2.3.3
+Ensure the safe and effective storage and keeping of pharmaceutical
+products in the wholesale pharmacy under his/her direct personal
+supervision.
+3.6.2.3.4
+Ensure correct and effective record keeping of the purchase, sale,
+possession, storage, safekeeping and return of pharmaceutical products.
+3.6.2.3.5
+Ensure that the following registrations, recordings, and licences are current
+and in place:
+
+The registration of the Responsible Pharmacist with the Pharmacy
+Council in accordance with the provisions of Section 14 of the
+Pharmacy Act.
+
+The premises licence of the wholesale pharmacy issued by the
+Director-General, Department of Health, in accordance with the
+provisions of Section 22(1) of the Pharmacy Act.
+
+The recording of the premises licence of the wholesale pharmacy at
+the Pharmacy Council in accordance with Section 22(2) of the
+Pharmacy Act, read together with Regulation 8(5) of the
+“Regulations relating to Ownership and Licensing of Pharmacies”;
+and
+
+The wholesale licence issued by the South African Health Products
+Regulatory Authority in accordance with Section 22C (1) (b) of the
+Medicines Act.
+3.6.2.4
+In accordance with Regulation 3.2 of the Pharmacy Act “Recommended standards
+regarding staff selection, appraisal and training”, the Responsible Pharmacist should:
+3.6.2.4.1
+Ensure that written job descriptions are prepared for all staff and that all
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 18 of 48
+staff are acquainted with their job descriptions and responsibilities.
+3.6.2.4.2
+Set performance objectives at least annually in consultation with each staff
+member. Performance must be monitored and evaluated against the job
+descriptions and established objectives. Results should be discussed with
+the staff member and clearly documented on their personal record.
+3.6.2.4.3
+Assess the educational needs of all pharmaceutical staff. Training should
+relate to the work to be undertaken by the individual.
+3.6.2.5
+In accordance with Regulation 3.7 of the Pharmacy Act “Minimum Standards for the
+Management of Human Resources in Wholesale and Manufacturing Pharmacies” the
+Responsible Pharmacist must:
+3.6.2.5.1
+Have expert knowledge regarding the wholesale and distribution of
+pharmaceutical products.
+3.6.2.5.2
+Safe-guard product users against potential hazards arising from poor
+wholesale and distribution practices because of e.g., purchasing suspect
+products, poor storage, or failure to establish the bona fides of purchasers.
+3.6.2.5.3
+Ensure that the conditions of the wholesale pharmacy’s licence are met and
+that there is compliance with the standards and guidelines on pharmacy
+practice.
+3.6.2.5.4
+In addition, the Responsible Pharmacist of a wholesale must:
+
+Have a direct line of communication with and be part of
+management.
+
+Have access to all areas, sites, stores, and records which relate to
+the activities being performed.
+
+Regularly review and monitor all such areas, sites, etc. or have
+delegated arrangements whereby he/she receives written reports
+that such actions have been carried out on his/her behalf.
+
+Keep appropriate records relating to the discharge of his/her
+responsibility.
+
+Ensure the physical security of the stock or have written assurance
+from the manager responsible for security that administrative and
+physical security systems are in place and are adhered to by all
+personnel.
+3.6.2.6
+In accordance with Regulation 4 of the Pharmacy Act “Minimum Standards for
+Management of the Wholesale Pharmacies” the Responsible Pharmacist must:
+3.6.2.6.1
+Ensure that there are sufficient pharmacists and pharmacy support
+personnel to undertake the pharmaceutical services provided by the
+wholesale pharmacy concerned.
+3.6.2.6.2
+Demonstrate a high standard of professionalism and commitment to
+quality development.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 19 of 48
+3.6.2.6.3
+Ensure that all regulations covering the operations of the wholesale
+pharmacy are complied with.
+3.6.2.6.4
+Review his or her level of professional knowledge and expertise continually
+and document an appropriate self-development plan.
+3.6.2.6.5
+Participate regularly in continuing professional development (CPD)
+programmes.
+3.6.2.6.6
+Develop, document, and approve the quality improvement plan for the
+wholesale pharmacy.
+3.6.2.6.7
+Ensure that standards for the operation of wholesale pharmacy services are
+established and that performance against these standards are monitored.
+3.6.2.6.8
+Participate with appropriate staff in regular professional audit activities to
+review the standard of services. From the review process strategies should
+be developed, documented, and employed to improve performance; and
+3.6.2.6.9
+Be responsible for the existence of SOPs in a wholesale pharmacy and must
+be involved in the compilation of the said SOPs.
+3.6.2.7
+In addition, the Responsible Pharmacist of a wholesale pharmacy must:
+3.6.2.7.1
+Approve and sign off all advertising, promotions, and promotional material
+in accordance with the provisions of Regulation 42 of the Medicines Act.
+3.6.2.7.2
+In the event that another pharmacist or locum is available in the wholesale
+pharmacy to provide pharmaceutical services in the absence of the
+Responsible Pharmacist, the Responsible Pharmacist may be absent only if
+suitable mechanisms or procedures or policies were in place.
+3.6.2.7.3
+Provide
+Pharmacy
+Council
+in
+writing
+the
+delegation
+duties
+and
+responsibilities for which he or she is accountable.
+3.6.2.7.4
+Ensure that all directors are au fait with the current ethical rules of the
+Pharmacy Act and agree to abide thereby.
+3.6.2.7.5
+Ensure that all reference sources required in accordance with Regulation
+1.2 “Minimum Standards for Pharmacy Premises, Facilities and Equipment”
+of the Pharmacy Act are on hand; and
+3.6.2.7.6
+Ensure that every key, key card or other device, or the combination of any
+device, which allows access to a wholesale pharmacy when it is locked, is
+kept only on his/ her person or the person of another pharmacist at all
+times.
+3.6.3
+Pharmacy Support Personnel
+3.6.3.1
+As defined by the Pharmacy Council, a pharmacist’s assistant (basic) registered in the
+category pharmacist’s assistant (basic) may perform the following services or acts under
+the direct personal supervision of a pharmacist pertaining to the activities of a wholesale
+pharmacy:
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 20 of 48
+3.6.3.1.1
+The sale of Schedule 1 medicines or Scheduled substances.
+3.6.3.1.2
+The distribution and control of stock of Schedule 1 to Schedule 6 medicines
+or scheduled substances; and
+3.6.3.1.3
+The provision of information to individuals to promote health.
+3.6.3.2
+Pharmacist’s Assistant (learner basic) — A pharmacist’s assistant registered in the
+category Pharmacist’s Assistant (learner basic) may for the purposes of education and
+training, provide the services or perform the acts prescribed in Regulation 9 under the
+direct personal supervision of a pharmacist in a pharmacy.
+3.6.3.3
+Pharmacist’s Assistant (post-basic) — A pharmacist’s assistant registered in the category
+Pharmacist’s Assistant (post-basic) may perform the following services or acts under the
+direct personal supervision of a pharmacist pertaining to the activities of a wholesale
+pharmacy:
+3.6.3.3.1
+The sale of Schedule 1 and Schedule 2 medicines or scheduled substances.
+3.6.3.3.2
+The distribution and control of stock of Schedule 1 to Schedule 6 medicines
+or scheduled substances.
+3.6.3.3.3
+The ordering of medicine and scheduled substances up to and including
+Schedule 6 according to an instruction of a person authorized in terms of
+the Medicines Act to purchase or obtain such medicine or scheduled
+substance.
+3.6.3.3.4
+The provision of instructions regarding the correct use of medicine
+supplied.
+3.6.3.3.5
+The provision of information to individuals to promote health.
+3.6.3.4
+Pharmacy Student
+3.6.3.4.1
+A pharmacy student may provide or perform all the services or acts
+pertaining to the scope of practice of a pharmacist’s assistant registered in
+the category “Pharmacist’s Assistant (basic)” under the direct personal
+supervision of a pharmacist in a wholesale pharmacy.
+3.6.3.4.2
+A pharmacy student who has successfully completed his or her second year
+of study may provide or perform all the services or acts pertaining to the
+scope of practice of a Pharmacist’s Assistant registered in the category
+“Pharmacist’s Assistant (post-basic)” under the direct personal supervision
+of a pharmacist in a wholesale pharmacy.
+3.6.4
+Pharmacist
+3.6.4.1
+The following services and/or acts are regarded to be acts specifically pertaining to a
+pharmacist in a wholesale pharmacy:
+3.6.4.1.1
+The
+purchasing,
+acquiring,
+keeping, possessing,
+releasing,
+storage,
+supplying or selling of any pharmaceutical product. supplied or the
+supervision thereof.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 21 of 48
+3.6.4.1.2
+The scope of practice of a pharmacist in a wholesale pharmacy includes:
+
+The distribution of any pharmaceutical product.
+
+The initiation and conducting of pharmaceutical research and
+development.
+3.6.5
+Training
+3.6.5.1
+A written procedure on the training of personnel must be available.
+3.6.5.2
+The Responsible Pharmacist for the wholesaler is responsible for:
+3.6.5.2.1
+Ensuring that training takes place.
+3.6.5.2.2
+Reviewing on a regular basis the effectiveness of the training programs.
+3.6.5.2.3
+Evaluating the relevance of the course content e.g., training on Storage and
+Handling of pharmaceutical products etc.
+3.6.5.2.4
+Identifying which staff will be entered into the training programs.
+3.6.5.2.5
+Monitoring whether staff has participated as planned in the training
+programs.
+3.6.5.2.6
+Ensuring that adequate training records are maintained.
+3.6.5.2.7
+Personnel should receive initial (induction) and continuing training relevant
+to their tasks, and be assessed as applicable, in accordance with a written
+training program; and
+3.6.5.2.8
+Personnel dealing with hazardous products (such as highly active and
+radioactive materials, narcotics, and other hazardous, sensitive and/or
+dangerous pharmaceutical products, as well as products presenting special
+risk or abuse, fire, or explosion) should be given specific training.
+3.7
+Quality Management System
+3.7.1
+General
+3.7.1.1
+Senior management should provide evidence of its commitment to the development
+and implementation of the Quality Management System (QMS) and continual
+improvement of its effectiveness by:
+3.7.1.1.1
+Communicating to the organization the importance of adhering to
+customer requirements; regulatory (Good Wholesaling Practices) and legal
+requirements, including environmental, health and safety aspects.
+3.7.1.1.2
+Establishing a quality policy with quality objectives.
+3.7.1.1.3
+Ensuring regular reviews of quality management systems.
+3.7.1.1.4
+Applying risk assessments.
+3.7.1.1.5
+Maintaining appropriate conditions throughout the organization for
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 22 of 48
+processes and systems.
+3.7.1.1.6
+Ensuring the availability of resources, particularly enough manpower that is
+suitably trained.
+3.7.1.2
+The Quality Manual must be established, documented and maintained.
+3.7.1.3
+The Quality Manuel should include as a minimum:
+3.7.1.3.1
+The company’s quality policy statement, organizational structures and
+resources, service provision and interaction between the processes, quality
+management system description and quality objectives.
+3.7.1.3.2
+Standard Operating Procedures (SOPs) and Technical Guidelines.
+3.7.1.3.3
+Work Instructions and Process Maps.
+3.7.1.3.4
+Forms and Records.
+3.7.2
+Self-Inspections
+3.7.2.1
+The System of Quality Assurance of the wholesale pharmacy should include self-
+inspections. These inspections should be in line with the principles of Good Wholesaling
+Practices and if necessary, to trigger corrective and preventative measures.
+3.7.2.2
+The Responsible Pharmacist is responsible to ensure that self-inspections are
+performed, and any deviations are followed up and concluded.
+3.7.2.3
+Written procedures for self- inspections should be established to provide minimum and
+uniform standards.
+3.7.2.4
+Self-inspections should be conducted in an independent and detailed way by a
+designated and competent person.
+3.7.2.5
+Self-inspections should cover all aspects of Good Wholesaling Practices.
+3.7.2.6
+The frequency of self-inspections should be at least once a year.
+3.7.2.7
+Inspection reports should include results, evaluation, conclusions, and recommended
+measures. These reports should be summarized and periodically submitted to Senior
+Management as an integral part of the management review process.
+3.7.2.8
+There should be an effective follow-up programmed, whereby company management
+must evaluate both the report and corrective measures. The follow-up activities should
+verify the effectiveness of the corrective action taken.
+3.7.3
+Corrective and Preventive Actions (CAPA)
+3.7.3.1
+Corrective Action
+3.7.3.1.1
+Corrective action is taken to eliminate the cause of an existing non-
+conformity or other undesirable situation.
+3.7.3.1.2
+Corrective action procedures must be implemented, and the effectiveness
+of the results must be verified. It must be determined whether the non-
+conformity is an isolated or a repetitive problem, and any actions to be
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 23 of 48
+taken, if necessary.
+3.7.3.1.3
+Corrective action is taken to prevent recurrence of a situation or
+non-
+conformity.
+3.7.3.2
+Preventive Action
+3.7.3.2.1
+Preventive action is taken to prevent occurrence. Preventive action should
+be considered if there are opportunities to improve the quality
+management system.
+3.7.3.2.2
+Corrective action is taken after nonconformities are identified. Preventive
+action is taken when a potential non-conformity is identified because of the
+analysis of records and other relevant sources of information, such as:
+
+Statistical process control documents.
+
+Customer complaints.
+
+Review product, process, and quality system information.
+
+Risk analysis and risk assessment of products and
+processes.
+3.7.3.2.3
+Records relating to the product performance should be analyzed regularly,
+to detect trends and to identify areas of risk that may lead to non-
+conformities.
+3.7.3.2.4
+The analysis should also determine how to prevent any identified potential
+problems.
+3.7.3.2.5
+Information on preventive action taken must be part of the management
+review to maintain and improve the quality system.
+3.7.4
+Validation
+3.7.4.1
+Wholesalers should have a Validation Master Plan. The Validation Master Plan provides a
+summary of the company’s philosophy, policy, intentions, and approach to validation.
+3.7.4.2
+The following should be validated as a minimum:
+3.7.4.2.1
+Warehouse premises: ambient and cold-chain storage conditions including
+temperature mapping.
+3.7.4.2.2
+Lagged containers.
+3.7.4.2.3
+Cold chain processes.
+3.7.4.2.4
+Computerized systems; and
+3.7.4.2.5
+Transportation systems
+3.7.4.3
+Validation should be conducted in accordance with a validation protocol. A written
+Validation Report should be available after completion of the validation.
+3.7.5
+Calibration
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 24 of 48
+3.7.5.1
+All measuring equipment must be calibrated in accordance with an approved schedule
+that details which equipment requires calibration, as well as the frequency of
+calibration. The frequency will depend on the type of equipment used, as well as the
+purpose for which it is used.
+3.7.5.2
+It is the Responsible Pharmacist’s responsibility to approve the calibration schedule.
+3.7.6
+Electronic Records
+3.7.6.1
+Records of temperature monitoring data should be available for review. There should be
+defined intervals for checking temperature. The equipment used for monitoring should
+be checked at suitable predetermined intervals and the results of such checks should be
+recorded and retained. All monitoring records should be kept for at least the shelf-life of
+the stored pharmaceutical product plus one year, or as required by the relevant national
+legislation.
+3.7.6.2
+Temperature mapping should show uniformity of the temperature across the storage
+facility. It is recommended that temperature monitors be in areas that are most likely to
+show fluctuations.
+3.7.6.3
+Data, especially, legal records, may be recorded by electronic data processing systems
+but detailed procedures relating to the system in use should be available and the
+accuracy of the records should be checked.
+3.7.6.4
+A written detailed description of the system should be produced (including diagrams as
+appropriate) and kept up to date. It should describe the principles, objectives, security
+measures and scope of the system and the main features of the way in which the
+computer is used and how it interacts with other systems and procedures.
+3.7.6.5
+Only authorized persons should be able to enter or modify data in the computer. Access
+should be restricted by passwords or other means. User should have a unique identifier
+(User ID) for their personal and sole use so that activities can subsequently be traced to
+the responsible individual.
+3.7.6.6
+Written procedures should be in place for the validation of computerized systems to
+demonstrate security of access and data integrity.
+3.7.6.7
+There should be a record of changes and deletions. Any alteration to an entry of critical
+data (which must be defined by each organization) should be authorized and recorded
+with the reason for the change in accordance with the SOP for “Quality Assurance
+Change Control”. Consideration should be given to the system creating a complete
+record of all entries and amendments (an “audit trail”).
+3.7.6.8
+Records electronically stored should be protected by back-up transfer on magnetic tape,
+microfilm, paper, or other means, at regular intervals. Back-up data should be stored, if
+possible, at a separate and secure off-site location.
+3.7.7
+Risk Management
+3.7.7.1
+Risk can be defined as the measure of the probability and consequence of not achieving
+a specific goal. It therefore depends on both the likelihood (probability) of an event
+occurring and, on the consequence, (impact) of that event, should it occur.
+3.7.7.2
+Effective Risk Management allows the risks to be controlled to such an extent that the
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 25 of 48
+unwanted subset of a set of uncertain outcomes can be mitigated adequately.
+3.7.7.3
+Because planned actions can be subject to large costs and benefit risks, a thorough risk
+assessment and risk management plan is critical for the success of such actions.
+3.7.7.4
+Risk assessment plays a crucial role in not only security management, but also in
+ensuring delivery of consistent quality service in the healthcare supply chain. In this
+environment it equates to quality pharmaceutical products delivered to the correct
+customers, under the correct storage and transportation conditions.
+3.7.7.5
+Wholesalers should annually conduct risk assessments to assess potential risks to the
+quality and integrity of pharmaceutical products. The quality system should be
+developed and implemented to address any potential risks identified. The quality system
+should be reviewed and revised annually to address new risks identified during a risk
+assessment.
+3.7.7.6
+A Risk Matrix must preferably be used by the wholesaler, to not only identify and assess
+areas of risk in critical business processes, but also to allow for the identification of
+solutions to address the risk adequately - to mitigate or avoid the risk factor.
+3.7.7.7
+It is paramount that the Risk Management system is practical, realistic, compliant with
+internal and external standards and cost-efficient.
+3.7.7.8
+Most risk management systems comprise of five distinct areas:
+3.7.7.8.1
+Risk identification.
+3.7.7.8.2
+Risk classification.
+3.7.7.8.3
+Risk analysis.
+3.7.7.8.4
+Risk attitude.
+3.7.7.8.5
+Risk response, control, policy, and reporting.
+3.7.7.8.6
+Figure 1: Risk Management System
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 26 of 48
+As part of the Risk Analysis, the various risks can be mapped / profiled by plotting the Impact and the
+Probability on an axis and then developing an appropriate strategy to deal with or manage the risk factor.
+It is important to note that risk is not stagnant and as the variables change over time, so does the risk
+profile – this continuous monitoring and feedback is essential, as with any process that has a quality focus.
+Figure 2: Risk Measuring
+Figure 1: Risk Management System
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 27 of 48
+3.7.7.9
+The Risk Response options may include any of the following:
+3.7.7.9.1
+Risk retention.
+3.7.7.9.2
+Risk reduction.
+3.7.7.9.3
+Risk transfer.
+3.7.7.9.4
+Risk avoidance.
+3.7.7.9.5
+Seeking additional information about the risk element.
+3.7.7.9.6
+Assurance that any risk mitigation measures do not introduce new risks
+3.7.8
+Change Control
+3.7.8.1
+Change Control within the Quality Management system is used to introduce changes on
+processes, products, structures, or systems in a controlled and coordinated manner that
+allows for the assessment, evaluation, and approval of the change prior to its
+implementation. By following a Change Control process, the organization avoids
+disruption to its current operations as unnecessary changes or disruptive changes will be
+identified and appropriate steps can be taken to manage the change to have the desired
+effect or reject the change altogether if it poses an unacceptable risk to the organization.
+3.7.8.2
+To initiate change normally a formal request for a proposed change on a standardized
+Change Control Request form is prepared.
+3.7.8.3
+The reasons or justification for the change should be clearly documented. The Change
+Request must be submitted to Management/Change Control Committee for review and
+analysis (which would include an element of Risk Assessment).
+3.7.8.4
+It is recommended that a multi-disciplinary group participates in the assessment and
+evaluation process. Various aspects, such as impact on Quality, Safety and Health,
+Operations, IT etc. should be given due consideration, as well as changes made by other
+individuals/groups that might be affected because of introducing this new change.
+3.7.8.5
+Once the Change Request has been approved, the initiator or responsible person should
+formulate the implementation plan, and manage the change as a project with objectives,
+milestones, timelines etc.
+3.7.8.6
+All documentation for the Change Request and subsequent Project Plan etc. must be
+retained in line with the organizations archiving procedure.
+3.8
+Documentation and Record Keeping
+Good documentation constitutes an essential part of the Quality Assurance system and should include the
+relevant SOPs, legal records, documentation system and electronic records. Any computerized document or
+format should comply with the current legislative requirements and/or international practices for electronic
+documentation and computerized system. Records should be made available for inspection.
+Written instructions and records which document all activities relating to the distribution of pharmaceutical
+products, including all applicable receipts and issues (invoices) should be available. Invoices or packaging
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 28 of 48
+slips should be issued for each delivery and accompany the goods. Clear and readily available records should
+be maintained showing the receipt and disposal of all products purchased and sold. Such records should be
+kept in an accessible form and place for at least five years, unless otherwise specified in national or regional
+regulations.
+3.8.1
+Standard Operating Procedures
+3.8.1.1
+The Responsible Pharmacist is responsible for the compilation, review, updating and
+authorization of Standard Operating Procedures (SOPs) in a wholesale pharmacy.
+3.8.1.2
+Copies of all SOPs must be present at the point of use.
+3.8.1.3
+The following SOPs should (as a minimum requirement) be in place in a wholesale
+pharmacy:
+3.8.1.3.1
+How to create review and update SOPs.
+3.8.1.3.2
+Preparation of Site Master File.
+3.8.1.3.3
+Contract/service level agreement activities.
+3.8.1.3.4
+Responsibilities and job descriptions.
+3.8.1.3.5
+Delivery and transportation.
+3.8.1.3.6
+Advertising and promotions control.
+3.8.1.3.7
+Handling of technical complaints
+3.8.1.3.8
+Handling of Adverse drug reactions reporting.
+3.8.1.3.9
+Handling of Temperature deviations.
+3.8.1.3.10
+Handling of and requests for Change control.
+3.8.1.3.11
+Procurement of pharmaceutical products.
+3.8.1.3.12
+Good housekeeping/sanitation practices.
+3.8.1.3.13
+Performing and closing out of Self-inspections.
+3.8.1.3.14
+Receipt of stock.
+3.8.1.3.15
+Storage of pharmaceutical products.
+3.8.1.3.16
+Control of pharmaceutical products in quarantine.
+3.8.1.3.17
+Products that require special storage/ handling instructions.
+3.8.1.3.18
+Cold chain management.
+3.8.1.3.19
+Control of counterfeit pharmaceutical products.
+3.8.1.3.20
+Rodent and pest control.
+3.8.1.3.21
+Training/keeping training records.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 29 of 48
+3.8.1.3.22
+Distribution control.
+3.8.1.3.23
+Cleaning of spillages.
+3.8.1.3.24
+Transportation and goods in transit; including temperature monitoring and
+control.
+3.8.1.3.25
+Delivery protocol
+3.8.1.3.26
+Loading of vehicles
+3.8.1.3.27
+Vehicle monitoring
+3.8.1.3.28
+Vendor verification.
+3.8.1.3.29
+Customer verification.
+3.8.1.3.30
+Control of returned, damaged, rejected goods.
+3.8.1.3.31
+Storage of “Specified” Schedule 5 and Schedule 6 medicines.
+3.8.1.3.32
+Destruction of expired/ damaged/ contaminated stock.
+3.8.1.3.33
+Destruction of “Specified” Schedule 5 and Schedule 6 medicines.
+3.8.1.3.34
+Effective stock rotation of pharmaceutical products.
+3.8.1.3.35
+Stock control.
+3.8.1.3.36
+Recall / complaints / withdrawal of pharmaceutical products.
+3.8.1.3.37
+Warehouse and refrigerator temperature monitoring, recording and
+control.
+3.8.1.3.38
+Calibration of measuring devices.
+3.8.1.3.39
+Risk management.
+3.8.1.3.40
+Access to warehouse in an emergency situation.
+3.8.1.3.41
+Health and safety.
+3.8.1.3.42
+Security of personnel, pharmaceutical products.
+3.8.1.3.43
+Warehouse fire safety.
+3.8.1.3.44
+Waste disposal.
+3.8.1.3.45
+Personal hygiene.
+3.8.1.3.46
+Document control.
+3.8.2
+Documentation System
+3.8.2.1
+Written procedures must be established and maintained for the development, control,
+distribution, and review of all documents relating to the wholesaling process.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 30 of 48
+3.8.2.2
+The title, nature and purpose of each document should be stated clearly. The contents of
+documents should be clear and unambiguous and should be current and valid.
+3.8.2.3
+All documents should be completed, approved, signed, and dated by an appropriate
+authorized person(s) / key personnel and should not be changed without the necessary
+authorization.
+3.8.2.4
+Documents should be reviewed regularly and kept up to date. When a document has
+been revised, a system should exist to prevent inadvertent use of the superseded
+version.
+3.8.2.5
+All records must be readily retrievable, stored and retained.
+3.8.3
+Site Master File
+3.8.3.1
+It is mandatory for a wholesaler of pharmaceutical products to submit a Site Master File
+to the South African Health Products Regulatory Authority.
+3.8.3.2
+Written procedures should be in place for the preparation, review, and update of the Site
+Master File.
+3.8.3.3
+The Responsible Pharmacist is to maintain and update the Site Master File. Updates
+should be submitted to the South African Health Products Regulatory Authority at least
+every 3 years, or if any changes occur.
+3.8.3.4
+The Site Master File should follow the “Guidelines for Preparation of Site Master File”
+issued by the South African Health Products Regulatory Authority.
+3.8.3.5
+The Site Master File must be signed, authorized and dated.
+3.8.4
+Legal Records
+3.8.4.1
+Sales Records
+3.8.4.1.1
+Regulations should foster a safe, transparent, and secure distribution
+system which includes product traceability throughout the supply chain.
+This is a shared responsibility among the parties involved. There should be
+procedures in place to ensure document traceability of products received
+and distributed, to facilitate product recall.
+3.8.4.1.2
+Ideally there should be a procedure in place for the creation and
+maintenance of a pedigree for pharmaceutical products. Provision should
+be made for a visual and/or analytical identification of potential counterfeit
+products. The procedure to be followed when a suspected product is
+identified should include provisions for notification, as appropriate, of the
+holder of the certificate of registration, entity identified on the label (if
+different from the manufacturer), the appropriate national and/or
+international regulatory bodies, as well as other relevant competent
+authorities.
+3.8.4.1.3
+Sales
+records
+should
+be
+maintained
+for
+any
+wholesale
+sale
+of
+pharmaceutical products or distribution thereof.
+3.8.4.1.4
+A record of receipts and sales of the pharmaceutical products shall be kept,
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 31 of 48
+stating the name of the product, pack size, date of transaction, invoice/
+delivery order number, name and address of purchaser/ supplier, batch
+number, expiry date, quantity received/ sold and stock balance.
+3.8.4.1.5
+In accordance with the provisions of Regulation 35(4) of the Medicines Act,
+the manufacturer or wholesaler shall keep a record of Schedule 2, 3, 4, 5
+and 6 pharmaceutical products in the form of invoices that will reflect:
+
+The date and transaction of every sale.
+
+The name of the medicine.
+
+The name and address of every purchaser.
+
+The quantities sold.
+
+The batch number; and
+
+The price at which the medicine was sold.
+3.8.4.1.6
+Regulation 35(5) of the Medicines Act stipulates that a sales record shall be
+kept for a period of five years from the date of sale.
+3.8.5
+Specified Schedule 5 and Schedule 6 Products, Sales, and Register
+3.8.5.1
+In terms of the provisions of Section 22A(5)(c) of the Medicines Act, any Specified
+Schedule 5 and Schedule 6 pharmaceutical product may not be sold to any person who
+may not lawfully possess such substance.
+3.8.5.2
+In terms of the provisions of Regulation 34(3) of the Medicines Act, every order for a
+Schedule 6 pharmaceutical product must be written in legible print, typewritten or
+computer generated and signed in person by an authorized person and must state at
+least the following:
+3.8.5.2.1
+The name, qualification, practice number and address of the authorized
+person placing the order.
+3.8.5.2.2
+The date of issue of the order.
+3.8.5.2.3
+The approved name or the proprietary name of the pharmaceutical
+product.
+3.8.5.2.4
+The dosage form.
+3.8.5.2.5
+The strength of the dosage form and the quantity of the pharmaceutical
+product to be supplied.
+3.8.5.3
+In the case of a faxed, e-mailed, telephone or electronic transmission by other means of
+an order, wholesale dealer in pharmaceutical products must verify the authenticity of
+the order in terms of the provisions of Regulation 34(4) of the Medicines Act.
+3.8.5.4
+The provisions of Section 22A(6)(j) of the Medicines Act stipulate that in an emergency in
+which the life of a patient is at stake, the pharmacist engaged in wholesale practice, may
+on receipt of a telephonic or telefaxed or other electronic request, supply a Schedule 6
+pharmaceutical product without a written order provided that:
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 32 of 48
+3.8.5.4.1
+It shall be the responsibility of such pharmacist, medical practitioner,
+dentist, veterinarian, practitioner, nurse, or other person to ensure that the
+pharmacist engaged in wholesale practice receives a written order within
+seven days.
+3.8.5.4.2
+The Schedule 6 pharmaceutical product shall be supplied in the smallest
+unit sales pack available (not multiples thereof).
+3.8.5.5
+In terms of the provisions of Section 22A (9) (a) (I) of the Medicines Act, a pharmacist
+engaged in wholesale practice, may on receipt of a written order as mentioned above,
+supply any Schedule 6 product to an analyst or researcher for the purpose of education,
+analysis or research who has been issued with a permit by the Director-General for such
+acquisition, use, possession for the purpose of education, analysis, or research.
+3.8.5.6
+Any seller (pharmacist engaged in wholesale practice), of a Schedule 6 pharmaceutical
+product referred to in Section 22A (6) of the Medicines Act shall retain the order
+concerned for a period of not less than five years as from the date of such sale.
+3.8.5.7
+A register shall be maintained for the transactions of all “specified Schedule 5” and/or
+Schedule 6 pharmaceutical products. This is a legal requirement as stipulated under
+Section 22A (6) (p) and Regulation 36(1) of the Medicines Act.
+3.8.5.8
+The register referred to in Regulation 36(2) of the Medicines Act, must indicate the
+quantity of every such pharmaceutical product remaining in stock on the last day of
+March, June, September, and December of each year and must also contain the
+following information:
+3.8.5.8.1
+The date on which the pharmaceutical product was received or supplied.
+3.8.5.8.2
+The name, business address of the person from whom the pharmaceutical
+product was received or sent and in the case of imported pharmaceutical
+products, the import permit number.
+3.8.5.8.3
+The name and address of the person who purchased the pharmaceutical
+products.
+3.8.5.8.4
+The quantity, in words and figures, of such pharmaceutical products
+indicated per dosage unit, mass or volume.
+3.8.5.8.5
+Entries shall be made on the day of transaction; and
+3.8.5.8.6
+Balancing of the register shall be completed within the fourteen days
+following each of the said dates on the last day of March, June, September,
+and December of each year.
+3.8.6
+Post-Importation Testing of “Specified Schedule 5” and/ or Schedule 6 Products, Medical Devices
+and IVD’s
+3.8.6.1
+If “Specified Schedule 5” and/or Schedule 6 samples need to be drawn for testing by a
+Quality Control Laboratory that has been licensed by the South African Health Products
+Regulatory Authority, these orders must be processed by the Holder of the Certificate of
+Registration of the “Specified Schedule 5” and/ or Schedule 6 pharmaceutical products.
+3.9
+Procurement for Wholesalers
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 33 of 48
+3.9.1
+Written procedures should be available for the procurement of pharmaceutical products.
+3.9.2
+In accordance with the licensing conditions as stipulated under Section 22H (1) (a) of the Medicines
+Act, a wholesaler shall not purchase medicines from any source other than from the original
+manufacturer or from the primary importer of the finished product.
+3.10 Premises, Warehousing and Storage.
+Premises should provide protection for the goods from contamination and deterioration, including
+protection from excessive local heating or undue exposure to direct sunlight. The goods received or
+dispatched at receiving or dispatch bays, docks, platforms, or areas should be protected from dust, dirt, and
+rain. Premises should be kept free of rodents, vermin, birds, pets, and pests. Storage of food products
+should be separated from pharmaceutical products.
+Premises should have dedicated and demarcated areas available for the receipt of stock, general storage
+area, goods in quarantine, goods rejected, cold-chain storage, good returned, dispatch and storage of
+“Specified Schedule 5” and/or Schedule 6 pharmaceutical products. The storage areas at a wholesaler
+should be of sufficient capacity to allow the orderly storage of the various categories of pharmaceutical
+products.
+“Specified Schedule 5” and/or Schedule 6 substances must be stored in a secure lockable area directly under
+the control of a pharmacist.
+3.10.1
+Receipt of Stock
+3.10.1.1 Written procedures should be available for the receipt of stock. Particular attention
+should be paid to those pharmaceutical products that require special storage and
+handling instructions. A list of products that require special handling and storage
+requirements must be available at the receiving area.
+3.10.1.2 The receiving personnel must do spot checks on the delivery vehicle and inspect the
+delivery vehicles for the following:
+3.10.1.2.1
+That the products were protected from light and rain, i.e., the delivery truck
+has a closed canopy.
+3.10.1.2.2
+The delivery truck does not have evidence of spillage inside that could lead
+to possible contamination or have been exposed to anything that can cause
+contamination to the products, e.g., any hazardous substances etc.
+3.10.1.2.3
+The delivery truck is lockable to secure the products delivered.
+3.10.1.2.4
+The products are not mixed with other materials that will compromise the
+integrity of the products delivered.
+3.10.1.3 Stock must be received in a separate and dedicated receiving area.
+3.10.1.4 Receiving and dispatch bays should protect products from the weather.
+3.10.1.5 Receiving and dispatch bays must be de-dusted on an ongoing basis and be kept free of
+contamination.
+3.10.1.6 Upon receipt, each incoming delivery should be checked against the relevant
+documentation and physically verified by:
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 34 of 48
+3.10.1.6.1
+The identity of the stock.
+3.10.1.6.2
+The batch numbers of the stock.
+3.10.1.6.3
+The expiry date of the stock.
+3.10.1.6.4
+The pack size.
+3.10.1.6.5
+The condition of the stock.
+3.10.1.6.6
+The status as to whether released or quarantined.
+3.10.1.6.7
+The quantity of the stock received.
+3.10.1.6.8
+The supplier’s details.
+3.10.1.6.9
+The signature of the person who received the stock.
+3.10.1.7 All containers should be carefully inspected for tampering, contamination, and damage
+and if necessary, the suspected container of the entire delivery should be quarantined or
+set aside for further investigation.
+3.10.1.8 Records should be retained for each delivery. They should include the description of the
+goods, quality, quantity, supplier, supplier’s batch number, the date of receipt and
+assigned batch number.
+3.10.1.9 If any discrepancies are identified, all these discrepancies must be documented. In
+addition, the supplier must be notified immediately, and the goods must be clearly
+identified and segregated.
+3.10.2
+General Storage Areas
+3.10.2.1 Precautions must be taken to prevent unauthorized persons from entering storage
+areas.
+3.10.2.2 Storage areas should have sufficient capacity to allow the orderly storage of the various
+categories of pharmaceutical products namely finished products, products in
+quarantine, released, rejected, returned, or recalled products.
+3.10.2.3 Storage areas should be designed or adapted to ensure good storage conditions. They
+should be clean and dry and maintained within specified temperature limits.
+Pharmaceutical products should be stored off the floor and suitably spaced to permit
+cleaning and inspection. Pallets should be kept in a good state of cleanliness and repair.
+3.10.2.4 Secure measures should be taken to ensure that rejected products cannot be used and
+they should be stored separately from other products while awaiting destruction or
+return to the supplier. The measures adopted should possess adequate safeguards to
+prevent uncontrolled or unsatisfactory pharmaceutical products from being used or
+released.
+3.10.2.5 Storage areas should be clean, and free from accumulated waste and vermin.
+3.10.2.6 Written procedures and a sanitation program should be available, indicating the
+frequency of cleaning and the methods to be used to clean the premises and storage
+areas.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 35 of 48
+3.10.2.7 A cleaning log must be in place, completed, signed, and checked by the appropriate
+designated person.
+3.10.2.8 There should be a written procedure and a programmed available for pest control. The
+pest control agents used should be safe, and there should be no risk of contamination of
+pharmaceutical products.
+A site flow plan, indicating where the bait stations are
+situated, must be available.
+3.10.2.9 There should be appropriate written procedures available for the clean-up of any
+spillage to ensure complete removal of any risk of contamination.
+3.10.2.10There should be appropriate written procedures available for the removal of spilled
+hazardous products and cytotoxic substances and products to ensure any risk of
+contamination or health hazard, is controlled.
+3.10.2.11If sampling is performed in the storage area, it should be conducted in accordance with a
+written procedure and in such a way as to prevent contamination or cross-
+contamination.
+3.10.2.12Written procedures should be available for the isolation and control of goods. Goods
+should be moved to a controlled area in the event of:
+3.10.2.12.1 Pharmaceutical products that await the release by the Holder of the
+Certificate of Registration.
+3.10.2.12.2 Pharmaceutical products deemed to be of counterfeit origin.
+3.10.2.12.3 Returned, damaged, or expired pharmaceutical products for destruction.
+3.10.2.12.4 Pharmaceutical products that have been recalled or withdrawn from the
+market.
+3.10.2.12.5 Pharmaceutical products that are being investigated after a cold chain
+failure.
+3.10.2.12.6 Instructions issued by the regulatory authority or the Holder of the
+Certificate of Registration.
+3.10.2.13Where quarantine status is ensured by storage in separate areas, these areas must be
+clearly marked, and their access restricted to authorized personnel. Any system
+replacing physical quarantine should provide equivalent security. For example,
+computerized systems can be used, if they are validated to demonstrate security of
+access.
+3.10.2.14Physical or other equivalent validated (e.g., electronic) segregation should be provided
+for the storage of rejected, expired, recalled, or returned products. The products and
+areas concerned should be appropriately identified.
+3.10.2.15Radioactive materials, narcotics and other hazardous, sensitive and/ or dangerous
+pharmaceutical products, as well as products presenting special risks of abuse, fire, or
+explosion (e.g., combustible liquids and solids and pressurized gases) should be stored in
+dedicated areas that are subject to appropriate additional safety and security measures.
+3.10.2.16Pharmaceutical products should be handled and stored in such a manner as to prevent
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 36 of 48
+contamination, mix-ups, and cross-contamination.
+3.10.2.17Broken or damaged items should be withdrawn from usable stock and stored separately.
+3.10.2.18Storage areas should be provided with adequate lighting to enable all operations to be
+carried out accurately and safely.
+3.10.2.19Sufficient warehouse security should be maintained to prevent misappropriation of the
+goods:
+3.10.2.19.1 To prevent unauthorized possession of, or access to the product.
+3.10.2.19.2 To allow for appropriate stock control.
+3.10.2.20Stock losses should be minimized by taking appropriate measures:
+3.10.2.20.1 A single exit/ entry point to the warehouse being used.
+3.10.2.20.2 Vehicles (other than delivery vehicles) not being allowed near the
+warehouse.
+3.10.2.20.3 All goods leaving the store being carefully checked against the relevant
+documentation.
+3.10.2.20.4 Security checks of all vehicles entering or leaving the warehouse area taking
+place.
+3.10.2.20.5 High-risk goods being well protected, ideally in a separate area that is
+sealed off from the rest of the warehouse with access control.
+3.10.2.20.6 Implementing good housekeeping.
+3.10.2.20.7 Ensuring that workers are not able to leave the warehouse area during
+working hours without going through security.
+3.10.2.20.8 Preventing theft by using appropriate security systems.
+3.10.2.20.9 Avoiding fires in the warehouse by removing combustible waste materials
+several time a day. No-Smoking policies and notice boards should be in
+place.
+3.10.2.20.10
+Implementing and adhering to The Occupational Health and Safety
+Act, 1993 (Act 85 of 1993) in the warehouse to ensure a healthy and safe
+work environment. Details of the Act should be displayed in the work
+environment for all staff to see
+3.10.3
+Ambient Storage Conditions for Pharmaceutical Products
+3.10.3.1 Storage conditions for pharmaceutical products as described by the product storage
+requirements should follow the instructions on the label and package insert, which are
+based on the results of stability testing. When specified on the label, controls for
+temperature, humidity, light etc. should be in place.
+3.10.3.2 The warehouse or storage facility should be maintained at a temperature not always
+exceeding 25 °C.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 37 of 48
+3.10.3.3 All warehouses should be temperature mapped over a period of at least one year to
+determine the temperature distribution under seasonal extremes.
+3.10.3.4 Temperature mapping should be repeated every two to three years and after every
+significant modification to the premises, stock layout or ventilation system.
+3.10.3.5 Temperature monitoring should be done at strategic locations (hot and cold spots)
+covering the stock containment areas and must be read and data recorded at least twice
+daily. Temperatures should be recorded in the morning and afternoon.
+3.10.3.6 Continuous temperature monitoring devices or systems should be validated.
+3.10.3.7 Written procedures should be available describing the action to be taken in the event of
+temperature deviating outside of the set standards and conditions must be
+appropriately investigated. The fate of the goods outside of the set standards must be
+decided by the Responsible Pharmacist in consultation with the Holder of Certificate of
+Registration.
+3.10.4
+Monitoring of Storage Conditions
+3.10.4.1 Temperatures should be controlled and monitored, using calibrated monitoring devices.
+3.10.4.2 Monitoring is conducted at points representing the extremes of the temperature range
+(hot spots or cold spots) based on temperature mapping.
+3.10.4.3 Recorded temperature monitoring data should be available for review.
+3.10.4.4 The equipment used for monitoring should be checked at suitable intervals and the
+results of such checks should be recorded.
+3.10.4.5 Monitoring equipment should be calibrated once a year.
+3.10.4.6 All monitoring records should be kept for at least the shelf-life of the stored
+pharmaceutical products plus one year.
+3.10.5
+Storage Conditions for Thermolabile Products
+3.10.5.1 All thermolabile products must be stored in a refrigerator or cold room, in a temperature
+regulated environment between 2 °C and 8 °C or as per the information on the product
+label; and the cold chain must be always maintained.
+3.10.5.2 Thermolabile products that are required to be frozen must be maintained at
+temperatures in accordance with stipulated storage conditions.
+3.10.5.3 The temperature of the freezers for all products including coolants must be temperature
+monitored.
+3.10.5.4 Refrigerator, freezer, or cold room must be connected to an alarm system - in the event
+of a power failure or if the temperature limits are not met.
+3.10.5.5 Refrigerator, freezer, or cold room must be connected to a standby generator or other
+emergency power system to ensure uninterrupted power supply in the event of a power
+failure.
+3.10.5.6 There must be a written procedure in place in the event of a power failure.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 38 of 48
+3.10.5.7 Refrigerators, cold rooms, and freezers used to store thermolabile pharmaceutical
+products should:
+3.10.5.7.1
+Be well maintained.
+3.10.5.7.2
+Be equipped.
+3.10.5.7.3
+Be free from frost build-up.
+3.10.5.7.4
+Allow for adequate air distribution and orderly storage within the chamber.
+Good storage practices and loading configurations should not lead to the
+obstruction of air distribution.
+3.10.5.7.5
+Have sensors for continuous temperature monitoring and alarms located at
+the points representing the temperature extremes.
+3.10.5.8 The refrigerator, freezer or cold room must be mapped in terms of temperature.
+3.10.5.9 Products should not be stored in areas shown by temperature mapping to present a risk
+(e.g., in the airflow from the refrigeration unit).
+3.10.5.10Sufficient space should be maintained to permit adequate air circulation especially
+between shelving. If the refrigerator is filled, the effect on temperature distribution
+should be investigated.
+3.10.5.11Ensure that no condensation from chillers collects or drips onto product or collects
+inside the facility.
+3.10.5.12On receipt of a shipment of thermolabile stock, all cold chain items should be moved to
+the refrigerator within the shortest possible time from offloading the truck.
+3.10.5.13When a lagged container used for transportation of the product is opened, all cold chain
+products must immediately be removed and stored in the refrigerator, to maintain the
+cold chain. Checks should be done to ensure that the cold chain has been maintained
+during transportation.
+3.10.6
+Inventory Management
+3.10.6.1 Comprehensive records must be maintained showing all receipts and issues of
+pharmaceutical products according to batch number and expiry date.
+3.10.6.2 Annual physical cyclical counts should involve counting all items and comparing the
+counts with the records.
+3.10.6.3 The differences should be reconciled i.e., all significant stock discrepancies should be
+investigated to check that there have been no inadvertent mix-ups, incorrect issue
+and/or misappropriation of pharmaceutical products; and any stock discrepancy must
+be referred to the Responsible Pharmacist
+3.10.6.4 A written procedure must be in place to ensure effective stock rotation pharmaceutical
+products due to expire first must be sold and/or distributed in accordance with the first
+expiry, first out (FEFO) principles. Where no expiry dates exist for the pharmaceutical
+products, the first in, first out (FIFO) principle should be applied.
+3.10.6.5 All stock must be checked regularly for obsolete and short dated stock items. All due
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 39 of 48
+precaution should be observed to prevent the issue of such short dated or expired stock.
+3.10.6.6 Pharmaceutical products with broken seals, damaged packaging or suspected of
+possible tampering/ contamination must not be sold or supplied and must be
+segregated pending an investigation and decision.
+3.10.6.7 Pharmaceutical products bearing an expiry date must not be received or supplied after
+their expiry date.
+3.10.6.8 Recalls of pharmaceutical products must be carried out as per written procedure.
+3.11 Shipment Containers and Container Labelling
+3.11.1
+All pharmaceutical products should be stored and distributed in shipment containers which do not
+have an adverse effect on the quality of the products, and which offer adequate protection from
+external influences, including contamination.
+3.11.2
+Shipment containers may not necessarily need to bear labels with full description of the identity of
+the container’s content but should provide sufficient information on the handling and storage
+conditions and precautions to ensure the pharmaceutical products are properly always handled.
+3.11.3
+The need for any special transport and/or storage conditions should be stated on the label.
+3.11.4
+Special care should be taken when using dry ice in containers. In addition to safety issues, it must
+be ensured that the pharmaceutical products do not come into contact with the dry ice, as it may
+have an adverse effect on the quality of the product.
+3.11.5
+Written procedures should be available for the handling of damaged and/or broken shipment
+containers. Particular attention should be paid to those containing potentially toxic and hazardous
+products.
+3.11.6
+Validated Lagged Container:
+3.11.6.1 Thermolabile products are normally transported in lagged containers. During
+transportation these products must be protected by insulated packaging.
+3.11.6.2 There should be a written procedure available for the validation of the lagged containers.
+3.12 Equipment
+3.12.1
+Equipment used to move, store, or handle pharmaceutical products should be suitable for their use
+to prevent exposure of products to conditions that could affect their stability and packaging
+integrity and prevent contamination of any kind.
+3.12.2
+The design and use of equipment must aim to minimise the risk of errors and permit effective
+cleaning and/or maintenance to avoid contamination, build-up of dust or dirt and/or any adverse
+effect on the quality of pharmaceutical products being distributed.
+3.12.3
+Where non-dedicated equipment is used, procedures must be in place to ensure that the quality of
+the pharmaceutical products will not be compromised in any way.
+3.12.4
+Appropriate cleaning should be performed and checked.
+3.12.5
+Defective equipment should not be used and should either be labelled as such or removed from
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 40 of 48
+area.
+3.12.6
+There must be procedures in place for the operation and maintenance of all equipment involved in
+the distribution process, including cleaning, safety precautions and preventative maintenance
+requirements.
+3.12.7
+Equipment must comply with Health and Safety requirements and regulations.
+3.12.8
+Equipment should be kept clean, dry, and free from accumulated waste. A written cleaning
+programme should be available, indicating the frequency of cleaning and the methods to be used.
+3.12.9
+Equipment should be kept free from rodents, vermin, fungi, birds, and other pests.
+3.12.10 There should be a written programme for pest control and elimination. Cleaning and fumigation
+agents should not have an adverse effect on product quality or be a source of contamination.
+3.12.11 Measures should be in place to prevent unauthorized persons from entering and/or tampering
+equipment, as well as to prevent the theft or misappropriation thereof.
+3.12.12 Data loggers within the consignment, based on the transport validation, are removed on arrival,
+the validated software is available to read the data and the data is used as part of the release to
+market.
+3.13 Vehicles.
+Vehicles used to distribute, store, or handle pharmaceutical products should be suitable for their purpose
+and appropriately equipped to prevent exposure of the products to conditions that could affect their
+stability and packaging integrity, and to prevent contamination of any kind.
+3.13.1
+Where feasible, consideration should be given to adding technology, such as global positioning
+system (GPS) electronic tracking devices, which would enhance the security of pharmaceutical
+products while in the vehicle.
+3.13.2
+The vehicles must:
+3.13.2.1 Be clean and free from contamination of rats, vermin, birds, fungi etc.
+3.13.2.2 Have solid sides.
+3.13.2.3 Not transport non-pharmaceutical products which could result in contamination.
+3.13.3
+Vehicles should be of sufficient capacity to allow orderly storage of the various categories of
+pharmaceutical products during transportation.
+3.13.4
+Mechanisms should be available to allow for the segregation during transit of rejected, recalled,
+and returned pharmaceutical products as well as those suspected being counterfeits. Such goods
+must be securely packaged, clearly labelled, and be accompanied by appropriate supporting
+documentation.
+3.13.5
+Pharmaceutical products should not be returned without the necessary and relevant
+documentation.
+3.13.6
+Pharmaceutical products should not be returned in non-protective packaging such as a plastic bag.
+3.13.7
+Measures should be in place to prevent unauthorized persons from entering and/or tampering
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 41 of 48
+with vehicles, as well as to prevent the theft or misappropriation thereof or of the pharmaceutical
+products.
+3.13.8
+Procedures should be in place to ensure that the integrity of the products is not compromised
+during transportation.
+3.13.9
+Where third-party carriers are used, wholesalers should develop written agreements with carriers
+to ensure that appropriate measures are taken to safeguard pharmaceutical products, including
+maintaining appropriate documentation and records.
+3.13.10 Where special storage conditions (e.g., temperature and or relative humidity) different from the
+expected environmental conditions are required during transportation, these should be provided,
+checked, monitored, and recorded.
+3.13.11 All monitoring records should be kept for a minimum of the shelf-life of the product distributed
+plus one year, or as required by national legislation. Records of monitoring data should be made
+available for inspection by the regulatory or other oversight body.
+3.13.12 Equipment used for monitoring conditions, e.g., temperature and humidity, within vehicles and
+containers, should be calibrated at regular, specified intervals.
+3.14 Sale and Dispatch of Pharmaceutical Products
+3.14.1
+Written procedures for the dispatch of pharmaceutical products should be established. Such
+procedures should consider the nature of the product, as well as any special precautions to be
+observed.
+3.14.2
+All the prescribed particulars of every sale of a pharmaceutical product shall be recorded in the
+prescribed manner in a permanent record required to be kept for five years and must be easily
+retrievable.
+3.14.3
+Pharmaceutical products should only be sold and/or distributed to persons or entities that are
+entitled to acquire such products. Customer verification must be performed; written proof of such
+authority must be obtained prior to the dispatch of products to such persons or entities.
+3.14.4
+The Responsible Pharmacist shall be responsible to survey the purchasing patterns for Schedule 5,
+“Specified Schedule 5” and Schedule 6 medicines or substances. In the event of exceptional high
+volumes being purchased, the Responsible Pharmacist should inform the national regulatory
+authority accordingly.
+3.14.5
+In the event of an emergency a wholesaler may supply a Schedule 6 pharmaceutical product. to a
+pharmacist, medical practitioner, dentist, veterinarian, practitioner, nurse, or other person
+registered under the Health Professions Act, 1974 without a written order provided that:
+3.14.5.1 The pharmacist, medical practitioner, dentist, veterinarian, practitioner, nurse, or other
+person ensures that such Pharmacist receives a written order within seven days: and
+3.14.5.2 The Schedule 6 substance must be supplied in the smallest unit sales pack available.
+3.14.6
+There should be adequate provision for the security, storage condition and protection of the
+quality of pharmaceutical products during transportation to the customer. The transport process
+should not affect the integrity and quality of the products.
+3.14.7
+Pharmaceutical products should be transported in such a way that:
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 42 of 48
+3.14.7.1 Identification is not lost.
+3.14.7.2 They do not contaminate, and are not contaminated by, other products or materials.
+3.14.7.3 Adequate precautions are taken against spillage, breakage or theft.
+3.14.7.4 They are secure and not subjected to unacceptable degrees of heat, cold, light, moisture,
+or other adverse influence, or to attack by micro-organisms or pests.
+3.14.7.5 The products are secured to prevent unauthorized possession.
+3.14.7.6 The point of delivery must be consistent with the delivery address on the waybill or
+delivery note or label.
+3.14.8
+For the deliveries of “Specified Schedule 5” and/or Schedule 6 pharmaceutical products,
+requirements stipulated in Section 22A of the Medicines Act should be followed.
+3.14.9
+An invoice of the dispatched pharmaceutical products should be prepared and should include at
+least the following information:
+3.14.9.1 Date of dispatch.
+3.14.9.2 Name and address of the customer.
+3.14.9.3 A description of the products including, e.g., name, dosage form and strength (if
+applicable).
+3.14.9.4 Quantity of the products, i.e., number of containers and quantity per container.
+3.14.9.5 Clearly identifying products requiring specialized handling.
+3.14.9.6 A unique number to allow identification of the delivery order.
+3.14.10 Delivery documentation should contain enough information to enable traceability of the
+pharmaceutical product. Such records should facilitate the recall of a batch of a product if
+necessary. Each party involved in the supply chain has a responsibility to ensure traceability.
+3.14.11 Thermolabile pharmaceutical products requiring controlled temperature storage should be
+transported by appropriate or specialized means.
+3.15 Transportation and Products in Transit
+3.15.1
+The transportation process should not compromise the integrity and quality of pharmaceutical
+products.
+3.15.2
+Delivery of pharmaceutical products requiring controlled temperatures should be in accordance
+with the applicable storage and transport conditions.
+3.15.3
+Freight forwarders and courier companies are not licensed by the South African Health Products
+Regulatory Authority and therefore pharmaceutical products should not be stored in the local
+sorting or consolidation hubs for longer than 24 hours.
+3.15.4
+Delivery schedules should be established, and routes planned, taking local needs and conditions
+into account. Such schedules and plans should be realistic and systematic. Security risks should be
+considered when planning the schedules and routes of the delivery. This should be covered in the
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 43 of 48
+service level agreement with the transport company being utilized.
+3.15.5
+The manufacturer should communicate all relevant conditions for storage and transportation to
+those responsible for the transportation of pharmaceutical products. Adherence to these
+requirements throughout transportation and at any intermediate storage stages is required.
+3.15.6
+Care should be taken to ensure that pharmaceutical products are delivered as soon as possible.
+3.15.7
+The required storage conditions for pharmaceutical products must be maintained within
+acceptable limits during transportation and products should not be exposed to excessive
+environmental conditions.
+3.15.8
+Pharmaceutical products should be stored and transported in accordance with procedures such
+that:
+3.15.8.1 The identity of the pharmaceutical product. is not lost.
+3.15.8.2 The pharmaceutical products do not contaminate and is not contaminated by other
+pharmaceutical products.
+3.15.9
+Adequate precautions are taken against spillage, breakage, misappropriation, and theft; and
+3.15.10 Appropriate temperature and relative humidity conditions are maintained in the case of
+pharmaceutical products, e.g., using cold chain for thermolabile products.
+3.15.11 Pharmaceutical products comprise of highly active and radioactive materials, other dangerous
+substances presenting special risks of abuse, fire, or explosion e.g., flammable liquids, solids and
+pressurized gases should be transported in safe, dedicated, and secure containers and vehicles.
+3.15.12 Pharmaceutical products containing narcotics and other high-risk items should be transported in
+safe and secure containers and vehicles.
+3.15.13 Spillages should be cleaned as soon as possible to prevent possible contamination, cross-
+contamination and hazards. Written procedures should be in place for the handling of such
+occurrences. Spillages must be reported to the Responsible Pharmacist for immediate action.
+3.15.14 Sufficient security should be provided to prevent theft and other misappropriation of
+pharmaceutical products. Steps should be taken to prevent unauthorized access to these products
+during transport.
+3.15.15 Damage to containers and any other event or problem which occurs during transit must be
+recorded and reported to the Responsible Pharmacist.
+3.15.16 Drivers of vehicles should identify themselves and present appropriate documentation to
+demonstrate that they are authorized to transport the load.
+3.16 Repackaging and Relabeling
+3.16.1
+A wholesaler may not perform any activities relating to the repackaging and relabeling of
+pharmaceutical products.
+3.16.2
+All labels and containers should not be altered, tampered, or changed. The legislation relating to
+labels and containers should be always adhered to.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 44 of 48
+3.17 Complaints
+3.17.1
+Complaints can be one of the following types:
+3.17.1.1 General product complaints.
+3.17.1.2 Technical or quality product complaints which relates to the product and its packaging.
+3.17.1.3 Adverse Reaction or events.
+3.17.1.4 Other distribution/logistic type complaints which are not product related and therefore
+not for the attention of the Responsible Pharmacist.
+3.17.2
+The Responsible Pharmacist is responsible to ensure that all product complaints are kept on file
+and are forwarded onto the applicant or Holder of the Certificate of Registration for attention and
+advice.
+3.17.3
+In the event of a complaint involving “adverse drug reactions”, it should be followed up without
+delay in accordance with the South African Health Products Regulatory Authority’s Guidelines on
+“Reporting Adverse Drug Reactions in South Africa”.
+3.17.4
+In addition, it is to be noted that all drug adverse reactions must be reported to National Adverse
+Drug Event Monitoring Centre (NADEMC) in Cape Town.
+3.17.5
+In the event of a technical complaint, the manufacturer and/or primary importer of the product as
+well as the South African Health Products Regulatory Authority should be informed as soon as
+possible.
+3.17.6
+All complaints and other information concerning potentially defective and potentially counterfeit
+pharmaceutical products should be reviewed according to written procedures describing the
+action to be taken. The Responsible Pharmacist should advise the Holder of the Certificate of
+Registration without delay.
+3.17.7
+If any counterfeit products are identified the Proposed Holder of the Certificate of Registration, the
+South African Health Products Regulatory Authority and the South African Police Service should be
+notified immediately, and this must be handled in accordance with a written procedure (SOP).
+3.17.8
+If a defect relating to a pharmaceutical product is discovered or suspected, consideration should be
+given to whether other batches of the product should also be checked. The Holder of the
+Certificate of Registration should be advised of the defect as soon as possible.
+3.17.9
+Where necessary, appropriate follow-up action should be taken after investigation and evaluation
+of the complaint.
+3.18 Recall or Withdrawal of Pharmaceutical Products
+3.18.1
+The Responsible Pharmacist is responsible to handle a recall of pharmaceutical products and to
+assist the manufacturer/Holder of Certificate of Registration of the said product with the product
+recall.
+3.18.2
+The Responsible Pharmacist is responsible to ensure that all batches of pharmaceutical products
+are batch traceable in the event of a recall or withdrawal of a specific product.
+3.18.3
+Product batch numbers must be recorded and kept on file and should be easily retrievable in the
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 45 of 48
+event of a recall.
+3.18.4
+There should be a system in place, including a written procedure, to recall or withdraw promptly
+and effectively pharmaceutical products known or suspected to be defective, with a designated
+person(s) responsible for recalls.
+3.18.5
+The said procedures should follow the “Guidelines for Recall/ Withdrawal of Medicines” issued by
+the South African Health Products Regulatory Authority.
+3.18.6
+The Responsible Pharmacist should inform the Holder of the Certificate of Registration as soon as
+possible of all information relating to the recall and must take responsibility for all actions required
+in a recall process relative to the area to which goods have been supplied.
+3.18.7
+The effectiveness of the arrangements for recalls or withdrawals should be evaluated at regular
+intervals by staging a “mock recall” (at least 1 per annum) to ensure the effectiveness thereof.
+3.18.8
+All pharmaceutical products that have been recalled or withdrawn should be stored in a secure,
+segregated area pending appropriate action.
+3.18.9
+Recalled or withdrawn pharmaceutical products should be segregated during transit and clearly
+labelled as “recalled products”. Where segregation in transit is not possible, such goods must be
+securely packaged, clearly labelled, and be accompanied by appropriate documentation.
+3.18.10 The storage conditions applicable to pharmaceutical products which are subject to a recall, or a
+withdrawal should be maintained during storage and transit until such time as a decision has been
+made regarding the fate of the product(s) in question.
+3.18.11 All records should be readily available to the designated person(s) responsible for recalls or
+withdrawals. These records should contain sufficient information on the pharmaceutical products
+supplied to customers. Reconciliation after the recall must be done as per South African Health
+Products Regulatory Authority’s Guidelines in the designated timeframe and this must be
+communicated to the Holder of the Certificate of Registration as soon as possible for referral to
+SAHPRA.
+3.18.12 The progress of a recall or withdrawal process should be recorded, and a final report issued, which
+includes reconciliation between delivered and recovered quantities of pharmaceutical products.
+3.19 Returned and Rejected Products
+3.19.1
+The Responsible Pharmacist is responsible to ensure that goods returned/ due to be rejected are
+handled in a procedurally correct manner, reasons for returns determined and any further actions
+followed through and recorded.
+3.19.2
+All returned and rejected products must be clearly labelled, sealed, and stored separately in a
+secure manner in a clearly marked designated area.
+3.19.3
+The Responsible Pharmacist is responsible for the final decision, after evaluation, to return the
+goods to stock or destroy any rejected goods.
+3.19.4
+Written procedures describing the handling of returned pharmaceutical products and the
+corresponding records of all returns should be kept.
+3.19.5
+When receiving rejected or returned goods the delivery vehicle should be inspected for the
+following:
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 46 of 48
+3.19.5.1 That the products were protected from light and rain, i.e., the delivery truck has a closed
+canopy.
+3.19.5.2 The delivery truck does not have evidence of spillage inside.
+3.19.5.3 The delivery truck is lockable to secure the products delivered.
+3.19.5.4 The products are not mixed with other materials that will compromise the integrity of
+the products delivered; and
+3.19.5.5 The products have not been exposed to anything that can cause contamination to the
+products.
+3.19.6
+Any Schedule 0 to Schedule 6 pharmaceutical products that are returned from a customer in the
+retail sector; should be logged with the wholesaler within the shortest possible time after the stock
+has been delivered to the customer.
+3.19.7
+Goods which have left the care of the wholesaler should only be returned to saleable stock if:
+3.19.7.1 Proof of purchase is supplied, they are in their original unopened containers, the original
+label is intact, there is no sign of spoilage or contamination, if it is evident that the
+containers have not been subjected to adverse conditions and that the shelf life of the
+products is still intact; and
+3.19.7.2 They have been examined and assessed by a person authorized to do so. Such
+assessment should consider the nature of the goods and any special storage conditions
+they may require. If necessary, advice should be sought from the person responsible for
+the quality of the pharmaceutical product.
+3.19.8
+In the event of cold-chain items that are returned, a “No Returns” policy may be in place unless
+under exceptional circumstances:
+3.19.8.1 Under these circumstances the Responsible Pharmacist must take full responsibility for
+the action taken.
+3.19.8.2 If a product return is logged for a cold-chain item, the Responsible Pharmacist may
+perform a “Product Quality Evaluation” to assess if the cold chain has been maintained
+or whether it was compromised.
+3.19.8.3 For the “Product Quality Evaluation”, the Responsible Pharmacist must request a copy of
+the customer’s “Fridge Log” as well as a letter from the customer’s Responsible
+Pharmacist stating that the pharmaceutical products were handled and stored in the
+required manner whilst in their custody; and
+3.19.8.4 The cold-chain products must be returned to the wholesaler, in an appropriate lagged
+container, packed with the required consumables.
+3.19.9
+All returned pharmaceutical products should be kept apart from saleable stock to prevent
+redistribution until a decision has been reached regarding their disposal.
+3.19.10 Returned pharmaceutical products from a recall should be handled in accordance with a written
+procedure, detailing the action to be taken in recalling the said products on behalf of the
+manufacturer or primary importer. The procedure should be consistent with the “Guidelines for
+Recall/ Withdrawal of Medicines” as issued by the South African Health Products Regulatory
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 47 of 48
+Authority.
+3.19.11 These products must be separated, sealed, and clearly labelled and placed in a designated locked
+area to which there is no free access.
+3.19.12 The reconditioning or re-packaging / relabeling of returned pharmaceutical products must not be
+carried out by the wholesalers. Such activities require a manufacturer’s licence.
+3.19.13 The storage conditions applicable to pharmaceutical products which is rejected or returned should
+be maintained during storage and transit until such time as a decision has been made regarding the
+product in question.
+3.19.14 Written procedures should be available for the handling of rejected goods. Such pharmaceutical
+products should be identified and controlled under a quarantine system designed to prevent their
+use until a final decision is taken on their fate.
+3.19.15 The status of rejected goods should be changed from “Quarantined” to “Reject”. Goods should be
+moved to the “Reject Area” that is a clearly labelled and segregated area. A list of rejected goods
+should be kept.
+3.19.16 Provision should also be made for the appropriate and safe transport of rejected and waste
+materials prior to their disposal.
+3.20 Disposal of Products
+3.20.1
+A written procedure on disposal of (expired, defective, or rejected) pharmaceutical products must
+be available, and must be in accordance with guidelines issued by the South African Health
+Products Regulatory Authority.
+3.20.2
+No pharmaceutical products may be disposed of into municipal sewerage systems.
+3.20.3
+The destruction or disposal of pharmaceutical products containing scheduled substances must be
+conducted in such a manner as determined by the South African Health Products Regulatory
+Authority to ensure that they are not retrievable.
+3.20.4
+Records of all returned, rejected and/or destroyed pharmaceutical products must be kept.
+Destruction certificates issued by the contracted certified waste processing company must be kept
+on file.
+3.20.5
+The Responsible Pharmacist is responsible to ensure that the destruction of all Schedule 5 and
+Schedule 6 medicines are conducted according to the South African Health Products Regulatory
+Authority’s guidelines.
+3.20.6
+The Responsible Pharmacist will ensure that the appropriate waste disposal method and location is
+selected, in accordance with the provisions of the:
+3.20.6.1 Nuclear Energy Act, 1982 (Act 92 of 1982),
+3.20.6.2 the National Environmental Management Act, 1998 (Act 107 of 1998),
+3.20.6.3 the Waste Act, 2008 (Act 59 of 2008) and
+3.20.6.4 the Air Quality Act, 2004 (Act 39 of 2004).
+3.20.6.5 Other legislation in terms of local municipal Regulations.
+Guideline on South African Good Wholesaling Practice for Wholesalers
+18 September 2022
+SAHPGL-INSP-03_v5
+Page 48 of 48
+3.20.7
+In addition, the Responsible Pharmacist or appointed designate, should accompany the goods to
+the disposal site, witness the disposal and obtain a “Destruction Certificate”.
+3.21 Counterfeit Pharmaceutical products
+3.21.1
+There must be a written procedure detailing the action to be taken in handling of counterfeit
+pharmaceutical products.
+3.21.2
+Any counterfeit or suspected pharmaceutical product found in the pharmaceutical supply chain
+should be segregated, sealed, and clearly labelled quarantined goods.
+3.21.3
+Suspected cases of counterfeit pharmaceutical products should be clearly documented, and the
+HCR, South African Health Products Regulatory Authority and South African Police Force must be
+informed without delay.
+3.21.4
+The Responsible Pharmacist must do a preliminary investigation and record as much relevant
+information as possible e.g., the driver’s names and identification number (ID), the vehicle
+registration and any other information deemed to be relevant to the investigation.
+3.21.5
+These products should be clearly labelled to prevent further distribution or sale.
+3.21.6
+Upon confirmation of the product being counterfeit, a formal decision, in conjunction with the
+product HCR, should be taken on its disposal and the decision recorded.
+3.22 Export
+3.22.1
+Refer to Guidelines for Wholesalers to Export Medicines
+3.23 Bond Store
+3.23.1
+Guidelines for Bond Store to be distributed
+4.
+REFERENCES
+The following related documents are referenced:
+4.1
+Medicines and Related Substances Act, as amended Act 101 of 1965
+4.2
+General Regulations to the Medicines and Related Substances act, as amended Act 101 of 1965,
+4.3
+Pharmacy Act, Act 53 of 1974, as amended
+4.4
+PIC/S guides
+5.
+VALIDITY
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the SA Guide to
+Good Wholesaling Practice, old document number 4.02. It will be reviewed on this timeframe or as and when
+required.
+

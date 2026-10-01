@@ -1,0 +1,1445 @@
+SAHPGL-CEM-PV-08_v1 
+Page 1 of 41
+17 August 2026 
+GUIDELINE FOR INDUSTRY E-REPORTING 
+This document serves as a guideline to Applicants/ holders of certificates of registration (HCRs) on the method of submission of post-
+marketing Adverse Event (AE) reports for human medicines through the industry eReporting VigiFlow module. Thus, this guideline 
+must be read in conjunction with the guideline on post-marketing reporting of adverse drug reactions (ADRs) to human medicines in 
+South Africa for guidance on what to report to SAHPRA’s Pharmacovigilance (PV) unit as well as the stipulated timelines. The Authority 
+reserves the right to request any additional information to establish the safety, quality, and efficacy of a medicine and may make 
+amendments to the approved conditions of registration in keeping with the knowledge that is current at the time of consideration of 
+safety data. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+1 
+First issue 
+August 2026 
+DR BOITUMELO SEMETE-MAKOKOTLELA 
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-CEM-PV-08_v1 
+Page 2 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 4 
+1.
+INTRODUCTION .......................................................................................................................................... 6 
+1.1 
+Purpose ...................................................................................................................................................... 6 
+1.2 
+Scope .......................................................................................................................................................... 7 
+2.
+LEGAL PROVISION ....................................................................................................................................... 8 
+3.
+INDUSTRY eREPORTING ............................................................................................................................. 9 
+3.1 
+INITIAL CONSIDERATIONS .......................................................................................................................... 9 
+3.1.1 Technical and Operational Requirements .................................................................................................. 9 
+3.1.2 Transition from Previous Submission Methods ......................................................................................... 9 
+3.2 
+ACCOUNT SETUP ........................................................................................................................................ 9 
+3.2.1 Application for user accounts .................................................................................................................... 9 
+3.2.2 First-time login and password generation ............................................................................................... 12 
+3.3 
+MANAGE LICENCES ................................................................................................................................... 14 
+3.3.1 MedDRA ................................................................................................................................................... 14 
+3.3.1.1 
+MedDRA License Validation Process ................................................................................................. 14 
+3.3.1.2 
+Using MedDRA in Data Entry ............................................................................................................ 15 
+3.3.1.3 
+MedDRA Support .............................................................................................................................. 15 
+3.3.2 WHODrug ................................................................................................................................................. 15 
+3.3.2.1 
+WHODrug License Validation Process ............................................................................................... 15 
+3.3.2.2 
+Using WHODrug in Data Entry .......................................................................................................... 16 
+3.3.2.3 
+WHODrug Support ............................................................................................................................ 16 
+3.4 
+NAVIGATION ............................................................................................................................................. 16 
+3.4.1 General System Information .................................................................................................................... 16 
+3.4.2 How to create password for a new user account .................................................................................... 17 
+3.4.3 Access to VigiFlow (Login) ........................................................................................................................ 18 
+3.4.4 Starting Screen ......................................................................................................................................... 19 
+3.4.5 User Settings ............................................................................................................................................ 20 
+3.4.6 Main Menu ............................................................................................................................................... 20 
+3.4.6.1 
+Data Entry.......................................................................................................................................... 20 
+3.4.6.2 
+E2B Upload ........................................................................................................................................ 20 
+3.4.7 System Interface Overview ...................................................................................................................... 21 
+SAHPGL-CEM-PV-08_v1 
+Page 3 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+3.5 
+MANUAL DATA ENTRY.............................................................................................................................. 21 
+3.5.1 NullFlavor (NF) – Explanation and Usage ................................................................................................. 21 
+3.5.2 Icons and their actions ............................................................................................................................. 21 
+3.5.3 Create new report .................................................................................................................................... 22 
+3.5.3.1 
+Administrative ................................................................................................................................... 22 
+3.5.3.2 
+Patient ............................................................................................................................................... 22 
+3.5.3.3 
+Drugs ................................................................................................................................................. 22 
+3.5.3.4 
+Reactions ........................................................................................................................................... 22 
+3.5.3.5 
+Drug-Reaction ................................................................................................................................... 22 
+3.5.3.6 
+Other ................................................................................................................................................. 22 
+3.5.3.7 
+Assessments ...................................................................................................................................... 23 
+3.5.3.8 
+Case summaries ................................................................................................................................ 23 
+3.5.3.9 
+Additional documents ....................................................................................................................... 23 
+3.5.3.10 
+Submit report ................................................................................................................................ 23 
+3.5.3.11 
+Download report ........................................................................................................................... 23 
+3.5.4 Edit report ................................................................................................................................................ 24 
+3.6 
+NULLIFY REPORT ....................................................................................................................................... 24 
+3.7 
+FOLLOW-UP REPORT ................................................................................................................................ 26 
+3.8 
+UPLOAD OF E2B XML FILES ...................................................................................................................... 27 
+4.
+OTHER SYSTEM RELATED ISSUES.............................................................................................................. 29 
+5.
+REFERENCES ............................................................................................................................................. 35 
+6.
+VALIDITY ................................................................................................................................................... 35 
+7.
+APPENDICES ............................................................................................................................................. 36 
+7.1 
+APPENDIX 1: Terms and Conditions ......................................................................................................... 36 
+7.2 
+APPENDIX 2: ICH E2B ACKLOG ................................................................................................................. 38 
+7.3 
+PPENDIX 2. ADDENDUM ........................................................................................................................... 40 
+SAHPGL-CEM-PV-08_v1 
+Page 4 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Acklog 
+Acknowledgment XML file 
+API key 
+Application Programming Interface key, is a unique code used to authenticate 
+and securely access a software service, such as MedDRA. 
+AEFI 
+Adverse Event Following Immunisation 
+CIOMS 
+Council for International Organizations of Medicinal Sciences 
+CRO 
+Contract Research Organization 
+E2B 
+International standards for the electronic transmission of ICSR 
+ICH 
+International Council for Harmonisation 
+ICSR 
+Individual Case Safety Report 
+ISO 
+International Standards Organization 
+LLT 
+Lower-Level Term 
+LSO 
+Local Safety Officer 
+MedDRA 
+Medicinal Dictionary for Regulatory Activities 
+NRA 
+National Regulatory Authority  
+PBRER 
+Periodic Benefit Risk Evaluation Report 
+PI 
+Professional Information 
+PIDM 
+Programme for International Drug Monitoring. 
+PSMF 
+Pharmacovigilance Systems Master File 
+PSUR 
+Periodic Safety Update Reports 
+PV 
+Pharmacovigilance 
+QPPV 
+Qualified Person Responsible for Pharmacovigilance 
+R2, R3 
+Second revision, third revision 
+RMP 
+Risk Management Plan 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SMQ 
+Standardized MedDRA Query 
+SOC 
+System Organ Class 
+SRUID 
+Safety Report Unique Identifier 
+UMC 
+Uppsala Monitoring Centre 
+SAHPGL-CEM-PV-08_v1 
+Page 5 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+WHO 
+World Health Organization 
+WHO Drug 
+WHO Drug Dictionary 
+WWUID 
+Worldwide unique case identification 
+XML 
+Extensible Markup Language, file format 
+SAHPGL-CEM-PV-08_v1 
+Page 6 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+1.
+INTRODUCTION
+Industry eReporting is a web-based tool that allows Holders of Certificate of Registration (HCRs) or Applicants
+to submit Individual Case Safety Reports (ICSRs) and Adverse Events Following Immunisation (AEFIs) from an
+external interface directly to SAHPRA’s National Database in the international standardised format. Industry
+eReporting further allows for both upload of the international standards for the electronic transmission of ICSR
+(E2B) XML files, in second revision (R2) or third revision (R3) format, or entering reports via manual data entry
+by HCRs.
+Reporting of ICSRs/AEFIs and monitoring thereof, is a viable means of identifying previously unrecognised, rare 
+or serious ICSRs/AEFIs. Every Applicant/ HCR is required to report to the Authority, ICSRs/AEFIs known to them 
+involving their marketed medicines in accordance with the requirements of Regulation 40 of the Medicines 
+and Related Substances Act, 101 of 1965, as amended. The success of the Authority’s ICSRs/AEFIs reporting 
+system depends on the quality, completeness, and accuracy of the information submitted. The Authority 
+makes decisions and takes regulatory actions such as updating a Professional Information and Patient 
+Information Leaflet, restricting the use of a product in certain populations and withdrawal of a product from 
+the South African market, therefore contributing to international data regarding risks and effectiveness of 
+medicines, and imparting health product safety knowledge that benefits all South Africans. 
+1.1 
+Purpose 
+This document is intended to guide to HCRs or Applicants on how to register and report “reportable” post-
+marketing adverse event reports for human medicines using Industry eReporting VigiFlow module, in 
+accordance with SAHPRA requirements specified in the Guideline on Post-marketing reporting of ADRs to 
+human medicines in South Africa (SAHPGL-CEM-PV-04). 
+In collaboration with Uppsala Monitoring Centre (UMC), SAHPRA has launched an Industry e-Reporting tool, 
+already piloted by some countries such as Mexico and Pakistan, to name a few. As of 01 September 2026, 
+HCRs/ Applicants are required to submit post-marketing adverse event reports for human medicines 
+through a manual data entry module or E2B upload module using the new tool of industry e-Reporting. 
+The eReporting for Industry, developed and maintained by the UMC, enables HCRs or Applicants to submit 
+reports directly to the National Database, either by manually entering data or uploading E2B XML files: 
+•
+The manual entry module is an electronic form based on the ICH-E2B (R3) standard, allowing
+structured and standardized data entry. This replaces previous hard copy CIOMS form (S01)
+submissions.
+SAHPGL-CEM-PV-08_v1 
+Page 7 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+•
+HCRs or Applicants who previously submitted XML reports via email can transition to the E2B
+module, which supports both R2 and R3 formats. This replaces E2B report submissions via email.
+Key features of eReporting for Industry include: 
+•
+Compatibility with the ICH-E2B standard
+•
+Preference for structured fields over free-text fields
+•
+Use of standardized MedDRA and WHODrug terminology
+•
+Ability to attach relevant additional information in PDF format
+•
+Immediate transmission of reports to SAHPRA
+•
+Submission of follow-up reports by uploading and editing the original and previous XML files
+(available only for manual data entry; see Section 8 for instructions)
+•
+Capability to download an electronic acknowledgment receipt (acklog) in XML format
+NOTE: 
+‒ 
+Using the MedDRA and WHODrug Global dictionaries for medical coding in reporting adverse 
+events makes it much easier to record and analyze patient data in a consistent and accessible way. 
+Therefore, SAHPRA advises HCRs to use both MedDRA and WHODrug while reporting to ensure 
+proper terminologies are used in reporting, as our database terminologies are coded based on 
+these dictionaries. In the future, SAHPRA will make the use of MedDRA and WHO-Drug mandatory 
+for reporting adverse events by all HCRs. 
+1.2 
+Scope 
+This guide covers all reportable post-marketing adverse event reports for human medicines received by 
+HCRs or Applicants from various sources, including consumers, healthcare professionals, literature, and 
+other media sources, as per the Guideline on Post-marketing reporting of ADRs to human medicines in 
+South Africa (SAHPGL-CEM-PV-04). 
+Submission of all post-marketing adverse event reports for human medicines includes: 
+•
+Initial reports
+SAHPGL-CEM-PV-08_v1 
+Page 8 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+•
+Follow-up reports
+•
+Nullification of reports
+•
+Duplicate reports handling
+Reporting of ADRs/ AEFIs and Serious Adverse Events (SAEs) related to unregistered medicines, obtained 
+via section 21 of the Medicines and Related Substances Control Act, active pharmaceutical ingredients used 
+in compounded medicines (Category B), registered and marketed veterinary medicines (Category C), 
+incident reports for medical devices, and in vitro diagnostics (IVDs) through the Industry eReporting 
+VigiFlow Portal is not permitted. 
+2.
+LEGAL PROVISION
+This document is intended for HCRs or Applicants. In accordance with Regulation 40 issued in terms of the
+Medicines and Related Substances Act, 101 of 1965, as amended.
+(1) A person who has applied for the registration of a medicine in terms of section 15 of the Act, a holder
+of a certificate of registration in respect of a medicine or scheduled substance, or a holder of a licence
+in terms of section 22C (1) (b) must inform the Authority, in the manner and within the timeframe as
+determined by the Authority. A holder of certificate of registration (HCR)/Applicant and Licence Holder
+must inform the Authority of any:
+(a) new or existing quality, safety or effectiveness concerns related to any medicine or scheduled
+substance, including but not limited to adverse drug reactions; and
+(b) risk management activities associated with paragraph (1).
+(2) A person who has applied for registration of a medicine in terms of Section 15 of the Act, a holder of
+a certificate of registration in respect of a medicine or scheduled substance, or a holder of a licence in
+terms of section 22C (1) (b) must maintain or have access to records of the reports and case reports
+referred to in sub regulation (1) above.
+SAHPGL-CEM-PV-08_v1 
+Page 9 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+3.
+INDUSTRY eREPORTING
+3.1 
+INITIAL CONSIDERATIONS 
+3.1.1 Technical and Operational Requirements 
+•
+Ensure that the equipment used to load case data is connected to a stable power source or backup
+system, and that a reliable high-speed internet connection is maintained. Unstable internet or
+power interruptions can result in the loss data if a report has not yet been submitted.
+•
+Use Google Chrome, Mozilla Firefox, or Microsoft Edge (in that order of preference). Always keep
+your browser updated for best results.
+•
+Do not share access credentials. Protect the confidentiality and integrity of user accounts and
+passwords.
+•
+Log out of eReporting for Industry when it is not actively being used to enter information.
+•
+Adhere to the provisions outlined in the Terms and Conditions document (Appendix 1).
+3.1.2 Transition from Previous Submission Methods 
+If your organisation previously submitted reports via email or in hard copy format, follow these instructions 
+carefully: 
+3.1.2.1 Only new individual case safety reports (ICSRs) and their follow-ups should be submitted 
+through eReporting for Industry. 
+3.1.2.2 Reports submitted through previous channels must continue to be managed through the 
+same method. For example, if the initial and follow-up reports were sent via email, the case 
+must also be closed via email, even if you are now using eReporting for Industry. 
+3.1.2.3 As of 01 September 2026, HCRs/ Applicants are required to submit all new post-marketing 
+adverse event reports for human medicines and their follow-ups through a manual data entry 
+module or E2B upload module using the new tool of Industry e-Reporting. 
+3.2 
+ACCOUNT SETUP 
+3.2.1 Application for user accounts 
+•
+SAHPRA will be responsible for granting access to eReporting for Applicants.
+SAHPGL-CEM-PV-08_v1 
+Page 10 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+•
+Applicants are required to register for the Industry eReporting VigiFlow module by completing the
+relevant table on the addendum in Appendix 3 below.
+•
+Send the completed addendum to industryereporting@sahpra.org.za.
+•
+The submitted addendum will be processed, and confirmation of system configuration will be
+communicated to the HCR/ Applicant within five (5) working days.
+•
+Once confirmation is received, HCRs/ Applicants can start submitting reports via Industry
+eReporting module
+•
+To request any account modifications (deactivation/ replacement, including during leave of
+absence), please send an email to the address provided above, including the new details as
+specified in the addendum.
+•
+SAHPRA will grant access to a maximum of three user accounts.
+•
+The email address provided for each user account must be a corporate or institutional email.
+•
+Access to the system is granted based on the individual's email address, which implies that access
+through the company PV mailbox will only be granted to one person, and the remaining two
+individuals will be granted access using their institutional email addresses.
+•
+It is the Applicant’s responsibility to request User deactivation due to resignation or other
+operational reasons within 5 working days of the effectiveness of such.
+Information required in the application: 
+Field 
+Description 
+Long name  
+(Maximum 254 characters 
+It is proposed that this be the company’s legal name. The long name 
+will appear in the upper left quadrant of the interface, allowing the 
+user to confirm that it has accessed the correct session 
+Example: MedSolutions Laboratories 
+Short name  
+(Maximum 20 characters) 
+It will be part of the Worldwide Unique Case Identification (WWUID) 
+and will also appear in the Safety Report Unique Identifier (SRUID). 
+Example: MedSolutions > WWUID and SRUID: [ZA]-MedSolutions-
+00001 
+SAHPGL-CEM-PV-08_v1 
+Page 11 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+For companies with E2B databases, the relevant fields are: 
+•
+E2B (R2): <companynumb>
+•
+E2B (R3): 2.16.840.1.113883.3.989.2.1.3.2 (refer to ICH guide,
+point C.1.8.1: Worldwide Unique Case Identification Number)
+Companies without E2B databases may propose a short name and 
+define it together with SAHPRA.  
+Once the short name is defined, it cannot be modified later in the 
+production phase. 
+Sender Identifier  
+(Maximum 60 characters) 
+This corresponds to the issuer identifier and is the code that enables 
+electronic transmission between databases. 
+For companies with E2B databases, the relevant fields are: 
+•
+E2B (R2): <messagesenderidentifier> (refer to ICH guide, point
+M.1.5: Message Sender Identifier)
+•
+E2B (R3): 2.16.840.1.113883.3.989.2.1.3.11 (refer to ICH guide,
+point N.2.r.2: Message Sender Identifier)
+The sender identifier may sometimes be the same as the short name, 
+but this is not always the case. Companies without E2B databases may 
+propose a sender identifier and define it together with SAHPRA.  
+Once the sender identifier is defined, it cannot be modified later in the 
+production phase. 
+Sender organization  
+(Maximum 100 characters) 
+For companies with E2B databases, the relevant fields are: 
+•
+E2B (R2): <sender organization> (refer to ICH guide, point
+A.3.1.2:  Sender organization).
+•
+E2B (R3): refer to ICH guide, point C.3.2: Sender's Organization.
+The sender organization may sometimes be the same as the short 
+name and/or the sender identifier, but this is not always the case. 
+Companies without E2B databases may propose a sender organization 
+and define it together with SAHPRA. 
+Once the sender organization is defined, it cannot be modified later in 
+the production phase. 
+Users 
+(Maximum 3 users) 
+•
+Full name (first name(s) and surname(s))
+•
+Corporate or institutional email address
+ICH E2B references: 
+•
+ICH E2B(R2): https://www.ich.org/page/e2br2-icsr-specification-and-related-files
+SAHPGL-CEM-PV-08_v1 
+Page 12 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+•
+ICH 
+E2B(R3): 
+https://www.ich.org/page/e2br3-individual-case-safety-report-icsr-specification-
+and-related-files
+3.2.2 First-time login and password generation 
+Once SAHPRA has granted you access to Industry e-Reporting, you must follow the following steps to 
+generate your password: 
+3.2.2.1 To log in and generate your password, you must go to the following link (it is recommended 
+not to save the link in the favourites section of your browser and access from the one found 
+in this Guide or on the SAHPRA website): https://industryereporting.who-umc.org/. 
+3.2.2.2 Click on the Forgot your password? link and follow the instructions to create a new password. 
+3.2.2.3 In the Email Address field, you will need to enter your username (email). 
+3.2.2.4 Press the Send verification code button and do not close the Industry e-Reporting 
+window. 
+3.2.2.5 A 6-digit code will be sent to your email. Upon receipt, enter the Verification Code field and 
+press the Verify code button. 
+IMPORTANT 
+Do not enable automatic translation in your web 
+browser. This may result in inaccurate translations 
+of certain fields, which could lead to data entry 
+errors or misinterpretation of critical information. 
+To change the interface language, follow the 
+instructions on point 7.4 User settings. 
+SAHPGL-CEM-PV-08_v1 
+Page 13 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+3.2.2.6 If the code is correct, it will show you the message “The code has been verified. You can now 
+continue”. 
+3.2.2.7 Press the Continue button. 
+3.2.2.8 A screen will be displayed where you will need to enter your new password. It must not 
+resemble your username. 
+3.2.2.9 Type the same password in the box below to confirm it and press the Continue button. 
+3.2.2.10 If the process is successful, the system will redirect you to the home screen to enter your 
+username and password. 
+If you do not remember your password, the recovery must be carried out with the same procedure 
+described above. 
+SAHPGL-CEM-PV-08_v1 
+Page 14 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+3.3 
+MANAGE LICENCES 
+To manage your MedDRA and/or WHODrug licenses, locate the Manage 
+licenses option in the upper right menu. 
+Once the licenses are activated, you do not need to repeat the activation 
+process each time you log in. 
+If a license expires, eReporting for Industry will block data entry in the 
+MedDRA and WHODrug fields. To resolve this, go to the upper right menu and check the license status. For 
+support, please contact the appropriate organisation: MSSO for MedDRA and UMC for WHODrug. 
+3.3.1 MedDRA 
+To use MedDRA within eReporting for Industry, you must activate your license within the Industry 
+eReporting system. Note that this requires obtaining and registering an API key to validate your company’s 
+MedDRA license. 
+3.3.1.1 MedDRA License Validation Process 
+(a) Go to the following external site: https://mid.meddra.org/account/register .
+(b) Enter your MedDRA Username and Password, then click Login.
+(c) If the login is successful, the page will display your API key.
+(d) If unsuccessful, verify your credentials and try again, or contact MSSO.
+(e) Copy the API key and log in to eReporting for Industry.
+(f) In the upper right menu, click on Manage Licenses.Enter your MedDRA ID in the first
+field and the API key in the second field.
+SAHPGL-CEM-PV-08_v1 
+Page 15 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+(g) Click Save and if the process is successful, a confirmation message will appear
+indicating that your license has been validated for use within Industry eReporting
+VigiFlow module.
+3.3.1.2 Using MedDRA in Data Entry 
+When entering or editing a report, you will be able to search for MedDRA terms in the 
+relevant fields. These fields are marked with the label (MedDRA) to indicate that MedDRA 
+coding is supported. 
+The MedDRA viewer integrated into Industry eReporting allows for general term searches. 
+However, it is not intended to replace the full functionality of the MedDRA web browser. 
+For extended searches or detailed browsing, use the official MedDRA browser: 
+https://wbb.meddra.org/autologin 
+3.3.1.3 MedDRA Support 
+For support regarding MedDRA licensing or subscription models, contact MSSO directly: 
+•
+Web form available at https://www.meddra.org/subscription/process
+•
+Email: mssohelp@meddra.org
+DISCLAIMER: SAHPRA does not receive any benefit from the acquisition of MedDRA 
+licenses and is not involved in the licensing process. 
+3.3.2 WHODrug 
+Systematic coding of medicines ensures traceability throughout the process of adverse reaction reporting, 
+data analysis, and risk communication related to medicines and vaccines. UMC's Drug Dictionary (UMCDD), 
+WHODrug Global, is a globally recognized terminology developed and maintained by the Uppsala 
+Monitoring Centre (UMC).  
+To use WHODrug within eReporting for Industry, you must activate your license within the Industry 
+eReporting system.  
+3.3.2.1 WHODrug License Validation Process 
+(a) In the upper right menu, select Manage Licenses.
+(b) Enter your WHODrug license number in the designated field and click Save.
+SAHPGL-CEM-PV-08_v1 
+Page 16 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+(c) If successful, a confirmation message will appear indicating that your license has been
+validated for use within eReporting for Industry.
+3.3.2.2 Using WHODrug in Data Entry 
+When entering or editing a report, you will be able to search for WHODrug terms in the 
+relevant fields. These fields are marked with the label (WHODrug) to indicate that 
+WHODrug coding is supported. The WHODrug viewer in Industry eReporting supports 
+general term searches and for extended or detailed browsing, use the official WHODrug 
+browser, WHODrug Insight: https://insight.who-umc.org/  (available only to licensed users). 
+UMC suggests coding as specifically as possible using the C3 format, based on the available 
+information. For detailed guidance, consult the following documents (available only to 
+licensed users in the WHODrug User Area: https://who-umc.org/whodrug-user-area/):    
+•
+How to Use WHODrug C3 Format for Drug Coding
+•
+Technical Guide for the Use of WHODrug Global in XML Files Uploaded in VigiFlow
+eReporting for Industry for E2B(R3) Compliance
+3.3.2.3 WHODrug Support 
+For assistance with WHODrug licensing or subscription options, please contact UMC directly 
+using 
+the 
+web 
+form 
+available 
+at: 
+https://who-umc.org/whodrug/whodrug-
+subscription/product-enquiry/. 
+DISCLAIMER: SAHPRA does not receive any benefit from the acquisition of WHODrug 
+licenses and is not involved in the licensing process. 
+3.4 
+NAVIGATION 
+3.4.1 General System Information 
+•
+URL: https://industryereporting.who-umc.org
+SAHPGL-CEM-PV-08_v1 
+Page 17 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+o
+Username: Your e-mail address
+o
+Password: Set your own password by clicking the link “Forgot your password?” on the login
+page and following the instructions.
+•
+If you experience login issues, please contact SAHPRA Pharmacovigilance Unit at
+industryereporting@sahpra.org.za.
+•
+Submission information, including acklogs, stays in the ‘Submission status’ section for thirty-five
+(35) days.
+•
+It is important to check the acklog for each submission to verify all reports are accepted by the
+regulatory authority’s database. Submission status “Completed” does not automatically mean
+that all reports are successfully received by the regulatory authority.
+3.4.2 How to create password for a new user account 
+Follow the steps below, to create your password and login to Industry eReporting for the first time: 
+(a)
+Go to https://industryereporting.who-umc.org and click the link “Forgot your password?”
+(b)
+Enter your e-mail address and click “Send verification code”. Keep this window open and check your
+mailbox. You should receive an e-mail from msonlineservicesteam@microsoftonline.com with a 6-
+digit code. (If you don’t receive an e-mail, check your spam folder.)
+(c)
+Enter the 6-digit code in the box “verification code”, click “Verify code”
+(d)
+Click “Continue”
+(e)
+Choose your password, click “Continue”
+(f)
+You have now set your password and can login from the login page.
+SAHPGL-CEM-PV-08_v1 
+Page 18 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+3.4.3 Access to VigiFlow (Login) 
+(a)
+Go to the following link: https://industryereporting.who-umc.org/
+(b)
+Enter your username and password in the corresponding fields.
+SAHPGL-CEM-PV-08_v1 
+Page 19 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+(c)
+Press the Sign in button.
+3.4.4 Starting Screen 
+Once you have logged in, you will find the main screen: 
+In the upper right corner of the screen, you will find the main menu, which provides access to the system’s 
+available functions. Each function is described in detail in the table below: 
+Function 
+Description 
+Start 
+Moves you to the main screen. 
+User Settings 
+Allows you to change the interface language. 
+Manage Licenses 
+MedDRA & WHODrug license administration. 
+Privacy Policy 
+Redirects you to the UMC website where the privacy policy is described. 
+Terms and Conditions 
+Displays the legal clauses that define how the system may be used. 
+SAHPGL-CEM-PV-08_v1 
+Page 20 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+Sign out 
+Logs you out of the system. 
+Important: If you are entering a report, make sure you have submitted 
+and downloaded it first before navigating to the home screen. 
+Otherwise, the information entered will be lost. 
+3.4.5 User Settings 
+To change the interface language, locate the User settings option in the upper 
+right menu. 
+Select English as your native language to automatically populate fields where a 
+language selection is required for a specific term. To save the changes, click Save. 
+Then return to the main screen by selecting Start from the upper right menu. 
+3.4.6 Main Menu 
+There are two methods available for entering a new report into the system: 
+(1)
+Data Entry: This option is used for manually entering report information directly into the system.
+I.
+Create new report: for creating a new Individual Case Safety Report (ICSR) and managing it
+within the system.
+II.
+Edit report: Allows you to load and modify a previously entered ICSR not yet submitted to
+SAHPRA.
+III.
+Follow up report: Enables you to upload a previously entered ICSR for follow-up purposes.
+IV.
+Nullify report: Allows you to withdraw an ICSR that was previously created using this system.
+(2)
+E2B Upload: This module is used for uploading reports in XML format, following the E2B standard.
+3.4.6.1 Data Entry
+To understand how to use the Data Entry module and SAHPRA’s expectations regarding its 
+proper use, please consult Section 3.5 – Manual Data Entry. 
+3.4.6.2 E2B Upload 
+To understand how to use the E2B Upload module and SAHPRA’s expectations regarding its 
+proper use, please consult Section 3.8 - E2B Upload. 
+SAHPGL-CEM-PV-08_v1 
+Page 21 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+3.4.7 System Interface Overview 
+Quick overview of the start page of Industry eReporting 
+3.5 
+MANUAL DATA ENTRY 
+3.5.1 NullFlavor (NF) – Explanation and Usage 
+NullFlavor (NF) codes are used to indicate why a valid value is not provided in certain fields. These codes 
+are only justified when the system requires a value in a mandatory field in order to submit the report to 
+SAHPRA. Mandatory fields necessary for submission are highlighted in red by the system. 
+If a field contains an NF code and the information is unavailable — but the field is not required for 
+submission — you may leave it blank. In such cases, the system will retain the default NF marker 
+automatically. Common NF codes include: 
+•
+Unknown – The information is not known.
+•
+Asked but unknown – The information was requested but not provided.
+•
+Not asked – The information was not requested.
+•
+Masked/concealed – The information is intentionally hidden.
+3.5.2 Icons and their actions 
+This button allows you to add a corresponding section or field at its location. 
+Examples include Medication, Therapeutic Indication, Dose, Reactions, Causality 
+Evaluation, etc. 
+SAHPGL-CEM-PV-08_v1 
+Page 22 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+This button allows you to delete a specific field or an entire section where it is 
+located. 
+IMPORTANT: If you delete a section or field that is essential for submitting the 
+report, you will need to re-enter the required information before submission. 
+This button lets you proceed to the next section. In the manual data entry module, 
+it is not mandatory to complete a section before moving on. However, at the end 
+of the process, the system will highlight in red any mandatory fields that are 
+incomplete. You will need to return to those sections to provide or correct the 
+missing information before submission. 
+3.5.3 Create new report 
+This module provides step-by-step instructions on how to create a new Individual Case Safety Report (ICSR) 
+and manage it within Industry eReporting VigiFlow module. 
+To begin manual data entry, locate the Data Entry option in the upper-right menu of the interface and 
+select Create new report: 
+For guidance on what should be entered in each specific data entry field, refer to the ICH guidelines: 
+https://ich.org/page/e2br3-individual-case-safety-report-icsr-specification-and-related-files. 
+The report creation process is divided into eight (8) sections, as outlined below: 
+3.5.3.1 Administrative 
+3.5.3.2 Patient 
+3.5.3.3 Drugs 
+3.5.3.4 Reactions 
+3.5.3.5 Drug-Reaction 
+3.5.3.6 Other 
+SAHPGL-CEM-PV-08_v1 
+Page 23 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+3.5.3.7 Assessments 
+3.5.3.8 Case summaries 
+3.5.3.9 Additional documents 
+This section will allow you to upload documents relevant to the causality assessment of the 
+case. Some examples can be (but are not limited to these): 
+• Test results
+• Death certificate
+• Vaccination certificate
+Place the name of the document in the free text field and upload the file in PDF format, 
+either by dragging and dropping it into the grey section or by opening it from your file 
+explorer with the “Browse” option. 
+If you need to attach more documents, you can do so with the "Add additional document" 
+option. 
+Important: Documents must be in PDF format and must not exceed 2 MB in size to ensure 
+they can be uploaded without issues. 
+3.5.3.10 Submit report 
+Before submitting the report, ensure that all required information has been entered - The 
+report must meet at least the four fundamental criteria (Information Quality Grade 0). If 
+any mandatory data is missing or incorrect, this section will highlight the issues in red, 
+indicating what needs to be added or corrected. Once all required information is complete, 
+click Submit to proceed. 
+3.5.3.11 Download report 
+After submitting the report, it is essential to download the XML file immediately. This file is 
+the only way to track the case and contains all the data captured during the report process. 
+SAHPGL-CEM-PV-08_v1 
+Page 24 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+Click Download to save the XML file. The system will automatically name the file using the 
+Worldwide Unique Case Identifier (WWUID). Be sure to store this file in a secure backup 
+location, as it will be needed for any future follow-up on the case. 
+3.5.4 Edit report 
+This option allows you to upload and edit an ICSR (E2B XML file) that was created in the system but has not 
+yet been submitted to the regulatory authority. 
+(1) From the top menu, select Edit report.
+(2) Upload the XML file generated during the initial submission. You can do this by either dragging and
+dropping the file into the grey upload area, or by clicking Browse to locate and select the file from
+your computer.
+3.6 
+NULLIFY REPORT 
+This option allows you to permanently delete a previously transmitted case—for example, if the entire ICSR 
+was incorrect or if it was submitted as a duplicate. 
+From the top menu, select Nullify report. 
+SAHPGL-CEM-PV-08_v1 
+Page 25 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+Upload the XML file generated during the initial submission. You can do this by either dragging and dropping 
+the file into the grey upload area, or by clicking Browse to locate and select the file from your computer. 
+Review the report details to confirm that this is the correct case to be nullified and if everything is correct, 
+click Next. 
+Enter the reason for nullification in the designated field and click Submit to complete the nullification 
+process. 
+SAHPGL-CEM-PV-08_v1 
+Page 26 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+Download the nullified report’s XML file and save it to your computer since this file will be required for 
+any future updates or references related to the case. 
+3.7 
+FOLLOW-UP REPORT 
+This option allows you to upload an existing an ICSR (E2B XML file) created in this system to add follow-up 
+information—that is, new or updated data obtained after the initial case report has already been submitted 
+to the regulatory authority. 
+i)
+From the top menu, select Follow up report.
+ii)
+Upload the XML file generated during the initial submission. You can do this by either dragging and
+dropping the file into the grey upload area, or by clicking Browse to locate and select the file from
+your computer.
+iii)
+Once the file is uploaded, the report will load automatically, and all sections will be available for
+editing.
+iv)
+Enter the new or updated information in the appropriate fields and be sure to update the “Date of
+most recent information” to reflect the date you received the follow-up data.
+v)
+In the “Case narrative”, clearly separate the new information from previous entries. Use a
+SAHPGL-CEM-PV-08_v1 
+Page 27 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+horizontal line and label the new section as Follow-up 1, Follow-up 2, etc., as appropriate. 
+IMPORTANT: Do not use the acknowledgment file (acklog) available in the Submission Status tab for 
+follow-up submissions since it is not intended for this purpose. 
+3.8 
+UPLOAD OF E2B XML FILES 
+This module is intended exclusively for HCRs or Applicants who already have a database capable of 
+transmitting E2B XML files in accordance with ICH guidelines. 
+Industry eReporting is based on the ICH E2B standard, which defines the required data elements and field 
+structure for ICSRs. Data elements in addition to this standard are not considered. 
+Scientific publications for case reports published in literature may be embedded in an E2B(R3) message in 
+the user’s system, as described in the E2B(R3) Electronic Transmission of Individual Case Safety Reports 
+Implementation Guide. 
+Note that batch uploads are supported, and you can upload up to 100 ICSRs per XML file. A single 
+acknowledgment log (acklog) will be generated for the entire batch. 
+In the section “Upload E2B”, reports in E2B-XML format may be uploaded and submitted to the regulatory 
+authority: 
+i)
+Go to ‘Upload E2B’ in the top menu
+ii)
+Browse Upload files one at a time. Either drag and drop the XML file into the grey box or click
+Browse to select it from your file explorer.
+iii)
+Once selected, the file will begin uploading automatically. If the file complies with ICH R2 or R3
+SAHPGL-CEM-PV-08_v1 
+Page 28 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+format specifications, it will upload successfully. A confirmation message will appear. 
+iv)
+Click Submit to send the report. Note the Submission Identifier displayed after sending since you’ll
+need it for tracking.
+v)
+Go to Submission status in the top menu
+vi)
+Check that the status is “Completed” and download the acklog to verify all reports in the file were
+correctly received by the regulatory authority. Locate your report using the Submission Identifier
+and click the download icon 
+ to retrieve the acklog file
+vii) Upload the acklog to your internal system to confirm successful import.
+viii) Check that the status is “Completed” and download the acklog to verify all reports in the file were
+correctly received by the regulatory authority.
+ix)
+If any reports are rejected according to the acklog and you require assistance, please contact
+SAHPRA’s Pharmacovigilance Unit at industryereporting@sahpra.org.za.
+NOTE: It is essential to download the acklog file immediately after uploading the XML, as the system only 
+SAHPGL-CEM-PV-08_v1 
+Page 29 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+retains submission history for 35 days. After this period, the acklog will no longer be available for download. 
+It is the HCRs or Applicant responsibility to back up all generated acklogs. 
+4.
+OTHER SYSTEM RELATED ISSUES
+Manual data entry 
+Q1. Is there specific guidance for 
+what should be entered in 
+each specific data entry 
+field? 
+ICH 
+guidelines: 
+https://ich.org/page/e2br3-individual-case-
+safety-report-icsr-specification-and-related-files  
+Q2. How do I submit a follow up 
+report? 
+Go to Data Entry → Edit report, browse for the initial report 
+(saved locally) and upload it. Add the follow-up information and 
+submit the report.  
+Note: This can only be done for reports that were initially 
+created in Industry eReporting.  
+Q3. Is there a size limitation for 
+attachments? 
+Yes, max 15 MB per report in total. 
+Q4. After clicking “Submit”, will I be 
+notified that the report has 
+been sent?  
+No. You need to verify that the report is sent and accepted by: 
+Ensuring that the submission status is “Completed” 
+and 
+Checking the acklog to verify the report was accepted (see also 
+Appendix 2 below).  
+Q5. How can I nullify a report that 
+was sent via manual data 
+entry?  
+Please 
+contact 
+SAHPRA’s 
+Pharmacovigilance 
+Unit 
+at 
+adr@sahpra.org.za. 
+E2B upload 
+Q6. What happens if I submit the 
+same XML file twice by 
+accident?  
+The file is re-sent to the regulatory authority. The system will not 
+indicate that the same file had already been sent.  
+Q7. After clicking “Submit”, will I be 
+notified that the file has 
+been sent?  
+No. You need to verify that the file is sent and accepted by: 
+a) Ensuring that the submission status is “Completed”
+SAHPGL-CEM-PV-08_v1 
+Page 30 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+and 
+b) Checking the acklog to verify the reports in the file were
+accepted. See also question Q10.
+Q8. Does status “Completed” mean 
+all reports in a file are 
+successfully received by the 
+regulatory authority?  
+No. “Completed” means the file has been successfully sent from 
+the Industry eReporting tool.  
+To make sure all reports are successfully received by the 
+regulatory authority’s database, the acklog needs to be checked 
+(see also Appendix 2 below).  
+Q9. My database does not upload 
+acklogs – how can I read and 
+understand 
+the 
+acklog 
+manually?  
+Acklog codes are described in Appendix 2 to this document. 
+Q10. What does status “pending” 
+mean? 
+“Pending” means the file has not yet been successfully sent from 
+eReporting, for example if the regulatory authority’s database is 
+temporarily down. eReporting will automatically try to re-send 
+the file within 72 hours.  
+Q11. How long will the submission 
+status and acklogs be visible in 
+the ‘Submission status’ tab?  
+Thirty-five (35) days after submission, the information and 
+corresponding acklogs will no longer be available in Industry 
+eReporting.  
+GENERAL FREQUENTLY ASKED QUESTIONS 
+Q12. Can I use eReporting for 
+Industry 
+as 
+my 
+own 
+database? 
+No, eReporting for Industry is a one-way submission system and 
+does not function as a database for HCR 
+. 
+Q13. Can I submit PDF or Excel files 
+through 
+eReporting 
+for 
+Industry? 
+No, submissions must be made either through manual data 
+entry or via E2B Upload (XML format). 
+Q14. How should follow-ups for 
+reports submitted before 
+this 
+module 
+was 
+implemented be handled? 
+Continue submitting follow-ups via the original method to 
+adr@sahpra.org.za or e2b@sahpra.org.za until the case is 
+closed. 
+Q15. Can I report a case that 
+occurred outside of the 
+country? 
+No, the system is intended for reporting cases that occur within 
+South Africa. Submission of foreign-sourced ICSRs to SAHPRA is 
+outlined in the guideline: Post-marketing Reporting of Adverse 
+Drug Reactions for Human Medicines in South Africa 
+Q16. What are the minimum 
+criteria for submitting a 
+report? 
+A valid report must include: 
+•
+An identifiable reporter
+•
+An identifiable patient
+SAHPGL-CEM-PV-08_v1 
+Page 31 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+•
+At least one suspected drug
+•
+At least one adverse reaction
+Q17. Can I save a case and complete 
+it later? 
+No, the system does not support saving drafts. You must 
+complete, submit, or download the report in a single session. 
+Downloading the report is only possible if it meets the minimum 
+submission criteria outlined in the previous question. Note that 
+any unsaved data will be lost upon logout. 
+Q18. Is there a time limit for 
+entering a case? 
+There is no fixed time limit, but inactivity will result in automatic 
+logout for security reasons. Keep interacting with the system to 
+maintain your session. 
+Q19. What if I forgot to download 
+the report after submission? 
+You can still download it from the Submission Status tab within 
+35 days - however, it’s recommended to download and save it 
+immediately after submission. Locate your report using the 
+Submission Identifier and click the download icon to retrieve the 
+XML file. 
+Q20. In the Manual Data Entry 
+module, how is the WWUID 
+(Worldwide 
+Unique 
+Case 
+Identification) generated? 
+The WWUID consists of two parts: 
+•
+Constant section: A 2-letter Country ISO code followed
+by the HCR Short Name.
+•
+Variable section: A unique, consecutive number of at
+least 5 digits.
+When entering a report, the constant part is automatically set 
+by the system and should not be modified. You are responsible 
+for assigning the variable part, starting with 00001 for your first 
+report. Each subsequent report must have a unique, 
+incremented number to ensure proper identification. 
+Q21. 
+What’s 
+the 
+difference 
+between the Safety Report 
+A WWUID is the initial identifier. The Safety Report ID may follow 
+the same format. For manual entries, both IDs should be the 
+SAHPGL-CEM-PV-08_v1 
+Page 32 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+Unique Identifier (SRUID) 
+and the WWUID? 
+same 
+Q22. If I'm going to report a follow-
+up, do I need to enter the 
+entire case again? 
+No, it does not require entering the entire case again. 
+After submitting the initial case in the manual data entry 
+module, you should immediately download the XML file and 
+save it to your computer directory (it is recommended to 
+establish procedures to manage and back up these files). When 
+you need to follow up, you must choose the “Follow up report” 
+option from the top menu of Data Entry; here you need to open 
+the initial case file and once this is done the system will load all 
+the information you initially entered. You must make the 
+modifications and additions of information that the follow-up 
+requires, also adding in the Narrative Case field, the additional 
+follow-up narrative. (Process described in Section 3.7. Follow up 
+report). 
+Remember that the acklog file should not be used in this activity 
+as the file is not designed for tracking. 
+Q23. What should I do if the 
+Submission Status section 
+shows no end time, the 
+status is “pending,” and the 
+acklog is not available for 
+download? 
+This situation does not require immediate reporting. The system 
+is continuously monitored, and the transmission timestamp 
+along with the submission identifier can serve as evidence that 
+the report was sent. 
+Once the transmission is successfully processed, the system will 
+automatically generate the acklog, which will then be available 
+for download for 35 days. It is the user’s responsibility to 
+monitor the status and download the acklog promptly to 
+complete the case documentation. 
+When downloading the acklog, ensure it contains the following 
+confirmation of successful transmission: 
+<acknowledgement type Code="AA">   
+AA – Application Acknowledgment Accept (message successfully 
+processed, no further action) 
+If the acklog contains one of the following codes, further action 
+is required: 
+•
+AE – Application Acknowledgment Error (some ICSR
+messages need correction)
+•
+AR – Application Acknowledgment Reject (parsing error;
+the entire transaction must be resent)
+SAHPGL-CEM-PV-08_v1 
+Page 33 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+Q24. What should I do when using 
+the E2B upload module, and 
+my XML case is rejected? 
+The acklog will indicate the reason for rejection. Follow your 
+internal procedures to correct the errors and re-upload the XML 
+file. 
+Q25. Will the latest version of 
+MedDRA be used in eReporting 
+for Industry? 
+Yes, the platform uses the most recent MedDRA version and 
+updates it in line with MSSO releases 
+Q26. When transitioning from the 
+manual data entry module to 
+the E2B Upload module, do 
+we need to change the 
+identifiers? 
+No, the identifiers must remain the same as those initially used 
+in the manual data entry module. Maintaining consistency 
+ensures that the XML files generated for E2B upload are 
+correctly recognized by the system and helps prevent issues with 
+case reception and follow-up tracking. 
+Q27. My company represents 
+multiple HCRs/CROs. How 
+should 
+I 
+configure 
+the 
+identifiers? 
+If your company represents multiple HCRs or CROs, you must 
+notify the SAHPRA of the required identifiers for each entity you 
+represent. These include: 
+•
+Long name
+•
+Short name
+•
+Sender ID
+•
+Sender organization
+Recommended configuration: 
+If, for example, PV Company A represents HCR B, you should: 
+•
+Use HCR B’s identifiers (short name, sender ID, sender
+organization)
+•
+Format the long name as: Long name HCR B (PV
+Company A)
+This format ensures that the report is correctly attributed to HCR 
+B while indicating that PV Company A is acting on its behalf. 
+When logging into the system, you will be able to select which 
+HCR/CRO you are representing. If you need to switch to another 
+company, you can do so by selecting the Switch organisation 
+option available in the upper right corner of the screen. 
+SAHPGL-CEM-PV-08_v1 
+Page 34 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+Q28. In the event of an error in the 
+platform and/or unavailability 
+of the system, is there any 
+other option for reporting 
+cases? 
+eReporting for Industry is continuously monitored and updated 
+by the UMC to ensure its correct operation. When the UMC 
+performs updates, it takes no more than a few hours to 
+complete, so access may be intermittent for some users. In this 
+case, you must wait at least 3 hours, then try to access the 
+system again.  
+If you cannot access Industry eReporting for more than 24 hours 
+and it is due to a cause unrelated to the UMC (you can 
+document, it with a screenshot if your internal procedure 
+requests it) and  immediately report the error to 
+industryereporting@sahpra.org.za and constantly monitor until 
+service is restored. 
+If you have a problem accessing the platform, please try the 
+following: 
+•
+Access from the link found in this manual and not
+through the one saved in your computer's cache or
+history.
+•
+Delete the cookies of the browser used.
+•
+Access the platform through another browser.
+•
+Make sure that the correct username and password are
+entered.
+•
+If you have forgotten your password, you must generate 
+another one so that you can access the module.
+Q29. How can I report issues not 
+covered in this guide? 
+Please report any additional issues to the SAHPRA via email at 
+industryereporting@sahpra.org.za 
+Q30. What happens if a case upload 
+is interrupted?  
+You must complete, submit, or download the report in a single 
+session. Contact SAHPRA to confirm whether the case is 
+reflected in VigiFlow. 
+Q31. What happens if the system 
+times out after data entry?  
+The system does not support saving drafts. You must complete, 
+submit, or download the report in a single session. Any data will 
+be lost upon logout or system timeout. 
+Downloading the report is only possible if it meets the minimum 
+submission criteria outlined in the previous question.  
+Q32. What happens when a case 
+appears 
+submitted 
+but 
+no 
+acknowledgement is generated?  
+This situation is unexpected and must be reported to 
+industryereporting@sahpra.org.za.  
+The system is continuously monitored, and the transmission 
+timestamp along with the submission identifier can serve as 
+evidence that the report was sent. 
+Once the transmission is successfully processed, the system will 
+SAHPGL-CEM-PV-08_v1 
+Page 35 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+automatically generate the acklog, which will then be available 
+for download for 35 days. It is the user’s responsibility to 
+monitor the status and download the acklog promptly to 
+complete the case documentation. 
+5.
+REFERENCES
+The following related documents are referenced:
+•
+Post-marketing reporting of ADR to Human Medicines (SAHPGL-CEM-PV-04)
+•
+ICH guidelines: https://ich.org/page/e2br3-individual-case-safety-report-icsr-specification-and-
+related-files
+6.
+VALIDITY
+This guideline is valid for a period of five (5) years from the effective date of revision. It will be reviewed within
+this timeframe or as and when required.
+SAHPGL-CEM-PV-08_v1 
+Page 36 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+7.
+APPENDICES
+7.1 
+APPENDIX 1: Terms and Conditions 
+Terms and conditions for the eReporting service for the pharmaceutical industry 
+The eReporting service for the pharmaceutical industry (“eReporting Service “) provides secure means for 
+electronic transmission of suspected reactions to medicines, e.g. the transmission of individual case safety 
+reports (“ICSRs”) from a market authorization holder, or other obligated reporters to the National Health 
+Authority’s national database named VigiFlow. 
+A subset of WHODrug Global, which is a drug dictionary to which UMC holds all intellectual property rights, 
+will be available in the data entry interface of the eReporting Service and such subset of WHODrug Global 
+may only be used for the purpose of transmitting suspected reactions to medicines to the National Health 
+Authority through the eReporting Service. 
+The eReporting Service is developed and hosted by Uppsala Monitoring Centre (“UMC”). 
+General terms and conditions 
+•
+You, as a user with login credentials to eReporting Service, certify that you represent a company with
+a valid and ongoing WHODrug License Agreement with UMC
+•
+You understand that in the event of a prolonged unavailability of the eReporting Service you must be
+aware of any alternative process described by the national health authority in order to meet the
+regulatory reporting time frames.
+•
+You understand that UMC is not in any case liable for unmet reporting obligations due to incomplete
+transmissions, service interruptions or of any other reasons emanating from providing the services.
+•
+You as a user with login credentials to eReporting Service understand that your account is personal
+and that you may not under any circumstance share your login credentials with another person.
+•
+You as a user with login credentials to eReporting Service, will Safeguard your password to
+eReporting Service.
+•
+If you become aware of any unauthorized use of your account, we advise you to immediately change
+your password and report the suspicion to the company that you represent.
+•
+You agree that UMC may, for statistical and product enhancement purposes, save information about
+your use of eReporting Service.
+•
+You agree that UMC may at any time collect and receive information from your activities within the
+eReporting Service to ensure that you adhere to these terms and conditions.
+•
+You understand that you should contact the national health authority, who is responsible for the
+management and control of your user account, if you have any questions regarding the user account.
+Non-acceptable use 
+You agree not to misuse the eReporting Service or help anyone else to do so. For example, you must not 
+try to do any of the following in connection with the eReporting Service: 
+•
+Probe, scan or test the vulnerability of any system or network.
+•
+Breach or otherwise circumvent any security or authentication measures.
+•
+Use eReporting Service in any way that is unlawful, illegal, fraudulent or harmful, or in connection
+with any unlawful, illegal, fraudulent or harmful purpose or activity.
+SAHPGL-CEM-PV-08_v1 
+Page 37 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+•
+Copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked 
+to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious
+computer software.
+•
+Share materials that are unlawfully pornographic or indecent, or that contain extreme acts of
+violence.
+•
+You understand that a breach of these terms and conditions might lead to suspension of your user
+account.
+SAHPGL-CEM-PV-08_v1 
+Page 38 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+7.2 
+APPENDIX 2: ICH E2B ACKLOG 
+ICH E2B acknowledgement message (acklog) is available for download for each ICSR/batch submission in 
+‘Submission status’. The acklog is your receipt for the submission and contains information regarding the 
+outcome of the submission, e.g., if the submission was successful or if there was any failure to meet the 
+reporting requirements. 
+E2B(R2) 
+OK 
+01=All reports loaded into database  
+<transmissionacknowledgmentcode>01</transmissionacknowledgmentcode> 
+01=Report loaded successfully 
+<reportacknowledgmentcode>01</reportacknowledgmentcode>  
+Error  
+02=Not accepted  
+<transmissionacknowledgmentcode>02</transmissionacknowledgmentcode>  
+<parsingerrormessage>Could not understand the import format!</parsingerrormessage>  
+03=SGML parsing error  
+<transmissionacknowledgmentcode>03</transmissionacknowledgmentcode>  
+<parsingerrormessage>Message sender and/or receiver identifier doesn't match expected 
+values</parsingerrormessage> 
+E2B(R3) 
+OK  
+AA=Accept - successfully processed  
+Transmission Acknowledgement Code;  
+<acknowledgement typeCode="AA">  
+CA=Commit Accept  
+Acknowledgement Code for an ICSR Message; 
+<acknowledgement typeCode="CA">  
+Error  
+CR=Commit Reject (not loaded)  
+<acknowledgement typeCode="CR"> or <acknowledgementDetail>  
+<acknowledgementDetail> <text>Invalid MedDRA code found: 0</text> 
+<text>Existing ICSR is nullified, followup not allowed.</text>  
+AE=Parsial  
+<acknowledgement typeCode="AE">  
+<acknowledgementDetail>  
+<text>Could not persist all information</text> 
+SAHPGL-CEM-PV-08_v1 
+Page 39 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+AR=Reject 
+<acknowledgement typeCode="AR"> 
+<acknowledgementDetail>  
+<text>Could not understand the import data: The 'extension' attribute is invalid - The value '' 
+is invalid according to its datatype 'urn:hl7-org:v3:st' - The actual length is less than the 
+MinLength value., Line: 17 Position: 53. The 'extension' attribute is invalid - The value '' is 
+invalid according to its datatype 'urn:hl7-org:v3:st' - The actual length is less than the 
+MinLength value., Line: 426 Position: 51. </text> 
+SAHPGL-CEM-PV-08_v1 
+Page 40 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+7.3 
+PPENDIX 2. ADDENDUM 
+For submission of AEs through the E2B XML files, please complete the table below in your letterhead 
+and submit to SAHPRA PV Unit (industryereporting@sahpra.org.za). 
+Table 1: Organisation and user details for submission of AEs through E2B XML files 
+Country: 
+South Africa 
+Country ISO Code: 
+ZA 
+Pharmaceutical 
+company name 
+Short name 
+(populates 
+WWUID*): 
+Long name (legal 
+name): 
+Sender organisation 
+(in E2B XML) 
+Sender identifier 
+(in E2B XML) 
+Receiver identifier 
+(in E2B XML):  
+SAHPRA 
+User 1 
+Given name: 
+Family name: 
+Email: 
+User 2 
+Given name: 
+Family name: 
+Email: 
+User 3 
+Given name: 
+Family name: 
+Email: 
+* WWUID - Worldwide unique case identification
+SAHPGL-CEM-PV-08_v1 
+Page 41 of 41
+Guideline for Industry eReporting 
+17 August 2026 
+For submission of AEs through manual data entry, please complete the table below in your letterhead and 
+submit to SAHPRA PV Unit (industryereporting@sahpra.org.za). 
+Table 2: Organisation and user details for submission of AEs through manual data entry 
+Country: 
+South Africa 
+Country ISO Code: 
+ZA 
+Pharmaceutical 
+company name 
+Short name 
+(populates WWUID*): 
+Long name (legal 
+name): 
+User 1 
+Given name: 
+Family name: 
+Email: 
+User 2 
+Given name: 
+Family name: 
+Email: 
+User 3 
+Given name: 
+Family name: 
+Email: 
+* WWUID - Worldwide unique case identification
+

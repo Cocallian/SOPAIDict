@@ -1,0 +1,445 @@
+SAHPGL-PEM-VET-03_v2 
+Page 1 of 8
+ 
+ 
+ 
+26 June 2023 
+GUIDELINE FOR VETERINARY MEDICINES EXEMPTIONS FROM 
+CERTAIN MEDICINE REGISTRATION REQUIREMENTS  
+This guideline is intended to provide recommendations to applicants wishing to submit applications for the 
+registration of veterinary medicines.  It represents the South African Health Products Regulatory Authority’s 
+current thinking on the safety, quality, and efficacy of medicines.   It is not intended as an exclusive approach.  
+SAHPRA reserves the right to request any additional information to establish the safety, quality, and efficacy 
+of a medicine in keeping with the knowledge current at the time of evaluation. 
+ 
+Alternative approaches may be used, but these should be scientifically and technically justified.  The SAHPRA 
+is committed to ensure that all registered medicines will be of the required quality, safety, and efficacy.  It is 
+important that applicants adhere to all administrative requirements to avoid delays in the processing and 
+evaluation of applications. 
+ 
+The guidelines and application forms are available from the SAHPRA website.  
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+Final guideline for implementation 
+01 March 2020 
+2 
+− 
+Administrative changes 
+− 
+Old document number 2.48 changed to SAHPGL-PEM-VET-01 
+05 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+Latest version_2
+SAHPGL-PEM-VET-03_v2 
+Page 2 of 8
+GUIDELINE FOR VETERINARY MEDICINES EXEMPTIONS FROM CERTAIN MEDICINE REGISTRATION 
+REQUIREMENTS 
+26 June 2023 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+2.1 The Act: ...................................................................................................................................................... 4 
+2.2 Regulations made in terms of the Act: ...................................................................................................... 5 
+3. 
+General Requirements ............................................................................................................................... 5 
+3.1 Letter of application .................................................................................................................................. 5 
+3.2 Application for registration ....................................................................................................................... 6 
+4. 
+Situations When Exemption from Certain Requirements may be considered ......................................... 6 
+4.1 Transcription from MBR1/VMRF1 to CTD ................................................................................................. 6 
+4.2 Medicines where limited clinical data are available ................................................................................. 6 
+4.3 Medicines that are well established but the moiety has not previously been registered in .................... 6 
+4.4 Medicines where the innovator product is no longer marketed in South Africa ...................................... 7 
+4.5 Medicines where the innovator product is no longer marketed in South Africa but for .......................... 7 
+4.6 Specific veterinary medicines scenarios .................................................................................................... 7 
+5. 
+Module 4 and 5 .......................................................................................................................................... 8 
+5.1 Efficacy ....................................................................................................................................................... 8 
+5.2 Withdrawal Periods ................................................................................................................................... 8 
+6. 
+REFERENCES ............................................................................................................................................... 8 
+7. 
+VALIDITY .................................................................................................................................................... 8 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-VET-03_v2 
+Page 3 of 8
+GUIDELINE FOR VETERINARY MEDICINES EXEMPTIONS FROM CERTAIN MEDICINE REGISTRATION 
+REQUIREMENTS 
+26 June 2023 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Well established APIs, API 
+combinations and 
+products 
+• 
+When an active ingredient of a medicine has been used for more than 
+10 years and its efficacy and safety have been well established  
+• 
+has been widely used in a sufficiently large number of patients to 
+permit the assumption that safety and efficacy are well known in the 
+context of local disease patterns 
+• 
+have the same route of administration and strength, and the same or 
+similar indications as in those countries that SAHPRA aligns with 
+• 
+undertake post-marketing monitoring 
+• 
+in such cases, registration may be based on results from the scientific 
+literature 
+MUMS 
+Minor Use Minor Species 
+Major species 
+Cattle, Pigs, Sheep, Goats, Fowls, Ostriches, Horses, Dogs and Cats, i.e. either 
+animals that contribute to a large extent to human food safety, or, animals of 
+which a large number is treated. 
+Minor species 
+Any species other than those already named under major species. 
+Minor use 
+Either the use of a veterinary medicine in a minor species, or the use of a 
+veterinary medicine in any animal species for an infrequently occurring or 
+geographically limited disease. 
+Target animal safety 
+study 
+Includes in vivo studies under controlled conditions which identify the toxicity 
+syndrome(s) associated with the final formulation and the margin of safety of 
+use of the product in the treated animal species for which approval is being 
+sought. 
+Withdrawal period 
+The interval between the time of last administration of the veterinary 
+medicine and the time when the animal can safely be slaughtered for food 
+purposes. 
+ 
+ 
+ 
+SAHPGL-PEM-VET-03_v2 
+Page 4 of 8
+GUIDELINE FOR VETERINARY MEDICINES EXEMPTIONS FROM CERTAIN MEDICINE REGISTRATION 
+REQUIREMENTS 
+26 June 2023 
+ 
+ 
+1. 
+INTRODUCTION 
+The Medicines and Related Substances Act (Act 101 of 1965) (hereinafter ‘the Act’) makes provision for the 
+registration of medicines based on quality, safety, and efficacy. In addition, the registration process for 
+veterinary medicines includes evaluation of toxicity, target animal safety, withdrawal period data, operator 
+safety, and possible environmental impact. 
+1.1 
+Purpose 
+The purpose of this guideline is to clarify the provisions of the Act that allow for exemptions from certain 
+requirements and to encourage applicants to register much-needed medicines for which the regulatory 
+burden may be perceived as being too high e.g., minor use minor species.  
+1.2 
+Scope 
+This document describes the rationale on the development of guidance to applicants wishing to submit a 
+dossier on quality, safety, and efficacy for veterinary medicinal products for minor use or minor species. It 
+also covers certain exemptions to registration requirements where minimal data is available. 
+2. 
+LEGAL PROVISION 
+Whilst the Act stipulates that only the quality, safety, and therapeutic efficacy of medicine may be considered 
+to determine whether the registration or availability of medicine is in the public  interest, the Act also makes 
+provision for consideration of registration of medicines by exemption from certain registration requirements 
+or exemption from registration in special circumstances. 
+The relevant legislation includes the following provisions:  
+2.1 
+The Act: 
+2.1.1 Section 1(3)  
+1.3 (a) In determining whether the registration or availability of medicine is in the public interest, regard 
+shall be had only to the safety, quality, and therapeutic efficacy thereof in relation to its effect on the 
+health of man or any animal.  
+2.1.2 Section 14(3)  
+(1) Save as provided in this section or sections 21 and 22A, no person shall sell any medicine, medical 
+device, or IVD which is subject to registration by virtue of a declaration published in terms of 
+subsection 
+(2) unless it is registered. 
+2.1.3 Section 36  
+ 
+Exclusion of any medicine, scheduled substance, medical device, or IVD from the operation of the Act  
+(1) The Minister may, on the recommendation of the Authority, by notice in the Gazette exclude, subject 
+to such conditions as he or she may determine, any medicine, scheduled substance, medical device or IVD 
+from the operation of any or all the provisions of this Act and may in like manner amend or withdraw any 
+such notice.  
+SAHPGL-PEM-VET-03_v2 
+Page 5 of 8
+GUIDELINE FOR VETERINARY MEDICINES EXEMPTIONS FROM CERTAIN MEDICINE REGISTRATION 
+REQUIREMENTS 
+26 June 2023 
+ 
+ 
+2.2 
+Regulations made in terms of the Act:  
+The following General Regulations issued in terms of the Medicines Act enable the Authority to stipulate 
+the technical requirements for the registration of medicines for both human and veterinary use and ensure 
+continued compliance with the accepted standards and specifications.  
+2.2.1 Regulation 16 (6)  
+(6) A medicine, in respect of which an application for registration is made, must comply with the technical 
+requirements as determined by the Authority.  
+2.2.2 Regulation 16 (9)  
+(9) The provisions of this regulation shall, with the necessary changes, apply to the application for the 
+registration of veterinary medicines.   
+2.2.3 Regulation 53 (1)  
+Every medicine must continue to comply with the standards and specifications which were furnished to the 
+Authority, and which have been accepted by the Authority with regards to such medicine.   
+Any proposed deviation from accepted standards and specifications referred to in sub-regulation (1) must 
+be submitted to the Authority for prior approval and such deviation shall not be introduced before the said 
+approval has been granted.  
+In recognition of the scarcity of approved veterinary medicines in South Africa for minor use including use 
+in wildlife, special provisions in this guideline are included to facilitate the registration of such products. 
+3. General Requirements  
+All applications for exemptions from requirements must be addressed to the Authority. 
+3.1 
+Letter of application  
+3.1.1 Indicate clearly in the letter of application:  
+• 
+the requirement(s) for which exemption is sought. 
+• 
+justification for such exemption including the basis for concluding that alternative approaches 
+may be used, or certain technical requirements waived and  
+• 
+where the relevant justification is in the dossier.  
+3.1.2 Where information is available, at least the following should be addressed in the dossier:  
+(i) Details of registration or pending registration of the medicine with any other regulatory 
+authority, and the history of the medicine. 
+(ii) Any sale in the Republic of South Africa. 
+(iii) Known marketing experience in other countries. 
+(iv) A description of the disease or condition for which the medicine is proposed to be used. 
+SAHPGL-PEM-VET-03_v2 
+Page 6 of 8
+GUIDELINE FOR VETERINARY MEDICINES EXEMPTIONS FROM CERTAIN MEDICINE REGISTRATION 
+REQUIREMENTS 
+26 June 2023 
+ 
+ 
+(v) The basis for concluding that the medicine is:  
+• 
+in the interest of animal well-being; or  
+• 
+for use in a pandemic or high impact situation.   
+• 
+for animal welfare or clinical management, or unmet need or 
+• 
+for a rare disease or condition.  
+(vi)  
+The size and other demographic characteristics of the target population affected in 
+ 
+RSA and the source of the information.  
+(vii)  
+The proposed minor species for use or the proposed minor use in the case of  
+ 
+veterinary medicine.  
+(viii) 
+Data on user and environmental safety (if applicable)  
+(ix)  
+Periodic Safety Update Reports (PSUR) to be monitored.  
+3.2 
+Application for registration  
+ 
+The application form has been upgraded to CTD format and it must be used for veterinary medicines. 
+4. Situations When Exemption from Certain Requirements may be considered  
+4.1 
+Transcription from MBR1/VMRF1 to CTD 
+ 
+Conversion of MBR1/ VMRF1 requires transcription of the currently approved information to the CTD 
+ 
+format.  Where information was not required at the time of submission of the original application, or 
+ 
+for the registration of the medicine, or subsequent variations when these were applied for, it is not 
+ 
+necessary to populate those sections of the CTD dossier (e.g., pharmaceutical development report).  
+ 
+Resubmission of non-clinical and clinical data (Annexures 13, 14 & 15 / PARTs 4 & 5) in such cases is 
+ 
+not required when transcribing from MBR1/VMRF1 to CTD.  
+4.2 Medicines where limited clinical data and safety are available  
+Promising medicines, based on 4.1.2 (v), with limited clinical data in support of safety and efficacy, 
+may be considered if there is a prospective planned process and commitment by the applicant to 
+gather further supporting evidence post marketing.  
+4.3 Medicines that are well established but the moiety has not previously been registered in 
+South Africa   
+In such circumstances, literature-based evidence in support of safety and efficacy could be 
+considered.  
+In such circumstances reliance can be applied, if the moiety has been registered in a Recognized 
+Regulatory Authority, with full clinical data, currently still has an active marketing authorization and 
+is under active post-marketing surveillance.  
+In terms of quality, Pharmacopoeial requirements, as well as compliance with the minimum 
+requirements stipulated in the Quality guideline, could be considered.   
+SAHPGL-PEM-VET-03_v2 
+Page 7 of 8
+GUIDELINE FOR VETERINARY MEDICINES EXEMPTIONS FROM CERTAIN MEDICINE REGISTRATION 
+REQUIREMENTS 
+26 June 2023 
+ 
+ 
+ 
+The influence of the formulation on the release of the API may be demonstrated as no locally 
+ 
+registered reference product would be available.  Where a reference product can be obtained from a 
+ 
+country which the Authority aligns, this product can be used for comparative studies. BE studies 
+ 
+using the RRA reference product should be provided. 
+4.4 
+Medicines where the innovator product is no longer marketed in South Africa  
+ 
+In such circumstances, literature-based evidence in support of safety and efficacy could be considered. 
+ 
+In terms of quality, Pharmacopoeial requirements, as well as compliance with the minimum 
+ 
+requirements stipulated in the Quality guideline, could be considered.  Previous registration with 
+ 
+MCC or SAHPRA may be considered as evidence of safety and efficacy unless the innovator  
+was 
+ 
+withdrawn due to safety or efficacy concerns. 
+ 
+In terms of quality, Pharmacopoeial requirements, as well as compliance with the minimum 
+ 
+requirements stipulated in the quality guideline could be considered. 
+ 
+The influence of the formulation on the release of the API may be demonstrated as no locally 
+ 
+registered reference product would be available.   
+ 
+Where a reference product can be obtained from a country, the regulatory authority with which 
+ 
+SAHPRA aligns, this product can be used for comparative studies. 
+4.5 
+Medicines where the innovator product is no longer marketed in South Africa but for 
+which there are Pharmacopoeial monographs available  
+ 
+In such circumstances, literature-based evidence in support of safety and efficacy could be considered.  
+ 
+In terms of quality, Pharmacopoeial requirements, as well as compliance with the minimum 
+ 
+requirements stipulated in the Quality guideline, could be considered.  
+ 
+The influence of the formulation on the release of the API may be demonstrated as no locally 
+ 
+registered reference product would be available.  Where a reference product can be obtained from a 
+ 
+country, the regulatory authority with which SAHPRA aligns, this product can be used for comparative 
+ 
+studies.  
+4.6 
+Specific veterinary medicines scenarios  
+4.6.1 Registered veterinary medicine for use in a minor species  
+ 
+Extrapolation of interspecies data of medicine already approved for use in a major species if relevant 
+ 
+could be considered. If a commitment to collect safety and efficacy information as part of the post-
+ 
+marketing surveillance initiative is made, the motivation may be considered.  
+4.6.2 Registered veterinary medicine for a minor use  
+ 
+Extrapolation of the effect may be considered when the medicine is already approved for use in 
+ 
+another species, and if relevant. If a commitment to collect safety and efficacy information as part of 
+ 
+the post-marketing surveillance initiative is made, the motivation may be considered.  
+4.6.3 Entirely new medicine for use in a minor species or a minor use  
+SAHPGL-PEM-VET-03_v2 
+Page 8 of 8
+GUIDELINE FOR VETERINARY MEDICINES EXEMPTIONS FROM CERTAIN MEDICINE REGISTRATION 
+REQUIREMENTS 
+26 June 2023 
+ 
+ 
+ 
+In such circumstances, limited clinical data or literature-based evidence in support of safety and 
+ 
+efficacy or extrapolation of data pertaining to a similar class medicine already approved, and/or if 
+ 
+relevant a commitment to collect safety and efficacy information as part of the post-marketing 
+ 
+surveillance initiative is made, the motivation may be considered.  
+4.6.4 Medicine registered for human use but not registered for use in a minor species or a 
+minor use  
+ 
+In such circumstances limited clinical data or literature-based evidence in support of the safety and 
+ 
+efficacy, or extrapolation of human data when adequately justified and/or and if relevant a 
+ 
+commitment to collect safety and efficacy information as part of the post-marketing surveillance 
+ 
+initiative is made, the motivation may be considered. 
+5 
+Module 4 and 5  
+5.1 Efficacy   
+ 
+The applicant is required to conduct pilot studies for proof of concept for minor use/minor species 
+ 
+status designation. As an example, proof of efficacy in 1 to 5 of the target species with the following 
+ 
+sample size is suggested: 1 species n = 6 to 10 animals and for 3 to 5 species n = 3.   
+ 
+The applicant needs to commit to collecting safety and efficacy information as part of the post-
+ 
+marketing surveillance initiative.  
+5.2 
+Withdrawal Periods  
+ 
+Submit results of residue depletion studies and recommended withdrawal period for veterinary 
+ 
+medicines intended for use in food-producing animals. In the case of wildlife, a lot of products from 
+ 
+immobilized animals end up in the food chain as 20% of meat consumed by the population is from 
+ 
+wildlife. Where there are no MRLs yet, extrapolation from a major species (Refer to FDA and EMA 
+ 
+MUMS guidelines) on a case-by-case basis using a worst-case scenario can be considered.  In South 
+ 
+Africa, a default withdrawal period of 90 days for conventional formulations is acceptable unless 
+ 
+determined.   
+6 
+REFERENCES 
+ 
+The following related documents are referenced: 
+6.1 
+CVMP: Efficacy and target animal safety data requirements for veterinary medicinal products 
+intended for minor uses or minor species. 
+6.2 
+CVMP: Quality data requirements for veterinary medicinal products intended for minor use or 
+minor species (MUMS)/ limited market. 
+6.3 
+Safety and residue data requirements for veterinary medicinal products intended for minor use or 
+minor species (MUMS)/ limited market. 
+7 
+VALIDITY 
+ 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old 
+ 
+guideline for Veterinary Medicines Exemptions from Certain Medicine Registration Requirements 
+ 
+(Document No. 2.48). It will be reviewed on this timeframe or as and when required. 
+

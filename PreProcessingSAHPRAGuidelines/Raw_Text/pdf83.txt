@@ -1,0 +1,709 @@
+SAHPGL-PEM-BIO-01_v4  
+Page 1 of 16
+ 
+ 
+ 
+ 
+8 June 2023 
+GUIDELINE FOR LOT RELEASE OF HUMAN VACCINES 
+ 
+This document is intended to provide guidance to applicants for lot release requirements for all human vaccines. This will be a “living 
+document” and will be updated on a regular basis. It is important that applicants adhere to the prescribed requirements in order to 
+avoid delays during processing. 
+ 
+All the relevant forms to be completed in conjunction with this guideline are accessible on the SAHPRA Website. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+First issue 
+August 2021 
+2 
+Updates published for implementation 
+26 April 2022 
+3 
+− 
+Content structured on the latest SAHPRA Guideline Template 
+− 
+New document number allocated 
+29 August 2022 
+4 
+− 
+SAHPRA Service desk implementation 
+− 
+Inclusion of the application form (GLF-PEM-BIO-01A) for Lot release 
+8 June 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+ 
+SAHPGL-PEM-BIO-01_v4 
+Page 2 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION ............................................................................................................................................ 5 
+1.1 Purpose ......................................................................................................................................................... 5 
+1.2 Scope ............................................................................................................................................................. 5 
+2. 
+LEGAL BASIS .................................................................................................................................................. 5 
+3. 
+GENERAL INFORMATION .............................................................................................................................. 6 
+3.1 SAHPRA Lot release ...................................................................................................................................... 6 
+3.2 Summary Protocol review ............................................................................................................................ 6 
+3.3 Independent testing ..................................................................................................................................... 7 
+3.4 Reliance ......................................................................................................................................................... 8 
+3.5 Cold Chain review ......................................................................................................................................... 8 
+3.6 Product labelling information review ........................................................................................................... 8 
+3.7 Evaluation of the lot and the decision-making process ................................................................................ 8 
+3.8 Expedited release process ............................................................................................................................ 9 
+3.9 Fees ............................................................................................................................................................... 9 
+4. 
+REQUIREMENTS AND ADMINISTRATIVE PROCEDURE FOR LOT RELEASE SUBMISSION ............................ 10 
+4.1 Application for lot release .......................................................................................................................... 10 
+4.2 Submission of Lot Release Applications ..................................................................................................... 10 
+4.3 Documentation submission ........................................................................................................................ 12 
+4.4 Acknowledgement of the receipt ............................................................................................................... 14 
+4.5 Further lot release ...................................................................................................................................... 14 
+4.6 Lead times ................................................................................................................................................... 15 
+5. 
+REFERENCES ................................................................................................................................................ 15 
+6. 
+VALIDITY ..................................................................................................................................................... 15 
+7. 
+APPENDICES ................................................................................................................................................ 16 
+7.1 Appendix I: Product-specific lead times for Lot Release ............................................................................ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-BIO-01_v4 
+Page 3 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+EDQM 
+European Directorate for the Quality of Medicines 
+EPI 
+Expanded Program on Immunization 
+First Release 
+the first lot release issued for a final labelled lot. 
+Further Release 
+the case where additional consignments of a vaccine previously released by 
+SAHPRA are imported for lot release, and the final primary container lot 
+number and expiry date are identical to that previously released by SAHPRA 
+GMP 
+Good Manufacturing Practices 
+HCR 
+(Holder of the Certificate): of Registration a person or legal entity in whose 
+name a registration certificate has been granted and who is responsible for all 
+aspects of the medicine, including quality, safety and compliance with 
+conditions of registrations. 
+ISO 
+International Organization for Standardization 
+Local Manufacture 
+a process that includes the formulation of the drug product and/or filling of a 
+primary container. 
+Lot 
+a defined quantity of starting material, packaging material or product, 
+processed in a single process or series of processes so that the quantity is 
+expected to be homogeneous. The lot size can be defined either as a fixed 
+quantity or as the amount produced in a fixed time period. 
+Lot Release 
+the process of NRA/NCL evaluation of an individual lot of a licensed vaccine 
+before giving approval for its release to the market. 
+NCL 
+National Control Laboratory 
+NRA 
+National Regulatory Authority 
+OCABR 
+Official Control Authority Batch Release 
+OOS 
+(Out of specification): result is generated when a vaccine is tested and fails to 
+meet a predefined registered specification. 
+Product 
+Labelling 
+information  
+ (PLI): Printed materials that accompany a prescription medicine and refers to 
+all labelling items as per the Medicines and Related substances Act 101 of 1965, 
+General Regulation # 10, #11 and # 12: 
+Professional Information 
+(PI): including prescribing information that provides product information on 
+indication, dosage and administration, safety and efficacy results, contra- 
+indications, warnings, and a description of the product for health care providers 
+• 
+Inner label or container label 
+• 
+Outer label or carton 
+• 
+PIL 
+SAHPGL-PEM-BIO-01_v4 
+Page 4 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+PIL 
+Patient Information Leaflet 
+PMS 
+Post-marketing surveillance 
+QC 
+Quality Control 
+Registration Application 
+A formal application to SAHPRA for approval to register and market a new 
+medicine. The purpose of the Registration Application is to determine whether 
+the medicine meets   the statutory standards for safety, effectiveness, product 
+labelling information, chemistry, manufacturing and control. 
+Responsible NRA/NCL 
+the NRA/NCL taking responsibility for regulatory oversight of a product with 
+regard to the critical regulatory functions defined by WHO, including 
+independent lot release. The responsible NRA/NCL is usually that of the country 
+of manufacture unless specific agreements exist within defined territories, such 
+as in the European Union, where the “country” of manufacture is the European 
+Union and the activity of the responsible NRA/NCL is designated among the 
+Member States. 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SANA 
+South African National Accreditation System 
+SANCLBP 
+South African National Control Laboratory for Biological Products 
+SSDS 
+SAHPRA service desk system 
+Specifications 
+A list of tests, references to analytical procedures, and appropriate acceptance 
+criteria, which are numerical limits, ranges or other criteria for the tests 
+described in the marketing authorization dossier. Specifications are critical 
+quality standards proposed and justified by the manufacturer and approved by 
+the regulatory authorities. 
+Summary Protocol 
+(also called “lot summary protocol”) a document summarizing all 
+manufacturing steps and test results for the specific lot  of vaccine,  which  is  
+certified  and  signed  by  the  responsible  person of the manufacturing  
+company. 
+UFS 
+University of Free state 
+Vaccine 
+Preparations containing antigens capable of specific and active immunity in 
+humans against an infectious agent or toxin. 
+VAR 
+Vaccine arrival report 
+WHO 
+World Health Organization 
+WHO-NNB 
+WHO National Control Laboratory Network for Biologicals 
+ 
+SAHPGL-PEM-BIO-01_v4 
+Page 5 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+1. 
+INTRODUCTION  
+The lot release of human vaccines is performed in compliance with the WHO Guidelines for independent lot 
+release of vaccines by regulatory authorities. 
+Vaccines are biological products used in healthy populations, and the impact of using substandard lots may 
+not be known for a very long time (years). Similarly, safety issues with a particular lot may not be known 
+immediately (within a few hours) after administration, and there could be a drastic impact if a large number 
+of healthy persons receive a vaccine to prevent infection or minimize disease severity. For these reasons, a 
+careful, independent review of manufacturing and quality control data on every lot is necessary before it is 
+marketed. 
+The lot release of vaccines by regulatory authorities is part of the regulation of vaccines and involves the 
+independent assessment of each lot of a licensed vaccine before it is released onto the market. This assessment 
+is based, as a minimum, on the review of manufacturers’ summary protocols. It may be supplemented by other 
+documents such as the release certificate from the responsible NRA or NCL and, in some circumstances, by 
+testing that is independent of the manufacturers’ quality-control testing. 
+1.1 
+Purpose 
+The purpose of this Guideline is to provide guidance on the SAHPRA Lot Release application process as well 
+as the requirements to be fulfilled when making a lot release request to SAHPRA for lot release of all human 
+vaccines. 
+1.2 
+Scope 
+This document focuses on vaccines registered for human use and vaccines supplied under Section 21 
+approval. The document is intended to provide guidance to the Holder of the Certificate of Registration 
+(HCR) and vaccine suppliers on the requirements and administrative procedures to be followed for lot 
+release. It may also be relevant to public health authorities, such as a national immunization programme, 
+EPI. 
+2. 
+LEGAL BASIS 
+Lot release of human vaccines is conducted within the framework of the Medicines and Related Substances 
+Act, 1965 (Act No. 101 of 1965) as amended and Act 14 of 2015, regulations 15(1), 15 (2) and 15(3). 
+ 
+ 
+SAHPGL-PEM-BIO-01_v4 
+Page 6 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+ 
+3. 
+GENERAL INFORMATION 
+SOUTH AFRICAN NATIONAL CONTROL LABORATORY FOR BIOLOGICAL PRODUCTS 
+The SANCLBP is located in Bloemfontein on the campus of the UFS and is contracted by SAHPRA through 
+the UFS to perform the lot release testing. The SANCLBP complies with the expected standards and is 
+accredited to perform the lot release testing as per the stipulated regulatory standards. SAHPRA will 
+exercise the regulatory decision including the issuance of Lot release certificate or rejection note.  
+PRINCIPLES 
+3.1 
+SAHPRA Lot release 
+SAHPRA currently makes provision for first release and further release. 
+First Release 
+In the case where a vaccine lot is submitted to SAHPRA for the first time, a full lot release is performed 
+consisting of a review of the manufacturers lot summary protocol, review of the cold chain data for the 
+shipment/s, review of the product labelling information and possible selected independent retesting. A first 
+lot release certificate is issued for a final labelled lot. The first lot release is subject to payment of a lot 
+release fee to SAHPRA as detailed in section 3.9. 
+Further Release 
+If additional consignments of a vaccine previously released by SAHPRA are imported and where the final 
+labelled primary container lot number and expiry date is identical to that previously released, a further lot 
+release is issued. The further lot release process is limited to reviewing the cold chain data for the 
+shipment/s and a review of the product secondary packaging labelling information (if different from the 
+first release). A further lot release certificate is issued for a final labelled primary container lot with the 
+same lot number and expiry date. 
+3.2 
+Summary Protocol review 
+Manufacturers’ summary protocols summarize information taken from the production and test records, 
+according to GMP requirements, to ensure that the lot meets the specifications in the product registration 
+dossier. In addition, summary protocols submitted to the NRA/NCL should be approved by the person 
+designated as responsible for quality assurance or quality control of the manufacturer. In general, the 
+SAHPGL-PEM-BIO-01_v4 
+Page 7 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+format and content of the protocol are finalized and approved by the NRA/NCL during the review of the -
+registration application. The format of the protocol should be amended in response to changes in the 
+approved production process and should be approved by the NRA/NCL1. 
+The lot summary protocol submitted by the HCR for review should therefore reflect all appropriate 
+production steps and controls as outlined in the registration dossier for the product. SAHPRA will accept 
+manufacturer summary protocols compiled to comply with the EDQM OCABR model protocol format 
+(https://www.edqm.eu/en/human-ocabr-guidelines) or the WHO-recommended format. The HCR must 
+include in the application of any approved amendments relevant to the lot under review at the time of 
+submission. 
+An independent review of critical data from each lot of vaccines is essential to: 
+▪ 
+assure the consistency of quality of each manufactured lot; 
+▪ 
+obtain confidence in the claimed strength of active components; 
+▪ 
+assess the validity and accuracy of the tests performed. 
+This review encompasses the traceability of critical source materials, active and critical components used 
+in the manufacture of the product, and the results from tests performed by the manufacturer at various 
+stages of production, including tests performed on critical components, intermediates, final bulk and final 
+product. 
+3.3 
+Independent testing 
+SAHPRA applies a risk-based testing policy to reduce redundant testing and promote reliance between 
+releasing authorities. However, the risk-based approach must still guarantee that SAHPRA meets its 
+obligation, which is to ensure the safety, efficacy and quality of all released vaccine lots, i.e., imported and 
+locally manufactured. As far as practically possible, the same methods, equipment, reagents, and reference 
+standards used by the manufacturer are used in the tests to ensure comparability of test results. 
+It is the responsibility of the HCR to facilitate technology transfer to the SANCLBP if required for lot release 
+testing or PMS. It is recommended that the proposed HCR engage with the SANCLBP during the registration 
+application process to determine the need to transfer analytical methods. 
+SAHPRA strives to align itself with the current best international practice for lot release and, as such, 
+ 
+1 Note any variation should obtain prior approval from SAHPRA before including it in summary protocol 
+SAHPGL-PEM-BIO-01_v4 
+Page 8 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+adopted the testing scope for final containers as detailed in the EDQM OCABR product- specific guidelines 
+(https://www.edqm.eu/en/human-ocabr-guidelines). 
+3.4 
+Reliance 
+The requirement for routine independent lot release testing will be based on a risk assessment and whether 
+reliance can be applied. The risk assessment considers the post-marketing experience related to the safety 
+and quality of the product. Reliance on some or all tests or reduced independent testing may be considered 
+subject to the availability of a lot release certificate issued by a releasing NCL that is a full member of the 
+WHO- NNB or a NRA with which SAHPRA is aligned with, and the outcome of the risk assessment. 
+3.5 
+Cold Chain review 
+The SANCLBP reviews the integrity of the cold chain for all vaccine shipments to South Africa. A VAR must 
+be submitted to the SAHPRA for each lot and shipment to be released and must comply with the format 
+requirements as detailed in section 4.3.2 The HCR should provide the SAHPRA with validated transport 
+stability data that would support transport temperature guidelines. 
+NOTE: Containers in which the temperature monitoring devices have malfunctioned or have been omitted 
+must be separated from the rest of the consignment. SAHPRA will not release the vaccines in these 
+containers unless proof can be provided that all the shippers were transported as a unit until unpacking by 
+the recipient (e.g., cling-wrapped on a pallet), as consignment homogeneity cannot be guaranteed. 
+3.6 
+Product labelling information review 
+The SANCLBP also reviews the printed materials that accompany the vaccine batch to ensure that all 
+labelling items comply with the relevant General Regulations (i.e., 10, 11 and 12) of the Medicines and 
+Related substances Act 101 of 1965, as amended. In the case where SAHPRA granted an exemption from 
+these conditions, the approval letter must be submitted with the application. 
+3.7 
+Evaluation of the lot and the decision-making process 
+If a vaccine lot conforms with the release requirements, the SAHPRA will notify the HCR through the SSDS 
+and provide an electronic copy of the lot release certificate. The initiator of the task on the Service desk will 
+receive a copy of the release certificate corresponding to that task.  
+If a vaccine lot does not conform to the release requirements due to an OOS test result, and after 
+investigation, a quality defect is confirmed, a rejection note is issued to the HCR. HCR will be allowed to 
+appeal decision made by the regulator within 30 working days. 
+SAHPGL-PEM-BIO-01_v4 
+Page 9 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+Prior to issuing a destruction note, SAHPRA SANCLBP will engage with the HCR and the manufacturers   QC 
+laboratory to investigate the cause of the OOS test result. If the quality defect is confirmed after the 
+investigation, a report will be compiled and submitted to SAHPRA with a recommendation for rejection of 
+the lot.   
+In the case where there is evidence that the cold chain of a shipment or part of a shipment was not 
+adequately maintained or controlled, and the temperature deviation impacted the quality of the product, 
+the affected doses will not be released. The HCR will be instructed, through a rejection note from SAHPRA 
+with the instruction to destroy the affected doses and provide a copy of the destruction certificate to 
+SAHPRA. It is the responsibility of the HCR to submit the destruction certificate to the regulator within 30 
+working days from the date of notice. 
+3.8 
+Expedited release process 
+Under exceptional circumstances, e.g., in case of an outbreak, or a critical vaccine stock shortage supported 
+by NDoH, the lot release for a particular lot can be prioritized and expedited, but will at a minimum still 
+include a review of the manufactures lot summary protocol, review of the cold chain data for the 
+shipment/s, and review of the product labelling information. An expedited release, however, is subject to 
+the availability of a lot release certificate issued by the responsible NCL. A request for expedited release 
+must be submitted to SAHPRA via application form for lot release. The review outcome of the expedited 
+review request will be recorded on the SSDS within 3 working days of the request. Any communications 
+regarding expedited review outcomes must be directed to dedicated lot release email 
+Lotrelease@sahpra.org.za and copy biological medicine unit manager, with subject line “Expedited review 
+request outcome”. Note that expedited reviews will not be considered in the absence of the required 
+motivation and/or supporting documents. 
+3.9 
+Fees 
+SAHPRA requires payment of a lot release fee (https://www.sahpra.org.za/fees-2/) for the first release of 
+each vaccine final lot. The release fee must be paid directly to the SAHPRA account, and proof of payment 
+must be uploaded to SSDS.  It is important that the HCR use the appropriate reference generated by the 
+SSDS upon applying. This is a requirement to ensure traceability. Please consult the guideline for payment 
+of fees to SAHPRA, https://www.sahpra.org.za/wp- content/uploads/2021/01/SAHPRA-Payment-
+Guideline-Nov-2020.pdf 
+ 
+ 
+SAHPGL-PEM-BIO-01_v4 
+Page 10 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+ 
+4. 
+REQUIREMENTS AND ADMINISTRATIVE PROCEDURE FOR LOT RELEASE 
+SUBMISSION 
+4.1 
+Application for lot release 
+A completed Application Form for Release of Human Vaccines (GLF-PEM-BIO-01A) as accessible on 
+SAHPRA Website, or lot release based on SAHPRA requirements must be signed, dated and submitted to 
+SSDS with all the supporting documents uploaded thereon.   
+4.2 
+Submission of Lot Release Applications 
+All Applications for lot release should be submitted via the SAHPRA Service Desk system at 
+https://service.sahpra.org.za.  Note that you are to upload all the supporting documentation for your Lot 
+release application on the SAHPRA Service desk. SAHPRA /SANCLBP will be able to access all the documents 
+uploaded. 
+NOTE: Any variation should obtain prior approval from SAHPRA before including it in the summary protocol. 
+If the applicant submit documentation for Lot release that does not correspond to SAHPRA’s approved 
+registration records, this lot release request will be rejected. 
+It is the responsibility of the HCR to inform SAHPRA who should be a user of the Service Desk system. Should 
+you require credentials as user for the SAHPRA Service desk system please send a request to 
+servicedesk@sahpra.org.za with subject line “SAHPRA Service desk system application form” and copy the 
+email Lotrelease@sahpra.org.za.   If there is a request on any other issues related to Lot Release and SSDS, 
+please send an email to Lotrelease@sahpra.org.za . 
+Upon application submission the applicant particulars must conform with the systems requirements e.g 
+where the system requires product name only record product name. i.e., it is not acceptable to record 
+product name and batch number at the same time. 
+ 
+SAHPGL-PEM-BIO-01_v4 
+Page 11 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+ 
+4.2.1 
+Samples 
+The following samples must be supplied to the SANCLBP for each lot to be released: 
+• 
+For imported vaccines, thirty (30) vials/ syringes of the single or multi-dose final container; 
+• 
+For locally manufactured vaccines forty (40) vials/ syringes of the single or multi-dose final 
+container per sampling point; 
+• 
+For BCG culture, four (4) vials of the final container; 
+• 
+If more than the required containers are sent to the SANCLBP, the excess containers cannot be 
+returned; 
+• 
+Samples should be sent at the correct transport temperatures to the SANCLBP. Appropriate cold 
+chain monitor(s) must accompany each consignment of vaccine samples to the SANCLBP. 
+Samples received without monitor(s) or with alarmed monitors will not be accepted and will be 
+destroyed. Replacement samples will need to be provided; 
+• 
+The SANCLBP will receive samples from Monday to Friday during office hours (07:30 to 16:00); 
+• 
+Final labelled and packaged containers are preferred for testing. 
+• 
+Under exceptional circumstances and with good motivation, final labelled containers without 
+SAHPGL-PEM-BIO-01_v4 
+Page 12 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+packaging may be accepted; 
+• 
+Provisionally labelled containers will be accepted, provided that this is pre-arranged with 
+SAHPRA. A lot release certificate will only be issued once proof of final packaging and labelling 
+has been provided. 
+4.2.2 
+Sampling must be performed as follows 
+• 
+Quarantined shippers, i.e., where a temperature excursion has occurred, must not be sampled; 
+• 
+The samples taken must represent the commercial consignment as far as practically possible, 
+i.e., sampled from different shippers at different locations. The SANCLBP acknowledges that the 
+sampling procedure could be constrained due to different shipping configurations; 
+• 
+Clearly indicate on the receiving documents from which shipper(s) sampling was performed; 
+• 
+If resampling is required for retesting, the SANCLBP will provide guidance on which shippers 
+must be sampled; 
+• 
+For locally manufactured lots, samples must be taken from three sampling points, i.e., from the 
+beginning, middle, and end of the filling run. Containers should be clearly labelled to distinguish 
+from which part of the filling run the samples originate. The HCR will be informed by SAHPRA, 
+of any change/reduction of the number of samples and sampling points subject to sufficient data 
+confirming the consistency of production. 
+4.3 
+Documentation submission 
+• 
+All lot release documentation must be uploaded to the SSDS. Document names should include 
+the type of vaccine, the corresponding batch no. and a short description without special 
+characters. All supporting documents that are large must be zipped and submitted as zip file. 
+• 
+Documents required during submission among others are application form, proof of payment, 
+lot summary protocol and proof of cold chain data  
+• 
+If additional information is requested from the applicant and is not received within 3 working 
+days, the application will be rejected. The applicant will be required to re-apply and relevant 
+fees will be applicable 
+ 
+SAHPGL-PEM-BIO-01_v4 
+Page 13 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+4.3.1 
+Lot summary release protocol submission 
+• 
+Lot summary protocols (not Certificates of Analysis) must be uploaded when creating a task on 
+the SSDS  
+• 
+The lot release certificate from the releasing NRA must be included. Where possible, it should 
+be accompanied by the respective test report; 
+• 
+File names must contain the vaccine name and lot number (e.g., Vaccine_ABC123_protocol.pdf). 
+Avoid using spaces or special characters in file names; 
+Testing will not commence until both application and the samples   has been accepted,   
+4.3.2 
+Proof of cold chain integrity 
+A VAR must be provided for each lot to be released. In those instances where a lot is imported in multiple 
+shipments, each shipment's documentation must be clearly distinguished. This report must include the 
+following: 
+• 
+The product name and lot number must be clearly visible on all documents; 
+• 
+The date, time and location of dispatch and receipt of shipment; 
+• 
+A copy of the air waybill; 
+• 
+The quantity per shipment; 
+• 
+A packing list indicating the number of containers/shippers per shipment and the number of 
+doses per container/shipper; 
+• 
+A temperature monitor check sheet indicating the number of temperature devices per 
+container/shipper, serial number, location [e.g., inside (top or bottom) or outside the container], 
+and status of each temperature monitor, i.e., a temperature excursion noted or whether it 
+malfunctioned or not. Freeze tag information should be provided in instances where vaccines 
+are not allowed to freeze; 
+• 
+The vaccine lot number and the number of the container/shipper must be clearly indicated on 
+the document displaying the temperature monitor data. Alternatively, supporting 
+documentation must be attached showing the serial numbers of electronic monitors used in 
+each shipper/container of the shipment; 
+SAHPGL-PEM-BIO-01_v4 
+Page 14 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+• 
+Raw data from electronic temperature monitoring devices (including QTag WHO Type 1 
+monitors) is required, except for devices where a summary is automatically generated. In these 
+cases, the summary is preferred; 
+• 
+File names must contain the vaccine name and lot number (e.g., Vaccine_ABC123_VAR.pdf, 
+Vaccine_ABC123_AWB.pdf, etc.); 
+Collate all the documents for a shipment and verify that it is complete before uploading SSDS  
+4.3.3 
+Proof of payment of the lot release 
+• 
+Upon submission of the application the system will generate an invoice with the reference to 
+use while making payments, please make use of the reference the system will generate. 
+• 
+Proof of payment must be uploaded onto the SSDS; 
+• 
+No release certificate will be issued without proof of payment. 
+4.4 
+Acknowledgement of the receipt 
+• 
+The SANCLBP will acknowledge receipt of samples and or documentation confirming that they 
+are for a first or further release via the SSDS; 
+• 
+HCR will receive the notification of acknowledgement of receipt, if samples are in good order no 
+action will be required from the HCR. If the samples are damaged the SSDS email will request 
+the HCR to re-submit another set of samples.  
+• 
+The HCR is advised to follow up with SAHPRA at lotrelease@sahpra.org.za and copy biological 
+unit manager if acknowledgement of receipt has not been received within two (2) working days. 
+4.5 
+Further lot release 
+• 
+If consignments with the identical final labelled primary container lot (including identical 
+expiration dates) are imported after the release of the first consignment/s, it is regarded as a 
+further lot release; 
+• 
+A VAR and proof of secondary packaging is required; 
+• 
+A copy of the lot summary protocol as detailed in section 4.3.1 is required; 
+• 
+Clearly indicate in the application form for lot release to SAHPRA that this is a further lot release  
+SAHPGL-PEM-BIO-01_v4 
+Page 15 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+• 
+and provide the first lot release certificate number (if already available); 
+4.6 
+Lead times 
+As a SANAS accredited laboratory, the SANCLBP must maintain impartiality at all times. The vaccine lot 
+release process will be performed on a “first in, first out” basis with strict adherence to lead times, as 
+detailed in Appendix I. In the case of an unexpected delay due to retesting or delays in the availability of 
+reference materials, delays will be communicated to HCR by SAHPRA; 
+The lead time is determined by the nature and scope of independent testing required. The lead time will 
+be communicated to the HCR at the time of product registration (Appendix I). The lead time countdown 
+will start once the lot release task has been accepted and samples sent. 
+• 
+It remains the HCR’s responsibility to keep a record of all samples and information submitted to 
+the SANCLBP. The VAR and/or final proof of packaging/labelling can be submitted later, but this 
+will result in the lead time extension of five (5) working days after receipt; 
+• 
+Lead times have been approved by SAHPRA and will be shortened only under exceptional 
+circumstances, as detailed in section 3.8. 
+5. 
+REFERENCES  
+5.1. 
+Medicines and related substances Act no 101 of 1965 
+5.2. 
+Guidelines for independent lot release of vaccines by regulatory authorities, WHO Technical Report 
+Series, 978, Annex 2 https://www.who.int/biologicals/areas/vaccines/lot_release_of_vaccines/en/ 
+(accessed 04 January 2021) 
+6. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces guideline for Lot 
+Release of Human Vaccine, document no.: SAHPGL-PEM-BIO-01_v4. It will be reviewed on this timeframe or 
+as and when required. 
+ 
+ 
+SAHPGL-PEM-BIO-01_v4 
+Page 16 of 16
+Guideline for LRHV 2021 
+8 June 2023 
+ 
+ 
+7. 
+APPENDICES 
+7.1 
+Appendix I: Product-specific lead times for Lot Release 
+ 
+APPENDIX I    Product-specific lead times for lot release 
+Vaccine 
+Lead time 
+BCG Culture 
+4 weeks 
+BCG Vaccine 
+8 weeks 
+Cholera 
+3 weeks 
+Corona Virus Vaccine 
+ 2 weeks 
+Hepatitis A 
+3 weeks 
+Hepatitis B, Hepatitis A and B 
+3 weeks 
+HPV 
+3 weeks 
+Influenza 
+2 weeks 
+Measles 
+4 weeks 
+Meningococcal 
+3 weeks 
+MMR 
+3 weeks 
+OPV 
+4 weeks 
+Pneumococcal 
+3 weeks 
+Rabies 
+3 weeks 
+Rota 
+4 weeks 
+Rubella 
+3 weeks 
+T, dT, DTaP, DTaP-IPV, DTaP-IPV-Hib, DTaP-IPV-Hib-Hep B 
+4 weeks 
+Typhoid 
+3 weeks 
+Varicella 
+3 weeks 
+Yellow fever 
+6 weeks 
+Zoster 
+3 
+weeks 
+

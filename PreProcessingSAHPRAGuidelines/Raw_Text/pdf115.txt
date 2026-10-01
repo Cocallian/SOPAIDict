@@ -1,0 +1,554 @@
+SAHPGL-CEM-CT-01_v3 
+Page 1 of 11
+ 
+ 
+ 
+05 September 2022 
+ELECTRONIC SUBMISSION OF CLINICAL TRIAL DOCUMENTS 
+(AMENDMENTS, BIOEQUIVALENCE STUDIES, RESPONSES, 
+NOTIFICATIONS, AND SERIOUS ADVERSE EVENTS) 
+ 
+The purpose of this document is to notify applicants of the electronic submission process for major activities performed in the Clinical 
+Trials Unit (CTU), South African Health Products Regulatory Authority (SAHPRA), in order to improve the turnaround times of 
+applications. A number of e-mail addresses have been registered to support this initiative.  Applicants are requested to use each 
+specific e-mail address exclusively for a specific type of communication in order to minimize unintended delays in finalization of 
+requests. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue and published for implementation 
+April 2015 
+2 
+Administrative Changes 
+April 2019 
+3 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+Old guideline number 9.59 changed to SAHPGL-CEM-CT-01 
+- 
+Form CTF1 changed to GLF-CEM-CT-01A and GLF-CEM-CT-01B; Form 
+CTF2 changed to GLF-CEM-CT-01C and Form CTF3 also changed to 
+GLF-CEM-CT-01D 
+05 September 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-CT-01_v3 
+Page 2 of 11
+GUIDELINE FOR ELECTRONIC SUBMISSION OF CLINICAL TRIAL DOCUMENTS (AMENDMENTS, 
+BIOEQUIVALENCE STUDIES, RESPONSES, NOTIFICATIONS, AND SERIOUS ADVERSE EVENTS) 
+ 
+05 September 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+APPLICATIONS FOR NEW CLINICAL TRIAL APPLICATIONS ......................................................................... 4 
+3.1 Responses for new Clinical Trial Application ............................................................................................. 5 
+4. 
+APPLICATIONS FOR PROTOCOL AMENDMENTS DURING CONDUCT OF CLINICAL TRIALS ........................ 5 
+4.1 Responses to Protocol amendments recommendations .......................................................................... 6 
+5. 
+APPLICATIONS FOR ADDITIONAL INVESTIGATORS AND SITES DURING CONDUCT OF CLINICAL TRIALS .. 6 
+5.1 Responses to application of additional investigators and sites during conduct of clinical trials .............. 7 
+6. 
+APPLICATION FOR BIOEQUIVALENCE STUDIES .......................................................................................... 7 
+7. 
+NOTIFICATIONS AND NOTIFICATION STUDIES .......................................................................................... 8 
+8. 
+INDIVIDUAL SERIOUS ADVERSE EVENTS .................................................................................................... 8 
+9. 
+VALIDITY .................................................................................................................................................... 9 
+10. ADDENDA ................................................................................................................................................. 10 
+10.1 ADDENDUM 1: ACCOMPANYING DOCUMENTS ...................................................................................... 10 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-CT-01_v3 
+Page 3 of 11
+GUIDELINE FOR ELECTRONIC SUBMISSION OF CLINICAL TRIAL DOCUMENTS (AMENDMENTS, 
+BIOEQUIVALENCE STUDIES, RESPONSES, NOTIFICATIONS, AND SERIOUS ADVERSE EVENTS) 
+ 
+05 September 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+CTF1 
+Clinical trial application form 1-New applications 
+CTF2 
+Clinical trial application form 2 -Protocol amendments 
+CTF3 
+Clinical trial application form 3- Additional sites and investigators 
+CTU 
+Clinical trials Unit 
+IB 
+Investigator Brochure 
+PIL/ICON 
+Patient information leaflet/informed consent  
+PHE 
+Public Health Emergency 
+ 
+ 
+ 
+SAHPGL-CEM-CT-01_v3 
+Page 4 of 11
+GUIDELINE FOR ELECTRONIC SUBMISSION OF CLINICAL TRIAL DOCUMENTS (AMENDMENTS, 
+BIOEQUIVALENCE STUDIES, RESPONSES, NOTIFICATIONS, AND SERIOUS ADVERSE EVENTS) 
+ 
+05 September 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Electronic Communication regarding the conduct of clinical trials is the primary interface between SAHPRA and 
+applicants conducting clinical trials. SAHPRA therefore recognises the importance and value of timeous 
+evaluation of all communication linked to the conduct of a clinical trial and therefore strives to maintain an 
+effortless and easy submission process for any document to be reviewed. 
+1.1 
+Purpose 
+This guideline is intended to outline the process of electronic document submission for the various activities 
+linked to the Clinical trials unit. 
+1.2 
+Scope 
+This guideline applies to all applicants applying for the review of Clinical trials and any other related activity 
+requiring documents to be provided to the clinical trials unit for review and notification. A number of e-
+mail addresses have been registered to support this initiative.  Applicants are requested to use each specific 
+e-mail address exclusively for a specific type of communication. 
+2. 
+LEGAL PROVISION 
+This guideline is established in terms of Regulation 30 of the medicines and related substances act, 101 of 
+1965, conduct of clinical trials. 
+3. 
+APPLICATIONS FOR NEW CLINICAL TRIAL APPLICATIONS 
+This applies to ONLY new Clinical Trial Applications and is NOT applicable to Bioequivalence (BE) studies.  In 
+case of BE studies, refer to section 6.)  
+The applicant is to refer to the SAHPRA website on https://www.sahpra.org.za/guidelines/ for submission 
+due dates in order to submit a new clinical trial.  Applicants are requested to alert the CTU via e-mail of the 
+submission using the following e-mail address: ctcresponses@sahpra.org.za and to include the following 
+information:  
+i. 
+In the Subject title of the e-mail: Type of application, protocol number, SAHPRA predetermined cycle, 
+email number in case of multiple emails. 
+e.g. New clinical trial application alert_NER000_May 2022 cycle_ email 1 of 5 
+ii. 
+The following is important to note for all new clinical trial applications: 
+• 
+The submission email must include organised zipped folders for various sections of the (GLF-
+CEM-CT-01A and GLF-CEM-CT-01B, replaced the old Form CTF1) as per the CTF1 checklist. 
+The (GLF-CEM-CT-01A and GLF-CEM-CT-01B, replaced the old Form CTF1) are found at: 
+https://www.sahpra.org.za/clinical-trials-application-and-report-forms/ 
+ 
+• 
+Individual site documents for each staff member must be uploaded into 1 document and 
+labelled with the staff name and arranged in folders according to the site which they belong.  
+• 
+Incomplete documentation or sub-standard submissions will be rejected. 
+• 
+Applications submitted without Clinical Trial Insurance and Proof of payment will be 
+rejected. 
+ 
+ 
+SAHPGL-CEM-CT-01_v3 
+Page 5 of 11
+GUIDELINE FOR ELECTRONIC SUBMISSION OF CLINICAL TRIAL DOCUMENTS (AMENDMENTS, 
+BIOEQUIVALENCE STUDIES, RESPONSES, NOTIFICATIONS, AND SERIOUS ADVERSE EVENTS) 
+ 
+05 September 2022 
+ 
+ 
+3.1 Responses for new Clinical Trial Application  
+i. 
+Responses to the screening checklist and the review of recommendations letter from the Clinical 
+Trials Expert Committee of SAHPRA, must be sent to the following e-mail address:  
+ctcresponses@sahpra.org.za and include labelled attachments to the required documents. 
+ii. 
+Submit the responses to Clinical Trials Committee (CTC) recommendation in MSWord format and Pdf 
+formats. 
+iii. 
+Submit all other accompanying documents in Portable Document Format (PDF).  
+• 
+Files should be PDF v1.4, 1.5, 1.6 or 1.7 and should be legible with the Acrobat Reader search 
+plug in or any other freeware viewer. 
+• 
+PDF files should be saved as “Optimised” to reduce the size and allow faster opening when 
+viewed via an internet connection.  The use of additional software to navigate and work with 
+the files is not acceptable. 
+• 
+If PDF files are not produced from an electronic source document but from scanned paper, 
+readability and file size should be balanced; the following is recommended: resolution 300 
+dpi (photographs up to 600 dpi), avoid gray-scale or colour where possible, use only lossless 
+compression techniques. 
+• 
+The file must be searchable (OCR scanned). 
+iv. 
+The maximum size of documents allowed per e-mail is 5 MB. 
+v. 
+The subject title of the e-mail should include the following information: 
+Type of application, Protocol number, and SAHPRA database tracking number. 
+e.g. CTC Response_NER000_20220203 
+vi. 
+As per arrangement with CTU, in case of a big file of documents and documents need to be 
+couriered, the waybill should indicate the type of application, protocol number and SAHPRA 
+database tracking number. 
+e.g. CTC Response, NER000, 20150320 
+ 
+Public Health Emergency (PHE) Applications are expedited with the response provided within 10 
+working days. 
+4. 
+APPLICATIONS FOR PROTOCOL AMENDMENTS DURING CONDUCT OF CLINICAL 
+TRIALS 
+In the event of a request for an amendment to the approved Protocol,  the Protocol amendment and 
+accompanying documents must be emailed to : ctcamendments@sahpra.org.za and the application form 
+form for protocol amendments (GLF-CEM-CT-01C, replaced the old Form CTF2) is found on the SAHPRA 
+website at : https://www.sahpra.org.za/clinical-trials-application-and-report-forms/ 
+i. 
+Submit the cover letter, application form for protocol amendment (GLF-CEM-CT-01C, replaced the 
+old Form CTF2), amended protocol and/or investigators’ brochure (IB) and/or patient information 
+leaflet/informed consent (PIL/ICON) documents with track changes in MSWord format and other 
+documents according to the screening checklist. 
+ii. 
+Submit clean copies of the (GLF-CEM-CT-01C, replaced the old Form CTF2), investigators’ brochure 
+(IB) and/or patient information leaflet/informed consent (PIL/ICON) documents in Portable 
+Document Format (PDF), as well as all other accompanying documents, as described in section 3.1, 
+iii-iv. 
+iii. 
+The subject title of the e-mail should include the following information: 
+Type of application, Protocol number, and SAHPRA database tracking number. 
+e.g. Protocol amendment_NER000_20220203 
+iv. 
+As per arrangement with CTU, in case of a big file of documents and documents need to be 
+SAHPGL-CEM-CT-01_v3 
+Page 6 of 11
+GUIDELINE FOR ELECTRONIC SUBMISSION OF CLINICAL TRIAL DOCUMENTS (AMENDMENTS, 
+BIOEQUIVALENCE STUDIES, RESPONSES, NOTIFICATIONS, AND SERIOUS ADVERSE EVENTS) 
+ 
+05 September 2022 
+ 
+ 
+couriered, the waybill should indicate the type of application, protocol number and SAHPRA 
+database tracking number. 
+e.g. CTC Amendment_ NER000_ 20150320 
+Note: All queries related to protocol amendments, and related communications should also be sent 
+to this email address: ctcamendments@sahpra.org.za 
+ 
+Public Health Emergency (PHE) Applications are expedited with the response provided within 10 
+working days. 
+4.1 Responses to Protocol amendments recommendations 
+i. 
+For response to non-approval of protocol amendments, submit the following information: cover 
+letter (MS-word and PDF format) with outstanding documents and/or responses to 
+recommendations as outlined (MS-word and PDF format) 
+ii. 
+The subject title of the e-mail should include the following information: 
+Type of application, Protocol number, and SAHPRA database tracking number. 
+e.g. responses_Protocol amendment_NER000_20220203 
+iii. 
+As per arrangement with CTU, In case of a big file of documents and documents need to be 
+couriered, the waybill should indicate the type of application, protocol number and SAHPRA 
+database tracking number. 
+e.g.  Responses Protocol amendment_ NER000_ 20220203 
+Note: All responses to protocol amendments, related queries, and amendment notifications should 
+also be sent to this email address: ctcamendments@sahpra.org.za 
+ 
+5. 
+APPLICATIONS FOR ADDITIONAL INVESTIGATORS AND SITES DURING 
+CONDUCT OF CLINICAL TRIALS 
+Additional Investigators and Sites applications and accompanying documents must be emailed to the 
+following address: ctcinvestigators@sahpra.org.za. The Application Form (GLF-CEM-CT-01D, replaced the old 
+Form CTF3) is to be found on the SAHPRA website at : https://www.sahpra.org.za/clinical-trials-application-
+and-report-forms/ 
+i. 
+Submit the Cover Letter, Application Form (GLF-CEM-CT-01D, replaced the old Form CTF3) for 
+additional investigators and sites in MSWord format. 
+ii. 
+Submit all other accompanying documents in Portable Document Format (PDF) as described in 
+section section 3.1, iii-iv 
+iii. 
+Subject title should include the following information: Type of application, protocol number, and 
+SAHPRA database tracking number. 
+e.g. Additional site_NER000_20220203  
+e.g. Additional investigators_NER000_20220203 
+iv. 
+As per arrangement with CTU, in case of a big file of documents and documents need to be 
+couriered, the waybill should indicate the type of application, protocol number and SAHPRA 
+database tracking number. 
+ e.g. Additional site and Investigators, NER000, 20220203, OR  
+e.g. Additional Investigators, NER000, 20220203 
+ 
+ 
+SAHPGL-CEM-CT-01_v3 
+Page 7 of 11
+GUIDELINE FOR ELECTRONIC SUBMISSION OF CLINICAL TRIAL DOCUMENTS (AMENDMENTS, 
+BIOEQUIVALENCE STUDIES, RESPONSES, NOTIFICATIONS, AND SERIOUS ADVERSE EVENTS) 
+ 
+05 September 2022 
+ 
+ 
+5.1 Responses to application of additional investigators and sites during conduct of clinical 
+trials 
+i. 
+For response to non-approval of investigators and sites, submit the following information: cover 
+letter (MS-word and PDF format), outstanding documents  and/or responses which led to non-
+approval in PDF format. The PDF attachments must be well labeled in order to facilitate for a speedy 
+review. 
+ii. 
+The subject title of the e-mail should include the following information: 
+Type of application, Protocol number, and SAHPRA database tracking number. 
+e.g. responses_additional investigators and sites_NER000_20220203 
+Note: All responses to additional investigators and sites and related queries should also be sent to this 
+e-mail address:  ctcinvestigators@sahpra.org.za  
+ 
+6. 
+APPLICATION FOR BIOEQUIVALENCE STUDIES 
+Submit all Bioequivalence (BE) protocol applications, Bioequivalence Additional investigators and Sites, 
+Bioequivalence amendments, and accompanying documents to the following address: 
+ctcbeprotocols@sahpra.org.za . The Application Form (GLF-CEM-CT-01A, replaced the old Form CTF1) is to be 
+found on the SAHPRA website at : https://www.sahpra.org.za/clinical-trials-application-and-report-forms/ 
+ 
+i. 
+Submit the cover letter, Clinical Trial Forms (GLF-CEM-CT-01A and GLF-CEM-CT-01B, replaced the old 
+Form CTF1), protocol, IB, PIL/ICON in MSWord format. 
+ii. 
+Submit all other accompanying documents in Portable Document Format (PDF) as described in 
+section 3.1, iii-iv 
+iii. 
+As per arrangement with CTU, in case of a big file of documents and documents need to be 
+couriered, the waybill should indicate the type of application, protocol number and SAHPRA 
+database tracking number. 
+For new BE study: e.g. Bioequivalence study, NER000 
+For BE responses: e.g. BE responses, NER000, 20220203 
+For BE Amendments: e.g. BE Amendment, Amend3, V2, 31 April 2015, NER000, 20220203  
+For BE Investigators and sites: e.g BE Investigators/Sites, NER000, 20220203 
+iv. 
+Subject title of the e-mail should include the following information: 
+For new BE study: Type of application, and protocol number  
+e.g. Bioequivalence study, NER000 
+For BE responses: Type of application, protocol number, and SAHPRA database tracking number 
+e.g. Bioequivalence response_NER000_20220203 
+For BE amendment: Type of application, amendment number, version number, amendment date, 
+protocol number, and SAHPRA database tracking number,  
+e.g. BEAmendment_Amend3, V2, 31 April 2015_NER000_20220203  
+For BE Additional investigators and Sites: Type of application, protocol number, and SAHPRA 
+database tracking number 
+e.g. Bioequivalence response_NER000_20220203 
+Note: All responses to BE protocols, BE investigators and sites, BE notifications, BE amendments and 
+related queries should also be sent to this e-mail address:  ctcbeprotocols@sahpra.org.za  
+ 
+SAHPGL-CEM-CT-01_v3 
+Page 8 of 11
+GUIDELINE FOR ELECTRONIC SUBMISSION OF CLINICAL TRIAL DOCUMENTS (AMENDMENTS, 
+BIOEQUIVALENCE STUDIES, RESPONSES, NOTIFICATIONS, AND SERIOUS ADVERSE EVENTS) 
+ 
+05 September 2022 
+ 
+ 
+Public Health Emergency (PHE) Applications are expedited with the response provided within 10 
+working days. 
+7. 
+NOTIFICATIONS AND NOTIFICATION STUDIES 
+Submit all Notifications (excluding amendments- and BE-related notifications) to the following email address: 
+ctcnotifications@sahpra.org.za. The Two-Weekly Progress Report form (GLF-CEM-CT-01F) and Six-Monthly 
+Progress Report form (GLF-CEM-CT-01G) and Notification Studies for Phase IV form (GLF-CEM-CT-01E) are to 
+be found on the SAHPRA website at: https://www.sahpra.org.za/clinical-trials-application-and-report-forms/ 
+i. 
+Submit the cover letter, notification in MS-Word format or PDF, where applicable. 
+ii. 
+The email subject title should include the following information: Type of notification, protocol 
+number, and SAHPRA database tracking number (if available). 
+e.g. Six-Monthly Progress Report, NER000, 20220203 
+iii. 
+Notifications related to investigators and sites should also be sent to this email address. 
+ 
+Note: All responses and/or communication, and related queries should also be sent to this e-mail address: 
+ctcnotifications@sahpra.org.za. 
+8. INDIVIDUAL SERIOUS ADVERSE EVENTS 
+Submit all Serious Adverse Events (SAEs) to the following email address ctcsaes@sahpra.org.za 
+i. 
+Submit cover letter detailing the following information: Title of the study, SAHPRA reference 
+number, protocol number, name of site, patient study ID, cause of SAE, causality and SAE reporting 
+form or any information if applicable.   
+ii. 
+The email subject title should include the following information:  SAE, protocol number, and SAHPRA 
+database tracking number. 
+e.g. SAE_NER000_20220203 
+Note: This e-mail is applicable to individual SAEs only.  Line listing must be submitted with six-monthly 
+progress reports to the notification e-mail address.  
+NOTE FOR ALL APPLICATIONS: 
+• 
+Incomplete documents will not be accepted. 
+• 
+Failure to comply may delay processing of the application. 
+Important email addresses to use for communication: 
+E-mail address for new applications and responses to new Clinical Trial applications and related queries: 
+ctcresponses@sahpra.org.za 
+E-mail address for new Protocol amendments, responses to amendments and related queries: 
+ctcamendments@sahpra.org.za 
+E-mail address for Additional Investigators & Sites, responses to additional and related queries: 
+ctcinvestigators@sahpra.org.za 
+E-mail address for Bioequivalence studies, BE amendments, responses to BE studies and related queries: 
+ctcbeprotocols@sahpra.org.za 
+E-mail address for Notifications and related queries: ctcnotifications@sahpra.org.za 
+E-mail address for Individual Patient Serious Adverse Events and related queries: ctcsaes@sahpra.org.za 
+ 
+SAHPGL-CEM-CT-01_v3 
+Page 9 of 11
+GUIDELINE FOR ELECTRONIC SUBMISSION OF CLINICAL TRIAL DOCUMENTS (AMENDMENTS, 
+BIOEQUIVALENCE STUDIES, RESPONSES, NOTIFICATIONS, AND SERIOUS ADVERSE EVENTS) 
+ 
+05 September 2022 
+ 
+ 
+9. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Electronic Submission of Clinical Trials, document number 9.59. It will be reviewed on this timeframe or 
+as and when required. 
+ 
+SAHPGL-CEM-CT-01_v3 
+Page 10 of 11
+GUIDELINE FOR ELECTRONIC SUBMISSION OF CLINICAL TRIAL DOCUMENTS (AMENDMENTS, 
+BIOEQUIVALENCE STUDIES, RESPONSES, NOTIFICATIONS, AND SERIOUS ADVERSE EVENTS) 
+ 
+05 September 2022 
+ 
+ 
+10. ADDENDA 
+10.1 ADDENDUM 1: ACCOMPANYING DOCUMENTS 
+A 
+PROTOCOL AMENDMENTS  
+The accompanying documents for protocol amendments should include the following, but are not 
+limited to: 
+• 
+Cover letter  
+• 
+Application for protocol amendment form (GLF-CEM-CT-01C, replaced the old Form CTF2), in 
+MSWord 
+• 
+Proof of payment 
+• 
+Original protocol 
+• 
+Protocol with changes/amendments (with track changes) 
+• 
+Summary of changes  
+• 
+Any other documents which may be required by SAHPRA.  
+B 
+ADDITIONAL INVESTIGATORS AND SITES   
+The accompanying documents for additional investigators and sites should include the following, 
+but are not limited to: 
+Investigators and Sites  
+• 
+Cover letter  
+• 
+Application for additional investigator(s) or change of investigator(s) and application for 
+additional sites form (GLF-CEM-CT-01D, replaced the old Form CTF3) 
+• 
+Proof of payment 
+• 
+Valid Malpractice insurance certificate 
+• 
+Declaration(s)  
+• 
+Valid Good Clinical Practice (GCP) certificate 
+• 
+Proof of registration with statutory bodies 
+• 
+Valid Dispensing licences 
+• 
+Workload 
+• 
+Curriculum vitae in SAHPRA format 
+• 
+Details of emergency trolley and services for the site  
+• 
+Any other documents which may be required by SAHPRA. 
+Additional/Support staff  
+• 
+Curriculum vitae in SAHPRA format 
+• 
+Declaration(s)  
+• 
+Valid Good Clinical Practice (GCP) certificate 
+• 
+Proof of registration with statutory bodies 
+• 
+Any other documents which may be requested by SAHPRA. 
+C 
+BIOEQUIVALENCE STUDIES   
+The accompanying documents for bioequivalence studies will be the same as for application for 
+new clinical trial, documented in clinical trial forms (GLF-CEM-CT-01A and GLF-CEM-CT-01B, 
+replaced the old Form CTF1). 
+SAHPGL-CEM-CT-01_v3 
+Page 11 of 11
+GUIDELINE FOR ELECTRONIC SUBMISSION OF CLINICAL TRIAL DOCUMENTS (AMENDMENTS, 
+BIOEQUIVALENCE STUDIES, RESPONSES, NOTIFICATIONS, AND SERIOUS ADVERSE EVENTS) 
+ 
+05 September 2022 
+ 
+ 
+The accompanying documents for Bioequivalence amendments (GLF-CEM-CT-01C, replaced the 
+old Form CTF2) and additional investigators and sites (GLF-CEM-CT-01D, replaced the old Form 
+CTF3) will be the same as those in section A and B above. 
+D 
+NOTIFICATIONS AND NOTIFICATION STUDIES  
+The accompanying documents for notifications should include the following, but are not limited 
+to: 
+• 
+Phase IV study:  
+o Cover letter 
+o Completed form 
+o Protocol, in MS Word 
+o Patient Information Leaflet/Informed Consent Document (PIL/ICON)  
+o Copy of Ethics approval  
+o Professional Information (Package Insert) 
+o Proof of payment 
+o Any other documents which may be requested by SAHPRA 
+• 
+Other Notifications: This may include but not limited to: 
+o Cover letter  
+o Investigator’s Brochure 
+o Six-Monthly Progress Report 
+o Study Deviations 
+o Study Violations 
+o Study Closure 
+o Site closure  
+o Line Listing 
+o Additional or removal of site staff 
+o Any other notification  
+o Any other documents which may be requested by SAHPRA 
+E 
+SERIOUS ADVERSE EVENTS (SAEs) 
+The accompanying documents for SAEs should include the following, but are not limited to: 
+• 
+Cover letter.  
+o This should include title of the study, SAHPRA reference number, protocol number, 
+name of site, patient study ID, cause of SAE, causality  
+• 
+SAE reporting form or any information if applicable.   
+ 
+

@@ -1,0 +1,310 @@
+SAHPGL-RDN-XR-06_v1 
+Page 1 of 8
+ 
+ 
+ 
+15 August 2022 
+GUIDELINE FOR REDUCING RADIATION RISK FROM COMPUTER 
+TOMOGRAPHY FOR PEDIATRIC AND SMALL ADULT PATIENTS 
+This guideline is intended to serve as a resource for pediatric health care professionals and to improve understanding of 
+pediatric CT radiation and its potential risk in the development of cancer. The report also includes suggestions for an 
+informed discussion of this issue between those who provide and those who receive care. 
+ 
+The guideline was initially developed from the FDA Public Health Notification published 02 November 2001. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and implementation 
+October 2009 
+1 
+− 
+Content structured on the new SAHPRA Guideline Template 
+− 
+A unique document number SAHPGL-RDN-XR-06 allocated to this 
+Guideline 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-06_v1 
+Page 2 of 8
+Guideline for Reducing Radiation Risk from Computer Tomography for Pediatric and Small Adult Patients 
+15 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 5 
+3. 
+BACKGROUND ........................................................................................................................................... 5 
+4. 
+RECOMMENDATIONS ................................................................................................................................ 6 
+5. 
+REFERENCES ............................................................................................................................................... 7 
+6. 
+VALIDITY .................................................................................................................................................... 8 
+ 
+ 
+SAHPGL-RDN-XR-06_v1 
+Page 3 of 8
+Guideline for Reducing Radiation Risk from Computer Tomography for Pediatric and Small Adult Patients 
+15 August 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ACR 
+American College of Radiology 
+CT 
+Computed Tomography 
+IV 
+Intravenous 
+mA 
+milli-amperes 
+MRI 
+Magnetic Resonance Imaging 
+Axial Scanning 
+its where one or just a few slices are acquired during each gantry rotation 
+Biological Effects 
+Acute health effects arising from exposure to certain levels of radiation 
+Helical Scanning 
+the patient is moved through a rotating X-Ray beam and detector set 
+Ionizing Radiation  
+A type of high-energy radiation that has enough energy to remove an electron 
+(negative particle) from an atom or molecule, causing it to become ionized 
+Sonography 
+An imaging method that uses sound waves to produce images of structures 
+within your body also known as Diagnostic Ultrasound 
+ 
+ 
+ 
+SAHPGL-RDN-XR-06_v1 
+Page 4 of 8
+Guideline for Reducing Radiation Risk from Computer Tomography for Pediatric and Small Adult Patients 
+15 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Computed tomography (CT) is a valuable and essential addition to the array of imaging modalities for children. 
+CT uses X-Rays to provide rapid, consistent, and detailed information about virtually any organ system in 
+infants and children. Because X-Rays are an integral component for image formation with CT, there is an 
+obligatory radiation exposure during the CT examination. Ionizing radiation has been demonstrated to increase 
+the risk of cancer in individuals exposed to high doses of radiation. Moreover, recent reports have discussed 
+the potential risk of cancer that results from the lower radiation exposure from CT examinations. These 
+publications have raised concerns on the part of pediatricians, patients, and families. A review of this literature, 
+however, shows widely differing opinions concerning the cancer risk of diagnostic imaging studies. Although 
+many different statements on ionizing-radiation risk exist in the literature, one principle has been supported 
+consistently by the authors of articles to which this report refers: any estimated risk of a CT scan is far less than 
+the likely benefit to the patient for indicated examinations. 
+1.1 
+Purpose 
+The purpose is to summarize current opinions about the risks of cancer from exposure to radiation from 
+imaging studies and to provide pediatricians with information that will be helpful in discussions with 
+patients and families/caregivers regarding the radiation risks of CT examinations and the important clinical 
+advantages of these studies. 
+1.2 
+Scope 
+Measure we take to reduce radiation from CT scans include: 
+• 
+Customizing the scanning based on the size and weight of the patient or the body part being 
+scanned. 
+• 
+Eliminating unnecessary exams. 
+• 
+Investing in CT scanners with the latest hardware and software tools that minimize radiation 
+exposure. We utilize the General Electric Discovery CT750 HD, which provides up to a 50% 
+lower dose of radiation for our patients, along with high-definition image quality for any part 
+of the body. 
+• 
+Our Radiation Exposure Registry, currently in development, will provide benchmarks for 
+determining the optimal level of radiation for each CT exam. 
+• 
+In a Blue Cross Blue Shield quality improvement study of 40 hospitals and imaging practices, 
+SAHPGL-RDN-XR-06_v1 
+Page 5 of 8
+Guideline for Reducing Radiation Risk from Computer Tomography for Pediatric and Small Adult Patients 
+15 August 2022 
+ 
+ 
+called the Advanced Cardiovascular Imaging Consortium, our Cardiac Computed Tomography 
+team reduced our average CT radiation exposure by 43 percent. 
+• 
+Utilizing MRI or ultrasound, if either is considered an effective alternative. 
+ 
+2. 
+LEGAL PROVISION 
+This guideline is implemented in promulgated the Hazardous Substances Act 15, 1973 and the Regulations 
+R.1332. 
+3. 
+BACKGROUND 
+3.2 
+The individual risk from the radiation associated with a CT scan is quite small compared to the 
+benefits that accurate diagnosis and treatment can provide. Still, unnecessary radiation exposure 
+during medical procedures should be avoided. This is particularly important when the patient is a 
+child, since children exposed to radiation are at a relatively greater risk than adults. 
+3.3 
+The American College of Radiology has noted, "Because they have more rapidly dividing cells than 
+adults and have longer life expectancy, the odds that children will develop cancers from X-Ray 
+radiation may be significantly higher than adults". 
+3.4 
+It has been estimated by the National Research Council's Committee on the Biological Effects of 
+Ionizing Radiation that children less than 10 years of age are several times more sensitive to radiation 
+than middle-aged adults. 
+3.5 
+Unnecessary radiation maybe delivered when CT scanner parameters are not appropriately 
+adjusted for patient size. 
+3.6 
+When a CT scan is performed on a child or small adult with the same technique factors that are used 
+for a typically sized adult, the small patient receives a significantly larger effective dose than the full-
+sized patient. To compound the problem, the overexposure of children or small adults during CT 
+procedures can easily go unrecognized. In conventional X-Ray procedures, medical personnel can tell 
+if the patient has been overexposed because the resulting film is overexposed, producing a dark 
+image. 
+3.7 
+But with CT, there is no obvious evidence that the patient has been overexposed because the quality 
+of the image may not be compromised. Several recent articles stress that it is important to use the 
+lowest radiation dose necessary to provide an image from which an accurate diagnosis can be made, 
+SAHPGL-RDN-XR-06_v1 
+Page 6 of 8
+Guideline for Reducing Radiation Risk from Computer Tomography for Pediatric and Small Adult Patients 
+15 August 2022 
+ 
+ 
+and that significant dose reductions can be achieved without compromising clinical efficacy (see 
+references 2, 5, 6, 7, 8, 9, 10). 
+4. 
+RECOMMENDATIONS 
+Here are the steps we are recommending. They are not new. Indeed, many facilities are already taking 
+measures to protect children and other small patients from unnecessary exposure during CT procedures (see 
+references 11, 12, 13). 
+4.1 
+Optimize CT Settings. Based on patient weight or diameter and anatomic region of interest, evaluate 
+whether your CT operating conditions are optimally balanced between image quality and radiation 
+exposure. To reduce dose while maintaining diagnostic image quality: 
+• 
+Reduce tube current. With all other factors held constant, patient radiation dose is directly 
+proportional to X-Ray tube current. For example, a 50 percent reduction in tube current results 
+in a 50 percent decrease in radiation dose (see reference 9). 
+• 
+Develop and use a chart or table of tube-current settings based on patient weight or diameter 
+and anatomical region of interest. See reference 9 for an example of tube current settings 
+based on patient weight and anatomical region of interest (i.e., chest, pelvis or abdomen) for 
+a single-detector helical-scanning CT unit. The diameter of the patient may be a better 
+predictor of the tube-current required than body weight because patient diameter better 
+correlates with the X-Ray beam attenuation in the patient. The scanner manufacturer can help 
+in developing this chart or table. 
+• 
+Increase table increment (axial scanning) or pitch (helical scanning). If the pitch is increased, 
+the amount of radiation needed to cover the anatomical area of interest is decreased (see 
+references 2 14). One study showed that increasing the pitch from 1:1 to 1.5:1 decreased the 
+radiation dose by 33 percent without loss of diagnostic information (see reference 15). Consult 
+your facility's medical physicist, who can advise you on optimal tube-current and pitch settings 
+for diagnostic requirements. You can also contact the manufacturer of the CT scanner for 
+recommendations specific to your model. 
+• 
+Note that some newer CT scanners may automatically suggest or implement an increase in mA 
+if pitch is increased. For these models, increasing the pitch may not result in a lower radiation 
+dose.  Contact the CT scanner's manufacturer for recommendations on your model's automatic 
+current adjustment features. 
+SAHPGL-RDN-XR-06_v1 
+Page 7 of 8
+Guideline for Reducing Radiation Risk from Computer Tomography for Pediatric and Small Adult Patients 
+15 August 2022 
+ 
+ 
+4.2 
+Reduce the number of multiple scans with contrast material. Often, CT scans are done before, during, 
+and after injection of IV contrast material. When medically appropriate, multiple exposures may be 
+reduced by eliminating pre-contrast images (i.e., unchanged images) (see reference 9). 
+4.3 
+Eliminate inappropriate referrals for CT. In some cases, conventional radiography, sonography, or 
+magnetic resonance imaging (MRI) can be just as effective as CT, and with lower radiation exposure. 
+Most conventional X-Ray units deliver less ionizing radiation than CT systems, and sonography and 
+MRI systems deliver no X-Ray radiation at all. It is important to triage these examinations to eliminate 
+inappropriate referrals or to utilize procedures with less or no ionizing radiation (see reference 9). 
+5. 
+REFERENCES 
+The following related documents are referenced: 
+5.1 
+David J. Brenner et al., "Estimated Risks of Radiation-Induced Fatal Cancer from Pediatric CT." AJR 
+Vol. 176, pp. 289-296, Feb 2001. 
+5.2 
+"One Size Does Not Fit All: Reducing Risks from Pediatric CT." ACR Bulletin Vol. 57, Issue 2, pp.20-23, 
+Feb 2001. 
+5.3 
+National Research Council, Committee on the Biological Effects of Ionizing Radiations. 1990. Health 
+Effects of Exposure to Low Levels of Ionizing Radiation (BEIR V). Washington, D.C.; National Academy 
+Press. 
+5.4 
+Anne Paterson, Donald P. Frush, and Lane Donnelly, "Helical CT of the Body: Are Settings Adjusted 
+for Pediatric Patients?" AJR Vol. 176, pp. 297-301, Feb 2001. 
+5.5 
+Lee F. Rogers, "From the Editor's Notebook.   Taking Care of Children: Check Out the Parameters Used 
+for Helical CT." AJR Vol. 176, p. 287, Feb 2001. 
+5.6 
+Lee F. Rogers, "From the Editors Notebook. Radiation Exposure in CT: Why So High?" AJR Vol. 177, p. 
+277, Aug 2001. 
+5.7 
+James G. Ravenel et al., "Radiation Exposure and Image Quality in Chest CT Examinations." AJR Vol. 
+177, pp. 279-284, Aug 2001. 
+5.8 
+Edward L. Nickoloff and Philip O. Alderson, "Commentary. Radiation Exposures to Patients from CT: 
+Reality, Public Perceptions, and Policy."AJR Vol.177, pp. 285-287, Aug 2001. 
+5.9 
+Lane F. Donnelly et al., " Minimizing Radiation Dose for Pediatric Body Applications of Single-Detector 
+SAHPGL-RDN-XR-06_v1 
+Page 8 of 8
+Guideline for Reducing Radiation Risk from Computer Tomography for Pediatric and Small Adult Patients 
+15 August 2022 
+ 
+ 
+Helical CT: Strategies at a Large Children's Hospital." AJR Vol.176, pp. 303-306, Feb 2001. 
+5.10 John R. Haaga, "Commentary. Radiation Dose Management: Weighing Risk Versus Benefit." AJR Vol. 
+177, pp. 289-291, Aug 2001 and reference 1 cited therein. 
+5.11 A.E. Robinson, E.P. Hill, and M.D. Harpen, "Radiation Dose Reduction in Pediatric CT." Pediatr Radiol 
+Vol. 16, pp. 53-54, 1986. 
+5.12 I.R. Kamel, et al., "Radiation Dose Reduction in CT of the Pediatric Pelvis." Radiology Vol. 190, pp. 
+683-687, 1994. 
+5.13 P. Rogalla, et al., "Low-Dose Spiral CT: Applicability to Paediatric Chest Imaging." Pediatr Radiol Vol. 
+28, pp. 565-569, 1998. 
+5.14 ACR Standard for the Performance of Pediatric and Adult Thoracic Computed Tomography. 
+(American College of Radiology, 1995 Res. 1; Amended 1995 Res. 24, 53; Revised 1998 Res. 4; 
+Effective 1/1/99). 
+5.15 A. Vade et al., "Evaluation of Image Quality Using 1:1 Pitch and 1.5:1 Pitch Helical CT in Children: A 
+Comparative Study." Pediatr Radiol Vol. 26, pp. 891-893, 1996. 
+Getting more information: 
+If you have questions regarding this letter, please contact Marian Kroen, Office of Surveillance and Biometrics 
+(HFZ- 510), 1350 Piccard Drive, Rockville, Maryland, 20850, by fax at 301-594-2968, or by e-mail at 
+phann@cdrh.fda.gov. 
+All the FDA medical device post market safety notifications can be found on the World Wide Web at 
+http://www.fda.gov/cdrh/safety.html   
+6. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old Public 
+Health Notification: Reducing Radiation Risk from Computed Tomography for Pediatric and Small Adult 
+Patients, revised October 2009. It will be reviewed on this timeframe or as and when required. 
+ 
+

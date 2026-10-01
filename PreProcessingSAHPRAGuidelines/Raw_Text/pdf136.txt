@@ -1,0 +1,2644 @@
+SAHPGL-RDN-XR-14_v1 
+Page 1 of 38
+ 
+ 
+ 
+29 August 2022 
+GUIDELINE OF TEST PROCEDURES FOR FILM PROCESSING AND 
+INTENSIFYING SCREENS 
+This guideline provides details of all the procedures needed to be followed in order to perform the necessary 
+tests for film processing and intensifying screens. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+June 2010 
+1 
+− 
+Content structured on the new SAHPRA Guideline Template 
+− 
+A unique document number SAHPGL-RDN-XR-14 allocated to this 
+Guideline 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 2 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 5 
+1. 
+INTRODUCTION ......................................................................................................................................... 6 
+1.1 Purpose ...................................................................................................................................................... 6 
+1.2 Scope ......................................................................................................................................................... 6 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 6 
+3. 
+DARKROOM SAFELIGHT TEST (FOG TEST) ................................................................................................. 6 
+3.1 Purpose ...................................................................................................................................................... 6 
+3.2 Equipment Required .................................................................................................................................. 6 
+3.3 Procedure .................................................................................................................................................. 6 
+3.4 Image ......................................................................................................................................................... 7 
+3.5 Interpretation ............................................................................................................................................ 7 
+3.6 Corrective Action ....................................................................................................................................... 7 
+4. 
+HOW TO CALCULATE SENSITOMETRIC CONTROL PARAMETERS .............................................................. 7 
+4.1 Procedure .................................................................................................................................................. 8 
+4.2 Contrast Index ........................................................................................................................................... 8 
+4.3 Speed Index ............................................................................................................................................... 8 
+4.4 Base and Fog Level .................................................................................................................................... 8 
+5. 
+PROCEDURE FOR ESTABLISHMENT OF A SENSITOMETRIC PROCESSOR CONTROL PROGRAMME ........... 9 
+5.1 Purpose ...................................................................................................................................................... 9 
+5.2 Equipment Required .................................................................................................................................. 9 
+5.3 Preparation ................................................................................................................................................ 9 
+5.4 Procedure ................................................................................................................................................ 11 
+5.5 Corrective Action ..................................................................................................................................... 11 
+6. 
+PROCEDURE FOR DAILY SENSITOMETRIC CONTROL OF SPEED, CONTRAST AND BASIC FOG FOR 
+AUTOMATIC PROCESSOR ................................................................................................................................ 12 
+6.1 Purpose .................................................................................................................................................... 12 
+6.2 Requirements .......................................................................................................................................... 12 
+6.3 Conditions and Data to be Recorded....................................................................................................... 12 
+6.4 Control Indexes ........................................................................................................................................ 13 
+SAHPGL-RDN-XR-14_v1 
+Page 3 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+7. 
+CHANGING OF CONTROL EMULSIONS (FILM CROSSOVER PROCEDURES) .............................................. 15 
+7.1 Purpose .................................................................................................................................................... 15 
+7.2 Change Over from One Box to The Next (Same Batch/ Emulsion Number) ........................................... 16 
+7.3 Change Over from One Box to The Next (Different Batch/ Emulsion Number) ...................................... 16 
+8. 
+TEST FOR RESIDUAL THIOSULPHATE ....................................................................................................... 16 
+8.1 Purpose .................................................................................................................................................... 16 
+8.2 Requirements .......................................................................................................................................... 16 
+8.3 Method .................................................................................................................................................... 16 
+8.4 Interpretation .......................................................................................................................................... 16 
+9. 
+VISUAL INSPECTION, IDENTIFICATION AND CLEANING OF CASSETTES ................................................... 17 
+9.1 Purpose of Test ........................................................................................................................................ 17 
+9.2 Equipment Required ................................................................................................................................ 17 
+9.3 Method .................................................................................................................................................... 17 
+9.4 Assessment and Evaluation ..................................................................................................................... 17 
+10. ASSESSMENT OF THE LIGHT TIGHTNESS OF CASSETTES.......................................................................... 18 
+10.1 Purpose of Test ........................................................................................................................................ 18 
+10.2 Equipment Required ................................................................................................................................ 18 
+10.3 Method .................................................................................................................................................... 18 
+10.4 Assessment and Evaluation ..................................................................................................................... 18 
+11. VISUAL INSPECTION, IDENTIFICATION AND CLEANING OF INTENSIFYING SCREENS .............................. 18 
+11.1 Purpose of Test ........................................................................................................................................ 18 
+11.2 Equipment Required ................................................................................................................................ 18 
+11.3 Method .................................................................................................................................................... 18 
+11.4 Assessment and Evaluation ..................................................................................................................... 19 
+12. SATISFACTORY CONTACT BETWEEN X-RAY FILM AND INTENSIFYING SCREENS ..................................... 19 
+12.1 Purpose of Test ........................................................................................................................................ 19 
+12.2 Equipment Required ................................................................................................................................ 19 
+12.3 Method .................................................................................................................................................... 19 
+12.4 Assessment and Evaluation ..................................................................................................................... 20 
+13. ASSESSMENT OF THE RELATIVE SPEED OF INTENSIFYING SCREENS FOR REPLACEMENT ....................... 20 
+13.1 Purpose of Test ........................................................................................................................................ 20 
+13.2 Equipment Required ................................................................................................................................ 20 
+SAHPGL-RDN-XR-14_v1 
+Page 4 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+13.3 Method .................................................................................................................................................... 20 
+13.4 Assessment and Evaluation ..................................................................................................................... 20 
+14. ASSESSMENT OF THE RELATIVE SPEED OF INTENSIFYING SCREENS IN CURRENT USE ........................... 21 
+14.1 Purpose of Test ........................................................................................................................................ 21 
+14.2 Equipment Required ................................................................................................................................ 21 
+14.3 Method .................................................................................................................................................... 21 
+14.4 Assessment and Evaluation ..................................................................................................................... 22 
+15. ASSESSMENT OF THE RELATIVE SPEED OF INTENSIFYING SCREENS WHEN NEW  .................................. 22 
+15.1 Purpose of Test ........................................................................................................................................ 22 
+15.2 Equipment Required ................................................................................................................................ 22 
+15.3 Method .................................................................................................................................................... 22 
+15.4 Assessment and Evaluation ..................................................................................................................... 22 
+16. REFERENCES ............................................................................................................................................. 23 
+17. VALIDITY .................................................................................................................................................. 23 
+18. ANNEXURES (FORMS TO ADOPT) ............................................................................................................ 24 
+18.1 ANNEXURE A: Processing Maintenance Standards ................................................................................. 25 
+18.2 ANNEXURE B: Maintenance Standards Density Readings ....................................................................... 27 
+18.3 ANNEXURE C: Crossover Worksheet ....................................................................................................... 29 
+18.4 ANNEXURE D: Crossover Worksheet – Example ..................................................................................... 30 
+18.5 ANNEXURE E: Daily Processor Control Chart ........................................................................................... 32 
+18.6 ANNEXURE F: X-Ray Processing Control Chart Action Form ................................................................... 33 
+18.7 ANNEXURE G: Individual Cassette and Screen Record ............................................................................ 34 
+18.8 ANNEXURE H: Records of QC tests: Cassettes and Screens .................................................................... 35 
+18.9 ANNEXURE I: Record of QC Tests for Cassettes and Screens .................................................................. 36 
+18.10 ANNEXURE J: Repeat and Reject Analysis .......................................................................................... 37 
+18.11 ANNEXURE K: Screen Speed Evaluation Test Results ......................................................................... 38 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 5 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+FFD 
+Focus Film Distance 
+Base and Fog 
+refers to the density measured in part of the film, which was shielded from intentional 
+exposure when the test strip was made 
+Densitometer 
+A device that measures the degree of darkness of a photographic or exposed 
+film 
+Emulsion 
+The radiation sensitive coating of an x-ray film consisting of silver halide 
+Monochromatic 
+X-ray film that is compose of one color 
+Orthochromatic 
+Type of film sensitive to blue and green light hence can be processed with under 
+pure red filter 
+Sensitometer 
+Instrument used to measure the sensitivity of an x-ray image 
+Panchromatic 
+Type of film sensitive to any lights and therefore can only be processed in total 
+darkness 
+Unsharpness  
+The loss of spatial resolution in a radiographic film or image 
+Thiosulphate 
+Is a fixer chemical used to dissolve the unexposed silver halide of an x-ray film 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 6 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+1. 
+INTRODUCTION 
+Intensifying screens are used to shorten exposure times and, sometimes to increase the photographic contrast. 
+While without good contact between the film and screens of the cassette, detail will be lost on the radiograph. 
+Therefore, it is routinely necessary to perform a screen contact test on all your cassette. This guideline deals 
+with all the procedures needed to be followed in order to perform these necessary tests. 
+1.1 
+Purpose 
+The purpose of this guide is to ensure that all procedures are followed when it comes to performing 
+necessary test for film and intensifying screens. It also shows which necessary equipment are to be used 
+for these tests even the preparation of which. 
+1.2 
+Scope 
+The scope of this guideline is intended to give guide to how to run the tests from darkroom safelight test, 
+all the way to assessing point of all the tests. 
+2. 
+LEGAL PROVISION 
+The guideline is implemented in promulgating the Hazardous Substances Act 15, 1973 (Act15 of 1973). 
+Provisions regarding medical control and monitoring of radiation workers is stipulated in the Regulation No.R 
+1332 of 3 August 1973. 
+3. 
+DARKROOM SAFELIGHT TEST (FOG TEST) 
+3.1 
+Purpose 
+3.1.1 To ensure that the condition in the darkroom complies with the minimum conditions as prescribed 
+3.2 
+Equipment Required 
+− 
+Loaded cassette (18 x 24 cm) 
+− 
+Densitometer 
+− 
+Cardboard 
+− 
+Stopwatch / Timer 
+− 
+Tape measure 
+− 
+X-Ray unit 
+3.3 
+Procedure 
+3.3.1 Expose the loaded cassette to radiation to produce an optical density of ± 0.8 – 1.0. 
+SAHPGL-RDN-XR-14_v1 
+Page 7 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+• 
+± 40 kVp and 2 mAs at 100 cm FFD for a 400-speed system to sensitize the film emulsion. 
+3.3.2 In the darkroom, switch off all safelights. 
+3.3.3 Unload the film from the cassette and place it on the work bench or area to be assessed. 
+3.3.4 Cover one half of the film with the piece of cardboard. 
+3.3.5 Switch on the safelight(s), activate the stopwatch and wait for a period of two minutes. 
+3.3.6 Process the film. 
+3.4 
+Image 
+The film will display two areas of uniform densities, divided by a straight line (line represented by the edge 
+of the cardboard that had covered the one half of the film). 
+3.5 
+Interpretation 
+3.5.1 Zero and calibrate the densitometer. 
+3.5.2 Measure the densities on each half of the film (± 1cm from the dividing line). 
+3.5.3 The measured density difference may not exceed a maximum of 0.05. 
+3.6 
+Corrective Action 
+3.6.1 Verify the distance from the safelight(s) to the work bench or feeding tray(s). 
+• 
+Distance must be at least 120 cm. 
+3.6.2 Check the wattage of light bulbs in the safe lights (15 – 25 Watts). 
+3.6.3 Verify that the correct safelight filters are used for the film types in use. 
+• 
+U/V-Blue Film (Monochromatic): Amber Filter (mixture of red, orange and some yellow. 
+• 
+U/V-Blue-Green (Orthochromatic): Pure Red Filter. 
+• 
+Multiformat- or Laser camera Film (Red or amber sensitivity): Green Filter. 
+• 
+Panchromatic Film (Cine-Film): Total darkness. 
+3.6.4 Inspect the safelight filters for cracks or pinholes. 
+• 
+A process of elimination must be used to correct each of the above parameters and the test 
+must be 
+• 
+repeated until the requirements are met. 
+4. 
+HOW TO CALCULATE SENSITOMETRIC CONTROL PARAMETERS 
+SAHPGL-RDN-XR-14_v1 
+Page 8 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+4.1 
+Procedure 
+4.1.1 Expose a film on both sides using a sensitometer. (Only emulsion side for single emulsion film – two 
+exposures). 
+4.1.2 Process the sensitometric control strip. 
+4.1.3 Measure the densities using a densitometer. 
+4.2 
+Contrast Index 
+4.2.1 Select two steps within the useful density range (0.25 above base + fog & 2.0 above base + fog). 
+4.2.2 The steps should not be adjacent but should show an adequate density difference, e.g. 4 - 7 step 
+separation. 
+4.2.3 Measure and record the densities of the two steps and calculate the density difference between 
+these steps. 
+4.2.4 The same two steps should be monitored daily. 
+4.2.5 The contrast index is plotted daily on a graph 
+• 
+Acceptable variation: Density values of 0.15 above or below the speed index. 
+4.3 
+Speed Index 
+4.3.1 Measure the densities on the strip with a densitometer. 
+4.3.2 Select a step with a density of 1 above base + fog (towards the middle of the straight-line portion of 
+the characteristic curve) under normal circumstances. 
+4.3.3 Measure and record the density of this step. 
+4.3.4 This selected step will be the step that is measured daily to monitor the speed index. 
+4.3.5 Daily density readings of this step are plotted on a graph. 
+• 
+Acceptable variation: Density values of 0.15 above or below the speed index. 
+4.4 
+Base and Fog Level 
+4.4.1 The density is measured in the part of the film, which was shielded from intentional exposure when 
+the test strip was made (e.g. centre of the film or step 1). 
+4.4.2 Plot this value (fog index) on a graph. 
+Any change taken place will be towards an increase in fog level. A fog level above 0.3 is unacceptable. 
+If the fog level enters the useful density range there will be deterioration in contrast 
+SAHPGL-RDN-XR-14_v1 
+Page 9 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+Please note that once established, these index values should not change unless a deliberate change 
+or changes have been made to the processing standards, for example: 
+• 
+the introduction of a new film type; 
+• 
+the use of chemistry from a different supplier; 
+• 
+willful adjustment of the developer temperature; 
+• 
+willful adjustment of the developer and/or fixer replenishment rates, and 
+• 
+change in the processing cycle time. 
+5. 
+PROCEDURE FOR ESTABLISHMENT OF A SENSITOMETRIC PROCESSOR CONTROL 
+PROGRAMME 
+5.1 
+Purpose 
+To determine the standard operating levels for all processors in the department – i.e. STANDARD 
+PROCESSING CONDITIONS. These levels should be the same for all processors processing the same film 
+type. 
+5.2 
+Equipment Required 
+− 
+Sensitometer 
+− 
+Densitometer 
+− 
+Digital thermometer 
+− 
+Stopwatch 
+− 
+Control emulsion (film type most frequently used) 
+− 
+Processor and fresh chemicals 
+− 
+Control chart 
+5.3 
+Preparation 
+5.3.1 Darkroom 
+Darkroom must be checked for correct safelight conditions and white light leaks. 
+5.3.2 Processor 
+Perform all the actions of a processor service according to the manual of your processor and the 
+recommendations of the supplier of your chemicals, which should include the following: 
+5.3.2.1 Clean the processor rollers and replenishment tanks thoroughly. Flush out all lines, including 
+SAHPGL-RDN-XR-14_v1 
+Page 10 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+the tubing from the replenishment. 
+5.3.2.2 Replace the developer re-circulation filter. 
+5.3.2.3 Use a checklist to inspect all components of the processor. Inspect alignment and wear 
+points. 
+5.3.2.4 Correct any mechanical problems. Make note of and order new parts when indicated. Record 
+this information. 
+5.3.2.5 Lubricate all necessary points. 
+5.3.2.6 Carefully mix and install fresh chemicals in the following order: 
+a. Fixer and developer replenishment tanks. While operating the replenisher pumps 
+temporarily to assure that all fresh water is flushed out of the replenisher lines and to 
+assure that the replenisher pumps are functioning properly. 
+b. Flush processor fixer tank with fresh water 
+c. Fill fixer tank and replace rack. 
+d. Flush developer tank with fresh water. 
+e. Fill developer tank and replace rack. Make note of chemical brand, type, order code or 
+other identification and serial number. Also note amount of starter solution added to 
+the developer solution in the tank. Replace remaining racks. 
+5.3.2.7 Replace remaining racks. 
+5.3.2.8 Perform start-up procedure 
+5.3.2.9 Allow the processor to operate for 30 minutes. 
+5.3.2.10 Check and record: 
+a. Developer temperature 
+b. Fixer temperature 
+c. Wash water temperature. The chemistry temperatures should be within 0.5 0C of those 
+recommended 
+d. Replenishment rates 
+e. Film transport time 
+5.3.2.11 Process films and wait until approximately 50 (35 x 43 cm) films have been processed or the 
+developer is seasoned. 
+a. To season the developer, use “starter” solution obtainable from the chemical supplier 
+SAHPGL-RDN-XR-14_v1 
+Page 11 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+and add the required quantity to the developer solution in the developer processing 
+tank (amount in millilitre per developer tank volume of your processor) to season the 
+developer. 
+5.4 
+Procedure 
+5.4.1 Expose at least six sensitometric films with the sensitometer under the recommended safelight 
+conditions. Double emulsion film should be exposed on both sides of the film. Single emulsion film 
+should be exposed only on the emulsion side. 
+5.4.2 Wait at least 30 minutes but not longer than 4 hours before processing of the films. 
+5.4.3 Process the films - crosswise, same position on feed tray (this position should be standardised). 
+5.4.4 Zero and calibrate the densitometer. 
+5.4.5 Read the densities on the six strips. Be sure to read the densities in the centre of each strip, not near 
+the edges. Check the zero and calibration of the densitometer after reading each strip. 
+5.4.6 Determine the average of the densities of the six strips. 
+5.4.7 Select and mark the steps producing the densities nearest to 0.25; 1.0 and 2.0 above the base-plus-
+fog level. 
+5.4.8 Determine the appropriate values and record these values and indicate the control limits on the 
+control chart. 
+5.4.8.1 Three values should be recorded: 
+• 
+Contrast Index (± 0.15) 
+• 
+Speed Index (± 0.15) 
+• 
+Base and Fog (± 0.03) and less than 0.3 
+5.4.9 Record all operating levels on the processor maintenance standard form and the control chart 
+(graph). 
+5.4.10 Adjust each processor in the department that uses the same type of chemistry and film to produce 
+the same density for the same steps on the sensitometric control strip that have received the same 
+exposure. 
+5.5 
+Corrective Action 
+If you have difficulties with any of the above procedures, contact the technical service representative from 
+the firm that manufacturers your film and chemistry. 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 12 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+6. 
+PROCEDURE FOR DAILY SENSITOMETRIC CONTROL OF SPEED, CONTRAST AND 
+BASIC FOG FOR AUTOMATIC PROCESSOR 
+6.1 
+Purpose 
+Sensitometric control would indicate variations in the processing conditions before they are noticed on the 
+processed radiographs and the cause for the variation can thus be rectified before marked changes are 
+visible on the radiographs or before breakdown of the processing cycle occurs. 
+6.2 
+Requirements 
+− 
+Sensitometer 
+− 
+Densitometer 
+− 
+Digital thermometer 
+− 
+Control emulsion 
+6.3 
+Conditions and Data to be Recorded 
+6.3.1 The standardised processing conditions previously established must be adhered to. 
+6.3.2 The following data must be recorded on: 
+a. The sensitometric film 
+• 
+Date and time film was processed 
+• 
+Colour of sensitometric exposure 
+• 
+Processor being evaluated 
+• 
+Measured Speed Index, Contrast Index, Base and Fog level 
+b. The control chart 
+• 
+Speed Index, Contrast Index, Base and Fog. 
+o This information is charted in terms of deviation from established normal values.For 
+example, if the normal Speed Index density = 1.15 and the sensitometric reading 1.20 
+it would be charted as +0.05 from the normal value. 
+• 
+Processor Maintenance Standards 
+o Developer temperature 
+o Fixer temperature 
+o Wash water temperature 
+SAHPGL-RDN-XR-14_v1 
+Page 13 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+o Developer Replenishment rate 
+o Fixer Replenishment rate 
+o Dryer temperature 
+6.4 
+Control Indexes 
+6.4.1 Speed Index 
+• 
+Speed index refers to that density step chosen in the standardization procedure which has a 
+density of ± 1 above base + fog. 
+• 
+Acceptable variation is: 15 - 20 % i.e. 0.15 above or below the standardised speed index. 
+6.4.2 Contrast Index 
+• 
+Contrast index refers to the density differences between two steps, in the useful density range 
+(0.25 - 2.0 above base + fog), chosen in the standardization procedure. The steps should not be 
+adjacent but should show an adequate density difference (4 - 7 steps). 
+• 
+Acceptable variation is: 15 - 20 % i.e. 0.15 above or below the standardized contrast index. 
+6.4.3 Base And Fog 
+• 
+Base and fog refers to the density measured in part of the film, which was shielded from 
+intentional exposure when the test strip was made. 
+• 
+An expected change will be towards an increase in the fog level. 
+• 
+A fog level above 0.25 is suspect and a fog level of 0.30 is unacceptable. 
+6.4.4 Method 
+6.4.4.1 Follow the manufacturer’s start-up procedure every day. 
+6.4.4.2 Run several clean-up sheets and check them for roller marks and scratches (Use exposed 
+unprocessed film). 
+6.4.4.3 Allow sufficient time for the processor temperature to stabilize - ± ½ hour. 
+6.4.4.4 Check the following: 
+a. Solution temperatures 
+b. Replenishment rates 
+c. Water flow rates 
+d. Dryer temperature 
+6.4.4.5 Expose the control film(s) with the sensitometer under safelight conditions. Dual emulsion 
+SAHPGL-RDN-XR-14_v1 
+Page 14 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+film should be exposed on both emulsions. 
+6.4.4.6 Process the film (Feed film at the standardized position on the feed tray e.g. crosswise / 
+lengthwise and left / centre / middle). 
+6.4.5 Image 
+The processed film will show two series of stepped exposures. 
+6.4.6 Interpretation 
+6.4.6.1 Zero and calibrate the densitometer. 
+6.4.6.2 Read the density of the base-fog level. 
+6.4.6.3 Read the density levels of the two steps representing the contrast index on each strip. 
+6.4.6.4 Read the density level of the step representing the speed index on each strip. 
+6.4.6.5 Average the values for the two strips on the film. 
+6.4.6.6 Plot values on the control chart. 
+6.4.6.7 Analyse the control charts carefully. 
+a. Are all three points within the control limits? 
+b. Are there any apparent trends? 
+6.4.6.8 If any single point (or points) falls outside of the control limits, run two more strips and verify 
+that the first readings were correct. If points are still outside the limits, corrective action must 
+be taken before any patient films are processed. 
+6.4.6.9 Record relevant data on the control charts. 
+6.4.7 Corrective Action 
+6.4.7.1 Make the adjustments that you believe will bring the processor back into control. 
+a. If control limits are exceeded check the following: 
+i. 
+Developer temperature 
+ii. 
+Replenishment rates 
+iii. 
+Water flow rates 
+iv. 
+Water temperature (if appropriate) 
+v. 
+Re-circulation 
+vi. 
+Filters 
+SAHPGL-RDN-XR-14_v1 
+Page 15 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+vii. 
+Batch mix dates 
+viii. 
+Recent maintenance 
+ix. 
+Film fog 
+x. 
+Transport time 
+xi. 
+Control emulsion 
+b. If trends are noted in the control chart, check the following: 
+ 
+i. 
+Developer temperature 
+ii. 
+Replenishment rates 
+iii. 
+Change in mix, types and number of films processed 
+iv. 
+Proper mixing of replenisher 
+v. 
+Control emulsion age or fog 
+vi. 
+Leaks from overflow from the fixer tank getting into the developer tank 
+vii. 
+Gremlins 
+ 
+6.4.7.2 Make only one adjustment to the processor at a time. 
+6.4.7.3 After each change run another sensitometric strip. 
+6.4.7.4 Record the types of changes made and the resultant change in the three control parameters. 
+6.4.7.5 Special considerations (Miscellaneous) 
+• 
+A processor quality control programme can only be effective if the processors are 
+maintained in a clean, functional condition as intended by the manufacturer. 
+• 
+A sensitometric control strip should be processed after any maintenance or cleaning 
+operation. 
+• 
+All maintenance and cleaning should be recorded on a log that is maintained near the 
+processor, since this may provide vital clues to otherwise unexplainable shifts in 
+photographic processor quality. 
+7. 
+CHANGING OF CONTROL EMULSIONS (FILM CROSSOVER PROCEDURES) 
+7.1 
+Purpose 
+When one nears the end of the box of film that has been used for processor monitoring, crossover testing 
+SAHPGL-RDN-XR-14_v1 
+Page 16 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+should begin with the new box of film. 
+7.2 
+Change Over from One Box to The Next (Same Batch/ Emulsion Number) 
+With the processor within the predetermined limits, one piece of film from the old box and one piece of 
+film from the new box should be exposed sensitometrically and processed with the same orientation. Gross 
+fog, speed and contrast should be read on both films, and the correction factor for the new film should be 
+calculated to adjust the limits. 
+7.3 
+Change Over from One Box to The Next (Different Batch/ Emulsion Number) 
+When changing from one batch of film to the other, six control strips of the old and six strips of the new 
+emulsion should be processed. 
+The average values for the three basic parameters to be controlled should be determined and the 
+standardised values be changed accordingly on the control chart. 
+8. 
+TEST FOR RESIDUAL THIOSULPHATE 
+8.1 
+Purpose 
+To assess the efficiency of the washing process thus determining how effective residual soluble fixing salts 
+are removed from the film. Salts remaining on the film will deteriorate the image in time. 
+8.2 
+Requirements 
+Chemical Reagent Test-pack with comparator card Processed radiography 
+8.3 
+Method 
+8.3.1 Select a clear area on the film not carrying a developed density (clear film base). 
+8.3.2 Spot the reagent on the selected area by means of a dropper (one or two drops). 
+8.3.3 Leave for two minutes. 
+8.3.4 Blot the reagent off - a brownish stain will be left on the tested area. 
+8.3.5 Immediately compare the colour of the stain with the set of tints on the comparator chart in good, 
+ordinary room lighting. 
+NB The stain will darken when exposed to light, which is bright, especially if it is direct sunlight. A 
+long delay in assessing the depth of the colour will alter the result of the test. 
+8.4 
+Interpretation 
+8.4.1 The card bears a set of tints, which begins with a pale straw colour (corresponding to a low level of 
+residual thiosulphate) and ends with a light tan (corresponding to a higher level of residual 
+SAHPGL-RDN-XR-14_v1 
+Page 17 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+thiosulphate). 
+8.4.2 Information on the comparator chart relates the tones shown on it to amounts of thiosulphate and 
+the levels of acceptability for keeping radiographs for normal use and for archival storage. 
+8.4.3 A thiosulphate level of < 3 micro-g/ sq. cm. is recommended for archival permanence. 
+8.4.4 If the result of the test shows the washing to be inefficient, the fault may lie with one of the following: 
+a. water flow rate inadequate 
+b. water circulation pump malfunctioning 
+c. wash water too cold. 
+8.4.5 The level must be lower when the keeping-time is longer. 
+8.4.6 Radiographs kept as medical records in hospital fit into the group classified for ordinary use. 
+9. 
+VISUAL INSPECTION, IDENTIFICATION AND CLEANING OF CASSETTES 
+9.1 
+Purpose of Test 
+To ensure the cassettes are in good order, are clearly marked with the correct type & speed of intensifying 
+screens, and are identified by number to enable any cassette causing a film fault to be easily traced. 
+9.2 
+Equipment Required 
+• 
+Cassettes to be checked. 
+• 
+Intensifying screen identification labels (provided by manufacturer). 
+• 
+Inedible marker. 
+9.3 
+Method 
+9.3.1 Clean external surfaces of cassettes with damp swabs and soap or spirit-based swabs, taking 
+particular care to avoid spirit contact with intensifying screens. 
+9.3.2 Inspect cassette for damage, particularly the edges, hinge and catches. 
+9.3.3 Check that the type of intensifying screen is clearly marked. 
+9.3.4 Check that the cassette is marked with a number, which corresponds to the number on the 
+intensifying screen. 
+9.4 
+Assessment and Evaluation 
+If the cassette is damaged in a way that may allow light to enter the cassette it should be tested for light 
+tightness. Cassettes with damage to the hinge or catches should be sent for repair or discarded. Intensifying 
+SAHPGL-RDN-XR-14_v1 
+Page 18 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+screen identification labels should be replaced if not clear. All cassettes should be marked with indelible 
+marker with a number to correspond to the number on the intensifying screen. 
+10. ASSESSMENT OF THE LIGHT TIGHTNESS OF CASSETTES 
+10.1 Purpose of Test 
+To test for light leakage into cassettes causing film fogging. 
+10.2 Equipment Required 
+• 
+Cassette to be tested. 
+• 
+Light source, e.g. x-ray film illuminator. 
+10.3 Method 
+10.3.1 Load the cassette with a film 
+10.3.2 Place the cassette with suspect area of cassette uppermost, next to light source. 
+10.3.3 Leave for 15 - 30 minutes. 
+10.3.4 Process the film. 
+10.4 Assessment and Evaluation 
+Any light leakage will cause and area of density on the film. If this light fogging is likely to interfere with an 
+image when the cassette is in use, the cassette must be sent for repair or discarded 
+11. VISUAL INSPECTION, IDENTIFICATION AND CLEANING OF INTENSIFYING 
+SCREENS 
+11.1 Purpose of Test 
+To ensure that the intensifying screens are undamaged, are clearly identified, so that any artefact found on 
+a radiograph can be traced to the offending cassette, and marks are removed. 
+11.2 Equipment Required 
+• 
+Cassette to be checked. 
+• 
+Method of marking screens, e.g. Letraset, biro. 
+• 
+Cleaning fluid recommend by intensifying screen manufacturer. 
+11.3 Method 
+SAHPGL-RDN-XR-14_v1 
+Page 19 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+11.3.1 Open cassette and inspect intensifying screen in bring light, looking for marks on the screen surface 
+and any damage to the screen super coat. If the surface of the intensifying screen appears to be 
+damaged a test radiograph must be taken to assess the extent of any artefact. 
+11.3.2 Check that the intensifying screens are marked with a number which corresponds to the number 
+on the outside of the cassette. 
+11.3.3 Clean the intensifying screens using fluid recommended by manufacturer and following the 
+instructions carefully. 
+11.3.4 Leave cassette open to dry for 30 minutes 
+11.4 Assessment and Evaluation 
+All the intensifying screens in use should be free from any artefacts and clearly marked for identification 
+purposes. Discard any intensifying screens which cause artefacts. Any intensifying screens that are not 
+identified should be marked using either “Letraset” or a biro. Note that this mark will be permanent, 
+therefore great care must be taken in the marking process. This number should be positioned so as not to 
+impede on the image but be visible within an exposed area. A suggested place is close to the identification 
+window in the cassette. 
+12. SATISFACTORY CONTACT BETWEEN X-RAY FILM AND INTENSIFYING SCREENS 
+12.1 Purpose of Test 
+To assess any unsharpness in the image as a result of poor contact between the x-ray film and intensifying 
+screens. 
+12.2 Equipment Required 
+• 
+Cassette to be tests. 
+• 
+Test object - wire mesh, size 36x44 cm, i.e. large enough to cover all cassettes. Wire diameter 
+about 0.5 mm and mesh spacing about 6 times wire diameter x-ray generator and tube. 
+12.3 Method 
+12.3.1 Load the cassette to be tested with an x-ray film. 
+12.3.2 Place the test object on top of the cassette. 
+12.3.3 Position the x-ray tube so that the x-ray beam covers the cassette, with the FFD at least 1 m. A 
+distance of 1.5 m is preferable as this minimizes geometrical unsharpeness. 
+12.3.4 Expose the film. The exposure factors should be such that the kilovolt age does not penetrate the 
+wire mesh (approximately 50 kVp) and the density of the image should be between 1.0 and 2.0. 
+The correct density depends upon the closeness (gauge) of the mesh (see assessment). 
+SAHPGL-RDN-XR-14_v1 
+Page 20 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+12.3.5 Process the radiograph. 
+12.4 Assessment and Evaluation 
+Place the film on an x-ray film illuminator and view at normal viewing distance. The outline of the mesh 
+should be clearly seen with a sharp contrast between the densities of the wire and the unfiltered beam. 
+When a close mesh is used the background density needs to be darker (approximately 2.0) and any area of 
+unsharpness will be clearly seen as an area of increased density. Many of the test objects available have a 
+more open mesh and when these are used the density should be about 1.0. The area of unsharpness is then 
+more easily seen as poorly defined edges to the image of the mesh. Any cassettes in which poor film-
+intensifying screen contact is demonstrated in an area likely to affect the image should be replaced. 
+13. ASSESSMENT OF THE RELATIVE SPEED OF INTENSIFYING SCREENS FOR 
+REPLACEMENT 
+13.1 Purpose of Test 
+To assess any significant variation in intensifying screen speeds when new screens are being introduced 
+into the department. 
+13.2 Equipment Required 
+• 
+Cassettes with intensifying screens in present use 
+• 
+Step wedge or phantom of uniform thickness 
+• 
+Cassette with intensifying screens to be evaluated 
+• 
+Densitometer (optional) 
+13.3 Method 
+13.3.1 Load both cassettes with film from the same box. 
+13.3.2 Place cassettes side by side on the tabletop. 
+13.3.3 Place the step wedge or phantom so that it covers part of each cassette. 
+13.3.4 Centralize the x-ray beam over the cassettes and collimate to cover the step wedge/phantom. 
+13.3.5 Set exposure factors. 
+13.3.6 Make an exposure. 
+13.3.7 Process both films in the same processor simultaneously if possible. 
+13.4 Assessment and Evaluation 
+The radiographs should be viewed side by side on an illuminator (viewing box). The image densities should 
+SAHPGL-RDN-XR-14_v1 
+Page 21 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+not vary significantly when viewed with the naked eye. Densitometer readings should be within 10% of 
+each other Note that the attenuation of cassettes can vary from type to type. To obtain consistent results 
+all the cassettes in the department containing intensifying screens of the same speed should be of the same 
+type. Any variation in speed may be caused by a change of response in the intensifying screens in use. 
+Repeat the test against a different cassette to assess the consistency of speed loss. Discuss the results with 
+the manufacturer of the intensifying screens. 
+14. ASSESSMENT OF THE RELATIVE SPEED OF INTENSIFYING SCREENS IN CURRENT 
+USE 
+14.1 Purpose of Test 
+To identify a difference in speed in intensifying screens of the same type in current use in the department. 
+14.2 Equipment Required 
+• 
+Cassettes with intensifying screens to be tested 
+• 
+Phantom of uniform thickness (at least 30 x 30 cm in area) 
+• 
+Densitometer (optional) 
+14.3 Method 
+14.3.1 Load all the cassettes with film from the same box. 
+14.3.2 Place four cassettes corner to corner on the tabletop. 
+14.3.3 Place the phantom in the centre of the four cassettes so that it covers one corner of each cassette. 
+Figure 1 cassettes 
+Cassette 1 
+Cassette 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cassette 3 
+ 
+Cassette 4 
+ 
+14.3.4 Centralize the x-ray beam over the cassettes and collimate to cover the phantom. 
+14.3.5 Set exposure factors. 
+SAHPGL-RDN-XR-14_v1 
+Page 22 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+14.3.6 Make an exposure. 
+14.3.7 Repeat for all cassettes to be tested, keeping one of the cassettes unchanged throughout. 
+14.3.8 Process the films as soon as possible using the same processor. 
+14.4 Assessment and Evaluation 
+Providing the cassettes are all of the same type, the density produced on the radiograph should not vary 
+significantly. Densitometer readings should be within 10% of each other. Any significant variation should 
+be discussed with the manufacturer of the intensifying screens 
+15. ASSESSMENT OF THE RELATIVE SPEED OF INTENSIFYING SCREENS WHEN NEW 
+SCREENS ARE INTRODUCED 
+15.1 Purpose of Test 
+To assess any significant variation in intensifying screen speeds when new screens are being introduced 
+into the department. 
+15.2 Equipment Required 
+• 
+Cassettes with intensifying screens in present use 
+• 
+Step wedge or phantom of uniform thickness 
+• 
+Cassette with intensifying screens to be evaluated 
+• 
+Densitometer (optional) 
+15.3 Method 
+a. Load both cassettes with film from the same box. 
+b. Place cassettes side by side on the tabletop. 
+c. Place the step wedge or phantom so that it covers part of each cassette. 
+d. Centralize the x-ray beam over the cassettes and collimate to cover the step wedge/phantom. 
+e. Set exposure factors. 
+f. Make an exposure. 
+g. Process both films in the same processor simultaneously if possible. 
+15.4 Assessment and Evaluation 
+The radiographs should be viewed side by side on an illuminator (viewing box). The image densities should 
+SAHPGL-RDN-XR-14_v1 
+Page 23 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+not vary significantly when viewed with the naked eye. Densitometer readings should be within 10% of 
+each other. Note that the attenuation of cassettes can vary from type to type. To obtain consistent results 
+all the cassettes in the department containing intensifying screens of the same speed should be of the same 
+type. Any variation in speed may be caused by a change of response in the intensifying screens in use. 
+Repeat the test against a different cassette to assess the consistency of speed loss. Discuss the results with 
+the manufacturer of the intensifying screens. 
+16. REFERENCES 
+The following related documents are referenced: 
+16.1 South 
+Africa, 
+1973. 
+ 
+Hazardous 
+Substances 
+Act, 
+1973 
+(Act 
+of 
+15 
+of 
+1973). 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+16.2 South Africa, 1973.  Regulations Concerning the Control of Electronic Products.  Regulation Gazette 
+No 3991. https://www.sahpra.org.za/radiation-control-acts-and-regulations/ 
+16.3 Guideline 
+for 
+QC 
+in 
+medical 
+diagnostic 
+X-Ray 
+imaging 
+systems, 
+2022. 
+https://www.sahpra.org.za/radiation-control-guidelines-and-codes-of-practice/  
+16.4 SAHPGL-RDN-XR-02_v1 Guideline for Code of Practice for Users of Medical X-Rays Equipment, 2022. 
+https://www.sahpra.org.za/radiation-control-guidelines-and-codes-of-practice/  
+17.  VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Test Procedures for Film Processing and Intensifying Screens, revised June 2010. It will be reviewed on this 
+timeframe or as and when required.
+SAHPGL-RDN-XR-14_v1 
+Page 24 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+18.  ANNEXURES (FORMS TO ADOPT) 
+The following Forms are to be adopted: 
+− 
+Processing Maintenance Standards (see Annexure A, below) 
+− 
+Maintenance Standards Density Readings (see Annexure B, below) 
+− 
+Crossover Worksheet (see Annexure C, below) 
+− 
+Crossover Worksheet – Example (see Annexure D, below) 
+− 
+Daily Processor Control Chart (see Annexure E, below) 
+− 
+X-Ray Processing Control Chart Action Form (see Annexure F, below) 
+− 
+Individual Cassette and Screen Record (see Annexure G, below) 
+− 
+Records of QC tests: Cassettes and Screens (see Annexure H, below) 
+− 
+Record of QC Tests for Cassettes and Screens (see Annexure I, below) 
+− 
+Repeat and Reject Analysis (see Annexure J, below) and 
+− 
+Screen Speed Evaluation Test Results (see Annexure K, below) 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 25 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+18.1 ANNEXURE A: Processing Maintenance Standards 
+PROCESSOR / DARKROOM: 
+PERIOD: 
+CHEMICALS 
+Type 
+Supplier 
+Developer 
+Starter 
+Fixer 
+PROCESSOR 
+Vol. (L/ml) Cycle Time 
+(sec.) 
+Temp. (°C) 
+Repl. rate 
+(ml/area or 
+vol.) 
+Total Cycle Time 
+(sec.) 
+Verification Date 
+Verification Date 
+Verification Date 
+Verification Date 
+Developer 
+Starter 
+Fixer 
+Water 
+Dryer 
+SENSITOMETRIC CONTROL STANDARDS 
+QA CONTROL FILMS 
+Cross-over Date 
+SAHPGL-RDN-XR-14_v1 
+Page 26 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+Type 
+Batch no. 
+Expiry date 
+SENSITOMETRIC VALUES 
+Parameters 
+Base 
++fog 
+Speed 
+Index 
+Contrast 
+Index 
+Base 
++fog 
+Speed 
+Index 
+Contrast 
+Index 
+Base 
++fog 
+Speed 
+Index 
+Contrast 
+Index 
+Date 
+Step no. 
+Density Value 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 27 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+18.2 ANNEXURE B: Maintenance Standards Density Readings 
+ 
+Hospital/institution: 
+Date: 
+Processor: 
+Cycle time(s): 
+Temp.: 
+Chemicals: 
+Sensitometric Conditions: 
+ 
+ 
+e.g. Red Safelight; Green; X-Rite Dual Colour Model 334 
+ 
+Film Feeding Orientation: 
+ 
+ 
+ 
+ 
+e.g. Emulsion up; lengthwise (notches first); Left side of feed tray 
+Film Type(s): 
+Batch no.: 
+Expiry date: 
+Sensitometer s/n: 
+Densitometer s/n: 
+Film no. 
+1 
+Density Values: 
+Film 
+no. 
+4 
+Density Values: 
+B + F 
+= 
+ 
+Step 
+no. 
+Left 
+Right 
+Top Bottom 
+Average 
+B + F 
+= 
+ 
+Step no. 
+Left 
+Rig
+ht 
+Top 
+Bottom 
+Average 
+Nearest to 1 + 
+(B+F) 
+Nearest to 1 + (B+F) 
+Nearest to 0.5 
+Nearest to 0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+Nearest to 2.0 + 
+B+F 
+ 
+ 
+Nearest to 2.0 + B+F 
+ 
+ 
+ 
+ 
+ 
+ 
+Contrast Index 
+ 
+ 
+ 
+ 
+ 
+ 
+Contrast Index 
+ 
+ 
+ 
+ 
+ 
+ 
+Film no. Density Values: 
+ 
+ 
+ 
+ 
+Film 
+no. 
+Density Values: 
+2 
+B + F = 
+Step 
+no. 
+Left 
+Right 
+Top 
+Bottom 
+Average 
+5 
+B + F 
+= 
+ 
+Step 
+no. 
+Left 
+Right 
+Top 
+Bottom 
+Average 
+19 Nearest to 1 + 
+(B+F) 
+ 
+ 
+ 
+ 
+ 
+ 
+Nearest to 1 + (B+F) 
+ 
+ 
+ 
+ 
+ 
+ 
+20 Nearest to 0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+Nearest to 0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+21 Nearest to 2.0 + 
+B+F 
+ 
+ 
+ 
+ 
+ 
+ 
+Nearest to 2.0 + B+F 
+ 
+ 
+ 
+ 
+ 
+ 
+22 Contrast Index 
+ 
+ 
+ 
+ 
+ 
+Contrast Index 
+ 
+ 
+ 
+ 
+ 
+ 
+Film no. Density Values: 
+23  24 
+ 
+ 
+Film 
+no. 
+ 
+Density Values: 
+3 
+B + F = 
+ 
+Step no. 
+Left 
+Right 
+Top 
+Bottom 
+Average 
+6 
+B + F = 
+ 
+Step no. 
+Left 
+Right 
+Top 
+Bottom 
+Average 
+Nearest to 1 + 
+(B+F) 
+ 
+ 
+ 
+ 
+ 
+ 
+Nearest to 1 + (B+F) 
+ 
+ 
+ 
+ 
+ 
+ 
+Nearest to 0.5 
+ 
+ 
+ 
+ 
+ 
+Nearest to 0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+25 Nearest to 2.0 + 
+B+F 
+26  
+27  
+28  
+29  
+30  
+31  
+Nearest to 2.0 + B+F 
+ 
+ 
+ 
+ 
+ 
+ 
+Contrast Index 
+ 
+ 
+ 
+ 
+ 
+ 
+Contrast Index 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 28 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Density Values: 
+Average of 6 Films 
+Film no. 
+Step no. 
+1 
+2 
+3 
+4 
+5 
+6 
+Aver
+age 
+ 
+Index Value for Base Fog 
+Index Value for Speed 
+ 
+ 
+Index Value for Contrast 
+B+ F = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nearest to 1 + (B+F) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nearest to 0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nearest to 2.0 + B+F 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contrast Index 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 29 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+18.3 ANNEXURE C: Crossover Worksheet 
+Processor / Darkroom: …………………………………………………… 
+Date:……………………………………………………………………….. 
+ 
+Film type:………………………… Batch / Emulsion No. ……………………………………… Date of Expiry: ……………………………………………. 
+ 
+New Emulsion # 
+Old Emulsion # 
+ 
+ 
+ 
+Film # 
+Contrast Ind. 
+Low 
+density 
+(LD) 
+Step # ……. 
+Speed Ind. 
+Mid 
+Density 
+(MD) 
+Step # ……. 
+Contrast 
+Ind. High 
+density 
+(HD) 
+Step # …….. 
+Base + Fog 
+ 
+(B+F) 
+# …………. 
+ 
+ 
+ 
+Film # 
+Contrast Ind. 
+Low 
+density 
+(LD) 
+Step # ……. 
+Speed Ind. Mid 
+Density (MD) 
+Step # ……. 
+Contrast Ind. 
+High density 
+(HD) 
+Step # …….. 
+Base + Fog 
+ 
+(B+F) 
+# …………. 
+1 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+Average 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+Ave. Density Difference: DD = HD – LD = 
+Ave. Density Difference: DD = HD – LD = 
+ 
+MD difference between new and old film (New MD – Old MD) 
+ 
+DD difference between new and old film (New DD – Old DD) 
+ 
+B + F difference between new and old film (New – Old) 
+ 
+ 
+ 
+MD (Speed 
+Index) 
+DD (Contrast Index) 
+B + F 
+Old operating levels 
+ 
+ 
+ 
+Difference between new & old film 
+ 
+ 
+ 
+New operating levels 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 30 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+18.4 ANNEXURE D: Crossover Worksheet – Example 
+New Emulsion # 
+Old Emulsion # 
+Film # 
+Contrast Ind. Low 
+density (LD) 
+Step # 10 
+Speed Ind. Mid 
+Density (MD) 
+Step # 11 
+Contrast Ind. High 
+density (HD) 
+Step # 13 
+Base + Fog 
+(B+F) 
+# …………. 
+Film # 
+Contrast Ind. Low 
+density (LD) 
+Step # 10 
+Speed Ind. Mid 
+Density (MD) 
+Step # 11 
+Contrast Ind. High 
+density (HD) 
+Step # 13 
+Base + Fog 
+(B+F) 
+# …………. 
+1 
+0.49 
+1.25 
+2.39 
+0.18 
+1 
+.46 
+1.27 
+2.33 
+7 
+2 
+0.5 
+1.23 
+2.43 
+0.18 
+2 
+0.48 
+1.30 
+2.30 
+0.17 
+3 
+0.49 
+1.26 
+2.40 
+0.17 
+3 
+0.46 
+1.27 
+2.28 
+0.18 
+4 
+0.53 
+1.28 
+2.41 
+0.18 
+4 
+0.48 
+1.28 
+2.32 
+0.17 
+5 
+0.49 
+1.28 
+2.43 
+0.18 
+5 
+0.47 
+1.31 
+2.31 
+0.18 
+6 
+6 
+Average 
+0.53 
+1.26 
+2.41 
+0.18 
+1 
+1.29 
+2.31 
+0.17 
+Ave. Density Difference: DD = HD – LD = 1.91 
+Ave. Density Difference: DD = HD – LD = 1.84 
+ 
+ 
+ 
+ 
+ 
+ 
+MD difference between new and old film (New MD – Old MD) 
+- 0.03 
+SAHPGL-RDN-XR-14_v1 
+Page 31 of 38
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+DD difference between new and old film (New DD – Old DD) 
++ 0.07 
+B + F difference between new and old film (New – Old) 
++0.01 
+ 
+ 
+MD (Speed Index) 
+DD (Contrast Index) 
+B + F 
+Old operating levels 
+1.29 
+1.84 
+0.17 
+Difference between new & old film 
+- 0.03 
++ 0.07 
+- 0.01 
+New operating levels 
+1.26 
+1.91 
+0.18 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 32 of 38 
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+18.5 ANNEXURE E: Daily Processor Control Chart 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 33 of 38 
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+18.6 ANNEXURE F: X-Ray Processing Control Chart Action Form 
+ 
+DATE 
+ACTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 34 of 38 
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+18.7 ANNEXURE G: Individual Cassette and Screen Record 
+ 
+Cassette 
+Size 
+Cas. 
+No. 
+Make 
+Date 
+Purchased 
+Screen Type e.g. 
+AGFA Ortho Regular 
+Colour of 
+emission 
+Screen 
+speed 
+Date 
+Installed 
+Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 35 of 38 
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+18.8 ANNEXURE H: Records of QC tests: Cassettes and Screens 
+MONTHLY CLEANING AND VISUAL INSPECTION 
+Cassette size 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comment 
+Cassette no. 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pass/Fail 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pass/Fail 
+ 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pass/Fail 
+ 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pass/Fail 
+ 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pass/Fail 
+ 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pass/Fail 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pass/Fail 
+ 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 36 of 38 
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+18.9 ANNEXURE I: Record of QC Tests for Cassettes and Screens 
+ 
+TEST 
+Cassette & Screen 
+Identification 
+Film-screen contact 
+Cassette light leaks 
+Screen speed evaluation 
+Cassette 
+size 
+Cassette no. 
+Date 
+Pass/Fail 
+Date 
+Pass/Fail 
+Date 
+Pass/Fail 
+Date 
+Pass/Fail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 37 of 38 
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+18.10 ANNEXURE J: Repeat and Reject Analysis 
+ 
+SUMMARY OF REJECTED FILMS 
+MONTH: 
+Date 
+Exam
+. 
+type 
+Radiogr. 
+and/or Unit ID 
+Over- 
+exposure 
+Under- 
+exposure 
+Motion 
+Positio- 
+ning 
+Operator error 
+Darkroo
+m error 
+Qualiy 
+Contrl 
+Machie 
+mal - 
+functio
+n 
+Total no. 
+Rejects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total number of Reject Films 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total no. of films used: 
+% of rejects: 
+ 
+SAHPGL-RDN-XR-14_v1 
+Page 38 of 38 
+Guideline of Test Procedures for Film Processing and Intensifying Screens 
+29 August 2022 
+ 
+ 
+ 
+ 
+ 
+18.11 ANNEXURE K: Screen Speed Evaluation Test Results 
+ 
+Licence Holder: 
+Date: 
+X-Ray unit used 
+Exposure factors: ….....kV ……...…mAs .......................... FFD 
+Intensifying Screen type(s) & speed(s) in use: 
+Reference Cassette Screen1 type, speed & no.: 
+Cassette ID/no 
+Density: Test Cassette 
+Density: Ref. Cassette 
+Density Difference 
+% Difference from Ref. 
+cassette 
+Pass / Fail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 A new screen/cassette must be obtained from supplier for replacement tests to use as a reference 
+

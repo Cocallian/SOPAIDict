@@ -1,0 +1,785 @@
+SAHPGL-RDN-XR-25_v2 
+Page 1 of 21
+ 
+ 
+ 
+22 December 2023 
+GUIDELINES FOR USERS OF ELECTRONIC THERAPEUTIC DEVICES 
+EMITTING IONIZING RADIATION 
+This Guideline sets out requirements for radiation safety associated with the use of therapeutic devices emitting ionizing radiation. 
+The Hazardous substances Act, 1973 (Act 15 of 1973) and Regulations (No R1332 of 3 August 1973). 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[Month yyyy] 
+1 
+First issue 
+December 2023 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-25_v2 
+Page 2 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 5 
+1.1 
+Purpose ...................................................................................................................................................... 5 
+1.2 
+Scope .......................................................................................................................................................... 5 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 5 
+3. 
+LICENSING REQUIREMENTS ....................................................................................................................... 6 
+3.1 
+LICENSING OF THERAPEUTIC DEVICES ....................................................................................................... 6 
+3.1.1 Regulations ................................................................................................................................................. 6 
+3.1.2 License application process ........................................................................................................................ 7 
+3.1.3 Installations ................................................................................................................................................ 8 
+3.1.4 Radiotherapy equipment ........................................................................................................................... 8 
+3.1.5 Acceptance tests and commissioning ........................................................................................................ 9 
+3.1.6 Disposal or modification of therapy/ particle accelerator ......................................................................... 9 
+3.1.7 New/ modified premises (latest Form No. GLF-RDN-XR-25C, replacing old Form No. RC003-3) ............ 10 
+3.1.8 Appointing of a medical physicist ............................................................................................................ 10 
+3.1.9 Appointing of Responsible person ........................................................................................................... 10 
+3.1.10 Change of responsible and of medical physicist ...................................................................................... 11 
+3.2 
+RESPONSIBILITIES OF LICENSE HOLDERS / RESPONSIBLE PERSONS ........................................................ 11 
+3.2.1 The license holder of a radiation therapy facility is responsible for: ....................................................... 11 
+3.2.2 Who Can be a license holder? .................................................................................................................. 11 
+3.2.3 The license holder/ responsible person must ensure that: ..................................................................... 11 
+3.2.4 Employees Responsibilities ...................................................................................................................... 12 
+3.2.5 Keeping of Patient Records ...................................................................................................................... 12 
+3.2.6 Keeping of equipment records ................................................................................................................. 13 
+3.3 
+MINIMUM STAFFING LEVELS ................................................................................................................... 13 
+3.3.1 Radiation Oncologist (RO) ........................................................................................................................ 14 
+3.3.2 Medical Physicist (MP) ............................................................................................................................. 14 
+3.3.3 Radiation Therapy Therapist (RTT) ........................................................................................................... 14 
+3.3.4 Qualified personnel .................................................................................................................................. 14 
+3.4 
+PREMISES REQUIREMENTS ...................................................................................................................... 14 
+3.4.1 Bunker Design .......................................................................................................................................... 14 
+SAHPGL-RDN-XR-25_v2 
+Page 3 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+3.4.2 Radiation Warning Signs, Notices and Lights at entrances to X-ray rooms. ............................................ 14 
+3.5 
+RADIATION PROTECTION ......................................................................................................................... 15 
+3.5.1 Dose limits for radiation workers and public ........................................................................................... 15 
+3.5.2 Approved dosimeter services. .................................................................................................................. 16 
+3.5.3 Occupational Radiation overexposures using GLF-RDN-XR-10A (old Form No. RC010) .......................... 16 
+3.5.4 Reporting of Incidents/ Occurrences ....................................................................................................... 17 
+3.6 
+INSPECTIONS (PRE & ROUTINE) ............................................................................................................... 17 
+4. 
+REFERENCES ............................................................................................................................................. 17 
+5. 
+VALIDITY ................................................................................................................................................... 18 
+6. 
+ANNEXURES .............................................................................................................................................. 19 
+6.1 
+Annexure A: Condition 50 ........................................................................................................................ 19 
+6.2 
+Annexure B: SAMPS-Minimum Staffing levels MP ................................................................................... 21 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-25_v2 
+Page 4 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ALARA 
+As low as reasonably achievable 
+DOH 
+Department of Health 
+Gy 
+Gray 
+HPCSA 
+Health Professions Council of South Africa 
+HSA  
+Hazardous Substances Act, 1973 (Act 15 of 1973) 
+IER 
+Individual equipment record 
+LINAC 
+Linear Accelerator 
+mSv 
+millisieverts 
+NDR 
+National Dose Register 
+NNR 
+National Nuclear Regulator 
+NCRP 
+National Council on Radiation Protection and Measurements 
+QA 
+Quality assurance 
+QC 
+Quality control 
+PDD 
+Percentage depth dose 
+PRMD 
+Personal radiation monitoring devices 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SAMPS 
+South Africa Medical Physicist Society 
+SASQART 
+South African Standards for Quality Assurance in Radiotherapy 
+ 
+ 
+ 
+SAHPGL-RDN-XR-25_v2 
+Page 5 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+1. 
+INTRODUCTION 
+This Guideline sets out requirements and recommendations for radiation safety associated with the use of 
+Group III therapeutic devices emitting ionizing radiation. The Hazardous Substances Act 15, 1973 (HSA) and 
+Regulations (No R1332 of 3 August 1973) govern the safe use of radiation therapy equipment in South Africa. 
+Requirements of the Act and Regulations are incorporated in this Guideline.  
+Whenever compliance with a requirement in this Guideline is mandated, the word must/ shall be used. The 
+word should indicate a recommended but not mandatory practice at this stage. Where a given technology or 
+practice is not explicitly covered by this Guideline, guidance in matters of radiation protection should be sought 
+from the SAHPRA (South African Health Products Regulatory Authority) Radiation Control Unit. The Licensee 
+shall be responsible for ensuring that corrective action takes place on items of non-compliance with this 
+Guideline. The HSA does not allow any person to use radiation equipment unless he/she holds a license under 
+the HSA for that purpose. This Guideline must be read with the HSA and related regulations. All forms and 
+guidelines are available at: https://www.sahpra.org.za/radiation-control-guidelines-and-codes-of-practice/. 
+1.1 
+Purpose 
+The purpose of this guideline document is to provide guidelines to users of therapeutic and particle 
+accelerators to ensure the safe and effective use of equipment for intended purposes. 
+1.2 
+Scope 
+This guideline sets out requirements and recommendations for radiation safety associated with the use of 
+radiation therapy and particle accelerators equipment for license holders of group III hazardous substances 
+USE license.  
+2. 
+LEGAL PROVISION 
+The guideline is implemented in promulgating the Hazardous Substances Act 15, 1973 (Act15 of 1973) the 
+related Regulations R.1332. The holder shall be liable for the entire scope of radiation protection with regards 
+to a listed electronic product or premises for which he holds a license. Such liability shall relate to any aspect 
+that could reasonably be included under radiation protection, and, in addition to other relevant responsibilities 
+which the SAHPRA may specify in the license, shall include: 
+i. 
+Effective protection organization and continual conscientious regard for optimum working methods 
+regarding routine operations. 
+SAHPGL-RDN-XR-25_v2 
+Page 6 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+ii. 
+Technical reliability, maintenance and overall technical excellence of equipment, buildings, and 
+infrastructure. 
+iii. 
+The display of appropriate radiation warning signs or notices that are easily intelligible to all persons, 
+at the entrances or at appropriate places in, where persons may enter and may be exposed to ionizing 
+radiation. 
+iv. 
+Ensuring that radiation workers and members of the public are subjected to minimal risks from 
+radiation exposure, and that the maximum permissible doses and dose limits are not exceeded (refer 
+to Section III.3. b. South African Hazardous Substances Act, 1973 (Act No. 15 Of 1973) and Regulations 
+Relating to Group IV Hazardous Substances No. R. 1332, 1973). 
+3. 
+LICENSING REQUIREMENTS  
+3.1 
+LICENSING OF THERAPEUTIC DEVICES  
+3.1.1 Regulations 
+The regulations concerning the Control of listed Electronic Products (R 1332) require that a joint product 
+and premises license be obtained for radiation-emitting devices before it may be delivered, installed, 
+accepted, and commissioned. 
+i. 
+License issued in terms of Section IV (1) of the HSA shall apply only to the holder to whom the 
+license was issued. 
+ii. 
+Any license issued may be suspended or withdrawn by SAHPRA if:  
+o the holder or any of the licence holder radiation workers is found guilty of an offence in 
+terms of these Regulations. 
+o the holder considers it in a case of emergency to be in the public interest. 
+iii. 
+Any license issued in terms of Regulation II.2 shall remain in effect until request for 
+cancellation, or temporary or permanent transfer thereof is approved by SAHPRA. If a license 
+has been cancelled the holder shall return it to the SAHPRA within 30 days following the date 
+of such cancellation. 
+iv. 
+In addition to other relevant provisions, a license granted pursuant to Regulation II.2 shall 
+clearly entitle the' holder to use a listed electronic product or licensed premises for a specified 
+SAHPGL-RDN-XR-25_v2 
+Page 7 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+purpose (see the HSA and related regulation R1332). 
+3.1.2 License application process  
+It is the responsibility of the prospective user of a therapeutic unit generating ionizing radiation to be in 
+possession of a license from SAHPRA: Radiation Control prior to installation of the unit. 
+I. 
+New units (should use a latest Form No. GLF-RDN-XR-25D replacing old Form No. RC011 
+and a latest  
+o The latest Form No. GLF-RDN-XR-25D (old Form No. RC011) application form is completed by 
+the supplier and the end user of a new therapy unit completes the latest Form No. GLF-RDN-
+XR-25A (old Form No. RC003-1).  
+o The prospective user or supplier must request the latest Form No. GLF-RDN-XR-25D (old Form 
+No. RC011 form from SAHPRA or can download the form from the SAHPRA website 
+(https://www.sahpra.org.za/radiation-control-application-and-report-forms/). 
+II. 
+Form No. GLF-RDN-XR-25A (replacing old Form No. RC003-1) 
+o For new units, section 12.1 of the latest Form No. GLF-RDN-XR-25A (old Form No. RC003-
+1) must be completed in full. 
+o The section applicable to the user must be completed and the form returned to the 
+supplier. The supplier or user is responsible for submitting the completed form to Radiation 
+Control for processing. 
+III. 
+Pre-owned unit’s new forms (use the latest Form No. GLF-RDN-XR-25A replacing old Form 
+No.  RC 003-1 and a latest Form No. GLF-RDN-XR-25C replacing old Form No. RC003-3) 
+o For new units, Section 12.2 of the latest Form No. GLF-RDN-XR-25A (old Form No. RC 003-
+1) must be completed.  
+o The latest Form No. GLF-RDN-XR-25A (old Form No. Form R C003-1) and the latest Form 
+No. GLF-RDN-XR-25C (old Form No. RC 003-3) must be completed for a pre-owned therapy 
+unit. 
+o It is the prospective user's responsibility to submit the completed application form (latest 
+Form No. GLF-RDN-XR-25A (old Form No. RC 003-1) to Radiation Control. 
+SAHPGL-RDN-XR-25_v2 
+Page 8 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+o A completed and signed a latest Form No. GLF-RDN-XR-25C (old Form No. RC 003-3) from 
+the previous owner must be submitted together with this latest Form No. GLF-RDN-XR-25A 
+(old Form No. RC 003-1).  
+o Allow 30 working days (about six weeks) for processing applications. 
+3.1.3 Installations 
+The installation of a therapy unit may only commence after a license to “keep install” has been issued by 
+SAHPRA as per condition 72. Newly constructed bunkers may be subjected to inspection prior to installation 
+(see Section 11 of the latest Form No. GLF-RDN-XR-25A (old Form No. RC003-1)). 
+Application should be accompanied by a diagram or plan: 
+a. 
+The normal location of the waveguide; the direction and extent of gantry movement; general 
+direction(s) of the useful beam; locations of windows and doors; and the control panel's 
+location. 
+b. 
+The structural composition and thickness or lead equivalent of all walls, doors, partitions, floor, 
+and ceiling of the room(s) concerned. 
+c. 
+The dimensions of the room(s) concerned. 
+d. 
+The type of occupancy of all adjacent areas inclusive of space above and below the room(s) 
+concerned.  If there is an exterior wall, show distance to the closest area(s) where it is likely 
+that individuals may be present. 
+e. 
+Design dose levels for control and uncontrolled areas (see NCRP Report No. 151). 
+3.1.4 Radiotherapy equipment 
+In the provision of radiotherapy equipment, the Responsible Person is obliged to meet: 
+o 
+The registration/ licensing criteria of the relevant regulatory authority. 
+o 
+The Responsible Person should also ensure regular review of the equipment for safety and 
+performance. 
+SAHPGL-RDN-XR-25_v2 
+Page 9 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+3.1.5 Acceptance tests and commissioning  
+Acceptance tests and commissioning must be performed prior to first clinic use of new and pre-owned 
+equipment or post major upgrade/ service repair. 
+I. 
+New Units 
+When a new unit is installed, acceptance tests must be performed by the manufacturer of the 
+therapy or particle unit in the presence of the purchaser’s appointed medical physicist. The 
+results must be recorded on the prescribed document, signed off by license holder or by 
+medical physicists on behalf of and filed in the IER of the unit. 
+II. 
+Pre-owned units 
+The prospective user must ensure that acceptance tests are performed by a qualified medical 
+physicist. Granting a license to use a unit is subject to submission of the acceptance tests 
+results to SAHPRA: Radiation Control. When an existing licensed unit is moved to a new 
+premises (building) or room, prior to use, acceptance tests must be performed on the unit and 
+the results submitted to SAHPRA: Radiation Control. 
+NOTE: Units that have not been previously licensed by the SAHPRA: Radiation Control will not 
+be licensed for use. 
+III. 
+Commissioning  
+Commission of the linear accelerator is performed by a qualified medical physicist who must 
+include comprehensive measurements of dosimetric parameters that are required by the 
+treatment planning systems (TPS). The south African standards of quality assurance in 
+radiotherapy (SASQART) prescribes frequencies of quality control tests to be performed in 
+radiotherapy equipment. Medical physicists must ensure during commissioning that all tests 
+comply with the requirements stated in SASQART guidelines.  
+3.1.6 Disposal or modification of therapy/ particle accelerator 
+i. 
+The license holder must apply for and obtain permission from Radiation Control by submitting 
+a completed form (latest Form No. GLF-RDN-XR-25C (old Form No. RC 003-3) prior to 
+cancellation, modification, disposal and/ or sale of therapeutic equipment. 
+ii. 
+Regarding the type of disposal, e.g., sale, dismantling, disappearance, or storage of a unit, it 
+SAHPGL-RDN-XR-25_v2 
+Page 10 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+must be furnished to SAHPRA: Radiation Control before the cancellation of the license will be 
+affected. 
+iii. 
+A disposal/ dismantling certification issued by a competent body must be obtained and 
+forwarded to the regulator. 
+3.1.7 New/ modified premises (latest Form No. GLF-RDN-XR-25C, replacing old Form No. 
+RC003-3) 
+The license holder must apply for and obtain permission prior to: 
+i. 
+Modification of any licensed premises or layout of equipment on such premises, and/ or 
+change of licensed premises (building) or equipment moved to other rooms within the same 
+building. 
+3.1.8 Appointing of a medical physicist  
+i. 
+A Medical Physicist must be appointed in writing by the License holder in pursuant of 
+regulation R1332 section III.6.h and to establish and implement an optimization program for 
+all radiation activities. 
+ii. 
+An acting Medical Physicist must also be appointed in writing by the License holder and 
+assumes the same responsibility when primary medical physicist is absent. 
+3.1.9 Appointing of Responsible person 
+The license holder must appoint a responsible person in pursuant of regulation R1332 section III.3.d. with 
+adequate knowledge and experience in radiation protection. The appointed person is responsible to the 
+license holder for the safe use of the therapeutic equipment (see also Section 3.2). 
+The person appointed must be qualified in either of the following categories and registered with the Health 
+Professions Council of South Africa (HPCSA): 
+• 
+Medical Physics, or 
+• 
+Radiation Oncologist 
+The person responsible must be appointed in writing indicating the scope of the actions delegated by the 
+license holder. 
+SAHPGL-RDN-XR-25_v2 
+Page 11 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+3.1.10 Change of responsible and of medical physicist 
+The license holder must notify Radiation Control of a change in responsible person by submitting a 
+completed form (latest Form No. GLF-RDN-XR-25B, replacing old Form No. RC003-2). 
+3.2 
+RESPONSIBILITIES OF LICENSE HOLDERS / RESPONSIBLE PERSONS 
+3.2.1 The license holder of a radiation therapy facility is responsible for: 
+i. 
+The entire scope of radiation safety, for the equipment and premises for which he/ she holds 
+a license. 
+ii. 
+Fulfilment of all related statutory requirements, and 
+iii. 
+Compliance with the Act, Regulations and Conditions (condition 50, see Annexure A below) 
+specified in the license. 
+3.2.2 Who Can be a license holder? 
+i. 
+Executive manager of a private health Institution/ hospital with a Radiotherapy service 
+ii. 
+Executive manager of s government health institution/ hospital with Radiotherapy 
+service 
+3.2.3 The license holder/ responsible person must ensure that: 
+i. 
+The equipment and the facilities in which such equipment is installed and used meet all 
+applicable radiation safety standards. 
+ii. 
+The equipment is maintained and functions properly. 
+iii. 
+The equipment is used and maintained only by competent and appropriately trained people/ 
+personnel. 
+iv. 
+Applicable Quality Control (QC) tests are performed at the prescribed frequencies as stipulated 
+in “SASQART and other International” documents. 
+v. 
+The required QC equipment is provided. 
+vi. 
+Ensure that radiation surveys to monitor safe performance of equipment and to monitor 
+radiation levels in work areas are undertaken. 
+vii. 
+All workers are appropriately qualified and registered with the HPCSA.  
+SAHPGL-RDN-XR-25_v2 
+Page 12 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+viii. 
+Radiation workers (occupationally exposed persons) are identified and issued with personal 
+radiation monitoring devices (PRMD’s); 
+ix. 
+The appropriate protective clothing, devices and equipment is provided to personnel and 
+effectively used. 
+x. 
+Radiation safety rules are communicated to and followed by all personnel. 
+xi. 
+Operational procedures are established and maintained to ensure that the radiation exposure 
+to workers, patients and public is kept as low as reasonably achievable (ALARA) without 
+compromising the therapy efficiency of the result, and 
+xii. 
+Workers are educated in the hazards and risks of ionizing radiation. 
+3.2.4 Employees Responsibilities 
+i. 
+Employees should know and understand the regulations or standards set under act 15 of 1973 
+and your employer’s operating and emergency procedures which apply to the employees' 
+work. 
+ii. 
+Employees should comply with these requirements for their own safety and the safety of 
+others. 
+iii. 
+Report promptly to their employer any condition which may lead to or cause a violation of 
+these standards or employer’s operating and emergency procedures. 
+3.2.5 Keeping of Patient Records 
+Records must be kept and available for inspection purposes by SAHPRA. 
+A record/ register must be kept of all patients undergoing radiotherapy treatments. The record/ register 
+must be preserved for preserved for 5 years beyond the patient’s lifetime and contain the following 
+information: 
+• 
+surname, name, date of birth or ID number/ age and gender, Identification photo. 
+• 
+date of treatment. 
+• 
+Treatment plan with following information: Number of radiation fields, Field sizes, maximum 
+tumour dose (if applicable), minimum tumour dose (if applicable), and maximum tissue dose. 
+SAHPGL-RDN-XR-25_v2 
+Page 13 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+• 
+Brief clinical indication of the examination. 
+• 
+Treatment technique. 
+• 
+Number of fractions and dose prescribed. 
+• 
+Quality of radiation 
+• 
+Radiation output of product (refer to the South African Hazardous Substances Act, 1973 (Act No. 
+15 of 1973) and Regulations Relating to Group IV Hazardous Substances No. R. 1332, 1973). 
+NOTE: For details on keeping patients records kindly refer to HPCSA Booklet 9 “Guidelines on the 
+keeping of patient records.” 
+3.2.6 Keeping of equipment records 
+Individual equipment records (IER) must be kept and contain all required information for a period of Five 
+(5) years.  
+Such record may include: 
+• 
+Preventative maintenance and service records 
+• 
+Daily/Monthly /annual quality control tests 
+• 
+Minor and major upgrade  
+• 
+Calibration records after on regular basis or after repairs  
+• 
+Isodose curves or percentage depth dose tables (PDD) and output factors 
+3.3 
+MINIMUM STAFFING LEVELS 
+Radiotherapy requires the involvement of a multidisciplinary team of professionals to execute the intent of 
+the treatment. These professionals must include Radiation oncology, medical physicist, and radiation 
+therapist. The International Atomic Energy Agency (IAEA) recommends an activity-based approach in 
+ensuring radiotherapy practice has adequate staff (see Report No. 13, 2015). Radiotherapy departments 
+should perform the calculation of staffing levels based on their activity to estimate the adequate required 
+staffing levels. 
+The license holder must always ensure that there is enough of the following personnel: 
+SAHPGL-RDN-XR-25_v2 
+Page 14 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+3.3.1 Radiation Oncologist (RO) 
+The Health Professions Council of South Africa (HPCSA) stipulates the training requirements, and candidates 
+complete the relevant 4-year curriculum of the College of Radiation Oncologists of SA. Candidates undergo 
+training in a HPCSA-accredited training unit in a teaching hospital.  
+3.3.2 Medical Physicist (MP) 
+A person who is registered as such by the Health Professional Council of South African (HPCSA) and whose 
+certificate of registration as a medical physicist with the Council has been endorsed to the effect that he is 
+competent to practice as a radiation medical physicist. The scope of a medical physicist is published as 
+regulation No. R. 310 of 26 February 1988 in terms of section 33(1) of the medical, Dental and 
+Supplementary Health Service Profession Act, 1974 (Act 56 of 1974). Sufficient number of medical physicists 
+must be retained as specified in the latest document of South African Medical Physicist (SAMPS), see 
+Annexure B below. 
+3.3.3 Radiation Therapy Therapist (RTT) 
+The person administering accurate radiation treatment to a patient for radiotherapy treatment, care of 
+patients, and is the person who fulfils the role of operator. This will usually be a qualified Radiation 
+Therapist as published under Government Notice No. R. 2326 in Government Gazette 5349 of 3 December 
+1976 is hereby repealed. (Act No. 56 of 1974). 
+3.3.4 Qualified personnel 
+The license holder should ensure that all tasks directly related to the servicing and maintenance of 
+radiotherapy equipment, and the planning and delivery of radiotherapy, should be performed by 
+appropriately qualified and trained personnel. (Regulation that supports?). 
+3.4 
+PREMISES REQUIREMENTS 
+3.4.1 Bunker Design 
+The shielding of an external beam radiation therapy facility shall be designed according to the 
+recommendations of United States (US) National Council on Radiation Protection and Measurements 
+(NCRP, Report No. 151 of 2005). 
+3.4.2 Radiation Warning Signs, Notices and Lights at entrances to X-ray rooms. 
+Appropriate radiation warning signs and notices must be displayed and required warning lights (Green and 
+Red) in working order: (a) Fixed units: A radiation warning sign and warning notice, "X-RAYS NO 
+SAHPGL-RDN-XR-25_v2 
+Page 15 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+UNAUTHORISED ENTRY" must be displayed at all entrances leading to the rooms where x-ray units are 
+installed. 
+3.5 
+RADIATION PROTECTION 
+3.5.1 Dose limits for radiation workers and public 
+Every license holder must provide a personal radiation monitor/ dosimeter from a SAHPRA approved 
+Dosimetry Service to all employees who are categorised as radiation workers and must be worn during 
+working hours. (R1332) Wearing period for the personal radiation monitor is the period that a specific 
+dosimeter should be worn by a specific radiation worker. There are 13 wearing periods of 28 days in a year 
+and if required a wearing period can be 14 (fourteen) days for workers with a higher risk of exposure (SABS, 
+2016). The personal radiation monitor must be replaced by Dosimetry Service at regular intervals not 
+exceeding 32 days and whenever a radiation occurrence is suspected (refer to the South African Hazardous 
+Substances Act, 1973 (Act No. 15 of 1973) and Regulations Relating to Group IV Hazardous Substances No. 
+R. 1332, 1973). 
+It should be recognised that these dose limits represent the boundary between unacceptable doses and 
+doses that are tolerable. Thus, the aim is to keep individual doses as low as reasonably achievable (ALARA), 
+economic and social factors being considered (see the Table 1 below). 
+Table 1: Dose limits in accordance with the international commission on Radiological Protection. 
+Application 
+Occupational 
+Public 
+Effective dose 
+20 mSv per annum, not more than 
+100 mSv over a period of 5 years 
+(not more than 50 mSv in any one 
+year) 
+1 mSv per annum 
+Annual equivalent dose to the: 
+ 
+lens of the eye 
+Skin 
+hands and feet 
+ 
+ 
+20 mSv 
+500 mSv 
+500 mSv 
+ 
+ 
+1 mSv 
+50 mSv 
+ 
+Please Note: Additional restrictions apply to the above-mentioned occupational dose limit of pregnant 
+women. When pregnancy has been diagnosed, the conceptus must be protected by applying a 
+supplementary equivalent dose limit to the surface of the woman's abdomen (lower trunk) of 2 mSv for the 
+SAHPGL-RDN-XR-25_v2 
+Page 16 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+remainder of the pregnancy (see South African Hazardous Substances Act, 1973 (Act No. 15 of 1973) and 
+Regulations Relating to Group IV Hazardous Substances No. R. 247). 
+3.5.2 Approved dosimeter services.  
+i. 
+The license holder must ensure that all the registered radiation workers are issued with 
+personal radiation monitoring devices (PRMD). 
+ii. 
+Application forms for PRMD’s can be obtained directly from the following approved Radiation 
+Protection Service Provider(s): 
+Name of SERVICE 
+Contact No. 
+ 
+Email address 
+SABS Holdings 
+012 428 6199 
+rps@sabs.co.za 
+Dosimeter Services (Pty) Ltd 
+012 677 8074 
+admin@dosimeterservices.co.za 
+iii. 
+Records of the radiation doses to which workers have been exposed will be furnished to the 
+license holder by the SABS monthly or after a radiation occurrence (see 3.5.3 below). The 
+records must be kept for 10 years. 
+iv. 
+National Dose Register (NDR) managed by National Nuclear Regulator (NNR) will be available 
+and records will be accessed by using an identity number (ID). 
+3.5.3 Occupational Radiation overexposures using GLF-RDN-XR-10A (old Form No. RC010) 
+i. 
+Details of any radiation occurrence or suspected radiation occurrence involving radiation 
+workers must immediately be reported to SAHPRA radiation control on form GLF-RDN-XR-
+010A (old Form No. RC010). 
+ii. 
+The workers concerned must immediately submit their personal dosimeters to the dosimetry 
+service provider. The license holder must liaise with Radiation Control on what action is to be 
+taken after such occurrence. 
+iii. 
+Occupational radiation overexposure of over 4mSv per wearing period must be reported to 
+SAHPRA radiation control on the latest Form No. GLF-RDN-XR-010A (old Form No. RC010). 
+SAHPGL-RDN-XR-25_v2 
+Page 17 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+3.5.4 Reporting of Incidents/ Occurrences 
+The license holder shall ensure that all suspected radiation incidents are immediately reported to SAHPRA: 
+Radiation Control As stipulated in Condition 50 (see appendix 2). A "radiation occurrence" means a single 
+event or series of events occurring during the use of a listed electronic product which has resulted in 
+injurious or potentially injurious exposure of any person to ionising radiation as a direct result of the use of 
+that product. The license holder must investigate the circumstances of the exposure, the possible effects 
+on a person(s) concerned and decide on the action to be taken. The outcome of this investigation must be 
+documented (refer to South African Hazardous Substances Act, 1973 (Act No. 15 of 1973) and Regulations 
+Relating to Group IV Hazardous Substances No. R. 247). 
+3.6 
+INSPECTIONS (PRE & ROUTINE) 
+SAHPRA radiation control will conduct a pre inspection followed by inspecting the workplace from time to 
+time to ensure that health and safety requirements are being followed and that these requirements are 
+effective in protecting the public and workers. The routine inspection frequency of the facility shall be 2 
+years. 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+HPCSA. (2016). Guidelines for good practice in the Health Care Proffesions. Pretoria: Health 
+Professions Council of South Africa. 
+4.2 
+ICRP. (1991). Recommendations of the International Commission on Radiological Protection, ICRP 60.  
+4.3 
+NCRP. (2005). Report No 151, Structural Shielding Design and Evaluation for Megavoltage X- and 
+Gamma-Ray Radiotherapy Facilities. Bethesda: National Council on Radiation Protection and 
+Measurements. 
+4.4 
+REPORTS NO.13, I. H. (2015). STAFFING IN RADIOTHERAPY: AN ACTIVITY BASED APPROCH. VIENA: 
+IAEA. 
+4.5 
+SABS, R. P. (2016, 05 02). General information on the use of personal dosimeters. Retrieved 12 05, 
+2022, 
+from 
+http://radiationsafe.co.za/wp-content/uploads/2016/05/2.2.2-RPS-SABS-general-
+information-use-and-types-must-be-UPDATED.pdf 
+4.6 
+South, A. (1973). HAZARDOUS SUBSTANCES ACT, 1973 (ACT No. 15 OF 1973) REGULATIONS RELATING 
+SAHPGL-RDN-XR-25_v2 
+Page 18 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+TO GROUP IV HAZARDOUS SUBSTANCES. Pretoria: Department of Haalth. 
+4.7 
+South, A. (1973). HAZARDOUS SUBSTANCES ACT, 1973 (ACT No. 15 OF 1973) REGULATIONS RELATING 
+TO GROUP IV HAZARDOUS SUBSTANCES No. R. 1332. Pretoria: Government Gazette. 
+4.8 
+South, A. (1973). Hazardous Substances Act, 1973 (Act of 15 of 1973). Retrieved 12 03, 2022, from 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/ 
+4.9 
+South, A. (1974). HEALTH PROFESSIONS ACT, 1974 (ACT No. 56 OF 1974) REGULATIONS DEFINING 
+THE SCOPE OF THE PROFESSION OF RADIOGRAPHY. Pretoria: Department of Health. 
+4.10 South, A. (n.d.). HAZARDOUS SUBSTANCES ACT, 1973 (ACT No. 15 OF 1973) REGULATIONS RELATING 
+TO GROUP IV HAZARDOUS SUBSTANCES No. R. 247. Pretoria: Government Gazette. 
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision. It will be reviewed on this 
+timeframe or as and when required. 
+ 
+SAHPGL-RDN-XR-25_v2 
+Page 19 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+6. ANNEXURES 
+6.1 
+Annexure A: Condition 50 
+The license holder shall ensure that: 
+a. All the applicable quality control tests are performed at the prescribed frequencies as specified in the 
+SASQART guidelines that are available at https://sites.google.com/site/radiationcontroldoh/ -> 
+Electronic Devices ->Ionising Radiation -> Radiotherapy. 
+i. These tests are documented as prescribed in the SASQART guideline, and 
+ii. All tests comply with all the requirements as prescribed in the applicable SASQART 
+guideline. 
+b. At all times the services of a sufficient number of medical physicists are retained to ensure that optimal 
+technical support and supervision are available to provide for effective patient, operator and public 
+protection. "Sufficient number of medical physicists" means the number of medical physicists as 
+specified 
+in 
+the 
+latest 
+document 
+of 
+SAMPS 
+that 
+is 
+available 
+at: 
+https://sites.google.com/site/radiationcontroldoh/-> Electronic Devices -> Ionising Radiation -> 
+Radiotherapy -> Minimum Staffing Levels for Radiation Oncology Physicists. 
+c. No radiation therapist operates a radiation oncology treatment unit for patient treatment without a 
+second radiation therapist or a medical physicist or a radiation oncologist being present to verify 
+treatment parameters. 
+d. Dose verification, applicable to the relevant technology and deemed by the resident medical physicist 
+to be an acceptable form of verification, is performed on all patients receiving megavoltage photon 
+therapy within 7 days after the first fraction or before 20% of the total prescribed dose has been 
+delivered (whichever is sooner). Deviations of more than 10% from the calculated dose must be 
+reported to the medical physicist immediately. 
+e. A comprehensive quality management system for radiation safety has been compiled and protocols, 
+procedures, policies, instructions, tests, evaluations and rules are performed and documented in 
+accordance with the system. This local system must include, but not limited to, the chart check 
+protocol, the roles and responsibilities of the respective members of the radiation oncology team and 
+the peer review mechanisms in place. 
+SAHPGL-RDN-XR-25_v2 
+Page 20 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+f. 
+Independent verification of the results of quality control tests is an essential component of any quality 
+control program. To ensure redundancy and adequate monitoring, a second qualified medical physicist 
+must independently verify the implementation, analysis and interpretation of the quality control tests 
+at least annually. This independent check must be documented. 
+g. All suspected radiation occurrences are immediately reported to the Director: Radiation Control. A 
+"radiation occurrence" means a single event or series of events occurring in the course of the use of a 
+listed electronic product which has resulted in injurious or potentially injurious exposure of any person 
+to ionising radiation as a direct result of the use of that product. The responsible person and medical 
+physicist must investigate the circumstances of the exposure, the possible effects on a person(s) 
+concerned and decide on the action to be taken. 
+SAHPGL-RDN-XR-25_v2 
+Page 21 of 21
+Guidelines for Users of Therapeutic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+6.2 
+Annexure B: SAMPS-Minimum Staffing levels MP 
+ 
+

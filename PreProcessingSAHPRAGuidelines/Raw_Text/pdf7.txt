@@ -1,0 +1,1730 @@
+Page 1 of 37
+SAHPGL-HPA-06_v7 
+ 
+ 
+ 
+ 13 August 2026 
+VARIATIONS GUIDELINE FOR HUMAN AND VETERINARY MEDICINES 
+This document provides recommendations for applicants submitting variation applications for human and 
+veterinary medicines. In addition to this guideline, the South African Health Products Regulatory Authority 
+(SAHPRA) reserves the right to request additional information to establish the safety, quality and efficacy of 
+a medicine based the knowledge available at the time of evaluation.  SAHPRA is committed to ensuring that 
+all registered medicines meet the required quality, safety and efficacy. 
+ 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+Publication for comment 
+[10 May 2019] 
+2 
+Adds alterations to codes B.IV.1.a.1 (changes procedure type to Type IB)  
+and B.IV.a.2 (eliminates restriction of the code to be for veterinary 
+products only); Excludes code A.2.a based on non-applicability. 
+[15 November 2019] 
+3 
+Modifies addendum items 4.1.3 and 4.1.7 to include the addition of 
+contraindication as a Type IB. Amends the documentation requirements 
+in tables 5.2.1 & 5.2.2. 
+Introduces the following quality sections to allow SAHPRA an additional 
+review period prior to implementation (4.3.1 - 4.3.4; 4.3.7; 4.3.10 - 4.3.12; 
+4.3.15) 
+Introduces additional document requirements in 5.4.  
+Provides the requirement of a resolution letter in sections 4.3.8 and 4.3.9 
+[01 June 2020] 
+4 
+Update to remove additional review period and include alignment of 
+certain quality codes to EMA classification. Alignment with EMA 
+guidelines on Type IA and  IAIN  in terms of SAHPRA response timelines 
+from date of notification. Update includes revisit of Inspectorate timelines 
+and commitment. Inclusion of documentation for submission of quality 
+and administrative changes are defined. Inclusion of administrative 
+change in proprietary name on certificate. Update on interpretation of 
+quality variation fees. Update of templates regarding SAHPRA address 
+change and removal of CD/USB submissions. 
+[29 September 2020] 
+5 
+Inclusion of variation timelines in section 3. 
+Modifies addendum item 4.1.14 to include procedural exceptions 
+regarding Type  IAIN veterinary applications. 
+[01 February 2022] 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 2 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+Introduces document requirements in section 5.2. 
+Update on interpretation of variation fees.  
+Amendment of calendar days to working days. 
+6 
+More details added to 4.4.2. 
+Included Types of variations under 5.1. General  
+ 
+Included the email address for PEM Quality variation application related 
+queries under 5.3. Quality  
+Additional information included for Points 3, 11, 12 & 14 in Table 5.3.1 
+[30 September 2022] 
+7 
+Consolidation of the variation communication and Variations Addendum 
+guideline. 
+Addition of new variation codes.  
+Adaptation of EMA variation classifications and integration of SAHPRA 
+specific requirements.  
+New cover letter template for post-reg variations - [GLF-HPA-06G] 
+[09 August 2026] 
+8 
+Watermark update 
+Document number updates of the new variation codes. 
+Application letter template update to include PV/Clinical 
+N/S alignment of review working days 
+Update of Clinical code C.I.10 
+Minor alignment updates to Quality and Certification Codes 
+[09 August 2026] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 3 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 5 
+1. 
+INTRODUCTION ........................................................................................................................................ 14 
+1.1 
+Purpose .................................................................................................................................................... 14 
+1.2 
+Scope ........................................................................................................................................................ 14 
+2. 
+LEGAL PROVISION ..................................................................................................................................... 14 
+3. 
+CLASSIFICATION OF VARIATIONS ............................................................................................................. 14 
+3.1 
+Type IA variations (Notifications): ............................................................................................................ 14 
+3.2 
+Type IB variations (minor variations): ...................................................................................................... 15 
+3.3 
+Type II variations: ..................................................................................................................................... 16 
+3.4 
+Classification Codes: ................................................................................................................................. 16 
+3.5 
+Where to submit applications .................................................................................................................. 16 
+3.6 
+Submitting variations for duplicates and different strengths .................................................................. 16 
+3.7 
+Submitting grouped variations ................................................................................................................. 17 
+3.7.1 Submission of multiple variations in a single application (grouped variation) ......................................... 17 
+3.7.2 Submitting Quality and Clinical variations together .................................................................................. 18 
+3.7.3  Submitting Quality and Inspectorate variations together ....................................................................... 18 
+3.7.4 Submitting a Transfer of Applicancy and Verification of GMP compliance for a Proprietary Name Change 
+to Inspectorate. .................................................................................................................................................. 18 
+3.8 
+Documentation for reliance ..................................................................................................................... 19 
+3.9 
+Fees .......................................................................................................................................................... 19 
+3.10 Submission requirements for priority review applications (TYPE II applications only) ........................... 19 
+3.11 Applying for a withdrawal of a variation submission ............................................................................... 19 
+3.12 Submitting the QIS/QOS ........................................................................................................................... 20 
+3.13 Submitting the variation validation template .......................................................................................... 20 
+3.14 Format change to the PI and PIL .............................................................................................................. 20 
+3.15 De-linking of dossiers ............................................................................................................................... 21 
+3.16 Request for extension .............................................................................................................................. 21 
+3.17 Unforeseen changes (z-codes) ................................................................................................................. 22 
+3.18 Clinical Post Registration .......................................................................................................................... 23 
+3.18.1 Submission of Type I and II variation application(s) ................................................................................ 23 
+3.19 Period for response submissions and number of query rounds .............................................................. 23 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 4 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+3.20 Names and Scheduling ............................................................................................................................. 24 
+3.21 Proprietary Name Change Variation Applications ................................................................................... 24 
+3.22 Rescheduling Variation Applications ........................................................................................................ 24 
+3.23 Authorized Prescribers Amendment ........................................................................................................ 25 
+3.24 Inspectorate ............................................................................................................................................. 25 
+3.25 Certificate Variations ................................................................................................................................ 25 
+3.26 Documentation for Reliance .................................................................................................................... 26 
+3.27 Documentation/ data requirements ........................................................................................................ 26 
+3.27.1 General .................................................................................................................................................... 26 
+3.27.2 Clinical and Pharmacovigilance ............................................................................................................... 27 
+3.28 Work-sharing and extension applications ................................................................................................ 28 
+3.28.1 Work-sharing ........................................................................................................................................... 28 
+3.28.2 Extension applications ............................................................................................................................. 28 
+3.29 Appendix .................................................................................................................................................. 29 
+4. 
+REFERENCES ............................................................................................................................................. 29 
+5. 
+VALIDITY ................................................................................................................................................... 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 5 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+Glossary 
+Abbreviations/ 
+Descriptions  
+Meaning 
+Amendments 
+Used interchangeably with the term ‘variations’ 
+APIMF 
+Active Pharmaceutical Ingredient Master File 
+Equivalent to ASMF: Active Substance Master File (EU terminology) 
+BP 
+British Pharmacopoeia 
+BSE 
+Bovine Spongiform Encephalopathy 
+BTIF 
+Bioequivalence Trial Information Form (OF-PEM-PRE-01J) 
+CCDS 
+Company Core Data Sheet 
+Clone 
+Application submitted by the innovator as a copy of its own product under a 
+different proprietary name at any stage during the product life cycle. 
+CMC 
+Chemistry Manufacturing Controls 
+CP 
+Comparability Protocol 
+CTD 
+Common Technical Document Equivalent to: EU-CTD (EU terminology) 
+COVID - 19 
+Corona Virus Diseases 2019 
+DDPS 
+Detailed Description of the Pharmacovigilance System 
+DHCP 
+Dear Healthcare Professional (letter) 
+DNA 
+Deoxyribonucleic Acid 
+DVP 
+Dear Veterinarian, Professional (letter)  
+EC 
+European Commission 
+eCTD 
+Electronic Common Technical Document 
+EMA 
+European Medicines Agency  
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 6 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+EU 
+European Union 
+HCR 
+Holder of the Certificate of Registration  
+Equivalent to MAH: Market Authorisation Holder (EU terminology) 
+HPLC 
+High-Performance Liquid Chromatography 
+ICH 
+International Council for Harmonisation of Technical Requirements for 
+Pharmaceuticals for Human Use 
+ICSR 
+Individual Case Safety Report 
+Label 
+Equivalent to: Labelling (EU terminology) 
+Legal Status 
+Includes, but is not limited to, Scheduling Status in South Africa 
+MAH: Market 
+Authorisation Holder 
+Equivalent to HCR: Holder of the Certificate of Registration 
+MCC 
+Medicines Control Council (now SAHPRA) 
+MCB 
+Master Cell Bank 
+Medicine 
+Equivalent to Medicinal Product (EU terminology)1N&S 
+MSL 
+Master Seed Lot 
+N&S 
+Names and Scheduling 
+PASS 
+Post-authorisation Safety Studies 
+PBRER 
+Periodic Benefit-Risk Evaluation Report 
+PEM 
+Pharmaceutical Evaluation Management (PEM) 
+PI 
+Professional Information 
+Equivalent to SmPC: Summary of Product Characteristics (EU terminology)1 
+PIL 
+Patient Information Leaflet 
+Equivalent to Package Leaflet (EU terminology) 
+PMF 
+Plasma Master File 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 7 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+PSUR 
+Periodic Safety Update Report 
+PV 
+Pharmacovigilance 
+QA 
+Quality Assurance 
+QC 
+Quality Control 
+QIS 
+Quality Information Summary 
+QOS 
+Quality Overall Summary 
+QP 
+Qualified person; where reference is made to the qualified person, if the 
+manufacturer is in South Africa, this refers to the Responsible Pharmacist. 
+Where manufacture is conducted outside South Africa, the qualified person as 
+defined by EMA may be applied. 
+QPPV 
+Qualified person responsible for pharmacovigilance 
+RMP 
+Risk Management Plan 
+RP 
+Responsible Pharmacist 
+RRA 
+Recognised Regulatory Authority – a term used to refer to the list of 
+regulatory authorities with which SAHPRA aligns itself. 
+RSA 
+Republic of South Africa 
+ 
+SOP 
+Standard Operating Procedure 
+TOA 
+Transfer of Applicancy 
+The Authority 
+Relevant regulatory authority, in this case SAHPRA 
+ToHCR 
+Transfer of the Holder of Certificate of Registration 
+TSE 
+Transmissible Spongiform Encephalopathy 
+USRN 
+Urgent Safety Restriction Notice 
+USP 
+United States Pharmacopeia 
+VAMF 
+Vaccine Antigen Master File 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 8 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+VICH 
+International Cooperation on Harmonisation of Technical Requirements for 
+Registration of Veterinary Medicinal Products 
+WCB 
+Working Cell Bank 
+WFI 
+Water for Injection 
+WHO 
+World Health Organisation 
+WSL 
+Working Seed Lot 
+ 
+Definitions of Terms 
+TERM 
+MEANING 
+Adjuvant 
+A substance or combination of substances used in 
+conjunction with a biological medicine to achieve (for 
+example, increase, accelerate, prolong and/or target) or 
+modulate a specific physiological or immune response to 
+the biological in order to enhance the clinical 
+effectiveness of the biological medicine. 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 9 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+TERM 
+MEANING 
+  
+Antigen (vaccine) 
+  
+The following definitions apply in this document: 
+  
+• 
+The active ingredient in a vaccine against which 
+the immune response is raised. It may be a live 
+attenuated preparation of bacteria, viruses or 
+parasites; inactivated (killed) whole organisms; 
+crude cellular fractions or purified active 
+biological ingredients, including recombinant 
+proteins (i.e., those derived from recombinant 
+DNA expressed in a host cell); polysaccharides 
+and conjugates formed by covalent linkage of 
+polysaccharides to components such as mutated 
+or inactivated proteins and/or toxoids; synthetic 
+active biological ingredients; polynucleotides 
+(such as plasmid DNA vaccines); or living vectored 
+cells 
+expressing 
+specific 
+heterologous 
+immunogens. It may also be a combination of the 
+antigens or immunogens listed above. 
+ 
+• 
+Intermediate or component that may undergo 
+chemical 
+change 
+or 
+processing 
+in 
+the 
+manufacture of the final product (drug product) 
+and is present in the final product in a modified 
+form intended to furnish the specified activity or 
+effect. Also referred to as Drug Substance, Active 
+Ingredient, or Active Substance in other 
+documents. 
+ Biological Medicine 
+All medicines that contain a living organism or are derived from a
+living organism or biological processes. They include, but are not
+limited to the following: 
+i. 
+Plasma-derived and animal products 
+e.g. Clotting factors, immunosera, 
+antivenoms 
+ii. 
+Vaccines 
+iii. 
+Biotechnology-derived 
+medicines 
+(recombinant DNA products), for e.g., 
+rHu-anti-haemophilic 
+factors, 
+hormones, 
+cytokines, 
+enzymes, 
+monoclonal 
+antibodies, 
+erythropoietins, nucleic acids 
+iv. 
+Products developed for Human Gene 
+therapy. 
+ 
+Well-characterised, low-molecular mass, medicinal 
+biological compounds, may be excluded by specific 
+regulatory decisions from the biological medicine status, 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 10 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+TERM 
+MEANING 
+and in that case, will not be reviewed through the 
+biological medicines review process. 
+Change 
+Refers to any change made to an approved marketing 
+authorisation in product composition, active and non-active 
+ingredients, manufacturing process, quality controls, equipment, 
+containers, shelf life, storage conditions, facilities, or product 
+labelling information by the marketing authorisation holder. This is 
+also referred to as a variation in other documents. 
+  Certificate Variation 
+Transfer of Applicant and Proprietary Name Change Variation 
+Comparability Exercise 
+The activities, including study design, conduct of studies, 
+and evaluation of data, which are designed to investigate 
+whether the products are comparable. In addition to 
+routine analyses performed during production and 
+control of the active biological ingredient or final 
+product, these evaluations typically include further 
+characterisation studies. In some cases, non-clinical or 
+clinical data might contribute to the conclusion. 
+Comparability Protocol 
+(CP) 
+The CP establishes the tests to be done and acceptable 
+limits to be achieved to demonstrate comparability of 
+the pre-amendment and post-amendment products 
+following specific quality change(s). A CP is a highly 
+specific, 
+a 
+well-defined 
+plan 
+for 
+the 
+future 
+implementation of a quality (e.g., manufacturing-related 
+changes, change of analytical method and site transfer 
+change. It is also referred to as Post Approval Change 
+Management Protocol in other documents. 
+Container Closure 
+System 
+This system refers to the following components: 
+• 
+A primary container closure system is a 
+packaging component that is or may be in direct 
+contact with the final product dosage form (e.g., 
+vial, pre-filled syringe). (Container closure 
+systems for the active biological ingredients or 
+intermediates of medicines normally only 
+include primary container closure systems.) 
+• 
+A secondary container closure system is a 
+packaging component that is not and will not be 
+in direct contact with the dosage form (e.g. 
+carton, tray). 
+Dosage Form 
+This is the pharmaceutical form in which the active 
+ingredients, excipients and physical formulation of a 
+medicine is presented. 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 11 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+TERM 
+MEANING 
+Final Lot 
+A collection of sealed final containers that are 
+homogeneous with respect to the composition of the 
+product. A final lot must therefore have been filled in 
+one continuous working session. 
+Final Product 
+A finished dosage form (e.g. tablet or solution) that 
+contains an active ingredient, but not necessarily, in 
+association with inactive ingredients. It is also referred 
+to as a Finished Product or Drug Product in other 
+documents. 
+Formulated bulk 
+An intermediate in the drug product manufacturing 
+process, consisting of the final formulation of drug 
+substance and excipients at the concentration to be 
+filled into primary containers. 
+Holder of the 
+Certificate of 
+Registration (HCR) 
+An HCR refers to a person or legal entity in whose name 
+a registration certificate has been granted and who is 
+responsible for all aspects of the medicine, including 
+quality, safety, and compliance with conditions of 
+registration. 
+Intermediate 
+A material produced during steps in the manufacturing 
+of a medicine that must undergo further processing 
+before it becomes a final product. 
+Manufacturer 
+  This refers to a person manufacturing a medicine and includes a  
+manufacturing pharmacy. 
+  
+Master cell bank 
+(MCB) 
+ An MCB is an aliquot of a single pool of cells, which 
+generally has been prepared from the selected cell clone 
+under defined conditions, dispensed into multiple 
+containers and stored under defined conditions. 
+Prior approval 
+amendment (PAA) 
+A PAA is an amendment requiring approval from SAHPRA 
+prior to implementation of the amendment. Also 
+referred to as change application dossier or Type II 
+variation in other documents. 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 12 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+TERM 
+MEANING 
+Product Labelling 
+Information 
+Printed materials that accompany a prescription 
+medicine and refer to all labelling items as per the 
+Medicines and Related Substances Act, 101 of 1965, 
+General Regulations # 10, #11 and # 12): 
+• 
+Professional 
+Information 
+(PI), 
+including 
+prescribing information, which provides product 
+information 
+on 
+indication, 
+dosage 
+and 
+administration, safety and efficacy results, 
+contraindications, warnings, and a description of 
+the product for health care providers. 
+• 
+Inner label or container label 
+• 
+Outer label or carton 
+• 
+Patient Information Leaflet (PIL) 
+Quality attribute 
+ A physical, chemical, biological or microbiological 
+property or characteristic. 
+Quality change 
+In the context of this document, quality change refers 
+to a change in the manufacturing process, product 
+composition, quality control testing, equipment, or 
+facility. 
+Raw materials 
+A general term used to denote the culture media 
+components, reagents or solvents intended for use in 
+the production of starting material, drug substance, 
+intermediates, or drug products. 
+Registration 
+Application 
+A formal application to SAHPRA for approval to register 
+and market a new medicine. The purpose of the 
+Registration Application is to determine whether the 
+medicine meets the statutory standards for safety, 
+effectiveness, product labelling information and 
+manufacturing. 
+Source 
+material/starting 
+material 
+Material from a biological source that marks the 
+beginning of the manufacturing process of a drug as 
+described in a marketing authorisation or licence 
+application and from which the active ingredient is 
+derived either directly (e.g., plasma derivatives, ascitic 
+fluid, bovine lung, etc.) or indirectly (e.g., cell 
+substrates, host/vector production cells, eggs, viral 
+strains, etc.). 
+Specification 
+A list of tests, references to analytical procedures, and 
+appropriate acceptance criteria which are numerical 
+limits, ranges or other criteria for the tests described. 
+Specifications are critical quality standards that are 
+proposed and justified by the manufacturer and 
+approved by the regulatory authorities. 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 13 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+TERM 
+MEANING 
+Vaccine 
+Preparations containing antigens capable of inducing a 
+specific and active immunity in humans against an 
+infectious agent or toxin. 
+  Vaccine Efficacy 
+Relative reduction in disease incidence in vaccinated 
+people compared to unvaccinated people measured in 
+a randomised, placebo-controlled clinical trial. In the 
+context of this guidance document, medicine efficacy 
+relates to all clinical data obtained to ensure medicine 
+efficacy, immunogenicity, or its effectiveness. 
+Working Cell Bank 
+(WCB) 
+The WCB is prepared from aliquots of a homogeneous 
+suspension of cells obtained from culturing the master 
+cell bank under defined culture conditions. 
+ 
+ 
+ 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 14 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+1. INTRODUCTION 
+ The Variations Guideline includes information on the various categories and codes for variations and  
+documents that applicants are  required to  submit.  
+The submissions will be evaluated as indicated in the Medicines and Related Substances Act.  
+1.1 Purpose 
+The purpose of this document is to inform applicants on how to submit applications for variations  to the South 
+African Health Products Regulatory Authority (SAHPRA) for Category A and C medicines as well as what to 
+expect during assessment of variations . 
+1.2 Scope 
+The South African Health Products Regulatory Authority (SAHPRA) has compiled a list of  requirements for 
+submission of variations to registered products for human and veterinary medicines as well as biologicals. We 
+encourage applicants to read this guideline together with the relevant classification and codes (Section 3.4 
+below) and SAHPRA guidelines relevant to each Technical Unit as well as the recent relevant guidelines and 
+templates listed in Appendix A. 
+We have outlined requirements  in this guideline as well as  classification and codes that are aligned to the 
+framework of the International Council for Harmonisation: Technical Requirements for Pharmaceuticals for 
+Human Use (ICH) and the International Cooperation on Harmonisation: Technical Requirements for 
+Registration of Veterinary Medicinal Products (VICH). SAHPRA commits to  global best practices regarding the 
+safety, quality and efficacy of health products.  
+2. LEGAL PROVISION 
+The Medicines and Related Substances Act No. 101 of 1965, as amended, Section 15. (3) (a) (i) - (iii), specifies 
+medicines, medical devices and/or In Vitro Diagnostics (IVDs) that require registration, which should comply 
+with the prescribed requirements and be safe, efficacious and of good quality. General Regulations of the  
+Medicines and Related Substances Act, Regulation 53 (1) and (2) requires that changes to accepted standards 
+or specifications of the registered product should be submitted to SAHPRA  for prior approval and the latter  
+should be granted before the changes are implemented. 
+3. CLASSIFICATION OF VARIATIONS 
+3.1 Type IA variations (Notifications): 
+Minor changes that have minimal or no impact on quality, safety, or efficacy of the product. 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 15 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+Type IA variations are split into two categories, with differing procedural treatment: 
+a) Type IAAN: Minor variations that do not require any prior approval but must be notified by the HCR 
+within 12 months following implementation (‘Do and Tell’ procedure). 
+b) Type IAIN: Minor variations that must be notified by the HCR at least 47 working days prior to 
+implementation. If 47 working days lapse  from the time the notification was submitted, and SAHPRA 
+has not provided feedback to   the HCR, the HCR may implement the variation.   
+ 
+Upon submission of notification of Type IAIN to SAHPRA, the Authority may review the Type IAIN notification 
+within 47 working days.  
+If SAHPRA has not sent the HCR its opinion on the application within 47 working days, the application will be 
+deemed implementable. Applicants must satisfy themselves that they meet all the prescribed conditions for 
+the change and submit all required documentation with the submission of variations. The variation codes that 
+require approval from more than one (1) Technical Unit cannot be implemented until approval is received from 
+the respective Technical Unit. 
+Note: Failure to meet the specified conditions in the case of notifications of Type IA and minor variations of 
+Type IAin or provide all necessary documentation in the application, may lead to the immediate rejection of 
+the variation, even if the review time has elapsed. If the rejection letter specifies that the implementation of 
+change should be reversed, and the HCR should withdraw the impacted sections of the dossier and revert  to 
+the previously approved version within 15 days. 
+If any of the conditions are not met or documents are not available, the variation should be classified as a Type 
+IB and submitted as such. 
+3.2 Type IB variations (minor variations): 
+Type IB variations are changes that may have minor impact on the overall safety, efficacy and quality of the 
+health product or medicine. Applicants must submit all required documents when they submit application 
+for   the variation. 
+SAHPRA may review a minor variations of Type IB submission within 87 working days, unless otherwise 
+indicated. If SAHPRA has not sent the HCR its opinion on the application within 87 working days, the 
+application will be deemed implementable (as applicable depending on the variation code). 
+Failure to meet the specified conditions in the case of notifications of minor variations of Type IB or provide 
+all necessary documentation in the application, may lead to the immediate rejection of the variation, even if 
+the review time has elapsed.  
+The timeline for evaluation of Type IB variations is 87 working days. If no response has been received from 
+SAHPRA within this time, changes may be implemented, however SAHPRA may still reject, request reversal of 
+implementation or request further data after the time has elapsed. Please note that SAHPRA timelines are 
+calculated in working days. If the rejection letter specifies that the change should be unimplemented, the HCR 
+should revert the impacted sections of the dossier back to the latest approved version by means of a closing 
+sequence within 15 days. 
+Applications which cannot be implemented after 87 working days include changes which need approval from 
+more than one (1) Technical Unit, e.g. change in manufacturer of the finished product, change in primary 
+packer or changes in the PI/PIL. 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 16 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+3.3 Type II variations: 
+Type II variations are changes that could have major impact on the overall safety, efficacy and quality of the 
+health products and/or medicines. The submission for review must be approved by SAHPRA before 
+implementations and the documents required for the changes must be submitted together with the 
+submission.  
+SAHPRA has included the Type II variations classification in this guideline (refer to the relevant classification 
+and codes as referenced below) with a view to facilitating timeous review and approval of Type II variations.  
+Upon submission of Type II variations to SAHPRA, the Authority will review the Type II submission within 220 
+working days for all variations. 
+ 
+NOTE: This guideline lists only the minimum technical data requirements for Type II variations. Applicants are 
+advised to include additional data to support the Type II variation if available. Please note that SAHPRA reserves 
+the right to request further data if it is necessary. 
+Exceptions 
+ 
+The timeline for Certificate Variations applications is 30 working days.  
+3.4 Classification Codes: 
+For classifications and codes for each of the above-mentioned types of variations, please refer to the 
+following classification and codes under respective Technical Unit on https://www.sahpra.org.za/guidelines/: 
+a. GLF-HPA-06C: Clinical (CEM) 
+b. GLF-HPA-06D: Names and Scheduling (N&S) 
+c. GLF-HPA-06E: Inspectorate (INS) 
+d. GLF-HPA-06F: Biological medicines (PEM) 
+e. GLF-HPA-06H: Certificate Variations (HPA) 
+f. GLF-HPA-06I: Quality (PEM) 
+g. GLF-HPA-06J: Veterinary 
+ 
+3.5 Where to submit applications 
+The SAHPRA Engagement Portal is an online platform designed to facilitate interactions between applicants 
+and SAHPRA. The portal enables applicants to submit and track applications, manage their profiles and 
+ensure compliance with regulatory requirements. File Transfer Protocol (FTP) details must be set under the 
+Organisation Details before attempting to create applications that require eCTD uploads to the SAHPRA FTP 
+Server. A request for the FTP User Guide for Files/Dossier Submission and access to the FTP should be sent to 
+variationsuploadqueries@sahpra.org.za. When requesting access to the FTP, applicants should include the 
+company name and licence number. 
+3.6 Submitting variations for duplicates and different strengths 
+In the case of  identical variations  being submitted for duplicate products or different strengths of the same 
+health products and/or medicines, SAHPRA encourages the applicant to submit a combined dossier rather 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 17 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+than submitting multiple/separate dossiers. This reduces the workload burden on  SAHPRA and facilitate  
+faster overall turnaround time and  ensures document completeness.  
+Refer to SAHPRA eCTD Specification 3.1 for additional information. 
+For submissions of PI/PIL variation applications where there are different strengths of the same product on 
+one PI/PIL, only one application should be submitted. Separate PI/PIL must be submitted if they are in 
+different dossiers  
+Note: The PI/PIL may need to be separated for variations for different strengths or schedules on the advice of 
+the regulator. 
+For Clinical variation applications of masters/duplicates and clones the applicant should ensure that the 
+proposed clean PIs and PILs have the specific product name(s) throughout the document (PI/PIL) instead of 
+using 'PRODUCT NAME'.  
+Note: All clean proposed PI and PIL must be dated, initialled, and paginated as page X of Y. 
+3.7 Submitting grouped variations  
+3.7.1 Submission of multiple variations in a single application (grouped variation) 
+A grouped variation refers to a single application submitted for multiple changes to SAHPRA  for a medicinal 
+product. These changes can involve different types of variations, but they must be linked to the same 
+marketing authorization and can be grouped together under specific conditions.  While grouping of different 
+types of variations (Type IA, Type IB and Type II) is acceptable, variations for different Technical Units should 
+not be grouped in a single submission. For information on the acceptable number of variations to be grouped 
+in a single submission refer to SAHPRA engagement portal communications.  
+There should be a clear link or relationship between the grouped variations.  For example, a Type II variation 
+for a new indication might be grouped with Type IAin variations for PI/PIL updates affecting the new 
+indication.   
+Type I variations may be submitted with Type II variations; however, the Type I variations are not 
+implementable until the entire variation submission is approved. Applicants found to have implemented 
+Type I variations prior to the approval of Type II variations within the same submission will have all variations 
+related to the specific submission rejected. 
+For fees applicable to grouped variations refer to Regulations regarding Fees Payable in terms of the 
+provisions of the Medicines and Related Substances Act related to quality. 
+For clinical variations, each variation in the grouped submission will be charged as per classification code in 
+accordance with the type of variation submitted. Each variation must be clearly identified as outlined in GLF-
+HPA-06C: Clinical (CEM) and will be charged individually based on its classification. For PV recommendations 
+added to the PI, each recommendation must be accompanied by the corresponding classification code and 
+payment. A fee will be charged per PV recommendation submitted. 
+ 
+In general, it is recommended that all identified changes related to the product dossier must be submitted as 
+individual variations in separate submissions with the applicable fees.  There should be no grouping of 
+variations related to the same module in the dossier, unless the changes are related. The exception to this is 
+PI/PIL amendments and the annual notifications (Type IA only) for changes made to the dossier in 
+compliance with the pharmaceutical quality system of the manufacturer. 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 18 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+Applicants are advised NOT to combine either Proprietary Name Change or Transfer of HCR variation 
+applications with any Type IA, Type IB or Type II variations in the same application, to streamline the 
+evaluation process. Applicants are advised to finalise the Transfer of HCR variation (approval from 
+Inspectorate and Issuance of the Registration Certificate) before they can apply for the Proprietary Name 
+Change variation. Applicants must submit the registration certificate to the Clinical or Biological Unit when 
+applying for variations related to the Proprietary Name Change or Transfer of HCR in the PI/PIL.  
+3.7.2 Submitting Quality and Clinical variations together 
+Quality and Clinical variations, that require review by both units, should be submitted. The application will be 
+routed to the relevant unit and will be evaluated sequentially separately. The relevant Quality and Clinical 
+variation fees will be applicable.   
+For clinical variations, where amendments have been made on the Quality section of the PI/PIL, the applicant 
+is required to submit the relevant supporting documents from the quality unit. For Type IA notification, proof 
+of submission will be required. For Type IB and Type II variation, the corresponding Quality Unit approval 
+letter must be submitted.  Applicants to note that Amendments to any quality aspects of the medicine within 
+the PI/PIL are subject to Quality Unit approval and may only be implemented in the PI/PIL if approved by the 
+Quality unit. Where the applicant is just bringing the PI/PIL in line with current PI/PIL guidelines and the 
+Quality aspects were approved at registration the applicant may submit a declaration to confirm that the 
+Quality aspects were approved at registration, and no unsolicited changes have been made. 
+NOTE FOR BIOLOGICAL MEDICINES: Quality variations that affect the PI & PIL. The applicant is required to 
+provide the annotated PI & PIL as part of the supportive documents with the quality change reflected (e.g 
+shelf-life extensions, container closure and excipient changes). This change will not be handled separately. 
+3.7.3  Submitting Quality and Inspectorate variations together 
+Quality and Inspectorate variations that require review by both units must be submitted separately with the 
+applicable fee but in parallel.  
+Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished 
+product and/or addition/replacement of a primary packaging site of the finished product will require 
+evaluation by Quality unit as well as Inspectorate unit. 
+The respective fees applicable for both the Quality and Inspectorate variations must accompany the 
+submissions. 
+The replacement or addition of a finished product site does not require an update to the registration 
+certificate. The variations summary will serve as an addendum to the registration certificate. 
+NOTE: This change is not implementable unless approval is received from both the Quality and 
+Inspectorate Units 
+3.7.4 Submitting a Transfer of Applicancy and Verification of GMP compliance for a Proprietary 
+Name Change to Inspectorate.  
+For a Transfer of Applicancy (TOA) where there is a subsequent Proprietary Name Change variation, the 
+applicant is required to first submit the TOA together with the verification of GMP compliance for Proprietary 
+Name Change to the Inspectorate Unit using the relevant Inspectorate variation code. Once approval is 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 19 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+granted by the Inspectorate Unit, the applicant must submit the Proprietary Name Change variation to the 
+Naming and Scheduling Unit within 30 working days.  
+3.8 Documentation for reliance 
+SAHPRA has developed reliance pathways to streamline the application approval process. To facilitate this 
+process, Applicants are reminded of the reliance requirements below. 
+ 
+• 
+In order to encourage the maintenance of reliance throughout the lifecycle of the product, different 
+Technical Units in SAHPRA have established reliance mechanisms. Refer to the specific sections of 
+the respective Technical Units in this guideline or the relevant classification and codes for details on 
+applying reliance to registered products. 
+• 
+Full assessment/evaluation reports are required should the application have received approval from 
+Recognised Regulatory Authorities (RRAs). 
+• 
+SAHPRA will be implementing reliance models for qualifying applications. The General Information 
+Guideline (SAHPGL-HPA-07) and Reliance Guideline (SAHGL-BAU-01) contain the latest information 
+regarding SAHPRA’s evaluation pathways as well as SAHPRA’s Recognised Regulatory Authorities 
+(RRAs) and collaborative / work sharing procedures. 
+• 
+To apply for a verified review, applicants are encouraged to leverage SAHPRA’s repository of PI/PILs. 
+Additional information is provided in the Clinical Guideline (SAHPGL-CEM-01), and Quality and 
+Bioequivalence Guideline (SAHPGL-PEM-02). 
+3.9 Fees 
+The fees applicable to variations are published in the Government Gazette, Regulations regarding Fees 
+Payable in terms of the provisions of the Medicines and Related Substances Act. 
+Refer to SAHPGL‐FIN‐01 SAHPRA Payment Guideline for the details of the payment of fees to SAHPRA.  
+The Proof of Payment and Portal Sales Order should be included in module 1.2.2.1. 
+Please note that the fees payable for respective Technical  Units are independently charged as these 
+variations are reviewed independently.  
+For veterinary medicines, the fees for quality variations are under discussion. 
+3.10 
+Submission requirements for priority review applications (TYPE II applications only) 
+Kindly refer to the current version of the communication regarding priority review requests published on the 
+SAHPRA website. 
+3.11 
+Applying for a withdrawal of a variation submission 
+If a withdrawal of a variation submission is necessary, submit the withdrawal of the variation in a follow-up 
+sequence via the SAHPRA Engagement Portal in line with the current eCTD specifications. 
+ The following relevant supporting documents  are required: 
+• 
+The letter includes the motivation for the withdrawal of the variation submission, signed by the RP or 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 20 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+authorized pharmacist responsible for signing the dossier. 
+• 
+Proof of submission of the variation application. 
+3.12 
+Submitting the QIS/QOS 
+The QIS (Quality Information Summary) document is a product lifecycle management document, and it is 
+important that it is updated with each variation made to the product, which affects the QIS.  
+It is required that an updated and complete QIS be submitted with all quality variation submissions, if 
+affected by the change. Only the sections that have been amended should be highlighted in yellow and the 
+sections that have been replaced should have a strike through for e.g. (strike). Once the variation is 
+approved, the applicant can replace the stuck through information on the QIS document with the newly 
+approved data. A closing sequence may be submitted to SAHPRA to replace the annotated QIS document 
+with the approved clean QIS document. 
+A QOS (Quality Overall Summary) is only required for Type II API source change variations. Only the sections 
+of the QOS pertaining to the new source (3.2.S) should be completed. 
+Applications requiring a QIS document but submitted without, will be rejected and the applicant will be 
+requested to resubmit the application according to the requirements.  
+Note: The QIS/QOS is not a requirement for Certification, Clinical, Veterinary and Biological Medicines (Quality 
+and Clinical) Variations. 
+3.13 
+Submitting the variation validation template 
+The purpose of the Variation Validation Template is to verify that all the required information has been 
+submitted  to SAHPRA to evaluate the variation submission. It is also used for follow-up sequences that may 
+be required for the variation. 
+Applications submitted without the Variation Validation Template will be rejected and the applicant will be 
+requested to resubmit the submission according to the requirements. 
+Applicants must include a fully completed validation template in the applicable section for the submission. A 
+PDF and word version of this document should be included in Module 1.2.5.  
+For z-code applications: all conditions and all documentation requirements are applicable as far as is 
+relevant. Alternatively, the Applicant may populate Z-code information in Type II section of the validation 
+template (Section C). 
+3.14 
+Format change to the PI and PIL 
+The format for Professional Information and Patient Information Leaflets is reflected in the updated SAHPRA 
+SAHPGL-CEM-02 and SAHPGL-CEM-03 guidelines. 
+Note: PI changes to the EMA format are also applicable to veterinary medicines. 
+Repository of PIs and PILs 
+SAHPRA has published a repository of PIs and PILs on its website for the benefit of health care providers and 
+patients, as well as to enable streamlined Clinical evaluations of applications for generic medicines. Where 
+available for a given molecule, applications for generic medicines are required to reference the latest 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 21 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+published SAHPRA-approved innovator PI in the application. Clinical screening queries will be immediately 
+flagged for applications referencing an outdated/illegible PI where the latest version has been published on 
+SAHPRA’s website at the time of submission. 
+Note that the published PIs on SAHPRA’s website may also be applicable to selected variation applications 
+(e.g., safety update of a generic medicine where the same change has already been approved for the 
+reference local innovator medicine). 
+The final dated versions of the generic and innovator PI/PIL for which an approval letter has been sent to the 
+HCR/MAH, must be submitted via docubridge in a closing sequence using the Sequence Type “Closing 
+sequence” and Sequence Description “Approved updated PI/PIL” for uploading onto the PI and PIL repository 
+within 10 working days. Non-compliance may result in withdrawal of variation approval.  
+In addition, for Schedule 0-2 products, the applicant must upload the approved PI/PIL onto the SAHPRA OTC 
+repository within 10 working days from receipt of the approval letter. Non-compliance will be flagged, and 
+the applicant must rectify the omission within two (2) working days of notification. Withdrawal of the 
+variation approval will be enforced if the omission is not corrected within this timeframe. 
+Note: For veterinary medicines all the PIs are attached to the vet medicines database as well. 
+For quality variations affecting the PI/PIL (e.g., change in appearance of FPP, change in container, storage 
+conditions etc.), include a revised (annotated) PI/PIL in your submission (in Module 1.3). 
+3.15 
+De-linking of dossiers  
+For more information, please refer to the SAHPGL-HPA-09 SAHPRA ECTD SPECIFICATION 3.1 and Guidance 
+for Module 1 and Regional Information. 
+3.16 
+Request for extension  
+An applicant may, prior to the expiry of the prescribed response period,  submit a written request for  an 
+extension. No more than one extension shall be permitted, and any such extension shall not exceed  60 
+working days unless otherwise specified in the applicable processes of the relevant Technical Unit. A written 
+request should be submitted, accompanied by  a motivation letter  within 30 working days from the date of 
+the recommendation. Such motivation should be addressed to the following respective email addresses: 
+postregqualityvariations@sahpra.org.za 
+biologicals@sahpra.org.za 
+ clinical.variations@sahpra.org.za 
+namesandscheduling.variations@sahpra.org.za 
+variations.inspectorate@sahpra.org.za 
+The motivation letter should include the product name(s), application number(s) and be submitted along 
+with a copy of the recommendation letter.  
+Consult the fees guideline for appropriate fees for second response round. Submissions that do not address 
+all queries by the second response round will be rejected.   
+Please note that  if an applicant does not respond to the query within the specified timeframe and does not 
+request  for extension, the  application will be rejected .  
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 22 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+Applicants are reminded that new variations/changes may not be included in response submissions. These 
+new variations should be applied for, in a separate submission. If new variations are of high priority, e.g., 
+variations related to the implementation of pharmacovigilance recommendations, the response-variation 
+application should have proof of payment for the additional variation attached.   
+The latest SAHPRA fees gazette should be consulted for the appropriate fees that should be paid. 
+3.17 
+Unforeseen changes (z-codes)  
+For PEM Post Registration and Biologicals, any unforeseen changes that have not been detailed in the 
+classification and codes of this guideline should be submitted as a “z” code request.  
+ Applicants are to submit “z” code variation requests, for unforeseen variations), to the relevant technical 
+unit using the dedicated mailbox (postregqualityvariations@sahpra.org.za or biologicals@sahpra.org.za) 
+using the z-code Request Form (GLF-HPA-06A). This form is accessible on the SAHPRA website and must 
+accompany the z-code request email. The Applicant must ensure that the z-code request form and email are 
+included in the submission. z-code requests are product and sequence specific and may not be re-used for 
+other submissions The relevant Technical Unit will inform the applicant within 20 working days of the correct 
+classification, and the submission fee required via email. “z” Code submissions will not be accepted without 
+prior approval from SAHPRA.  The confirmation received from the technical unit should be included in 
+Module 1.0.3, Correspondence from SAHPRA.  
+For variations submitted to PEM (Post Registration and Biologicals) please make sure that the documents 
+as specified in Table 1 are included if applicable: 
+Table 1 – list of key documentation/data required for quality variation applications  
+1. Letter of application with (M1.0.1):  
+• 
+Purpose of the variation(s)  
+• 
+Description, Classification and Code of the Variation(s) (e.g. Type IB – B.II.b.3a)  
+• 
+Where a variation involves other products, the applicant must indicate/highlight on the 
+letter of application.     
+2. Application form (M1.2.1)  
+3. Proof of payment for the Variation application and fees breakdown for bulk payments 
+(M1.2.2.1)  
+4. Letter of authorisation for communication on behalf of the applicant/PHCR (M1.2.2.2)  
+5. Dossier product information (M1.2.2.3) (If applicable)  
+6. API change control (M1.2.2.6) (If applicable)  
+7. The current approved PI and PIL (M1.3.1.1 & M1.3.2) (if applicable)  
+8. Amendment/variation schedule (M1.5.2.1)  
+9. GMP certificates (M1.7.3) (if applicable)  
+10. SAPC registration (M1.7.7)  
+11. Responsible pharmacist declaration (M1.7.7) when required.  
+12. Completed validation template for variation applications indicating whether conditions are 
+met and supporting documents are included as per SAHPRA Variations Guideline 
+Annexures (M1.2.5)  
+13. Batch Manufacturing Records (M3.2.R.7) for changes to the FP formulation, FP 
+manufacturer, batch size, manufacturing process & equipment, in process control 
+specification (if applicable)  
+14. Amended QIS (and QOS where applicable) document (M3.2.R.8) (If applicable) 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 23 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+15. Reliance documentation – to be supplied for abridged and verified reviews  
+16. Full assessment/evaluation reports from RRAs, if available (M1.10.5)  
+17.  
+*The submitted specifications and analytical procedures must be signed, dated and version 
+controlled.  
+*For addition of API, the FPP manufacturer data must be submitted (3.2.S.4 & 3.2.S.5)  
+* The QIS (and QOS where applicable) is a requirement, and this should not change the prescribed 
+review timelines of 47 working days for Type IA, 87 for Type IB and 220 working days for Type II.  
+ 
+3.18 
+Clinical Post Registration 
+For variation application to other units affecting the PI and PIL: 
+Where the variation is a Type IA notification, proof of submission will be required. 
+Where the variation is a Type IB and/or Type II, an approval letter will be required. 
+3.18.1 Submission of Type I and II variation application(s) 
+For variation applications affecting the PI and PIL, approval from the Names & Scheduling Unit must first be 
+obtained before submission of the variation application to the Clinical Unit. For variations affecting the PI and 
+PIL from the PEM Unit, applicants must provide proof of submission. 
+The submission of Type I and II variation application(s) for evaluation should be classified according to 
+SAHPRA CODES AND VARIATION CLASSIFICATIONS.   
+Types of submissions that are prohibited  
+1. Parallel submissions of variation application(s) are not acceptable i.e. 1. simultaneous 
+submissions of separate variation application(s) of the same product, 2. submission of 
+variation(s) whilst there is a variation application in progress.   
+2. In the event were the applicant self-implements changes to the PI/PIL (Type IAin or Type IB) due 
+to the elapsed evaluation time and subsequently receives a non-approval letter from 
+the Authority, the self-implemented PI/PIL cannot be used as the current approved PI/PIL. In 
+this case the applicant will be required to retract and address the deficiencies.    
+3. Submission of a new or updated risk management plan (RMP) post-registration that does not 
+affect the PI/PIL should be submitted in a follow-up sequence via SAHPRA Engagement Portal 
+and should be directed to Pharmacovigilance Unit.  
+3.19 
+Period for response submissions and number of query rounds 
+For responses to technical screening queries, only 1 (one) query response round will be permitted. If the 
+applicant fails to address the queries adequately, the application will be rejected, and the applicant shall 
+submit a new application(s), and the applicable fee shall be payable.  
+For responses to evaluation recommendations/queries, only 2 (two) query response rounds will be 
+permitted. If the applicant fails to address the queries adequately by the 2nd (second) query round, the 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 24 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+variation application will be rejected, and the applicant shall be required to re-submit the variation 
+application, with the applicable fees.  
+3.20 
+Names and Scheduling 
+Variations applications are categorized as below:  
+• 
+Proprietary name change: Type II - Code PNC-1-(H,V,CH,CV)  
+• 
+Rescheduling application: Type II – Code RSC-2-(H,V,CH,CV) 
+• 
+Authorized Prescribers Amendment: Type II – APA-3-NS  
+N.B. All Names and Scheduling Type II applications require regulatory approval prior to implementation.  
+3.21 
+Proprietary Name Change Variation Applications 
+A guidance on the criteria applied by the South African Health Products Regulatory Authority (SAHPRA) when 
+evaluating the suitability of a proposed proprietary name for a medicine intended for human or veterinary 
+use is stipulated in the SAHPGL-CEM-NS-03 Guideline for Proprietary Names for Medicines.  
+The proposed proprietary name should be included in all the relevant modules. If the applicant has proposed 
+multiple names for the product, then all proposed proprietary names should appear in the variation 
+application. However, if only one name is proposed, then only one name may appear on all modules. 
+It is recommended that three (03) proposed proprietary names should be submitted for evaluation. Where 
+more than 03 proposed proprietary names are submitted per application, only the first 03 proposed 
+proprietary names will be evaluated per submission. The timeframe  for Type II proprietary name changes is 
+220 working days. 
+Refer to 3.7.4 Submitting a Transfer of Applicancy and Verification of GMP compliance for a Proprietary 
+Name Change to inspectorate. 
+3.22 
+Rescheduling Variation Applications  
+A guide on the criteria for rescheduling of registered medicine or substances is stipulated in the SAHPGL-
+CEM-NS-02 Guideline Scheduling of Substances and Medicines and SAHPGL-CEM-NS-01 Guideline for the 
+Rescheduling of substances and medicines. 
+Variation applications for the rescheduling of a registered medicine or substance (Type II) for evaluation by 
+the Names and Scheduling unit, must be submitted via the SAHPRA Engagement Portal. Refer to the SAHPRA 
+eCTD Specification 3.1 for more information.  
+For rescheduling of an existing registered product to a lower schedule which is part of an existing dossier, a 
+delinking from the master dossier will be required.   
+In the event of a rescheduling application for a product moving to a lower schedule, a unique proprietary 
+name and a separate new registration dossier is required.    
+The proprietary name change variation application for the de-linked medicine, should be submitted as the 
+next follow-up sequence and the applicant should amend the eCTD envelope to remove the details of the 
+master.  
+Scheduling of medicines as approved and gazetted by the Minister of Health  
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 25 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+Rescheduling recommendations that SAHPRA has approved will be submitted as an amendment to the 
+published Schedules, for consideration by the Minister of Health and publication in the Government Gazette.  
+Applicants are required to update their PI/PIL and all relevant sections of the dossier for the registered 
+product to align with the new requirements as published and gazetted by the Minister of health.  
+For Rescheduling Type II variation applications made to SAHPRA, the timeline will be 220 working days. 
+3.23 
+Authorized Prescribers Amendment 
+A guidance on the criteria and policies applied by SAHPRA when evaluating applications for amendments to 
+the Schedules with the objective of specifying substances to be made available for prescription by designated 
+categories of health professionals, other than medical practitioners or dentists, as provided for by section 
+22A of the Medicines and Related Substances Act, 1965 (Act 101 of 1965) refer to SAHPGL-CEM-NS-04 
+Scheduling of Substances for Prescribing by Authorised Prescribers other than Medical Practitioners or 
+Dentists.   
+Authorized Prescribers Amendment applications are requests made to SAHPRA and follow a 220 working day 
+timeline. 
+3.24 
+Inspectorate 
+All queries related to Inspectorate variation applications must be submitted via the dedicated email address: 
+variations.inspectorate@sahpra.org.za   
+For Proprietary Name Change the inspectorate should verify the GMP status of the manufacturing site listed 
+in the medicines register prior to an updated registration certificate being issued. Therefore, applicants must 
+apply for GMP Site verification to the inspectorate using an Inspectorate code simultaneously when applying 
+for Proprietary name change. Applicants are reminded to include valid GMP certificates/Licence/Resolution 
+letter when applying for GMP Site verification for proprietary name change.  
+For a combined Transfer of Applicancy and Proprietary name change variations refer to heading 3.7.4 
+Submitting Proprietary name change and Inspectorate together. 
+3.25 
+Certificate Variations 
+Please note: Throughout the communication, whenever the terms registration certificate(s) or certificate(s) 
+appear and the term old medicine letter has not been included, the assumption should be that the same 
+applies for old medicine letters as well. Hence, if the variation application submitted is for an unregistered 
+product (old medicine), then the term old medicine letter is applicable, except in distinctly specific 
+circumstances wherein the term old medicine letter cannot be practically applicable.  
+Certificate variations must be applied for within 30 working days after the approval letters are received from 
+the relevant units (Naming and Scheduling and Inspectorate), for which the required changes are to be made 
+on the revised registration certificate.  
+Note: On submission of transfer of Holder of Certificate of Registration/proprietary name change 
+applications, there should be no pending variations that affect the information on the registration 
+certificate.  
+Only selected variation applications require the issuing of an amended registration certificate:   
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 26 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+• 
+Changes in the proprietary name of a product.  
+• 
+Transfer of the Holder of Certificate of Registration.  
+• 
+Combined transfer of Applicancy and proprietary name change. 
+The approval letters issued by the relevant units for all other changes (i.e. amendment to dosage form, 
+changes in the manufacturer, change in formulation), that are reflected on registration certificate must be 
+appended to the current registration certificate (Module 1.5.2.2.2).    
+For transfer of applicant and proprietary name change variations, a separate closing sequence to issue the 
+revised registration certificate must be submitted and must include the approval letter issued by the naming 
+and scheduling unit and/or approval letter issued by Inspectorate.   
+Applicants must submit these applications separately, without any technical variations e.g. adding a 
+new/additional manufacturer and/or a primary packer. This will allow for a streamlined process for 
+certification.  
+For transfer of Holder of certificate of registration or proprietary name change variations, a variation is only 
+considered approved once a revised old medicine approval letter/registration certificate is issued.  
+Certification requires 30 working days to finalise the revised registration certificate, barring no query(ies) on 
+the application.  
+If applicable, queries will be communicated to the applicant. The applicant will be requested to submit the 
+correct information in a follow-up sequence. The applicant should also provide proof of upload of the 
+response to the certification mailbox: certificationvariations@sahpra.org.za.  
+The proprietary name change variation application for the de-linked medicine must be submitted as a follow-
+up sequence and the applicant should amend the eCTD envelope to remove the details of the master. 
+The final approved proprietary name must be included in all relevant modules when submitting the 
+closing sequence and certificate variation request. 
+3.26 
+Documentation for Reliance 
+SAHPRA has developed reliance pathways to streamline the application approval process. To facilitate this 
+process, Applicants are reminded of the reliance requirements below:  
+Inspectorate reserves the right to reject or approve the inspection outcome from the inspection conducted 
+by an Authority in which a GMP MRA with SAHPRA exists. Refer to the Guideline SAHPGL-INSP-02_v8-
+Guideline-on-Good-Manufacturing-Practice-for-Medicines, Section 3.2.  
+Standard documentation for Inspectorate variation applications (Refer eCTD Validation and Technical 
+screening for Variation). 
+3.27 
+Documentation/ data requirements  
+3.27.1 General  
+All variation submission should include an application form, available on the SAHPRA website, the cover 
+letter and tabulated schedule of amendments (see appendix). 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 27 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+3.27.2 Clinical and Pharmacovigilance  
+Table 2 below covers all the potential documentation/data requirements for a given submission (to be read 
+in conjunction with both the SAHPGL-CEM-01 Clinical Guideline and 2.24 Guidance for the Submission of the 
+South Africa CTD / eCTD – General & Module 1). This represents the key requirements for variations 
+applications – applicants may submit other relevant documentation not listed in Table 2 as needed. Note 
+that the MRF4 form is no longer required.   
+This is followed by Table 3, which provides the requirements for each code applicable to Clinical and 
+Pharmacovigilance.   
+ 
+Table 2 – list of key documentation/data required for clinical variation applications  
+       Standard documentation for variation applications  
+1. Letter of application with a company letter head (M1.0.1):  
+• 
+Purpose of the variation(s)  
+• 
+Description, Classification and Code of the Variation(s) (e.g. Type II – C.I.4)  
+• 
+Where a variation leads to or is the consequence of other variations to the term of the same 
+registered medicine, a description of the relation between these variations should be 
+provided in the appropriate section of the application  
+• 
+Where a variation is considered ‘unforeseen’ (i.e. C.I.13), a brief explanation/justification 
+is required  
+2. Where a variation is the implementation of wording requested by SAHPRA, reference to the 
+associated agreement/assessment/decision should be attached to the letter of 
+application Application form (M1.2.1)  
+ 
+3. Proof of payment for the Variation application (M1.2.2.1)  
+4. The current approved dated PI and PIL (M1.3.1.1 & M1.3.2)5. Annotated/revised proposed PI and 
+PIL as well as the clean versions (M1.3). The annotated/revised proposed PI and PIL should be dated, 
+initialled, paginated as page X of Y 
+5. Validation template for variation applications (M1.2.5)  
+6. For generic applications, the latest approved South African innovator PI, and if the medicine is no 
+longer marketed in South Africa, the most recently updated SAHPRA approved generic medicine PI 
+(M1.3.1.2)  
+ 
+       Additional requirements for selected variation applications  
+7. Dear Healthcare Professional (DHCP) Letter (attached to the letter of application – M1.0.1)  
+8. PBRER/PSUR (M5.3.6)  
+9. RMP (M1.8.2)  
+10. Peer-reviewed literature-based studies in support of the proposed variation(s) (M5)  
+ 
+       Clinical data [where applicable for relevant Type II variations]  
+11. Overview of clinical data supporting the proposed variation(s) (M2.5)  
+12. Synopsis of each clinical study supporting the proposed variation(s) (M2.7)  
+13. Clinical expert reports with data/information relevant to the proposed variation(s) of the PI (M2.5)  
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 28 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+14. Clinical study data relevant to the proposed variation(s) of the PI (M5)  
+15. Studies demonstrating additional pharmacokinetic properties in special populations, if not studied 
+previously (M5)  
+ 
+       Reliance documentation – to be supplied for both abridged and verified reviews  
+16. Latest approved SmPC/ PI approved by a RRA, where applicable (M1.3.5)  
+ 
+       Reliance documentation – to be supplied for abridged reviews of Type II variations only  
+17. Full assessment/evaluation reports from RRAs, if available (M1.10.5)  
+18. Letter of access granting SAHPRA permission to obtain unredacted reports from RRAs (attached to 
+the letter of application – M1.0) [Not required in instances where the applicant supplies the un-
+redacted reports of RRAs to SAHPRA directly]  
+19. Correspondence between the Applicant and other RRAs, concerning queries relating to safety, 
+efficacy, risk/benefit and RMP issues, if applicable. Detailed explanation/reasons if 
+registration/approval was refused by a Regulator with which SAHPRA aligns itself (M1.10.1)  
+ 
+a.  For variations submitted in eCTD format:   
+b. When clinical data is required, the data submitted should be limited to the proposed variation – data 
+in support of the initial registration alone is not required.  
+c. Refer to the SAHGL-BAU-01 Reliance Guideline, which defines the evaluation pathways for 
+variations, along with the requirements for the letter of access.   
+  
+3.28 
+Work-sharing and extension applications  
+3.28.1 Work-sharing 
+For information on SAHPRA’s reliance pathways consult the Reliance guideline.  
+3.28.2 Extension applications 
+Extensions are defined as changes to the registered product that do not fall within the scope of a variation 
+and fundamentally alter the product, such as:  
+• 
+Change in active substance (e.g., new salt, ester, complex). 
+• 
+Change in strength, pharmaceutical form, or route of administration. 
+• 
+Other changes specific to veterinary medicinal products to be administered to food-producing 
+animals or change or addition of target species. 
+ 
+These applications fundamentally alter the terms of the initial registration and thus cannot be evaluated 
+according to a variation’s procedure. Extension applications will typically be accompanied by a new 
+registration certificate.   
+In terms of procedure, extension applications will be treated as new registrations by SAHPRA.  
+ 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 29 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+3.29 
+ Appendix  
+The following must be included as part of the submission of a variation application to SAHPRA (when 
+relevant):  
+a) Tabulated Schedule of Amendments – M1.5.2.1  
+b) Medicine Register Details – M1.5.2.2  
+c) Affidavit by the HCR / Applicant – M1.5.2.3  
+ 
+4. REFERENCES 
+The following related documents are referenced:  
+[SAHPGL-HPA-07]   
+   General information guideline   
+[SAHPGL-PEM-02]   
+   Quality and Bioequivalence Guideline   
+[SAHPGL-CEM-01]   
+   Clinical guideline   
+[SAHPGL-CEM-03]   
+   Guideline for Patient Information Leaflet for Human Medicines   
+[SAHPGL-CEM-02]   
+   Guideline for Professional Information for Human Medicines   
+[SAHPGL-HPA-09]   
+   SAHPRA eCTD Specification 3.1 and Guidance for Module 1 and Regional 
+Information 
+[SAHPGL-PEM-VET-
+04]   
+   General Information Guideline for Veterinary Medicines   
+[SAHPGL-PEM-VET-
+02]   
+   Veterinary Medicines Clinical Guideline   
+[SAHPGL-INSP-02]   
+   SA Guide to Good Manufacturing Practice   
+[SAHPGL-CEM-NS-02]    Guideline to the Scheduling of Medicines   
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 30 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+   
+[SAHPGL-CEM-NS-01]
+   
+   Application for rescheduling of a substance or medicine   
+[SAHPGL-FIN-01]   
+   SAHPRA Payment Guideline   
+[SAHGL-BAU-01] 
+   Reliance Guideline   
+Templates:   
+[GLF-HPA-03A]   
+   SAHPRA Variation Validation Template for eCTD   
+[GLF-PEM-02C]   
+   Template for Module 2.3_Quality Information Summary (QIS)   
+[GLF-PEM-02D]   
+   Template for Module 2.3_Quality Overall Summary (QOS)   
+[GLF-HPA-06G] 
+ 
+Application Letter Template Post Registration Variations 
+ 
+5. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old revision 
+(v7). It will be reviewed on this time frame or as and when required. 
+ 
+ 
+ 
+Appendix A 
+Tabulated Schedule of Amendments  
+ 
+Note: Landscape format is recommended for this table. A column headed “Effect of amendment” is only 
+applicable to Module 3.2.P.1 and should NOT be included for the whole table. Only those variations / 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 31 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+amendments listed in the table below may be reflected in the dossier.   
+The amended Modules are as follows:  
+Modules  
+Comparison between Modules  
+Reason 
+for
+amendment  
+Reviewer’s 
+comment  
+Existing  
+Amended  
+Example 1 is not acceptable – it will take longer to evaluate as the changes have not been identified for easy 
+reference.  
+The format of example 2 is recommended as evaluation is facilitated by the identification of the specific items. 
+Example 1  
+3.2.P.8  
+Stability report: XXX  Stability report YYY 
+replaces report XXX  
+Includes 
+stability 
+data on 2 batches
+stored 
+for 
+36 
+months  
+ 
+Example 2  
+3.2.P.8.3  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stability data on two 
+production batches
+stored for 24 months
+(about 2 years) at 25
+ºC/60 % RH and for 
+3 months at 40 º
+C/75 % RH  
+submitted.  
+Stability data on the 
+same two production
+batches stored for 36 
+months 
+at 
+25 º
+C/60 % RH included.  
+ 
+Extension 
+of 
+the 
+shelf- 
+life 
+to 
+36 
+months applied for.  
+ 
+No index attached
+data only referred 
+to.  
+Detailed 
+index 
+included   
+Administrative 
+update to facilitate 
+review.  
+ 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 32 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+3.2.P.8.1  
+Shelf-life 
+of 
+24 
+months approved.  
+A discussion of the 
+results is included,
+and 
+a 
+36-month
+shelf-life is inferred.  
+Extension 
+of 
+the 
+shelf- 
+life 
+to 
+36 
+months applied for.  
+ 
+ 
+Note: Stability specification limits should be reflected in the stability report. Out-of-specification results should 
+be addressed.  
+  
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 33 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+Appendix B 
+Medicine Register Details   
+The following information should be included in Module 1.5.2.2.  
+1. Product to which this application refers  
+ 
+Proprietary name of medicine  
+Registration/Reference number  
+Registered medicine (R) / Old 
+Medicine (OM)  
+ 
+  
+  
+  
+2. Details (if there is no change to the “Current”, indicate as such under “Proposed”, do not state N/A)  
+  
+ 
+Details on Current registration 
+certificate/old medicine letter  
+Details on Proposed registration
+certificate/old medicine letter  
+Proprietary Name  
+  
+HCR/Applicant  
+  
+  
+Name of Address  
+  
+  
+ 
+  
+  
+ 
+  
+  
+Contact person:  
+  
+  
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 34 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+Name  
+  
+  
+Designation  
+  
+  
+Telephone no.  
+  
+  
+Manufacturer  
+  
+  
+Name and Address  
+  
+  
+SAHPRA License No.  
+  
+  
+SMF Reference No.  
+  
+  
+Primary and Secondary Packer  
+  
+  
+Name and Address  
+  
+  
+SAHPRA License No.  
+  
+  
+SMF Reference No.  
+  
+  
+FPRC  
+  
+  
+Name and Address  
+  
+  
+SAHPRA License No.  
+  
+  
+SMF Reference No.  
+  
+  
+FPRR  
+  
+  
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 35 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+Name and Address  
+  
+  
+SAHPRA License No.  
+  
+  
+SMF Reference No.  
+  
+  
+Formulation  
+If the formulation is the same, confirmation of this effect will suffice.  
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 36 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+Appendix C 
+Affidavit by the HCR / Applicant   
+The following affidavit should be included in Module 1.5.2.3. The affidavit should be on company letterhead 
+and include only those statements relevant to the application. In the case of a Transfer of the Certificate of 
+Registration (ToHCR), this must be done by the proposed HCR.  
+AFFIDAVIT BY THE HCR / APPLICANT  
+PRODUCT NAME: { } REGISTRATION NUMBER: { }  
+I, {insert full name and surname} Responsible Pharmacist [as defined in Section 22C(1)(b) of Act 101 of 1965] 
+of {insert Company name} confirm that:  
+1. I am in possession of the master documentation pertaining to the above-mentioned medicine.  
+2. This master documentation is the same as that which was in existence when the medicine was initially 
+registered or which has been updated in accordance with amendments of the medicine registration 
+form (MRF1/CTD) in accordance with the provisions of the regulations under the Medicines and 
+Related Substances Control Act, 1965 (Act 101of 1965).  
+3. The master documentation conforms with the Registration dossier;  
+4. The master documentation is properly authorised (i.e., signed and dated by at least the responsible 
+pharmacist), and the quality assurance or production manager as applicable;  
+5. The master documentation has been supplied to the new manufacturer/packer or laboratory {state 
+company and role} and that applicable control records have been compiled. I confirm further that I 
+have signed these to indicate my approval that they contain all the requirements listed in the relevant 
+master documents; namely  
+• 
+formulation and method of manufacture and packaging in-process control procedures  
+• 
+specifications pharmaceutical ingredients specifications for the final product specifications for the 
+packaging material specifications for the label  
+• 
+specifications for the package insert  
+SAHPGL-HPA-06_v7 
+SAHPGL-HPA-06_v8                                                                                                                                                                                       Page 37 of 37
+Variations Guideline for Human and Veterinary Medicine 
+13 August 2026 
+ 
+ 
+• 
+testing procedures for the pharmaceutical ingredients testing procedures for the final product  
+• 
+testing procedures for the packaging materials.  
+6. I confirm that a technical agreement and/or signed contract(s) exist(s) with all third-party 
+manufacturer(s)/packer(s)/laboratory(ies) involved in manufacturing of this product.  
+7. For an alternative/additional manufacturer:  
+• 
+I confirm that the manufacturing procedure (including equipment) is identical to the manufacturing 
+procedure currently used or  
+• 
+I confirm that the manufacturing procedure (including equipment) differs, but falls within the <Type 
+IA><Type IAIN>< and><Type IB> amendments or  
+• 
+I confirm that the manufacturing procedure (or equipment) is different from the manufacturing 
+procedure (or equipment) currently on file outside of the <Type IA><Type IAIN>< and><Type IB> 
+amendments and that comparative data (efficacy), stability data or protocol (as applicable), and a 
+validation protocol for the first three production batches, are submitted.  
+8. <I confirm that the PI will be updated to reflect the new HCR details and will submit the amended PI 
+with the first update of the dossier after authorisation of this amendment. (for ToHCRs only)>  
+9. <I confirm that the Registration dossier will be fully updated to the current statutory format and 
+current scientific standards within 12 months of transfer of the certificate of registration, or approval 
+of additional, or change of manufacturer.>  
+OR  
+<I confirm that the Registration dossier will be fully updated to the current statutory format and current 
+scientific standards by (stipulate date) in accordance with the programme as approved by the Inspectorate.>  
+Signed on {DD/MM/YYYY}:  
+  
+ 
+

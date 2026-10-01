@@ -1,0 +1,394 @@
+SAHPGL-CEM-CT_05 GUIDELINE FOR LIABILITY INSURANCE FOR CLINICAL TRIALS_ March 2026 _V4 
+Page 1 of 8
+ 
+ 
+ 
+24 March 2026 
+ 
+GUIDELINE FOR LIABILITY INSURANCE FOR CLINICAL TRIALS 
+ 
+This document has been prepared to serve as a guideline to clarify the requirements of insurance for those who 
+conduct interventional clinical trials involving human participants and intend on making a submission for approval 
+of a clinical trial by South African Health Products Regulatory Authority (SAHPRA).  SAHPRA reserves the right to 
+request any additional information and may make amendments in keeping with the knowledge which is current at 
+the time.  
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+published for implementation 
+February 2016 
+2 
+Published for implementation 
+April 2019 
+3 
+Administrative changes  
+Change of document number from 2.55 to SAHPGL-CEM-CT-05 
+August 2022 
+4 
+Administrative changes 
+Clarified the requirements of clinical trial insurance for approval of a study 
+March 2026 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-CT 05 LIABILITY INSURANCE FOR CLINICAL TRIALS MARCH 2026 V4 
+Page 2 of 8
+ GUIDELINE FOR LIABILITY INSURANCE FOR CLINICAL TRIALS 
+ 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+1. 
+INTRODUCTION ......................................................................................................................................... 3 
+1.1  Purpose and cope ...................................................................................................................................... 3 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 3 
+3. 
+DESCRIPTION OF CLINICAL TRIALS THAT REQUIRE AN INSURANCE CERTIFICATE ..................................... 3 
+3.1 Responsibility for the provision of insurance in an application for the conduct of a clinical trial ............ 3 
+3.2 Indemnification of trial sites and investigators by sponsor/applicant ...................................................... 3 
+4. 
+COVERED RISK AND PROCEDURES............................................................................................................. 3 
+4.1 
+Payment of Compensation .................................................................................................................. 4 
+5. 
+INSURANCE AGAINST TRIAL-RELATED INJURIES ........................................................................................ 4 
+5.1 
+Basic Principles: ................................................................................................................................... 4 
+5.2 
+No Obligation to Pay Compensation ................................................................................................... 5 
+6. 
+INFORMED CONSENT (IC) .......................................................................................................................... 5 
+7. 
+INSURANCE CERTIFICATE ........................................................................................................................... 5 
+7.1  
+Requirements for the Certificate ........................................................................................................ 5 
+8. 
+PROCEDURE FOR CLAIMS .......................................................................................................................... 6 
+9. 
+NOTE .......................................................................................................................................................... 7 
+10. REFERENCES ............................................................................................................................................... 7 
+11. VALIDITY .................................................................................................................................................... 8 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-CT 05 LIABILITY INSURANCE FOR CLINICAL TRIALS MARCH 2026 V4 
+Page 3 of 8
+ GUIDELINE FOR LIABILITY INSURANCE FOR CLINICAL TRIALS 
+ 
+ 
+ 
+1. 
+INTRODUCTION 
+In terms of the responsibilities of the sponsor/applicant as described in the current Good Clinical Practice (GCP) 
+Guidelines, all sponsors/applicants and investigators of clinical trials must have adequate comprehensive 
+insurance to cover for any liability claim during the conduct of a clinical trial with exception for claims that arise 
+from malpractice and/or negligence. 
+Liability insurance in clinical trials refers to the insurance or indemnity covering the liability of the 
+sponsor/applicant and/or the investigator in respect of claims made against them by the participants with 
+respect to injury attributable to their participation in a clinical trial. 
+The current GCP guidelines provide broad guidance regarding injuries (including death) for which insurance 
+would be required.  These requirements were developed taking into consideration the current Association of 
+the British Pharmaceutical Industry’s (ABPI) clinical trial compensation guidelines. 
+Research participants who suffer injury as a result of their participation should be provided medical treatment 
+at no cost to themselves or their families. Such financial or other assistance should compensate them equitably 
+for any medical treatment for resultant impairment, disability or handicap.  In the case of death as a result of 
+their participation, their dependants are entitled to compensation (WHO 2016 and ABPI 2014).  
+ 
+1.1  
+Purpose and cope 
+ 
+The guideline is applicable for phase 1 to 3 and seeks to clarify the requirements for such insurance for purposes 
+of making a submission for approval of a clinical trial by SAHPRA. 
+2. 
+LEGAL PROVISION 
+This guideline is established in terms of Regulation 30 of the Medicines and Related Substances Act, 101 of 1965, 
+on the conduct of clinical trials. 
+3. 
+DESCRIPTION OF CLINICAL TRIALS THAT REQUIRE AN INSURANCE CERTIFICATE 
+Insurance is required for the conduct of interventional clinical trials involving human participants. 
+ 
+3.1 
+Responsibility for the provision of insurance in an application for the conduct of a clinical trial 
+Evidence of comprehensive no fault insurance for serious injury and harm and/or death should be provided 
+by the sponsor and/or applicant 
+Sponsor/applicant should take responsibility of ensuring that participants are fully compensated.  
+3.2 
+Indemnification of trial sites and investigators by sponsor/applicant 
+The sponsor/applicant must provide indemnification for all investigators and trial sites involved in their clinical 
+studies on compliance with the protocol requirements. In cases where the investigators/site staff were 
+negligent and/or did not comply with the protocol requirements, personal malpractice insurance would apply. 
+4. 
+COVERED RISK AND PROCEDURES 
+SAHPGL-CEM-CT 05 LIABILITY INSURANCE FOR CLINICAL TRIALS MARCH 2026 V4 
+Page 4 of 8
+ GUIDELINE FOR LIABILITY INSURANCE FOR CLINICAL TRIALS 
+ 
+ 
+ 
+Notwithstanding the absence of legal commitment, the sponsor/applicant should pay compensation to all 
+participants including healthy volunteers suffering bodily injury, including death, in accordance with this 
+guideline. 
+4.1 
+Payment of Compensation  
+The following should be considered in compensation of participants: 
+• 
+If, on the balance of probabilities, the injury is attributable to the administration of an investigational product 
+or any clinical intervention or procedure provided for by the protocol that would not have occurred but for 
+the inclusion of the participant in the trial. 
+• 
+Compensation should be paid for a child injured in-utero through the participation of the biological parent in 
+a clinical trial as if the child were a patient-volunteer with the full benefit of SAHPRA guidelines. 
+• 
+Compensation should only be paid for a serious injury of an enduring or disabling nature (including 
+exacerbation of an existing condition) and not for temporary pain or discomfort or less serious occurrences.  
+• 
+Where there is an adverse reaction to an investigational product under trial and the injury is caused by a 
+procedure adopted to deal with that adverse reaction, compensation should be paid for such injury as if it 
+were caused directly by the investigational product under trial. 
+• 
+The sponsor/applicant is under strict liability in respect of injuries caused by the investigational product or 
+procedures provided for by the protocol that would not have occurred but for the inclusion of the participant 
+in the trial, regardless of whether the participant is able to prove negligence on the part of the 
+sponsor/applicant or that the investigational product is defective.  
+5. 
+INSURANCE AGAINST TRIAL-RELATED INJURIES 
+5.1 
+Basic Principles: 
+5.1.1 
+Research participants should not have to bear the financial cost of rectifying harms that occur when 
+ 
+something goes wrong during the study. It is thus essential that provision is made for comprehensive 
+ 
+insurance against medical treatment required for trial-related bodily injury.  
+5.1.2 
+The current SA GCP follows the lead of the Association of the British Pharmaceutical Industry (ABPI), which 
+recommends that sponsors/applicant is to adopt the position of paying for treatment in the event of trial-
+related injury, including death.  
+5.1.3 
+If a trial-related serious bodily injury of an enduring nature occurs as a result of participation in the 
+ 
+trial, then the insurer pays the medical costs of necessary treatment to restore the participant to his 
+ 
+previous status as far as possible.  
+5.1.4 
+Payment of medical expenses by the insurer is triggered when, on a balance of probabilities, bodily 
+ 
+injury is attributable to administration of an investigational product under trial or to a clinical 
+ 
+intervention or procedure provided for by the protocol, which (bodily injury) would not have occurred 
+ 
+but for the participant being included in the trial. In the case of an in utero injury to an unborn child 
+ 
+due to the mother’s participation, payment for medical expenses proceeds as though the unborn 
+ 
+child is a research participant. 
+5.1.5 
+In principle, only bodily injuries of an enduring and disabling character requiring medical treatment 
+ (including exacerbation of an existing condition) and/or compensation for death are paid by the 
+ sponsor/applicant. Temporary pain or discomfort or less serious or curable complaints are generally not 
+regarded as trial-related bodily injury. In the case of bodily injury caused by the response to an adverse reaction 
+to an investigational product under trial, the insurance cover will apply. 
+SAHPGL-CEM-CT 05 LIABILITY INSURANCE FOR CLINICAL TRIALS MARCH 2026 V4 
+Page 5 of 8
+ GUIDELINE FOR LIABILITY INSURANCE FOR CLINICAL TRIALS 
+ 
+ 
+ 
+5.1.6 
+Payment for medical expenses is made without acknowledgement of any liability. 
+5.1.7 
+The provision of insurance cover and payment of medical expenses does not mean that an injured 
+ participant may not pursue legal action against the sponsor/applicant to claim compensation for loss or harm 
+not covered by the insurance. 
+ 
+Note:  
+Neither the fact that the adverse reaction causing the injury was foreseeable or predictable, nor the fact that 
+the participant has freely consented (whether in writing or otherwise) to participate in the trial should exclude 
+a participant from consideration for compensation under these guidelines. 
+ 
+5.2 
+No Obligation to Pay Compensation  
+ NO OBLIGATION TO PAY COMPENSATION WILL EXIST: 
+• 
+For the failure of an investigational product to have its intended effect or to provide any other benefit to the 
+participant. 
+• 
+To participants receiving placebo in consideration of its failure to provide a therapeutic benefit. 
+• 
+For injury caused by other licensed medicinal products administered to the participants for the purpose of 
+comparison with the product under trial.  
+• 
+In the case of negligence or a serious violation of the protocol by the investigator, his/her personal malpractice 
+insurance would apply. All healthcare professional involved in clinical trials should have personal malpractice 
+cover. 
+• 
+In case of proven participant negligence, the sponsor/applicant may consider compensation on ethical grounds 
+on case by case basis.  
+The amount of compensation to be paid should be appropriate to the nature, severity and persistence of the 
+injury and should in general terms be consistent with the quantum of damages commonly awarded for similar 
+injuries by a South African Court in cases where legal liability is admitted. 
+6. 
+INFORMED CONSENT (IC) 
+The informed consent discussion and the written informed consent form or any other written information to be 
+provided to participants involved in a clinical trial must include clear instructions on reporting trial related harms 
+and include explanations of the compensation and/or treatment available to the participant in the event of trial-
+related injury. The details for submitting a claim should be explained to the participants and included in the 
+Patient Information Leaflet and informed consent discussion.  
+7. 
+INSURANCE CERTIFICATE 
+A copy of the trial-specific insurance certificate must be included with the SAHPRA application. It is unacceptable 
+to have deductibles or co-payment for which the participant is liable. 
+ 
+7.1  
+Requirements for the Certificate 
+7.1.1 When applying to SAHPRA for approval of a clinical trial, an insurance certificate should provide the following 
+information and meet the following criteria: 
+• 
+Name and local address of the insurance company, including contact name and telephone number.  
+SAHPGL-CEM-CT 05 LIABILITY INSURANCE FOR CLINICAL TRIALS MARCH 2026 V4 
+Page 6 of 8
+ GUIDELINE FOR LIABILITY INSURANCE FOR CLINICAL TRIALS 
+ 
+ 
+ 
+• 
+Title and protocol number of the clinical trial. 
+• 
+Date of commencement and termination of coverage.  
+• 
+Liability limit – per occurrence and total per occurrence and total for the study.  Note that the limit should be 
+adequate enough to cover extended stay in an intensive care unit or hospital. 
+• 
+The total number of participants in South Africa who will be participating in the trial 
+• 
+Date of issuance of the insurance policy and expiry thereof.  
+• 
+Original or electronic signature of the insurer.  
+• 
+Special conditions if any. It is unacceptable to have special conditions which may invalidate or abate the clinical 
+trial cover. 
+• 
+Any additional coverage.  
+• 
+Declaration of compliance with latest SA GCP guidelines and ABPI guidelines on the certificate and in the 
+Patient Information Leaflet (PIL). 
+• 
+Where the insurance is not provided by a local company, a local insurance vendor must be identified with full 
+details.  
+• 
+The total number of participants from South Africa who are participating in the trial.  
+ 
+ 
+ 
+7.1.2 
+There should be an unambiguous statement regarding the South African claim procedure for participants in the 
+Patient Information Leaflet. 
+7.1.3 
+The dates for insurance cover should be inclusive of the date of approval of the clinical trial, the anticipated 
+duration of the trial procedures as well as a reasonable period for the emergence of late injuries. 
+7.1.4  
+If the sponsor ceases to exist due to it being taken over by another company, all liability must be taken over by 
+the new company. 
+7.1.5 
+Where insurance is renewable on an annual basis, the certificate to this effect should be provided by the 
+sponsor/applicant. 
+7.1.6 
+The insurance must be underwritten by an insurance company in accordance with the South African Insurance 
+Act 18 of 2017. 
+7.1.7 
+Justification for the liability limits should be provided in the clinical trial application and should be specific to 
+the nature of the health technology profile and disease process being investigated.  
+ 
+Please note: SAHPRA takes no responsibility for any claims for injury as a result of a clinical trial it has approved 
+in pursuance of its statutory duties in terms of Medicines and Related Substances Act 101 of 1965. 
+8. 
+PROCEDURE FOR CLAIMS 
+8.1  
+Claims in pursuance to these guidelines should be made by the participant and/or immediate family to the 
+sponsor/applicant, preferably via the investigator, setting out details of the nature and background of the claim 
+and, subject to the participant providing on request an authority for the sponsor/applicant to review any 
+medical records relevant to the claim, the sponsor/applicant should consider the claim expeditiously. 
+If there is a dispute between the participant and the investigator, claims should be made against the 
+sponsor/applicant, unless it is proven that the occurrence is due to the investigator’s negligence. In case of a 
+SAHPGL-CEM-CT 05 LIABILITY INSURANCE FOR CLINICAL TRIALS MARCH 2026 V4 
+Page 7 of 8
+ GUIDELINE FOR LIABILITY INSURANCE FOR CLINICAL TRIALS 
+ 
+ 
+ 
+claim the participant and/or immediate family should be able to contact the broker or insurance company 
+directly. 
+8.2  
+Arbitration in case of dispute: 
+ 
+In the case where the sponsor/applicant concedes that payment should be made to a participant but there 
+exists a difference of opinion between sponsor/applicant and participant as to the appropriate level of 
+compensation, it is recommended that the sponsor/applicant agree to seek at its own cost (and make available 
+to the participant) the opinion of a mutually acceptable independent medico-legal expert.  
+ 
+The medico-legal opinion should be given substantial weight by the sponsor/applicant in reaching its decision 
+on the appropriate payment to be made. 
+9. 
+NOTE 
+• 
+The provisions of this guidance do not in any way absolve the investigator of the requirement for personal 
+malpractice insurance. 
+• 
+The participant’s medical insurance and/or state healthcare system should not be responsible for any part of 
+treatment or compensation for trial related injury/harm. All healthcare professionals involved in a clinical trial 
+should have their own personal malpractice insurance to cover negligence and malpractice in the conduct of 
+clinical trials. 
+• 
+The fact that a sponsor/applicant has agreed to abide by these guidelines in respect of a trial does not affect 
+the right of a participant to pursue a legal remedy in respect of injury alleged to have been suffered as a result 
+of participation. 
+• 
+The sponsor should provide indemnity for sites and staff taking part in the study. The following wording serve 
+as a guide for sponsor indemnification for investigators and sites and is not an exclusive approach:  
+In consideration of the {PI’s / Institution’s / Research Unit’s] participation in the study, we shall indemnify and 
+hold harmless [Name of PI / Institution / Research Unit] and its employees from any legal liability for costs or 
+damages for death or personal injury which may result from the administration of [Name of compound] 
+pursuant to the said study.  This indemnity does not apply to the extent that such death or personal injury arises 
+out of any negligent act, default or omission of [Name of PI / Institution / Research Unit] or its employees.  
+Furthermore, this indemnity is subject to the condition that the study is carried out in accordance with the 
+Protocol approved by us in writing, that [Name of Sponsor] is notified as soon as possible on receipt of any 
+claim, that [Name of Sponsor] shall have full control of the management and defence of any such claim and 
+that no offer to compromise or settle any claim is made without the written agreement of [Name of Sponsor]. 
+10. 
+REFERENCES  
+Association of the British Pharmaceutical Industry. 2014. Clinical Trial Compensation Guidelines.  
+National Department of Health.  2020. South African Good Clinical Practice Guidelines. 3rd Edition. South Africa.  
+World Health Organization. 2016. Guideline 19: International Ethical Guidelines for Health-related Research 
+Involving Human Subjects: Prepared by the Council for International Organizations of Medical Sciences (CIOMS) 
+in collaboration with the World Health Organization (WHO); Geneva. 
+Regulation (EU) No 536/2014 of the European Parliament and of the Council of 16 April 2014 on clinical trials 
+on medicinal products for human use 
+ICH-E6 Good Clinical Practice Current Step 4 version dated  06 January 2025.   
+SAHPGL-CEM-CT 05 LIABILITY INSURANCE FOR CLINICAL TRIALS MARCH 2026 V4 
+Page 8 of 8
+ GUIDELINE FOR LIABILITY INSURANCE FOR CLINICAL TRIALS 
+ 
+ 
+ 
+Divatia, J.V., Desai A., Pramesh, C.S., Mohandas, K.M., Gupta S., & Badwe, R.A. 2012. Compensation guideline 
+for research related injury in India. The Journal of the Associations of Physicians of India. Vol 60. 
+Council of Europe. 2005. Additional Protocol to the Convention on Human Rights and Biomedicine, concerning 
+Biomedical Research. France, Strasbourg. 
+11. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces Liability Insurance 
+for Clinical Trials, old document number 2.55.  It will be reviewed on this timeframe or as and when required. 
+

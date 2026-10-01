@@ -1,0 +1,339 @@
+SAHPGL-MD-05_v3 
+Page 1 of 8
+ 
+ 
+ 
+14 March 2023 
+GUIDELINE ON MEDICAL DEVICE QUALITY MANUAL 
+This guideline is intended to provide recommendations to applicants wishing to submit applications for a licence to manufacture, 
+import, distribute and export a medical device, including In Vitro diagnostics medical devices (IVDs). It represents the South African 
+Health Products Regulatory Authority’s current thinking on the safety, quality and performance of medical devices and IVDs. It is not 
+intended as an exclusive approach. The Authority reserves the right to request any additional information to establish the safety, 
+quality and performance of a medical device or IVD in keeping with the knowledge current at the time of evaluation. Alternative 
+approaches may be used but these should be scientifically and technically justified. The Authority is committed to ensure that all 
+registered medical devices and IVDs will meet the requirements of the Essential Principles relating to quality, safety and performance. 
+It is important that applicants adhere to the administrative requirements to avoid delays in the processing and evaluation of 
+applications. 
+ 
+Guidelines and application forms are available from the office of the CEO and the website. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue, industrial comments incorporated and published for 
+implementation 
+August 2017 
+2 
+Administrative Update 
+November 2019 
+3 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+Old Guideline no. 8.07 changed to a new document number SAHPGL-
+MD-05 
+March 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER
+SAHPGL-MD-05_v3 
+Page 2 of 8
+Guideline on Medical Device Quality Manual 
+14 March 2023 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ....................................................................................................................................................... 4 
+1.2 Scope ........................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+QUALITY MANUAL ..................................................................................................................................... 4 
+3.1 Company Details ........................................................................................................................................ 4 
+3.2 Quality Management System .................................................................................................................... 5 
+3.3 Site Information ......................................................................................................................................... 5 
+3.4 Index .......................................................................................................................................................... 7 
+4. 
+REFERENCES ............................................................................................................................................... 8 
+5. 
+VALIDITY .................................................................................................................................................... 8 
+ 
+ 
+ 
+ 
+SAHPGL-MD-05_v3 
+Page 3 of 8
+Guideline on Medical Device Quality Manual 
+14 March 2023 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+IVD 
+In vitro diagnostic  
+QMS 
+Quality Management System 
+ISO 
+ International Organization for Standardization 
+ 
+ 
+ 
+SAHPGL-MD-05_v3 
+Page 4 of 8
+Guideline on Medical Device Quality Manual 
+14 March 2023 
+ 
+ 
+1. 
+INTRODUCTION 
+A person who makes application for a license to import, manufacture, distribute, wholesale or export a medical 
+device in South Africa must implement and maintain a documented quality management system which is 
+relevant to one or more stages of the life cycle of the medical device, as required by clause 5 of the Regulations 
+for Medical Devices and IVDs. 
+1.1 
+Purpose 
+The purpose of this guideline is to assist manufacturers and distributors to compile a documented quality 
+management system aligned with the iso standard required for medical devices, ISO 13485. 
+1.2 
+Scope 
+The scope of this guideline is to identify the minimum requirements of the Quality Manual which a person 
+who makes application for and holds a licence to import, manufacture, distribute or export a medical 
+device, including an in vitro diagnostic (IVD) medical device, must prepare and maintain up to date at all 
+times. 
+2. 
+LEGAL PROVISION 
+Refer to the Medicines and related substances Act 101 of 1965 as amended and General Regulations relating 
+to Medical Devices and IVDs. ISO 13485:2016 Medical Device quality management systems. 
+3. 
+QUALITY MANUAL 
+The Quality Manual must provide an overview of the documented quality management system which is in 
+operation and must include information about the organization, the facility/ies, the key personnel, the quality 
+assurance policy/ies, procedures, work instructions, controls and activities which are undertaken by the 
+organization to demonstrate its ability to provide medical devices and related services that consistently meet 
+the South African regulatory requirements. 
+A summary of the key information in the Quality Manual, as aligned to the ISO13485 framework, is noted in 
+Table 1 below. 
+The following information must be included in the Quality Manual: 
+3.1 
+Company Details 
+• 
+Company registered name and company registration number or in the case of a natural person 
+the person’s full name and Identity Number. 
+SAHPGL-MD-05_v3 
+Page 5 of 8
+Guideline on Medical Device Quality Manual 
+14 March 2023 
+ 
+ 
+• 
+Registered physical address. 
+• 
+Registered postal address. 
+• 
+SAHPRA Licence details, including type of licence, licence number and period of validity. 
+• 
+The number and type of facilities in South Africa. 
+3.2 
+Quality Management System  
+• 
+The scope and span of the Quality Management System (QMS) (i.e. the QMS for one or multiple 
+sites). 
+• 
+Details of the standard to which the QMS is implemented and the status of the certification   
+thereof, e.g., certification to the latest version of ISO13485:2016 and period of validity. 
+• 
+An overview of the formal procedures within the QMS and a description of the interaction 
+between the procedures, including vigilance, reporting adverse events to the SAHPRA, recall and 
+change controls. 
+• 
+The type and risk class of medical device products imported, manufactured, distributed, 
+exported or serviced 
+• 
+Whether the medical devices are currently distributed for human or veterinarian use. 
+• 
+Details of the organization of personnel, roles and responsibilities (organization chart). 
+3.3 
+Site Information  
+The following company information is to be completed for each site where any manufacturing and storage 
+activity, such as, but not limited to - manufacture, sterilization, packing, labelling, storage, reprocessing 
+(cleaning) and service takes place: 
+• 
+Physical address; 
+• 
+Postal Address; 
+• 
+Telephone: Office hours; 
+• 
+Key Contact Persons & contact details (email and telephone) for each: 
+o Authorised Representative: (24-hour telephone number) 
+SAHPGL-MD-05_v3 
+Page 6 of 8
+Guideline on Medical Device Quality Manual 
+14 March 2023 
+ 
+ 
+o Managing Director 
+o Operations/Product Manager; Quality Assurance Manager; Regulatory Affairs Manager 
+(where relevant) 
+• 
+Details of the access controls and security control measures in place; 
+• 
+Details of the structure of the building where product is manufactured, packed, serviced and 
+stored, including type of floors, type of walls, type of ceilings, etc. 
+• 
+Approximate size of the spaces (m2) in which manufacturing, packing, labelling, storage, 
+reprocessing and service takes place. 
+• 
+Details of the ventilation / air controls and environmental controls. 
+• 
+Details of equipment, such as the following equipment (list as relevant): 
+o Water treatment plant 
+o Air handling unit 
+o Sluice for wastewater 
+o Sterilisation 
+• 
+Special structural and or safety features / characteristics of the facility, manufacturing and 
+storage areas 
+• 
+Street map where the facility located. 
+• 
+Site and facility plan 
+• 
+Details of the number of employees engaged in the key departments 
+ 
+ 
+SAHPGL-MD-05_v3 
+Page 7 of 8
+Guideline on Medical Device Quality Manual 
+14 March 2023 
+ 
+ 
+3.4 
+Index  
+The following is an exemplary quality manual index: 
+SUBJECT 
+ISO 13485 
+REFERENCES 
+1 
+Cover page, table of contents 
+========== 
+2 
+Company profile (refer below) 
+========== 
+3 
+Control and distribution 
+========== 
+4 
+Quality Management System 
+4.0 
+General requirements 
+4.1 
+Documentation requirements 
+4.2 
+5 
+Management Responsibility 
+5.0 
+Management commitment 
+5.1 
+Customer focus 
+5.2 
+Quality Policy 
+5.3 
+Planning 
+5.4 
+Responsibility, authority and communication 
+5.5 
+Management review 
+5.6 
+6 
+Resource Management 
+6.0 
+Provision of resources 
+6.1 
+Human resources 
+6.2 
+Infrastructure 
+6.3 
+Work environment and contamination control 
+6.4 
+7 
+Product Realization 
+7.0 
+Planning of product realization 
+7.1 
+Customer Related Processes 
+7.2 
+Design and development 
+7.3 
+Purchasing 
+7.4 
+Production and service provision 
+7.5 
+Control of monitoring and measuring equipment 
+7.6 
+8 
+Measurement, Analysis and Improvement 
+8.0 
+General 
+8.1 
+Monitoring and measurement 
+8.2 
+Control of Nonconforming Product 
+8.3 
+Analysis of data 
+8.4 
+SAHPGL-MD-05_v3 
+Page 8 of 8
+Guideline on Medical Device Quality Manual 
+14 March 2023 
+ 
+ 
+SUBJECT 
+ISO 13485 
+REFERENCES 
+Improvement 
+8.5 
+9 
+List of procedures 
+========== 
+10 
+Glossary of terms 
+========== 
+11 
+Process flow chart 
+========== 
+12 
+Quality Policy 
+========== 
+13 
+Organization structure 
+========== 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+ISO 13485:2016 Medical devices – Quality management systems – Requirements for regulatory 
+purposes. 
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Medical Device Quality Manual, document number 8.07. It will be reviewed on this timeframe or as and 
+when required. 
+

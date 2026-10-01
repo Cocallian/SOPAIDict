@@ -1,0 +1,1079 @@
+SAHPGL-RDN-RN-04_v2 
+Page 1 of 29 
+ 
+ 
+ 
+18 June 2024 
+GUIDELINE FOR INDUSTRIAL RADIOGRAPHY 
+This guideline deals with the safe and secure handling of industrial radiography projectors. The RPO 
+and ARPO of the Authority Holders are also guided in the administrative and legal requirements of 
+which they are subjected to. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+May 2019 
+1 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-RN-04 allocated to this 
+Guideline 
+- 
+Form RC010 changed to GLF-RDN-XR-10A, RN525 changed to GLF-
+RDN-RN-13, RN778 changed to GLF-RDN-RN-18D, RN785 changed to 
+GLF-RDN-RN-18A, RN787 changed to GLF-RDN-RN-07A and RN900 
+also changed to GLF-RDN-RN-12A. 
+October 2022 
+2 
+- 
+Annexure 1 was added. 
+May 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-RDN-RN-04_v2 
+Page 2 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................ 1 
+Glossary ............................................................................................................................................................... 3 
+1. 
+INTRODUCTION ............................................................................................................................................ 4 
+1.1 
+Purpose ............................................................................................................................................... 4 
+1.2 
+Scope .................................................................................................................................................. 4 
+2. 
+LEGAL PROVISION ........................................................................................................................................ 5 
+3. 
+ADMINISTRATIVE AND MEDICAL REQUIREMENTS ...................................................................................... 5 
+4. 
+EQUIPMENT SPECIFICATIONS ...................................................................................................................... 7 
+5. 
+SPECIFICATIONS FOR ENCLOSED EXPOSURE FACILITIES .............................................................................. 9 
+6. 
+STORAGE REQUIREMENTS ......................................................................................................................... 10 
+6.12 
+Security Measures at Storage Facilities ............................................................................................ 11 
+7. 
+TRAINING REQUIREMENTS ........................................................................................................................ 12 
+7.1 
+Radiation Protection Officer ............................................................................................................. 12 
+7.2 
+Initial training requirements ............................................................................................................. 13 
+7.3 
+Periodic Training of all radiation workers ......................................................................................... 13 
+7.4 
+Observations ..................................................................................................................................... 13 
+7.5 
+Records of training and observations ............................................................................................... 14 
+8. 
+HANDLING PROCEDURES ........................................................................................................................... 14 
+8.1 
+General Requirements ...................................................................................................................... 14 
+8.2 
+Radiography in Open Areas .............................................................................................................. 14 
+8.3 
+Radiography in Enclosed Exposure Facilities .................................................................................... 17 
+9. 
+PERIODIC TESTING AND MAINTENANCE OF EQUIPMENT ......................................................................... 17 
+10. RADIATION MONITORING REQUIREMENTS ............................................................................................... 21 
+11. DOSE LIMITATION ...................................................................................................................................... 22 
+12. TRANSPORT ................................................................................................................................................ 23 
+13. EMERGENCY PROCEDURES ........................................................................................................................ 24 
+14. DISPOSAL AND EXCHANGE ......................................................................................................................... 26 
+15. REFERENCES ............................................................................................................................................... 27 
+16. VALIDITY ..................................................................................................................................................... 28 
+ 
+ 
+SAHPGL-RDN-RN-04_v2 
+Page 3 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Approved 
+means approved by SAHPRA 
+Enclosed exposure facility 
+Means a permanent, shielded installation or structure designed for industrial 
+radiography, which incorporates a fixed exposure device and in which such 
+work is regularly performed. 
+Gamma radiography 
+means industrial radiography performed with radioactive nuclides 
+Guide tube 
+Means a flexible or rigid sheath or tube for guiding the source assembly from 
+the source container to the working position. 
+Industrial radiographer 
+Means a person authorized by the SAHPRA to perform industrial radiography. 
+Industrial radiography 
+Means work involving the examination of the structure of materials by non-
+destructive methods, utilizing ionizing radiation.  Specifically included in the 
+definition of industrial radiography work are all procedures which are 
+significant from a radiation safety point of view, such as the detachment and 
+attachment of winding cables to source assemblies, the winding in and out of 
+radioactive sources, the monitoring of radiation levels, etc. 
+Operator 
+Means a person who performs industrial radiography in an enclosed exposure 
+facility. 
+Overexposure 
+Means any exposure of a person to ionizing radiation to an extent that an 
+annual dose limit is exceeded. 
+Radiography in open 
+areas 
+Means radiography not performed in an enclosed exposure facility. 
+Remote control system 
+Means the device which enables gamma radiography apparatus to be 
+operated at a safe distance, and which comprises a winding cable, winding 
+cable sheath and winding control mechanism (e.g. reel with crank handle) 
+Source assembly 
+Means the pen-shaped device or pigtail into which a sealed radioactive 
+nuclide is incorporated for the purposes of industrial radiography. 
+Source container 
+Means the shielding container in which a sealed radioactive nuclide is 
+transported and stored. 
+Source encapsulation 
+Means the small outer metal sheath which surrounds a radioactive source, 
+and which connects it to the source assembly. 
+Trainee 
+Means a person who has successfully completed an approved examination in 
+industrial radiography, but who has not yet obtained the necessary 480 
+working hour’s practical experience under the supervision of an approved and 
+authorized industrial radiographer. 
+ALARA 
+stands for “As Low As Reasonably Achievable”.  
+ 
+ 
+ 
+SAHPGL-RDN-RN-04_v2 
+Page 4 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+1. 
+INTRODUCTION 
+Radioactive nuclides used in industrial radiography are subject to regulatory control in terms of Article 3A of 
+the Hazardous Substances Act, 1973 (Act 15 of 1973), as amended. The body responsible for administering this 
+legislation is SAHPRA – Radiation Control. 
+Industrial Radiography units emit sufficient ionizing radiation to constitute a significant health hazard unless 
+adequately shielded and handled with proper care. This code of practice has been drawn up in order to limit 
+the risk of overexposure of workers and members of the public, and to keep radiation doses as low as 
+reasonably achievable (ALARA). Wherever the word must is used in this document, it implies that the 
+requirement in question is compulsory.  Where the word should is used, compliance is strongly recommended, 
+but is not mandatory.  
+The holder of an authority must ensure that the requirements laid down in this code are adhered to at all 
+times, refer to Regulation 5 of the Regulations relating to Group IV Hazardous Substances (No 247 of 26 
+February 1993).  
+The latest version of this document as well as all radionuclide forms and guidelines can be downloaded from: 
+www.sahpra.org.za. 
+1.1 
+Purpose 
+Manufacturers use industrial radiography to check for cracks or flaws in materials. Industrial radiography 
+uses X-Ray and gamma radiation to show flaws that cannot be detected by the naked eye. Because X-Rays 
+and gamma rays can travel through different types of materials, such as air, soil and water, industrial 
+radiography is useful in inspecting materials without having to move or damage the material itself. 
+1.2 
+Scope 
+This code applies to activities associated with radiation sources used for the non-destructive testing of items 
+of equipment and structures such as vessels, pipes, welded joints, castings, and other devices to verify their 
+physical integrity. This relates to X-Ray equipment and gamma sources in fixed shielded facilities and 
+outside shielded facilities using mobile sources. Activities can include manufacturing, possessing, 
+controlling, managing, using, storing, importing, exporting, selling, supplying, and disposing of radiation 
+sources. The following issues are dealt with in separate codes of practice: 
+• 
+Safety of radioactive material in transport  
+• 
+Security of radioactive material in use, storage, or transport. 
+SAHPGL-RDN-RN-04_v2 
+Page 5 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+Compliance with this code does not imply compliance in related areas such as occupational safety, hazards 
+in the workplace, resource management and transport of hazardous substances. 
+2. 
+LEGAL PROVISION 
+The following are the relevant regulatory documents with necessary provisions: 
+− 
+Hazardous Substances Act 15 of 1973 
+− 
+R246, R247 Regulations related to Group IV Hazardous Substances 
+3. 
+ADMINISTRATIVE AND MEDICAL REQUIREMENTS 
+3.1. An application for an authority to possess and use a radioactive nuclide must be submitted to SAHPRA 
+on Form GLF-RDN-RN-07A (old form RN 787). The applicant must show that they possess the 
+necessary equipment, facilities and have trained personnel to ensure that the radiographic work will 
+be performed in a safe manner. Should the holder of the authority wish to import or export a 
+radioactive nuclide, an application must be submitted to SAHPRA on Form GLF-RDN-RN-16A (old 
+form RN781) or Form GLF-RDN-RN-17A (old form RN782). 
+3.2. The person nominated to act as the Radiation Protection Officer (RPO) must either be a full-time 
+employee or the owner. The person nominated to act as the Acting Radiation Protection Officer 
+(ARPO) must either be a full-time employee or a contract worker. Persons nominated to act as RPOs 
+or ARPOs must pass an approved examination before they can assume these positions. Candidates 
+must have an approved Level II Industrial Radiography qualification with two years’ experience. A 
+service contract must be compiled between the holder and the RPO/ARPO in terms of Regulation 
+6(5) of the Group IV Hazardous Substances Regulations (No 247 of 26 February 1993). Responsibilities 
+for the transfer of duties when resigning or when the contract expires must be included in the service 
+contract. 
+3.3. Should the radiation protection officer (RPO) or acting RPO change at any stage, SAHPRA must 
+immediately be informed of the change on Form GLF-RDN-RN-18A (old form RN 785). A copy of the 
+required service contract between the holder and the new RPO/ARPO compiled in terms of 
+Regulation 6(5) of the Group IV Hazardous Substances Regulations (No 247 of 26 February 1993) 
+must be attached. 
+3.4. An application for registration with the SAHPRA as an industrial radiographer must be made on Form 
+GLF-RDN-RN-18D (old form RN 778). Certified copies of documents must be included to show that a 
+SAHPGL-RDN-RN-04_v2 
+Page 6 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+course at an approved educational institution has been successfully completed. The course must 
+include both the technical and safety disciplines. Candidates must subsequently undergo a practical 
+training period of 480 effective working hours under the supervision of an approved and authorized 
+industrial radiographer. The practical training must be confirmed in a logbook signed by the 
+supervisor. The logbook must give a description of the work performed. 
+3.5. The holder of the authority must ensure that a document is drawn up outlining correct working 
+procedures (Internal Rules). The document must include details of all relevant safety procedures laid 
+down by SAHPRA (i.e. it is recommended that this code form a major part of the document) and must 
+specify what actions are to be taken in the event of an emergency. The holder of the authority must 
+take steps to ensure that the employees adhere to the correct working procedures. 
+3.6. A separate health register must be established for each radiation worker. This register must be 
+retained in safe custody, protected, and safeguarded from fire, theft, or destruction for a period of 
+at least 5 years by the holder of the authority. 
+3.7. When the South African Bureau of Standards (SABS) reports to the authority holder that an 
+employee's personal dosimeter (Thermos Luminescent Dosimeter (TLD)) has registered more than 
+the pro rata dose allocation (4 mSv) for the wearing period, the holder must complete Form GLF-
+RDN-XR-10A (old form RC010) and forward it to SAHPRA. The holder must furthermore ensure that 
+a copy of this form is entered into the health register of the worker in question. 
+3.8. Radiation workers must be declared medically fit by a company appointed doctor before 
+employment. A copy of this pre-employment medical evaluation must be entered into the health 
+register of the worker concerned. A medical examination must also be performed at termination of 
+radiation work with the employer. A copy of the post-employment medical evaluation must be kept 
+in the health register of the relevant worker. 
+3.9. Medical examinations must be carried out:  
+® during registration/deregistration of radiation workers  
+® when a radiation incident is suspected  
+® when SAHPRA or a medical practitioner deems it necessary  
+® When the radiation worker has a reasonable suspicion that his/her health may be detrimentally 
+SAHPGL-RDN-RN-04_v2 
+Page 7 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+affected by certain occupational factors 
+3.10. When the SABS reports to the authority holder that an employee's personal dosimeter (TLD) has 
+registered more than 50 mSv for the wearing period or if SAHPRA so requires, a blood sample must 
+be drawn from that employee and be sent to iThemba Labs (previously known as the National 
+Accelerator Centre) at Faure for biological dosimetry within 30 days of being notified by the SABS. 
+The procedure for the taking and sending of the blood sample must be discussed with SAHPRA.  
+3.11. When a radiation worker ceases to be employed by the authority holder, the holder must provide 
+that worker with a copy of his/her complete dose record. Such complete records can be obtained 
+from the SABS on request. 
+3.12. Once a year the holder of an authority must furnish SAHPRA with a return on Form GLF-RDN-RN-
+28A (old form RN784), confirming that the details on his/her current authority are complete and 
+correct. This return is due each year before the end of January. 
+3.13. The holder of the authority shall not transfer any industrial radiography sources unless this is done 
+with the prior approval of SAHPRA. This requirement refers to situations where sources are 
+transferred between companies and when sources are permanently transferred between different 
+sections of a company. 
+4. 
+EQUIPMENT SPECIFICATIONS 
+4.1. The source container must in general (unless otherwise specified by SAHPRA) comply with the 
+requirements of the international standards ISO 3999, as well as the IAEA requirements for a type 
+B(U) container. These documents must be submitted to SAHPRA for approval. Validated Type A 
+source containers may be used but this will limit the activity of radioactive sources that may be 
+loaded as well as the movement of these sources. 
+4.2. The source container must be capable of being locked in the shielded or "off" position. 
+4.3. The container must be indelibly marked with the trefoil symbol, the word "radioactive", the 
+maximum rating of the container, as well as the manufacturer's type and serial number. These 
+markings may not be covered by any other labels. 
+4.4. In addition, the container must bear an IAEA approved transport label, in accordance with the 
+radiation levels associated with the unit (See fig 1 annexure 1), as well as a durable (e.g. metal or 
+SAHPGL-RDN-RN-04_v2 
+Page 8 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+plastic), legible label indicating the type of nuclide, the activity on a specified date, and the serial 
+number of the sealed radioactive source (See fig 3 annexure 1). These labels may not cover any other 
+required labels or information on the container. Transport over packs must be used where transport 
+labels will obscure other required markings and labels on the source container. 
+4.5. When the source assembly is in the shielded or "off" position, the dose rate must not exceed the 
+following limits: 
+4.5.1. 2 mSv/h (200 mR/h) at any point on the surface of the container. 
+4.5.2. At any point 1 m from the surface of the container:  
+4.5.3. portable containers:  20 µSv/h (2 mR/h)    
+4.5.4. mobile containers:  
+50 µSv/h (5 mR/h)    
+4.5.5. Fixed containers:  
+l00 µSv/h (10 mR/h)   
+4.5.5.1. Portable containers are those which weigh less than 50 kg, mobile containers are 
+those which are not portable, but which can be easily moved by suitable means, 
+and fixed containers are those with mobility restricted to the confines of a 
+particular working area. 
+4.6. There must be a provision to prevent the unauthorized operation of the remote-control device when 
+the operator is not in immediate attendance, for example, a removable winding cable handle. 
+4.7. Apparatus for gamma radiography should preferably be provided with a visual indicator to show 
+whether the source assembly is in the secured, or working, position. Such an indicator may, however, 
+at no time be used in place of prescribed monitoring procedures. 
+4.8. During storage or transport, apparatus for gamma radiography must be fitted, at each end, with 
+suitable protective caps or plugs to protect the source assembly from water, sand, or other foreign 
+matter. 
+4.9. The length of the winding cables used for industrial radiography in open areas must comply with the 
+requirements of paragraph 8.2.12 and the guide tube must be as short as practicable.  
+4.10. The sealed source itself must comply with ISO 2919, as well as the "special form" requirements laid 
+down by the IAEA. The activity of the source must be as low as practicable - in general, activities 
+requiring exposure times of less than one minute should preferably not be used. 
+SAHPGL-RDN-RN-04_v2 
+Page 9 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+4.11. The word "Radioactive" must be engraved in a durable and legible manner on the source 
+encapsulation. 
+4.12. The coupling between the source assembly and the winding cable must be designed in such a manner 
+that the source assembly will not become disconnected if cranked outside the guide tube. The 
+coupling must be such that it cannot be unintentionally disconnected under normal and reasonably 
+foreseeable abnormal conditions. 
+4.13. The source assembly should be automatically secured when it is cranked back into the fully retracted 
+position within the source container. This securing system may only be released by means of a 
+deliberate action on the apparatus. 
+4.14. The dimensions of the winding cable, winding cable sheath, guide tube, and associated connectors 
+and couplings must be within the tolerances specified by the manufacturer of the source container. 
+4.15. An exposure head or similar device designed to prevent the source assembly from passing out of the 
+end of the guide tube must be attached to the outermost end of the guide tube during radiographic 
+operations. 
+4.16. Only lubricants specified by the manufacturer of the source container may be used on radiography 
+equipment and associated accessories (usually graphite powder is recommended.  Oils must not be 
+used). 
+5. 
+SPECIFICATIONS FOR ENCLOSED EXPOSURE FACILITIES 
+5.1. Any facility that does not comply with the following requirements is considered to be an open area 
+(for example an exposure bay with walls, maze and portable equipment).  
+5.2. The remote control shall be placed outside the enclosure. 
+5.3. An enclosed exposure facility may not be located in an area zoned for domestic use. 
+5.4. The facility must be clearly marked with radiation warning signs, and the name and telephone 
+number of a person to be contacted in the event of an emergency, must appear at the entrance to 
+the facility. 
+5.5. The facility must incorporate a means to indicate positively that an exposure is underway.  In the 
+case of a gamma radiography installation, the facility must incorporate warning lights activated by a 
+SAHPGL-RDN-RN-04_v2 
+Page 10 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+radiation detector.  In the case of an electrically activated unit, the facility must incorporate warning 
+lights linked to the on-off mechanism of the unit. 
+5.6. Facilities in which electrically activated gamma radiography apparatus are installed must have 
+interlock systems which prevent exposure if one of the entrance doors is opened before exposure or 
+opened during exposure.  Resumption of exposure must be possible only after manual restart at the 
+control panel, after the door has been closed. 
+5.7. Facilities in which manually activated gamma radiography apparatus is used must have a safety 
+system which either prevents access to the facility during exposure, or which gives an audible alarm 
+if attempts are made to enter it. 
+5.8. Radiographic apparatus which is not manually operated must be designed so that system failure 
+automatically causes the apparatus to return to the secured mode.  In addition, gamma radiography 
+apparatus must be provided with a manual means of returning the source assembly to the shielded 
+position. 
+5.9. Enclosed exposure facilities must be provided with a device which makes it possible for a person 
+accidentally left in the room, to open one of the doors easily and leave. 
+5.10. In facilities having more than one entrance door, the doors that are not controlled by the operator 
+must be lockable from the inside, and the door under his/her control, lockable from the outside. If 
+the facility has only one door it must be lockable from the outside 
+5.11. The radiation dose rate outside the exposure facility must comply with the requirements of 
+paragraphs 11.1 to 11.3, and at a distance of 1 m from the outer surface of an enclosed installation 
+should preferably not exceed 2.5 µSv/h (0.25 mR/h) but must not exceed 7.5 µSv/h (0.75 mR/h) when 
+the properties of the radiation source correspond to the maximum ratings stated for that enclosed 
+installation. 
+5.12. Enclosed installations must be provided with a sign stating the maximum rating and limitations on 
+the primary beam directions established for that installation. 
+6. 
+STORAGE REQUIREMENTS 
+6.1. No radioactive nuclides or radiography apparatus containing such material may be stored on any 
+premises zoned for domestic purposes. 
+SAHPGL-RDN-RN-04_v2 
+Page 11 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+6.2. When in storage, radiography source containers containing radioactive nuclides must be locked in 
+the "off" (fully shielded) position. 
+6.3. Warning signs, of a design approved by the SAHPRA, must be displayed at the entrance to 
+radionuclide storage facilities, and at any other appropriate places, to clearly indicate the presence 
+of radioactive material. 
+6.4. Dose rates outside radionuclide storage facilities must comply with the requirements of paragraphs 
+11.1 to 11.5 
+6.5. And must not exceed 2.5 µSv/h (0.25 mR/h). 
+6.6. A notice containing the names and telephone numbers of persons who can be contacted in the event 
+of an emergency, must be displayed at radionuclide storage facilities. 
+6.7. Radionuclide storage facilities must be lockable, and no unauthorized entry shall take place. 
+6.8. It is the responsibility of the radiographer to ensure personally that the radioactive source is safely 
+returned after use to the storage facility.  This important task may not be delegated to radiographic 
+assistants or trainees. 
+6.9. A log of gamma radiography equipment must be kept.  Source containers must be signed into and 
+out of the storage facility and dose levels on the surface of the containers recorded.  The serial 
+number of monitors used, and the condition of the equipment must also be noted. 
+6.10. No radioactive nuclides may be stored with, or near any corrosive, combustible or explosive 
+materials. 
+6.11. Outside storage facilities (storage pit) must be weatherproof. The storage pit should have a raised 
+floor where there is the possibility that water may enter the storage area. 
+6.12 Security Measures at Storage Facilities  
+6.12.1 Premises where storage areas are located must at least be linked to a 24-hour security reaction 
+unit. 
+6.12.2 The storage area must have two layers of barriers to create a delay mechanism (e.g. devil’s fork 
+type security fence with locked gate and corrugated iron roof plus storage pit with locked lid or 
+building with locked door plus locked safe inside building). Access to the storage area must be 
+SAHPGL-RDN-RN-04_v2 
+Page 12 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+restricted to members of industrial radiography teams. 
+6.12.3 There must be an immediate electronic detection (alarm) of unauthorized access to the secured 
+area/source location (e.g. movement detector at first barrier plus tamper switch at second barrier). 
+This alarm must be able to be detected by appointed responsible personnel (e.g. 24-hour security 
+reaction unit). 
+6.12.4 Assessment of the detection of a security breach must be available (investigation by responsible 
+personnel e.g., 24-hour security reaction unit or assessment of 24-hour CCTV surveillance). 
+6.12.5 Rapid, dependable means of communication (cell phones) must be available. Responsible 
+personnel must be able to immediately initiate a response to any detected adverse action (contact 
+RPO, Police etc.). 
+6.12.6 A weekly physical check of storage areas is required to detect the possible loss of any sources. The 
+working condition of alarm/security systems must also be checked weekly. 
+6.12.7 Mobile/ portable sources must be under continuous surveillance by appointed responsible 
+personnel during transportation. Rapid, dependable means of communication (cell phones) must 
+be available. 
+6.12.8 In general, a vehicle may not be left unattended with a radioactive source in it. However, an 
+exception may be made if a person is required to make an over-night stop during transportation of 
+a radioactive source and a suitable storage facility is not available. In such a case the radioactive 
+source container must be considered as being under transport during the night. The radioactive 
+source container must be locked inside a vehicle with an alarm system such that access to the 
+container will activate the alarm. The vehicle must be securely locked and parked in the safest 
+possible area where it will be under constant surveillance of the overnight establishment security. 
+Where practicable, the vehicle must be left on the premises of a police station during the night. 
+6.12.9 When sources are used in isolated high-risk areas with no security nearby, special arrangements 
+for the onsite availability of security (armed guards) must be made. 
+7. 
+TRAINING REQUIREMENTS 
+7.1 
+Radiation Protection Officer 
+7.1.1. The Radiation Protection Officer must ensure that all persons performing industrial radiography or 
+SAHPGL-RDN-RN-04_v2 
+Page 13 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+who act as radiographic operators and assistants have the necessary training and are familiar with 
+the correct operating and safety procedures.  In particular the training requirements specified below 
+must be met. 
+7.2 
+Initial training requirements 
+7.2.1 Persons wishing to work as industrial radiographers must successfully complete a course in industrial 
+radiography at an approved institution. The course must include both the technical and safety 
+disciplines. Candidates must subsequently undergo a practical training period of 480 effective 
+working hours under the supervision of an approved and authorized industrial radiographer. The 
+practical training must be confirmed in a logbook signed by the supervisor. The logbook must give a 
+description of the work performed. An application for a personal authority to act as a qualified 
+industrial radiographer must be submitted to SAHPRA on Form GLF-RDN-RN-18D (old form RN 778). 
+7.2.2 Assistants to the radiographer and operators of enclosed exposure facilities must be given sufficient 
+training to enable them to carry out their work satisfactorily. Such training must include information 
+on the risks associated with ionizing radiation, prescribed safety requirements and emergency 
+procedures, as well as practical on-the-job training. After such training, the assistants/operator's 
+knowledge and understanding must be evaluated, in order to gauge the effectiveness of the training 
+programmer. 
+7.3 
+Periodic Training of all radiation workers 
+7.3.1 All radiation workers (e.g. radiographers, trainees, assistants, and operators) must be given periodic 
+training in radiation safety aspects relating to their work at least once a year. The training must 
+particularly ensure that workers have a thorough knowledge of the procedural document referred to 
+in paragraph 3.5. Such training must include an evaluation of the workers' knowledge and 
+understanding of the training material. 
+7.4 
+Observations 
+7.4.1 The holder of an authority must ensure that the Radiation Protection Officer regularly observes the 
+performance of all radiation workers during actual radiographic operations, in order to establish 
+whether correct operating procedures and requirements are being adhered to, each worker must be 
+observed at least once every 3 months. 
+7.4.2 Where a radiation worker has not participated in a radiographic operation for more than 3 months, 
+or where a worker has not used a particular type of radiographic apparatus for the above period, the 
+Radiation Protection Officer must observe that individual's performance the next time he participates 
+SAHPGL-RDN-RN-04_v2 
+Page 14 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+in radiographic operations. 
+7.5 
+Records of training and observations 
+7.5.1 Records must be kept of all training and observations conducted. These records must include details 
+of the performance of radiographers during observations as well as information regarding 
+attendance and content of training courses. As far as periodic training and training of radiographic 
+assistants and operators are concerned; records must also be kept of tests or other methods which 
+have been used to determine the individual's knowledge and understanding of safety requirements 
+and operating procedures. 
+8. 
+HANDLING PROCEDURES 
+8.1 
+General Requirements 
+8.1.1 Industrial radiography may only be performed by: 
+8.1.1.1 a qualified radiographer who has been granted a personal authority from SAHPRA to perform 
+such work; or 
+8.1.1.2 An operator performing such work in an enclosed exposure facility. 
+8.1.2 In the case of a trainee, the qualified radiographer must be physically present at all times during 
+radiography work and assumes full responsibility for the actions of the trainee. 
+8.2 
+Radiography in Open Areas 
+8.2.1 Before commencing work, a radiographer must ensure that he/she, and the other members of the 
+radiography team (i.e. radiographers, trainee radiographers and assistants), are wearing personal 
+dosimeters (TLDs), and that he/she has in his/her possession a functioning radiation monitor. In 
+addition to the afore-mentioned, every member of the radiography team must be wearing a 
+functioning digital audible-alarm dosimeter with a history function (as specified in paragraph 10.2). 
+The radiographer must also have the equipment necessary for the setting up of barriers (e.g. barrier 
+rope, mechanical supports, etc.) as well as radiation warning signs and, in the case of night-work, 
+warning lights. 
+8.2.2 Radiography equipment, accessories, and auxiliary apparatus (i.e. radiation monitors, alarm 
+dosimeters, etc.) must be checked daily by the radiographer before and after use, and the condition 
+of such equipment noted in the logbook. If any equipment is not in a proper working order, 
+radiography must NOT be carried out. 
+SAHPGL-RDN-RN-04_v2 
+Page 15 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+8.2.3 Appropriate collimators must be used for reduction of the field size of the primary beam to the 
+minimum practicable size necessary for the performance of the work. Where it is not possible to use 
+a collimator, other appropriate shielding material should be used. 
+8.2.4 Barriers must be erected at a distance calculated prior to commencing the exposure, so as to ensure 
+that the instantaneous dose rate at the barrier is as low as is reasonably achievable and does not 
+exceed 10 µSv/h (1 mR/h).  Once the radiography unit has been activated, the radiation level at the 
+barriers must be checked with a monitor and the barriers moved, if necessary, to ensure that levels 
+are acceptably low. 
+8.2.5 In addition to the requirements of paragraph 8.2.4 and section 11 (regarding dose limitations), the 
+radiographer must ensure, during the course of his/her work, that no individual is exposed to 
+radiation in excess of the following levels – 
+8.2.5.1 Workers not wearing Personal Dosimeters: 20 µSv (2 mrem) in any one day. 
+8.2.5.2 Members of the Public: 4 µSv (0.4 mrem) in any one day. 
+8.2.6 Warning signs and, at night, warning lights must be prominently displayed at the barrier and must be 
+visible from all directions. 
+8.2.7 Before commencing the exposure, the radiographer must ensure that no people are within the 
+demarcated area. 
+8.2.8 Boundaries of adjacent sites on which industrial radiography is done should not overlap.  If overlap 
+is unavoidable, close liaison shall be maintained between operators responsible for the overlapping 
+sites to avoid accidental exposure. 
+8.2.9 During the exposure, the radiographer, or one of his/her assistants, must be in attendance near the 
+demarcated area, in order to take immediate corrective measures should any unplanned entry into 
+the area take place. 
+8.2.10 After rewinding a source assembly and before rolling up the guide tube, the radiographer must 
+personally ensure by monitoring the entire circumference of the source container, as well as the 
+length of the guide tube, that the radioactive source has indeed safely returned to the fully shielded 
+position.  Once this has been established, the radiographer must lock the source container. 
+8.2.11 Before a site is vacated, the operator shall ensure, by monitoring, that all radiation sources are 
+SAHPGL-RDN-RN-04_v2 
+Page 16 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+locked in the fully shielded condition or switched off, as appropriate, and returned to the source 
+container store or to the transport vehicle and that all boundary-defining equipment has been 
+removed. The operator shall inform the person responsible for the area when this has been carried 
+out. 
+8.2.12 Taking the ALARA principle into account and to ensure an average dose rate of ± 2 mSv/h (200 
+mR/h) at the position of the winding unit, the length of the winding gear must comply with the 
+following:  
+8.2.12.1 When radioactive sources not exceeding 2,4 TBq (65 Ci) of Se-75 or 1,11 TBq (30 Ci) of Ir-
+192 or 370 GBq (10 Ci) of Co-60 are used, the winding gear must be long enough to ensure 
+a distance of at least 7,5m between the winding unit and the source container. 
+8.2.12.2 When radioactive sources exceeding 2,4 TBq (65 Ci) of Se-75 or 1,11 TBq (30 Ci) of Ir-192 
+or 370 GBq (10 Ci) of Co-60 but not exceeding those mentioned in 8.2.12.3 are used, the 
+winding gear must be long enough to ensure a distance of at least 10m between the 
+winding unit and the source container. 
+8.2.12.3 When radioactive sources exceeding 4,07 TBq (110 Ci) of Se-75 or 1,85 TBq (50 Ci) of Ir-
+192 or 630 GBq (17 Ci) of Co-60 are used, the winding gear must be long enough to ensure 
+a distance of at least 15m between the winding unit and the source container.  
+8.2.13 Emergency equipment (e.g. additional shielding material, long-handled tongs, emergency transport 
+containers, etc.) should preferably be present at the site where the work is performed.  
+8.2.14  Radiography apparatus containing radioactive sources may not be left unattended unless it is 
+locked in an approved storage facility, or is under transport and is temporarily stored in accordance 
+with the provisions of paragraph 12.4. 
+8.2.15 A radiography team operating one radiography unit must consist of one radiographer and at least 
+one assistant.  The assistant shall be capable of promptly taking charge in an emergency and shall 
+be able to: 
+8.2.15.1 ensure that no person remains unnecessarily in an area where the dose rate exceeds or 
+might exceed 25 µSv/h (2,5 mR/h); 
+8.2.15.2 recognise a loose gamma radiography source by being familiar with the dummy source 
+SAHPGL-RDN-RN-04_v2 
+Page 17 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+(or its photograph) supplied with the gamma radiography equipment; and 
+8.2.15.3 Inform the radiation protection officer and the authority holder of the emergency without 
+delay. 
+8.3 
+Radiography in Enclosed Exposure Facilities 
+8.3.1 Before commencing the exposure, the operator must ensure that there is nobody inside the exposure 
+facility. 
+8.3.2 The exposure must be terminated according to the correct termination procedures.  Use of safety 
+devices such as interlocks for exposure termination is not permitted. 
+8.3.3 Before entering the enclosed exposure facility after an exposure, the operator must make certain 
+that the exposure has been terminated.  If manually activated gamma radiography apparatus is used, 
+the operator must use a functioning radiation monitor to monitor the source container, as well as 
+the length of the guide tube to ensure that the radioactive source has indeed safely returned to the 
+fully shielded position. 
+8.3.4 When the facility is not in use, the unit must be rendered inoperable by locking the control panel and 
+removing the key, or by inactivating the winding gear (e.g. by locking or removing the handle) in the 
+case of manually operated units. 
+8.3.5 The operator must ensure compliance with all the limitations established for the enclosed 
+installation, e.g. the limitations with respect to beam direction and source activity of industrial 
+radiography equipment.  If these conditions are not satisfied, the installation is no longer considered 
+to be an enclosed installation, and the work must be carried out in accordance with the requirements 
+for open installations. 
+8.3.6 Persons performing radiography in an enclosed exposure facility must wear TLDs. 
+9. 
+PERIODIC TESTING AND MAINTENANCE OF EQUIPMENT 
+9.1 
+The items of radiography equipment specified below must be submitted for periodic testing and 
+maintenance to an institution which is authorized SAHPRA to perform such tests: 
+9.1.1 Source assemblies ("pigtails") 
+9.1.2 Source containers. 
+SAHPGL-RDN-RN-04_v2 
+Page 18 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+9.1.3 Guide tubes, winding cables, and winding cable sheaths. 
+All items of equipment which fail the prescribed tests, or which do not meet the requirements 
+specified below, must be replaced, or repaired and retested. 
+Source assemblies (Pigtails) 
+9.2 
+Disposable source assemblies must not be used for a period exceeding that specified by the 
+manufacturer and must be replaced when found necessary (i.e. if they fail the tests specified in 
+paragraph 8.5). Reusable source assemblies, including those which contain nuclides imported directly 
+by the holder of an authority, must be tested, and maintained in accordance with paragraph 9.4. 
+9.3 
+Source assemblies containing nuclides with relatively long half-lives (such as Co-60), must be replaced 
+whenever a new radioactive source is loaded. Such source assemblies must not be used for a period 
+exceeding that specified by the manufacturer. 
+9.4 
+The following tests must be carried out by an approved testing facility with every radioactive source 
+change, and at intervals not exceeding 6 months for assemblies containing nuclides with relatively 
+long half-lives (e.g. Co-60): 
+9.4.1 The source assembly must be thoroughly cleaned and inspected for visible damage such as 
+wear, stretching and source attachment thread damage. 
+9.4.2 The socket on the end of the source assembly where the winding cable is attached must be 
+examined for wear and damage using an approved template gauge. 
+9.4.3 A tensile test must be performed on the source encapsulation attachment to the source 
+assembly. This shall consist of a load of 495 N applied to the components for a period of 30 
+seconds. 
+9.4.4 The markings on the source assembly must be checked to ensure that they comply with the 
+requirements of paragraph 4.11. 
+Source Containers  
+9.5 
+Periodic testing and certification of portable and mobile source containers must be carried out at 
+intervals not exceeding 24 months at an approved testing facility. The testing programmer must 
+comprise of all the tests prescribed by the manufacturer and must include checks on the container 
+SAHPGL-RDN-RN-04_v2 
+Page 19 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+for compliance with the following: 
+9.5.1 
+The container must be marked in accordance with paragraph 4.3 and 4.4, the marking plate and labels 
+being firmly attached and legible. 
+9.5.2 
+The container must not show any signs of external damage or deformation that could affect its safe 
+operation or shielding function (as specified in paragraph 4.5) and must be complete. 
+9.5.3 
+After first removing the radioactive source assembly to a shielded storage container, the container 
+must be dismantled to such an extent that all internal parts, including the shutter and exposure 
+channels, can be inspected.  These parts must be clean and must not show signs of excessive wear or 
+damage. 
+9.5.4 
+No screws, bolts or nuts must be loose or missing. 
+9.5.5 
+Mechanisms which connect the guide tube and winding gear to the container must not show any signs 
+of unacceptable wear or damage. 
+9.5.6 
+The shutter and/or locking mechanism, the locking device (e.g. key) and the securing system referred 
+to in paragraph 4.13, must not show signs of excessive wear or damage and must function faultlessly. 
+9.5.7 
+All safety plugs and protective caps (as specified in paragraph 4.8) must be present, undamaged and 
+must function correctly. 
+9.5.8 
+No radioactive source may be loaded into an uncertified (untested) container. 
+Guide Tubes, Winding Cables & Winding Cable Sheaths 
+9.6 
+Periodic testing of winding cables, winding cable sheaths and guide tubes must be carried out at 
+intervals not exceeding 24 months at an approved testing facility. The testing programmer must 
+comprise of all the tests prescribed by the manufacturer and must include checks on the above-
+mentioned items for compliance with the following: 
+9.6.1 
+The guide tube and winding cable sheath must not show signs of excessive wear or damage 
+and must not be brittle, cracked or kinked in any way. 
+9.6.2 
+The connecting device/s which attaches the winding gear to the source container must be 
+undamaged and function correctly. 
+SAHPGL-RDN-RN-04_v2 
+Page 20 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+9.6.3 
+The winding cable (especially near the ball attachment joint) must not contain any damaged 
+strands and the cable must not be bent to such an extent that it is impossible to straighten it 
+without the use of tools. 
+9.6.4 
+The cable must be clean, free from corrosion and must comply with the requirements of 
+paragraph 8.2.12 regarding length. 
+9.6.5 
+The connection between the winding cable and the source assembly must withstand a tensile 
+force of 495 N for 30 seconds and must comply with the requirements of paragraph 4.12 
+regarding cranking outside of the guide tube. 
+9.6.6 
+The winding control mechanism must be dismantled and inspected thoroughly. The 
+mechanism must not show signs of serious wear or damage that might endanger its safe 
+operation and must comply with the requirements of paragraph 4.6. 
+9.6.7 
+The guide tube, winding cable and sheath, and associated connectors and couplings must 
+comply with the requirements of paragraph 4.14 regarding manufacturer's specifications. 
+9.6.8 
+The complete remote-control system must function faultlessly. 
+Leak Tests  
+9.7 
+Sources not exchanged within 6 months must be leak tested at intervals not exceeding 6 months. 
+9.8 
+Ensuring the source is in the fully shielded position, wipe the outer surface of the source container 
+and source outlet port as well as the inside of the guide tube, with a piece of absorbent material (e.g. 
+tissue or filter paper). 
+9.9 
+Place the tissue or filter paper in a plastic bag and send by road, rail, or air freight to your nearest 
+leak testing facility (See website for Leak Test Code of Practice containing names and addresses of 
+testing facilities). The smear sample must not be sent via the post office. 
+9.10 Once the testing facility has notified you of the result of the test, it must be filed for inspection 
+purposes. 
+Other Tests 
+9.11 In addition to all of the above-mentioned tests, the testing facility must carry out any further tests 
+SAHPGL-RDN-RN-04_v2 
+Page 21 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+which they deem are necessary to ensure that the radiography equipment functions correctly. 
+9.12 If used (second-hand) radiography equipment is acquired, such equipment must be subjected to all 
+appropriate tests specified above, before being brought into use. 
+9.13 The holder of the authority must keep documentary evidence of all of the above-mentioned tests for 
+a period of at least 3 years.  Such documents must be available for inspection purposes. 
+10. RADIATION MONITORING REQUIREMENTS 
+10.1 Each member of an industrial radiography team (i.e. radiographers, trainee radiographers, student 
+radiographers and assistants) as well as operators must be registered at the SABS as a radiation 
+worker and be issued with a Thermos Luminescent Dosimeter (TLD) from the SABS.  
+10.1.1 The worker's unique Identification Number (BIN) must be indicated on the personal 
+dosimeter (TLD) when returned to the SABS for processing. 
+10.1.2 No “blank” TLDs may be issued to any member of a radiography team. No radiation worker 
+may perform industrial radiography work without a TLD issued in his/her name. 
+10.2 In the case of work with radionuclides in open areas, all members of the radiography team, as well 
+as any other workers who are likely to receive more than 200 µSv (20 mrem) during any one day 
+must, in addition to the above, be issued with a digital audible-alarm dosimeter with a history 
+function.  The alarm dosimeter must be set to give an alarm signal at a dose rate of 5 mSv/h (500 
+mR/h) and must be able to give a clear audible response at dose rates in excess of 500 mSv/h without 
+saturation.  Daily doses must be accurately recorded, and such records kept for a period of at least 5 
+years.  (Regulation 22(6) and (7)) 
+10.3 Digital audible-alarm dosimeters must be checked for correct response to radiation at an approved 
+facility, at periods not exceeding 26 months.  
+10.4 The dosimeters specified in paragraphs 10.1 and 10.2 above, must be worn by radiation workers (i.e. 
+attached to their clothing) during their work. 
+10.5 Each radiography team must be provided with a radiation monitor (dose-rate meter) with a range 
+sufficient to measure 10 µSv/h (1 mR/h) through to at least 10 mSv/h (1 R/h). When radiation levels 
+exceed the maximum readings in their measurement ranges, they shall continue to indicate that fact 
+and should provide an audible warning. This monitor must be calibrated at an approved facility at 
+SAHPGL-RDN-RN-04_v2 
+Page 22 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+periods not exceeding 7 months, and after servicing of the instrument. 
+10.6 Before starting work, the radiation workers must ensure that the above dosimeters and monitors are 
+in place, and in proper working order. If not, the radiography work must not be carried out. 
+11. DOSE LIMITATION 
+11.1 Radiation doses to individuals must at all times be kept as low as is reasonably achievable (ALARA). 
+11.2 In addition to the requirement of ALARA, the holder of the authority, as well as radiation workers, 
+must ensure that radiation doses to individuals (including themselves) do not exceed the limits 
+specified by SAHPRA:  
+Table 1: Summary of dose limitations 
+ 
+OCCUPATIONAL  
+PUBLIC  
+APPLICATION  
+DOSE LIMIT  
+DOSE LIMIT  
+Effective Dose  
+ 
+ 
+* 20 mSv per year, averaged 
+over 5 years, and not more than 
+50 mSv in any 1 year.  
+** 1 mSv per year  
+Annual Equivalent Dose 
+to lens of the eye  
+ 
+ 
+20 mSv  
+15 mSv  
+skin  
+500 mSv  
+50 mSv  
+hands and feet  
+500 mSv  
+-  
+11.3 Additional restrictions apply to the exposure of pregnant women.  
+11.4 ** In exceptional cases, this may be exceeded provided that the average over 5 years is less than 1mSv 
+per year.  
+11.5 Exposures in excess of the dose limits which occur as a result of circumstances which cannot 
+reasonably be considered as being under the control of the holder of the authority or the radiation 
+workers, will, however, not be viewed as a statutory infringement. 
+ 
+ 
+SAHPGL-RDN-RN-04_v2 
+Page 23 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+12. TRANSPORT 
+12.1 Radioactive sources used for industrial radiography must be transported in accordance with the 
+requirements of the current edition of "Regulations for the Safe Transport of Radioactive Materials", 
+published by the IAEA, as well as relevant regulations. 
+12.2 An enclosed and lockable vehicle should be used to transport radioactive sources. Radioactive source 
+containers must be locked inside a transport container permanently fixed to the vehicle if an open 
+vehicle is used. 
+12.3 The vehicle referred to in 12.2 must be fitted with a satellite vehicle recovery system. The system 
+must provide countrywide coverage, including border posts. 
+12.4 In general, a vehicle may not be left unattended with a radioactive source in it. However, an exception 
+may be made if a person is required to make an over-night stop during transportation of a radioactive 
+source and a suitable storage facility is not available. In such a case the radioactive source container 
+must be considered as being under transport during the night. The radioactive source container must 
+be locked inside a vehicle with an alarm system such that access to the container will activate the 
+alarm. The vehicle must be securely locked and parked in the safest possible area where it will be 
+under constant surveillance of the overnight establishment security.  Where practicable, the vehicle 
+must be left on the premises of a police station during the night. 
+12.5 Three removable transport labels must be displayed on a vehicle during transportation of radioactive 
+sources, one sign on each side and one on the rear of the vehicle. The name and telephone number 
+of a person to be contacted in the event of an emergency must also appear adjacent to the transport 
+labels.  Transport labels must be removed when the radioactive material is no longer in the vehicle. 
+12.6 The source container must be locked in the shielded ("off") position during transport 
+12.7 The source container must bear IAEA approved transport labels, in accordance with the radiation 
+levels associated with the unit. These labels may not cover any other required labels or information 
+on the container. Transport over packs must be used where transport labels will obscure other 
+required markings and labels on the source container. 
+12.8 The source container must not be transported in the passenger's compartment of the transport 
+vehicle and must be positioned as far as possible from any persons in the vehicle. The maximum dose 
+rate at the position of any person in the vehicle shall not exceed 20 µSv/h (2mR/h). 
+SAHPGL-RDN-RN-04_v2 
+Page 24 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+12.9 Industrial radiography source containers may be dispatched by public freight transport (i.e. by ship, 
+air or road) provided that the above requirements are met, and the gauge is accompanied by properly 
+completed transport documents specifying the radioactive content. 
+12.10 If a source container is, or appears to be damaged in transport, the following actions shall be taken: 
+12.10.1 The person or persons responsible for the container at the time of the incident shall notify 
+the holder of the authority and SAHPRA – Radiation Control. 
+12.10.2 The owner shall ensure that the source container is carefully examined to verify that it 
+continues to comply with the Regulations by carrying out a radiation survey on the 
+container. 
+12.11 The sender, conveyor and receiver of radioactive sources must each keep a log of sources 
+dispatched and/or received. The log must include the date and time of delivery/dispatch, the names 
+and identity numbers of persons that received/delivered the sources and the container and source 
+serial numbers. 
+12.12 Any incident in which radioactive sources are misrouted or go missing during transportation 
+(accidents, hijackings etc.) must immediately be reported to SAHPRA in accordance with paragraph 
+13. 
+13. EMERGENCY PROCEDURES 
+13.1 The document drawn up by the holder of the authority in terms of paragraph 3.5 must include a 
+contingency plan describing procedures to be followed in the event of a radiation incident. The 
+contingency plan must include the following: 
+13.1.1 Immediate action to be taken in order to prevent excessive radiation doses. 
+13.1.2 Internal and external notification procedures. 
+13.1.3 Procedures for dealing with the incident and returning the situation to normal. 
+13.1.4 Information regarding medical examinations and blood tests. 
+13.2 SAHPRA must be notified immediately by telephone and the information must be reported in writing 
+within 7 days in the following instances (see regulation 16): 
+SAHPGL-RDN-RN-04_v2 
+Page 25 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+13.2.1 If the authority holder is not able to deal with an emergency situation in a safe and acceptable 
+manner with the equipment at his/her disposal, or if he does not have personnel who are 
+trained to handle such situations. 
+13.2.2 If there is the likelihood of radioactive contamination occurring or having occurred because 
+of an incident. 
+13.2.3 If a radioactive source is lost or missing, in which case Form GLF-RDN-RN-12A (old form 
+RN900 must be submitted to the Directorate. 
+13.2.4 If any person is overexposed or suspected of being overexposed in which case Form GLF-
+RDN-XR-10A (old form RC010) must be submitted to the Directorate. 
+EMERGENCY TELEPHONE NUMBERS: 
+During office hours, phone 021-0155505; Email Radionuclides@sahpra.org.za. After hours, call 
+the NECSA 24-hour National Emergency Centre on 012-305 3333 
+ 
+13.2.5 All non-routine occurrences relating to radiation safety must be logged and reported to the 
+directorate within 7 days of the occurrence of any of the following incidents: 
+13.2.6 Unintentional disconnection of the source assembly from the control cable. 
+13.2.7 Inability to retract the source assembly to its fully shielded position and secure it in this 
+position. 
+13.2.8 Failure of any component (critical to safe operation of the device) to properly perform its 
+intended function.   
+13.2.9 The following information must be included in each report: 
+13.2.9.1 
+A description of the equipment problem; 
+13.2.9.2 
+Cause of each incident, if known; 
+13.2.9.3 
+Manufacturer and model number of equipment involved in the incident; 
+13.2.9.4 
+Isotope type, activity and serial number; 
+SAHPGL-RDN-RN-04_v2 
+Page 26 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+13.2.9.5 
+Equipment maintenance reports/records; 
+13.2.9.6 
+Place, time and date of the incident; 
+13.2.9.7 
+Actions taken to establish normal operations; 
+13.2.9.8 
+Corrective actions taken or planned to prevent recurrence; 
+13.2.9.9 
+Qualifications of personnel involved in the incident. 
+13.3 Emergency equipment should be available. The recommended minimum requirements are: 
+13.3.1 dummy source or photograph (incorporating an indication of the physical dimensions) of the 
+dummy source;  
+13.3.2 personal radiation monitoring device;  
+13.3.3 two survey meters (one of them suitable for high dose rates);  
+13.3.4 tongs (one metre and two metre lengths);  
+13.3.5 pliers;  
+13.3.6 screwdriver;  
+13.3.7 adjustable spanner or wrench;  
+13.3.8 other hand tools which are appropriate for the particular equipment;  
+13.3.9 Bags of lead shot (2 kg per bag), at least two of which are required for Ir-192 sources;  - a lead 
+pot with wall thickness greater than 4 cm and/or lead sheet.  
+13.4 Radiography personnel may not attempt to perform operations involving radioactive source retrieval 
+or recovery of a source not in a shielded position unless they have had specific instruction and actual 
+practice in retrieval operations with a dummy source.  
+13.5 In the event of an overexposure or suspected overexposure, the personal dosimeter of the individual 
+involved must immediately be forwarded to the SABS for processing. 
+14. DISPOSAL AND EXCHANGE 
+SAHPGL-RDN-RN-04_v2 
+Page 27 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+14.1 Authority holders must not dispose of radioactive sources without the approval of SAHPRA.  
+"Dispose" here includes sell, lend, donate, as well as the return of the radiation source to the supplier, 
+but excludes an exchange as referred to in paragraph 14.3. 
+14.2 Should the holder wish to permanently discard a radioactive source at the Nuclear Liabilities 
+Management (NLM) section of NECSA at Pelindaba, application must be made to the Directorate on 
+Form GLF-RDN-RN-13C (old form RN 525). 
+14.3 If the holder wishes to exchange a short half-life radioactive source (such as Iridium-192) at NTP 
+Radioisotopes (Pty) Ltd, permission need not be obtained from SAHPRA. The holder is, however, 
+required to provide NTP Radioisotopes (Pty) Ltd with an official "exchange form". 
+14.4 If the holder wishes to import a short half-life radioactive source (such as Selenium-75) directly, the 
+prescribed procedure for the importation of radioactive sources must be followed as referred to in 
+paragraph 3.1. The transfer of the imported source from the transport container to the source 
+container must be performed in the presence of the RPO or ARPO. The document drawn up by the 
+holder of the authority in terms of paragraph 3.5 must include a full description of the procedure to 
+be followed for this transfer. The source container used must comply with the directives of paragraph 
+9.5. No radioactive source may be loaded into an uncertified container. The holder is also required 
+to provide the official “exchange form” as well as proof of the container certification. 
+15. REFERENCES 
+15.1 Government Gazette no. R247, February 1993 concerning regulations governing the Group IV 
+Hazardous Substances Act, 1973 (Act 15 of 1973) as amended. *  
+15.2 Nordic Recommendations on Radiation Protection in Industrial Radiography, 1987.  
+15.3 Standard Specification for Apparatus for Gamma Radiography, SABS 1980 (SABS 1317).  (International 
+Standard ISO 3999 - 1977)  
+15.4 Radiation Protection - Recommendations in the Nordic Countries, 1976.  
+15.5 Regulations for the Safe Transport of Radioactive Material, IAEA Safety Series 6, 1985. **  
+15.6 Guide for the Preparation of Applications for the Use of Sealed Sources and Devices for Performing 
+Industrial Radiography, U.S. Nuclear Regulatory Commission, 1984.  
+15.7 Licenses for Radiography and Radiation Safety Requirements for Radiographic Operations, Part 34, 
+US NRC Rules and Regulations, 1990.  
+15.8 Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material, Radiation Control, 
+Department of Health, Bellville, 1992.  
+SAHPGL-RDN-RN-04_v2 
+Page 28 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+15.9 Proposed code of practice for the industrial use of ionizing radiation, Part II: Radiation from listed 
+electronic products, Document for committee draft stage SABS.  
+15.10 Suggested State regulations for control of Radiation, Volume I, and ionizing Radiation, U.S. 
+Department of Health and Human Services, Public Health Service, Food and Drug Administration 
+(1982).  
+15.11 The protection of persons against ionizing radiation arising from any work activity, The Ionizing 
+Radiation Regulations 1985, Health, and Safety Commission.  
+15.12 Suggested State Regulations for Control of Radiation Volume I, Ionizing Radiation, U.S. Department 
+of Health and Human Services, Public Health Service, Food and Drug Administration (1990).  
+15.13 Code of practice for the safe use of Industrial Radiography equipment (1989), Radiation Health 
+Series no. 31, National Health and Medical Research Council, Australia (December 1989).  
+16. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old Code of 
+Practices for Industrial Radiography, revised October 2022. It will be reviewed on this timeframe or as and 
+when required. 
+ 
+ 
+SAHPGL-RDN-RN-04_v2 
+Page 29 of 29 
+Guideline for Code of Practices for Industrial Radiography 
+18 June 2024 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,501 @@
+SAHPGL-RDN-XR-15_v1 
+Page 1 of 11
+ 
+ 
+ 
+29 August 2022 
+IONIZING RADIATION DOSE LIMITS AND ANNUAL LIMITS ON 
+INTAKE OF RADIOACTIVE MATERIAL 
+Dose limits are intended to reduce the risk of serious effects occurring, such as cancer, and are in place to 
+protect the eyes, skin, and extremities against other forms of damage. 
+ 
+  
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0  
+First issue and published for implementation 
+July 2001 
+1 
+− 
+Content structured on the new SAHPRA Guideline Template 
+− 
+A unique document number SAHPGL-RDN-XR-15 allocated to this 
+Guideline 
+September 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-15_v1 
+Page 2 of 11
+Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material  
+29 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+DOSE LIMITATION ...................................................................................................................................... 5 
+3.1 A system of dose limitation is laid down whereby: ................................................................................... 5 
+4. 
+OCCUPATIONAL EXPOSURE ....................................................................................................................... 5 
+4.1 Effective Dose Limit ................................................................................................................................... 5 
+4.2 Non-uniform Exposure .............................................................................................................................. 6 
+4.3 Equivalent Dose Limits .............................................................................................................................. 6 
+4.4 Annual Limits on Intake ............................................................................................................................. 6 
+4.5 Rates of Dose Accumulation ...................................................................................................................... 6 
+4.6 Previous exposure unknown ..................................................................................................................... 7 
+4.7 Exposure of women of reproductive capacity ........................................................................................... 7 
+4.8 Exposure of pregnant women ................................................................................................................... 7 
+4.9 Abnormal exposures .................................................................................................................................. 7 
+4.10 Potential exposures ................................................................................................................................... 8 
+5. 
+CLASSIFICATION OF WORKPLACES AND DOSIMETRY ................................................................................ 8 
+5.1 Controlled Areas ........................................................................................................................................ 8 
+5.2 Supervised Areas ....................................................................................................................................... 8 
+5.3 Personal Dosimetry ................................................................................................................................... 8 
+6. 
+PUBLIC DOSE LIMITS .................................................................................................................................. 9 
+7. 
+SUMMARY OF DOSE LIMITS....................................................................................................................... 9 
+8. 
+REFERENCES ............................................................................................................................................. 10 
+9. 
+VALIDITY .................................................................................................................................................. 10 
+10. ANNEXURES ............................................................................................................................................. 11 
+10.1 Annexure A: Effective dose in sievert (Sv), previously termed the effective dose equivalent ............... 11 
+ 
+SAHPGL-RDN-XR-15_v1 
+Page 3 of 11
+Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material  
+29 August 2022 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ALI 
+Annual limits on intake 
+DAC 
+Derived Air Concentrations  
+EDL 
+Effective Dose Limits 
+ICRP 
+International Commission of Radiological Safety  
+mSv 
+Milli-Sieverts 
+Deterministic effects  
+(previously termed non-stochastic effects) Are those for which the severity of 
+the effect varies with the dose, and for which a threshold may therefore occur, 
+for example, lens opacification, or loss of function of other organs. 
+ 
+ 
+Effective dose in sievert 
+(Sv)  
+(previously termed the effective dose equivalent) Is the sum of the weighted 
+equivalent doses in all the tissues and organs of the body. The weighting factor 
+to be used is the tissue weighting factor, wT.  A uniform equivalent dose to the 
+whole body gives an effective dose numerically equal to that uniform 
+equivalent dose. If the equivalent dose to an organ with weighting factor wT is 
+HT, the effective dose is given by:  
+ 
+Medical exposure 
+Refers to the exposure of patients during medical procedures and not to the 
+exposure of the personnel conducting or incidentally associated with such 
+procedures. 
+Stochastic effects 
+Are those for which the probability of an effect occurring, rather than its 
+severity, is regarded as a function of dose. Stochastic effects include somatic 
+effects (such as fatal or non-fatal cancers occurring in exposed individuals) as 
+well as hereditary effects (effects transmitted to future generations).   
+ 
+ 
+ 
+SAHPGL-RDN-XR-15_v1 
+Page 4 of 11
+Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material  
+29 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+The dose limits and annual limits on intake of radioactive material (ALI) laid down by SAHPRA: Radiation Control 
+are based on the recommendations of the International Commission on Radiological Protection in ICRP 
+Publication 60 (ref. 1) and ICRP Publication 61 (ref. 2) respectively.  These limits are intended to prevent 
+deterministic effects and to limit the occurrence of stochastic effects to an acceptable level.  
+When calculating the total accumulated effective dose to an individual, exposure from both internal and 
+external radiation sources must be considered.  The effective dose limit (EDL) is therefore supplemented by a 
+secondary limit, the annual limit on intake (ALI), to take cognizance of exposures due to the intake of 
+radioactive material.  An effective dose E from external exposure and intakes leading to internal exposure must 
+satisfy the following equation for the specified period:  
+E
+EDL + ෍
+Ij
+ALIj
+≤1
+j
+ 
+In practice, this situation is unlikely to arise, and the control of radiation exposure will usually be based on 
+either external exposure or internal exposure and not on a combination of both.  For the purposes of 
+implementing the dose limits, SAHPRA: Radiation Control will, apart from this directive, from time-to-time 
+issue directives about derived limits (such as derived air concentrations), occupationally related dose 
+constraints, or other reference levels (such as recording levels, investigation levels, intervention levels, etc.). 
+1.1 
+Purpose 
+Dose limits are set to protect workers and members of the public from the effects of ionizing radiation. 
+They are set at a level that balances the risk from exposure with the benefits of using ionizing radiation. 
+1.2 
+Scope 
+This guideline contains dose limits and annual limits on the intake of radioactive material and describes 
+how to calculate the total accumulated effective dose to an individual exposed to ionizing radiation after 
+the intake of radioactive material. 
+2. 
+LEGAL PROVISION 
+The Hazardous Substances Act, 1973 (Act 15 of 1973) and Regulations R247 relating to Group IV Hazardous 
+Substances R.247 of 26 February 1993. 
+ 
+ 
+SAHPGL-RDN-XR-15_v1 
+Page 5 of 11
+Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material  
+29 August 2022 
+ 
+ 
+3. 
+DOSE LIMITATION  
+3.1 
+A system of dose limitation is laid down whereby: 
+a. No practice involving exposures to radiation shall be adopted or continued unless it produces 
+sufficient benefit to the exposed individuals or to society to offset the radiation detriment it 
+causes;  
+b. All exposures shall be kept as low as reasonably achievable, economic and social factors being 
+taken into account. This procedure shall be constrained by appropriate restrictions on the doses 
+to individuals; and  
+c. The doses to individuals shall not exceed the limits laid down in this directive.  The dose limits 
+represent the upper bounds of acceptability and should not necessarily be interpreted as 
+allowable limits. 
+With regard to (b) above it should be noted that the requirement of keeping doses as low as is 
+reasonably achievable (optimization of protection) is particularly important and that individual 
+exposures, even below the level of the dose limits, are not necessarily acceptable, if judged in 
+the light of this requirement.  Source-related individual dose constraints (below the dose limits) 
+must be applied, to ensure adequate protection of the individual. Continued exposure of 
+workers at or near the dose limits will only be acceptable if a careful analysis has shown that the 
+associated risk is justifiable.  
+d. Doses resulting from natural background and from medical exposures are generally excluded 
+from the dose limits referred to in paragraph 7 unless SAHPRA: Radiation Control deems it 
+necessary, in any particular case, to include exposure from natural radioactivity in a workplace.  
+e. The dose limits cover two categories of exposed individuals:  
+(i) Occupationally exposed individuals (i.e. adults exposed in the course of their work), and 
+(ii) Members of the public.  
+4. 
+OCCUPATIONAL EXPOSURE  
+4.1 
+Effective Dose Limit 
+To limit the occurrence of stochastic effects, the effective dose to a worker may not exceed 20 mSv (2 rem) 
+per year, averaged over 5 years (100 mSv in 5 years), with a further provision that the effective dose may 
+SAHPGL-RDN-XR-15_v1 
+Page 6 of 11
+Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material  
+29 August 2022 
+ 
+ 
+not exceed 50 mSv in any single year.   
+The above dose limit must be applied to all occupational exposure and must include that resulting from 
+minor mishaps and misjudgments in operations and from maintenance and decommissioning in 
+circumstances not necessarily envisaged by the designers. This represents a significant increase in the 
+stringency of the limits, regardless of the change in magnitude thereof.  
+4.2 
+Non-uniform Exposure 
+In the case of non-uniform or partial exposures, account must be taken of the contribution of different 
+organs to the overall stochastic effects on the body.  The effective dose E must then be calculated with the 
+use of tissue weighting factors, representing the contribution from different organs or tissues (see 
+Annexure A, below).  
+4.3 
+Equivalent Dose Limits 
+The restriction on effective dose specified in sub-paragraph 4.1 is sufficient to ensure the avoidance of 
+deterministic effects in all body tissues and organs except the skin and the lens of the eye. Additional 
+equivalent dose limits are needed for these tissues. The annual limits are 20 mSv for the lens of the eye and 
+500 mSv for the skin averaged over any 1 cm2, regardless of the area exposed. The latter limit is also 
+applicable to the hands and feet.  
+4.4 
+Annual Limits on Intake 
+Annual limits on intake (ALI's) for several radionuclides are given in ICRP Publications 61. These ALI's are 
+based on a committed effective dose of 20 mSv. Estimated intakes may be averaged over a period of 5 years 
+to provide some flexibility.  Where necessary, the intake of nuclides must be added to the external 
+exposure, as described on page 1.  
+The ALI values are frequently used to find derived levels of concentrations of radionuclides for the purpose 
+of implementing control measures in practice.  In this way, Derived Air Concentrations (DAC) are found 
+which describe those concentrations of radionuclides in air which, when inhaled during normal working 
+hours for one year, will lead to the annual limit of intake (ALI).  In a similar fashion, taking cognizance of the 
+mode of intake, other concentrations can be established in particular situations that could lead to the ALI.  
+4.5 
+Rates of Dose Accumulation 
+No further restriction is placed on the instantaneous rate or the rate at which the equivalent dose may be 
+accumulated, except in the case of pregnant women.  However, it is advisable that the management of an 
+SAHPGL-RDN-XR-15_v1 
+Page 7 of 11
+Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material  
+29 August 2022 
+ 
+ 
+institution implement such restrictions from the point of view of administrative control.  
+4.6 
+Previous exposure unknown 
+If the previous exposure cannot be derived conclusively, it shall be assumed that the worker has   received 
+a dose equal to the currently recommended equivalent dose limit (20 mSv) in each year   of any given 
+period.  
+4.7 
+Exposure of women of reproductive capacity 
+The prescribed dose limits for the control of the occupational exposure of women who are not pregnant 
+are the same as those for men. No special requirements are necessary. 
+4.8 
+Exposure of pregnant women 
+When pregnancy has been diagnosed, the conceptus must be protected by applying a supplementary 
+equivalent dose limit to the surface of the woman's abdomen (lower trunk) of 2 mSv for the remainder of 
+the pregnancy and by limiting intakes of radionuclides to less than 1/20 of the ALI. Arrangements should be 
+made to ensure that the pregnant woman performs work that is of a type that does not carry a significant 
+probability of high accidental doses and intakes.  
+4.9 
+Abnormal exposures 
+Doses received under abnormal circumstances should be recorded together with, and clearly distinguished 
+from, normal exposures.  
+a. Emergency exposures  
+Exposures in excess of the recommended dose limits are acceptable in operations during or 
+immediately after an emergency, to save a life, to prevent injuries, or to prevent a substantial 
+increase in the scale of the incident.  Such exposures are voluntary and should not exceed 0.5 
+Sv, except for life-saving actions. The equivalent dose to skin should not exceed 5 Sv, again 
+except for life-saving actions. Once the emergency is under control, remedial work must be 
+treated as normal occupational exposure.  
+b. Accidental exposures  
+Accidental exposures in excess of the limits recommended for normal practice differ from 
+emergency exposures in that they are unavoidable and unforeseen. For this reason no dose 
+limits are set for such exposures. Levels must be limited by equipment design, protective 
+features and the provision of emergency procedures.  
+SAHPGL-RDN-XR-15_v1 
+Page 8 of 11
+Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material  
+29 August 2022 
+ 
+ 
+If a dose or intake of radioactive material exceeds twice the annual limit, the situation should be 
+reviewed by the appointed doctor.  
+4.10 Potential exposures 
+Dose limits do not apply directly to potential exposures. For potential exposures, risk limits (which take 
+account of both the probability of incurring a dose and the detriment associated with that dose), rather 
+than dose limits, should be applied. In addition, the detriment associated with possible intervention (should 
+the event occur) should be taken into account. ICRP 60 should be consulted in this regard. 
+5. 
+CLASSIFICATION OF WORKPLACES AND DOSIMETRY 
+In order to facilitate the control of occupational exposure, workplaces containing sources of radiation must be 
+formally designated as controlled or supervised areas, the aim being to ensure that anyone outside the 
+designated areas need not be regarded as occupationally exposed. The designation should be based on 
+operational experience and judgement, and must take account of the expected level and likely variations of 
+doses and intakes, as well as the potential for accidents.   
+5.1 
+Controlled Areas 
+A controlled area is one in which normal working conditions, including the possible occurrence of minor 
+mishaps, require the workers to follow well-established procedures and practices aimed specifically at 
+controlling radiation exposures.  
+5.2 
+Supervised Areas  
+A supervised area is one in which the working conditions are kept under review, but special procedures are 
+not normally needed.   
+5.3 
+Personal Dosimetry  
+All occupationally exposed workers should be subject to individual monitoring for external radiation unless 
+their doses will be consistently low or, as in the case of air crew, it is clear that the circumstances prevent 
+the doses from exceeding an identified value.  
+Individual monitoring for intakes of radioactive material is usually much more difficult, and should be used 
+routinely only for workers who are employed in areas that are designated as controlled areas specifically in 
+relation to the control of contamination and in which there are grounds for expecting significant intakes.  
+ 
+ 
+SAHPGL-RDN-XR-15_v1 
+Page 9 of 11
+Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material  
+29 August 2022 
+ 
+ 
+6. 
+PUBLIC DOSE LIMITS  
+6.1 
+The scope of dose limits for public exposure is confined to the doses incurred as a result of practices. 
+Situations which can only be influenced by intervention (e.g. radon in dwellings and in the open air, 
+radioactive materials, natural or artificial, already in the environment, and other natural sources) are 
+thus excluded.  
+6.2 
+No member of the public may receive more than 1 mSv in a year. However, in special circumstances, 
+a higher value of effective dose could be allowed in a single year, provided that the average over 5 
+years does not exceed 1 mSv per year.  
+6.3 
+In addition, no member of the public may receive an equivalent dose of more than 1 mSv to the lens 
+of the eye and 50 mSv to the skin, averaged over 1 cm2, regardless of the area exposed.  
+7. 
+SUMMARY OF DOSE LIMITS 
+ 
+OCCUPATIONAL  
+PUBLIC  
+APPLICATION  
+DOSE LIMIT  
+DOSE LIMIT  
+  Effective Dose  
+  
+  
+  
+  
+* 20 mSv per year, 
+averaged over 5 years, 
+and not more than 50 
+mSv in any 1 year.  
+** 1 mSv per year  
+ Annual Equivalent Dose to: 
+Lens of the eye  
+20 mSv  
+1 mSv  
+skin 
+500 mSv  
+50 mSv  
+hands and feet 
+500 mSv  
+-  
+*  Additional restrictions apply to the exposure of pregnant women (see paragraph 4.8)  
+** In exceptional cases, this may be exceeded provided that the average over 5 years is less than 1mSv 
+per year.   
+ 
+ 
+SAHPGL-RDN-XR-15_v1 
+Page 10 of 11
+Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material  
+29 August 2022 
+ 
+ 
+8. 
+REFERENCES 
+The following related documents are referenced: 
+8.1 
+Guideline for Personal Monitoring Med and Vet Use of Diagnostic X-Ray Equipment 
+https://www.sahpra.org.za/document/guideline-for-personal-monitoring-med-and-vet-use-of-
+diagnostic-x-ray-equipment/ 
+8.2 
+ICRP (1991). 1990 Recommendations of the International Commission on Radiological Protection, 
+ICRP Publication 60, Annals of the ICRP 21(1-3), Pergammon Press, Oxford.  
+8.3 
+ICRP (1991). Annual Limits on Intake of Radionuclides by workers Based on the 1990 
+Recommendations, ICRP Publication 61, Annals of the ICRP 21(4), Pergammon Press, Oxford.  
+9. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material DLUG91-1, revised July 
+2001. It will be reviewed on this timeframe or as and when required. 
+ 
+ 
+SAHPGL-RDN-XR-15_v1 
+Page 11 of 11
+Ionizing Radiation Dose Limits and Annual Limits on Intake of Radioactive Material  
+29 August 2022 
+ 
+ 
+10. ANNEXURES 
+10.1 Annexure A: Effective dose in sievert (Sv), previously termed the effective dose equivalent 
+ 
+𝐸𝐸= ෍𝑤𝑤𝑇𝑇. 𝐻𝐻𝑇𝑇
+𝑇𝑇
+ 
+Values of wT are given in the following table:  
+Gonads  
+ 
+0.20  
+Red bonemarrow  
+ 
+0.12  
+Colon  
+ 
+0.12  
+Lung  
+ 
+0.12  
+Stomach  
+ 
+0.12  
+Bladder  
+ 
+0.05  
+Breast  
+ 
+0.05  
+Liver  
+ 
+0.05  
+Oesophagus  
+ 
+0.05  
+Thyroid  
+ 
+0.05  
+Skin  
+ 
+0.01  
+Bone surface  
+ 
+0.01  
+Remainder  
+ 
+0.05  
+For further details of calculations consult ICRP publication 60 (ref. 1). Equivalent Dose in sievert (Sv) 
+is the absorbed dose (in gray) averaged over a tissue or organ and weighted for the relevant 
+radiation quality.  The equivalent dose in tissue T is given by the expression: 
+𝐻𝐻𝑇𝑇෍𝑤𝑤𝑅𝑅. 𝐷𝐷𝑇𝑇,𝑅𝑅
+𝑅𝑅
+ 
+where DT,R is the absorbed dose averaged over the tissue or organ T, due to radiation R and wR is 
+the radiation weighting factor (previously called quality factor).  
+Values of wR are given in the following table:  
+Photons (e.g. Gamma and X-radiation):  
+ 
+1  
+Muons and Electrons (e.g. Beta Radiation):  
+ 
+1  
+Neutrons less than 10 keV:  
+ 
+5  
+Neutrons 10keV-100 keV:  
+ 
+10  
+Neutrons more than 100keV-2 MeV:  
+ 
+20  
+Neutrons more than 2 MeV-20MeV:  
+ 
+10  
+Neutrons more than 20 MeV:  
+ 
+5  
+Protons, other than recoil protons, energy > 2MeV:  
+ 
+5  
+Alpha Particles, fission fragments, heavy nuclei:  
+ 
+20  
+ 
+

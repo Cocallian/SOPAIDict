@@ -1,0 +1,1359 @@
+SAHPGL-INSP-02_v10 
+Page 1 of 34
+ 
+ 
+ 
+ 
+GUIDELINES FOR GOOD MANUFACTURING PRACTICE OF   
+MEDICINES 
+This document provides guidelines for the requirements of Good Manufacturing Practice (GMP) in South Africa.  This guideline is not 
+an exclusive approach.  SAHPRA reserves the right to request any additional information to establish the safety, quality and efficacy 
+of a medicine.  SAHPRA may amend this guideline in keeping with the latest knowledge at the time of consideration of data 
+accompanying applications for registration of medicines. Scientifically and technically justified alternative approaches SAHPRA is 
+committed to ensuring that all medicines gaining market approval will be of the required quality, safety and efficacy standards. 
+ 
+Document History 
+Final 
+Version
+Reason for Amendment
+Effective Date
+1 
+Implementation  
+1997 
+1 
+Chapter 9 (Validation) reformatted 
+January 2004 
+2 
+Adoption of PIC/S GMP Guide of July 2004 
+January 2006 
+3 
+Amendment of Introduction and inclusion of requirements for Quality 
+Product Review (1.5), Risk Management (1.6), On-going stability 
+programme (6.7), Analytical Method Validation (Annex 15 15.7) and  
+Glossary, keeping of Reference and Retention samples (Annex 19), Quality 
+Risk Management (Annex 20) 
+September 2008 
+4 
+Amendments to Radiopharmaceuticals (Annex 3), Herbal Medicinal 
+Products (Annex 7) 
+March 2009 
+5 
+Consolidation of comments on versions 3 & 4 
+November 2010 
+6 
+ 
+Adoption of PIC/S Guide to Good Manufacturing Practice (GMP) 1 
+January 2017, PE 009-13   
+ 
+Amendment of Introduction  
+ 
+Deletion of Chapters 1  9, Annexes 1  15 and 17   
+ 
+20, Addendums I and II and Glossary  
+December 2017 
+SAHPGL-INSP-02_v10 
+Page 2 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+ 
+Inclusion of Section 2 Adoption and Adaptation of PICS GMP Guide, 
+Section 3 Regulatory Processes and moving of Annex 16 from version 
+5 to Section 4  
+7 
+ 
+Additional guidance on the regulatory process for GMP approval 
+ 
+Detailing of recognised authorities for GMP reliance  
+ 
+Specifying the dosage form, product type and activity grouping 
+July 2019 
+8 
+To comply with SAHPRA documents formats 
+August 2022 
+9 
+Alignment with PICS Annex 16 
+November 2025 
+10 
+ 
+Inclusion of Section 4.1.6 for specification of the minimum years of 
+experience required for key personnel per license category in terms 
+of Section 22C(1)(b) of the Medicines and Related Substances Act 101 
+of 1965 
+April 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-INSP-02_v10 
+Page 3 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary .............................................................................................................................................................. 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 5 
+1.1 Purpose ...................................................................................................................................................... 5 
+1.2 Scope .......................................................................................................................................................... 5 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 5 
+2.1 ADOPTION AND ADAPTATION OF THE PICS GMP GUIDE .......................................................................... 5 
+3. 
+REGULATORY PROCESSES .......................................................................................................................... 6 
+3.1 Principles .................................................................................................................................................... 6 
+3.2 GMP Approval Guidance ............................................................................................................................ 6 
+4. 
+SOUTH AFRICAN SPECIFIC REQUIREMENTS RELATED TO KEY PERSONNEL: .............................................. 7 
+4.1 ORGANISATION & PERSONNEL .................................................................................................................. 7 
+4.1.1 
+PRINCIPLES ............................................................................................................................................ 7 
+4.1.2 
+RESPONSIBILITIES OF KEY PERSONNEL ................................................................................................. 8 
+4.1.3 
+LEGAL ASPECTS ................................................................................................................................... 14 
+4.1.4 
+QUALIFICATIONS ................................................................................................................................. 18 
+4.1.5 
+TRAINING ............................................................................................................................................ 19 
+4.1.6 
+EXPERIENCE ......................................................................................................................................... 20 
+4.1.7 
+HYGIENE .............................................................................................................................................. 29 
+5. 
+REFERENCES ............................................................................................................................................. 30 
+6. 
+VALIDITY ................................................................................................................................................... 30 
+7. 
+APPENDICES ............................................................................................................................................. 31 
+7.1 Appendix 1: Recognized Regulators ......................................................................................................... 31 
+7.2 Appendix 2: Dosage group, product type and activity groupings ............................................................ 31 
+7.3 Appendix 3: Experience Requirements in terms of Annexure 1 to the License, S22C(1)(b) of the ......... 33 
+ 
+ 
+ 
+SAHPGL-INSP-02_v10 
+Page 4 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+GMP  
+Good Manufacturing Practice 
+PICS 
+Pharmaceutical Inspection Co-operation Scheme 
+RP 
+Responsible Pharmacist 
+RPn 
+Responsible Person 
+ 
+ 
+ 
+SAHPGL-INSP-02_v10 
+Page 5 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+1. 
+INTRODUCTION 
+Good Manufacturing Practice (GMP) is described as a set of principles and procedures that, when followed, 
+ensure that medicines and related substances are of high quality, safety and efficacy. The South African 
+Health Products Regulatory Authority (SAHPRA) is a affiliated member of the Pharmaceutical Inspection 
+Cooperation Scheme (abbreviated as PICS). The PICS aims to develop international standards between 
+countries and pharmaceutical inspection authorities and provide harmonised and constructive co-operation 
+in the field of GMP. The PICS affiliation is subject to initial and periodic assessment of the participating 
+authority to ensure that it has equivalent legislation, regulatory and enforcement procedures and inspection 
+capacity.   
+1.1 
+Purpose 
+GMP is a system that ensures   medical products are consistently produced and controlled according to 
+quality standards. It is designed to minimise the risks involved in any pharmaceutical production that 
+cannot be eliminated through testing the final product. 
+The standards set out in this guideline apply to medicines and similar products intended for human use. 
+It is recommended, however, that the same attention be given to the manufacture of veterinary products. 
+Administrative measures of national health authorities should be directed towards the application of 
+these standards in practice, and any new or amended national regulations for good manufacturing 
+practice should at least meet their level. These standards also serve as a basis for the elaboration of 
+specific rules adapted to the individual needs of manufacturers. 
+1.2 
+Scope 
+GMP covers all aspects of production from the starting materials, premises, equipment, training and 
+personal hygiene of staff. Detailed written procedures are essential for each process that could affect the 
+quality of the finished product. There must be systems to provide documented proof that correct 
+procedures are consistently followed step - by  step in the manufacturing process of a product. 
+2. 
+LEGAL PROVISION  
+2.1 
+ADOPTION AND ADAPTATION OF THE PICS GMP GUIDE 
+Section 22C(1)(b) of the Medicines and Related Substances Act No. 101 of 1965 (Act 101 of 1965) specifies 
+that manufacturers, importers, exporters, wholesalers and distributors of medicines and related 
+substances (including excipients and APIs) must hold a licence.  Regulation 23 of the Act specifies that 
+there must be the ability to comply with good manufacturing, wholesaling, or distribution practices as 
+SAHPGL-INSP-02_v10 
+Page 6 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+determined by the Authority if you want to be a licence holder.  This enables the Authority to determine 
+manufacturing practices and the relevant code of GMP to be applied by manufacturers.   
+As a participating Authority of PICS, SAHPRA requires that manufacturers, importers and exporters of 
+medicines and related substances in South Africa meet the standards laid out in the PICS Guide to GMP.  
+As such, SAHPRA has adopted the PICS Guide to GMP, and all prospective adaptations as prescribed by 
+the PICS. 
+or Authorised Person will be equivalent to 
+ 
+3. 
+REGULATORY PROCESSES  
+3.1 
+Principles 
+GMP agreements with competent international regulatory authorities support information sharing and 
+other desirable objectives for international regulatory collaboration.  These agreements do not permit 
+automatic acceptance of the decisions of the other party but may be used to enhance regulatory oversight 
+and significantly reduce regulatory burden without diminution of compliance. 
+Manufacturers of medicines (including excipients and APIs) supplied in the South African market must 
+demonstrate compliance with the relevant code of GMP.  This is usually, but not always, done through an 
+on-site inspection and with acceptable documentary GMP evidence.  
+It is an offence in South Africa to manufacture, import or export medicines in South Africa without a 
+licence and certification in terms of Section 22C of the Medicines and Related Substances Act (Act 101 of 
+1965.  
+3.2 
+GMP Approval Guidance 
+GMP approval guidance for sites involved in the manufacture of products can be found below. Also note 
+that adherence to these requirements does not guarantee a site will be deemed GMP compliant by 
+SAHPRA. SAHPRA reserves the right to request additional documentation, schedule an inspection or reject 
+any sites regardless of adherence to the below requirements: 
+ 
+The site has been approved by a recognised regulator (see Appendix 1 below), 
+ 
+The site was approved by the recognised regulator (Appendix 1) within the previous 3 years, and 
+ 
+The dosage form of the product within the application is within the same dosage form grouping 
+as the dosage form approved by the recognised regulator (see Appendix 2 below),   
+SAHPGL-INSP-02_v10 
+Page 7 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+ 
+The product type applied for is the same as the product type approved by the recognised regulator 
+(see Appendix 2 below), and  
+ 
+The activities applied for by the applicant are the same activities that have been approved by the 
+recognised regulator (see Appendix 2 below). 
+4. 
+SOUTH AFRICAN SPECIFIC REQUIREMENTS RELATED TO KEY PERSONNEL: 
+4.1 
+ORGANISATION AND PERSONNEL 
+4.1.1 
+PRINCIPLES 
+The company must have an organisational chart that has been approved for use.  The organogram should 
+clearly indicate the reporting lines and level of responsibility in accordance with the functional 
+relationships described in the individual job descriptions of the functionaries referred to.   
+The establishment and maintenance of a satisfactory system of quality assurance and the correct 
+manufacture and control of medicines relies on people.  For this reason, there should be sufficient 
+personnel at all levels with the ability, suitable skills and training, experience and, where necessary, the 
+professional or technical qualifications and appropriate managerial skills to the tasks assigned to them.  
+Their duties and responsibilities should be clearly explained to them and recorded as job descriptions.  
+Proper job descriptions should include the responsibilities and document in detail the policy and 
+requirements.  
+All personnel should be aware of the principles of GMP that affect them and receive initial and continuing 
+relevant training, including hygiene instructions relevant to their needs.  Responsibilities should be 
+delegated, and acceptance acknowledged in writing.  Duties may be delegated to designated deputies of 
+a satisfactory qualification level.  There should be no gaps or unexplained overlaps in the responsibilities 
+of those personnel concerned with application of GMP.  
+The way in which the various key responsibilities which can influence product quality are allocated may 
+vary with different manufacturers.  These responsibilities should be clearly defined and delegated.  The 
+responsibilities placed on individuals should not be so extensive as to present any risk to quality.  Suitably 
+qualified people should be designated in writing to take up the duties of key personnel during the absence 
+of the latter.  
+Key personnel should be provided with adequate supporting staff.  People in responsible positions should 
+have sufficient authority to discharge their responsibilities.  In particular, the people responsible for 
+SAHPGL-INSP-02_v10 
+Page 8 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+Quality Assurance functions should be able to carry out their defined functions impartially.  An official 
+responsible for production and Quality Assurance should not be the same person and be equal in level of 
+authority.  They should not report to each other; both officials should have individual responsibility to 
+achieve the requisite quality.  The duties of the official responsible for Quality Assurance function are 
+ 
+4.1.2 
+RESPONSIBILITIES OF KEY PERSONNEL 
+Key personnel include: 
+ 
+a natural person who resides in South Africa, responsible to SAHPRA for compliance with the 
+requirements of the Medicines and Related Substances Act, 1965 (Act 101 of 1965) as amended   
+ 
+a Managing Director, 
+ 
+a person responsible for Production,   
+ 
+a person responsible for Quality Assurance, and   
+ 
+a Responsible Pharmacist that is responsible to: 
+o SAHPRA for compliance with the requirements of the Medicines and Related Substances Act, 
+1965 (Act 101 of 1965), and the 
+o Pharmacy Council for compliance with the requirements of the Pharmacy Act, 1974 (Act 53 
+of 1974)   
+4.1.2.1 Managing Director 
+ 
+The Managing Director of a company entitled to carry out the business of a 
+pharmacist must be in line with Regulation 25 of the Pharmacy Act and the 
+relevant sections of the Medicines Act 
+ 
+ 
+Shall undertake the overall administration of the pharmacy business, which 
+includes but is not limited to the regulation of pharmacy matters, human 
+resources, or matters relating to processes regarding medicines or scheduled 
+substances including procedures and record keeping and shall be responsible to 
+the Council for any act performed by or on behalf of such company or close 
+corporation, including any omission to perform an act required to be performed 
+SAHPGL-INSP-02_v10 
+Page 9 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+by or on behalf of such owner which may involve disciplinary action by the 
+Council, unless he or she can satisfy the Council that the responsibility for such 
+act rests upon the nominee, responsible pharmacist or a pharmacist other than 
+him or herself employed by such company or close corporation; 
+ 
+shall ensure that there is compliance with good pharmacy practice as published 
+by the Council in rules; 
+ 
+shall ensure that a responsible pharmacist is appointed for each pharmacy 
+wherein or from which the company or close corporation conducts business; 
+ 
+shall be part of the decision-making process affecting the pharmacy business; 
+ 
+shall supervise every pharmacist responsible, appointed by the owner of a 
+pharmacy business, if applicable; 
+ 
+shall ensure that the pharmacy owner complies with all the conditions of: 
+o ownership of such pharmacy business; 
+o registration of the pharmacy; 
+ 
+shall ensure that no person is appointed to perform any act falling outside the 
+scope of practice of the category in which such person is registered or which he/ 
+she is not authorized to perform in terms of the Act; 
+ 
+shall report in writing any non-compliance with sub-regulations 25(2), 25(3), 25(5) 
+or 25(6) to the management of such pharmacy business and furnish Council with 
+a copy thereof; and 
+ 
+shall not introduce or carry out any instruction or order from management about 
+the pharmacy business of the pharmacy owner which could amount to a 
+contravention of legislation applicable to such pharmacy business. 
+4.1.2.2 Head of Production 
+The Head of Production (HOP), in addition to his responsibilities (Chapter 2) for:  
+ 
+production areas, equipment, operations and records; 
+SAHPGL-INSP-02_v10 
+Page 10 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+ 
+the management of production personnel; 
+ 
+the manufacture of products in accordance with the appropriate Master 
+Formulation; and for 
+ 
+manufacturing instructions will have other responsibilities bearing on quality, 
+which he should share or exercise jointly with the Head of Quality Control.  
+4.1.2.3 Head of Quality Control (HQC)   
+The Head of Quality Control should have the authority to establish, verify and 
+implement all quality control procedures such as authority over quality decisions, 
+oversight of testing and results, approval of quality control documentation, laboratory 
+management, validation and method control etc 
+In some companies the Head of Quality Assurance oversees all the quality assurance 
+arrangements and reports to senior management.   
+The Head of Quality Control may report to the Head of Quality Assurance and share 
+some of the responsibilities with him. The person responsible for Quality Assurance 
+should be part of the decision-making process in all matters that affect the quality of 
+products including development, laboratory, storage, distribution, vendors and third-
+party contractors.  
+4.1.2.4 Shared or joint responsibilities of the Head of Production and Head of Quality 
+Control (Chapter 2)   
+It is important that both direct and shared responsibilities (e.g., validation oversight, 
+complaint investigations, product quality review, recall management, and self-
+inspection) are understood by those concerned.  
+4.1.2.5 The Responsible Pharmacist contemplated in Regulation 25 (3) of the Pharmacy Act 
+and the relevant sections of the Medicines Act must:   
+ 
+ensure that he or she continuously supervises the pharmacy in which he or she 
+has been appointed   
+ 
+have appropriate qualifications and experience in the services being rendered by 
+such pharmacy   
+SAHPGL-INSP-02_v10 
+Page 11 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+ 
+ensure that people being employed in such pharmacy and who provide services 
+forming part of the scope of pharmacy practice of a pharmacist are appropriately 
+registered with the Pharmacy Council   
+ 
+notify the Pharmacy Council immediately upon receiving knowledge that their 
+services as responsible pharmacists have been or will be terminated   
+ 
+take corrective measures in respect of deficiencies with regard to inspection 
+reports of the Pharmacy Council or in terms of the Medicines Act; and   
+ 
+in addition to the general responsibilities also   
+o ensure that unauthorized persons do not obtain access to medicines or 
+scheduled substances or the pharmacy premises outside of normal trading 
+hours, 
+o establish policies and procedures for the employees of the pharmacy with 
+regard to the acts performed and services provided in the pharmacy,   
+o ensure the safe and effective storage and keeping of medicine or scheduled 
+substances in the pharmacy under his or her direct personal supervision, 
+o ensure correct and effective record keeping of the purchase, sale, 
+possession, storage, safekeeping, and return of medicines or scheduled 
+substances and ensure the required reporting of figures of scheduled 
+substance purchases and sales are reported to the International Narcotics 
+Control Board (INCB), 
+o ensure that all batches manufactured and released for sale, supply or export 
+meet the requirements in terms of the marketing authorization, GMP 
+guidelines and other legal requirements,  
+o ensure that batch release considers storage- and transport conditions of 
+bulk- and final packed product, sampling processes- and QC analysis results 
+and where relevant, the Transmissible Spongiform Encephalopathy (TSE) 
+status of materials used during batch manufacture is compliant with the MA 
+terms, 
+SAHPGL-INSP-02_v10 
+Page 12 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+o ensure that all manufacturing and testing processes remain in a validated 
+state, 
+o ensure that repackaging for parallel imports and distribution purposes is 
+approved by SAHPRA, 
+o Ensure that audit reports comprehensively address general GMP 
+requirements and include accurate descriptions of inspected areas, resulting 
+in thorough and actionable documentation ensure that tamper-evident 
+safety features are in place to prevent product tampering,  
+o the required technical agreements are in place, and 
+o self-inspection programme is active and current. 
+ 
+initiate and co-ordinate all recall activities, which should involve the Head of 
+Quality Management; 
+ 
+ensure that a letter of authorization to communicate with Council, signed by the 
+CEO, be submitted to SAHRPA;   
+ 
+compile a letter of delegation of authority in their absence;   
+ 
+control the manufacturing or distribution of medicines, scheduled substances or 
+medical devices in terms of the provisions of the Medicines Act, 1965;   
+ 
+ensure that there is compliance with Good Pharmacy Practice as published by the 
+Pharmacy Council;   
+ 
+be part of the decision-making process affecting the pharmacy business;   
+ 
+supervise every pharmacist appointed by the owner of a pharmacy business and 
+ensure that the pharmacy owner complies with all the conditions of    
+o ownership of such pharmacy business   
+o registration of the pharmacy   
+ 
+ensure that no person is appointed to perform any act falling outside the scope 
+SAHPGL-INSP-02_v10 
+Page 13 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+of practice of the category in which such person is registered or which he/she is 
+not authorised to perform in terms of the Pharmacy Act, 1974 (Act 53 of 1974);   
+ 
+report in writing any non-compliance with the Pharmacy Act to the management 
+of such pharmacy business and furnish Pharmacy Council with a copy thereof;   
+ 
+not introduce or carry out any instruction or order of management with regard to 
+the pharmacy business of the pharmacy owner which could amount to a 
+contravention of legislation applicable to such pharmacy business; and   
+ 
+be responsible to SAHPRA for compliance with the provisions of the Medicines 
+and Related Substances Act, 1965 (Act 101 of 1965) relating to the sale, control of 
+the manufacturing and distribution of medicines, scheduled substances or 
+medical devices.   
+4.1.2.6 A Pharmacist or other legally authorized person is responsible for:   
+ 
+independently checking and signing each dispensed material and its mass or 
+volume;   
+ 
+checking and signing the addition of each material to the mix;   
+ 
+checking and signing the identity of the bulk product and printed packaging 
+material;   
+ 
+checking and signing that each packaging line or station is clear of previous 
+product, packaging components records or materials not required for the planned 
+packaging operations, and that equipment is clean and suitable for use before any 
+packaging is undertaken.  These checks should be recorded and each packaging 
+line opened and closed by a pharmacist, or other legally authorized person or 
+quality control.   
+ 
+the release for sale of the finished product.  This release should include the 
+completion of a check list which will ensure that all important release criteria have 
+been met;   
+ 
+handling scheduled substances in a pharmacy.  Legal requirements regarding the 
+documentation and control of scheduled medicines should be adhered to;   
+SAHPGL-INSP-02_v10 
+Page 14 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+ 
+the handling of complaints. A system should be established for handling 
+complaints, which should include written procedures indicating the person(s) (e.g. 
+pharmacist) responsible for receiving complaints.  The person responsible must 
+have appropriate knowledge and experience and the necessary authority to 
+decide the action to be taken;   
+ 
+with the handling of adverse events.  A system should be established for handling 
+the adverse events, which should include written procedures indicating the 
+responsible person(s) (e.g. pharmacist) through whom the reports and activities 
+are to be channeled.  The person responsible must have appropriate knowledge 
+and experience and the necessary authority to decide the action to be taken.   
+4.1.2.7 Consultants 
+Consultants advising on the manufacture, processing, packing, or storage of medicines 
+shall have sufficient education, suitable skills, training and experience, or any 
+combination thereof, to advise on the subject for which they are retained.  Records 
+shall be maintained stating the name, address and qualifications of any consultants 
+and the type and period of service they provide.  
+4.1.3 
+LEGAL ASPECTS 
+4.1.3.1 Definitions 
+4.1.3.1.1 
+Pharmacy Act (Act of 1974) & Regulations (Pharmacy Act) 
+Quoted for ease of reference  the original source takes precedence. 
+ 
+means guidance and support provided by a 
+pharmacist whilst physically present in a pharmacy, and in accordance with rules 
+relating to good pharmacy practice published in terms of Section 35A(b) of the Act. 
+means guidance and support by a pharmacist to 
+pharmacy support personnel in a primary health care clinic or any other facility as 
+approved by the council, and in accordance with rules relating to good pharmacy 
+practice published in terms of section 35A(b) of the Act. 
+means all operations including purchasing of raw material, 
+SAHPGL-INSP-02_v10 
+Page 15 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+processing, production, packaging, releasing, storage, quality assurance, 
+importation, exportation of medicine and scheduled substances and related 
+control. 
+means a pharmacy wherein or from which some or all 
+of the services as prescribed in regulation 16 of the Pharmacy Act relating to the 
+Practice of Pharmacy are provided and which shall sell medicine only to a wholesale 
+pharmacy or a community pharmacy or an institutional pharmacy or to persons 
+who are authorized to purchase medicines in terms of the Medicines Act or to an 
+organ of State (also refer to the regulations relating to the registration of persons 
+and the maintenance of registers  GNR 1160 of 20 Nov. 2000). 
+means the natural person appointed and registered as such by a 
+company entitled to carry on the business of a pharmacist in terms of the Pharmacy 
+Act and who shall be responsible for performing the duties as prescribed in 
+Regulation 24 of Pharmacy Act (GNR 1160 of 20 Nov. 2000). 
+means a natural person who is a pharmacist and who 
+shall be responsible to the Pharmacy Council for complying with all the provisions 
+of the Pharmacy Act and other legislation applicable to services which specially 
+pertain to the scope of practice of a pharmacist, and the legislation applicable to 
+the pharmacy which is under his or her personal supervision and who is registered 
+as such in terms of the Pharmacy Act.  
+4.1.3.1.2 
+Medicines and Related Substances Act (Act 101 of 1965) & Regulations 
+(Medicines Act) 
+Quoted for ease of reference  the original source takes precedence. 
+ means all operations including purchasing of material, processing, 
+production, packaging, releasing, storage and shipment of medicines and related 
+substances in accordance with quality assurance and related controls. 
+means any substance or mixture of substances used or purporting to 
+be suitable for use or manufactured or sold for use in  (a) the diagnosis, treatment, 
+mitigation, modification, or prevention of disease, abnormal physical, or mental 
+state or the symptoms thereof in man; or (b) restoring, correcting, or modifying any 
+SAHPGL-INSP-02_v10 
+Page 16 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+somatic or psychic or organic function in man, and includes any veterinary 
+medicine. 
+includes a section of the public concerned with manufacturing, dispensing, 
+selling, or administering, or the issue of a prescription for medicines or a Scheduled 
+substance. 
+responsible pharmacist
+means a responsible pharmacist as defined in the 
+Pharmacy Act, 1974. 
+4.1.3.2 Pharmaceutical Companies 
+The Pharmacy Act sets certain requirements for pharmaceutical companies, the 
+Responsible Pharmacist and pharmacists e.g.: 
+ 
+the company and the Responsible Pharmacist (who must be residing in the 
+Republic) must be registered with the Pharmacy Council   
+ 
+pharmaceutical operations must be conducted under the personal supervision of 
+a responsible pharmacist whose name is displayed over the main entrance   
+ 
+certain duties and responsibilities must be performed by pharmacists e.g. 
+manipulation, preparation or compounding of medicines, manufacturing, and the 
+furnishing of advice with regard to medicines, distribution and the sale of 
+medicines.   
+The Medicines Act further sets requirements for the following activities:   
+ 
+Iabelling of medicines, including package inserts   
+ 
+records and registers for scheduled medicines   
+ 
+sale of medicines only to registered and approved customers   
+ 
+registration of medicines with SAHPRA  
+ 
+adherence to standards   
+ 
+reporting of adverse reactions and technical errors   
+SAHPGL-INSP-02_v10 
+Page 17 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+ 
+advertising of medicines   
+ 
+Narcotic and Psychotropic substances control 
+4.1.3.3 Narcotics or Psychotropics 
+South Africa is a co-signatory to the 1961 Convention on Narcotic Drugs and the 1971 
+Convention on Psychotropic Substances of the International Narcotics Control Board 
+(INCB).  The said Conventions as well as the Medicines and Related Substances Act, 
+1965 (Act 101 of 1965) as amended require that annual returns on all sales of narcotic 
+and psychotropic substances be submitted to the INCB in Vienna, Austria, before 28 
+February each year.  
+Manufacturers and wholesalers must keep registers of quantities of specified Schedule 
+5 and Schedule 6 substances that were:  
+ 
+held in stock on the 01 January and 31  December of each year;  
+ 
+destroyed, lost or stolen;  
+ 
+acquired by importation of the substance as a raw material or as contained in a 
+preparation, local production of the raw material and local purchasing of the raw 
+material;  
+ 
+used in the production of any other specified Schedule 5, Schedule 6, Schedule 7 
+or any other scheduled substances;  
+ 
+used in the manufacture of preparations (medicines) containing such substances; 
+and sold locally or exported.  
+These registers must be balanced on the last day of March, June, September and 
+December of each year.  
+Any person wishing to manufacture specified Schedule 5, Schedule 6, Schedule 7 of 
+Schedule 8 substances and/ or medicines containing such substances, must apply for 
+a manufacturing permit in terms of section 22A(9)(a)(i) of Act 101 of 1965.  
+Manufacturing permits are required for the manufacturing of all Schedule 2 
+preparations containing the Schedule 6 substance Cathine ((+) Norpseudoephedrine).   
+SAHPGL-INSP-02_v10 
+Page 18 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+Importers and exporters of any specified Schedule 5 and Schedule 6 substance and/ or 
+medicines must be licensed in terms of section 22C(1)(b) of Act 101 of 1965.  In 
+addition, permits are required to import or export such substances and/ or medicines. 
+Import or export permits are required for all Schedule 2 preparations containing the 
+Schedule 6 substance Cathine ((+)-Norpseudoephedrine).   
+Any unusual loss or theft of narcotic or psychotropic substances and/ or medicines 
+should immediately be reported to the South African Police Services and to the office 
+of the Registrar of Medicines.   
+The SAHPRA prescribes the destruction of large quantities of Schedule 2 preparations 
+[containing the Schedule 6 substance Cathine ((+)-Norpseudoephedrine)], specified 
+only take place after a written authorization by SAHPRA has been issued, specifying 
+the quantities indicated in the request.  
+4.1.4 
+QUALIFICATIONS 
+Each person engaged in the manufacture, processing, packing or storage of a medicine shall have the 
+education, training and experience or combination thereof, to enable that person to perform the assigned 
+functions.   
+Training shall be in the particular operations that the employee performs and in general and specific GMP 
+and written procedures as they relate to the employee's functions.  Training in GMP shall be conducted 
+by qualified individuals on a continuing basis and with sufficient frequency to ensure that employees 
+remain familiar with GMP requirements applicable to them.   
+Each person responsible for supervising the manufacture, processing, packing or storage of a medicine 
+shall have the education, training and experience or combination thereof, to perform assigned functions 
+in such a manner as to provide assurance that the medicine has the quality, safety, efficacy and 
+bioavailability that it purports or is represented to possess.   
+There should be an adequate number of qualified personnel to perform and supervise the manufacture, 
+processing, packing or storage of each medicine. 
+ 
+SAHPGL-INSP-02_v10 
+Page 19 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+4.1.5 
+TRAINING 
+All Production, Quality Assurance and Stores personnel and all other personnel (e.g. maintenance, service 
+and cleaning staff) whose duties take them into manufacturing areas, or which bear upon manufacturing 
+activities, should be trained in the principles of GMP and in the practice (and the relevant theory) of the 
+tasks assigned to them.   
+Besides the basic training on the theory and practice of GMP, newly recruited personnel should receive 
+training appropriate to the duties assigned to them.  Continuing training should also be given and its 
+practical effectiveness should be periodically assessed.   
+Written training programs should be available, approved by either the head of Production or the head of 
+Quality Control, as appropriate.  Training records should be kept.   
+Personnel working in areas where contamination is a hazard e.g. clean areas or areas where highly active, 
+toxic, infectious or sensitizing materials are handled should be given specific training.   
+To assess the effectiveness of training, checks should be carried out to confirm that designated procedures 
+are being followed by staff at all levels.  
+Visitors or untrained personnel should not be taken into the manufacturing areas.  However, if deemed 
+necessary, they should be given information in advance, particularly about personal hygiene and 
+prescribed protective clothing which may be required.  They should be closely supervised.   
+The concept of Quality Assurance and all the measures capable of improving its understanding and 
+implementation should be fully discussed during the training sessions.   
+4.1.5.1 Pharmacist Intern (Industry) 
+After formal university education, the Pharmacist Intern must undergo a one-year 
+internship in Industry, being trained as prescribed by the Pharmacy Act.   
+4.1.5.2 Pharmacist's Assistant  
+The Pharmacist's Assistant in Industry is required to pass the Pharmacy Council's 
+examination which enables the assistant to perform certain functions of a Pharmacist 
+as defined by the Pharmacy Act. 
+4.1.5.3 Pharmacy Technician - means a natural person registered as such in terms of the Act. 
+SAHPGL-INSP-02_v10 
+Page 20 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+4.1.6 
+EXPERIENCE 
+In the South African context, the full spectrum of experience requirements described in Annex 16 of the 
+PICS Guide to GMP forms part of the legal requirements implemented through this guideline. These 
+include the process of batch certification, reliance on GMP assessments conducted by third parties, the 
+handling of unexpected deviations, and the release of a batch. The individual authorized to certify and 
+release medicinal products, namely the Responsible Pharmacist, is required to meet these experience 
+expectations within the licensing framework established under Section 22C(1)(b) of the Medicines and 
+Related Substances Act and must demonstrate working knowledge of all PIC/S Annexes to GMP Guide 
+relevant to the licence category and authorized activities. In addition, the minimum experience and 
+competency requirements for other key personnel involved in manufacture, testing, packaging or 
+distribution are also defined by licence category to ensure that all personnel supporting the batch release                    
+4.1.6.1 Manufacturing Pharmacy for Sterile Pharmaceuticals (Non-Biologicals) 
+The Responsible Pharmacist of a Manufacturing Pharmacy that is involved in aseptic 
+manufacturing and terminal sterilization of pharmaceutical products must be 
+registered as a practicing pharmacist with the South African Pharmacy Council. Such 
+Pharmacist sh
+community service experience in 
+sterile manufacturing of pharmaceutical products and demonstrate an in-depth 
+working knowledge of Annex 1 of the PIC/S GMP Guide (PE 009-17) including but not 
+limited to a comprehensive knowledge of GMP, pharmaceutical quality systems, 
+aseptic processing, terminal sterilization, cleanroom behaviors, environmental 
+monitoring, media fills, contamination control strategies, batch release systems, 
+manufacturing processes, applicable validation and qualification of pharmaceutical 
+technology relevant to their organization. 
+The Head of Production of the manufacturing pharmacy that manufactures sterile 
+pharmaceutical sterile manufacturing environment. Such an individual must 
+demonstrate knowledge of GMP, and pharmaceutical quality systems. 
+The Head of Quality Control of a manufacturing pharmacy that manufactures sterile 
+pharmaceutical products must have an appropriate qualification in chemistry and/ or 
+microbiology. Such an individual should have three 
+in a senior or 
+supervisory role in a pharmaceutical or other regulated quality control laboratory 
+environment involving sterile products. He/ she must demonstrate a sound knowledge 
+SAHPGL-INSP-02_v10 
+Page 21 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+of GMP, pharmaceutical quality systems, microbiological and analytical quality control, 
+sterility assurance principles, and quality control processes applicable to sterile 
+pharmaceuticals. 
+The Head of Quality Assurance of a manufacturing pharmacy that manufactures sterile 
+pharmaceutical products must have an appropriate qualification in pharmacy or 
+chemistry or microbiology and not less than five years experience in senior quality 
+roles, including oversight of sterile manufacturing operations. The individual must 
+demonstrate comprehensive knowledge of GMP, pharmaceutical quality systems, 
+contamination control strategies, quality risk management, and regulatory 
+expectations applicable to sterile pharmaceutical. 
+4.1.6.2 Manufacturing Pharmacy for Non-Sterile Pharmaceuticals 
+The Responsible Pharmacist of a Manufacturing Pharmacy that manufactures non-
+sterile products including oral solid dosage (OSD), liquids, creams and ointments (LCO) 
+must be registered as a practicing pharmacist with the South African Pharmacy 
+Council. Such 
+community service 
+experience in manufacturing pharmacy and demonstrate an in-depth working 
+knowledge of Annex 9 of the PICS GMP Guide (PE 009-17) as well as demonstrate a 
+comprehensive knowledge of GMP, pharmaceutical quality systems, manufacturing 
+processes, environmental monitoring, batch release systems, contamination control 
+strategies, manufacturing processes, applicable validation and qualification of 
+pharmaceutical technology relevant to their organization. 
+The Head of Production of the manufacturing pharmacy that manufactures non-sterile 
+products including oral solid dosage (OSD), liquids, creams and ointments (LCO) must 
+manufacturing environment. Such an individual must demonstrate knowledge of GMP, 
+pharmaceutical quality systems. 
+The Head of Quality Control of a manufacturing pharmacy that manufactures non-
+sterile pharmaceutical products must have an appropriate qualification in chemistry 
+and/or microbiology
+or supervisory role in a pharmaceutical or other regulated quality control laboratory 
+environment involving non-sterile products. They must demonstrate a sound 
+SAHPGL-INSP-02_v10 
+Page 22 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+knowledge of GMP, pharmaceutical quality systems, microbiological and analytical 
+quality control, and quality control processes applicable to 
+non-sterile 
+pharmaceuticals. 
+The Head of Quality Assurance of a manufacturing pharmacy that manufactures non-
+sterile pharmaceutical products must have an appropriate qualification in pharmacy 
+or chemistry or microbiology and not less than three 
+experience in senior quality 
+roles, including oversight of non-sterile manufacturing operations or comparable 
+regulated industries. The individual must demonstrate comprehensive knowledge of 
+GMP, pharmaceutical quality systems, contamination control strategies, quality risk 
+management, and regulatory expectations applicable to non-sterile pharmaceutical. 
+4.1.6.3 Manufacturing Pharmacy for Biologicals and Vaccines 
+The Responsible Pharmacist of a Manufacturing Pharmacy that is involved in the 
+manufacture of biologicals and/ or vaccines must be registered as a practicing 
+pharmacist with the South African Pharmacy Council. Such Pharmacist shall have no 
+ in the manufacture of 
+biologicals and/ or vaccines including aseptic processing, handling of biological 
+systems, and terminal sterilization where applicable. They  must demonstrate an in-
+depth working knowledge of Annex 1 and Annex 2B of the PICS GMP Guide (PE 009-
+17), a comprehensive knowledge of GMP, pharmaceutical quality systems, aseptic 
+processing, biological manufacturing principles including upstream and downstream 
+processes, 
+terminal 
+sterilization 
+where 
+relevant, 
+cleanroom 
+behaviours, 
+environmental monitoring appropriate to biological manufacturing, media fills 
+applicable to aseptic biological operations, contamination control strategies including 
+biosafety and bioburden control, manufacturing processes involving biological 
+materials, and applicable validation and qualification of biological manufacturing 
+technologies relevant to their organization. 
+The Head of Production of the manufacturing pharmacy that manufactures biologicals 
+and/ or vaccines 
+pharmaceutical or biological manufacturing environment, such an individual must 
+demonstrate knowledge of GMP, pharmaceutical quality systems, aseptic and 
+biological manufacturing processes including cell culture, fermentation, purification or 
+similar biological production methods, and operational control of cleanroom and 
+SAHPGL-INSP-02_v10 
+Page 23 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+biosafety-related production activities. 
+The Head of Quality Control of a manufacturing pharmacy that manufactures 
+biologicals and/ or vaccines must have an appropriate science-based qualification (e.g., 
+chemistry and/ or microbiology) and 
+experience in a 
+pharmaceutical or other regulated quality control laboratory environment involving 
+vaccines or biological products, such an individual should have not less three years in 
+a senior or supervisory role related to vaccines or biologicals. 
+The Head of Quality Assurance of a manufacturing pharmacy that manufactures 
+biologicals or vaccines must have an appropriate qualification, e.g., pharmacy/ 
+chemistry/ microbiology/ serology/ molecular biology/ haematology. They must have 
+quality oversight 
+in the manufacture of vaccines or biologicals. The individual must demonstrate 
+comprehensive knowledge of GMP, pharmaceutical quality systems, contamination 
+control strategies including biosafety and viral safety considerations, quality risk 
+management principles appropriate for biological products, batch release systems for 
+biologicals, and regulatory expectations related to the manufacture of sterile and 
+biological pharmaceutical products. 
+4.1.6.4 Manufacturing Pharmacy for Medical Gases  
+The Responsible Pharmacist of a Manufacturing Pharmacy that is involved in the filling, 
+processing of medical gases must be registered as a practicing pharmacist with the 
+post community service experience in the manufacture of pharmaceutical products 
+and shall demonstrate an in-depth working knowledge of Annex 6 of the PICS GMP 
+Guide (PE-009-17), a comprehensive knowledge of GMP, pharmaceutical quality 
+systems, medical gas production and distribution systems, applicable quality controls, 
+contamination and cross-contamination prevention, validation and qualification of gas 
+supply systems. They must also demonstrate knowledge of the appropriate handling 
+and storage of compressed and cryogenic gases. They must have an understanding of 
+relevant pharmacopeial requirements, and pharmaceutical technology applicable to 
+medical gases and batch release processes applicable to medical gases. 
+The Head of Production of a manufacturing pharmacy involved in the manufacture, 
+SAHPGL-INSP-02_v10 
+Page 24 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+filling and processing of medical gases must have an appropriate qualification and/ or 
+experience in a pharmaceutical or regulated manufacturing environment. Such an 
+supervisory role related to medical gases or comparable regulated manufacturing 
+operations. The individual must demonstrate adequate knowledge of GMP, applicable 
+pharmaceutical quality systems, and the production processes relevant to medical 
+gases. 
+The Head of Quality Assurance of a manufacturing pharmacy involved in the processing 
+and filling of medical gases must have an appropriate qualification in pharmacy, 
+chemistry or microbiology and/or 
+quality management roles related to medical gases or comparable regulated 
+manufacturing operations. Such an individual must demonstrate adequate knowledge 
+of GMP, pharmaceutical quality systems, quality risk management, documentation 
+control, deviation and change management, and the scope of operations of the 
+organization. 
+4.1.6.5 Manufacturing Pharmacy for Radiopharmaceuticals   
+The Responsible Pharmacist of a Manufacturing Pharmacy that is involved in the 
+manufacture of radiopharmaceuticals must be registered as a practicing pharmacist 
+with the South African Pharmacy Council.  Such Pharmacist shall have not less than five 
+community service experience in the manufacture of radiopharmaceuticals 
+or pharmaceutical products and/ or shall demonstrate an in-depth working knowledge 
+of Annex 3 of the PICS GMP Guide (PE-009-17), a comprehensive knowledge of GMP, 
+pharmaceutical quality systems, the handling of radionuclides, applicable quality 
+controls, contamination control strategies, manufacturing processes and applicable 
+validation and qualification of pharmaceutical technology relevant to their 
+organization. 
+The Head of Production must have not less 
+in the pharmaceutical manufacturing environment or a comparable regulated 
+manufacturing environment. Such an individual must demonstrate knowledge of GMP 
+and pharmaceutical quality systems. 
+The Head of Quality Control of a Manufacturing Pharmacy that is involved in the 
+SAHPGL-INSP-02_v10 
+Page 25 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+manufacture of radiopharmaceuticals must have an appropriate qualification in 
+chemistry or physics and/ or experience in a pharmaceutical, radiopharmaceutical, or 
+other regulated quality control environment. Such an individual shall have not less 
+radiopharmaceuticals, sterile pharmaceuticals, or comparable regulated products. The 
+individual must demonstrate adequate knowledge of GMP, pharmaceutical quality 
+systems, applicable quality control testing for radiopharmaceuticals, the handling of 
+radionuclides for quality control purposes, and release related controls relevant to the 
+scope of operations of the organization. 
+The Head of Quality Assurance of a Manufacturing Pharmacy that is involved in the 
+manufacture of radiopharmaceuticals must have a science-based qualification in 
+pharmacy/ chemistry/ microbiology/ physics and/ or 
+experience in quality assurance or quality management roles within pharmaceutical 
+manufacturing or comparable regulated operations. He/ she must have had an 
+exposure to radiopharmaceutical or sterile product manufacturing where applicable. 
+The individual must demonstrate adequate knowledge of GMP, pharmaceutical quality 
+systems, quality risk management, contamination control principles, deviation and 
+change management, and batch release oversight applicable to radiopharmaceuticals 
+and the scope of operations of the organization. 
+4.1.6.6 Manufacturing Pharmacy for Complementary Medicines 
+The Responsible Pharmacist of a Manufacturing Pharmacy that manufactures 
+complementary medicines must be registered as a practicing pharmacist with the 
+post community service experience in manufacturing pharmacy and demonstrate a 
+comprehensive knowledge of GMP, pharmaceutical quality systems, manufacturing 
+processes, environmental monitoring, batch release systems, contamination control 
+strategies, manufacturing processes, applicable validation and qualification of 
+pharmaceutical technology relevant to their organization. 
+The Head of Production of the manufacturing pharmacy that manufactures 
+complementary medicines 
+in the pharmaceutical manufacturing environment. Such an individual must 
+demonstrate knowledge of GMP, pharmaceutical quality systems. 
+SAHPGL-INSP-02_v10 
+Page 26 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+The Head of Quality Control of a manufacturing pharmacy that manufactures 
+complementary medicines must have an appropriate qualification in chemistry and/ 
+or microbiology
+supervisory role in a pharmaceutical or other regulated quality control laboratory 
+environment involving non-sterile and/or complementary products. He/ she must 
+demonstrate a sound knowledge of GMP, pharmaceutical quality systems, 
+microbiological and analytical quality control, and quality control processes applicable 
+to non-sterile pharmaceuticals. 
+The Head of Quality Assurance of a manufacturing pharmacy that manufactures 
+complementary medicines must have an appropriate qualification in pharmacy or 
+chemistry or microbiology 
+experience in senior quality 
+roles. The individual must demonstrate comprehensive knowledge of GMP, 
+pharmaceutical quality systems, contamination control strategies, quality risk 
+management, and regulatory expectations applicable to complementary medicines. 
+4.1.6.7 Manufacturing Pharmacy for Packaging Activities 
+The Responsible Pharmacist of a Manufacturing Pharmacy that is involved in primary 
+and/ or secondary packaging of pharmaceutical products must be registered as a 
+practicing pharmacist with the South African Pharmacy Council. Such Pharmacist shall 
+pharmacy and demonstrate a comprehensive knowledge of GMP, pharmaceutical 
+quality systems, manufacturing processes, environmental monitoring, batch release 
+systems, contamination control strategies, manufacturing processes, applicable 
+validation and qualification of pharmaceutical technology relevant to their 
+organization. 
+The Head of Production of the manufacturing pharmacy that is involved in primary 
+and/ or secondary packaging of pharmaceutical products must have more than three 
+an individual must demonstrate knowledge of GMP, pharmaceutical quality systems. 
+The Head of Quality Control of a manufacturing pharmacy that is involved in primary 
+and/ or secondary packaging of pharmaceutical products must have an appropriate 
+qualification in chemistry and/ or microbiology. Such an individual should have three 
+SAHPGL-INSP-02_v10 
+Page 27 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+ in a pharmaceutical or other regulated 
+quality control laboratory environment involving pharmaceutical products. They must 
+demonstrate a sound knowledge of GMP, pharmaceutical quality systems, 
+microbiological and analytical quality control, and quality control processes applicable 
+to pharmaceuticals. 
+The Head of Quality Assurance of a manufacturing pharmacy that is involved in primary 
+and/ or secondary packaging of pharmaceutical products must have an appropriate 
+qualification in pharmacy or chemistry or microbiology 
+experience in senior quality roles. The individual must demonstrate comprehensive 
+knowledge of GMP, pharmaceutical quality systems, contamination control strategies, 
+quality risk management, and regulatory expectations applicable to pharmaceuticals. 
+4.1.6.8 Testing Activities 
+The Responsible Person of a Pharmaceutical Testing Laboratory shall have no less than 
+in a senior or supervisory role in a pharmaceutical or other 
+regulated quality control laboratory environment involving pharmaceutical products. 
+They must demonstrate a sound knowledge of GMP, pharmaceutical quality systems, 
+microbiological and analytical quality control, and quality control processes applicable 
+to pharmaceuticals. 
+The Head of Quality Assurance of a Pharmaceutical Testing Laboratory must have an 
+appropriate qualification in chemistry or microbiology and not less than five 
+experience in senior quality roles. The individual must demonstrate comprehensive 
+knowledge of GMP, pharmaceutical quality systems, contamination control strategies, 
+quality risk management, and regulatory expectations applicable to pharmaceuticals. 
+ 
+4.1.6.9 Manufacturing Pharmacy for Cannabis 
+The Responsible Pharmacist of a Manufacturing Pharmacy that is involved in the 
+manufacture of the cannabis pharmaceutical products must be registered as a 
+practicing pharmacist with the South African Pharmacy Council. Such Pharmacist shall 
+pharmacy and demonstrate a comprehensive knowledge of GMP, pharmaceutical 
+SAHPGL-INSP-02_v10 
+Page 28 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+quality systems, manufacturing processes, environmental monitoring, batch release 
+systems, contamination control strategies, manufacturing processes, applicable 
+validation and qualification of pharmaceutical technology relevant to their 
+organization. 
+The Head of Production of the manufacturing pharmacy that is involved in the 
+manufacture of the cannabis pharmaceutical products must have more than three 
+an individual must demonstrate knowledge of GMP, pharmaceutical quality systems. 
+The Head of Quality Control of a manufacturing pharmacy that is involved in the 
+manufacture of the cannabis pharmaceutical products must have an appropriate 
+qualification in chemistry and/ or microbiology. Such an individual should have three 
+ in a pharmaceutical or other regulated 
+quality control laboratory environment involving pharmaceutical products. He/ she 
+must demonstrate a sound knowledge of GMP, pharmaceutical quality systems, 
+microbiological and analytical quality control, and quality control processes applicable 
+to pharmaceuticals. 
+The Head of Quality Assurance of a manufacturing pharmacy that is involved in the 
+manufacture of the cannabis pharmaceutical products must have an appropriate 
+qualification in pharmacy or chemistry or microbiology 
+experience in senior quality roles. The individual must demonstrate comprehensive 
+knowledge of GMP, pharmaceutical quality systems, contamination control strategies, 
+quality risk management, and regulatory expectations applicable to pharmaceuticals. 
+4.1.6.10 Holder of Certificate of Registration (Importer or Exporter) 
+The Responsible Pharmacist for the organization that acts as a Holder of Certificate of 
+Registration must be registered as a practicing pharmacist with the South African 
+service experience in the regulatory environment which can include relevant 
+cumulative experience in pharmaceutical regulatory affairs, quality assurance, GMP 
+compliance, batch release oversight, or manufacturing quality systems, where such 
+experience is directly relevant to the importer/ exporter role and demonstrate 
+comprehensive knowledge of GMP, and pharmaceutical quality systems. 
+SAHPGL-INSP-02_v10 
+Page 29 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+4.1.7 
+HYGIENE 
+4.1.7.1 Personal Hygiene 
+High standards of personal cleanliness should be observed by all those concerned with 
+production processes. The special requirements for Sterile Products are covered in 
+Annex 1.   
+Personnel should be instructed to use the hand-washing facilities.   
+Detailed hygiene programmes should be established and adapted to the different 
+needs within the factory.  These should include instructions relating to the health, 
+hygiene practices and clothing of personnel.  These instructions should be understood 
+and followed in a very strict way by every person whose duties take him into the 
+manufacturing and control areas.  They should be promoted by management and 
+widely discussed during training sessions.   
+Eating, drinking, chewing and smoking, or the storage of food, drink, smoking materials 
+and personal medication should not be permitted within manufacturing areas or in any 
+other area where they might adversely influence product quality.  No make-up or false 
+lashes are permitted in primary areas due to increased risk to product contamination. 
+Direct contact should be avoided between the operators' hands and starting materials, 
+intermediates and products (other than when they are in closed containers), as well as 
+with any part of the equipment that comes into contact with the products.  
+4.1.7.2 Area Control 
+Requirements regarding personal hygiene and protective clothing apply to all people 
+(including visitors, maintenance personnel, senior management and inspectors) 
+entering production areas.   
+All people entering production areas should wear protective garments appropriate to 
+the processes being carried out. The garments should be regularly and frequently 
+cleaned and not worn outside the factory premises. Changing Rooms should be 
+provided.   
+Only personnel authorized by supervisory personnel shall enter those areas of the 
+buildings and facilities designated as limited-access areas. 
+SAHPGL-INSP-02_v10 
+Page 30 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+4.1.7.3 Medical Checks 
+Medical checks should be performed at pre-employment and at regular intervals 
+thereafter.  Steps should be taken to ensure that no person with a disease in a 
+communicable form, or with open lesions on the exposed surface of the body, is 
+engaged in the manufacture of medicinal products.   
+Visual inspection staff should pass an annual eye examination.   
+Staff should be required to report infections and skin lesions, and a defined procedure 
+should be followed when they are reported.  Supervisory staff should look for the signs 
+and symptoms of these conditions.  
+5. 
+REFERENCES 
+The following related documents are referenced: 
+5.1 
+PICS GMP Guideline  
+6. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces previous revision 
+(v9). It will be reviewed on this timeframe or as and when the need arises. 
+ 
+ 
+SAHPGL-INSP-02_v10 
+Page 31 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+7. 
+APPENDICES 
+7.1 
+Appendix 1: Recognized Regulators 
+ 
+PICS Members 
+ 
+WHO 
+ 
+ZAZIBONA 
+ 
+7.2 
+Appendix 2: Dosage group, product type and activity groupings 
+GMP certificates submitted for reliance must be approved by a recognized regulator for the same dosage 
+group that they are applying for. Dosage groupings are:  
+ 
+Oral soluble dosages 
+o Tablets  
+o Capsules  
+o Powders  
+ 
+Liquids, creams and ointments  
+o Liquids  
+o Creams  
+o Ointments 
+o Suppositories  
+ 
+Medical gasses 
+ 
+Small volume parenteral 
+ 
+Large volume parenteral 
+ 
+Aerosols  
+Applicants must ensure GMP certificates submitted for reliance must be approved by a recognized 
+regulator for the same product type that they are applying for. Product types are:  
+ 
+Cytotoxics  
+ 
+Hormones  
+ 
+Penicillin  
+SAHPGL-INSP-02_v10 
+Page 32 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+ 
+Biological or Vaccines 
+ 
+Cephalosporins  
+ 
+Gasses  
+ 
+Veterinary  
+ 
+Complementary medicines  
+Applicants must ensure GMP certificates submitted for reliance must be approved by a recognized 
+regulator for the same activities that they are applying for. Applicants must only select activities that are 
+relevant to them, the list of applicable activities are:  
+Holder of registration certificate 
+ 
+Export   
+ 
+Import  
+ 
+ Manufacturing  
+ 
+Manufacture of Active pharmaceutical ingredient (API)  
+ 
+Manufacture of Excipients  
+ 
+Manufacture of Finished manufacturing product (FMP)  
+ 
+Packer  
+ 
+Distributor  
+ 
+Laboratory 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-INSP-02_v10 
+Page 33 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+7.3 
+Appendix 3: Experience Requirements in terms of Annexure 1 to the License, S22C(1)(b) 
+of the Medicines and Related Substances Act 
+AUTHORISED MANUFACTURING AND MATERIAL HANDLING ACTIVITIES 
+1.  MANUFACTURING ACTIVITIES 
+RP 
+HOP 
+HQA 
+HQC 
+Sterile, Non-biological Manufacture (includes filling, but not cartoning or labelling)
+5 
+3 
+5 
+3 
+Large volume parenteral products 
+Small volume parenteral products 
+Other sterile dosage forms: Peritoneal Dialysis solutions, Irrigation Solutions, 
+Blood collection and storage solutions 
+Non-sterile Manufacture
+5 
+3 
+3 
+3 
+Tablets 
+Capsules 
+Liquids 
+Semi-solids (Creams & Ointments) 
+Suppositories 
+Other non-sterile dosage forms: Aerosol and Lozenges 
+Biological Manufacture 
+5 
+3 
+3 
+3 
+Vaccines 
+Sera and other immunologicals 
+Blood and other blood products 
+Other biological products: 
+Medical Gas Manufacture 
+3 
+3 
+3 
+3 
+Radioactive Medicines Manufacture 
+5 
+3 
+3 
+3 
+Complementary Medicines Manufacture 
+5 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+2.  PACKAGING ACTIVITIES 
+5 
+3 
+3 
+3 
+Packaging of bulk products and labelling 
+Re-labelling or redressing 
+Cartoning or secondary packaging 
+ 
+RPn/QC
+- 
+QA 
+- 
+SAHPGL-INSP-02_v10 
+Page 34 of 34
+Guidelines for  Good Manufacturing Practice of  Medicines 
+13 April 2026
+ 
+ 
+3.  TESTING ACTIVITIES 
+5 
+- 
+5 
+- 
+Analytical 
+Microbiological 
+Sterility  
+Stability 
+Animal 
+Other Testing Activities: Chemical 
+ 
+ 
+ 
+ 
+ 
+4.  DISTRIBUTION ACTIVITIES 
+RP 
+ 
+ 
+ 
+Bulk distribution to wholesale pharmacies (Distribution of own products only) 
+3 
+ 
+ 
+ 
+Fine distribution to retail pharmacies and others (Distribution of own products only)
+ 
+

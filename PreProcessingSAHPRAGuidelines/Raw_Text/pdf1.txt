@@ -1,0 +1,446 @@
+SAHPGL-CEM-06_v1 
+Page 1 of 12
+ 
+ 
+ 
+15 September 2026 
+GUIDELINE FOR SELECTION OF REFERENCE PRODUCTS FOR 
+APPLICATIONS OF GENERIC MEDICINES 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue: Published for implementation 
+ September 2026 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+SUMMARY 
+ 
+This document provides guidance to applicants who seek to apply for new registration of generics supported 
+by Bioequivalence studies. The South African Health Products Regulatory Authority (SAHPRA) can request 
+additional information to establish if the health products meet the safety, quality and performance standards. 
+While other approaches can be used, the processes should be proven scientifically and technically. SAHPRA is 
+committed to ensuring that all registered health products meet the safety, quality and performance 
+standards. Applicants must adhere to the administrative requirements to avoid delays in the processing and 
+evaluation of applications.  
+ 
+   
+SAHPGL-CEM-06_v1 
+Page 2 of 12
+Guideline for Selection of a Reference Product for Generic Medicine Applications 
+15 September 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 5 
+3. 
+SELECTION OF A REFERENCE PRODUCT FOR BE STUDIES AND BIOWAIVERS ............................................ 5 
+3.1 
+Bioequivalence studies ............................................................................................................................... 5 
+3.2 
+Biowaivers .................................................................................................................................................. 7 
+4. 
+SELECTION OF A REFERENCE PRODUCT FOR COMPARATIVE DISSOLUTION ............................................. 8 
+4.1 
+Special cases for dissolution requirements ................................................................................................ 8 
+5. 
+REQUIREMENTS FOR DEMONSTRATING SIMILARITY ................................................................................. 9 
+6. 
+REGIONAL REQUIREMENTS ........................................................................................................................ 9 
+7. 
+REFERENCES ............................................................................................................................................. 10 
+8. 
+VALIDITY ................................................................................................................................................... 10 
+9. 
+APPENDICES ............................................................................................................................................. 11 
+9.1 
+Appendix I: List of RRAs ............................................................................................................................ 11 
+9.2 
+Appendix II: Decision tree for selection of reference product ................................................................. 12 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-06_v1 
+Page 3 of 12
+Guideline for Selection of a Reference Product for Generic Medicine Applications 
+15 September 2026 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Comparator product 
+The comparator product, also referred to as the reference product, is a 
+pharmaceutical product with which the multi-source product is intended to be 
+interchangeable in clinical practice. Comparator products will normally be the 
+innovator products for which efficacy, safety, and quality have been 
+established.  
+Biobatch  
+The batch used to establish bioequivalence or similarity to the comparator 
+product as determined in bioequivalence or biowaiver studies, respectively. 
+Extension 
+Additional products added to the product range are sometimes referred to as 
+‘Line Extensions’. This may include addition of an additional Strengths, Dosage 
+Forms or New Routes of Administration. 
+BMR 
+Batch Manufacturing Record 
+Innovator product 
+The first registered formulation of a new product, generally a patented 
+medicine based on original scientific documentation of safety, efficacy, and 
+pharmaceutical quality. 
+New chemical entity 
+An active pharmaceutical ingredient that has never been used in a marketed 
+finished dosage form in South Africa.  
+Generic medicine/ 
+Multisource product 
+Pharmaceutically equivalent or pharmaceutically alternative products that may 
+or may not be therapeutically equivalent. Multisource pharmaceutical products 
+that are therapeutically equivalent are interchangeable. 
+Market leader  
+In the absence of an RSA innovator, a market leader is described as the 
+company selling the largest quantity of a particular product. 
+Old medicine  
+Unregistered medicines that are on the South African market before 
+registration became mandatory with the promulgation of The Medicines and 
+Related Substances Control Act, 1965 (Act 101 of 1965). These medicines were 
+never formally evaluated by SAHPRA or the former MCC for safety, efficacy, and 
+quality.  
+PSD 
+Particle size distribution.  
+Quality control media 
+In dissolution studies, QC (quality control) media refers to the specific 
+formulation of the dissolution medium used to assess the release of a drug 
+substance from a dosage form. 
+Q1/Q2 
+Generic drugs with certain routes of administration are generally required to 
+contain “the same inactive ingredients in the same concentration as the 
+reference listed drug (RLD),” this is referred to as Q1/Q2 (Qualitative (Q1) and 
+quantitative (Q2)) sameness. 
+ 
+ 
+ 
+SAHPGL-CEM-06_v1 
+Page 4 of 12
+Guideline for Selection of a Reference Product for Generic Medicine Applications 
+15 September 2026 
+ 
+ 
+1. INTRODUCTION 
+This guideline provides appropriate in vivo and in vitro requirements to assure interchangeability of the multi-
+source product. Multisource pharmaceutical products are required to meet safety, quality, and performance 
+standards as those applicable to the innovator’s product. In addition, reasonable assurance should be provided 
+to ensure that the multisource product is therapeutically equivalent and interchangeable with the product 
+they are compared with. 
+This guideline should be read in conjunction with the ICH M9, M13, and the Quality and Bioequivalence 
+guidelines, and other applicable guidance.   
+1.1 Purpose 
+To register a new generic medicine in South Africa, the applicant must demonstrate bioequivalence against 
+the South African reference product by providing the appropriate in vivo and in vitro studies as detailed in 
+the quality and bioequivalence guideline. This guideline provides clarity on the selection of a reference 
+product.  
+A bioequivalence study using an overseas reference product may be acceptable, provided the applicant can 
+demonstrate similarity between the South African and overseas reference products through comparative 
+dissolution. 
+In line with the adoption of the ICH M13 Guideline, this guideline guides the selection of the reference 
+product for conducting bioequivalence studies.  
+1.2 Scope 
+• 
+The choice of comparator product(s) to be used in bioequivalence/ biowaiver applications for 
+generic products for registration. 
+• 
+The choice of a comparator product for comparative dissolution studies. This also includes the 
+reference products used in comparative dissolution, where the requirements for comparing the 
+foreign reference product with the South African innovator must be met. 
+• 
+The choice of comparator products for non-solids and semi-solids. 
+This guideline does not cover the use of products containing chemical entities or active moieties that are 
+not registered in South Africa as reference products to support the safety and efficacy of generic 
+applications, for further information on these products, refer to the Clinical Guideline (SAHPGL-CEM-01). 
+SAHPGL-CEM-06_v1 
+Page 5 of 12
+Guideline for Selection of a Reference Product for Generic Medicine Applications 
+15 September 2026 
+ 
+ 
+2. LEGAL PROVISION 
+Section 15(1)-(3) of the Act states: (1) Every application for the registration of a medicine, medical device or 
+IVD shall be submitted to the Chief Executive Officer in the prescribed form and shall be accompanied by-  
+(a) the prescribed particulars;  
+(b) samples of the relevant medicines;  
+(c) where practicable, samples of medical devices or IVDs; and  
+(d) the prescribed registration fees.  
+(2) As soon as possible after receipt by the Chief Executive Officer of an application contemplated in subsection 
+(1), he or she shall inform the applicant in writing that the application is being considered.  
+(3) (a) If after consideration of any such application and after any investigation or enquiry which it may consider 
+necessary the Authority is satisfied that the medicine, medical device or IVD in question-  
+(i) is suitable for the purpose for which it is intended;  
+(ii) complies with the prescribed requirements; and  
+(iii) is safe, efficacious and of good quality and, in the case of a medical device and IVD, performs as intended, 
+the Authority shall issue the applicant with a certificate of registration to that effect. 
+3. SELECTION OF A REFERENCE PRODUCT FOR BE STUDIES AND BIOWAIVERS  
+3.1 Bioequivalence studies 
+• 
+The choice of the reference product identified by the applicant for which bioequivalence has 
+been demonstrated by appropriate bioavailability studies should be justified in Module 
+3.2.R.1.1.10.  
+• 
+Test product in an application for a generic product are normally compared with the 
+corresponding dosage form of a reference product, if available on the market.  
+• 
+In an application for extension of a medicinal product which has been initially registered with  
+MCC before its changed its name to SAHPRA  and when there are several dosage forms of this 
+medicinal product on the market, it is recommended that the dosage form used for the initial 
+SAHPGL-CEM-06_v1 
+Page 6 of 12
+Guideline for Selection of a Reference Product for Generic Medicine Applications 
+15 September 2026 
+ 
+ 
+approval of the concerned medicinal product (and which was used in clinical efficacy and safety 
+studies) is used as the reference product, if available on the market. Extensions are handled as 
+new applications refer to guidelines for submission of extension applications (SAHPGL-CEM-
+PRE-03) 
+• 
+If a different chemical form is used, it must be confirmed that the safety/efficacy profile is not 
+altered (3.2.R.1.1.11). The confirmation may be documented with bibliographical evidence. If 
+well known (e.g. hydrochloride, maleate, nitrate, stearate), reference to a pharmacopoeia 
+accepted by SAHPRA may be acceptable. Applications with different chemical forms refer to 
+guideline for submission of extension applications (SAHPGL-CEM-PRE-03) 
+• 
+Product strengths not available in South Africa may be applied for and/ or used in biostudies, 
+provided that the dose range is approved/ registered in South Africa. 
+3.1.1 
+Reference Products (comparators)  
+The reference product should be an innovator product registered by SAHPRA and should preferably be 
+procured in South Africa. If more than one such product is available, the market leader should be used as a 
+reference and consult SAHPRA for guidance. The applicant should submit evidence to substantiate the 
+market leadership claim. 
+The following options for selection of the reference product are listed in order of preference: 
+i) 
+the innovator product registered and procured in South Africa; or 
+ii) the innovator product, registered in South Africa, for which a marketing authorisation has been 
+granted by one of the health authorities specified in Appendix I. The reference product should be 
+purchased from that market; or  
+iii) a product from the latest edition of the WHO List of international comparator products, provided 
+the product is sourced from the market with which SAHPRA aligns itself.  
+in the case that no innovator product can be obtained/ sourced – within the context of (i)–(iii) above, the 
+choice of the reference product must be made carefully and must be comprehensively justified by the applicant 
+in consultation with SAHPRA (Pre-submission meeting). If the applicant is not able to apply any of the principles 
+outlined in this guideline, including the scenarios/ decision tree, the authority should be consulted before 
+submission of an application. Consultation before purchase of the comparator product is strongly 
+SAHPGL-CEM-06_v1 
+Page 7 of 12
+Guideline for Selection of a Reference Product for Generic Medicine Applications 
+15 September 2026 
+ 
+ 
+recommended. Refer to general information guideline (SAHPGL-HPA-07) 
+NOTE: Comparative dissolution between the foreign reference and the RSA innovator is 
+required for options 3.1.1 ii; iii; above. 
+Purchase, shipment and storage evidence of comparator products such as invoice, 
+batch number, expiry date, packaging images, country of purchase, temperature data 
+log, and waybill. 
+ 
+3.1.2 
+Selection of Reference Products for Combination Products: 
+Combination products should, in general, be assessed with respect to bioavailability and bioequivalence of 
+individual active substances: 
+• 
+Either single entity products administered concurrently (in the case of clinically justifiable 
+combinations), or 
+• 
+Using an existing combination as the reference, which should be an innovator product registered 
+by SAHPRA on safety and efficacy data. 
+In the former instance, immediate-release oral dosage forms containing a single API may be used as a 
+reference. 
+NOTE: The use of unregistered old medicines as reference products is not acceptable. 
+3.2 Biowaivers 
+In certain instances, the need for a bioequivalence study is waived based on fulfilling the criteria of the so-
+called BCS-based biowaiver. In such instances, there is no batch used in bioavailability/ bioequivalence 
+study or in clinical testing (biobatch) and by analogy, the batch that is equivalent to a reference product 
+based on satisfactory in vitro dissolution data in at least three different pH media is considered to be the 
+test batch. 
+The reference product used in the biowaiver in vitro studies should be sourced from the South African 
+market, in case where the reference product is not available in SA refer to section 4.1 For more information, 
+refer to ICH M9. 
+SAHPGL-CEM-06_v1 
+Page 8 of 12
+Guideline for Selection of a Reference Product for Generic Medicine Applications 
+15 September 2026 
+ 
+ 
+4. SELECTION OF A REFERENCE PRODUCT FOR COMPARATIVE DISSOLUTION 
+In vitro dissolution between the biobatch and the reference product used in the bioequivalence study (BE) 
+should be provided in three media (pH 1.2, 4.5 and 6.8) and the quality control (QC) media based on the 
+development of that dissolution method. In addition to this, to ensure interchangeability and substitutability, 
+if a foreign reference product was used in the BE study, comparative in vitro dissolution should be performed 
+between the RSA innovator and the foreign reference product used in the BE study in at least the three media 
+(pH 1.2, 4.5 and 6.8) and the quality control (QC) media if applicable. 
+4.1 Special cases for dissolution requirements 
+In cases where a BE study is conducted with a foreign reference product and the requirement for 
+comparability with the RSA innovator cannot be met due to the inaccessibility of the RSA innovator, the 
+following mutually exclusive scenarios may apply:  
+• 
+Scenario 1: The RSA innovator is not available on the market, and the reference product used in 
+the BE study and the RSA innovator are from the same marketing authorization holder (MAH). 
+Where the BE reference product and the RSA innovator product are from the same MAH, a 
+declaration from the Holder of the certificate of registration (HCR) of the RSA innovator product 
+should be provided. The declaration should state that the foreign reference product and RSA 
+reference product are identical in all respects, including formulation, method of manufacture, and 
+manufacturing site.  
+• 
+Scenario 2: The RSA innovator product is not available on the market, and the leading generic 
+product is available on the market. 
+In a case where the BE study has been conducted with a foreign reference product, and the RSA 
+innovator product is not available for comparative dissolution, the market leader can be used as 
+the reference product, and market leadership should be demonstrated by the applicant consult 
+SAHPRA for guidance. 
+NOTE: For applications where, comparative dissolution is conducted with market leader rather than 
+the RSA innovator, it is expected that comparative dissolution will not need to be repeated once 
+the SA innovator becomes available on the market. 
+Scenario 3: The RSA innovator product and the leading generic are not available on the market. 
+In cases where the RSA innovator product and/ or the leading generic product are not accessible, the authority 
+SAHPGL-CEM-06_v1 
+Page 9 of 12
+Guideline for Selection of a Reference Product for Generic Medicine Applications 
+15 September 2026 
+ 
+ 
+should be consulted before submission of an application. Consultation before purchase of the comparator 
+product is strongly recommended. Refer to general information guideline (SAHPGL-HPA-07). Waivers could be 
+accepted on a case-by-case basis. e.g when there is extensive documented use in clinical trials reported in 
+peer-reviewed (accredited) scientific journals, provided that the literature relates to the same formulation, 
+therapeutic indications, and dosages as those proposed for registration. This includes but is not limited to 
+clinical pharmacokinetic (PK) and/ or bioequivalence (BE) data demonstrating therapeutic equivalence to the 
+innovator product and/ the product prequalified by WHO. 
+5. REQUIREMENTS FOR DEMONSTRATING SIMILARITY 
+For all applications for generic products, physico-chemical and biopharmaceutics comparison between the 
+reference product and the test product should be performed. Where the reference product is not the RSA 
+innovator, a comparison of the foreign reference product with the RSA innovator is required. In the case of 
+dosage forms not supported by a BE study, at least a comparison of formulation, physico-chemical properties, 
+and impurity profiles depending on the formulation should be demonstrated between test product, RSA 
+innovator and foreign reference. For requirements for bioavailability for alternative dosage forms, refer to the 
+Quality and Bioequivalence guideline (SAHPGL-PEM-02).  
+6. REGIONAL REQUIREMENTS 
+Refer to the Quality and Bioequivalence Guideline for the requirements for Module 3.2.R.1, 3.2.R.1.2, 3.2.R.1.3, 
+and 3.2.R.1.4. Please note the following: 
+• 
+If the biostudy reference product is expired and cannot be used for comparative in vitro dissolution 
+studies, a batch of the reference product procured from the same country and manufacturer as the 
+biostudy reference product should be used for dissolution testing. A new biostudy is not required. 
+• 
+If the biostudy test product (bio-batch) has expired, a representative batch should be selected. The 
+selected representative batch should be the same as the bio-batch, i.e., formulation, specification 
+for the API, the excipients and the FPP manufacturing site, manufacturing process and controls, 
+equipment, and in-vitro performance. Any differences between the bio-batch and the 
+representative batch should be clearly stated and justified. A comparative analysis between the 
+representative batch and the bio-batch should be provided. In addition, the executed Batch 
+Manufacturing records (BMR), multipoint dissolution in the three physiological media at 50 rpm or 
+75 rpm, as per ICH guideline, and the Certificate of Analysis (CoA) of the representative batch 
+should be provided. Particle size distribution (PSD) characterization of the API lot used in the 
+SAHPGL-CEM-06_v1 
+Page 10 of 12
+Guideline for Selection of a Reference Product for Generic Medicine Applications 
+15 September 2026 
+ 
+ 
+manufacture of the representative batch should be provided at d10, d50, and d90, only when 
+biopharmaceutically relevant.  
+• 
+Motivation for not performing comparative dissolution should be submitted in Module 3.2.R.1.4.  
+7. REFERENCES 
+The following related documents are referenced: 
+8.1 For more information see Appendix II in the Guideline on the Investigation of Bioequivalence 
+CPMP/EWP/QWP/1401/98 Rev. 1/ Corr**). 
+8.2 ICH M9 Biopharmaceutics Classification System-based Biowaivers. 
+8.3 ICH M13 Bioequivalence for Immediate Release Solid Oral Dosage Forms. 
+8.4 SAHPGL-PEM-02 Quality and Bioequivalence guideline. 
+8.5 SAHPGL-BAU-01 Reliance guideline. 
+8.6 SAHPGL-CEM-01 Clinical guideline. 
+8. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision. It will be reviewed on this 
+timeframe or as and when required. 
+ 
+ 
+SAHPGL-CEM-06_v1 
+Page 11 of 12
+Guideline for Selection of a Reference Product for Generic Medicine Applications 
+15 September 2026 
+ 
+ 
+9. APPENDICES 
+9.1 Appendix I: List of RRAs 
+• 
+European Union Centralised Procedure (EU CP). 
+• 
+European Union Decentralised Procedure (EU DCP) (no restrictions on which member state acts as the 
+reference member state). 
+• 
+Health Canada. 
+• 
+Medicines and Health Products Regulatory Agency (MHRA (UK)). 
+• 
+Ministry of Health, Labour and Welfare (MHLW)/ Pharmaceutical and Medical Devices Agency (PMDA) 
+– Japan. 
+• 
+  Swiss Agency for Therapeutic Products (SwissMedic). 
+• 
+Therapeutic Goods Administration (TGA) -Australia. 
+• 
+US Food and Drug Administration (US FDA). 
+• 
+WHO listed Authorities (WLA)- listed for all functions for medicines.  
+ 
+ 
+SAHPGL-CEM-06_v1 
+Page 12 of 12
+Guideline for Selection of a Reference Product for Generic Medicine Applications 
+15 September 2026 
+ 
+ 
+9.2 Appendix II: Decision tree for selection of reference product 
+ 
+  
+SA innovator is available on the 
+market 
+ 
+Option 1: Conduct BE with SA 
+innovator. 
+However, a foreign reference 
+product is chosen. 
+ 
+Option 2: Select a foreign 
+reference product from SAHPRA 
+RRAs to conduct the BE study 
+(refer to Appendix I for list of 
+RRAs) 
+Provide comparative dissolution of 
+the foreign reference product and 
+the SA innovator. 
+If the SA innovator is not available for 
+conducting comparative dissolution 
+with the foreign reference product, 
+refer to the scenarios above section 
+4.1. 
+ 
+ 
+ 
+START 
+

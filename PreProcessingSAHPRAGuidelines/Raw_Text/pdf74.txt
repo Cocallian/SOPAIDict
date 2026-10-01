@@ -1,0 +1,551 @@
+SAHPGL-RDN-XR-24_v1 
+Page 1 of 14
+ 
+ 
+ 
+21 December 2023 
+GUIDELINE FOR IMPORT APPLICATIONS OF ELECTRONIC 
+DEVICES EMITTING IONIZING RADIATION  
+This guideline sets out the requirements and recommendations when applying for a license to import any electronic device emitting 
+ionizing radiation.  The Hazardous Substances Act 15, 1973.                                      
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[Month yyyy] 
+1 
+First issue and implementation  
+December 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-24_v1 
+Page 2 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 5 
+1.1 
+Purpose ...................................................................................................................................................... 5 
+1.2 
+Scope .......................................................................................................................................................... 5 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 5 
+3. 
+REQUIREMENTS AND RECOMMENDATIONS ............................................................................................. 5 
+3.1 
+LICENSING .................................................................................................................................................. 5 
+3.2 
+TYPE OF APPLICATION FORMS AND SUPPORTING DOCUMENTS .............................................................. 6 
+3.2.1 GLF-RDN-XR-24C (old 41BM-1(IMP)) ......................................................................................................... 6 
+3.2.2 GLF-RDN-XR-24F (Old 41BN-1(IMP)) .......................................................................................................... 7 
+3.2.3 GLF-RDN-XR-24D (Old 41BM-1 (MAN)) ...................................................................................................... 7 
+3.2.4 GLF-RDN-XR-24G (Old 41BN-1(MAN)) ....................................................................................................... 7 
+3.2.5 GLF-RDN-XR-24E (Old 41BM-1(REFURB)) ................................................................................................... 7 
+3.2.6 GLF-RDN-XR-24A (Old 41BM-1 (CLINIMP)) ................................................................................................ 8 
+3.2.7 GLF-RDN-XR-24B (Old 41BM-1 (CLINLOC))................................................................................................. 8 
+3.3 
+REQUIREMENTS AND SUPPORTING DOCUMENTS ..................................................................................... 8 
+3.3.1 Primary Importer in South Africa ............................................................................................................... 8 
+3.3.2 Companies and Intellectual Property Commission .................................................................................... 8 
+3.3.3 Manufacturer ............................................................................................................................................. 8 
+3.3.4 Technical File .............................................................................................................................................. 8 
+3.3.5 Device Information ..................................................................................................................................... 9 
+3.3.6 Refurbisher .................................................................................................. Error! Bookmark not defined. 
+3.3.7 Authorized representative in the European Union .................................................................................... 9 
+3.3.8 Company contacts person in South Africa ................................................................................................. 9 
+3.3.9 Letter authorizing sale in South Africa ....................................................................................................... 9 
+3.3.10 Notified Body Certificate ............................................................................................................................ 9 
+3.3.11 Declaration of Conformity ........................................................................................................................ 10 
+3.3.12 South African National Clinical Trials Register ......................................................................................... 10 
+3.3.13 Medical Ethics Committee ....................................................................................................................... 10 
+3.3.14 Research Protocol .................................................................................................................................... 10 
+3.3.15 Informed Consent .................................................................................................................................... 10 
+SAHPGL-RDN-XR-24_v1 
+Page 3 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+3.4 
+APPEAL AND LICENSE CONDITIONS ......................................................................................................... 11 
+3.4.1 APPEAL ..................................................................................................................................................... 11 
+3.4.2 REPORT OF SALE (CONDITION 03 & 04) ................................................................................................... 11 
+3.4.3 ANNUAL SUBMISSION OF COMPLIANCE INFORMATION (ASOCI) (CONDITION 09) ................................ 11 
+3.4.4 Information Updates ................................................................................................................................ 12 
+4. 
+REFERENCES ............................................................................................................................................. 12 
+5. 
+VALIDITY ................................................................................................................................................... 12 
+6. 
+ANNEXURES .............................................................................................................................................. 13 
+6.1 
+Annexure A: Conditions............................................................................................................................ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-24_v1 
+Page 4 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ACT 
+Hazardous Substances Act 15, 1973                                      
+ASOCI 
+Annual Submission of Compliance Information 
+CE marking 
+This is the manufacturer's declaration that the medical device meets the 
+appropriate regulatory requirements. 
+CIPC 
+Companies and Intellectual Property Commission 
+Doc 
+Declaration of Conformity  
+EC 
+European Conformity 
+EC Directive 93/42/EEC 
+Applies for the placing on the market and launching of medical devices 
+and their accessories 
+EEC 
+European Economic Community 
+EU 
+European union  
+Ionizing Radiation 
+means radiation emanating from a listed electronic device, capable of 
+producing ions directly or indirectly in its passage through matter, 
+MDR 
+Medical Device Regulation 
+MDD 
+Medical Device Directive 
+Notified Body 
+A notified body is an organization designated by a European Member 
+State (or by other countries under specific agreements) to assess the 
+conformity of certain devices before being placed on the market 
+Pre-owned 
+It has been owned by someone else and is sold or transferred to 
+someone else 
+Refurbisher 
+Refer to a person or company that refurbishes listed electromedical 
+device from pre-owned devices and wish to sell and distribute such 
+devices for use in various industries. 
+SAHPRA 
+South African Health Devices Regulatory Authority  
+SLEP 
+Schedule of Listed Electronic Products (Regulation R1302, 14 June 1991) 
+X-Ray 
+means an electronic device which is designed, manufactured, or 
+assembled with the primary purpose of producing X-rays or which 
+utilises X-rays to accomplish its primary purpose and from which such 
+emissions are intended. 
+ 
+ 
+SAHPGL-RDN-XR-24_v1 
+Page 5 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+1. 
+INTRODUCTION 
+This guideline prescribes the procedures to be followed, forms to be completed and other requirements to be 
+complied with in relation to a license application for import of electronic devices emitting ionizing radiation as 
+promulgated by Hazardous Substances Act 15, 1973. Applications for import are guided by the intended use 
+of the device and may include devices or components used for medical and/ or non-medical purposes.  The 
+requirements for import of device for medical use differs from the requirements for import of devices for non-
+medical uses as outlined by this guideline. 
+1.1 
+Purpose 
+To protect all South African citizens against the known hazardous effects of ionising radiation produced by 
+electronic devices without unduly limiting the beneficial applications of these technologies, and to exclude 
+non-compliant electronic devices from the South African market. 
+1.2 
+Scope 
+This guideline sets out the requirements and recommendations when applying for a license to import any 
+electronic device emitting ionizing radiation used in the medical, dental, veterinary, and industrial 
+industries. 
+2. 
+LEGAL PROVISION 
+The guideline is implemented in promulgating the Hazardous Substances Act 15, 1973 and Schedule of Listed 
+Electronic Devices (Regulation R1302, 14 June 1991).  
+3. 
+REQUIREMENTS AND RECOMMENDATIONS  
+3.1 
+LICENSING 
+Hazardous Substances Act 15, 1973 allow for the regulation of electromedical and electronic devices 
+emitting ionizing radiation. In terms of the Schedule of Listed Electronic Devices (Regulation R1302, 14 June 
+1991), electronic devices generating X-rays or other ionizing beams, electrons, neutrons, or other particle 
+radiation, must be registered for import.  
+SAHPRA reserves the right to request any additional information to establish the safety, quality, and 
+performance of a device in keeping with the knowledge current at the time of evaluation, with the aim of 
+issuing an import license. The importation of any pre-owned listed electromedical device is strictly 
+prohibited unless its fully refurbished per sec 3.2.5. Only electromedical devices, which had already 
+previously been licensed either for import into or manufacture in South Africa and which had subsequently 
+SAHPGL-RDN-XR-24_v1 
+Page 6 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+been distributed and used within South Africa, may be resold within South Africa. 
+3.2 
+TYPE OF APPLICATION FORMS AND SUPPORTING DOCUMENTS 
+List of current application forms to be used:  
+o GLF-RDN-XR-24C (Old 41BM-1 (IMP)) 
+o GLF-RDN-XR-24F (Old 41BN-1 (IMP)) 
+o GLF-RDN-XR-24D (Old 41BM-1 (MAN))  
+o GLF-RDN-XR-24G (Old 41BN-1(MAN)) 
+o GLF-RDN-XR-24E (Old 41BM-1 (REFURB)) 
+o GLF-RDN-XR-24A (Old 41BM-1 (CLINIMP))  
+o GLF-RDN-XR-24B (Old 41BM-1 (CLINLOC)) 
+The application forms can be downloaded using the following link: https://www.sahpra.org.za/radiation-
+control-application-and-report-forms/  
+o Submit one application per email, 
+o List the name of the applicant and model in the subject field of the email, 
+o Ensure that all required documentation as listed on the 41BM(IMP) or 41BN(IMP) application forms 
+have been submitted, 
+o Complete your application in full as incomplete applications will be returned,  
+o Kindly refrain from pre-dating your application form, and 
+o Completed application forms and required documents must be submitted to the following email 
+address import.xrays@sahpra.org.za. 
+Please allow 4 – 6 weeks for processing of your import application; the 4 – 6 weeks’ timeline is on condition 
+that all the required documentation have been submitted. 
+3.2.1 GLF-RDN-XR-24C (old 41BM-1(IMP)) 
+A medical device can be defined, but not limited to any instrument, apparatus, appliance, material, 
+software, or other article intended by the manufacturer to be used in human beings for the detection, 
+treatment, alleviation or prevention of disease, injury, or disability. Applicants wishing to import electronic 
+SAHPGL-RDN-XR-24_v1 
+Page 7 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+devices generating ionizing radiation for use in the medical and dental industries must complete form GLF-
+RDN-XR-24C (old 41BM-1(IMP)). 
+3.2.2 GLF-RDN-XR-24F (Old 41BN-1(IMP)) 
+Applicants wishing to import electronic devices generating X-rays or other ionizing beams, electrons, 
+neutrons, or other particle radiation outside of the medical and dental industries, including for research 
+purposes, must complete form 41BN-1, and comply with relevant requirements listed in section 3.3. 
+3.2.3 GLF-RDN-XR-24D (Old 41BM-1 (MAN)) 
+Applicants wishing to manufacture medical devices for use inside the borders of South Africa must complete 
+form 41BM-1(MAN) and comply with relevant requirements listed in section 3.3. 
+3.2.4 GLF-RDN-XR-24G (Old 41BN-1(MAN)) 
+Applicants wishing to manufacture electronic devices for use outside the medical and dental industries, 
+including for research purposes, for use inside the borders of South Africa must complete form 41BN-
+1(MAN), and comply with relevant requirements listed in section 3.3. 
+3.2.5 GLF-RDN-XR-24E (Old 41BM-1(REFURB)) 
+Applicants wishing to import a listed electromedical device that has been fully refurbished overseas must 
+complete form 41BM-1(REFURB) and comply with relevant requirements listed in section 3.3. 
+Please note: 
+In the case where a pre-owned listed electromedical device has been fully refurbished per sec 3.2.5.     
+overseas, the requirements for a license to import such a device are basically the same as those for 
+importing a new listed electromedical device. 
+If a listed electromedical device has been fully refurbished per sec 3.2.5.     overseas, that fact must be 
+indicated explicitly by serial number in the accompanying EC documentation. The model’s name of the 
+affected units must be altered permanently on the units themselves to reflect the fact that these are indeed 
+refurbished per sec 3.2.5.      
+If a listed electromedical device has been refurbished per sec 3.2.5., abroad for the explicit purpose of 
+distributing or using it locally as a non-medical device, e.g., for veterinary use, that device may not be 
+imported under its original brand- & model name. The refurbisher must give the device a completely new 
+name that bears no resemblance to the original brand- & model name (which, in turn, must be removed 
+completely and permanently). The new name must be affixed to the device permanently and indelibly and 
+SAHPGL-RDN-XR-24_v1 
+Page 8 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+must also be reflected in the instructions for use and any associated promotional materials. 
+3.2.6 GLF-RDN-XR-24A (Old 41BM-1 (CLINIMP))  
+If the intention is to conduct clinical trials using a listed electromedical device that emits ionizing radiation 
+is imported into South Africa for commercial distribution, form 41BM-1 (CLINIMP) must be completed in 
+full and submitted with relevant requirements listed on the form and in section 3.3. 
+3.2.7 GLF-RDN-XR-24B (Old 41BM-1 (CLINLOC)) 
+If the intention is to conduct clinical trials using a listed electromedical device emits ionizing radiation that 
+is manufactured in South Africa, form 41BM-1 (CLINLOC) must be completed in full and submitted with 
+relevant requirements listed on the form and in section 3.3. 
+3.3 
+REQUIREMENTS AND SUPPORTING DOCUMENTS  
+3.3.1 Primary Importer in South Africa  
+The primary importer in South Africa is the natural person in contact with the international manufacturer 
+for importing of their devices to South Africa.  It is the duty of the primary importer to comply with the 
+requirements and stipulations of the Hazardous Substances Act 15, 1973 as well as any conditions as 
+determined by SAHPRA. 
+3.3.2 Companies and Intellectual Property Commission 
+Is an agency of the Department of Trade and Industry in South Africa.[1] The CIPC was established by the 
+Companies Act, 2008 (Act No. 71 of 2008)[2] as a juristic person to function as an organ of state within the 
+public administration, but as an institution outside the public service (https://www.cipc.co.za/). 
+3.3.3 Manufacturer 
+A manufacturer is a person or company that produces finished equipment/ devices from raw materials by 
+using various tools, equipment, and processes, and then sells the equipment/ devices to distributors or to 
+other manufacturers to produce more complex equipment/ devices. 
+3.3.4 Technical File 
+We require the technical file number but may request for the actual document.  A technical file is a set of 
+documents that describes a device and can prove that the device was designed in accordance with the 
+requirements of a quality management system. All devices that have a CE mark must have a technical file 
+which must contain the information that proves that the device conforms with the EU directives and 
+regulations for CE-marked devices. Regulatory Authorities may demand a copy of the technical file for 
+regulatory purposes.  The technical file must be available for 10 years after the last device was made. 
+SAHPGL-RDN-XR-24_v1 
+Page 9 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+3.3.5 Device Information 
+The brand and model of the device being considered must be specified for identification purposes.  A color 
+brochure including technical specifications of the model being considered for import must therefore 
+accompany your completed application form. 
+3.3.6 Refurbisher 
+A refurbisher is a person or company that refurbishes listed electromedical device from pre-owned devices 
+and wish to sell and distribute such devices for use in various industries.  
+3.3.7 Authorized representative in the European Union 
+An authorized representative is defined as being any natural or legal person established within the 
+European Union who has received and accepted a written mandate from a manufacturer located outside 
+the EU, to act on the manufacturer’s behalf in relation to specified tasks regarding the latter’s obligations 
+under the Regulations (https://eumdr.com/authorised-representatives). 
+3.3.8 Company contacts person in South Africa 
+The contact person in South Africa for all regulatory correspondence. Only one person per company is 
+allowed, not multiple contact persons. Responsibility of license holder to update contact person details 
+with SAHPRA where necessary. 
+3.3.9 Letter authorizing sale in South Africa 
+Documentary proof between the manufacturer of a particular electromedical device and agent/ 
+representative in South Africa, in the form of signed letter authored by the international manufacturer, 
+allowing the sale of their devices in South Africa. 
+3.3.10 Notified Body Certificate 
+A notified body is an organization designated by a European Member State (or by other countries under 
+specific agreements) to assess the conformity of certain devices before being placed on the market.   
+These bodies are entitled to carry out tasks related to conformity assessment procedures set out in the 
+applicable legislation. Applicable legislation for manufacturers of medical devices refers to the Medical 
+Devices Directive 93/42/EEC (MDD) as well as the Medical Device Regulation EU 2017/745 (MDR).  The MDR 
+is the successor of MDD.   
+An EC-type examination certificate (EC Certificate) is issued by the Notified Body to confirm the compliance 
+of a certain device with specific technical requirements or performance. 
+SAHPGL-RDN-XR-24_v1 
+Page 10 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+3.3.11 Declaration of Conformity 
+At the end of the CE marking process the manufacturer confirms the CE marking compliance of the device 
+by drawing up a Declaration of Conformity (or ‘DoC’) and affixing the CE marking. The Declaration of 
+Conformity is the document in which the manufacturer states that the device fulfils the essential 
+requirements of the applicable CE marking directives or regulations.  
+By drawing up and signing the Declaration of Conformity, the manufacturer assumes responsibility for the 
+compliance of the device. The Declaration of Conformity must be issued before the device is placed on the 
+market. 
+The Declaration of Conformity contains all relevant compliance information. For example, the DoC indicates 
+which EU legislation, harmonized standards and other technical specifications are complied with. The DoC 
+contains the device specifications, the contact details of the manufacturer or his authorized representative 
+in the European Union, and the reference to the certification body, if applicable. 
+3.3.12 South African National Clinical Trials Register 
+Provides the public with updated information on clinical trials on human participants being conducted in 
+South Africa. The Register provides you with information on a trial’s purpose, who can participate, where 
+the trial is located, and contact details. Open access to information about ongoing and completed trials will 
+satisfy the ethical duty to trial participants and will promote greater trust and public confidence in clinical 
+research, therefore registration of clinical trials is required (https://sanctr.samrc.ac.za). 
+3.3.13 Medical Ethics Committee 
+Ethics committees are based at clinical or academic institutions and hospitals. Ethics committee is an 
+independent body that plays a pivotal role in ensuring that a trial is conducted in accordance with Good 
+Clinical Practice guidelines and to safeguard the safety and well-being of subjects participating in a clinical 
+trial (https://www.sahpra.org.za/document/sa-gcp-guidelines/).  
+3.3.14 Research Protocol  
+The research protocol is a document that describes the background, rationale, objective (s), design, 
+methodology, statistical considerations, and organization of a clinical trial. It is a document that outlines 
+the clinical research study plan. 
+3.3.15 Informed Consent  
+The process of information exchange between the researcher and the human participants of research. 
+Information provided to the human participants of research should be adequate, clearly understood by the 
+SAHPGL-RDN-XR-24_v1 
+Page 11 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+participant of research with decision-making capacity and the research participant should voluntarily decide 
+to participate. This entire process requires documented proof. 
+3.4 
+APPEAL AND LICENSE CONDITIONS  
+3.4.1 APPEAL 
+In terms of the Hazardous Substances Act 15, 1973 when the regulator refuses to grant a license, reason 
+must be furnished to the applicant and applicant reserves the right to appeal such decision. Following the 
+unsuccessful outcome of your application, if so desired, an appeal may be lodged in terms of Section 4, sub-
+section (6) and Section 6 of the Hazardous Substances Act, 1973. Such an appeal must be in writing and 
+forwarded to the regulator within 30 working days from the date of refusal. 
+3.4.2 REPORT OF SALE (CONDITION 03 & 04) 
+Section 29 (1) f. of the Hazardous Substances Act, 1973 requires the sale of group III listed electronic devices 
+to be reported.  Further details and requirements are explained in the Import License document issued 
+once an Import License is granted as a condition of the license.  Please see Annexure A below for details. 
+3.4.3 ANNUAL SUBMISSION OF COMPLIANCE INFORMATION (ASOCI) (CONDITION 09) 
+Once an import license is issued, the license remains valid only while the EC compliance documentation is 
+valid.  An import license holder, also referred to as a Dealer, must on an annual basis, submit the following 
+compliance information with respect to each licensed model, using form 41BM-2: 
+(i) 
+Classification according to Annex IX of EC Directive 93/42/EEC 
+(ii) 
+Annex(es) employed for conformity assessment 
+(iii) 
+EC Certificate No(s) 
+(iv) 
+Date(s) of EC Certificate(s) 
+(v) 
+Expiry Date(s) of EC Certificate(s) 
+(vi) 
+Notified Body Identification No 
+(vii) 
+Date of EC Declaration of Conformity by the manufacturer 
+Please note: 
+Failure to comply will result in the cancellation of affected license holder.   
+SAHPGL-RDN-XR-24_v1 
+Page 12 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+3.4.4 Information Updates 
+SAHPRA must always be informed of changes to the company contact person to whom the Import License 
+document is issued, as well as contact details and addresses.    
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+South 
+Africa, 
+1973. 
+ 
+Hazardous 
+Substances 
+Act 
+15, 
+1973                   
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+4.2 
+South Africa, 1973.  Schedule of listed electronic devices, Hazardous Substances Act 15, 1973                   
+, Regulation No. R.1302. https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+4.3 
+https://www.sahpra.org.za/radiation-control-application-and-report-forms/  
+4.4 
+ https://www.cipc.co.za/  
+4.5 
+https://eumdr.com/authorised-representatives 
+4.6 
+https://sanctr.samrc.ac.za 
+4.7 
+https://www.sahpra.org.za/document/sa-gcp-guidelines/ . 
+4.8 
+https://health.ec.europa.eu/medical-devices-topics-interest/notified-bodies_en 
+4.9 
+https://cemarking.net/ce-marking-knowledgebase/ 
+4.10 https://www.sanas.co.za/  
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision. It will be reviewed on this 
+timeframe or as and when required. 
+ 
+SAHPGL-RDN-XR-24_v1 
+Page 13 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+6. 
+ANNEXURES 
+6.1 
+Annexure A: Conditions 
+Condition 03 
+a) 
+Report of a sale or letting must be submitted by the approved dealer to the Director: 
+Radiation Control within 21 days after the sale or letting has been finalised for any model 
+indicated in paragraphs (b) (i), (ii), or (iii) below. The form RC011-1 must be completed for this 
+purpose. 
+b) 
+If this model: 
+(i) Is a Class 3b or Class 4 laser device, the approved dealer must provide the purchaser with a 
+copy of the application form SBLM-1. 
+Installation of any unit of this model may commence only if the purchaser can prove that 
+he/ she possesses the required licence to use that unit, as issued by SAHPRA. 
+(ii) Is an MRI device, the approved dealer must provide the purchaser with a copy of the 
+application form SBMR-1. Installation of any unit of this model may commence only if the 
+purchaser can prove that he/she possesses the required licence to use that unit, as issued 
+by SAHPRA. 
+(iii) Produces ionising radiation (e.g.an X-ray unit), the approved dealer must provide the 
+purchaser with a copy of the application form RC001-1 or in the case of radiotherapy 
+equipment form RC003-1. Installation of any unit of this model may commence only if the 
+purchaser can prove that he/she is in possession of the required licence to use that unit as 
+issued by SAHPRA. 
+c) 
+If this model is a mobile X-ray unit, the approved dealer must inform the purchaser that SAHPRA 
+will licence mobile X-ray units exclusively for mobile diagnostic radiography. 
+d) 
+If this mode is a diagnostic X-ray unit (excluding dental, lithotripter and bone densitometer), the 
+approved dealer must perform the applicable tests as set out in the documents for " 
+Radiography Acceptance Standards"," Summary computed Tomography Acceptance Results" 
+and "Mammography   Acceptance Standards". The approved dealer must record the test results 
+on the form "Summary Radiography Acceptance Results", "Summary Computed Tomography 
+Acceptance Results" or "Summary Mammography Acceptance Results" and the approved dealer 
+must provide the user with a copy of the acceptance test results. 
+These forms are available at http://www.doh/department/radiation/01.html->Licensing.    
+e) 
+If this model is licenced as a component, the approved dealer shall draw up a declaration in 
+which he states that he has verified the compatibility of this component in accordance with the 
+manufacturers' instructions and that he has carried out the installation in accordance with these 
+instructions. The dealer must provide the purchaser with a copy of this declaration. 
+f) 
+If this model is a fixed fluoroscopic x-ray unit, the approved dealer must ensure that each unit 
+sold after January 2007 is equipped with a Dose Area Product (DAP) meter or a device that 
+provides a dose read-out during fluoroscopy. 
+ 
+SAHPGL-RDN-XR-24_v1 
+Page 14 of 14
+Guideline for Import Applications of Electronic Devices Emitting Ionizing Radiation 
+22 December 2023 
+ 
+ 
+Condition 04 
+a) 
+Report of a sale or letting must be submitted by the approved dealer to the Director: 
+Radation Control within 21 days after the sale or letting has been finalised for any model 
+mentioned in paragraphs (b)(i), (ii), or (iii) below. The form RC011-1 must be completed for this 
+purpose. 
+b) 
+If this model: 
+(i) Is a Class 3b or Class 4 laser device, the approved dealer must provide the purchaser with a 
+copy of the application form SBLN-1. Installation of any unit of this model may commence 
+only if the purchaser can prove that he/she possesses the required licence to use that unit, 
+as issued by the Department of Health. 
+(ii) Is an MRI device, the approved dealer must provide the purchaser with a copy of the 
+application form SBVETMR-1. Installation of any unit of this model may commence only if 
+the purchaser can prove that he/she is in possession of the required licence to use that unit, 
+as issued by SAHPRA. 
+(iii) Produces ionising radiation (e.g. an X-ray unit), the approved dealer must provide the 
+purchaser with a copy of the application form RC001-1. Installation of any unit of this model 
+may commence only if the purchaser can prove that he/she is in possession of the required 
+licence to use that unit as issued by SAHPRA. 
+c) 
+If this model is a sunbed, the approved dealer must ensure that the sunbed complies with the 
+requirements as outlined in the document "Requirements for sunbeds intended for normal 
+household use and for use in tanning salons, beauty parlours and similar premises" (attached). 
+The approved dealer must provide the purchaser with a copy of the document "Guidelines for 
+the safe use of sunbeds" (attached). 
+

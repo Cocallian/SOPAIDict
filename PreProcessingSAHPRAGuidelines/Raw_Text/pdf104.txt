@@ -1,0 +1,224 @@
+SAHPGL-RDN-XR-20_v1 
+Page 1 of 6
+ 
+ 
+ 
+12 September 2022 
+GUIDELINE FOR USE OF RADIOGRAPHIC GRID RATIO 
+The guideline outlines the requirements for the use of grids to enhance contrast and improves the quality of medical X-
+Ray images. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+October 2009 
+1 
+- 
+Content structured on the latest SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-XR-20 allocated to this 
+Guideline 
+September 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-20_v1 
+Page 2 of 6
+Guideline for Use of Radiographic Grid Ratio 
+12 September 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+GUIDELINE AND REQUIREMENTS .............................................................................................................. 4 
+3.1 Grid Design ................................................................................................................................................ 4 
+3.2 Requirements ............................................................................................................................................ 5 
+4. 
+REFERENCES ............................................................................................................................................... 5 
+5. 
+VALIDITY .................................................................................................................................................... 6 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-20_v1 
+Page 3 of 6
+Guideline for Use of Radiographic Grid Ratio 
+12 September 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+kVp 
+Kilo Voltage peak 
+Attenuation  
+Is the reduction of X-Ray intensity due to absorption or scatter 
+Grid ratio 
+is the ratio between the height of the lead strips and the distance between 
+them 
+Regulations  
+Regulations relating to the Control of Electronic Products (No R1332 of 3 August 
+1973)  
+X-Ray source 
+An electronic device that is designed, manufactured, or assembled with the 
+primary purpose of producing ionizing photon radiation. 
+Bone radiography 
+Imaging technique dedicated in imaging for diagnosis purpose of the bones 
+Barium studies 
+are used to diagnose abnormalities of the gastrointestinal (GI) tract, such as 
+tumours, ulcers and other inflammatory conditions. 
+Chest radiography 
+Is the imaging of the chest cavity for medical diagnosis inside the chest. 
+ 
+ 
+ 
+SAHPGL-RDN-XR-20_v1 
+Page 4 of 6
+Guideline for Use of Radiographic Grid Ratio 
+12 September 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Grids are used to improve contrast by absorbing scatter radiation before it reaches the film. Scattered radiation 
+is the biggest contribution factor to poor image quality which may lead to poor diagnosis. The use of an X-Ray 
+grid between the X-Ray source and the film or plate enhances the image which becomes clearer and more 
+detailed. 
+1.1 
+Purpose 
+The basic purpose X-Ray grid use is to enhance the contrast and quality of the medical image by removing 
+the scatter radiation 
+1.2 
+Scope 
+The scope of this guideline is to show users of medical X-Ray devices how the use of grids can improve 
+image quality for diagnosis. 
+2. 
+LEGAL PROVISION 
+The Hazardous Substances Act, 1973 (Act 15 of 1973) and Regulations (No R1332 of 3 August 1973) govern 
+the safe use of X-Ray equipment in South Africa. 
+3. 
+GUIDELINE AND REQUIREMENTS  
+3.1 
+Grid Design 
+3.1.1 A radiographic grid consists of lead strips separated by X-Ray transparent spacers. 
+3.1.2 Grid ratio is the ratio between the height of the lead strips and the distance between them. 
+3.1.3 The effectiveness of the grid is determined by several parameters of which the attenuation of scatter 
+radiation is the most important. This attenuation should be high. It is also important that the primary 
+beam attenuation is low, as this affects the exposure time and the consequent dose of radiation to 
+the patient. 
+3.1.4 The quantity of scatter radiation generated by various objects and at different voltages plays a major 
+role in the selection of a grid ratio. 
+3.1.5 Usually 8:1 grids give adequate results below 90 kVp. Above 90 kVp 12:1 grids are preferred. 
+ 
+SAHPGL-RDN-XR-20_v1 
+Page 5 of 6
+Guideline for Use of Radiographic Grid Ratio 
+12 September 2022 
+ 
+ 
+3.2 
+Requirements 
+3.2.1 A grid with a minimum grid ratio of 10:1 is required for a basic radiological system. In certain 
+circumstances a grid ratio of 8:1 may be acceptable. 
+3.2.2 When only extremities, X-Ray examinations below 90 kVp technique and chest  examinations are 
+being conducted, a minimum 8:1 grid ratio is acceptable. 
+3.2.3 In cases where more than one grid is being used the following table can be used as a guideline. It 
+must be used as a guide because there are many variables that will affect the ultimate choice. 
+Table 1: Grid Table 
+Examination 
+KV Limit 
+Grid Ratio 
+Bone radiography 
+90 
+8:1 
+ 
+110 
+12:1 
+ 
+150 
+16:1 
+Barium studies 
+100 
+8:1 
+ 
+120 
+12:1 
+ 
+150 
+16:1 
+Chest radiography 
+120 
+6:1 
+ 
+130 
+8:1 
+ 
+150 
+10:1 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+WHO: 1994 (RAD/94.1) WHIS-RAD – World Health Imaging System for Radiography. 
+4.2 
+South 
+Africa, 
+1973. 
+ 
+Hazardous 
+Substances 
+Act, 
+1973 
+(Act 
+of 
+15 
+of 
+1973). 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+4.3 
+South Africa, 1973. Regulations Concerning the Control of Electronic Products.  Regulation Gazette 
+No 3991. https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+4.4 
+Guideline for Code of Practice for Users of Medical X-Rays Equipment (SAHPGL-RDN-XR-02). 
+SAHPGL-RDN-XR-20_v1 
+Page 6 of 6
+Guideline for Use of Radiographic Grid Ratio 
+12 September 2022 
+ 
+ 
+https://www.sahpra.org.za/radiation-control-guidelines-and-codes-of-practice/  
+4.5 
+SMIT X-RAY GRIDS: Influence of Stray Radiation. 
+4.6 
+Christensen’s Physics of Diagnostic Radiology - 4th Edition. 
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Radiographic Grid Ratio, revised October 2009. It will be reviewed on this timeframe or as and when 
+required. 
+ 
+

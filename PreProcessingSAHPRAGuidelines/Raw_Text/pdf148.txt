@@ -1,0 +1,662 @@
+ 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 1 of 17 
+Back to ToC 
+ 
+ 
+ 
+ 
+COMPLEMENTARY MEDICINES 
+GUIDANCE ON SPECIFIED SUBSTANCES 
+ 
+This guideline is intended to provide recommendations to applicants wishing to submit applications for the registration of 
+Complementary Medicines containing specified substances.  In addition to this guideline, SAHPRA reserves the right to request 
+any additional information to establish the safety, quality, and efficacy of a medicine in keeping with the knowledge current at the 
+time of evaluation.  The SAHPRA is committed to ensuring that all registered medicines will be of the required quality, safety and 
+efficacy. 
+Guidelines and application forms are available from the website: www.sahpra.org.za. 
+ 
+ 
+Publication for comment_v1 
+Caffeine and Menthol 
+ 
+April 2017 
+Due date for comment: Caffeine and Menthol 
+31 May 2017 
+Publication for comment_v2 
+Camphor 
+ 
+June 2018 
+Due date for comment: Camphor 
+31 July 2018 
+Publication for implementation_v3 
+May 2020 
+Publication for comment_v3_1 
+March 2021 
+Due date for comment: Cannabidiol 
+30 June 2021 
+Publication for implementation_v3_2 
+January 2022 
+Deadline for comment: Annex 4 - Cannabidiol: Table 4.1 
+30 April 2022 
+ 
+ 
+BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+Registration of Medicines 
+CMs – Guidance on Specific Substances 
+ 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 2 of 17 
+Back to ToC 
+TABLE OF CONTENTS 
+1 
+INTRODUCTION ....................................................................................................................... 3 
+2 
+SCOPE ...................................................................................................................................... 3 
+3 
+UPDATE HISTORY ................................................................................................................... 3 
+Annex 1: CAFFEINE ........................................................................................................................... 5 
+Annex 2: MENTHOL ........................................................................................................................... 8 
+Annex 3: CAMPHOR .........................................................................................................................10 
+Annex 4: CANNABIDIOL (CBD) ........................................................................................................13 
+ 
+ 
+Registration of Medicines 
+CMs – Guidance on Specific Substances 
+ 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 3 of 17 
+Back to ToC 
+1 
+INTRODUCTION 
+The South African Health Products Regulatory Authority (SAHPRA) is responsible for regulating all 
+medicines and medical devices in South Africa by ensuring that they meet standards of safety, efficacy 
+and quality.  The SAHPRA operates in terms of the Medicines and Related Substances Act, 1965 (Act 101 
+of 1965) (the Medicines Act), the Regulations issued in terms of that Act, and associated guidelines. 
+The SAHPRA has noted that several Complementary Medicines (CMs) contain amounts of certain 
+substances for which specific guidance is needed.  Some of these may by default exist as an integral part 
+of any formulation (e.g.: Caffeine in Camellia sinensis (L.) Kuntze and Paullinia cupana Mart, or Menthol 
+in Mentha arvensis L., Juniperus communis L.) while other products may be inappropriately loaded with 
+these ingredients or contain insufficient amounts thereof relevant to the intended use. 
+This not only presents particular challenges related to patient safety but also yields significant questions 
+as to the intended efficacy of the medicine.  As a number of herbs used within the Discipline-Specific (DS) 
+sub-category of Complementary Medicines may contain these ingredients, and considering the addition of 
+these ingredients to Health Supplements and their close association to DS medicines, it is considered 
+imperative to provide guidance on the use of either substance which may inform the development of CM 
+products suitable for registration. 
+After comparisons of international policies and monographs and South Africa’s existing policy, the attached 
+guidance documents have been developed to guide the use of specified substances in Complementary 
+Medicines (CMs).  Any guidance stipulated should be viewed as being in addition to any existing 
+requirement(s) of the Medicines Act or its associated regulations. 
+Where applicable, the maximum dosage of the substance is pre-determined by the inscription in the 
+relevant schedules to the Medicines Act 
+2 
+SCOPE 
+This guideline applies to all applications for registration of complementary medicines containing any of the 
+substances stipulated herein: 
+Annex 1 – Caffeine 
+Annex 2 – Menthol 
+Annex 3 – Camphor 
+Annex 4 – Cannabidiol (CBD) 
+3 
+UPDATE HISTORY 
+Date 
+Reason for update 
+Version & publication 
+Feb 2017 
+New guideline to address caffeine and menthol in CMs 
+published for comment 
+v1 Apr 2017 
+31 May 2017 
+Due date for comment: Caffeine and Menthol 
+June 2018 
+Publication for comment_v2: Camphor 
+v2 Jul 2018 
+31 July 2018 
+Due date for comment: Camphor 
+Registration of Medicines 
+CMs – Guidance on Specific Substances 
+ 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 4 of 17 
+Back to ToC 
+Date 
+Reason for update 
+Version & publication 
+June 2020 
+Implementation of: 
+Annex 1: Caffeine 
+Annex 2: Menthol 
+Annex 3: Camphor 
+v3 Jun 2020 
+March 2021 
+Publication for comment_v3_1: 
+Annex 4: Cannabidiol (CBD) 
+v3_1 Mar 2021 
+Jan 2022 
+Amendment of: 
+Annex 1: Caffeine: Accepted sources 
+Implementation of: 
+Annex 4: Cannabidiol (CBD) 
+Minor grammatical amendments. 
+v3_2 Jan 2022 
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 5 of 17 
+Back to ToC 
+Annex 1: CAFFEINE 
+GUIDANCE FOR USE AS PART OF A COMPLEMENTARY MEDICINE 
+Caffeine 
+1,3,7-Trimethylxanthine 
+3,7-Dihydro-1,3,7-trimethyl-1H-purine-
+2,6-dione 
+guaranine 
+methyltheobromine 
+With respect to Complementary Medicines, caffeine is not permitted as an isolated single substance formulation.  When used as 
+an active ingredient as part of a multiple substance formulation or as a constituent of a single herb, it is permitted only in products 
+where the action of the caffeine modifies or contributes to the effect of other ingredient(s) and is not the main ingredient 
+responsible for the primary action of a product.  
+Total caffeine content should be calculated from all ingredients within a product so as not to exceed the maximum daily dose 
+prescribed herein. 
+May only be indicated for adults. 
+Accepted Sources: 
+The following ingredients should be considered in relation to guidance on caffeine: 
+Caffeine 
+Camellia sinensis (L.) Kuntze 
+Coffea arabica L. 
+Coffea canephora Pierre ex A.Froehner 
+Coffee 
+Cola acuminata (P.Beauv.) Schott & Endl.  
+Cola nitida (Vent.) Schott & Endl. 
+Ilex guayusa Loes.  
+Ilex paraguariensis A.St.-Hil.  
+ 
+Paullinia cupana Mart.  
+Paullinia cupana Mart.  
+Theobroma cacao L. 
+Caffeine-containing members of the genera Coffea, Cola or Ilex 
+Cautions and Warnings: 
+Medicine label 
+The statements:  
+• 
+CONTAINS CAFFEINE. 
+• 
+Identifying and contextualising the quantity of caffeine contained in the product per dosage unit:  
+“Contains <state quantity per dosage unit or ml or gram of product> caffeine per <dosage unit or ml or gram>. 
+A cup of instant coffee contains approximately 80 mg of caffeine.” 
+• 
+“Adults only” or similar statement. 
+• 
+“Consult a relevant health care provider if you are taking any other medicine or have been diagnosed with a chronic 
+condition.” 
+• 
+“Use of caffeine may result in sleep deprivation.”  
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 6 of 17 
+Back to ToC 
+Caffeine 
+• 
+“Limit the use of caffeine-containing products (including tea and coffee) when taking this product.” 
+• 
+When the maximum recommended daily dose provides more than 10 mg of total caffeine: 
+“Total caffeine intake more than 200 mg per day is not recommended during pregnancy or breastfeeding.” 
+Patient Information Leaflet 
+The statements: 
+• 
+“CONTAINS CAFFEINE.” 
+• 
+Identifying and contextualising the quantity of caffeine contained in the product per dosage unit: 
+“Contains <state quantity per dosage unit or ml or gram of product> caffeine per <dosage unit or ml or gram>. 
+A cup of instant coffee contains approximately 80 mg of caffeine.” 
+• 
+“Not suitable for children under the age of 18 years.” 
+• 
+“Consult a registered healthcare professional if you-  
+o are taking any other medicine (such as lithium) including chronic, complementary, or traditional medicines; or 
+o have high blood pressure, glaucoma, and/or detrusor instability (overactive bladder syndrome).” 
+• 
+“Consumption with other medicines (e.g. bitter orange extract, synephrine, octopamine, ephedra, ephedrine) which increase 
+blood pressure is not recommended.” 
+• 
+“Use of caffeine may result in sleep deprivation.”  
+• 
+“Consumption with other caffeine-containing products or foods (e.g. medications, coffee, tea, colas, cocoa, guarana, maté) 
+is not recommended.” 
+• 
+“Discontinue use two weeks prior to surgery”. 
+• 
+“If you are of childbearing age, pregnant or breastfeeding and have concerns that your daily intake of caffeine from all sources 
+may exceed 200 mg per day, please consult a relevant health care provider prior to use.” 
+Contra-indications: 
+• 
+“Hypersensitivity/allergy, in which case, discontinue use.” 
+Concentration/Maximum 
+dose: 
+Undivided preparations (e.g. bulk powders) must not contain a concentration of total caffeine greater than 1 %. 
+Divided preparations (e.g. tablets) must not contain a concentration of total caffeine greater than 33 %. 
+Maximum Daily Dose: 300 mg  
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 7 of 17 
+Back to ToC 
+Caffeine 
+Discipline-specific products containing a daily dose of more than 300 mg will only be considered in the context of a high-risk 
+application requiring associated clinical and safety evidence of its use and benefit. 
+Dose(s): up to 200 mg per single dose within a 6-hour period, not to exceed 300 mg per day. 
+Health Claim: 
+Temporarily promotes alertness and wakefulness. 
+Temporarily assists to relieve fatigue. 
+Temporarily assists to increase mental activity. 
+Known symptoms of 
+overdosage:  
+At doses of more than 600 mg per day, caffeine may cause anxiety, tachycardia (rapid heart rate), palpitations, insomnia, 
+restlessness, nervousness, tremor, and headache. 
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 8 of 17 
+Back to ToC 
+Annex 2: MENTHOL 
+GUIDANCE FOR USE AS PART OF A COMPLEMENTARY MEDICINE 
+Menthol 
+L-menthol, Levomenthol 
+(-)-menthol 
+(1R,2S,5R) (-)5-Methyl-2-(1-
+methyethyl) cyclohexanol 
+(1R,2S,5R)-5-methyl-2-(propan-2-yl) 
+cyclohexan-1-ol 
+Cyclohexanol, 5-methyl-2-(1-
+methylethyl)-, (1R,2S,5R)- 
+The synthetic form (Dl-menthol) is not permitted for use in Complementary Medicines. 
+Synthetic forms when used in discipline-specific medicines should be suitably motivated. 
+Accepted Sources: 
+May be sourced from, but not limited to, the following natural sources: 
+Juniperus communis L. 
+(Fruit)  
+Mentha arvensis L. 
+(Herb top, Herb top flowering, Leaf)  
+Mentha canadensis L.  
+(Herb top)  
+Mentha pulegium L. 
+(Whole plant)  
+Mentha spicata L. 
+(Leaf)  
+Mentha x piperita L. 
+(Herb top flowering, Leaf) 
+Ocimum basilicum L.  
+(Whole plant)  
+Zea mays L. 
+(Leaf, Stigma and style) 
+Cautions and Warnings: 
+Medicine label 
+The statements: 
+• 
+Avoid contact with eyes and mucous membranes. 
+• 
+Do not use with other products containing camphor, menthol, eucalyptol and/or eucalyptus essential oil. 
+• 
+If you experience pain, swelling or blistering, stop use and get medical help right away. 
+• 
+Keep out of reach of children. 
+ 
+Topical products:  
+• 
+Do not expose the area where applied, to sunlight.  
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 9 of 17 
+Back to ToC 
+Menthol 
+ 
+Where applicable: 
+• 
+External use only. 
+• 
+Do not use on the face or near the nose or mouth 
+For children (2 to 12 years):  
+• 
+The product should be handled/applied by adults only. 
+Products in liquid or semi-solid form (i.e. chest rubs): 
+• 
+Apply thinly and evenly to the <state body area>, up to three (3) times per day. 
+Products in patch forms or vaporizers: 
+• 
+Do not use (on skin) for more than eight (8) hours. 
+Note: Patches for children must contain a bittering agent and must not include any flavouring agent. 
+Patient Information Leaflet 
+The following statements in addition to those listed for the medicine label: 
+• 
+If accidental ingestion occurs, seek urgent medical attention, or contact a Poison Control Centre. 
+• 
+If symptoms persist or worsen, reoccur, or are accompanied by a fever, rash, or persistent headache, discontinue use, and 
+consult a relevant health care provider. 
+Contraindications: 
+If you are pregnant or breastfeeding, do not use this product. 
+If you have epilepsy, asthma, persistent or chronic cough, or other chronic lung conditions, do not use this product. 
+Do not apply this product to broken, irritated, or sensitive skin. 
+Known Adverse Reactions: 
+Rashes, burning discomfort, nausea, dizziness and/or headache, have been known to occur; in which case, discontinue use. 
+Hypersensitivity has been known to occur; in which case, discontinue use. 
+Use: 
+When used as an active ingredient, it is permitted only in topical applications, medicated space sprays or medicated throat 
+lozenges. 
+Concentration/Maximum 
+Dose: 
+For topical applications: The concentration must not exceed 16 %. 
+Health Claim: 
+Cooling sensation and/or soothing action for the (skin) (mouth) (throat) <specify area of application>. 
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 10 of 17 
+Back to ToC 
+Annex 3: CAMPHOR 
+GUIDANCE FOR USE AS PART OF A COMPLEMENTARY MEDICINE 
+Camphor 
+2-bornanone 
+2-camphanone 
+2-hydroxybornane 
+2-hydroxycamphane 
+bornan-2-one 
+Borneol 
+borneo camphor 
+Bornyl alcohol 
+d-camphor 
+The synthetic form (dl-camphor and l-camphor) is not permitted for use in Health Supplements where the intention is instead to 
+include substances from natural origin.  
+When used in Discipline-Specific medicines, d-camphor is the preferred form and synthetic forms (dl-camphor and l-camphor) 
+must be suitably motivated including evidence of its safety.  Substances of synthetic origin remain unacceptable as active 
+ingredients. 
+Inclusion of dl-camphor and l-camphor as a health supplement requires an Annexure B submission in terms of Guideline 7.04 
+as required. 
+Accepted Sources: 
+Camphor is derived from steam distillation of bark and/or wood from Cinnamomum camphora (L.) J. Presl. (camphor laurel, 
+camphor tree, camphorwood) 
+Camphor Laurel = Cinnamomum camphora (L.) J. Presl. 
+d-camphor is the extract after distillation 
+Other acceptable sources for d-camphor: 
+Achillea millefolium L.  
+(Leaf) 
+Cinnamomum camphora (L.) J.Presl  
+(Leaf, Stem, bark) 
+Coriandrum sativum L.  
+(Fruit) 
+Foeniculum vulgare Mill.  
+(Fruit) 
+Hyssopus officinalis L.  
+(Flower, Leaf) 
+Juniperus communis L. 
+(Fruit) 
+Lavandula latifolia Medik.  
+(Flower, Leaf and Stem) 
+Nepeta cataria L. 
+(Whole plant) 
+Ocimum basilicum L.  
+(Whole plant) 
+Origanum vulgare L.  
+(Whole plant) 
+Peumus boldus Molina  
+(Leaf) 
+Rosmarinus officinalis L. 
+(Whole plant) 
+Teucrium polium L.  
+(Shoot) 
+Thymus vulgaris L.  
+(Whole plant) 
+Zingiber officinale Roscoe 
+(Rhizome) 
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 11 of 17 
+Back to ToC 
+Camphor 
+Use: 
+In the case of discipline-specific medicines the use must align with the principle of the discipline from which it arises, e.g.: in line 
+with Unani, TCM and Ayurveda principles – but is not confined to discipline-specific use only. 
+Topical use and administration in preparations including but not limited to liquids, rubs, sprays, patches, roll-ons, use in chest 
+rubs with warning: “For external use only.” 
+Camphor must not be used in patch forms applied on the skin.  This restriction does not apply to patches that are only used on 
+clothing. 
+Forms suitable for indirect inhalation with warning: “Do not use in chronic lung conditions or asthma.” 
+As an essential oil. 
+In medicines for oral administration, a maximum of 0,3 % camphor will be permitted as a flavourant, and no claims for medicinal 
+activity may be made. 
+Concentration/Maximum 
+Dose: 
+In all forms: can be used by adults, adolescents, and children >2 years. 
+In solid or semisolid preparations: the concentration must not exceed 12,5 %. 
+In liquid preparations, other than essential oils: the concentration must not exceed 2,5 %. 
+In essential oil products: restricted flow inserts/closures must be fitted to the container when:  
+• 
+the concentration is greater than 2,5 % but less than or equal to 10 % and the nominal capacity of the container is 25 ml or 
+less; 
+• 
+the concentration is greater than 10 % and the nominal capacity of the container is 15 ml or less; or 
+• 
+the concentration is greater than 10 % and the nominal capacity of the container is greater than 15 ml but less than or equal 
+to 25 ml, in which case the container must also be fitted with a Child Resistant Closure. 
+Preparations intended for inhalation are limited to 7 % camphor. 
+Antitussive lozenges may contain up to 15 mg camphor per lozenge. 
+Exposure to camphor should not exceed 2 mg/kg body weight on a single day in any age group. 
+Claim: 
+Other than specified traditional uses in TCM, Unani and Ayurveda, the following health claims are permitted: 
+• 
+Temporary relief of mild nasal congestion 
+• 
+Temporary relief of chest congestion 
+• 
+Improves blood circulation in microvessels 
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 12 of 17 
+Back to ToC 
+Camphor 
+• 
+Decrease sensation of “heavy legs“ 
+For creams and ointments with 0,1 – 3,0 %: “Temporary relief of pain and itching associated with minor burns, sunburn, insect 
+bites and other minor skin irritations.” 
+For all topical preparations: “Temporary relief of muscular cramps and rheumatic pain.” 
+Cautions and Warnings: 
+Boxed warnings must be included for all camphor-containing products on all packs of topical applications including the words: 
+"WARNING: Contains CAMPHOR.  Harmful if swallowed.  For external use only.  Keep out of the reach of children." 
+Boxed warnings must be included for all camphor-containing products on all packs of medicines for oral administration, with a 
+maximum of 0,3 % camphor permitted as a flavourant only: 
+"WARNING: Contains CAMPHOR.  Use only as directed – excess quantities may be harmful if swallowed.  Keep out of the 
+reach of children." 
+General warnings for all camphor-containing products on labels: 
+Avoid use in pregnancy, epilepsy, and chronic lung conditions. 
+General warnings for all camphor-containing products on Patient Information Leaflets and Professional Information: 
+If accidental ingestion occurs, seek urgent medical attention, or contact a Poison Information Centre. 
+Do not use topically on broken, irritated, or sensitive skins.  
+Avoid direct contact with eyes, mucous membranes, genitals, and nose and mouth. 
+Avoid exposure of applied area to the sun. 
+Do not use with other products containing camphor, menthol, eucalyptol and/or eucalyptus essential oil. 
+ 
+ 
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 13 of 17 
+Back to ToC 
+Annex 4: CANNABIDIOL (CBD) 
+GUIDANCE FOR USE AS PART OF A COMPLEMENTARY MEDICINE 
+Cannabidiol 
+CBD 
+Cannabidiolum 
+ (−)-cannabidiol 
+2-[(1R,6R)-6-isopropenyl-3-metylcyclohex-2-en-
+1-yl]-5-pentylbenzene-1,3-diol (IUPAC) 
+General: The potential for drug interactions with cannabidiol exist and may become better known based on additional 
+evidence that may emerge.  The potential for such interactions at any dose of CBD are nonetheless of concern and 
+require professional oversight if co-administration is intended.  The use of CBD together with opioids and caffeine is 
+an emerging area of concern and their concomitant use should be avoided until more evidence on safety on their 
+combined use is available. 
+Accepted Sources: 
+Cannabis sativa L. 
+Product Names: 
+The total pack size should be reflected appropriately in such a manner that it would not be misconstrued for the 
+individual dose value or concentration.  As such, the total pack size is discouraged from being represented in the name 
+of the medicine and should rather refer to the strength of dose if used. 
+Use: 
+Duration of use: No longer than 3 months without advice from a relevant health care provider. 
+Not to be taken: 
+• 
+by children under the age of 18 years; or 
+• 
+during pregnancy or breastfeeding. 
+Health supplements:  preparations intended for oral use only. 
+Discipline-specific:  
+preparations for oral or topical use.  
+Concentration/Maximum Dose: 
+Health Supplements 
+Schedule 0 
+Permitted: 
+• 
+as a stand-alone health supplement (single substance formulation or in multiple substance formulations): 
+o Maximum Daily Dose: 20 mg cannabidiol; and  
+o No more than 600 mg cannabidiol per sales pack; or 
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 14 of 17 
+Back to ToC 
+Cannabidiol 
+• 
+when CBD is a natural constituent of Hemp Seed Protein and Hemp Seed Oil.  In such cases, refer to SAHPRA 
+Guideline 7.04 Annexures G and H for requirements related to these substances.  Fortification of such products is 
+not permitted (as per the schedule inscription only the natural quantity of cannabinoids is permitted). 
+Discipline-specific medicines 
+Permitted as part of a:  
+• 
+herbal preparation which naturally contains CBD used traditionally for specified indications in any of the stated 
+disciplines, where origin and use are to be justified with relevant literature as per Guideline 7.01; or 
+• 
+combination product where it is formulated with the herbal substance from which it arises, used traditionally in any 
+of the stated disciplines, origin and use to be justified with relevant literature as per Guideline 7.01, and the action 
+of the isolated constituent must be “essentially the same” (not significantly different) (See Guideline 7.01, 1.6.2) as 
+the action of the herbal substance. 
+Schedule 0 
+As per the Schedules published in terms of the Medicines Act, CBD will be a Schedule 0 substance when: 
+• 
+Low-risk indication(s) is (are) used;  
+• 
+THC content is lower than 0,001 %;  
+• 
+Maximum Daily Dose: 20 mg cannabidiol; and  
+• 
+No more than 600 mg cannabidiol per sales pack. 
+Schedule 4 
+As per the Schedules published in terms of the Medicines Act, CBD will be a Schedule 4 substance when: 
+• 
+High-risk indication(s) are used; 
+• 
+THC content is lower than 0,001 %; 
+• 
+providing more than 20 mg daily; or 
+• 
+pack size greater than 600 mg total CBD. 
+Accepted Low-Risk Claim: 
+Health Supplements 
+• 
+Contributes to nervous system health 
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 15 of 17 
+Back to ToC 
+Cannabidiol 
+• 
+Contributes to healthy sleep 
+• 
+An antioxidant 
+Discipline-specific medicines 
+Claims which can be substantiated by (a) traditional use or (b) traditional use and clinical evidence, related only to: 
+• 
+General health enhancement without any reference to specific diseases; 
+• 
+Health maintenance, or 
+• 
+Relief of minor symptoms (not related to a disease or disorder)  
+Precautions/Warnings: 
+Medicine Label 
+The statements: 
+• 
+All products containing CBD: 
+o “If symptoms persist or get worse, consult a relevant health care provider for advice.” 
+o “Adults only” or similar statement. 
+o “Do not take during pregnancy or breastfeeding.” 
+o “Do not drive or operate machinery until you know how CBD affects you.” 
+• 
+If schedule 0, the additional statements to those for all products: 
+o “Do not exceed maximum daily dose of 20 mg.” 
+o “May have side effects including drowsiness See enclosed leaflet for important use and safety information.” 
+• 
+If schedule 4, the additional statement to those for all products: 
+o “May cause light-headedness or drowsiness and/or worsen Parkinson’s disease.  See enclosed leaflet for 
+important use and safety information.” 
+Professional Information and Patient Information Leaflet 
+The statements: 
+• 
+All products containing CBD: 
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 16 of 17 
+Back to ToC 
+Cannabidiol 
+o “If symptoms persist or get worse, consult a relevant health care provider for advice.” 
+o “Do not take during pregnancy or breastfeeding.” 
+o “Oral preparations of cannabidiol (CBD) taken at doses more than 20 mg per day may worsen symptoms of 
+Parkinson’s disease.” 
+o “Taking CBD may cause light-headedness, dry mouth or drowsiness.  Do not drive or operate machinery until 
+you know how CBD affects you.” 
+o “The use of CBD together with opioids and caffeine should be avoided.” 
+• 
+If schedule 0 the additional statements to those for all products: 
+o “Do not exceed maximum daily dose of 20 mg.” 
+ProfessionaI Information 
+The additional statements: 
+• 
+“CBD may interact with numerous medicines.  
+o Taking CBD may (theoretically) cause additive effects when taking sedatives or anaesthetics enhancing the 
+effect of the sedatives beyond what is intended.  
+o CBD inhibits Cytochrome P450 (CYP) system in vitro. The effect of CBD in humans has not been fully 
+established. 
+o Co-administration of CYP3A4 inhibitors (e.g. ketoconazole, itraconazole, ritonavir or clarithromycin) or inducers 
+(e.g. rifampicin, carbamazepine, phenytoin, phenobarbital or St. John’s wort) may affect medication levels. 
+o Avoid use of CBD with clobazam, stiripentol or valproate.” 
+Patient Information Leaflet 
+The additional statement: 
+• 
+“CBD may interact with numerous medicines.  Consult your health care provider before starting CBD if you are 
+taking any other medicine, particularly antifungals, ARVs, antibiotics, TB medicines, anti-epileptic medicines and 
+herbal medicines.”  
+ 
+Registration of Medicines 
+Complementary Medicines - Guidance on Specified Substances 
+7.06_CMs_Specified_Substances_Jan22_v3_2 
+Page 17 of 17 
+Back to ToC 
+Following publication for comment, additional aspects have been raised which SAHPRA seeks comment on. Public comment is therefore invited to be submitted by 
+Table 4.1 only by 30 April 2022.  
+Table 4.1: Public comment sought on the proposed introductions to the guidance related to Cannabidiol when used in Complementary Medicines 
+Packaging: 
+The use of child-resistant closure for products with a concentration exceeding 20 % or a total pack dosage of 400 mg is 
+required. 
+Concentration/Maximum 
+Dose: 
+Health Supplements: 
+As a stand-alone health supplement (single substance formulation or in multiple substance formulations) a minimum 5 % 
+concentration is required. 
+ 
+

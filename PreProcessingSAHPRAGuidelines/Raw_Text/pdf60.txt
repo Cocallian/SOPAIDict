@@ -1,0 +1,782 @@
+SAHPGL-CEM-03_v8 
+Page 1 of 21
+ 
+ 
+ 
+23 May 2024 
+GUIDELINE FOR PATIENT INFORMATION LEAFLET FOR HUMAN 
+MEDICINES (CATEGORIES A AND D) 
+This guideline is intended to provide recommendations to applicants wishing to submit applications for the registration of Human 
+Medicines (categories A and D) containing specified substances.  With respect to Category D medicines, the guidance provided herein 
+is related to general content requirements. Any specific technical guidance indicated in Category D medicine guidelines should be 
+applied. In addition to this guideline, SAHPRA reserves the right to request any additional information to establish the safety, quality, 
+and efficacy of a medicine in keeping with the knowledge current at the time of evaluation.  SAHPRA is committed to ensure that all 
+registered medicines will be of the required quality, safety, and efficacy.  
+ 
+Guidelines and application forms are available from the office of the Chief Executive Officer and the website. 
+Document History 
+Final Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue and published for implementation 
+Published and released for implementation 
+May 2004 
+2 
+Review approved and issued for implementation 
+December 2012 
+3 
+Amendment of section 5 in line with Regulations published in 
+Government Notice R.860, GG37032 of 15 Nov 2013 
+December 2013 
+4 
+Implementation for new applications for registration 
+January 2014 
+5 
+Implementation for registered products and “Old Medicines”   
+February 2015 
+6 
+Revised publication released for comment  
+2.14 Guideline for Patient Information Leaflet for Human Medicines 
+(Categories A and D) 
+April 2019 
+7 
+- 
+Content structured on the latest SAHPRA Guideline Template 
+- 
+Old document number 2.14 changed to SAHPGL-CEM-03 
+September 2022 
+8 
+- 
+Implementation of new  ADR reporting details  
+May 2024 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-CEM-03_v8 
+Page 2 of 21
+Guideline for Patient Information Leaflet for Human Medicines (Categories A and D) 
+23 May 2024 
+ 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+GENERAL NOTES ........................................................................................................................................ 4 
+2.1 Format of submission for evaluation ........................................................................................................ 5 
+2.2 Language .................................................................................................................................................... 5 
+2.3 Reference document to be supplied ......................................................................................................... 5 
+2.4 Changes to approved PILs ......................................................................................................................... 5 
+2.5 Legibility of the PIL (Print size and type) ................................................................................................... 5 
+2.6 Syntax ........................................................................................................................................................ 5 
+3. 
+FORMAT OF THE PIL .................................................................................................................................. 6 
+3.1 Headings .................................................................................................................................................... 6 
+3.2 Content ...................................................................................................................................................... 6 
+3.3 Style ........................................................................................................................................................... 6 
+3.4 Product ranges........................................................................................................................................... 7 
+4. 
+MODEL PIL ................................................................................................................................................. 7 
+5. 
+REFERENCES............................................................................................................................................. 20 
+6. 
+VALIDITY .................................................................................................................................................. 20 
+ 
+ 
+ 
+SAHPGL-CEM-03_v8 
+Page 3 of 21
+ 
+ 
+Glossary 
+The table below the key abbreviations and terminology used in this document, including the reconciliation of 
+related terminology used by SAHPRA and EMA. 
+Abbreviation/ Term 
+Meaning 
+Amendments  
+Used interchangeably with the term ‘variations’  
+EMA  
+European Medicines Agency  
+MAH: Market 
+Authorisation Holder  
+Equivalent to HCR: Holder of the Certificate of Registration  
+Package Leaflet  
+Equivalent to PIL: Patient Information Leaflet  
+SAHPRA  
+South African Health Products Regulatory Authority  
+SmPC: Summary of 
+Product characteristics  
+Equivalent to PI: Professional Information  
+The Authority  
+Relevant regulatory authority, in this case  
+ 
+ 
+ 
+SAHPGL-CEM-03_v8 
+Page 4 of 21
+ 
+ 
+1. 
+INTRODUCTION 
+In terms of section 35(1)(ix) of the Medicines and Related Substances Act, 1965 (Act 101 of 1965, as amended) 
+(hereinafter ‘the Act’), the Minister of Health may, in consultation with SAHPRA, make regulations prescribing 
+the information that must be furnished regarding the use of any medicine or scheduled substance. 
+The General Regulations made in terms of the Medicines and Related Substances Act, 1965 (Act 101 of 1965), 
+require a Patient Informational Leaflet (PIL) to accompany each medicine (regulation 12). As such, the PI is 
+required by the Authority to be included in the application for the registration of a medicine (regulation 
+16(3)(g)). 
+The PIL sets out the agreed position of the medicine as determined as an outcome of the assessment process. 
+As such, the content cannot be changed except with the approval of the South African Health Products 
+Regulatory Authority (SAHPRA). 
+1.1 
+Purpose 
+This guideline is intended to provide information and guidance to applicants on the format and data 
+requirements of SAHPRA for the preparation and submission of PILs for evaluation.  This guideline is also 
+intended to provide information to applicants on the requirements regarding the legibility, format, and 
+content of the PIL for use by consumers, once approved.  
+The primary objective of this guideline is to ensure that the PIL is written in clear and intelligible terms for 
+the patient and is clearly legible.  Applicants are requested to follow the format stipulated in this guideline.   
+1.2 
+Scope 
+This guideline is intended to provide recommendations to applicants wishing to submit applications for the 
+registration of Human Medicines (categories A and D) containing specified substances.  With respect to 
+Category D medicines, the guidance provided herein is related to general content requirements. Any 
+specific technical guidance indicated in Category D medicine guidelines should be applied. In addition to 
+this guideline, SAHPRA reserves the right to request any additional information to establish the safety, 
+quality, and efficacy of a medicine in keeping with the knowledge current at the time of evaluation.  SAHPRA 
+is committed to ensure that all registered medicines will be of the required quality, safety and efficacy. 
+2. 
+GENERAL NOTES 
+The PIL is regarded as the document that ensures the safe and effective use of the medicine under most 
+circumstances. It presents a scientific, objective account of the medicine’s use and limitation as established 
+by the supporting evidence.  
+SAHPGL-CEM-03_v8 
+Page 5 of 21
+ 
+ 
+2.1 
+Format of submission for evaluation  
+PILs for evaluation should be typed using double line spacing.  The print quality of the PIL should be clear 
+so as to enable duplication at a later stage for inclusion into various documents, during the evaluation and 
+registration process.  The spelling and grammar in the text of the PIL should be checked thoroughly before 
+submission of the application.  
+2.2 
+Language  
+Although PILs should be submitted in English (United Kingdom) for evaluation purposes, it is currently a 
+regulatory requirement that a PIL should be made available to consumers in English and in at least one 
+other official language.  It is the responsibility of the applicant to ensure that a PIL, once approved, has been 
+appropriately translated and the translation validated, prior to being made available to consumers.  
+2.3 
+Reference document to be supplied  
+PILs are evaluated in accordance with the information provided in the proposed / approved scientific 
+Professional Information (PI).  An application to evaluate a PIL for a registered medicine would require that 
+the latest approved PI also be submitted.  For new medicine applications, the proposed PIL must be 
+submitted at the same time as the proposed PI.  In this case, the PIL will be evaluated in conjunction with 
+the proposed PI, for final approval by SAHPRA. 
+2.4 
+Changes to approved PILs 
+After registration of a medicine, the PIL may not be altered without the approval of SAHPRA.  When a 
+proposed / approved PI is submitted to SAHPRA for variations, a corresponding proposed PIL and previously 
+approved PIL must be submitted simultaneously.  
+Changes to the PIL should be indicated by single underlining for additions, strike through for deletions and 
+broken underlining for re-wording or for text that has been moved. Applicants may use the ‘Track Changes’ 
+functionality in MS Word to make these changes, provided that they comply with the formatting 
+requirements in the previous sentence above.  
+2.5 
+Legibility of the PIL (Print size and type) 
+The information appearing in the PIL to be provided to the consumer should be printed in English (United 
+Kingdom) and in at least one other official language and in a type size having a minimum legibility, as defined 
+in the General Regulations made in terms of the Act.  
+2.6 
+ Syntax  
+SAHPGL-CEM-03_v8 
+Page 6 of 21
+ 
+ 
+Lengthy sentences (i.e., more than 20 words) should be avoided.  Where appropriate, bullet points should 
+be used.  A group of bullet points should be introduced with a colon and a single full stop should be placed 
+at the end of the group.  A list of bullet points should begin with the uncommon and specific case and end 
+with the common or general case, unless this is inappropriate for the medicine. 
+For example: 
+Tell your doctor or pharmacist if you suffer from:  
+• 
+Tuberculosis of the lungs;  
+• 
+any allergies that affect your lungs; or  
+• 
+any chronic lung condition.  
+A minimum number of words should be used in the bullet points and not more than one sentence for each 
+bullet point.  There should preferably be no more than nine items where the bullet points are simple and 
+preferably no more than five when these are complex.  Abbreviations should be avoided.  Pronouns (e.g. 
+‘it’) should be used in preference to repeating the name of the medicine, provided the context clarifies 
+what the pronoun refers to. 
+3. 
+FORMAT OF THE PIL 
+3.1 
+Headings 
+Headings and sub-headings should be made conspicuous.  More than two levels of headings may impair 
+legibility. 
+3.2 
+Content 
+The information contained in the PIL must be in accordance with the PI for the medicine, but the text must 
+be phrased so that it is readily intelligible for the patient and address the patient or the caregiver.  Where 
+a specialised term is used, a lay terminology explanation should be given, or it should be in consumer 
+intelligible language.  Repetition of information can sometimes be avoided by cross-referring to information 
+that is under another heading.  Information not relevant to the patient should be omitted. 
+3.3 
+Style 
+An active and direct style should be used, by placing the verb at the beginning of the sentence, for example:  
+• 
+‘Take one (1) tablet’ instead of ‘1 tablet should be taken’,  
+• 
+‘You should…’ is better than ‘it is recommended…’  
+SAHPGL-CEM-03_v8 
+Page 7 of 21
+ 
+ 
+• 
+‘Give one (1) medicine measure...’  where a medicine is clearly indicated for children only. This 
+principle should be adapted as, for example, in the case of ‘If ... then’ instructions, such as:  ‘If you 
+feel ill, then tell your doctor or pharmacist’.  
+This guidance on style may not be appropriate in all languages, nor for all medicines (e.g. those which are 
+not self-administered).  
+Pictograms may be used as an additional measure if they make the message clearer to the patient but 
+should be without any element of a promotional nature.  
+3.4 
+Product ranges 
+There should be a separate PIL for different pharmaceutical forms (e.g. oral and injectable).  
+In the event of a medicine falling in two different schedules, a separate PI and PIL should be submitted for 
+each schedule (also refer to the 2.36 Scheduling of Medicines Guideline). 
+4. 
+MODEL PIL 
+This section contains a model template for developing a PIL.  Applicants are requested to follow the format 
+stipulated in this section.   
+Explanatory notes  
+The template contains headings and text, which should be used together with examples of text formulated in 
+consumer-intelligible language. 
+For the purpose of applying this model PIL template, the following conventions are used:  
+• 
+bold type for the headings.  
+• 
+normal type for text which is either mandatory or usually relevant and is not a heading;  
+• 
+possible options which applicants should adapt e.g. for the relevant pharmaceutical dosage form, 
+route of administration or population for which the medicine is intended; 
+• 
+text included [in italics] are explanatory notes.  When these notes are taken out of the model PIL 
+template, all relevant and mandatory text will remain; and  
+• 
+{text} refers to information which must be filled in.  
+For certain medicines, the headings may not all be relevant.  In such instances, the corresponding headings 
+should be omitted.  If a heading is omitted, a justification for this should be provided in the cover letter.   
+Throughout the text, “[PRODUCT NAME]” indicates the (invented) name of the medicine.  
+SAHPGL-CEM-03_v8 
+Page 8 of 21
+ 
+ 
+PATIENT INFORMATION LEAFLET 
+SCHEDULING STATUS: [SX] 
+[The Scheduling status of the medicine as it appears in the PI]  
+{[PRODUCT NAME] strength pharmaceutical form} 
+{Active substance(s)} 
+{Sugar / sweetener status} 
+[The (invented) name of the medicine (referred to as [PRODUCT NAME] throughout the PIL, wherever 
+practical) followed by strength and pharmaceutical form (i.e. as it appears in section 1 of the PI) should be 
+stated here in bold.  This should be followed by the active substance), which may be written on the line below.  
+In the remainder of the document the (invented) name should appear without bold or underline.]  
+[For oral and parenteral administration of a medicine which contains sugar, provide the status as per 
+Regulation 12 of the General Regulations made in terms of the Act (i.e. “Contains sugar” and the name and 
+quantity of the sugar or “Sugar free”). For oral administration of a medicine which contains sweetener, 
+provide the name and quantity of sweetener other than sugar, along with the statement “contains 
+sweetener”.]  
+[In the case of a complementary medicine the following shall be included:  
+• 
+the words “Complementary Medicine”;  
+• 
+a statement identifying the discipline or the wording “Health Supplement”, as the case may be;  
+• 
+which is not registered by the Authority, the following disclaimer: “This unregistered medicine 
+has not been evaluated by the SAHPRA for its quality, safety or intended use.”; and  
+• 
+containing at least 5 percent of genetically modified organisms, the identification of the affected 
+ingredients) and the following warning “contains genetically modified organisms”.]   
+[For medicines available only on prescription]  
+Read all of this leaflet carefully before you start <taking> <using> <are given> [PRODUCT NAME]  
+• 
+Keep this leaflet.  You may need to read it again.  
+• 
+If you have further questions, please ask your doctor, pharmacist, nurse, or other health care 
+provider.  
+• 
+[PRODUCT NAME] has been prescribed for you personally and you should not share your 
+SAHPGL-CEM-03_v8 
+Page 9 of 21
+ 
+ 
+medicine with other people.  It may harm them, even if their symptoms are the same as yours.  
+[May be omitted if the medicine is not self-administered].  
+[For medicines available without a prescription]  
+Read all of this leaflet carefully because it contains important information for you  
+[PRODUCT NAME] is available without a doctor’s prescription, for you to <treat a mild illness><maintain 
+your health>.  Nevertheless, you still need to use [PRODUCT NAME] carefully to get the best results from it. 
+[“maintain your health” is an example of wording that may ONLY be used for low risk Complementary 
+Medicines, such as health supplements.]  
+• 
+Keep this leaflet.  You may need to read it again.  
+• 
+Do not share [PRODUCT NAME] with any other person.  
+• 
+Ask your health care provider or pharmacist if you need more information or advice.  
+• 
+You must see a doctor if your symptoms worsen or do not improve after {insert number} days. 
+[This last bullet may be omitted for low risk Category D medicines where the indication is not 
+related to the treatment of any illness / symptoms.]  
+What is in this leaflet  
+[The content listing would normally reflect the six main sections of the leaflet]   
+1. 
+What [PRODUCT NAME] is and what it is used for  
+2. 
+What you need to know before you <take> <use> [PRODUCT NAME]  
+3. 
+How to <take> <use> [PRODUCT NAME]  
+4. 
+Possible side effects  
+5. 
+How to store [PRODUCT NAME]  
+6. 
+Contents of the pack and other information  
+1. What [PRODUCT NAME] is and what it is used for 
+[The pharmacotherapeutic group or type of activity should be stated here using language intelligible to 
+the patient, followed by a brief description of the indications for use of the medicine, as accepted by 
+SAHPRA].  
+2. What you need to know before you <take><use>[PRODUCT NAME]  
+Do not <take><use> [PRODUCT NAME] ><  [PRODUCT NAME] should not be administered to you <:> 
+• 
+if you are hypersensitive (allergic) to {insert name of the active substance} or any of the other 
+ingredients of [PRODUCT NAME] (listed in section 6).  [Include reference to residues, excipients, 
+SAHPGL-CEM-03_v8 
+Page 10 of 21
+ 
+ 
+etc. if applicable]  
+• 
+if you…  
+[Absolute contraindications:  
+Information on absolute contraindications, in accordance with the PI, should be provided here in patient-
+intelligible language.  This should include chronic accompanying diseases (e.g. kidney insufficiency, liver 
+insufficiency, diabetes, and other metabolic diseases), contraindications due to interactions with other 
+medicines, contraindications due to excipients and specified conditions for certain categories of users, 
+e.g. children or the elderly.]  
+[Care must be taken to ensure that complex details are not omitted.  It is not acceptable to state only the 
+common or major contraindications.  Belief that a patient cannot understand a contraindication is not a 
+reason for omitting it.]  
+Warnings and precautions  
+Tell your doctor or health care provider before being given the injection:  
+Take special care / Special care should be taken with [PRODUCT NAME]:  
+• 
+if you ...  
+• 
+when…. 
+[Information, in patient-understandable language in line with section 4.4 of the PI.  Care must be taken 
+to ensure that complex details are not omitted and that they are expressed in a way that consumers can 
+understand.  It is not acceptable to include only the more common or major special warnings and 
+precautions.]  
+[A special precaution should be presented as implying the action a patient should take, rather than as 
+factual information that describes a medical condition.  The influence of the medicine on the patient’s 
+behaviour should be described.  A differentiation should be made between the influence on cognitive 
+abilities, reactivity, and judgment.]  
+[Examples:]  
+• 
+If you have asthma (or used to), because [PRODUCT NAME] can bring on an attack  
+• 
+If you are over 65…  
+• 
+If [PRODUCT NAME] is given to children…  
+• 
+… because [PRODUCT NAME] may make you sleepy  
+SAHPGL-CEM-03_v8 
+Page 11 of 21
+ 
+ 
+[Also describe cases (if any) in which the consumer should only use the medicine after consultation with 
+a medical practitioner.  Include (as appropriate and if not mentioned in the previous section) reference to 
+chronic accompanying diseases (renal insufficiency, liver insufficiency, diabetes, and other metabolic 
+diseases).]  
+[Where applicable, provide information on necessary examinations, which may be carried out by the 
+medical practitioner prior to, or during, the therapy, for example tests carried out in order to exclude 
+contraindications.  Provide information (if there is any) about important symptoms which may be masked 
+by the medicine or if the medicine influences laboratory values.  If relevant, reference should be made 
+here to possibilities for intolerance to various materials (e.g. disposable plastic syringes), which must be 
+used as part of the medicine.]  
+[Refer to the need for the avoidance of external influences, such as sunlight after the use of phototoxic 
+medicines.  Other warnings concerning for example other diseases and the influence of the medicine on 
+behaviour should be described.  Statements should also include for example, reference to discolorations 
+of underwear as a result of changes in the colour of urine and stool.]  
+[In case of anaesthetic medicines or medicines used for conscious sedation, include a statement explaining 
+that interference with daily activities may continue for up to 24 hours and no legal / contractual decisions 
+should be entered into for 24 hours after receiving anaesthetic / conscious sedation.]  
+[If relevant, include whether the medicine may lead to a positive test for a prohibited substance in 
+competitive sport activities.]  
+[Include whether the medicine may affect the performance of child and adult learning in schools and 
+other institutions of education, learning and training.]  
+Children <and adolescents>  
+[When the medicine is indicated in children, the warnings and precautions which are specific to this 
+population (and identified as such in section 4.4 of the PI) should be included under this sub-heading.  
+Where relevant, parents / caregivers should also be alerted in this section of potential children / teenager 
+specific warnings included under “driving and using machines”.]  
+[If there is no indication in some or all subsets of the paediatric population, information should reflect the 
+paediatric subsection of section 4.2 of the PI, e.g. “Do not give [PRODUCT NAME] to children between 
+the ages of x and y <years> <months> because <of the risk of […]> <it does not work> <the potential 
+SAHPGL-CEM-03_v8 
+Page 12 of 21
+ 
+ 
+benefits are not greater than the risks>, <it is unlikely to be safe>”.]  
+Other medicines and [PRODUCT NAME]   
+[The following statement must be included:]  
+Always tell your health care provider if you are taking any other medicine.  (This includes all 
+complementary or traditional medicines.)  
+[Describe the effects of other medicines on the medicine in question and vice versa.  Reference should be 
+made to the intensification / weakening and the prolonging / shortening of effects.  This information 
+should be in line with the Interactions as in the PI.] 
+[PRODUCT NAME] with< food><and><,><drink><and><alcohol>  
+[Interactions not related to medicines should be mentioned here if reference is made in section 4.5 of the 
+PI.  For example, patients should not consume milk in combination with tetracyclines and no alcohol 
+should be consumed during treatment with benzodiazepines and other central nervous system 
+depressants. This section should not be used to tell patients whether or not their medicine should be taken 
+before, during or after meals as this should only be addressed in section 3 (below), but a cross-reference 
+to section 3 can be included.]  
+Pregnancy<and ><,>breastfeeding<and fertility>             
+[Include information given in the PI, in patient-understandable language.  The following additional 
+statement must be included:]  
+If you are pregnant or breastfeeding, think you may be pregnant or are planning to have a baby, please 
+consult your doctor, pharmacist, or other health care provider for advice before taking this medicine.  
+Driving and using machines  
+[Include whether the medicine may affect mental and / or physical abilities to perform or execute tasks 
+or activities requiring mental alertness, judgment and / or sound coordination and vision e.g. driving, 
+riding, flying, sailing, operating machines / equipment.]  
+It is not always possible to predict to what extent [PRODUCT NAME] may interfere with the daily activities 
+of a patient.  Patients should ensure that they do not engage in the above activities until they are aware 
+SAHPGL-CEM-03_v8 
+Page 13 of 21
+ 
+ 
+of the measure to which [PRODUCT NAME] affects them.  
+<[PRODUCT NAME] contains {name the excipient(s)}>  
+[If appropriate, include warnings of those excipients knowledge of which is important for the safe and 
+effective use of the medicine.  Information on intolerances to excipients (e.g. lactose monohydrate), 
+including alcohol should be provided].  
+3. How to <take><use>[PRODUCT NAME] 
+Do not share medicines prescribed for you with any other person.  
+[The following statements should be included, where applicable:]  
+[For medicines available on prescription only:]   
+<Always <take> <use> [PRODUCT NAME] exactly as your doctor <or pharmacist> has told you. Check with 
+your <doctor> <or> <pharmacist> if you are not sure.>  
+  
+[For medicines available without prescription:]  
+<Always <take> <use> [PRODUCT NAME] exactly as described in this leaflet or as your <doctor> <,> <or> 
+<pharmacist> <or nurse> <has> <have> told you. Check with your <doctor> <or> <,> <pharmacist> <or 
+nurse> if you are not sure.>  
+ The usual dose is...  
+[For medicines available only with a prescription, a statement such as the following should be included 
+on the usual duration of the therapy:]  
+Your doctor will tell you how long your treatment with [PRODUCT NAME] will last.  Do not stop treatment 
+early because … If you have the impression that the effect of [PRODUCT NAME] is too strong or too weak, 
+tell your doctor or pharmacist.  
+[For medicines available without prescription:  
+In particular, and if at all possible, for medicines available without a prescription, precise statements 
+should be included on the usual duration of the therapy, the maximum duration of the therapy and 
+intervals with no treatment, together with clear guidance on when to consult a doctor.]  
+[The instructions for proper use and the intended dosage ranges (individual and daily doses separately), 
+SAHPGL-CEM-03_v8 
+Page 14 of 21
+ 
+ 
+as well as the maximum daily dose, the frequency, method, route of administration and the duration of 
+treatment, should be stated if relevant.  In addition, it may be necessary to explain the route of 
+administration in consumer-intelligible language.]  
+[Instructions should:  
+• 
+be used to tell consumers what to do.  They should not be used to justify or explain an action  
+• 
+be described in a practical manner  
+• 
+tell consumers how to use the medicine properly  
+• 
+be positive rather than negative, whenever possible.  Negative instructions should only be used 
+when the consumer should avoid specific actions  
+• 
+be given as separate instructions when the consumer is to carry out two separate actions.   
+• 
+Separate actions should not be compressed into a single sentence  
+• 
+be numbered and put into the exact order that the consumer should follow  
+• 
+usually be intelligible without explanations, so as not to overburden consumers with information.]  
+[Explanations should be used to expand on the reasons for instructions and not to give further 
+information.  Instructions may be presented in italics or other type with explanations in plain type, so as 
+to give consumers a guide as to the significance of the information.]  
+[When applicable, there should be descriptions (with illustrations if useful) of opening techniques for child-
+resistant containers and other containers to be opened in an unusual manner.]  
+[Some examples of statements that may be included here:]  
+• 
+Take the tablets with a sufficient quantity of liquid (e.g. one glass of water)  
+• 
+…one or two tablets (500 to 1 000 mg of paracetamol) three times a day, this means a daily 
+maximum of six tablets (3 000 mg of paracetamol)  
+• 
+in the morning, at lunchtime, immediately before meals, with food, after food  
+• 
+Do not swallow  
+• 
+Do not chew  
+• 
+Shake well before use  
+• 
+Dissolve the effervescent tablet in one glass of water.  Then drink the contents of the whole glass  
+• 
+Take [PRODUCT NAME] once a day, every day, at about the same time each day  
+• 
+Taking your tablets at the same time each day will have the best effect on your blood pressure.  
+It will also help you remember when to take the tablets  
+• 
+Allow to reach room temperature before using (e.g. insulins)  
+SAHPGL-CEM-03_v8 
+Page 15 of 21
+ 
+ 
+[For medicines not self-administered]  
+[The route of administration should be included] [Include]  
+You will not be expected to give yourself [PRODUCT NAME].  It will be given to you by a person who is 
+qualified to do so.  
+[Where applicable, include a cross-reference to Section 6 for any reconstitution instructions]  
+<If you<take>more [PRODUCT NAME] than you should>  
+[Description of signs and symptoms of overdosage that the patient is able to recognise and actions to be 
+taken.]  
+[The following statement must be included:]  
+In the event of overdosage, consult your doctor or pharmacist.  If neither is available, contact the nearest 
+hospital or poison centre.  
+[For medicines not self-administered]   
+[The following may be acceptable:]  
+Since a health care provider will administer [PRODUCT NAME], he / she will control the dosage.  However, 
+in the event of overdosage your doctor will manage the overdosage.  
+<If you forget to<take><use>[PRODUCT NAME]>  
+[Provide clear explanations of what should be done following irregular use of the medicine, e.g.:]  
+Do not take / receive a double dose to make up for forgotten individual doses.  
+[For medicines not self-administered]   
+[The following may be acceptable:]  
+Since a health care provider will administer [PRODUCT NAME], it is unlikely that the dose will be missed.  
+<If you stop<taking>using>[PRODUCT NAME]>   
+ 
+[Indicate any effects of interruption or ending treatment early, if applicable.  Indicate withdrawal effects 
+SAHPGL-CEM-03_v8 
+Page 16 of 21
+ 
+ 
+when the treatment ends, if applicable]  
+4. Possible side effects 
+[A description of the side effects should be provided.  Begin this section with:]  
+[PRODUCT NAME] can have side effects.  
+[The following statement must be included:]  
+Not all side effects reported for [PRODUCT NAME] are included in this leaflet.  Should your general health 
+worsen or if you experience any untoward effects while taking [PRODUCT NAME], please consult your 
+health care provider for advice.  
+[Describe, if necessary, the actions to be taken.  If the patient needs to seek help urgently use the term 
+‘immediately’; for less urgent conditions use the phrase ‘as soon as possible’.]  
+[The information given on side effects should be in accordance with the PI.  Side effects should be 
+subdivided according to seriousness and frequency, or according to symptom type.  Wherever possible, 
+for all side effects the frequency with which they occur must be mentioned to allow patients to know the 
+risk.  Irrespective of their frequency, very serious, side effects of the medicine should be mentioned first 
+or specially emphasised.  This applies in particular to side effects where there is an urgent need to take 
+action.]  
+[The risk (frequency) of side effects may be presented using the terms “frequent” or “less frequent” if the 
+information is available in the corresponding PI.  Descriptors such as “common”, “rare”, etc. should not 
+be used.]  
+[The risk (frequency) of side effects may be presented using the terms very common (≥1/10); common 
+(≥1/100 to <1/10); uncommon (≥1/1 000 to <1/100); rare (≥1/10 000 to <1/1 000); very rare (<1/10 000) 
+if the information is available in the corresponding PI. 
+For a MSM PI without its own clinical trial data, ADRs should be categorised according to the frequency 
+classification: ‘Frequent’ and ‘Less frequent’ if the information is available in the corresponding PI]  
+[The following is an example of side effects grouped according to seriousness:]  
+If any of the following happens, stop taking / using [PRODUCT NAME] and tell your doctor immediately 
+or go to the casualty department at your nearest hospital: 
+SAHPGL-CEM-03_v8 
+Page 17 of 21
+ 
+ 
+• 
+‘swelling of the hands, feet, ankles, face, lips and mouth or throat, which may cause difficulty in 
+swallowing or breathing’,  
+• 
+‘rash or itching’,  
+• 
+‘fainting’  
+These are all very serious side effects.  If you have them, you may have had a serious reaction to 
+[PRODUCT NAME].  You may need urgent medical attention or hospitalisation.  
+Tell your doctor immediately or go to the casualty department at your nearest hospital if you notice any 
+of the following:  
+• 
+chest pain,  
+• 
+angina,  
+• 
+changes in the way your heart beats, for example, if you notice it beating faster,  
+• 
+difficulty breathing,  
+• 
+signs of recurrent infections such as fever or sore throat,  
+• 
+less urine than is normal for you,  
+• 
+yellowing of the skin and eyes, dark urine, and tiredness which may be symptoms of liver 
+problems  
+These are all serious side effects.  You may need urgent medical attention.   
+Tell your doctor if you notice any of the following:  
+Common/Frequent side effects:  
+• 
+nausea (feeling sick),  
+• 
+abdominal cramps or stomach pains,  
+• 
+headache,  
+• 
+dizziness,  
+• 
+tiredness,  
+• 
+light-headedness,  
+Uncommon/Less frequent side effects:  
+• 
+dry cough,  
+• 
+muscle cramps,  
+• 
+flatulence or wind,  
+• 
+diarrhoea,  
+SAHPGL-CEM-03_v8 
+Page 18 of 21
+ 
+ 
+• 
+loss of appetite.  
+[Close this section with:]  
+If you notice any side effects not mentioned in this leaflet, please inform your doctor or pharmacist.  
+Reporting of side effects  
+If you get side effects, talk to your <doctor><or><,><pharmacist><or nurse>.  You can also report side 
+effects to SAHPRA via the   Med Safety APP (Medsafety X SAHPRA) and eReporting platform (who-
+umc.org) found on SAHPRA website. By reporting side effects, you can help provide more information on 
+the safety of [PRODUCT NAME].  
+[Applicants may opt to include additional, dedicated contact details for the reporting of side effects 
+directly to the HCR]  
+5. How to store [PRODUCT NAME] 
+[The following statement must be included in this section:]  
+Store all medicines out of reach of children.  
+[Where applicable, the following statements may be included:]  
+[Storage conditions have to concur with those approved in the PI]  
+• 
+Store at or below X °C [Explain ideal storage environment]  
+• 
+Store at or between 2 °C – 8 °C (in a refrigerator)  
+• 
+Store in a freezer  
+• 
+Do not refrigerate / freeze [as appropriate]  
+• 
+Store in the original package / container  
+• 
+Keep the container in the outer carton  
+• 
+Keep the container tightly closed  
+• 
+There are no special storage instructions for [PRODUCT NAME]   
+[An additional short explanation of the storage conditions, in patient-friendly terms, should be included 
+when appropriate, e.g.:]   
+ 
+• 
+Protect from light / moisture 
+• 
+Do not store in a bathroom  
+• 
+Do not use after the expiry date stated on the label / carton / bottle  
+[Where applicable, shelf life after reconstitution, dilution or after first opening the container should be 
+SAHPGL-CEM-03_v8 
+Page 19 of 21
+ 
+ 
+indicated]  
+[Where appropriate, include a warning against any visible signs of deterioration]   
+Do not use [PRODUCT NAME] if you notice {provide description of the visible signs of deterioration}   
+[Information on how to dispose of unused medicine, e.g.:]  
+Return all unused medicine to your pharmacist.  
+Do not dispose of unused medicine in drains or sewerage systems (e.g. toilets).  
+6. Contents of the pack and other information  
+What [PRODUCT NAME] contains: 
+[Include a full statement of the active substance(s) and excipient(s)]  
+[The active substance(s) (expressed qualitatively and quantitatively) and the other ingredients (expressed 
+qualitatively) should be identified using their names as given in the PI and in the language of the text:  
+e.g.]  
+• 
+The active substance is…  
+• 
+The other ingredients are… [This should be in lower case, except at the start of a sentence and 
+when it is a registered invented name e.g. Colourant®.  If a preservative or alcohol (2 % or more) 
+is present, the content of each must be indicated as required for the PI]   
+[Include any other excipient-related information requirements stipulated by the General Regulations 
+made in terms of the Act.]  
+[In instances where the patient may need to reconstitute the medicine, include instructions here along 
+with a cross-reference from Section 3.]  
+[Note: For products where higher concentrations of alcohol are required, (e.g. Complementary medicines, 
+including homeopathic preparations and plant extracts, or where solubility or preservation might be 
+problematic), exemption from ethanol concentration limits will be considered individually, provided that 
+justification and motivation is submitted together with proof that the proposed dosage will not result in 
+blood alcohol levels of 25 mg/dl or higher.]  
+What [PRODUCT NAME] looks like and contents of the pack  
+SAHPGL-CEM-03_v8 
+Page 20 of 21
+ 
+ 
+[A physical description, e.g. shape, colour, texture, imprint, etc., of the dosage form should be included 
+here in accordance with the PI.]  
+[In accordance with information provided in the PI, include the pharmaceutical form, the number, volume 
+or mass per package unit, pack size and a description of the packaging material, e.g. bottle, blister pack, 
+etc.]  
+Holder of Certificate of Registration  
+[Holder of Certificate of Registration:  As in the PI, section 7]  
+This leaflet was last revised in  
+[As in the PI]  
+<Registration ><Application number>  
+[Registration number of the medicine allocated in terms of section 15(5) of the Act or, in the case of 
+unregistered medicines permitted continued rights of sale, the application number allocated by the 
+Authority followed by the expression “Act 101/1965” as may be applicable.]  
+  
+<Access to the corresponding Professional Information>  
+[If the corresponding PI will only be available electronically, provide the URL and all contact details (incl. 
+telephone number(s)) of the agent / HCR from which the PI may be obtained. This requirement is 
+stipulated by regulation 12(2)(p).  
+ Note: Where the PI is not contained in the packaging of a medicine, the HCR must include information as 
+to where it may be obtained, regardless of whether or not SAHPRA itself has made the PI publicly available 
+in an electronic format]. 
+ 
+5. 
+REFERENCES 
+ 
+Regulations published in Government Notice R.860, GG37032 of 15 Nov 2013.  
+6. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces a guideline for 
+Patient Information Leaflet for Human Medicines, old document number 2.14. It will be reviewed on this 
+SAHPGL-CEM-03_v8 
+Page 21 of 21
+ 
+ 
+timeframe or as and when required. 
+

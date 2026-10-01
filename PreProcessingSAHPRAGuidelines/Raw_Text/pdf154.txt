@@ -1,0 +1,4127 @@
+SA GCP 2020 1 
+ 
+South African  
+Good Clinical Practice: 
+Clinical Trial Guidelines 
+ 
+Third edition 
+Suggested citation: Department of Health, 2020. South African Good Clinical 
+Practice: Clinical Trial Guidelines  
+Pretoria, South Africa 
+2 
+SA GCP 2020  
+ 
+PREAMBLE 
+The South African Good Clinical Practice: Clinical Trial Guidelines promote good practice in 
+the conduct of clinical trials in South Africa. Compliance with these guidelines is mandated 
+by Section 90(s) and 72(6)(c) of the National Health Act, Act No. 61 of 2003 as well as 
+Regulation 30 of the Medicines and Related Substances Act, Act No. 101 of 1965, as well as 
+the national research ethics guidelines: Ethics in Health Research: Principles, Processes and 
+Structures Department of Health 2015 (or its successor).   
+This is the third edition of the South African Guidelines for Good Practice in the Conduct of 
+Clinical Trials involving human participants (referred to as SA GCP 2020), which supersedes 
+the Guidelines published in 2006. The revision of the Guidelines was done in collaboration by 
+representatives from the Department of Health, the South African Health Product Regulatory 
+Authority (SAHPRA) and the National Health Research Ethics Council (NHREC).  
+The Guidelines address investigators, research ethics committees, pharmaceutical 
+manufacturers and other sponsors of research, medicines regulatory authorities, trial 
+participants, the general public and all persons with an interest in clinical trials research in 
+South Africa.  
+The Guidelines have been carefully revised to align with the Department of Health Ethics in 
+Health Research Guidelines 2nd edition 2015 (DoH 2015). It is important for users to 
+familiarise themselves with the clear alignment between DoH 2015 and SA GCP 2020 so that 
+they design, plan, manage and conduct their clinical trials in accordance with the ethical 
+principles and values that underpin their practical application to clinical trials.  
+The updated Guidelines encourage improved more efficient approaches to clinical trial 
+design, conduct, oversight, recording and reporting, to ensure continued adherence to the 
+highest ethical and scientific standards to promote protection of participants as well as 
+validity of trial results. 
+The Guidelines apply to both academic and contract clinical research, and are intended to 
+apply to all stages of health product development - both before and after product 
+registration and marketing. The Guidelines apply, in whole or in part, to biomedical research 
+in general. Further, they provide a resource for journal editors to assist with determining 
+acceptability of reported research for publication and, specifically, of any study that could 
+influence the use of or the terms of registration of the pharmaceutical product concerned. In 
+addition, the Guidelines are an educational tool for everyone who engages in biomedical 
+research, especially every newly trained clinician. 
+ 
+ 
+DR ZWELINI MKHIZE 
+MINISTER OF HEALTH 
+SA GCP 2020 3 
+ 
+ACKNOWLEDGEMENTS 
+ 
+The editorial team relied on their experience and knowledge, on experts' advice sought 
+through consultation with industry, academic research ethics committees and various other 
+interested parties, available literature, various country experiences, and internationally 
+accepted standards and guidelines.  
+I express my sincere gratitude to all those who contributed to the revision of these 
+guidelines, in particular the following: Mrs Portia Nkambule (Chief Regulatory Officer, 
+SAHPRA), Dr Dorah Diale,  Ms Kedibone Malatji and the GCP Task Team which comprised of 
+the following: Prof Lesley Burgess, Prof Paul Ruff and Dr Ngokoana Khomo (SAHPRA Clinical 
+Trials Committee), and Dr Mamello Sekhoacha and Prof Anne Pope (NHREC). 
+I further sincerely thank all individuals and groups who reviewed and provided comments 
+and inputs to the revision process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+SA GCP 2020  
+ 
+CONTENTS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page no. 
+PREAMBLE   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ACKNOWLEDGEMENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ACRONYMS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+1. 
+INTRODUCTION  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+1.1 
+Purpose of the guidelines 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+1.2 
+Scope of the guidelines 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+1.3 
+Legal Status of the guidelines 
+ 
+ 
+ 
+ 
+          10 
+2. 
+KEY CONCEPTS IN CLINICAL TRIALS  
+ 
+ 
+ 
+ 
+11 
+2.1 
+Ethical Principles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+2.2 
+Justification for Trial  
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+2.3 
+Risk, Burdens and Benefits 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+2.4 
+Rights and Safety of Participants 
+ 
+ 
+ 
+ 
+ 
+12 
+2.5 
+Informed Consent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+2.6 
+Ethics Review  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+2.7 
+Trial Incentives and Participant Reimbursement 
+ 
+ 
+ 
+13 
+2.8 
+Scientific requirements for research protocols 
+ 
+ 
+ 
+14 
+2.9 
+Data management and dissemination of research results 
+ 
+ 
+14 
+3. 
+MANAGING RECRUITMENT OF VULNERABLE PARTICIPANTS  
+15 
+3.1 
+Factors contributing to Vulnerability  
+ 
+ 
+ 
+ 
+15 
+3.2 
+Minors  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+3.3 
+Adults with factual incapacity to provide informed consent  
+ 
+16 
+3.4 
+Persons in dependent relationships or comparable situations 
+ 
+16 
+4. 
+REGULATORY AUTHORITIES’ ROLES AND RESPONSIBILITIES  
+17 
+4.1 
+National Health Research Ethics Council (NHREC) 
+ 
+ 
+ 
+17 
+4.2 
+The South African Health Products Regulatory Authority (SAHPRA)  
+17 
+4.3 
+Research Ethics Committees (RECs)  
+ 
+ 
+ 
+ 
+17 
+4.4 
+South African National Clinical Trials Register (SANCTR) 
+ 
+ 
+19 
+4.5 
+National Health Research Committee (NHRC) 
+ 
+ 
+ 
+19 
+4.6 
+Provincial Health Research Committees (PHRC) 
+ 
+ 
+ 
+19 
+5. 
+INVESTIGATOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+5.1 
+Categories of Investigator 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+5.2  
+Investigator Qualifications and Agreements  
+ 
+ 
+ 
+21 
+5.3 
+Adequate resources  
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+5.4 
+Medical care of trial participants 
+ 
+ 
+ 
+ 
+ 
+21 
+5.5 
+Communication with REC and/or SAHPRA 
+ 
+ 
+ 
+ 
+22 
+5.6 
+Compliance with the protocol  
+ 
+ 
+ 
+ 
+ 
+22 
+5.7 
+Investigational Product(s) 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+5.8 
+Randomization Procedures and Unblinding  
+ 
+ 
+ 
+23 
+5.9 
+Informed Consent for Clinical Trial Participants 
+ 
+ 
+ 
+24 
+SA GCP 2020 5 
+ 
+5.10 
+Records and Reports  
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 
+5.11 
+Progress Reports 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27 
+5.12 
+Safety Reporting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+5.13 
+Premature Termination or Suspension of a Clinical Trial 
+ 
+ 
+ 28 
+5.14 
+Final Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29 
+6. 
+SPONSOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 
+6.1 
+Quality Management and Control 
+ 
+ 
+ 
+ 
+ 
+ 30 
+6.2 
+Responsibilities of the Sponsor 
+ 
+ 
+ 
+ 
+ 
+ 31 
+6.3 
+Contract Research Organization (CRO) 
+ 
+ 
+ 
+ 
+ 33 
+6.4 
+Trial Management, Data Handling and Record Keeping 
+ 
+ 
+ 34 
+6.5 
+Information on Investigational Product(s) 
+ 
+ 
+ 
+ 
+ 35 
+6.6 
+Manufacturing, Packaging, Labelling and Coding Investigational Product(s) 35 
+6.7 
+Supplying, Handling Investigational Product and Waste 
+ 
+ 
+ 36 
+6.8 
+Record Access  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36 
+6.9 
+Safety Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37 
+6.10 
+Adverse Drug Reaction Reporting 
+ 
+ 
+ 
+ 
+ 
+ 37 
+6.11 
+Monitoring 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37 
+6.12 
+Audits  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40 
+6.13 
+Procedures to Manage Non-compliance 
+ 
+ 
+ 
+ 
+ 41 
+6.14 
+Premature Termination or Suspension of a Trial 
+ 
+ 
+ 
+ 42 
+6.15 
+Reporting and Release of Trial Results 
+ 
+ 
+ 
+ 
+ 42 
+6.16 
+Publication of Trial Results 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42 
+7. 
+CLINICAL TRIAL PROTOCOL AND PROTOCOL AMENDMENTS  
+ 43 
+7.1 
+General Information  
+ 
+ 
+ 
+ 
+ 
+ 
+ 43 
+7.2 
+Protocol Background Information 
+ 
+ 
+ 
+ 
+ 
+ 43 
+7.3 
+Study Rationale and Motivation 
+ 
+ 
+ 
+ 
+ 
+ 43 
+7.4 
+Trial Objectives and Purpose  
+ 
+ 
+ 
+ 
+ 
+ 44 
+7.5 
+Trial Design 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 44 
+7.6 
+Selection of Trial Participants and Withdrawal from Trial Intervention 
+ 45 
+7.7 
+Investigational Product, Comparator and Concomitant Medication    
+ 46 
+7.8 
+Assessment of efficacy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 46 
+7.9 
+Assessment of safety  
+ 
+ 
+ 
+ 
+ 
+ 
+ 46 
+7.10 
+Statistics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 46 
+7.11 
+Direct access to source data/documents 
+ 
+ 
+ 
+ 
+ 47 
+7.12 
+Ethical Considerations  
+ 
+ 
+ 
+ 
+ 
+ 
+ 47 
+7.13 
+Data Handling and Records Keeping  
+ 
+ 
+ 
+ 
+ 47 
+7.14 
+Financing and Insurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 47 
+7.15 
+Publication Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 47 
+7.16 
+Supplements to the Protocol  
+ 
+ 
+ 
+ 
+ 
+ 48 
+8. 
+INVESTIGATOR’S BROCHURE  
+ 
+ 
+ 
+ 
+ 
+ 49 
+8.1 
+Introduction 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 49 
+8.2 
+Content of Investigator’s Brochure 
+ 
+ 
+ 
+ 
+ 
+ 50 
+6 
+SA GCP 2020  
+ 
+9. 
+ESSENTIAL DOCUMENTS TO CONDUCT A CLINICAL TRIAL 
+ 
+51 
+9.1 
+Introduction 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+51 
+9.2 
+Before the Clinical Phase of the Trial Commences 
+ 
+ 
+ 
+51 
+9.3 
+During the Clinical Conduct of the Trial 
+ 
+ 
+ 
+ 
+54 
+9.4 
+After Completion or Termination of the Trial  
+ 
+ 
+ 
+56 
+10. 
+OTHER RELEVANT CONSIDERATIONS 
+ 
+ 
+ 
+ 
+58 
+10.1 
+Conflict of Interest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+58 
+10.2 
+Insurance Against Trial-Related Injuries 
+ 
+ 
+ 
+ 
+58 
+10.3 
+Professional Indemnity 
+ 
+ 
+ 
+ 
+ 
+ 
+60 
+10.4 
+Sponsor Indemnification 
+ 
+ 
+ 
+ 
+ 
+ 
+61 
+10.5 
+Continuing Care After Research (Post Clinical Trial Access)  
+ 
+61 
+10.6 
+Assessing Safety and Minimizing Risk 
+ 
+ 
+ 
+ 
+61 
+10.7 
+Human Reproduction Considerations  
+ 
+ 
+ 
+ 
+61 
+10.8 
+New Technologies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+61 
+10.9 
+Electronic Signatures  
+ 
+ 
+ 
+ 
+ 
+ 
+62 
+10.10 Therapeutic Misconception and Dual Roles  
+ 
+ 
+ 
+62 
+10.11 Conducting Clinical Trials during a Pandemic  
+ 
+ 
+ 
+63 
+11 
+REFERENCES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+64 
+12 
+GLOSSARY  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+65
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SA GCP 2020 7 
+ 
+ACRONYMS  
+ABPI:   
+Association of the British Pharmaceutical Industry 
+ADR:  
+Adverse Drug Reaction 
+AEs: 
+ 
+Adverse Events  
+ALCOA-CCEA: Attributable, Legible, Contemporaneous, Original, Accurate, 
+ 
+Complete, Consistent, Enduring and Available) 
+CGT:  
+Cell and Gene Therapy  
+CIOMS:  
+Council for International Organizations of Medical Sciences 
+COI: 
+ 
+Conflict of Interest  
+Co-PI:  
+Co-Principal Investigator 
+CRF:   
+Case Report Form  
+CRO:   
+Contract Research Organization  
+CTA: 
+ 
+Clinical Trial Agreement 
+CV: 
+ 
+Curriculum Vitae 
+DSMB:  
+Data Safety Monitoring Board  
+DoH:   
+Department of Health 
+GCP:   
+Good Clinical Practice  
+GCLP:   
+Good Clinical Laboratory Practice 
+GMP:  
+Good Manufacturing Practice 
+GPP: 
+ 
+Good Pharmacy Practice 
+HPCSA: 
+Health Professions Council of South Africa 
+IB: 
+ 
+Investigator’s Brochure  
+ICH:   
+International Council of Harmonisation  
+IP:  
+ 
+Investigational Product  
+NCE:  
+New Chemical Entity 
+NHA:   
+National Health Act  
+NHRC:  
+National Health Research Committee 
+NHREC:  
+National Health Research Ethics Council 
+NPI: 
+ 
+National Principal Investigator 
+PI:  
+ 
+Principal Investigator 
+PHRC:  
+Provincial Health Research Committees 
+REC:   
+Research Ethics Committee 
+SAE: 
+ 
+Serious Adverse Event  
+SA GCP:  
+South African Good Clinical Practice: Clinical Trial Guidelines  
+SAHPRA:  
+South African Health Products Regulatory Authority  
+SANCTR:  
+South African National Clinical Trials Register  
+SOP:  
+Standard Operating Procedure  
+Sub-I:   
+Sub-Investigator 
+TCAMS: 
+Traditional, Complementary and Alternative Medicines (TCAMS) 
+TIE: 
+ 
+Time, Inconvenience and Expenses 
+TMF:  
+Trial Master File 
+WHO:   
+World Health Organisation 
+8 
+SA GCP 2020  
+ 
+ 
+1. 
+INTRODUCTION 
+The optimal methodology by which to test and evaluate new treatments, medicines, 
+interventions and devices is a carefully designed scientifically sound and ethical clinical trial. 
+The underlying principle is that advances in health care knowledge are dependent on 
+contributions from human participants, researchers and sponsors.  However, achievement of 
+scientific goals is balanced against respect for and protection of the interests of human 
+research participants and researchers.  Thus, clinical trials are acceptable only when they 
+are ethical and safe both in design and the way they are conducted.  
+The ethical considerations that inform the design of an ethical clinical trial are largely the 
+same considerations that inform ethical health research more generally.  Nevertheless, 
+aspects of clinical trials require special consideration, which necessitates explicit deliberation 
+on these aspects.  Robust Good Clinical Practice (GCP) standards are necessary in addition 
+to the ethical guidelines because clinical trials may have complex trial designs that involve 
+invasive interventions, as well as investigative products and procedures that pose more than 
+minimal risk of harm for participants. 
+These revised GCP clinical trial guidelines (referred to as SA GCP 2020) have been updated 
+to encourage implementation of improved and more efficient approaches to clinical trial 
+design, conduct, oversight, recording and reporting, and to ensure continued adherence to 
+the highest ethical and scientific standards to promote protection of participants and validity 
+of trial results.  These guidelines align with the International Council of Harmonisation (ICH) 
+Harmonised Tripartite Guideline: Guideline for Good Clinical Practice E6 (R2) 2016 (ICH GCP 
+2016), and with the Department of Health Ethics in Health Research Guidelines 2nd edition 
+2015 (DoH 2015).  It is important for users to familiarise themselves with the clear 
+alignment between DoH 2015 and SA GCP 2020 so that they design, plan, manage and 
+conduct their clinical trials in accordance with the ethical principles and values that underpin 
+their practical application to clinical trials.  
+All necessary information contained in SA GCP 2006 is included in SA GCP 2020.  Some is 
+consolidated, some is revised and updated, and some is reorganised in pursuit of providing 
+user-friendly informative guidelines for conducting clinical trials. Where procedures or 
+principles require explanation or elaboration for the South African context, these are 
+addressed.  
+1.1  
+PURPOSE OF THE GUIDELINES  
+1.1.1 These guidelines have the purpose of providing researchers and other 
+interested parties with clearly articulated standards of GCP in locally 
+conducted research that address the local realities and contexts, to ensure 
+that clinical trials involving South African human participants are designed 
+and conducted according to local requirements as well as according to the 
+sound scientific and ethical standards within the accepted framework for 
+good clinical practice. 
+SA GCP 2020 9 
+ 
+ 1.1.2 Compliance with these GCP standards serve to assure the public that the 
+interests, safety and well-being of trial participants are protected and also 
+that clinical trial data are likely to be credible and meaningful.  
+1.2  
+SCOPE OF THE GUIDELINES  
+1.2.1 These guidelines focus on design, planning, management, conduct and 
+regulation of clinical trials involving human participants.  They do not repeat 
+the ethical principles that underpin sound and ethical research, which are 
+outlined in the Department of Health’s Ethics in Health Research: Principles, 
+Processes and Structures 2nd edition (2015) (referred to as DoH 2015). 
+The term ‘clinical trial’ is inclusive.  Specific types of clinical trials are not 
+addressed separately unless a particular need is identified, i.e. ‘clinical trials’ 
+includes trials involving complementary medicines, African traditional 
+medicines, 
+and 
+non-pharmacological 
+interventions 
+including 
+surgical 
+procedures, medical devices, cell therapy, genetics and genomics, and 
+imaging technology.  Consequently, these guidelines, read with DoH 2015, 
+provide guidance for any clinical trial involving human participants, especially 
+those with experimental designs. 
+1.2.2 All role players involved with clinical trials should also be familiar with other 
+national and international guidelines, including but not limited to the following 
+current versions or their successors: 
+1.2.2.1 
+Department of Health’s Ethics in Health Research: Principles, 
+Processes and Structures 2nd edition (2015) (referred to as DoH 
+2015)  
+1.2.2.2 
+Declaration of Helsinki (2013) 
+1.2.2.3 
+ICH Harmonised Tripartite Guideline: Guideline for Good Clinical 
+Practice E6 (R2) 2016 (ICH GCP 2016) 
+1.2.2.4 
+ICH Harmonised Tripartite Guideline: Clinical Investigation of 
+Medicinal Products in the Pediatric Population E11 2000 
+1.2.2.5 
+Council for International Organizations of Medical Sciences 
+(CIOMS) International Ethical Guidelines for Biomedical Research 
+involving Human Subjects (2016) 
+1.2.2.6 
+CIOMS 
+with 
+WHO 
+International 
+Ethical 
+Guidelines 
+for 
+Epidemiological Studies (2009)  
+1.2.2.7 
+Clinical Trial Compensation Guidelines, Association of British of 
+Pharmaceutical Industry (ABPI) Guidelines (2014) 
+  
+1.2.2.8 
+European Union requirements at 
+http://ec.europa.eu/health/human-use/clinical-trials/index_en.htm  
+1.2.2.9 
+World Health Organisation WHO Technical Report Series, No. 850 
+Guidelines for good clinical practice (GCP) for trials on 
+pharmaceutical products (1995)  
+1.2.2.10 
+World Health Organisation Handbook for Good Clinical Research 
+Practice (GCP) (2005) 
+10 SA GCP 2020  
+ 
+1.2.2.11 
+World Health Organisation Good Clinical Laboratory Practice 
+(GCLP) (2009) 
+1.2.3 In the event of an interpretation conflict between these guidelines (SA GCP 
+2020) and an international guideline, SA GCP 2020 takes precedence.  In the 
+event of a conflict between SA GCP 2020 and a South African legal 
+requirement where both appear to address the same issue or activity, 
+generally, the legal requirement should take precedence, unless an ethical or 
+GCP justification clearly demonstrates otherwise.  It is advisable for Research 
+Ethics Committees (RECs) to consult with the National Health Research Ethics 
+Council (NHREC) and/or South African Health Products Regulatory Authority 
+(SAHPRA) 
+about 
+which 
+takes 
+precedence 
+situation 
+to 
+promote 
+standardisation. 
+1.3  
+LEGAL STATUS OF THE GUIDELINES  
+These guidelines are established in terms of Regulations issued in terms of sections 
+90(s) and 72(6)(c) of the National Health Act, Act No. 61 of 2003 as well as 
+Regulation 30 of the Medicines and Related Substances Act, Act No. 101 of 1965.  
+Compliance with these guidelines is compulsory under the direction of the Director-
+General of Health.   
+SA GCP 2020 11
+ 
+2. 
+KEY CONCEPTS IN CLINICAL TRIALS 
+2.1 
+ETHICAL PRINCIPLES 
+2.1.1 Clinical trials should be conducted in accordance with all the ethical principles 
+outlined in the Declaration of Helsinki, and must be consistent with GCP and 
+other applicable regulatory requirements.  
+2.1.2 Ethical principles of beneficence and non-maleficence, distributive justice 
+(equity) and respect for persons (dignity and autonomy), discussed in detail 
+in 2.1 of DoH 2015, govern all clinical trials conducted in South Africa. 
+2.2 
+ JUSTIFICATION FOR TRIAL 
+In preparing for a clinical trial, the specific aims, challenges and the risk of harm and 
+the likelihood of benefit of the trial must be thoroughly considered.  The chosen 
+design and methodology must be scientifically sound and ethically justified. 
+2.3  
+RISK, BURDENS AND BENEFITS 
+2.3.1 All research involving human participants must be scrutinised to assess the 
+potential risk of harm.  Clinical trials should be initiated and continued only if 
+the importance of the objective and anticipated benefits outweighs the 
+potential risks and burdens for the trial participants.  The ratio of risk of harm 
+to likelihood of benefit must be assessed as part of the review process before 
+the trial begins.  The assessment should take full cognisance of possible 
+benefits and harms beyond the life of the trial itself, particularly in the case of 
+chronic life-threatening conditions. 
+2.3.2 A favourable ratio is one where, at minimum, the potential risk of harm to a 
+participant is outweighed by the likelihood of benefit, to participants directly 
+or to society in future, from the knowledge to be gained from the research.  
+When making this assessment, both the magnitude of the harm and the 
+probability of its occurrence should be addressed. 
+2.3.3  Foreseeable harm (anticipated negative side effects) must be described 
+clearly to enable RECs to understand and evaluate them against potential 
+benefits that may result from the trial.  
+2.3.4 Potential participants must be informed of potential risks of harm to enable 
+them to make an informed decision about whether to participate in the trial. 
+2.3.5 Researchers must supply information about the outcomes of previous pre-
+clinical and clinical research on the investigational intervention and must 
+justify the further research using the intervention. 
+2.3.6 Research involving human participants who might face high risk of harm 
+should only be approved after careful review and acceptable justification that 
+demonstrates the potential importance and value of the research for society. 
+A carefully phased approach should be adopted in such cases and appropriate 
+harm mitigating measures must be put into place.  
+12 SA GCP 2020  
+ 
+2.4 
+RIGHTS AND SAFETY OF PARTICIPANTS 
+2.4.1 The rights, safety and well-being of trial participants are the most important 
+considerations and should prevail over interests of science and society. 
+2.4.2 The local Principal Investigator (PI) has, or the Co-Principal Investigators (Co-
+PI) have, primary responsibility for the safety and welfare of local 
+participants. 
+2.4.3 Confidentiality of records, including electronic, that could identify participants 
+must be maintained and access to records must be managed responsibly. 
+2.4.4 Participants' right to privacy must be protected, e.g. by using appropriate 
+precautions to avoid identification or recognition of participants. 
+2.4.5 Systems with procedures that assure the quality of every aspect of the trial 
+should be implemented.  Aspects of the trial that are essential to ensure 
+human participants protection and reliability of trial results should be the 
+focus of such systems. 
+ 
+2.5 
+INFORMED CONSENT 
+2.5.1 Freely given informed consent must be obtained from every participant prior 
+to clinical trial participation. 
+NOTE: Where proposed participants are incapable of providing consent e.g. because of loss 
+of consciousness, different procedures may apply; see 3.2.4.3 of DoH 2015. 
+2.5.2 Informed consent documentation and procedures for multi-site and multi-
+country trials must be sensitive to country- and site-specific requirements.  
+The site PI must ensure that the informed consent content and procedures 
+are tailored accordingly. 
+2.5.3 The informed consent documentation must be approved by the REC before 
+implementation.  The approved written Informed Consent should be signed 
+and witnessed as applicable. 
+2.5.4 In clinical trials involving minors, prior documented parental permission to 
+approach the minor to invite participation must be obtained before 
+approaching the minor. The minor chooses whether to participate and 
+provides assent to indicate an affirmative answer.  See 3.1.9 and 3.2.2 of 
+DoH 2015 for detailed information on informed consent and minors, including 
+how to manage situations where the minors do not have parents or 
+guardians. 
+2.6 
+ETHICS REVIEW 
+2.6.1 All clinical trials involving human participants must undergo an independent 
+ethical review.  The REC which undertakes the review must be registered 
+with the NHREC. 
+2.6.2 A registered REC must review and approve the protocol and associated 
+documentation before any trial may begin, in accordance with 1.6 DoH 2015.  
+2.6.3 The following aspects must be addressed explicitly:  
+SA GCP 2020 13
+ 
+2.6.3.1 
+The scientific merit of the clinical trial.  
+2.6.3.2 
+Social merit of the clinical trial in light of South Africa’s research 
+priorities. 
+NOTE: If the topic for investigation is not high on the research priority list, the 
+research may still be conducted subject to appropriate justification for doing the 
+work.  
+2.6.3.3 
+Whether and why randomization is relevant, and how this is 
+addressed. 
+2.6.3.4 
+The appropriateness of the inclusion/exclusion criteria for the 
+South African context. 
+2.6.3.5 
+The appropriateness of the recruitment process for the South 
+African context. 
+2.6.3.6 
+The feasibility of obtaining meaningful results with the lowest 
+possible risk of harm for participants. 
+2.6.3.7 
+Whether the risk of harm is appropriately weighed against 
+anticipated benefits for participants or the class of persons from 
+which they are drawn.1 
+2.6.3.8  
+High risk of harm may be justifiable where the anticipated benefit 
+is of high importance to increase relevant knowledge and 
+appropriate mitigating measures are in place to minimise harm to 
+participants. 
+NOTE: Attention must be given to harms and benefits beyond the life of the trial 
+itself, especially in respect of early phase studies and (pharmacovigilance) 
+surveillance for chronic and life-threatening conditions. The proposal must explain 
+what trigger alerts will be in place. Clear guidance for participants about post-trial 
+care must be provided.   
+2.7 
+TRIAL INCENTIVES AND PARTICIPANT REIMBURSEMENT 
+2.7.1 Using incentives to attract potential participants needs careful consideration. 
+Incentives should not cause a person to ignore, minimise or undervalue the 
+risks posed by the trial.  See 3.1.7 DoH 2015 guidelines for more details. 
+2.7.2 The informed consent process should ensure that potential participants grasp 
+the important considerations like the potential risk of harm and that they do 
+not focus on incentives when thinking about whether to participate.  
+2.7.3 However, paternalism must be avoided.  If a clinical trial has been approved 
+on the basis that it is ethical including having a reasonable risk/benefit ratio, 
+then no principled objection to persons choosing to participate should exist.  
+2.7.4 Reimbursement or payment of participants’ expenses is not an incentive.  
+Costs of transport and refreshments should be provided by the trial.  
+ 
+1 See DoH 2015 2.3.4 for details; the PI is responsible for assessing the risk of harm; the REC may 
+require additional protections if the risk of harm warrants it.  
+14 SA GCP 2020  
+ 
+2.7.5 A fair rate of reimbursement should be calculated using the Time, 
+Inconvenience and Expenses (TIE) method2 to determine the cost to 
+participants for time expended, inconvenience and refreshments associated 
+with research participation.  This method costs expenses at the current hourly 
+rate for unskilled labour in the marketplace, regardless of whether the 
+participant is employed.  It should be noted that no prescribed 
+reimbursement amount prevails in SA (see the document cited in footnote 2). 
+2.8 
+SCIENTIFIC REQUIREMENTS FOR RESEARCH PROTOCOLS 
+2.8.1 Clinical trials should be scientifically sound and be based on a thorough 
+knowledge of the scientific literature, other relevant sources of information, 
+as well as adequate laboratory and, if appropriate, ethical animal 
+experimentation.  
+2.8.2 The available pre-clinical and clinical information on an investigational product 
+(IP) should be adequate to support the proposed clinical trial.  
+2.8.3 Clinical trials should be described in a clear, detailed protocol. 
+2.9 
+DATA MANAGEMENT AND DISSEMINATION OF RESEARCH RESULTS 
+2.9.1 All clinical trial information should be recorded, managed and stored to permit 
+accurate reporting, analysis, interpretation and verification. 
+2.9.2 This principle applies to all records referenced in this guideline, regardless of 
+the nature of the medium of record. 
+2.9.3 PIs are ethically obliged to ensure the reporting of a clinical trial’s existence 
+and the findings obtained. 
+2.9.4 PIs must report and disseminate research results or findings in a timely, 
+accessible, responsible and competent manner.  This includes providing 
+feedback to participant communities where appropriate, in accordance with 
+the principle of role player engagement and collaboration. 
+ 
+ 
+2 NHREC 2012 ‘Payment of trial participants in SA: ethical considerations for research ethics 
+committees’ (available at http://nhrec.health.gov.za; also at https://sahpra.org.za). 
+SA GCP 2020 15
+ 
+3. 
+MANAGING RECRUITMENT OF VULNERABLE PARTICPANTS 
+3.1 
+FACTORS CONTRIBUTING TO VULNERABILITY 
+3.1.1 External circumstances like low levels of literacy and formal education, 
+advanced age, young age, personal and socio-economic circumstances, 
+including significant poverty and poor access to health care, may increase 
+vulnerability of South Africans (see 3.2 of DoH 2015 for detailed discussion). 
+3.1.2 Certain groups of persons are vulnerable due to diminished health, loss of 
+liberty or other health-related personal circumstances, including adults with 
+diminished decisional capacity, persons with mental illness, mental disability, 
+or persons who have substance abuse problems, persons in dependent 
+relationships, incarcerated offenders and persons highly dependent on 
+medical care. 
+3.1.3 Vulnerable persons should not be recruited merely because they are 
+conveniently accessible if the research could be conducted with less 
+vulnerable participants. 
+3.1.4 The research for which vulnerable persons are to be recruited should be 
+relevant to the health needs and priorities of their communities or groupings. 
+3.1.5 RECs may impose additional measures to protect the welfare of vulnerable 
+participants. For example, they may impose additional protective measures 
+for the informed consent process, or require increased monitoring and interim 
+reporting on the participants’ welfare. 
+3.2 
+MINORS 
+3.2.1 Minors (younger than 18 years) are regarded as vulnerable persons due to 
+their lack of legal capacity (See 3.2.2 of DoH 2015 for detailed discussion). 
+3.2.2  Minors should participate in research only where their participation is 
+indispensable to the research, i.e. the research cannot deliver the desired 
+outcomes if adult participants were to be used instead (see 3.2.2.1 of DoH 
+2015).  
+3.2.3 RECs must note that clinical trial research is regarded as ‘non-therapeutic’ in 
+terms of the legal framework. ‘Non-therapeutic research’ means research that 
+includes interventions that will not hold out the prospect of direct health-
+related benefit for the participant but may produce results that contribute to 
+generalisable knowledge (NHA 61 of 2003, Regulation 135 of 2012).  
+3.2.4 ‘Non-therapeutic’ research with minors requires Ministerial consent per Form 
+A in the above-mentioned Regulations (to be completed by the applicant). 
+The REC must ensure that its deliberations on the specified requirements for 
+inclusion of minors as participants are properly minuted and recorded as 
+required by the Regulations. The membership of the REC must include 
+appropriate paediatric research expertise.  
+3.2.5  Consent requirements for minors: For research purposes, the following should 
+be obtained: 
+16 SA GCP 2020  
+ 
+3.2.5.1 Documented permission and/or consent from a parent or legal 
+guardian in accordance with ss 10 and 31 of the Children’s Act 38 of 
+2005 (see also 3.2.2.4 of DoH 2015). 
+3.2.5.2 Assent from the minor in writing where he/she is capable of 
+understanding. 
+3.2.5.3  A child’s refusal to participate in research must be respected.  
+3.2.6 Orphans without court appointed guardians may participate in clinical 
+research when the minimum conditions of research (discussed in more detail 
+in 3.2.2.3 of DoH 2015) are satisfied. In such cases, a parental substitute 
+should be used to provide written consent. The parental substitutes should be 
+used in descending order as listed in this paragraph of DoH 2015. 
+3.3  
+ADULTS WITH FACTUAL INCAPACITY TO PROVIDE INFORMED CONSENT  
+Adults who are factually incapable of giving informed consent should participate in 
+research only when their participation is indispensable to research.  In such cases 
+proxy consent may be appropriate as detailed in 3.2.4 of DoH 2015.  
+3.4 
+PERSONS IN DEPENDENT RELATIONSHIPS OR COMPARABLE SITUATIONS 
+3.4.1  Particular attention should be given to ensuring that participants are 
+adequately informed and can choose voluntarily whether to participate in 
+research.  
+3.4.2 This group includes persons in junior or subordinate positions of hierarchically 
+structured groups and may include but is not limited to the following:  
+3.4.2.1 
+Relationships between older persons and their caregivers; 
+3.4.2.2 
+Persons with chronic conditions or disabilities and their caregivers; 
+3.4.2.3 
+Persons with life-threatening illnesses;  
+3.4.2.4 
+Patient and health care professionals; 
+3.4.2.5 
+Employees and employers;  
+3.4.2.6 
+Members of the uniformed services; 
+3.4.2.7 
+Incarcerated offenders; 
+3.4.2.8 
+Wards of the state and guardians; 
+3.4.2.9 
+Students and teachers (including university lecturers); and  
+3.4.2.10 
+Relatives of the research team. 
+SA GCP 2020 17
+ 
+4. 
+REGULATORY AUTHORITIES’ ROLES AND RESPONSIBILITIES 
+4.1 
+NATIONAL HEALTH RESEARCH ETHICS COUNCIL (NHREC) 
+The NHREC is the national statutory body established in terms of the National Health 
+Act (NHA). The NHREC’s core responsibilities are to advise the Minister of Health, to 
+set ethical norms and standards for health research, including clinical trials, and to 
+advance research ethics in South Africa by promoting compliance by researchers and 
+RECs using existing and new regulations and guidelines.  
+The NHREC is mandated to register and audit RECs. In addition, the NHREC has 
+responsibility for adjudicating complaints, and for advising institutional committees, 
+researchers, members of the public, and national and provincial departments of 
+health on ethical matters concerning research. 
+This body reports to the Minister of Health and is supported by the Secretariat of the 
+Research Directorate of the Department of Health. 
+4.2 
+SOUTH AFRICAN HEALTH PRODUCTS REGULATORY AUTHORITY (SAHPRA) 
+SAHPRA is a statutory body established in 2018 in terms of the Medicines and 
+Related Substances Act 101 of 1965 (the “Medicines Act”) for the purpose to provide 
+for the monitoring, evaluation, regulation, investigation, inspection, registration and 
+control of health products, including medicines, scheduled substances, medical 
+devices, in vitro diagnostics, clinical trials and related matters in the public interest.  
+SAHPRA must:  
+4.2.1  Ensure efficient, effective and ethical evaluation or assessment of health 
+products that meet defined standards of quality, safety, efficacy and 
+performance, where applicable; 
+4.2.2 Ensure that the process of evaluating or assessing and registering health 
+products is transparent, fair, objective and concluded timeously; 
+4.2.3 Ensure periodic re-evaluation or re-assessment and monitoring of health 
+products;  
+4.2.4 Conduct announced and unannounced inspections. 
+4.3  
+RESEARCH ETHICS COMMITTEES (RECs) 
+4.3.1 The primary responsibility of RECs in South Africa is to ensure that all 
+proposals to conduct health research involving human participants undergo 
+rigorous independent ethics review. This responsibility is exercised to protect 
+the research participants and to ensure that their rights, safety and well-
+being are respected and protected.  
+4.3.2 The REC may approve, require amendment to, or reject a research proposal 
+on ethical and/or scientific grounds. The REC must record its feedback in 
+writing and should include, where appropriate, reasons for rejection. The 
+REC’s feedback should be structured to be instructive for the investigators 
+concerned. 
+18 SA GCP 2020  
+ 
+4.3.3 The REC should have the following documents for each application for ethics 
+review:  
+4.3.3.1 Clinical trial protocol(s)/amendment(s);  
+4.3.3.2 All documents and other material to be used to inform potential 
+participants, including plain-language information sheets, informed 
+consent forms, questionnaires, advertisements and letters; 
+4.3.3.3 Investigator’s Brochure (IB); 
+4.3.3.4 Any other additional safety, quality and/or efficacy information; 
+4.3.3.5  Amount and sources, or potential sources, of funding for the clinical   
+trial; 
+4.3.3.6 Information about incentives or reimbursements available to 
+participants;3 
+4.3.3.7 Declaration of any affiliation and/or potential conflict of interest; 
+4.3.3.8 The investigator’s current curriculum vitae (CV) and any other 
+documentation evidencing suitable qualifications and experience; 
+4.3.3.9 Evidence that the investigator has sufficient time to oversee the 
+research project;4 
+4.3.3.10 Evidence of current (i.e. within three years) GCP training as well as 
+general research ethics training. Basic GCP training must be done by 
+means of attendance at a face-to-face course and must include 
+specific SA GCP 2020 training. Thereafter, three-yearly refresher GCP 
+training must occur. Refresher training may be done online; 
+however, the course must be relevant to the South African research 
+environment and must include SA GCP 2020 training. 
+ 
+NOTE: Trial staff whose GCP training has expired for more than three months must 
+re-do the basic GCP course.  
+4.3.3.11 Any other documentation that the REC may need to fulfil its 
+responsibility, such as documents that address ethical concerns of a 
+proposed research project. 
+4.3.4 Requirements of membership of REC are covered in detail in 4.4.1 of DoH 
+2015.  
+4.3.4.1 The membership should include as many disciplines, sectors and 
+professions as possible, appropriate to the research under review. 
+4.3.2.2 REC members who review clinical trial proposals should have 
+research ethics training and GCP training, evidenced by certificates 
+issued not more than three years previously.  
+4.3.5 The REC should have written standard operating procedures (SOPs) as per 
+4.5 of DoH 2015.  
+ 
+3 See note 2 above.  
+4 For example, the investigator must declare how many open trials he or she currently oversees; this gives an 
+idea of whether sufficient time is likely to be available or whether the investigator is overcommitted. It may be 
+regarded as unethical conduct when the investigator is overcommitted so that appropriate attention is not 
+available for a trial. 
+SA GCP 2020 19
+ 
+4.3.6 The REC should retain all relevant records (e.g. written procedures, 
+membership lists, lists of occupations/affiliations of members, submitted 
+documents, minutes of meetings and correspondence) for a period of at least 
+three years or as per institutional requirement, whichever period is longer, 
+after completion of the trial and make them available upon request from the 
+applicable regulatory authority. 
+4.4 
+SOUTH AFRICAN NATIONAL CLINICAL TRIALS REGISTER (SANCTR) 
+The Department of Health has established the SANCTR, a web-based publicly 
+accessible clinical trial register (www.sanctr.gov.za). Sponsors/Applicants must 
+register all South Africa-based trials on the SANCTR. If there is no Sponsor, the PI 
+must register the trial. Entry of the SAHPRA and REC approvals triggers allocation of 
+a unique study number for each trial. No trial may commence without this DoH 
+number.  
+The SANCTR is intended to:  
+4.4.1. Promote collaboration among researchers in both the public and private 
+health care sectors through sharing research information;  
+4.4.2 Inform the public to assist people to identify clinical trials for possible 
+participation; 
+4.4.3 Reduce duplication of research efforts; and  
+4.4.4 Promote best use of limited research resources.  
+NOTE: Registration with SANCTR does not equate with SAHPRA or ethics approval, both of 
+which are essential to obtain BEFORE a trial begins. Usually SAHPRA and ethics review 
+applications are submitted simultaneously to expedite matters. 
+4.5  
+NATIONAL HEALTH RESEARCH COMMITTEE (NHRC) 
+The NHRC is the national statutory body responsible for determining the nature, 
+scope, as well as the co-ordination of health research carried out by public health 
+authorities. Its mandate is to ensure that priority health problems and needs receive 
+appropriate attention and resources, and to advise the Minister of Health on 
+implementation of an integrated national strategy for health research. In identifying 
+priorities, the NHRC takes into account the burden of disease, the cost-effectiveness 
+of interventions to address the burden of disease, the resource implications 
+(especially at the lowest levels of health care delivery), and the health needs of 
+vulnerable persons including women, older persons, children and persons with 
+disabilities. Where appropriate, health needs of whole communities must also be 
+considered. 
+4.6 
+PROVINCIAL HEALTH RESEARCH COMMTTEES (PHRC) 
+The PHRC collects and transmits information about local health needs and resource 
+constraints to the NHRC.  They are gatekeepers for public health care delivery sites.  
+NOTE: Only PHRC’s that are registered with NHREC may also do ethics review of protocols. 
+20 SA GCP 2020  
+ 
+5.  
+INVESTIGATOR  
+5.1  
+CATEGORIES OF INVESTIGATOR 
+5.1.1 In most cases, clinical trials are conducted by an Investigator who has 
+entered into an agreement with a Sponsor to conduct a clinical trial. She or 
+he is the person responsible for the conduct of the clinical trial at the trial 
+site(s). In the case of a multi-centre trial, each site must have a local PI and 
+at least one sub-investigator (Sub-I) who are registered with the Health 
+Professions Council of South Africa (HPCSA). It is unacceptable to have an 
+‘absentee’ PI.  
+5.1.2 The PI must be a South Africa-based clinician and must have actively 
+participated in at least two clinical trials as a sub-investigator. The local PI 
+has sole or joint responsibility for the conduct of trial and delegation of trial 
+responsibilities of the trial.  
+5.1.3 A Sub-I must be a South Africa-based member of the clinical team 
+designated and supervised by the PI at a trial site to perform critical trial-
+related procedures and/or to make important trial-related decisions.   
+5.1.4 A Co-PI may be included and may be a qualified non-clinician South Africa-
+based scientist; e.g. a laboratory/medical scientist, 
+pharmacologist, 
+pharmacist, dentist or equivalent qualified and experienced person who can 
+provide trial oversight management. At least one Co-PI must be a clinician 
+and qualified to provide medical oversight. A Co-PI must meet all the 
+requirements to be a PI. The role of each Co-PI must be clearly described for 
+the trial and their complementary responsibilities carefully detailed so that all 
+responsibilities of the PI, as defined, are covered. While both Co-PIs have 
+defined roles and functions in relation to the conduct of the trial, in terms of 
+legal responsibility, they will be jointly and severally liable.   
+5.1.5  For multi-centre studies in South Africa, a National Principal Investigator 
+(NPI), with expertise and experience in the relevant field, may be appointed 
+to take overall responsibility for the conduct of a trial. The NPI must meet all 
+requirements to be a PI, must sign a declaration accepting responsibility and 
+must sign off the SAHPRA clinical trial form (CTF1) application, co-ordinate 
+concerns of investigators regarding conduct of trial and communicate these to 
+the Sponsor/Applicant, RECs and SAHPRA, as necessary. It is recommended 
+that the NPI should be involved as an investigator at one of the trial sites. 
+NOTE: Trials using African Traditional Medicine as well as other Traditional, 
+Complementary and Alternative Medicines (TCAMS) may have a Co-PI (non-clinical) 
+with appropriate expertise, together with a clinically qualified Co-PI. 
+5.1.6  If the PI and/or Sub-I withdraw(s) for any reason (including death) before 
+completion of the study, a suitably qualified successor should be appointed by 
+the Sponsor, and approved by SAHPRA and the relevant REC, to take over 
+responsibility for conducting the trial.  
+SA GCP 2020 21
+ 
+5.2  
+INVESTIGATOR QUALIFICATIONS AND AGREEMENTS 
+The Investigator must: 
+5.2.1  Be qualified by education, training and experience to assume responsibility 
+for the proper conduct of the trial, and must meet all the qualifications 
+specified by the South African regulatory requirements and provide evidence 
+of such qualifications through a current CV and other relevant documentation 
+requested by the Sponsor/Applicant, the RECs, and/or SAHPRA. 
+ 
+5.2.2 Be thoroughly familiar with the appropriate use of the IP, as described in the 
+protocol, in the current IB, in the product information and/or in other 
+information sources provided by the Sponsor.  
+5.2.3 Comply with GCP and other applicable regulatory requirements, including 
+registration of the clinical trial with the SANCTR and reporting of Serious 
+Adverse Events (SAEs) to the RECs and SAHPRA. 
+5.2.4 Permit monitoring and auditing by the Sponsor, and inspection by South 
+African and other appropriate regulatory authorities.  
+5.2.5 Maintain a list of appropriately qualified persons to whom he/she has 
+delegated significant trial-related duties.  
+5.3  
+ADEQUATE RESOURCES 
+The Investigator must: 
+5.3.1 Demonstrate (e.g. based on retrospective data) the potential to recruit the 
+required number of suitable participants within the agreed recruitment 
+period. 
+5.3.2 Have sufficient time to properly conduct and complete the trial within the 
+agreed trial period. 
+5.3.3 Have available an adequate number of appropriately qualified staff and 
+adequate facilities for the foreseen duration of the trial to conduct the trial 
+properly and safely. 
+5.3.4 Ensure that all persons assisting with the trial are adequately informed about 
+the protocol, the IP and their trial-related duties and functions. 
+5.3.5 Be responsible for supervising any individual or party to whom the 
+Investigator delegates study tasks conducted at the trial site. 
+5.3.6 Ensure that any party retained to perform study tasks is qualified to perform 
+those study tasks.  
+5.3.7 Implement procedures to ensure the integrity of performance of the study 
+tasks performed and any data generated. 
+5.4  
+MEDICAL CARE OF TRIAL PARTICIPANTS  
+5.4.1 A qualified clinician, who may be the PI, Co-PI or, if appropriate, a Sub-I, 
+must be responsible for all trial-related medical decisions. 
+22 SA GCP 2020  
+ 
+5.4.2 The Investigator must ensure that adequate medical care is provided to a 
+participant for any adverse events (AEs), including clinically significant 
+laboratory values, related to the trial.  
+5.4.3 The Investigator must inform a participant when medical care is needed for 
+intercurrent illness of which the Investigator becomes aware. 
+5.4.4 At all times the participant’s clinical interests must take precedence. 
+5.4.5 It is recommended that the Investigator should advise the participant to 
+inform his/her primary health care provider as well as any other healthcare 
+provider he/she may see about his/her participation in the trial. Alternatively, 
+the participant may give permission to the Investigator to perform this task. 
+5.4.6 A participant is not obliged to give reasons for deciding to withdraw from a 
+trial prematurely. However, to collate clinical trial information, the 
+Investigator should make a reasonable effort to ascertain the reason, while 
+fully respecting the participant's right to decline to disclose. 
+5.5  
+COMMUNICATION WITH REC AND/OR SAHPRA 
+5.5.1 Prior to initiating a clinical trial, the Investigator must have written and dated 
+regulatory and ethics approval for the research protocol, written informed 
+consent form, consent form updates, participants recruitment procedures 
+(e.g. advertisements), and other related documents from the REC and, if 
+appropriate, from SAHPRA. 
+5.5.2 During the clinical trial, the Investigator must provide the REC and/or 
+SAHPRA (if appropriate) with all updated documents, including but not limited 
+to, updated IB, additional safety data, updated informed consent and 
+protocol amendments. 
+5.5.3 The Investigator must provide regular REC (at least annually) and SAHPRA 
+(at least six-monthly) progress reports. 
+5.6  
+COMPLIANCE WITH THE PROTOCOL  
+The Investigator: 
+5.6.1 Must conduct the trial in compliance with the protocol agreed to with the 
+Sponsor and approved by the REC and/or SAHPRA. The Investigator and the 
+Sponsor must sign the protocol to confirm agreement. 
+5.6.2 May not implement any deviation from or changes to the protocol without 
+agreement by the Sponsor and further review and documented approval from 
+the REC and SAHPRA of the amendment, except where necessary to 
+eliminate an immediate hazard to trial participants, or when the change 
+involves only logistical or administrative aspects of the trial (e.g. change in 
+monitors, change of telephone number).  
+5.6.3 May implement a deviation from or a change to the protocol in order to 
+eliminate an immediate hazard to trial participants. As soon as possible, the 
+exceptional implemented deviation or change, the reasons for it and, if 
+SA GCP 2020 23
+ 
+appropriate, the proposed protocol amendment(s) should be documented and 
+submitted to:  
+(a) 
+the REC for review and approval,  
+(b) 
+the Sponsor for agreement, and/or 
+(c)  
+SAHPRA.  
+5.6.4 Should document and explain any deviation from the approved protocol. 
+5.7  
+INVESTIGATIONAL PRODUCTS  
+5.7.1 Responsibility for IP accountability at a trial site rests with the Investigator. 
+5.7.2 Where allowed/required, the Investigator may assign some of his/her duties 
+for IP accountability at a trial site to an appropriate pharmacist or another 
+appropriate individual under the supervision of the Investigator.  
+5.7.3 Only a clinician with a dispensing license and/or an approved pharmacist may 
+dispense IP at a trial site. 
+5.7.4 IP may be imported into South Africa only after approval of the protocol by 
+SAHPRA. Samples of the IP to be imported before trial approval require a 
+section 21 permit from SAHPRA. 
+5.7.5 The investigator and/or pharmacist or other appropriate individual, must 
+maintain records of the IP’s delivery to the trial site, inventory at the site, use 
+by each participant and return of unused product to the Sponsor or 
+alternative disposition thereof. These records must include dates, quantities, 
+batch/serial numbers, expiry dates (if applicable) and the unique code 
+numbers assigned to the IP and trial participants, as appropriate. The 
+Investigator must maintain records that document adequately that the 
+participants were provided the doses specified by the protocol and must 
+reconcile all IP received from the Sponsor. 
+5.7.6 The IP must be stored as specified by the Sponsor, and in line with Good 
+Pharmacy Practice (GPP) and Good Manufacturing Practice (GMP) in South 
+Africa, SAHPRA regulations and conditions. 
+5.7.7 All unused IP of a trial must be disposed of in line with the protocol approved 
+by SAHPRA.  
+5.7.8 The Investigator must ensure that the IP is used only in accordance with the 
+approved protocol. 
+5.7.9 The Investigator, or the appropriate designee, must explain the correct use of 
+the IP to each participant and should check, at intervals appropriate for the 
+trial, that each participant is following the instructions properly. 
+5.8 
+RANDOMIZATION PROCEDURES AND UNBLINDING 
+5.8.1 The Investigator must follow the trial’s randomization procedures, if any.  
+5.8.2 In blinded studies, the protocol must specify the circumstances under which 
+the code may be broken and the procedure for unblinding. 
+24 SA GCP 2020  
+ 
+5.8.3 Any premature unblinding of the IP for whatever reason (e.g. accidental 
+unblinding or due to a SAE) should be documented and promptly explained to 
+the Sponsor. 
+5.9 
+INFORMED CONSENT FOR CLINICAL TRIAL PARTICIPANTS  
+5.9.1. The Investigator is responsible for ensuring that an adequate information 
+package, in an acceptable format appropriate for the South African context, is 
+available for use in the process of seeking informed consent from participants 
+to participate in the clinical trial (as described in 3.1 of DoH 2015). 
+5.9.2 If the trial is a multi-site and/or multi-country trial, the site PI must ensure 
+that informed consent procedures take cognisance of the characteristics of 
+the site participants and tailor the informed consent content and procedures 
+accordingly. 
+5.9.3 All recruitment and informed consent documentation must be reviewed and 
+approved by the REC before implementation in the trial. 
+5.9.4 Written informed consent documentation and other participant-related 
+information should be revised when new information that may be relevant to 
+consent or to willingness to continue to participate in the trial becomes 
+available. Any revisions must be submitted for ethics review and approval 
+before implementation. Communication of the new information to participants 
+must be documented. 
+5.9.5 The Investigator or the trial recruitment staff must not coerce or unduly 
+influence a participant to participate or to continue to participate in a trial.  
+5.9.6 No information concerning the trial, including written informed consent 
+documents, should cause a participant to waive or to appear to waive legal 
+rights, or to release the Investigator, the Sponsor or their agents from liability 
+for negligence. 
+5.9.7 The language of the informed consent document should be non-technical and 
+understandable to the participant or the impartial witness, where applicable. 
+5.9.8 The informed consent document should be provided in a participant’s 
+preferred written language. 
+5.9.9 Participants must be given sufficient time to consider, to consult and to ask 
+questions about the trial before being asked to choose whether to participate. 
+All questions must be answered appropriately to the satisfaction of the 
+participant. 
+5.9.10 Participants and the person who conducted the informed consent discussion 
+must personally sign and date the consent document.  
+5.9.11 When participants can be enrolled only with assistance of the participant’s 
+legally acceptable representative (e.g., minors or persons with factual 
+decision-making incapacity), the participant should nevertheless be informed 
+about the trial to the extent compatible with the participant’s understanding 
+SA GCP 2020 25
+ 
+and, if capable, the participant should sign and personally date the written 
+informed consent. 
+5.9.12 Where the participant or the legally acceptable representative is illiterate, 
+verbal consent should be obtained in the presence of an impartial witness. 
+The participant should indicate willingness to participate by making a mark 
+(either a cross or a finger print). The witness signs to affirm that the 
+participant willingly consented to participate. The witness dates the mark and 
+his/her signature. 
+5.9.13 The consent discussion and documentation must explain to potential 
+participants:  
+(a) 
+That the trial involves research;  
+(b)  
+The purpose of the trial;  
+(c)  
+Why the potential participant has been approached; 
+(d) 
+That participation is voluntary; that refusal to participate, or 
+withdrawal from the trial at any time, will not prejudice the ongoing 
+care of the person in any way;  
+(e) 
+That access to trial IP may be randomly assigned and what the 
+probability for random assignment to each arm is (where 
+appropriate);  
+(f) 
+ How trial procedures are to be followed, including all invasive 
+procedures;  
+(g)  
+The nature of a participant's responsibilities;  
+(h)  
+Those aspects of the trial that are experimental;  
+(i)  
+The foreseeable risks of harm or inconvenience to the participant and, 
+when applicable, to an embryo, foetus or nursing infant;  
+(j)  
+The probability and magnitude of the foreseeable risks of harm; 
+(k) 
+ The expected benefits. When no anticipated clinical benefit to a 
+participant is anticipated, the participant must be made aware of this 
+(e.g. Phase I Clinical Trial); 
+(l)  
+The alternative procedure(s) or course(s) of treatment that may be 
+available to the participant, and their important potential benefits and 
+risks;  
+(m)  
+The compensation and/or medical treatment available to the 
+participant in the event of trial-related injury;  
+(n)  
+The planned incentives, if any, to attract the participant;  
+(o) 
+The planned reimbursements, if any, for time, inconvenience and 
+expenses; 
+(p)  
+That participant records may be accessible to Sponsor/Applicant, 
+SAHPRA, NHREC, relevant REC and/or other regulatory authorities;  
+(q)  
+The identity of the person(s) to contact for trial-related queries and 
+injuries; 
+(r) 
+REC contact details for information and concerns regarding the rights 
+of trial participants;   
+(s)  
+The identity of the Sponsor;  
+(t)  
+Potential conflict of interest (COI) of the PI;  
+26 SA GCP 2020  
+ 
+(u)  
+That trial records including those that identify participants are kept 
+confidential within the bounds of the law;  
+(v)  
+The expected duration of participation;  
+(w)  
+The foreseeable circumstances and/or reasons that may lead to the 
+participant’s participation in the trial being stopped;  
+(x) 
+The planned number of participants locally and globally involved in the 
+trial; 
+(y) 
+That new information that may affect the willingness of participants to 
+continue participation in the trial will be made available timeously to 
+the participant. 
+5.9.14 The Investigator, or an appropriate designee, should obtain the participant's 
+consent to participate in the trial in accordance with the principles outlined in 
+DoH 2015, the Declaration of Helsinki and other guidelines. 
+5.9.15 When prior consent of the participant is not possible, the consent of the 
+participant's legally acceptable representative, if present, should be 
+requested. When prior consent of the participant is not possible, and the 
+participant’s legally acceptable representative is not available, enrolment of 
+the participant should require measures described in the protocol and/or 
+elsewhere, with documented approval/favourable opinion by the REC, to 
+protect the rights, safety and well-being of the participant and to ensure 
+compliance with applicable regulatory requirements. The participant or the 
+participant's legally acceptable representative should be informed about the 
+trial as soon as possible and consent to continue and other consent as 
+appropriate should be requested (see also 3.4 of DoH 2015). 
+5.9.16 Once informed consent has been obtained, the original signed informed 
+consent document must be kept with the trial records, and a copy of the 
+signed informed consent document must be offered to the participant. A 
+further copy of the signed informed consent document must be in the 
+participant’s source documents or medical records. 
+5.10 RECORDS AND REPORTS 
+5.10.1 The Investigator is responsible for collection, quality, recording, maintenance 
+and retrieval of source data arising from the clinical study.  
+5.10.1.1 
+The Investigator should maintain adequate and accurate source 
+documents and trial records that include all pertinent observations 
+on each of the site’s trial participants. 
+5.10.1.2 
+Source documents should adhere to the ALCOA-CCEA standard 
+(attributable, 
+legible, 
+contemporaneous, 
+original, 
+accurate, 
+complete, consistent, enduring and available). 
+5.10.1.3 
+The source document must be signed and dated by the clinician 
+identified in the protocol, or designated person, on a visit-by-visit 
+basis and stored securely. 
+SA GCP 2020 27
+ 
+5.10.1.4 
+Changes to source data must be traceable, must not obscure or 
+delete the original entry, and must be explained if necessary (e.g. 
+via an audit trail). 
+5.10.2 The Investigator should ensure the accuracy, completeness, legibility and 
+timeliness of the data reported to the Sponsor by means of Case Report 
+Forms (CRF). The design of the CRF should facilitate observation of the 
+participant and be consistent with the study protocol.  
+5.10.2.1  The protocol should specify which data will be entered directly 
+into the CRF and will not be supported by other source data.  
+5.10.2.2  Corrections to CRFs may be made only by the Investigator or an 
+appropriate designee.  
+5.10.2.3  Changes to CRFs must be traceable, must not obscure or delete 
+the original entry, and must be explained if necessary (e.g. via an 
+audit trail). 
+5.10.3 Data collected by direct entry on a computer should be entered only by the 
+Investigator and/or an appropriate designee.  
+5.10.3.1 
+The computer system must be virus-proofed, access-restricted 
+and must record a data trail of all changes made to CRFs.  
+5.10.3.2 
+The system should be designed so that data changes are 
+documented automatically, and so that no deletion of entered 
+data can occur in order to maintain, audit and edit the data trail.  
+5.10.3.3 
+Once a hard copy of the computer stored data has been made, 
+procedures for editing are as for paper CRF. 
+5.10.4 The Investigator should maintain the trial documents as specified in the 
+Essential Documents for the Conduct of a Clinical Trial (see Section 9 below). 
+The Investigator must take measures to prevent accidental and/or premature 
+destruction of these documents. 
+5.10.5 Essential documents must be retained for at least 10 years after final closure 
+of clinical trial or for at least two years after formal discontinuation of clinical 
+development of the IP. 
+5.10.6 A clinical trial agreement (CTA) must be signed by the Sponsor/Applicant and 
+the Investigator. 
+5.10.6.1 
+Financial aspects of the clinical trial must be documented in the 
+CTA. 
+5.10.6.2 
+The CTA must also describe in detail the responsibilities of the 
+Sponsor/Applicant and Investigator. 
+5.10.7 Upon request, the Investigator must make the data available for direct access 
+by the Sponsor/Applicant to enable conduct of data editing and audit in 
+accordance with the protocol and/or CTA. 
+5.11  PROGRESS REPORTS  
+5.11.1 The Investigator must submit written summaries of trial status to: 
+(a) 
+The REC annually, or more frequently as requested; and 
+(b) 
+SAHPRA every six months, or more frequently as requested.  
+28 SA GCP 2020  
+ 
+5.11.2 This information should include but not be limited to: 
+5.11.2.1 
+Progress to date, or the outcome in the case of completed 
+research; 
+5.11.2.2 
+Current enrolment status (numbers, active or closed); 
+5.11.2.3 
+Whether participant follow-up is still active or has been 
+completed; 
+5.11.2.4 
+Evidence of non-compliance with the approved protocol or any 
+conditions of approval; 
+5.11.2.5 
+Relevant safety data. 
+5.11.3 The Investigator should promptly provide written reports to the 
+Sponsor/Applicant, the REC and, where applicable, the Institution on any 
+changes that significantly affect conducting the trial and/or that increase the 
+risk of harm to participants.  
+5.12 SAFETY REPORTING 
+5.12.1 The Investigator must inform the Sponsor/Applicant immediately upon 
+becoming aware of any serious and/or unexpected AEs that occur during the 
+trial, unless identified as unnecessary to report immediately by the protocol 
+and/or another document (e.g. the IB).  
+5.12.2 AEs and/or laboratory abnormalities identified in the protocol as critical to 
+safety evaluations should be reported to the Sponsor/Applicant in accordance 
+with the reporting requirement and within the time periods specified in the 
+protocol.  
+5.12.3 In the case of participant deaths, the PI must supply the Sponsor/Applicant, 
+the REC and SAHPRA with any additional information as requested.  
+5.12.4 The initial and follow-up reports must identify the affected participants by the 
+participant identification code. 
+5.12.5 The initial serious adverse event report form and any relevant follow-up 
+information must be sent to the Sponsor/Applicant, who in turn must forward 
+the relevant information to SAHPRA.  
+5.13 PREMATURE TERMINATION OR SUSPENSION OF A CLINICAL TRIAL 
+5.13.1 If a trial is prematurely terminated or suspended for any reason, the 
+Investigator must promptly inform the trial participants, and must ensure 
+appropriate therapy and follow-up for them.  
+5.13.2 If the Investigator terminates or suspends a trial without the prior agreement 
+of the Sponsor, the Investigator must promptly inform the Institution (where 
+applicable), the Sponsor, SAHPRA and the REC, and must provide a detailed 
+written explanation for the termination or suspension. 
+5.13.3 If the Sponsor terminates or suspends a trial, the Investigator must promptly 
+inform the Institution (where applicable), SAHPRA and the REC, and must 
+provide a detailed written explanation for the termination or suspension.  
+SA GCP 2020 29
+ 
+5.13.4 If the REC terminates or suspends a trial, the Investigator must promptly 
+inform the Institution (where applicable), SAHPRA and the Sponsor/Applicant, 
+and must provide a detailed written explanation for the termination or 
+suspension. 
+5.13.5 If SAHPRA and/or other regulatory authority terminates or suspends a trial, 
+the Investigator must promptly inform the Institution (where applicable), the 
+REC, and must provide a detailed written explanation for the termination or 
+suspension. 
+5.14 FINAL REPORT 
+Upon completion of the trial, the Investigator must inform the Institution (if 
+applicable), the REC and SAHPRA and must provide them with a summary of the trial 
+outcome and other required reports. 
+30 SA GCP 2020  
+ 
+6.  
+SPONSOR  
+A Sponsor is the person or organisation responsible for the initiation, management 
+or financing of a clinical trial. A Sponsor can be a pharmaceutical company, the PI, a 
+funding body, or an individual or organisation designated by the funding body or 
+academic institution.  
+It is important that the Sponsor's roles and responsibilities are clearly articulated in 
+the protocol and related documents. (For a description of the roles and 
+responsibilities of the Sponsor for conducting clinical trials in South Africa, see 6.2 
+below).  
+A clinical trial can be conducted with or without a Sponsor. If a Sponsor is involved, 
+both the Sponsor and the PI should collaborate to design, conduct and report the 
+trial and its results. If there is no Sponsor, the PI must state clearly in the protocol 
+who takes on the role of the Sponsor in the initiation, management and funding of 
+the trial.  
+An Applicant can be an individual, company, institution, or organisation that acts on 
+behalf of the Sponsor to initiate and manage the trial as its local representative.  In 
+the case of an international Sponsor, a local Applicant designated by the Sponsor is 
+responsible for initiation and management of the trial in the local context.  
+The Sponsor may delegate some of its responsibilities to a Contract Research 
+Organisation (CRO), which should be clearly documented.  The Sponsor and 
+Applicant remain responsible for oversight of the conduct and monitoring of the trial. 
+NOTE: All references to the Sponsor in this guideline also apply to an Applicant or CRO to the 
+extent that the Applicant/CRO has assumed trial-related duties and responsibility of the 
+Sponsor (see section 6.3.4 below). 
+6.1  
+QUALITY MANAGEMENT AND CONTROL  
+6.1.1 Quality Management 
+6.1.1.1 
+The Sponsor should implement a quality management system to 
+manage quality throughout the design, conduct, recording, evaluation, 
+reporting and archiving of clinical trials. 
+6.1.1.2 
+The Sponsor should focus on trial activities that promote human 
+participant protection and reliability of trial results. These include: 
+a) 
+Utilization of qualified individuals, as appropriate, throughout all 
+stages of the trial process, from designing the protocol and CRF 
+to analysing and preparing the clinical trial reports. 
+b) 
+Designating appropriately qualified medical personnel to be 
+available to advise on trial-related medical questions and 
+problems. 
+c) 
+Ensuring that all aspects of the trial are operationally feasible 
+and avoiding unnecessary complexity, procedures and data 
+collection.  
+6.1.1.3 
+A number of different quality management systems may be used and 
+should be proportionate to the risks inherent in the trial. Regardless of 
+SA GCP 2020 31
+ 
+the system used, a risk-based approach should be adopted which 
+focuses on: 
+a) 
+Identification of processes and data that are critical to assure 
+human participant protection and reliability of trial results. This 
+should occur during the development of the protocol. 
+b) 
+Identification of potential risks to critical trial processes and 
+data. Such risks should include systems (e.g. trial facilities, 
+SOPs, computerized systems, vendors) and clinical trial 
+processes (e.g. trial design, data collection and recording, IP). 
+c) 
+Risk evaluation, including the likelihood of errors occurring given 
+existing risk controls, the potential impact of such error on 
+human participant protection and reliability of trial results, and 
+the extent to which such errors would be detectable. 
+d) 
+Risk control: Sponsors should incorporate risk mitigation 
+activities in the protocol design and implementation, monitoring 
+plans, 
+agreements 
+between 
+parties 
+defining 
+roles 
+and 
+responsibilities, systematic safeguards to ensure adherence to 
+protocols and SOPs, and adequate training in processes and 
+procedures. 
+e) 
+Risk communication to stakeholders to facilitate risk review and 
+continual improvement during the conduct of the clinical trial. 
+f) 
+Periodical risk review to ascertain whether the quality 
+management activities remain effective and relevant. 
+g) 
+Risk reporting by means of clinical study reports. 
+6.1.2 Quality Assurance and Quality Control 
+6.1.2.1 The Sponsor is responsible for implementing and maintaining quality 
+assurance and quality control systems with written SOPs to ensure 
+that trials are conducted and data are generated, documented 
+(recorded) and reported in compliance with the protocol, GCP and 
+the applicable regulatory requirement(s). 
+6.1.2.2 The Sponsor is responsible for securing agreement from all involved 
+parties to ensure direct access to all trial-related sites, source 
+data/documents, and reports for the purpose of monitoring and 
+auditing by the Sponsor, and inspection by domestic and foreign 
+regulatory authorities. 
+6.1.2.3 Quality control should be applied to each stage of data handling to 
+ensure that all data are reliable and have been processed correctly. 
+6.1.2.4 Agreements made by the Sponsor with the PI and any other parties 
+involved with the clinical trial should be in writing, as part of the 
+protocol or in a separate agreement.  
+6.2 
+RESPONSIBILITIES OF THE SPONSOR  
+6.2.1 Trial design:  
+6.2.1.1 The Sponsor should utilise qualified individuals (e.g. biostatisticians, 
+clinical pharmacologists, physicians, etc) as appropriate, throughout 
+32 SA GCP 2020  
+ 
+all stages of the trial process, from designing the protocol and CRFs 
+and planning the analyses to analysing and preparing interim and 
+final clinical trial reports. 
+6.2.1.2 If the trial is a multicentre and/or multi-country trial, any differences 
+in trial designs between the South African and other sites, must be 
+clearly documented and explained in the trial protocol and/or related 
+documents. 
+6.2.2 Investigator selection: 
+6.2.2.1 Sponsors should only select investigator(s) who are: 
+a) Qualified by training and experience, and 
+b) Have adequate resources to conduct the proposed clinical trial.  
+6.2.2.2 Before entering an agreement with an investigator to conduct a trial, 
+the Sponsor should provide the Investigator with the clinical trial 
+protocol and up-to-date IB, and should provide sufficient time for the 
+Investigator to review these documents. 
+6.2.2.3 The Sponsor should obtain the Investigator’s agreement: 
+a)  To conduct the trial in compliance with these Guidelines, ICH 
+GCP, the requirements of the South African regulatory authority 
+and with the protocol agreed to by the Sponsor and given 
+approval by the relevant REC;  
+b)  To comply with procedures for data recording and reporting;  
+c)  To permit monitoring, auditing and inspection; and  
+d)  To retain the trial-related essential documents until the Sponsor 
+informs the Investigator/Institution that these documents are no 
+longer needed. 
+6.2.2.4 The Sponsor and the Investigator must sign the protocol, or an 
+alternative document, to confirm this agreement. 
+6.2.3 Submission to SAHPRA: Before initiating a clinical trial in South Africa, the 
+Sponsor and the Investigator must obtain approval from SAHPRA to begin the 
+trial.  
+6.2.4 Confirmation of review and approval by REC 
+6.2.4.1 The Sponsor should obtain from the PI: 
+a) the name and address of the relevant REC registered with 
+NHREC, and 
+b) documented REC approval. 
+6.2.4.2 If the REC grants approval conditional on required modifications, the 
+Sponsor should obtain a copy of the modification(s) made and the 
+date the final approval was granted by the REC. 
+6.2.4.3 The Sponsor should obtain from the PI documentation and dates of 
+any REC re-approvals/re-evaluations, and of any withdrawals or 
+suspensions of approval. 
+6.2.5 South African National Clinical Trials Register (SANCTR) 
+6.2.5.1 All clinical trials to be conducted in South Africa must register with 
+the SANCTR. Registration with the SANCTR requires that a trial is 
+SA GCP 2020 33
+ 
+approved by a REC and meets the requirements of SAHPRA. 
+SANCTR facilitates registration of trials in accordance with the 
+WHO's International Clinical Trials Registry Platform initiative that 
+requires prior entry of clinical trials in a public registry as a condition 
+for publication.  
+6.2.5.2 The Sponsor must ensure that a trial is fully registered on the 
+SANCTR before participants are enrolled. The Investigator and the 
+Sponsor must communicate the information required to register the 
+trial. For Investigator-initiated trials, the Investigator must register 
+the trial.  
+6.2.5.3 Clinical trials are registered at http://www.sanctr.gov.za. 
+6.2.6 The Sponsor should provide insurance for all trial participants. In addition, 
+they 
+should 
+indemnify 
+(legal 
+and 
+financial 
+coverage) 
+the 
+Investigator/Institution against claims arising from the trial, except for claims 
+that arise from professional malpractice and/or negligence. 
+6.2.7 The financial aspects of the trial should be documented in a CTA between the 
+Sponsor and the Investigator/Institution. A signed declaration must be 
+provided by the Sponsor which states that there are sufficient funds available 
+to complete the trial. 
+6.2.8  Prior to initiating a trial, the Sponsor should define, establish and allocate all 
+trial-related duties and functions. 
+6.3  
+CONTRACT RESEARCH ORGANIZATION (CRO) 
+6.3.1 A Sponsor may transfer any or all of the Sponsor's trial-related duties and 
+functions to a CRO, but ultimate responsibility for quality and integrity of trial 
+data always remains with the Sponsor. Although the CRO must implement 
+quality assurance and quality control, the Sponsor is responsible specifically 
+for: 
+6.3.1.1 Ensuring oversight of any trial-related duties and functions carried 
+out on its behalf; and 
+6.3.1.2 Ensuring that the relevant CRO has the required skills, experience 
+and competencies to conduct clinical trials. 
+6.3.2 Any trial-related duty and function that is transferred to and assumed by a 
+CRO must be specified in writing. In addition, the Sponsor must approve in 
+writing any further sub-contracting of trial-related duties and functions by the 
+CRO. 
+6.3.3 Any trial-related dutiy and function not specifically transferred to and 
+assumed by a CRO remains with the Sponsor. 
+NOTE: All references to Sponsor in this guideline apply to a CRO to the extent that 
+the CRO has assumed the trial-related duties and functions of the Sponsor. 
+34 SA GCP 2020  
+ 
+6.4 
+TRIAL MANAGEMENT, DATA HANDLING AND RECORD KEEPING 
+6.4.1 The Sponsor must use appropriately qualified individuals to supervise overall 
+conduct of the trial, to handle and verify data, to conduct statistical analyses, 
+and to prepare the trial reports. 
+6.4.2 The Sponsor may establish an independent Data Safety Monitoring Board 
+(DSMB) to assess progress of a clinical trial, including safety data and critical 
+efficacy endpoints at intervals, and to recommend to the Sponsor whether to 
+continue, modify or stop a trial. The DSMB must have written SOPs and must 
+maintain written records of all its meetings. 
+6.4.3 When using electronic trial data handling and/or remote electronic trial data 
+systems, the Sponsor must: 
+6.4.3.1  Ensure and document that the systems conform to established 
+requirements for completeness, accuracy, reliability and consistent 
+intended performance (i.e. validation).  
+6.4.3.2  The Sponsor must base its approach to validation of systems on a 
+risk assessment that considers the intended use of the system and 
+its potential to affect human participant protection and the reliability 
+of trial results. 
+6.4.3.3 Maintain SOPs for using these systems. Such SOPS should: 
+a) Cover system setup, installation and use; 
+b) Describe system validation and functionality testing, data 
+collection and handling, system maintenance, system security 
+measures, change control, data backup, recovery, contingency 
+planning and re-commissioning; 
+c) Describe the responsibilities of the Sponsor, Investigator and 
+other parties with respect to the use of these computerised 
+systems; and 
+d) Make provision for training by all users. 
+6.4.3.4  Ensure that the systems are designed to document data changes 
+without deleting previously entered data (i.e. maintain an audit 
+trail).  
+6.4.3.5  Maintain a security system that prevents unauthorized access to the 
+data.  
+6.4.3.6  Maintain a register of persons authorized to make data changes.  
+6.4.3.7  Maintain adequate data backup.  
+6.4.3.8  Ensure that blinding, if any, is maintained during data entry and 
+processing.  
+6.4.3.9 Ensure the integrity and confidentiality of data, including any that 
+describe the context, content and structure of the data – especially 
+when making changes to computerized systems. 
+6.4.4 If data are transformed during processing, it must be possible to compare the 
+original data and observations with the processed data. 
+6.4.5 The Sponsor must use an unambiguous participant identification code that 
+allows identification of all data reported for each participant. 
+SA GCP 2020 35
+ 
+6.4.6 The Sponsor, or other owners of the data, must retain all the Sponsor-specific 
+essential documents pertaining to the trial for not less than 10 years or until 
+at least two years have elapsed since the formal discontinuation of clinical 
+development of the IP. 
+6.4.7 If the Sponsor discontinues clinical development of an IP, the Sponsor must 
+notify all Investigators and SAHPRA. 
+6.4.8 The Sponsor must inform the Investigator in writing of the need for record 
+retention and must notify the Investigator in writing when the trial-related 
+records are no longer needed. 
+6.4.9 Any transfer of ownership of the data must be reported to SAHPRA. 
+6.5 
+INFORMATION ON INVESTIGATIONAL PRODUCTS 
+6.5.1 When planning trials, a Sponsor should ensure that sufficient safety and 
+efficacy data from pre-clinical studies and/or clinical trials are available to 
+support human exposure using the proposed route, dosages, duration and in 
+the trial population to be studied. 
+6.5.2 The Sponsor must update the IB as new information becomes available. 
+6.6 
+MANUFACTURING, PACKAGING, LABELLING, AND CODING 
+INVESTIGATIONAL PRODUCTS 
+6.6.1 The Sponsor must ensure that the IP (including active comparator and 
+placebo, if applicable) is characterised as appropriate for the stage of 
+development of the product, is manufactured in accordance with any 
+applicable GMP standards, and is coded and labelled in a manner that 
+protects blinding, if applicable. Labelling must comply with South African 
+regulatory requirements, including the Medicines and Related Substances Act 
+No. 101 of 1965, and Regulation 30(9) (R.859 in GG 01464 dated 25 August 
+2017).  
+6.6.2 The Sponsor must determine the acceptable storage temperatures, storage 
+conditions (e.g. protection from light), storage times, reconstitution fluids and 
+procedures, and devices for product infusion, if any. Compliance with GPP 
+standards is required, where applicable. The Sponsor must inform all parties 
+involved (e.g. monitors, investigators, pharmacists, storage managers) of 
+these determinations. 
+6.6.3 The IP must be packaged to prevent contamination and deterioration during 
+transport and storage.  
+6.6.4 In blinded trials, the coding system for the IP must include a mechanism that 
+permits rapid identification of the IP in case of a medical emergency but does 
+not permit undetectable breaks of blinding. 
+6.6.5 If significant formulation changes are made to the IP or comparator product 
+during the course of clinical development, the results of any additional studies 
+of the formulated product (e.g. stability, dissolution rate, bioavailability) 
+36 SA GCP 2020  
+ 
+necessary to assess whether the pharmacokinetic profile of the product is 
+significantly altered must be available before use of the new formulation in 
+clinical trials.  
+6.7 
+SUPPLYING, HANDLING INVESTIGATIONAL PRODUCT(S) AND TRIAL-
+RELATED WASTE 
+6.7.1 The Sponsor is responsible for supplying a sufficient quantity of IP. 
+6.7.2 The Sponsor must not supply an Investigator with IP until the Sponsor 
+obtains all required documentation (e.g. REC and SAHPRA approval and other 
+regulatory documentation). 
+6.7.3 The Sponsor must ensure that written procedures include instructions and 
+relevant documents for the Investigator to follow for handling and storage of 
+IP for the trial. The procedures must address adequate and safe receipt, 
+handling, storage, dispensing, retrieval of unused product from participants, 
+and return of unused IP to the Sponsor (or alternative disposition if 
+authorised by the Sponsor and in compliance with the SAHPRA-approved 
+protocol). 
+6.7.4 The Sponsor must:  
+6.7.4.1 Ensure timely delivery of IP to the Investigator.  
+6.7.4.2 Maintain records that document shipment, receipt, disposition, 
+return and destruction of the IP. 
+6.7.4.3 Maintain a system for retrieving IP and documenting such retrieval 
+(e.g. for deficient product recall, reclaim after trial completion, 
+expired product reclaim).  
+6.7.4.4 Maintain a system for disposal of unused IP and for its 
+documentation. Disposal must be done according to South African 
+regulations. 
+6.7.4.5 Take steps to ensure that IP is stable over the period of use.  
+6.7.4.6 Maintain sufficient quantities of IP used in the trials to reconfirm 
+specifications, if necessary, and maintain records of batch sample 
+analyses and characteristics. To the extent that IP stability permits, 
+samples should be retained until analyses of trial data are complete 
+or as required by the applicable regulatory requirement(s), 
+whichever is longer.  
+6.7.4.7 The sponsor must provide and maintain a system for retrieving and 
+disposal of trial-related waste (e.g. syringes and needles). 
+6.8 
+RECORD ACCESS 
+6.8.1 The Sponsor must ensure that the protocol or other written agreement 
+specifies that the Investigator must provide direct access to source 
+data/documents for trial-related monitoring, audits, REC review and 
+regulatory inspection. 
+SA GCP 2020 37
+ 
+6.8.2 The Sponsor must verify that each participant has consented to direct access 
+to his/her original medical records for trial-related monitoring, audit, REC 
+review and regulatory inspection. 
+6.9 
+SAFETY INFORMATION 
+6.9.1 The Sponsor is responsible for ongoing safety evaluation of IP. 
+6.9.2 The Sponsor must promptly provide written notification to the Investigator 
+and SAHPRA of findings that may adversely affect the safety of participants, 
+affect the conduct of the trial and/or change the REC's approval to continue 
+the trial.  
+6.9.3 The commitment to provide safety information must be included in the CTA 
+signed between the Sponsor and the Investigator. 
+6.10 ADVERSE DRUG REACTION REPORTING 
+6.10.1 The Sponsor must expedite reporting of all adverse drug reactions (ADRs) 
+that are both serious and unexpected to all concerned, including the 
+Investigator and SAHPRA. 
+6.10.2 Expedited reporting should occur within the timeframe and format specified 
+by SAHPRA.   
+6.10.3 The Sponsor must submit all safety updates and periodic reports to SAHPRA 
+as required.  
+6.11 MONITORING 
+6.11.1 The purpose of trial monitoring is to verify that:  
+6.11.1.1 The rights and well-being of human participants are protected;  
+6.11.1.2 Reported trial data are accurate, complete and verifiable from 
+source documents; 
+6.11.1.3 The trial is conducted in compliance with the currently approved 
+protocol (including any amendments), with SA GCP 2020 and with 
+SAHPRA requirements.  
+6.11.2 Selection and Qualifications of Monitors 
+ 
+Monitors should be  
+6.11.2.1 Appointed by the Sponsor.  
+6.11.2.2 Appropriately trained, with the scientific and/or clinical knowledge 
+necessary to monitor the trial adequately. A monitor’s qualifications 
+should be documented.  
+6.11.2.3 Thoroughly familiar with the IP, the protocol, the informed consent 
+documents and other written information to be provided to 
+participants, the Sponsor’s SOPs, SA GCP 2020, and SAHPRA 
+requirements.   
+6.11.3 Extent and Nature of Monitoring: 
+6.11.3.1 The Sponsor must ensure that trials are adequately monitored in 
+accordance with SAHPRA requirements. The Sponsor should 
+determine the appropriate extent and nature of monitoring based on 
+38 SA GCP 2020  
+ 
+considerations such as the objective, purpose, design, complexity, 
+blinding, size and endpoints of the trial.  
+a) In general, on-site monitoring is necessary before, during and 
+after the trial;  
+b) Statistically controlled sampling may be acceptable for selecting 
+data to be verified.  
+6.11.3.2 The Sponsor must develop a systematic, prioritized, risk-based 
+approach to monitoring clinical trials. Flexibility in the extent and 
+nature of monitoring described in this section is intended to permit 
+varied approaches that improve the effectiveness and efficiency of 
+monitoring. A combination of on-site and centralized monitoring 
+activities may be appropriate. The sponsor should document the 
+rationale for the chosen monitoring strategy (e.g. in the monitoring 
+plan).  
+6.11.3.3 On-site monitoring is performed at the sites at which the clinical 
+trial is being conducted.  Centralized monitoring is a remote 
+evaluation of ongoing and/or cumulative data collected from trial 
+sites, in a timely manner.  
+6.11.3.4 Centralized monitoring processes provide additional monitoring 
+capabilities that can complement and reduce the extent and/or 
+frequency of on-site monitoring by such methods as:   
+a) Routine review of submitted data; 
+b) Identification of missing data, inconsistent data, data outliers or 
+unexpected lack of variability and protocol deviations that may 
+be indicative of systematic or significant errors in data collection 
+and reporting at a site or across sites, or may be indicative of 
+potential data manipulation or data integrity problems;  
+c) Using statistical analyses to identify data trends such as the 
+range and consistency of data within and across sites; 
+d) Analysing site characteristics and performance metrics;  
+e) Selection of sites and/or processes for targeted on-site 
+monitoring.  
+6.11.4 Monitor's Responsibilities: 
+In accordance with the Sponsor’s requirements, the Monitor must ensure that 
+the trial is conducted and documented properly by carrying out the following 
+activities when relevant and necessary to the trial and the trial site:  
+6.11.4.1 Act as the main line of communication between the Sponsor and 
+the Investigator;  
+6.11.4.2 Verify that the Investigator has adequate qualifications and 
+adequate resources throughout the trial period, and that facilities 
+(including laboratories, equipment and staff) are adequate to safely 
+and properly conduct the trial and remain adequate throughout the 
+trial period;   
+6.11.4.3 Verify, regarding the IP: 
+SA GCP 2020 39
+ 
+a) That storage times and conditions are acceptable, and that 
+supplies are sufficient throughout the trial.  
+b) That IP is supplied only to trial participants who are eligible to 
+receive it and at the protocol specified doses. 
+c) That participants are provided with the necessary instructions on 
+properly using, handling, storing and returning IP.  
+d) That receipt, use and return of IP at the trial sites are controlled 
+and documented adequately.  
+e) That disposal of unused IP at the trial sites complies with 
+applicable regulatory requirements.  
+6.11.4.4 Verify that the Investigator follows the approved protocol and all 
+approved amendments, if any.   
+6.11.4.5 Verify that written informed consent was obtained before each trial 
+participant's participation in the trial.   
+6.11.4.6 Ensure that the Investigator receives the current IB, all documents 
+and all trial supplies needed to conduct the trial safely and properly 
+in compliance with SAHPRA requirements.   
+6.11.4.7 Ensure that the Investigator and the Investigator's staff are 
+adequately informed about the trial.   
+6.11.4.8 Verify that the Investigator and the Investigator's staff are 
+performing specified trial functions in accordance with the protocol 
+and any other written agreement between the Sponsor and the 
+Investigator, and that functions have not been delegated to 
+unauthorized individuals.   
+6.11.4.9 Verify that the Investigator enrols only eligible participants.   
+6.11.4.10 Report the participant recruitment rate.   
+6.11.4.11 Verify that source documents and other trial records are accurate, 
+complete, kept up-to-date and maintained.   
+6.11.4.12 Verify that the Investigator provides all required reports, 
+notifications, applications and submissions, and that these 
+documents are accurate, complete, timely, legible, dated and 
+identify the trial.   
+6.11.4.13 Check the accuracy and completeness of the CRF entries, source 
+documents and other trial-related records against each other. The 
+Monitor should specifically verify that:   
+a) The data required by the protocol are reported accurately on the 
+CRFs and are consistent with the source documents;  
+b) Any dose and/or therapy modifications are well documented for 
+each of the trial participants;   
+c) AEs, concomitant medications and intercurrent illnesses are 
+reported in accordance with the protocol on the CRFs;   
+d) Visits that the participants fail to make, tests that are not 
+conducted, and examinations that are not performed are clearly 
+reported as such on the CRFs;  
+40 SA GCP 2020  
+ 
+e) All withdrawals and dropouts of enrolled participants from the 
+trial are reported and explained on the CRFs.   
+6.11.4.14 Inform the Investigator of any CRF entry error, omission or 
+illegibility. The Monitor must ensure that appropriate corrections, 
+additions or deletions are made, dated, explained (if necessary) 
+and initialled by the Investigator or by an authorised member;  
+6.11.4.15 Determine whether adverse events (AEs) are appropriately 
+reported within time periods required by GCP, the protocol, the 
+REC, the sponsor and SAHPRA;   
+6.11.4.16 Determine whether the Investigator maintains the essential 
+documents; 
+6.11.4.17 Communicate deviations from the protocol, SOPs, GCP and SAHPRA 
+requirements to the investigator and take appropriate action 
+designed to prevent recurrence of the detected deviations.   
+6.11.5 The Monitor must follow the Sponsor’s written SOPs as well as those 
+procedures specified by the Sponsor for monitoring a specific trial.  
+6.11.6 Monitoring Report: 
+6.11.6.1 The Monitor must submit a written report to the Sponsor and the 
+Investigator after each site visit or trial-related communication;   
+6.11.6.2 Reports must include the date, site, name of the Monitor and name 
+of the Investigator or other individual(s) contacted;   
+6.11.6.3 Reports must include a summary of what the Monitor reviewed and 
+the Monitor's statements concerning significant findings/facts, 
+deviations and deficiencies, conclusions, actions taken or to be 
+taken, and/or actions recommended to secure compliance;  
+6.11.6.4 Review and follow-up of the Monitoring Report with the Sponsor 
+must be documented by the Sponsor’s designated representative;  
+6.11.6.5 Monitoring results must be provided to the Sponsor (including 
+appropriate management and staff responsible for trial and site 
+oversight) in a timely manner for review and follow up as indicated. 
+Results of monitoring activities must be documented in sufficient 
+detail to allow verification of compliance with the monitoring plan.  
+6.11.7 Monitoring Plan: 
+6.11.7.1 The Sponsor must develop a monitoring plan tailored to specific 
+human participant protection and data integrity risks of the trial.  
+6.11.7.2 The plan must: 
+a) Describe the monitoring strategy, the monitoring responsibilities 
+of all the parties involved, the various monitoring methods to be 
+used and the rationale for their use; 
+b) Emphasize the monitoring of critical data and processes, and 
+give particular attention to those aspects that are not routine 
+clinical practice and that require additional training; and  
+c) Reference the applicable policies and procedures.   
+SA GCP 2020 41
+ 
+6.12  AUDITS 
+6.12.1 The purpose of a Sponsor's audit, which is independent of and separate from 
+routine monitoring or quality control functions, should be to evaluate trial 
+conduct and compliance with the protocol, SOPs, GCP and the applicable 
+regulatory requirements. The Sponsor must perform audits as part of 
+implementing quality assurance. 
+6.12.2 Selection and Qualification of Auditors: 
+6.12.2.1 The Sponsor must appoint individuals who are independent of the 
+clinical trials to conduct the audits. 
+6.12.2.2 The Sponsor must ensure that the auditors are qualified by training 
+and experience to conduct audits properly. An auditor’s 
+qualifications should be documented. 
+6.12.3 Auditing Procedures: 
+6.12.3.1 The Sponsor must ensure that the audit is conducted in accordance 
+with the Sponsor's written procedures. 
+6.12.3.2  The Sponsor's audit plan and procedures for a trial audit must be 
+guided by the number of participants in the trial, the type and 
+complexity of the trial, the level of risks to the trial participants, 
+and any identified problem(s). 
+6.12.3.3 Observations and findings of the auditors must be documented. 
+6.12.3.4 To preserve independence and value of the audit function, the 
+regulatory authority should not routinely request audit reports. A 
+regulatory authority may request an audit report on a case by case 
+basis when evidence of serious GCP non-compliance exists and/or 
+during legal proceedings. 
+6.12.3.5 When required by applicable law or regulation, the Sponsor must 
+provide an audit certificate. 
+6.13 PROCEDURES TO MANAGE NON-COMPLIANCE  
+6.13.1 The Sponsor is ethically obliged to inform the appropriate REC and SAHPRA 
+of possible instances of serious contravention of GCP during the course of a 
+clinical trial that affect participant's safety, the credibility of data and/or the 
+ethics of the trial. 
+6.13.2 When significant non-compliance is discovered, the Sponsor must perform a 
+root cause analysis and implement appropriate corrective and preventive 
+actions. 
+6.14 PREMATURE TERMINATION OR SUSPENSION OF A TRIAL 
+If a trial is prematurely terminated or suspended, the Sponsor must inform the 
+Investigator/Institution, REC and SAHPRA promptly of the termination or suspension 
+and the reason therefore.  
+42 SA GCP 2020  
+ 
+6.15 REPORTING AND RELEASE OF TRIAL RESULTS 
+6.15.1 The Sponsor must ensure that trial results and outcomes are reported to the 
+Investigators and SAHPRA as well as to the Department of Health via the 
+SANCTR. 
+6.15.2 The Sponsor and the PI are responsible for appropriate dissemination of the 
+trial findings.  
+6.15.3 Results should be disclosed within one year of completion of analysis of the 
+trial results.  
+6.16 PUBLICATION OF TRIAL RESULTS 
+6.16.1 In principle, the Investigator has a duty and a right to publish trial results, 
+and must negotiate accordingly with the Sponsor.   
+6.16.2 For collaborative studies and multi-centre trials, publication conditions must 
+be clearly described in the protocol, and approved by the relevant regulatory 
+authorities. 
+SA GCP 2020 43
+ 
+ 
+7. 
+CLINICAL TRIAL PROTOCOL  
+The contents of a trial protocol should generally include the topics mentioned below. 
+Site specific information may be provided on separate protocol pages or addressed in 
+a separate agreement. Some information may be in other protocol referenced 
+documents.  
+7.1 
+GENERAL INFORMATION 
+7.1.1 Protocol title, protocol identifying number and date. Any amendments should 
+also bear the amendment numbers and dates.  
+7.1.2 Name and address of the Sponsor and Monitor (if different from the 
+Sponsor).  
+7.1.3 Name of the person authorised to sign the protocol and amendments on 
+behalf of the Sponsor.  
+7.1.4 Name, address, and telephone number of the Sponsor's medical expert (or 
+dentist when appropriate) for the trial.  
+7.1.5 Name of the Investigator responsible for conducting the trial, and the address 
+and telephone number for the trial site.  
+7.1.6 Name, address and telephone number of the Investigator responsible for 
+trial-related medical or dental decisions.  
+7.1.7 Name and address of the clinical laboratory and other medical or technical 
+department or institution involved in the trial.  
+7.2 
+PROTOCOL BACKGROUND INFORMATION 
+7.2.1 Name and description of the IP.  
+7.2.2 A summary of findings from pre-clinical studies and clinical trials that 
+potentially have clinical significance relevant to the trial.  
+7.2.3 Summary of known and potential risks of harm and likelihood of benefits, if 
+any, to human participants.  
+7.2.4 Description of and justification for the route of administration, dosage, 
+dosage regimen and treatment period.  
+7.2.5 A statement that the trial will be conducted in compliance with the protocol, 
+GCP and the applicable regulatory requirements.  
+7.2.6 Description of the population to be studied.  
+7.2.7 References to literature and data relevant to the trial that provide context to 
+the trial.  
+7.3 
+STUDY RATIONALE AND MOTIVATION  
+7.3.1 The rationale and motivation for an ethically and scientifically valid trial are to 
+ask relevant and important questions that have significance for local and 
+international populations. Research should be conducted in a wide range of 
+44 SA GCP 2020  
+ 
+settings with different social, economic and geographical circumstances. 
+Careful evaluation and examination as to current and future relevance for the 
+research populations are required.  
+7.3.2 The rationale should demonstrate that the research question under 
+consideration has not been substantively answered previously and that 
+adequate systematic review of the topic under investigation has occurred. 
+Where appropriate, the existence of equipoise must be demonstrated. 
+7.3.3 The research proposal should include descriptions of the anticipated method 
+through which findings may be translated into mechanisms to improve the 
+health status of South Africans.  
+7.3.4 The social context of the proposed research population and the measures to  
+protect against unfair exploitation or increasing the vulnerability of potential 
+participants must be described.   
+7.4 
+TRIAL OBJECTIVES AND PURPOSE 
+A detailed description of the objectives and the purpose of the trial must be 
+provided.  
+7.5 
+TRIAL DESIGN 
+The scientific integrity of the trial and credibility of the data from the trial depend 
+substantially on the trial design. The description of the trial design must include:  
+7.5.1  A clear statement of the primary and secondary endpoints, if any, to be 
+measured during the trial.   
+7.5.2 The type of trial to be conducted (e.g. double-blind, placebo-controlled, 
+parallel design) and a schematic diagram of the design, procedures and 
+stages.  
+7.5.3 The measures to minimise or avoid bias, including:  
+7.5.3.1 
+Randomisation and blinding 
+a) Clinical equipoise is the principled basis for randomisation of 
+participants: a genuine uncertainty exists about the IP or 
+intervention that underpins the justification for the trial. 
+b) Randomisation or a propensity score prevents bias in allocation 
+of participants into different trial arms (e.g. treatment and 
+control arms) and thus assists to obtain an outcome that 
+reduces the uncertainty expressed by the concept. 
+7.5.4  Use of placebo  
+7.5.4.1 
+If use of a placebo is proposed, this must be properly justified in 
+terms of the Declaration of Helsinki and contextualised for local 
+circumstances. 
+7.5.4.2 
+In principle, use of placebo in clinical trials is morally justifiable only 
+when it is scientifically justifiable, i.e. a placebo may be used when 
+there is no evidence that an existing treatment is more effective 
+than placebo would be or where no proven treatment exists and 
+SA GCP 2020 45
+ 
+use of the placebo will not pose a risk of serious or irreversible 
+harm to participants. 
+7.5.4.3 
+Placebo may be used as a comparator when no established 
+effective intervention for the condition under study exists, or when 
+placebo is added to an established effective intervention.  
+7.5.4.4  When an established effective intervention exists, placebo may be 
+used as a comparator without the established effective intervention 
+only if:  
+a) Compelling scientific reasons indicate use of placebo; and  
+b) Delaying or withholding the established effective intervention 
+poses no more than a minor increase over minimal risk of harm 
+to the participant; and  
+c) The risk is minimised, including through the use of effective 
+mitigation procedures. 
+7.5.5  The trial treatment, dosage and dosage regimen of the IP, as well as the 
+dosage form, packaging and labelling of the IP.  
+7.5.6  The expected duration of participation, the sequence and duration of trial 
+periods, including follow-up, if any. 
+7.5.7  The "stopping rules" or "discontinuation criteria" for individual participants, 
+for parts of trial and for the whole trial.  
+7.5.8  Accountability procedures for the IP, including placebo and comparator, if 
+any.  
+7.5.9  Maintenance of trial treatment randomisation codes and procedures for 
+breaking codes. 
+7.5.10  Identification of any data to be recorded directly on CRFs (i.e. without prior 
+written or electronic record of data), to be considered to be source data. 
+7.6 
+SELECTION OF TRIAL PARTICIPANTS AND WITHDRAWAL FROM 
+TRIAL INTERVENTION 
+The following must be included: 
+7.6.1  Participant inclusion criteria.  
+7.6.2  Participant exclusion criteria.  
+7.6.3  Participant withdrawal criteria (i.e. to terminate trial intervention) and 
+procedures that specify:  
+7.6.3.1 
+When and how to withdraw participants from the IP treatment; 
+7.6.3.2 
+The type and timing of data to be collected for withdrawn 
+participants; 
+7.6.3.3 
+Whether and how participants are to be replaced;  
+7.6.3.4 
+Follow-up for participants withdrawn from IP intervention/trial 
+participation.  
+NOTE: Withdrawal from trial intervention does not necessarily mean withdrawal from 
+trial participation 
+46 SA GCP 2020  
+ 
+7.7 
+ INVESTIGATIONAL PRODUCT, COMPARATOR AND CONCOMITANT 
+MEDICATION 
+7.7.1  The IP and comparator medication, if applicable, to be administered, 
+including the name of the product, the dose, the dosing schedule, the route 
+of administration and the administration period. 
+7.7.2  Concomitant medication permitted (including rescue medication) or not 
+permitted before and/or during the trial.  
+7.7.3  Procedures for monitoring participant compliance.  
+7.8 
+ASSESSMENT OF EFFICACY 
+7.8.1  Specification of efficacy parameters. 
+7.8.2  Methods and timing for assessing, recording and analysing efficacy 
+parameters.  
+7.9 
+ASSESSMENT OF SAFETY 
+7.9.1  Specification of safety parameters. 
+7.9.2  The methods and timing for assessing, recording and analysing safety 
+parameters.  
+7.9.3  Procedures for eliciting reports of and for recording and reporting AEs and 
+intercurrent illnesses. 
+7.9.4  The type and duration of the follow-up of participants after AEs. 
+7.9.5  The protocol must make provision for appropriate therapy to manage any AEs.  
+7.10 STATISTICS 
+7.10.1  Describe the statistical methods to be used, including the timing of planned 
+interim analyses, if applicable. 
+7.10.2  State the number of participants to be enrolled. In multi-centre trials, the 
+number of participants projected for each trial site must be specified. Provide 
+the reason for the choice of sample size, including discussion and calculations 
+of the power of the trial and the clinical justification.  
+7.10.3  Justify the significance level to be used. 
+7.10.4 Describe the criteria for termination of the trial. 
+7.10.5  Describe the procedure for accounting for missing, unused and spurious data. 
+7.10.6  Describe the procedures to describe and report deviation from the original 
+statistical plan.  
+7.10.7  Describe the selection of participants to be included in the analyses (e.g. all 
+randomized participants, all dosed participants, all eligible participants, all 
+evaluable participants).  
+SA GCP 2020 47
+ 
+7.11 DIRECT ACCESS TO SOURCE DATA AND DOCUMENTS 
+7.11.1 The Sponsor must ensure that the protocol and/or other written agreement 
+specifies that the Investigator must provide direct access to source data and 
+documents for trial-related monitoring, audits, REC review and regulatory 
+inspection. 
+7.11.2 The Sponsor must verify that each participant has consented to direct access 
+to his/her original medical records for trial-related monitoring, audit, REC 
+review and regulatory inspection. 
+7.12 ETHICAL CONSIDERATIONS 
+7.12.1 Before submission of the protocol to the REC and SAHPRA, the local PI must 
+describe ethical considerations pertaining to local conditions relating to the 
+trial (see 3.1 and 3.2 of DoH 2015), including how the following aspects are 
+addressed:  
+7.12.1.1 Multi-centre or multi-national and collaborating trials with 
+international research groups must comply with all local i.e. South 
+African regulatory requirements;  
+7.12.1.2 The trial design must be customised appropriately for the local 
+setting to ensure that local realities are considered and 
+appropriately integrated into the design.  
+7.12.3 SAHPRA and RECs must review proposals carefully to ensure that feasible and 
+appropriate modifications are made for the local context.  
+7.12.4  In the interests of capacity building and transformation, SAHPRA and RECs 
+should note, for multi-national trials, whether a reasonable proportion of 
+significant project team members including scientists and health care 
+professionals, are South African researchers, including those from previously 
+disadvantaged backgrounds.  
+7.12.5 If South Africa is selected as a clinical trial site but the country of origin or 
+other high income countries are not, the Sponsor must explain the reason 
+thereof and provide a clear ethical justification. 
+7.13 DATA HANDLING AND RECORD KEEPING 
+The aim of data management is to turn the information collected from a participant, 
+efficiently and without errors, into data in the statistical database. All steps involved 
+in this process must be documented to allow for step-by-step retrospective 
+assessment of data quality and study performance, i.e. an audit trail.  
+7.14 FINANCING AND INSURANCE 
+Describe arrangements for financing and insurance (trial and malpractice), if not 
+addressed in a separate agreement. 
+7.15 PUBLICATION POLICY 
+Describe the publication policy, if not addressed in a separate agreement. 
+48 SA GCP 2020  
+ 
+7.16 SUPPLEMENTS TO THE PROTOCOL 
+Since the protocol and the clinical trial report are closely related, further relevant 
+information can be found in the ICH Guideline for Structure and Content of Clinical 
+Study Reports. 
+SA GCP 2020 49
+ 
+ 
+8  
+INVESTIGATOR’S BROCHURE  
+8.1 
+INTRODUCTION 
+8.1.1 The IB is a compilation of clinical and pre-clinical data on the IP relevant to 
+study of the product in human participants. Its purpose is to provide 
+Investigators and others involved in the trial with information to facilitate 
+understanding of the rationale for, and compliance with, key features of the 
+protocol, such as dose, dose frequency and interval, methods of 
+administration and safety monitoring procedures.  
+8.1.2 The IB supports clinical management of participants during the clinical trial. 
+The information must be presented in a concise, simple, objective, balanced 
+and non-promotional form to enable a clinician or potential Investigator to 
+understand and make an unbiased risk-benefit assessment of the 
+appropriateness of the proposed trial. Accordingly, a medically qualified 
+person should participate in editing the IB, subject to approval by the 
+disciplines that generated the described data. 
+8.1.3 The type and extent of information available will vary according to the stage 
+of development of the IP. If the IP is marketed and its pharmacology widely 
+understood by medical practitioners, an extensive IB may not be necessary. 
+Where permitted by regulatory authorities, a basic product information 
+brochure, package leaflet or labelling may be an appropriate alternative, 
+provided it includes current, comprehensive and detailed information on 
+aspects of the IP of importance to the Investigator. If a marketed product is 
+studied for a new use (i.e. a new indication), an IB specific to the new use 
+must be prepared.  
+8.1.4 The IB should be reviewed at least annually and revised as necessary in 
+compliance with the Sponsor's written procedures. More frequent revision 
+may be appropriate depending on the stage of development and generation 
+of relevant new information. However, in accordance with GCP, important 
+new information must be communicated to Investigators, and preferably to 
+the REC and SAHPRA before it is included in a revised IB.  
+8.1.5 Generally, the Sponsor must ensure that an up-to-date IB is available to the 
+Investigator; Investigators must provide it to the responsible REC.  
+8.1.6 In the case of an Investigator-Sponsored trial, the Sponsor-Investigator must 
+determine whether an IB is available from the commercial manufacturer. If 
+the IP is provided by the Sponsor-Investigator, then he/she must provide the 
+necessary information to the trial personnel.  
+8.1.7 Where preparation of a formal IB is impractical, the Sponsor-Investigator 
+must substitute an expanded background information section in the protocol 
+that describes the minimum current information as described in this guideline.  
+50 SA GCP 2020  
+ 
+8.2 
+CONTENT OF INVESTIGATOR’S BROCHURE 
+The IB should contain the following sections, each with literature references where 
+appropriate:  
+8.2.1  Table of Contents.  
+8.2.2 Summary: A brief summary (preferably not exceeding two pages) must 
+highlight the significant physical, chemical, pharmaceutical, pharmacological, 
+toxicological, pharmacokinetic, metabolic and clinical information available 
+that is relevant to the stage of clinical development of the IP.  
+8.2.3 A brief introductory statement should contain the chemical name (and 
+generic and trade name for an approved product) of the IP, all active 
+ingredients in the IP, its pharmacological class and expected position within 
+this class (e.g. advantages), the rationale for conducting research with the IP, 
+and the anticipated prophylactic, therapeutic and/or diagnostic indications. 
+Describe the general approach to be followed in evaluating the IP.  
+8.2.4 Physical, Chemical, and Pharmaceutical Properties and Formulation. 
+8.2.5 Pre-clinical Studies: The results of relevant pre-clinical pharmacology, 
+toxicology, pharmacokinetic and IP metabolism studies must be provided in 
+summary form which should address the methodology used, the results and a 
+discussion of the relevance of the findings to the investigated therapeutic 
+(and possible unfavourable or unintended) effects in humans.  
+8.2.6 Effects in Humans: Discuss the known effects of the IP in humans, including 
+pharmacokinetics, metabolism, pharmacodynamics, dose response, safety, 
+efficacy and other pharmacological activities. Where possible, provide a 
+summary of each completed clinical trial. Provide information about results of 
+any use of the IP other than in clinical trials, such as experience during 
+marketing. 
+8.2.7 Summary of Data and Guidance for the Investigator: This section must 
+provide an overall discussion of pre-clinical and clinical data, to synthesise the 
+information from various sources on different aspects of the IP(s), wherever 
+possible. In this way, an Investigator has the most informative interpretation 
+of available data with an assessment of implications of the information for 
+future clinical trials. Where appropriate, published reports on related products 
+should be discussed to help the Investigator to anticipate ADR or other 
+problems in clinical trials. 
+SA GCP 2020 51
+ 
+ 
+9  
+ESSENTIAL DOCUMENTS TO CONDUCT A CLINICAL TRIAL  
+9.1  
+INTRODUCTION  
+9.1.1 Essential Documents individually and collectively permit evaluation of the 
+conduct of a trial and the quality of data produced. These documents 
+demonstrate compliance by the Investigator, Sponsor and Monitor with the 
+standards of GCP and applicable regulatory requirements. 
+9.1.2 Filing Essential Documents at Investigator and Sponsor sites in a timely 
+manner assists with management of a trial by the Investigator, Sponsor and 
+Monitor.  
+9.1.3 These documents are usually audited during the Sponsor's independent audit 
+function and inspected by SAHPRA to confirm validity of the trial conduct and 
+integrity of data collected. 
+9.1.4 The various documents are grouped in three sections according to the stage 
+of the trial during which they will normally be generated: 
+9.1.4.1 
+Before the clinical phase of the trial commences; 
+9.1.4.2 
+During the clinical conduct of the trial; and 
+9.1.4.3 
+After completion or termination of the trial. 
+The purpose of each document, and whether it should be filed in either the 
+Investigator/Institution or Sponsor files, or both is described. Documents may 
+be combined, provided the individual elements are readily identifiable.  
+9.1.5 Trial Master Files (TMF) must be established at the beginning of the trial, at 
+both the Investigator's site and at the Sponsor's office. A final close-out of a 
+trial can be done only when both Investigator and Sponsor TMFs have been 
+reviewed, reconciled and confirmed that all necessary documents are in the 
+appropriate files.  
+9.1.6 Any of the documents addressed in this guideline must be available for audit 
+by the Sponsor's auditor and inspection by SAHPRA. 
+9.2  
+BEFORE THE CLINICAL PHASE OF THE TRIAL COMMENCES  
+During the planning stage, the following documents should be generated and be on 
+file before the trial formally starts. 
+ 
+52 SA GCP 2020  
+ 
+ 
+Title of Document 
+Purpose 
+Located in Files of 
+Investigator/ 
+Institution 
+Sponsor 
+INVESTIGATOR'S BROCHURE 
+To document that relevant and current 
+scientific information about the investigational 
+product has been provided to the Investigator 
+X 
+X 
+SIGNED PROTOCOL AND 
+AMENDMENTS, IF ANY, AND SAMPLE 
+CASE REPORT FORM (CRF) 
+To document Investigator and Sponsor 
+agreement to the protocol/amendment(s) and 
+CRF 
+X 
+X 
+INFORMATION GIVEN TO TRIAL 
+PARTICIPANT  
+ 
+ 
+ 
+-   INFORMED CONSENT FORM 
+(including all applicable translations) 
+ 
+To document the informed consent 
+X 
+X 
+-  ANY OTHER WRITTEN 
+INFORMATION 
+To document that participants will be given 
+appropriate written information (content and 
+wording) to support their ability to give fully 
+informed consent 
+X 
+X 
+-  ADVERTISEMENT FOR 
+PARTICIPANT RECRUITMENT  
+To document that recruitment measures are 
+appropriate and not coercive 
+X 
+ 
+FINANCIAL ASPECTS OF THE TRIAL 
+To document the financial agreement between 
+the Investigator/Institution and the Sponsor for 
+the trial 
+X 
+X 
+INSURANCE STATEMENT 
+(where required) 
+To document that compensation to 
+participant(s) for trial-related injury will be 
+available 
+X 
+X 
+SIGNED AGREEMENT BETWEEN 
+INVOLVED PARTIES e.g. 
+To document agreements 
+ 
+ 
+- 
+Investigation/Institution and 
+Sponsor 
+ 
+X 
+X 
+ 
+ 
+ 
+ 
+- 
+Investigator/Institution and CRO 
+ 
+X 
+X  
+(where 
+required) 
+- 
+Sponsor and CRO 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+- 
+Investigator/Institution and 
+authority(ies) (where required) 
+ 
+X 
+X 
+DATED, DOCUMENTED 
+APPROVAL/FAVOURABLE OPINION 
+OF REC OF THE FOLLOWING:  
+- 
+Protocol and any amendments;  
+- 
+CRF (if applicable); informed 
+consent form(s); 
+- 
+Any other written information to 
+be provided to the 
+participant(s); 
+- 
+Advertisement for participant 
+recruitment (if used);  
+- 
+Participant compensation;  
+- 
+Any other documents given 
+approval/favourable opinion 
+To document that the trial has been participant 
+to REC review and given approval/favourable 
+opinion. To identify the version number and 
+date of the document(s) 
+X 
+X 
+SA GCP 2020 53
+ 
+ 
+Title of Document 
+Purpose 
+Located in Files of 
+ 
+ 
+ 
+ 
+ 
+Investigator/ 
+Institution 
+Sponsor 
+REC COMPOSITION 
+To document that the REC is constituted in 
+accordance with GCP 
+X 
+X 
+(where 
+required) 
+REGULATORY AUTHORITY(IES) 
+AUTHORISATION/APPROVAL/ 
+NOTIFICATION OF PROTOCOL 
+(where required) 
+To document appropriate 
+authorisation/approval/notification by the 
+regulatory authority(ies) has been obtained 
+prior to initiation of the trial in compliance with 
+the applicable regulatory requirement(s) 
+X 
+(where 
+required) 
+X 
+(where 
+required) 
+CURRICULUM VITAE AND/OR OTHER 
+RELEVANT DOCUMENTS 
+EVIDENCING QUALIFICATIONS OF 
+INVESTIGATOR(S) AND 
+SUBINVESTIGATOR(S) 
+To document qualifications and eligibility to 
+conduct trial and/or provide medical 
+supervision of participants 
+X 
+X 
+NORMAL VALUE(S)/RANGE(S) 
+FOR MEDICAL/ LABORATORY/ 
+TECHNICAL PROCEDURE(S) 
+AND/OR TEST(S) INCLUDED 
+IN THE PROTOCOL 
+To document normal values and/or ranges 
+of the tests 
+X 
+X 
+MEDICAL/LABORATORY/ 
+TECHNICAL PROCEDURES/ TESTS 
+-    Certification;  
+-    Accreditation;  
+-    Established quality control 
+and/or external quality 
+assessment; or  
+-     Other validation              
+To document competence of facility to perform 
+required test(s), and support reliability of 
+results 
+X 
+(where 
+required) 
+X 
+SAMPLE OF LABEL(S) ATTACHED TO 
+INVESTIGATIONAL PRODUCT 
+CONTAINER(S) 
+To document compliance with applicable 
+labelling regulations and appropriateness of 
+instructions provided to the participants 
+ 
+X 
+INSTRUCTIONS FOR HANDLING OF 
+INVESTIGATIONAL PRODUCT(S) 
+AND TRIAL-RELATED MATERIALS (if 
+not included in protocol or IB) 
+To document instructions needed to ensure 
+proper storage, packaging, dispensing and 
+disposition of investigational products and trial-
+related materials 
+X 
+X 
+SHIPPING RECORDS FOR 
+INVESTIGATIONAL PRODUCT(S) 
+AND TRIAL-RELATED MATERIALS 
+To document shipment dates, batch numbers 
+and method of shipment of investigational 
+product(s) and trial-related materials. Allows 
+tracking of product batch, review of shipping 
+conditions, and accountability 
+X 
+X 
+CERTIFICATE(S) OF ANALYSIS OF 
+INVESTIGATIONAL PRODUCT(S) 
+To document identity, purity and strength of 
+investigational product(s) to be used in the trial 
+ 
+X 
+DECODING PROCEDURES FOR 
+BLINDED TRIALS 
+To document how, in case of an emergency, 
+identity of blinded investigational product can 
+be revealed without breaking the blind for the 
+remaining participants' treatment 
+X 
+X 
+(third party if 
+applicable) 
+MASTER RANDOMISATION LIST 
+To document method for randomisation of 
+trial population 
+ 
+X 
+(third party if 
+applicable) 
+PRE-TRIAL MONITORING REPORT 
+To document that the site is suitable for the 
+trial (may be combined with the trial initiation 
+monitoring report) 
+ 
+X 
+54 SA GCP 2020  
+ 
+ 
+Title of Document 
+Purpose 
+Located in Files of 
+Investigator/ 
+Institution 
+Sponsor 
+ 
+ 
+ 
+ 
+TRIAL INITIATION MONITORING 
+REPORT 
+To document that trial procedures were 
+reviewed with the Investigator and the 
+Investigator's trial staff (may be combined with 
+the pre-trial monitoring report) 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.3  
+DURING THE CLINICAL CONDUCT OF THE TRIAL  
+The following must be added to the files during the trial to evidence that all new 
+relevant information is documented as it becomes available. 
+ 
+Title of Document 
+Purpose 
+Located in Files of 
+Investigator
+/ Institution 
+ 
+Sponsor 
+INVESTIGATOR'S BROCHURE 
+UPDATES 
+To document that Investigator is informed in a 
+timely manner of relevant information as it 
+becomes available 
+X 
+X 
+ANY REVISION TO: 
+–   Protocol/amendment(s) and CRF 
+–   Informed consent form 
+–   Any other written information 
+provided to participants 
+–   Advertisement for participant 
+recruitment (if used) 
+To document revisions of these trial-related 
+documents that take effect during trial 
+X 
+X 
+DATED, DOCUMENTED APPROVAL/ 
+FAVOURABLE OPINION OF REC OF 
+THE 
+FOLLOWING: 
+–   Protocol amendment(s) 
+–   Revision(s) of informed consent 
+form and/or any other written 
+information to be provided to 
+the participant 
+- 
+Advertisement for participant 
+recruitment (if used) 
+- 
+Any other documents given 
+approval/favourable opinion 
+- 
+Continuing review of trial (where 
+required) 
+To document that the amendment(s) and/or 
+revision(s) have been participant to REC review 
+and were given approval/favourable  
+opinion. To identify the version number and 
+date of the document(s). 
+X 
+X 
+REGULATORY AUTHORITY(IES) 
+AUTHORISATIONS/APPROVALS/ 
+NOTIFICATIONS WHERE REQUIRED 
+FOR: 
+–    Protocol amendment(s) and 
+other documents 
+To document compliance with applicable 
+regulatory requirements 
+X 
+(where 
+required) 
+X 
+SA GCP 2020 55
+ 
+ 
+Title of Document 
+Purpose 
+Located in Files of 
+ 
+ 
+Investigator/ 
+Institution 
+Sponsor 
+CURRICULUM VITAE FOR NEW 
+INVESTIGATOR(S) AND/OR 
+SUBINVESTIGATOR(S) 
+ 
+X 
+X 
+UPDATES TO NORMAL VALUE(S)/ 
+RANGE(S) FOR MEDICAL/ 
+LABORATORY/TECHNICAL 
+PROCEDURE(S)/TEST(S) 
+INCLUDED IN THE PROTOCOL 
+To document normal values and ranges that 
+are revised during the trial 
+X 
+ 
+UPDATES OF MEDICAL/ 
+LABORATORY/TECHNICAL 
+PROCEDURES/TESTS 
+–   Certification or 
+–   Accreditation or 
+–   Established quality control 
+and/or external quality 
+assessment or  
+–   Other validation (where 
+required) 
+To document that tests remain adequate 
+throughout the trial period 
+X 
+(where 
+required) 
+X 
+DOCUMENTATION OF 
+INVESTIGATIONAL PRODUCT(S) 
+AND TRIAL-RELATED MATERIALS 
+SHIPMENT 
+To document shipment dates, batch numbers 
+and method of shipment of investigational 
+product(s) and trial-related materials. Allows 
+tracking of product batch, review of shipping 
+conditions and accountability 
+X 
+X 
+CERTIFICATE(S) OF ANALYSIS FOR 
+NEW BATCHES OF 
+INVESTIGATIONAL PRODUCTS 
+To document identity, purity and strength of 
+investigational product(s) to be used in the 
+trial 
+ 
+X 
+MONITORING VISIT REPORTS 
+To document site visits by, and findings of, the 
+monitor 
+ 
+X 
+RELEVANT COMMUNICATIONS 
+OTHER THAN SITE VISITS 
+– Letters 
+– Meeting notes 
+– Notes of telephone calls 
+To document any agreements or 
+significant discussions regarding trial 
+administration, protocol deviations/ violations, 
+trial conduct, adverse event (AE) reporting 
+X 
+X 
+SIGNED INFORMED CONSENT 
+FORMS 
+To document that consent is obtained in 
+accordance with GCP and protocol and dated 
+prior to participation of each participant in trial. 
+Also to document direct access permission 
+X 
+ 
+SOURCE DOCUMENTS 
+To document the existence of the participant 
+and substantiate integrity of trial data 
+collected. To include original documents related 
+to the trial, to medical treatment, and history of 
+participant 
+X 
+ 
+SIGNED, DATED AND COMPLETED 
+CASE REPORT FORMS (CRF) 
+To document that the investigator or 
+authorised member of the investigator's staff 
+confirms the observations recorded 
+X 
+(copy) 
+X  
+(original) 
+DOCUMENTATION OF CRF 
+CORRECTIONS 
+To document all changes/additions or 
+corrections made to CRF after initial 
+data were recorded 
+X 
+(copy) 
+X  
+(original) 
+NOTIFICATION BY ORIGINATING 
+INVESTIGATOR TO SPONSOR OF 
+SERIOUS ADVERSE EVENTS AND 
+RELATED REPORTS 
+Notification by originating investigator to 
+Sponsor of serious adverse events and related 
+reports in accordance with the South African 
+Good Clinical Practice: Clinical Trials Guidelines. 
+X 
+X 
+56 SA GCP 2020  
+ 
+ 
+ 
+Title of Document 
+Purpose 
+Located in Files of 
+Investigator/ 
+Institution 
+Sponsor 
+NOTIFICATION BY SPONSOR AND/ 
+OR INVESTIGATOR, WHERE 
+APPLICABLE, TO REGULATORY 
+AUTHORITY(IES) AND REC(S) OF 
+UNEXPECTED SERIOUS 
+ADVERSE DRUG REACTIONS AND OF 
+OTHER SAFETY INFORMATION 
+Notification by Sponsor and/or investigator, 
+where applicable, to regulatory authorities and 
+REC(s) of unexpected serious ADRs in 
+accordance with SA GCP 
+X 
+(where 
+required) 
+X 
+NOTIFICATION BY SPONSOR TO 
+INVESTIGATORS OF SAFETY 
+INFORMATION 
+Notification by Sponsor to Investigators of 
+safety information in accordance with the SA 
+GCP. 
+X 
+X 
+INTERIM OR ANNUAL REPORTS TO 
+REC AND AUTHORITIES 
+Interim or annual reports provided to REC and 
+to authorities in accordance with accordance 
+with SA GCP.  
+X 
+X 
+(where 
+required 
+PARTICIPANT SCREENING LOG 
+To document identification of participants who 
+entered pre-trial screening 
+X 
+X 
+(where 
+required 
+PARTICIPANT IDENTIFICATION 
+CODE LIST 
+To document that Investigator/Institution 
+keeps a confidential list of names of all 
+participants allocated to trial numbers on 
+enrolling in the trial. Allows 
+Investigator/Institution to reveal 
+identity of any participant 
+X 
+ 
+PARTICIPANT ENROLMENT LOG 
+To document chronological enrolment of 
+participants by trial number 
+X 
+ 
+INVESTIGATIONAL PRODUCTS 
+ACCOUNTABILITY AT THE SITE 
+To document that IP(s) 
+have been used according to the protocol 
+X 
+X 
+SIGNATURE SHEET 
+To document signatures and initials of all 
+persons authorised to make entries and/or 
+corrections on CRFs 
+X 
+X 
+RECORD OF RETAINED BODY 
+FLUIDS/TISSUE SAMPLES (IF ANY) 
+To document location and identification of 
+retained samples if assays need to be repeated 
+X 
+X 
+ 
+9.4  
+AFTER COMPLETION OR TERMINATION OF THE TRIAL  
+After completion or termination of the trial, all the documents identified in sections 
+9.2 and 9.3 should be in the file together with the following: 
+ 
+Title of Document 
+Purpose 
+Located in Files of 
+Investigator
+/ Institution 
+ 
+Sponsor 
+INVESTIGATIONAL PRODUCT(S) 
+ACCOUNTABILITY AT SITE 
+To document that the investigational product(s) 
+have been used according to the protocol. To 
+documents the final accounting of 
+investigational product(s) received at the site, 
+dispensed to participants, returned by the 
+participants and returned to Sponsor 
+X 
+X 
+SA GCP 2020 57
+ 
+Title of Document 
+Purpose 
+Located in Files of 
+Investigator/ 
+Institution 
+Sponsor 
+DOCUMENTATION OF 
+INVESTIGATIONAL PRODUCT 
+DESTRUCTION 
+To document destruction of unused 
+investigational products by Sponsor or at site 
+X  
+(if 
+destroyed 
+at site) 
+X 
+COMPLETED PARTICIPANT 
+IDENTIFICATION CODE LIST 
+To permit identification of all participants 
+enrolled in the trial in case follow-up is 
+required. List should be kept in a confidential 
+manner and for agreed upon time 
+X 
+ 
+AUDIT CERTIFICATE (if available) 
+To document that audit was performed 
+ 
+X 
+FINAL TRIAL CLOSE-OUT 
+MONITORING REPORT 
+To document that all activities required for trial 
+close-out are completed, and copies of 
+essential documents are held in the appropriate 
+files 
+ 
+X 
+TREATMENT ALLOCATION AND 
+DECODING DOCUMENTATION 
+Returned to Sponsor to document any 
+decoding that may have occurred 
+ 
+X 
+FINAL REPORT BY INVESTIGATOR 
+TO REC WHERE REQUIRED, 
+AND WHERE APPLICABLE, TO THE 
+REGULATORY AUTHORITY(IES) 
+To document completion of the trial 
+X 
+ 
+CLINICAL STUDY REPORT 
+To document results and interpretation of trial 
+X (if 
+applicable) 
+X 
+58 SA GCP 2020  
+ 
+10  
+OTHER RELEVANT CONSIDERATIONS  
+10.1  CONFLICT OF INTEREST (COI) 
+10.1.1 A COI arises when a secondary interest (e.g. scientific recognition or financial 
+gain) conflicts with the ethical conduct of research, the primary goal of 
+health-related research.  A COI may, or may be perceived, to directly or 
+indirectly influence research activities, including but not limited to the choice 
+of research questions and methods, recruitment and retention of participants, 
+interpretation and reporting of data.  
+10.1.2 COIs pose concerns because of the potential to affect the well-being of 
+participants, as well as the integrity of the research.  
+10.1.3 Conflicts may arise naturally from engagement between researchers, 
+universities, Sponsors, funders, RECs, regulatory authorities and other 
+entities. 
+NOTE: The mere existence of a COI does not necessarily imply wrongdoing.  
+10.1.4 COIs must be identified, disclosed and properly managed or eliminated to 
+ensure transparency and accountability in trials.  
+10.1.5 Institutions that host clinical trials and RECs that review proposals for clinical 
+trials must have clearly formulated COI policies and SOPs; relevant personnel 
+must know how to make disclosure and how to manage disclosures of 
+affiliation with, or financial involvement in, any organization or entity with an 
+interest in the subject matter or materials of researchers. 
+10.1.6 The range of potential interests includes direct benefits, such as sponsorship 
+of the investigation, indirect benefits, such as provision of material or 
+facilities, and support of individuals, such as provision for travel or 
+accommodation expenses to attend conferences. Disclosure should cover any 
+situation in which COI may, or may be perceived to, affect decisions. 
+10.1.7 Each individual is responsible for recognising situations in which he/she may 
+have or may be perceived to have a COI, or might reasonably be seen by 
+others to have a conflict, and to disclose to the appropriate person or entity 
+and to follow the policy and procedures. 
+10.1.8 If an individual is uncertain about the existence of a COI, enquiries should be 
+made to the appropriate person as per the policy. 
+10.2  INSURANCE AGAINST TRIAL-RELATED INJURIES  
+10.2.1 Basic Principles:5 
+10.2.1.1 Research participants should not bear any financial cost to rectify 
+harms that occur as a result of trial participation. It is thus essential 
+that provision is made for comprehensive insurance against trial-
+related bodily injury.  
+ 
+5 See also 3.5.3 in DoH 2015. 
+SA GCP 2020 59
+ 
+10.2.1.2 Sponsors adopt the morally right convention of paying for 
+insurance cover for medical treatment in the event of trial-related 
+injuries, including death. In South Africa, it is mandatory to have 
+adequate comprehensive insurance cover for clinical trials, and 
+RECs and regulatory authority should assess that it is in place.  
+10.2.1.3 The insurer pays the medical costs of necessary treatment to 
+restore the participant to his/her previous position, if possible. 
+10.2.1.4 Payment of medical expenses by the insurer is triggered when 
+bodily or other injury is attributable to trial participation. In the 
+case of an in utero injury due to the mother’s participation, 
+payment for medical expenses proceeds as though the unborn child 
+is a research participant. 
+10.2.1.5 In principle, only bodily injuries of an enduring and disabling 
+character (including exacerbation of an existing condition) and/or 
+death are covered by the insurance. Temporary pain or discomfort 
+or less serious or curable complaints are generally not regarded as 
+trial-related bodily injury. In the case of bodily injury caused by the 
+response to an AE to a medicinal product under trial, the insurance 
+cover will apply. 
+10.2.1.6 Payment for medical expenses is made without acknowledgement 
+of any legal liability and is thus to be understood to be an ex gratia 
+payment. 
+10.2.1.7 The provision of insurance cover and payment of medical expenses 
+does not mean that an injured participant may not pursue legal 
+action against the Sponsor to claim compensation based for 
+negligence in a South African court for loss or harm not covered by 
+the insurance. However, an argument that pain and suffering, loss 
+of income and other possible claims should be paid for by the 
+Sponsor’s insurer is not sound in South African law and will not 
+succeed.6 
+10.2.2 The insurance cover usually does not extend to situations where: 
+10.2.2.1 An IP fails to demonstrate its intended effect or to provide any 
+other benefit to the participant; 
+10.2.2.2 Participants receive placebo which fails to provide a therapeutic 
+effect; and 
+10.2.2.3 Events occur that are not part of the trial protocol. 
+ 
+10.2.3 Insurance cover may be limited in some instances: 
+10.2.3.1 Where bodily injury arises in circumstances that involve: 
+a) a significant departure from the approved protocol; 
+b) the wrongful act or omission of a third party, including a 
+clinician’s failure to deal adequately with an AE; and/or 
+c) contributory negligence by the participant,  
+ 
+6 See 3.5.3 in DoH 2015. 
+60 SA GCP 2020  
+ 
+the amount paid should be appropriate to the nature, severity and 
+persistence of the bodily injury, and should be consistent with the 
+amount of damages (compensation) that would ordinarily be 
+awarded by a South African court for similar injuries in instances 
+where legal liability is admitted. 
+10.2.3.2 The amount to be paid may be abated (diminished), or in certain 
+circumstances excluded, in light of: 
+a) the seriousness of the bodily injury being treated; 
+b) the degree of probability that ADRs would occur and the 
+warnings given to the participant; and/or 
+c) the risks and benefits of established treatments relative to those 
+known or suspected of the IP. 
+10.2.3.3 The interpretation and weighting of factors depend on the level of 
+risk that a participant can reasonably be expected to accept. This 
+approach reflects the fact that flexibility is required in relation to a 
+particular participant’s circumstances.  
+10.2.4 Dispute resolution regarding the amount to be paid: 
+10.2.4.1 In a situation where an insurer is willing to pay for medical 
+expenses, but a difference of opinion exists between the Sponsor 
+and the participant as to the appropriate amount of money to be 
+paid, the recommendation is that the Sponsor should seek, as its 
+own cost, the opinion of a mutually acceptable independent expert. 
+10.2.4.2 This opinion must be provided to the participant in the interest of 
+fairness and should be given substantial weight by the Sponsor in 
+reaching its decision on the appropriate payment to be made. 
+10.2.5 Lodging a claim 
+10.2.5.1 A participant who wishes to lodge a claim pursuant to these 
+guidelines should deal with the Sponsor, preferably via the PI.  
+10.2.5.2 The claim must set out in detail the nature and background to the 
+bodily injury. The Sponsor should be permitted to review medical 
+records relevant to the claim whereafter the Sponsor should 
+process the claim expeditiously.  
+10.2.5.3 Ordinarily, when payment is made, a participant will be asked to 
+indicate in writing that he/she accepts payment as full settlement 
+of the medical expenses claim. However, this undertaking does not 
+necessarily rule out legal action on a different basis (see 10.2.1.7 
+above).  
+NOTE: Insurance against trial-related bodily injury does not replace a 
+clinician’s malpractice insurance. 
+10.3  PROFESSIONAL INDEMNITY 
+All Investigators require comprehensive current professional indemnity (malpractice) 
+insurance to cover any claims relating to clinical negligence (i.e. activity not 
+attributable to the research). 
+SA GCP 2020 61
+ 
+10.4  SPONSOR INDEMNIFICATION 
+The Sponsor must indemnify (provide legal and financial cover for) the Investigator 
+against claims arising from the trial, excluding claims that arise from malpractice or 
+negligence. 
+10.5  CONTINUING CARE AFTER RESEARCH (POST TRIAL ACCESS) 
+Refer to SAHPRA guideline titled “Post Clinical Trial Access (PTA)/Continued Access” 
+dated June 2018 or subsequent updates for details.   
+10.6  ASSESSING SAFETY AND MINIMISING RISK  
+The informed consent document must explain clearly what to do in the event that an 
+ADR is experienced. In the case of a pharmaceutical trial, a DSMB may be appointed, 
+if appropriate, to oversee the trial, paying attention to safety, efficacy and interim 
+analysis of the data. In the event of clear evidence of efficacy or none (i.e. interim 
+results indicate that the IP works or does not work) or of harm to participants (i.e. 
+interim results indicate unanticipated AEs) before the end of the trial, premature 
+termination of the trial must be recommended by the DSMB on ethical and clinical 
+grounds. 
+10.7 HUMAN REPRODUCTION CONSIDERATIONS 
+10.7.1 Pregnant women, women planning to become pregnant, or breastfeeding 
+women are usually excluded from human clinical trials where a new 
+chemical entity (NCE) or medicines with no information on safety in 
+pregnancy/lactation are investigated for treatment of a particular 
+disease/condition or disorder.  
+10.7.2 Pregnant or breastfeeding women should be included in human clinical trials 
+where possible, i.e. when safety and other relevant information is available 
+during a clinical trial. This is to ensure that appropriate knowledge about 
+NCEs for this group of persons is developed. 
+10.7.3 When males and females of childbearing age are to be enrolled in clinical 
+trials where medicines known to be harmful or potentially harmful to human 
+reproduction organs and pregnancy are to be used, the appropriate 
+international and national guidelines regulating such research, should be 
+consulted. 
+10.8  NEW TECHNOLOGIES  
+Human biological materials and their associated data (including images) provide a 
+rich source for research materials. An inevitable and unavoidable overlap between 
+clinical and research domains prevails: many biological samples are collected during 
+clinical interventions for diagnostic purposes, which means that the wish to make 
+further use of the samples as research materials has implications for whether and 
+how this may occur. Other samples are collected specifically for research purposes.  
+Use of human biological materials and their associated data facilitates research in 
+new technologies, which include genetic and genomic research, cell and gene 
+therapy (CGT). Somatic cell therapy is described as the administration to humans of 
+62 SA GCP 2020  
+ 
+autologous, allogeneic or xenogeneic living non-germline cells, other than 
+transfusable blood products, which have been manipulated or processed ex vivo with 
+the goal of treating or preventing disease, supporting other therapy or diagnosis. 
+Germline therapy is currently prohibited across the globe due to safety and ethical 
+concerns. 
+Genetic information by its very nature is personal, familial and communal. Current 
+knowledge and understanding of this information and what can be achieved through 
+use thereof are advancing exponentially. However, current ethics and regulatory 
+systems are criticised for not providing clear guidance to researchers on how best to 
+be enabled to use this rich source of research material.  
+The fundamental ethical principles that underpin all research involving with human 
+participants apply to proposals to use human biological materials and their 
+associated data. Research proposals must address specifically the social value of the 
+research especially in the local context; how consent, privacy, confidentiality will be 
+managed; and the potential effect on families, communities and other groups. 
+Specific concerns include protection of privacy, whether and how incidental findings 
+are to be communicated to the person from whom the sample originates. See DoH 
+2015 3.3 for further discussion.  
+10.9 ELECTRONIC SIGNATURES 
+An electronic signature is a computer data compilation of any symbol or series of 
+symbols executed, adopted or authorized by an individual to be the legally binding 
+equivalent of the individual’s handwritten signature.   In general, a signature may not 
+be denied legal effect or validity solely because it is in electronic format, and a 
+contract or other record relating to a transaction may not be denied legal effect, 
+validity or enforceability solely because an electronic signature or electronic record 
+was used in its formation. To be considered equivalent to full handwritten signatures, 
+electronic signatures must comply with all applicable requirements under 21 CFR part 
+117. Electronic records that are electronically signed must contain information 
+associated with the signing that clearly indicates the printed name of the signer, the 
+date and time when the signature was executed, and the meaning associated with 
+the signature. In addition, electronic signatures and handwritten signatures executed 
+to electronic records must be linked to the respective electronic records to ensure 
+that the signatures cannot be excised, copied or otherwise transferred to falsify an 
+electronic record by ordinary means. 
+10.10 THERAPEUTIC MISCONCEPTION AND DUAL ROLES  
+10.10.1 
+In a treatment context, clinicians must act in the best interests of their 
+patients. When a patient becomes a trial participant, this obligation is more 
+complex. Necessarily, the trial context has a different focus, i.e. the 
+systematic generation of new knowledge within a paradigm that may or 
+may not include direct benefit for individual participants. This implies that 
+ 
+7 FDA regulations found in part 11 set forth the criteria under which FDA considers electronic records, 
+electronic signatures, and handwritten signatures executed to electronic records to be trustworthy, 
+reliable, and generally equivalent to a handwritten signature executed on paper (see CFR 11.1(a)) 
+SA GCP 2020 63
+ 
+the best interests of individual participants are not the focus and thus that 
+researchers cannot simultaneously act in the best interests of the patient 
+to change the trial protocol to suit an individual participant’s interests. 
+Instead, the best interest’s criterion must be turned around: the researcher 
+must decide whether it would be against the best interest of the patient to 
+become or to continue as a trial participant. 
+10.10.2 
+The researcher must provide sufficient information so that expectations of 
+the patient/participant are aligned appropriately to avoid potential 
+therapeutic misconception. A therapeutic misconception prevails when a 
+patient/participant believes that the primary purpose of a trial procedure or 
+intervention is to confer therapeutic benefit on her rather than to generate 
+knowledge, thus confusing the purpose of research and the purpose of 
+treatment. 
+10.10.3 
+The dual role played by a clinician/researcher invites ambiguity and 
+confusion for both patient and clinician. To prevent therapeutic 
+misconception and even deception (intentional or unintentional) of 
+participants, careful reflection on the duality of roles is required, and the 
+consent process must acknowledge the difference between clinical care 
+and clinical trial. 
+10.11 CONDUCTING CLINICAL TRIALS DURING A PANDEMIC  
+10.11.1   Conducting clinical trials during a pandemic results in a number of 
+challenges, such as self-isolation, site closures, travel limitations, 
+interruptions to the supply chain for Investigational Product (IP), and other 
+considerations if site personnel or study participants become infected. 
+These challenges may lead to difficulties in meeting protocol-specific 
+procedures, including administration or use of the IP, or adhering to 
+protocol-mandated visits and/or laboratory/diagnostic testing. 
+10.11.2    The National PI and PI, in collaboration with SAHPRA and the responsible 
+Ethics Committee, must provide clarity to help ensure the safety of all 
+study participants and site personnel, maintain compliance with GCP, and 
+minimize risks to trial integrity during these times. 
+ 
+ 
+64 SA GCP 2020  
+ 
+11 
+REFERENCES 
+CIOMS with WHO International Ethical Guidelines for Epidemiological Studies (2009) 
+Clinical Trial Compensation Guidelines, Association of British of Pharmaceutical  
+Industry (ABPI) Guidelines (2014) 
+CFR 21 part 11, Electronic Records; Electronic Signatures - Scope and Application 
+Guidance for Industry 
+Council for International Organizations of Medical Sciences (CIOMS) International 
+Ethical Guidelines for Biomedical Research involving Human Subjects (2016) 
+Declaration of Helsinki (2013) 
+Department of Health Ethics in Health Research: Principles, Processes and Structures 
+2nd edition (2015) (referred to as DoH 2015) 
+ICH Harmonised Tripartite Guideline: Clinical Investigation of Medicinal Products in 
+the Pediatric Population E11 2000 
+ICH Harmonised Tripartite Guideline: Guideline for Good Clinical Practice E6 (R2) 
+2016 (ICH GCP 2016) 
+World Health Organisation WHO Technical Report Series, No. 850 Guidelines for 
+good clinical practice (GCP) for trials on pharmaceutical products (1995) 
+ 
+SA GCP 2020 65
+ 
+12 
+GLOSSARY 
+Adverse Drug Reaction (ADR)  
+In the preapproval clinical experience with a new medicinal product or its new usages, 
+particularly as the therapeutic dose(s) may not be established, all noxious and unintended 
+responses to a medicinal product related to any dose should be considered ADRs. The 
+phrase “responses to a medicinal product” means that a causal relationship between a 
+medicinal product and an adverse event is at least a reasonable possibility, i.e. the 
+relationship cannot be ruled out.  
+Regarding marketed medicinal products: A response to a drug which is noxious and 
+unintended, and which occurs at doses normally used in man for prophylaxis, diagnosis, or 
+therapy of diseases or for modification of physiological function (see the ICH Guideline for 
+Clinical Safety Data Management: Definitions and Standards for Expedited Reporting). 
+Adverse Event (AE)  
+Any untoward medical occurrence in a patient or clinical trial participant administered a 
+pharmaceutical product and which does not necessarily have a causal relationship with this 
+treatment. An AE can therefore be any unfavourable and unintended sign (including an 
+abnormal laboratory finding), symptom or disease temporally associated with the use of a 
+medicinal (investigational) product, whether or not related to the medicinal (investigational) 
+product (see the ICH Guidance for Clinical Safety Data Management: Definitions and 
+Standards for Expedited Reporting). 
+Amendment (to the protocol)  
+See Protocol Amendment.  
+Applicant 
+An individual, company, institution or organisation that acts on behalf of the Sponsor to 
+initiate and manage the trial as its local representative.   
+Applicable Regulatory Requirement(s)  
+Any law(s) and regulation(s) addressing the conduct of clinical trials of investigational 
+products.  
+Approval (in relation to Research Ethics Committees (RECs))  
+The affirmative decision of the REC that the clinical trial has been reviewed and may be 
+conducted at the institution site within the constraints set forth by the REC the institution, 
+good clinical practice (GCP) and the applicable regulatory requirements.  
+Audit  
+A systematic and independent examination of trial-related activities and documents to 
+determine whether the evaluated trial-related activities were conducted, and the data were 
+recorded, analyzed and accurately reported according to the protocol, Sponsor's standard 
+operating procedures (SOPs), good clinical practice (GCP) and the applicable regulatory 
+requirement(s).  
+Audit Certificate  
+A declaration of confirmation by the auditor that an audit has taken place.  
+66 SA GCP 2020  
+ 
+Audit Report  
+A written evaluation by the Sponsor’s auditor of the results of the audit.  
+Audit Trail  
+Documentation that allows reconstruction of the course of events.  
+Blinding/Masking  
+A procedure in which one or more parties to the trial are kept unaware of the treatment 
+assignment(s). Single-blinding usually refers to the participant(s) being unaware, and 
+doubleblinding usually refers to the participant(s), investigator(s), monitor and, in some 
+cases, data analyst(s) being unaware of the treatment assignment(s).  
+Care-giver  
+Any person other than a parent or guardian, who factually cares for a child and includes: (a) 
+a foster parent; (b) a person who cares for a child with implied or express consent of a 
+parent or guardian of the child; (c) a person who cares for a child whilst the child is in 
+temporary safe care; (d) the person at the head of a child and youth care centre where a 
+child has been placed; (e) the person at the head of a shelter; and (f) a child and youth care 
+worker who cares for a child who is without appropriate family care in the community. 
+Case Report Form (CRF) 
+A printed, optical or electronic document designed to record all of the protocol required 
+information to be reported to the Sponsor on each trial participant.  
+Certified Copy  
+A copy (irrespective of the type of media used) of the original record that has been verified 
+(i.e. by a dated signature or by generation through a validated process) to have the same 
+information, including data that describe the context, content and structure, as the original.  
+Clinical Trial/Study  
+Any investigation in human participants intended to discover or verify the clinical, 
+pharmacological and/or other pharmacodynamic effects of an investigational product(s), 
+and/or to identify any adverse reactions to an investigational product(s), and/or to study 
+absorption, distribution, metabolism, and excretion of an investigational product(s) with the 
+object of ascertaining its safety and/or efficacy. The terms clinical trial and clinical study are 
+synonymous.  
+Clinical Trial Agreement  
+A written, dated, and signed agreement between two or more involved parties that sets out 
+any arrangements on delegation and distribution of tasks and obligations and, if appropriate, 
+on financial matters. The protocol may serve as the basis of a contract.  
+Clinical Trial/Study Report 
+A written description of a trial/study of any therapeutic, prophylactic or diagnostic agent 
+conducted in human participants, in which the clinical and statistical description, 
+presentations, and analyses are fully integrated into a single report (see the ICH Guidance 
+for Structure and Content of Clinical Study Reports).  
+SA GCP 2020 67
+ 
+Co-Principal Investigator (Co-PI) 
+A qualified non-clinician scientist or equivalent qualified and experienced person who can 
+provide trial oversight management, and who is jointly and severally liable for the clinical 
+trial.   
+Comparator (Product) 
+ An investigational or marketed product (i.e. active control), or placebo, used as a reference 
+in a clinical trial.  
+Compliance (in relation to trials) 
+Adherence to all the trial-related requirements, good clinical practice (GCP) requirements 
+and the applicable regulatory requirements.  
+Confidentiality  
+Prevention of disclosure, to other than authorized individuals, of a Sponsor’s proprietary 
+information or of a participant’s identity.  
+Coordinating Committee 
+A committee that a Sponsor may organize to coordinate the conduct of a multicentre trial.  
+Coordinating Investigator  
+An investigator assigned the responsibility for the coordination of investigators at different 
+centres participating in a multicentre trial.  
+Contract Research Organization (CRO)  
+A person or an organization (commercial, academic or other) contracted by the Sponsor to 
+perform one or more of a Sponsor's trial-related duties and functions.  
+Data Monitoring and Safety Board (DSMB) 
+An independent data monitoring committee that may be established by the Sponsor to 
+assess at intervals the progress of a clinical trial, the safety data and the critical efficacy 
+endpoints, and to recommend to the Sponsor whether to continue, modify or stop a trial. 
+Direct Access  
+Permission to examine, analyse, verify and reproduce any records and reports that are 
+important to evaluation of a clinical trial. Any party (e.g. domestic and foreign regulatory 
+authorities, Sponsor’s monitors and auditors) with direct access should take all reasonable 
+precautions within the constraints of the applicable regulatory requirement(s) to maintain 
+the confidentiality of participants’ identities and sponsor’s proprietary information.  
+Documentation  
+All records, in any form (including, but not limited to, written, electronic, magnetic and 
+optical records and scans, x-rays and electrocardiograms) that describe or record the 
+methods, conduct and/or results of a trial, the factors affecting a trial and the actions taken.  
+Essential Documents  
+Documents that individually and collectively permit evaluation of the conduct of a study and 
+the quality of the data produced (see Section 9 “Essential Documents to Conduct a Clinical 
+Trial”).  
+68 SA GCP 2020  
+ 
+Good Clinical Practice (GCP)  
+A standard for the design, conduct, performance, monitoring, auditing, recording, analysis 
+and reporting of clinical trials that provides assurance that the data and reported results are 
+credible and accurate, and that the rights, integrity and confidentiality of trial participants 
+are protected.  
+Good Manufacturing Practice (GMP)  
+The part of pharmaceutical quality assurance which ensures that products are consistently 
+produced and controlled to the standards appropriate to their intended use and as required 
+by the marketing authorization. 
+Good Pharmaceutical Practice (GPP)  
+The commitment to ensure quality service pharmaceutical services for all, and to promote 
+excellence in practice for all that they serve.  
+Impartial Witness  
+A person, who is independent of the trial, who cannot be unfairly influenced by people 
+involved with the trial, who attends the informed consent process if the participant or the 
+participant’s legally acceptable representative cannot read, and who reads the informed 
+consent form and any other written information supplied to the participant.  
+Informed Consent  
+A process by which a participant voluntarily confirms his or her willingness to participate in a 
+particular trial, after having been informed of all aspects of the trial that are relevant to the 
+participant’s decision to participate. Informed consent is documented by means of a written, 
+signed and dated informed consent form.  
+Inspection  
+The act by a regulatory authority of conducting an official review of documents, facilities, 
+records and any other resources that are deemed by the authority to be related to the 
+clinical trial and that may be located at the site of the trial, at the Sponsor’s and/or Contract 
+Research Organization’s (CROs) facilities or at other establishments deemed appropriate by 
+the regulatory authority.  
+Institution (medical)  
+Any public or private entity or agency or medical or dental facility where clinical trials are 
+conducted.  
+Interim Clinical Trial/Study Report  
+A report of intermediate results and their evaluation based on analyses performed during 
+the course of a trial.  
+Investigational Product  
+A pharmaceutical form of an active ingredient or placebo being tested or used as a 
+reference in a clinical trial, including a product with a marketing authorization when used or 
+assembled (formulated or packaged) in a way different from the approved form, or when 
+used for an unapproved indication, or when used to gain further information about an 
+approved use.  
+Investigator  
+A person responsible for the conduct of the clinical trial at a trial site 
+SA GCP 2020 69
+ 
+Investigator/Institution  
+An expression meaning “the Investigator and/or Institution, where required by the 
+applicable regulatory requirements.”  
+Investigator’s Brochure  
+A compilation of the clinical and nonclinical data on the investigational product(s) that is 
+relevant to the study of the investigational product(s) in human participants. 
+Legally Acceptable Representative  
+An individual or juridical or other body authorized under applicable law to consent, on behalf 
+of a prospective participant, to the participant’s participation in the clinical trial.  
+Monitoring  
+The act of overseeing the progress of a clinical trial, and of ensuring that it is conducted, 
+recorded and reported in accordance with the protocol, standard operating procedures 
+(SOPs), GCP and the applicable regulatory requirement(s).  
+Monitoring Plan  
+A document that describes the strategy, methods, responsibilities and requirements for 
+monitoring the trial. 
+Monitoring Report  
+A written report from the monitor to the Sponsor after each site visit and/or other trial-
+related communication according to the Sponsor’s SOPs.  
+Multicentre Trial  
+A clinical trial conducted according to a single protocol but at more than one site, and 
+therefore, carried out by more than one Investigator.  
+National Health Research Ethics Council (NHREC) 
+The body with the overall responsibility to promote, ensure and monitor compliance by 
+Research Ethics Committees (RECs) in South Africa with relevant legislation, regulations and 
+guidelines. In so doing, the NHREC will accredit and audit the performance of RECs.  
+Participant 
+An individual who participates in a clinical trial, either as a recipient of the investigational
+product(s) or as a control.  
+Participation Identification Code  
+A unique identifier assigned by the Investigator to each trial participant to protect the
+participant’s identity and used in lieu of the participant’s name when the Investigator reports
+adverse events and/or other trial-related data.  
+ 
+Pre-clinical Study 
+Biomedical studies not performed on human participants.  
+Protocol 
+A document that describes the objective(s), design, methodology, statistical considerations 
+and organization of a trial. The protocol usually also gives the background and rationale for 
+the trial, but these could be provided in other protocol referenced documents. Throughout 
+the ICH GCP Guidance, the term protocol refers to protocol and protocol amendments.  
+70 SA GCP 2020  
+ 
+Protocol Amendment 
+A written description of a change(s) to or formal clarification of a protocol.  
+Quality Assurance 
+All those planned and systematic actions that are established to ensure that the trial is 
+performed and the data are generated, documented (recorded) and reported in compliance 
+with GCP and the applicable regulatory requirement(s).  
+Quality Control 
+The operational techniques and activities undertaken within the quality assurance system to 
+verify that the requirements for quality of the trial-related activities have been fulfilled.  
+Randomization 
+The process of assigning trial participants to treatment or control groups using an element 
+of chance to determine the assignments in order to reduce bias.  
+Regulatory Authorities  
+Bodies having the power to regulate. In the ICH GCP guidance, the expression “Regulatory 
+Authorities” includes the authorities that review submitted clinical data and those that 
+conduct inspections. These bodies are sometimes referred to as competent authorities.  
+Research Ethics Committee (REC) 
+An independent body constituted of medical, scientific, and non-scientific members, whose 
+responsibility is to ensure the protection of the rights, safety and well-being of human 
+participants involved in a trial by, among other things, reviewing, approving and providing 
+continuing review of trial protocols and amendments and of the methods and material to be 
+used in obtaining and documenting informed consent of the trial participants.  
+Serious Adverse Event (SAE) or Serious Adverse Drug Reaction (Serious ADR)  
+Any untoward medical occurrence that at any dose results in death, is life-threatening, 
+requires inpatient hospitalization or prolongation of existing hospitalization, results in 
+persistent or significant disability/incapacity, or is a congenital anomaly/birth defect.  
+Source Data  
+All information in original records and certified copies of original records of clinical findings, 
+observations, or other activities in a clinical trial necessary for the reconstruction and 
+evaluation of the trial. Source data are contained in source documents (original records or 
+certified copies).  
+Source Document  
+Original documents, data, and records (e.g., hospital records, clinical and office charts, 
+laboratory notes, memoranda, participants’ diaries or evaluation checklists, pharmacy 
+dispensing records, recorded data from automated instruments, copies or transcriptions 
+certified after verification as being accurate copies, microfiches, photographic negatives, 
+microfilm or magnetic media, x-rays, participant files, and records kept at the pharmacy, at 
+the laboratories and at medico-technical departments involved in the clinical trial).  
+Sponsor 
+An individual, company, institution or organization that takes responsibility for the initiation, 
+management and/or financing of a clinical trial.  
+SA GCP 2020 71
+ 
+Sponsor-Investigator  
+An individual who both initiates and conducts, alone or with others, a clinical trial, and under 
+whose immediate direction the investigational product is administered to, dispensed to, or 
+used by a participant. The term does not include any person other than an individual (e.g., it 
+does not include a corporation or an agency). The obligations of a Sponsor-Investigator 
+include both those of a Sponsor and those of an Investigator.  
+Standard Operating Procedures (SOPs)  
+Detailed, written instructions to achieve uniformity of the performance of a specific function.  
+Sub-Investigator  
+Any individual member of the clinical trial team designated and supervised by the 
+investigator at a trial site to perform critical trial-related procedures and/or to make 
+important trial-related decisions (e.g. associates, registrars, research fellows).  
+Trial Site  
+The location(s) where trial-related activities are actually conducted.  
+Unexpected Adverse Drug Reaction  
+An adverse reaction, the nature or severity of which is not consistent with the applicable 
+product information (e.g. Investigator’s Brochure for an unapproved investigational product 
+or package insert/summary of product characteristics for an approved product).  
+Validation of Computerized Systems  
+A process of establishing and documenting that the specified requirements of a 
+computerized system can be consistently fulfilled from design until decommissioning of the 
+system or transition to a new system. The approach to validation should be based on a risk 
+assessment that takes into consideration the intended use of the system and the potential of 
+the system to affect human participant protection and reliability of trial results. 
+Vulnerable Participants  
+Individuals whose willingness to volunteer in a clinical trial may be unduly influenced by the 
+expectation, whether justified or not, of benefits associated with participation, or of a 
+retaliatory response from senior members of a hierarchy in case of refusal to participate. 
+Examples are members of a group with a hierarchical structure, such as medical, pharmacy, 
+dental and nursing students, subordinate hospital and laboratory personnel, employees of 
+the pharmaceutical industry, members of the armed forces and persons kept in detention. 
+Other vulnerable participants include patients with incurable diseases, persons in nursing 
+homes, unemployed or impoverished persons, patients in emergency situations, ethnic 
+minority groups, homeless persons, nomads, refugees, minors and those incapable of giving 
+consent.  
+Well-being (of the trial participants)  
+The physical and mental integrity of the participants participating in a clinical trial.  
+

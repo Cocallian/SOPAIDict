@@ -1,0 +1,509 @@
+SAHPGL-MD-16_v1 
+Page 1 of 13
+ 
+ 
+ 
+8 September 2025 
+GUIDELINES ON CLINICAL EVALUATION OF MEDICAL DEVICES  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+Published for public comment 
+15 November 2024 
+2 
+Published for implementation 
+25 August  2025 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+This guideline is intended to clarify the requirements of conducting a clinical evaluation of a medical device in 
+South Africa. It represents the South African Health Products Regulatory Authority’s (SAHPRA)’s current 
+thinking on the safety, quality and performance of medical devices under clinical investigation. It is not 
+intended as an exclusive approach. The Authority reserves the right to request any additional information to 
+establish the safety, quality and performance of a medical device in keeping with the knowledge current at 
+the time of evaluation. Alternative approaches may be used but these should be scientifically and technically 
+justified. The Authority is committed to ensure that all registered medical devices will be of the required 
+acceptable quality, safety and performance. 
+SAHPGL-MD-16_v1 
+Page 2 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+Definition of Terms ............................................................................................................................................... 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 5 
+1.1 
+Purpose ...................................................................................................................................................... 6 
+1.2 
+Scope .......................................................................................................................................................... 6 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 6 
+3. 
+GENERAL PRINCIPLES AND CONSIDERATIONS OF CLINICAL EVALUATION ................................................ 6 
+3.1 
+Scope of a clinical evaluation ..................................................................................................................... 6 
+3.2 
+How is a clinical evaluation performed? .................................................................................................... 7 
+3.3 
+Who should perform the clinical evaluation? ............................................................................................ 7 
+3.4 
+Any consideration to  vitro diagnostic devices (IVDs)? .............................................................................. 8 
+3.5 
+Any considerations on  Software as a Medical Device (SaMD)? ................................................................ 8 
+4. 
+SOURCES OF DATA/DOCUMENTATION USED IN A CLINICAL EVALUATION ............................................... 8 
+5. 
+APPRAISAL OF CLINICAL DATA ................................................................................................................. 11 
+6. 
+ANALYSIS OF THE CLINICAL DATA ............................................................................................................ 12 
+7. 
+THE CLINICAL EVALUATION REPORT ........................................................................................................ 13 
+8. 
+REFERENCES ............................................................................................................................................. 13 
+9. 
+VALIDITY ................................................................................................................................................... 13 
+ 
+ 
+ 
+ 
+SAHPGL-MD-16_v1 
+Page 3 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+GHTF 
+Global Harmonization Task Force  
+IMDRF 
+International Medical Devices Regulatory Forum  
+ISO  
+International Organization for Standardization  
+SAHPRA 
+South African Health Products Regulatory Authority 
+SaMD 
+Software as a Medical Device 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-MD-16_v1 
+Page 4 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+ 
+Definition of Terms  
+Adverse Event: Any untoward medical occurrence in patients/subjects, users or other persons. In the context 
+of clinical investigation, for patients/subjects, this would include all untoward medical occurrences, whether 
+or not related to the investigational device, that occurred in the course of the investigation. In the context of 
+clinical experience, this would only include untoward medical occurrences that may be related to the medical 
+device. 
+ 
+   Clinical Data: Safety, clinical performance and/or effectiveness information that is generated from the 
+clinical use of a medical device. 
+ 
+Clinical Evaluation: A set of ongoing activities that use scientifically sound methods for the assessment and 
+analysis of clinical data to verify the safety, clinical performance and/or effectiveness of the device when 
+used as intended by the manufacturer. 
+ 
+ Clinical Evidence: The clinical data and its evaluation of a medical device. 
+ 
+ Clinical Investigation: Any systematic investigation or study in or on one or more human subjects, 
+undertaken to assess the safety, clinical performance, and/or effectiveness of a medical device. 
+ 
+ Clinical Investigation Plan: Document that states the rationale, objectives, design, and pre-specified 
+analyses, methodology, monitoring, conduct, and record-keeping of the clinical investigation. 
+ 
+Clinical Performance: The ability of a medical device to achieve its intended clinical purpose as claimed by 
+the manufacturer. 
+Clinical Performance Study: Means a study undertaken to establish or confirm the clinical performance of a 
+medical device, including IVD, focusing on the actual performance of the device in real-world clinical 
+conditions, often involving the collection of data on how well the device performs its intended function and 
+the clinical benefits it provides to patients. 
+ 
+Comparable Device: A medical device with a related function chosen by the manufacturer to inform the 
+clinical evaluation of the device in question. 
+SAHPGL-MD-16_v1 
+Page 5 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+ 
+Conformity Assessment: The systematic examination of evidence generated and procedures undertaken 
+by the manufacturer, under requirements established by the Regulatory Authority, to determine that a 
+medical device is safe and performs as intended by the manufacturer and, therefore, conforms to the 
+Essential Principles. 
+ 
+   Effectiveness: The ability of a medical device to achieve clinically meaningful outcome(s) in its intended 
+use as claimed by the manufacturer. 
+ 
+Intended Use/Purpose: The objective intent of the manufacturer regarding the use of a product, process, 
+or service as reflected in the specifications, instructions, and information provided by the manufacturer. 
+ 
+Recognised Standards: Standards deemed to offer the presumption of conformity to specific essential 
+principles of safety and performance. 
+ 
+Safety: Acceptability of risks as weighed against benefits, when using the medical device according to the 
+manufacturer’s labelling. 
+ 
+Note: All other definitions are in alignment with Act 101 of 1965 and MD regulations 
+1. INTRODUCTION 
+Clinical evaluation is a set of ongoing activities that use scientifically sound methods for the assessment and 
+analysis of clinical data to verify the safety, clinical performance, and/or effectiveness of the medical device 
+when used as intended by the manufacturer.  It is first performed during the development of a medical device 
+in order to identify data that needs to be generated for regulatory purposes and will inform whether a new 
+device clinical investigation is necessary, together with the outcomes that need to be studied. It is then 
+repeated periodically as new safety, clinical performance and/or effective information about the medical 
+device is obtained during its use. 
+When placing a medical device on the market, the manufacturer must have demonstrated, using appropriate 
+conformity assessment procedures that the medical device complies with the Essential Principles of Safety and 
+Performance of Medical Devices. it is expected that the manufacturer has demonstrated the medical device 
+achieves its intended performance during use according to its labelling and that the known and foreseeable 
+risks are minimised and acceptable when weighed against the benefits. 
+SAHPGL-MD-16_v1 
+Page 6 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+It is anticipated that manufacturers should periodically review performance, safety and the benefit-risk 
+assessment for the medical device through a clinical evaluation and update the clinical evidence accordingly. 
+This ongoing clinical evaluation process should allow manufacturers to communicate with conformity 
+assessment bodies and SAHPRA in accordance with local reporting requirements any information that has an 
+important bearing on the benefit-risk assessment of the medical device or that would indicate a need for 
+labelling changes regarding contraindications, warnings, precautions or instructions for use. 
+1.1 Purpose 
+This document aims to provide manufacturers with guidance on how to conduct and document the clinical 
+evaluation of a medical device as part of the conformity assessment procedure before placing a medical 
+device on the market as well as to support its ongoing marketing. It is also intended to guide regulators and 
+other stakeholders when assessing clinical evidence provided by manufacturers. 
+1.2 Scope 
+This document will cover general principles of clinical evaluation, identification of relevant clinical data to 
+be used in a clinical evaluation, how to appraise and integrate clinical data into a summary, and how to 
+document a clinical evaluation in a clinical evaluation report. The evaluation must also address any 
+clinical claims made about the device, the adequacy of product labelling and product information 
+(particularly contraindications, precautions/warnings), and the suitability of instructions for use. The 
+details will be provided to all medical devices, excluding in vitro diagnostics, approved to be used in the 
+Republic of South Africa. 
+ 
+2. LEGAL PROVISION 
+       Regulations relating to medical devices  
+3. GENERAL PRINCIPLES AND CONSIDERATIONS OF CLINICAL EVALUATION 
+3.1 Scope of a clinical evaluation  
+Before a clinical evaluation is undertaken, the manufacturer should define its scope, based on the Essential 
+Principles that need to be addressed from a clinical perspective. The clinical evaluation should cover any 
+design features that pose special performance or safety concerns (e.g., presence of medicinal, human or 
+animal components), the intended purpose and application of the medical device (e.g., target treatment 
+group and disease, proposed warnings, contraindications and method of application) and the specific claims 
+made by the manufacturer about the safety, clinical performance and/or effectiveness of the device. The 
+SAHPGL-MD-16_v1 
+Page 7 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+scope of the clinical evaluation will need to be informed by and cross-referenced to the manufacturer's risk 
+management documents.  
+The risk management documents are expected to identify the risks associated with the medical device and 
+how such risks have been addressed. The clinical evaluation is expected to address the significance of any 
+risks that remain after designed risk mitigation strategies have been employed by the manufacturer. 
+3.2   How is a clinical evaluation performed? 
+      Once the scope has been defined, there are three discrete stages in performing a clinical evaluation:  
+ Identification of pertinent standards and clinical data; 
+ Appraisal of each data set, in terms of its relevance, applicability, quality, and clinical significance; 
+and 
+ Analysis of the individual data sets, whereby conclusions are reached about the safety, clinical 
+performance, and/or effectiveness and presentational aspects (labelling, patient information and 
+instructions for use) of the medical device. 
+ 
+At the end of the clinical evaluation, a report is prepared and combined with the relevant clinical data to 
+form the clinical evidence for the medical device. If the manufacturer concludes there is insufficient 
+clinical evidence to be able to declare conformity with the Essential Principles, the manufacturer will need 
+to generate additional data (e.g., conduct a clinical investigation, broaden the scope of literature 
+searching) to address the deficiency 
+3.3 
+Who should perform the clinical evaluation? 
+The clinical evaluation should be conducted by a suitably qualified individual or individuals. A 
+manufacturer must be able to justify the choice of the evaluator(s) through reference to qualifications 
+and documented experience. 
+As a general principle, evaluators should possess knowledge of the following: 
+ The device technology and its application; 
+ Research methodology (clinical investigation design and biostatistics); and  
+ Diagnosis and management of the conditions intended to be treated or diagnosed by the 
+medical device. 
+SAHPGL-MD-16_v1 
+Page 8 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+3.4 
+Any consideration of in vitro diagnostic devices (IVDs)? 
+Clinical evaluation should be performed for in vitro diagnostic devices as part of conformity assessment to 
+the Essential Principles in a manner similar to other medical devices. The basic principles of objective 
+review of clinical data will apply as described in this guidance document.  However, this document will not 
+cover in detail regarding establishment of clinical evidence of an in vitro diagnostic device. This is because 
+IVDs offer some unique definitions and concepts, which will be defined in detail in another document 
+developed named Clinical Evidence for IVD medical devices. 
+3.5 
+Any considerations on Software as a Medical Device (SaMD)? 
+SaMD can best be described as software that utilises an algorithm (logic, set of rules, or model) that 
+operates on data input (digitised content) to produce an output that is intended for medical purposes as 
+defined by the SaMD manufacturer. Like other medical devices, SaMD clinical evaluation should be 
+consistent with this document. 
+4. SOURCES OF DATA/DOCUMENTATION USED IN A CLINICAL EVALUATION 
+Data relevant to clinical evaluation may be held by the manufacturer or a third party or be available in 
+scientific literature, for the device in question or for comparable devices. The manufacturer is responsible 
+for identifying data relevant to the medical device and determining the types and amount of data needed 
+for the clinical evaluation. 
+4.1.  Data generated through literature searching 
+Literature searching can be used to identify published clinical data that is not in the possession of the 
+manufacturer, which may assist the manufacturer to establish acceptable safety, clinical performance 
+and/or effectiveness of a medical device. The data generated through literature searching may relate 
+directly to the device in question (e.g., reports of clinical investigations of the device in question that have 
+been performed by third parties, adverse event reports) or to comparable devices. 
+Published data will need to be assessed concerning its possible contribution and weighting in establishing 
+both the performance of the device in question and its safety. Papers considered unsuitable for 
+demonstration of clinical performance and/or effectiveness because of poor study design or inadequate 
+analysis may still contain data suitable for assessing the safety of the medical device. 
+ 
+SAHPGL-MD-16_v1 
+Page 9 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+4.1.1 The key elements of literature searching 
+The search strategy should be based on carefully constructed review questions. A protocol should 
+be developed to identify, select and collate relevant publications to address these questions. This 
+should be developed and executed by persons with expertise in information retrieval, having due 
+regard to the scope of the clinical evaluation set out by the manufacturer. The involvement of 
+information retrieval experts will help to maximise data retrieval. 
+Once the literature search has been executed, a report should be compiled to present the results 
+of the search. A copy of the protocol should be included and any deviations noted. 
+4.1.2 What data/documentation from the literature search should be included in the clinical 
+evaluation 
+The following documentation should be used in the clinical evaluation by the clinical evaluator: 
+ The literature search protocol; 
+ The literature search report; and 
+ Published articles and other references identified as being relevant to the device in 
+question and suitable for evaluation. 
+The literature search protocol, the literature search report, and copies of relevant references 
+become part of the clinical evidence and, in turn, the technical documentation for the medical 
+device. With respect to the clinical evaluation, it is important that the clinical evaluator be able to 
+assess the degree to which the selected papers reflect the intended application/use of the device, 
+etc. 
+                       Copies of the actual papers and references are necessary to allow the evaluator to review the 
+methodology employed (potential sources of bias in the data), the reporting of results and the 
+validity of conclusions drawn from the investigation or report.  Abstracts may lack sufficient detail 
+to allow these issues to be assessed thoroughly and independently. 
+4.2.   Data generated through clinical experience 
+    These types of clinical data are generated through clinical use that is outside the conduct of clinical 
+investigations and may relate to either the device in question or comparable devices. Such types of data 
+may include: 
+ Post market surveillance reports, registries or medical records (which may contain unpublished 
+long-term safety, clinical performance and/or effectiveness data); 
+SAHPGL-MD-16_v1 
+Page 10 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+ Adverse events databases (held by either the manufacturer or regulatory authorities); and 
+ Details of clinically relevant field corrective actions (e.g., recalls, notifications, hazard alerts). 
+        How may clinical experience data/documentation be used in the clinical evaluation? 
+    If a manufacturer chooses to use clinical experience data, it is important that any reports or collations of 
+data contain sufficient information to be able to undertake a rational and objective assessment of the 
+information and make a conclusion about its significance with respect to the safety, clinical performance 
+and/or effectiveness of the device. Reports of clinical experience that are not adequately supported by 
+data, such as anecdotal reports or opinions, should not be used. 
+ 
+Post-marketing data about adverse events are generally more meaningful when related to usage but 
+caution is needed because the extent of reporting may vary considerably between countries. The 
+analyses of data within these reports may, for some medical devices, provide reasonable assurance of 
+safety, clinical performance and/or effectiveness. 
+ 
+It may be helpful to provide a table summarising device-related adverse events, paying particular 
+attention to serious adverse events, with comments on whether observed device-related adverse 
+events are predictable on the basis of the mode of action of the medical device. Identified hazards not 
+previously considered in the risk management documentation must be addressed, describing additional 
+mitigation required (e.g., design modification, labelling changes, etc.).  
+4.3.  Data from clinical investigations 
+This section applies to clinical investigations carried out by or on behalf of a manufacturer specifically for 
+the purposes of conformity assessment in accordance with applicable regulations. Such clinical 
+investigations are generally expected to be designed, conducted and reported in accordance with ISO 
+14155:2020, clinical investigation of medical devices for human subjects - good clinical practice, or to a 
+comparable standard, and in compliance with the regulations in the Republic of South Africa.  
+It is recognised that where manufacturers source clinical investigation data reported in the scientific 
+literature (i.e., investigations of either the device in question or comparable devices that are undertaken 
+by a third party), the documentation readily available to the manufacturer for inclusion in the clinical 
+evaluation 
+is 
+likely 
+to 
+be 
+no 
+more 
+than 
+the 
+published 
+paper 
+itself. 
+ 
+ 
+SAHPGL-MD-16_v1 
+Page 11 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+What clinical investigation documentation/data should be used in the clinical evaluation? 
+Where a clinical investigation has been carried out by or on behalf of a manufacturer, it is expected that 
+documentation relating to the design, ethical and regulatory approvals, conduct, results and conclusions 
+of the investigation needed for the clinical evaluation will be available for consideration, as appropriate.  
+These may include: 
+ 
+The clinical investigation plan; 
+ 
+Clinical investigation plan amendments and the rationale for these changes; 
+ 
+The relevant Ethics Committee documentation, opinion(s) and comments for each investigation 
+site, including a copy of the approved informed consent form(s) and patient information 
+documents; 
+ 
+Case report forms, monitoring and audit records; 
+ 
+SAHPRA approvals and associated correspondence as required by applicable regulations;  
+ 
+Documents related to financial disclosure, financial agreements or conflict of interests; and 
+ 
+The signed and dated final clinical investigation report. 
+5. APPRAISAL OF CLINICAL DATA 
+The purpose of undertaking appraisal of the data is to understand the merits and limitations of the clinical 
+data. Each piece of data is appraised to determine its suitability to address questions about the medical 
+device, and its contribution to demonstrating the safety, clinical performance and/or effectiveness of the 
+device (including any specific claims about safety, clinical performance and/or effectiveness). 
+What should the appraisal cover? 
+The data needs to be assessed for its quality and its relevance to the device in question, including its 
+intended use (i.e., the data must be either generated for the device in question or for a comparable device). 
+In addition, any reports or collations of data should contain sufficient information for the evaluator to be 
+able to undertake a rational and objective assessment of the information and make a conclusion about its 
+significance with respect to the safety, clinical performance and/or effectiveness of the device in question. 
+Further appraisal needs to be undertaken to determine the contribution of each data subset to establishing 
+SAHPGL-MD-16_v1 
+Page 12 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+the safety, clinical performance and/or effectiveness of the medical device.  The evaluator should examine 
+the methods used to generate/collect the data and assess the extent to which the observed effect 
+(performance or safety outcome(s)) can be considered to be due to intervention with the medical device 
+or due to confounding influences (e.g., natural course of the underlying medical condition, concomitant 
+treatment(s)) or bias. The evaluator should also assess whether clinical data are collected in conformance 
+with the applicable regulatory requirements or other relevant standards (ISO 14155:2020) and whether 
+clinical data are applicable to the population for which the marketing authorisation is being sought. 
+There is no single, well-established method for appraising clinical data. Therefore, the evaluator should 
+identify, in advance, the appropriate criteria to be applied for a specific circumstance. These criteria should 
+be applied consistently.  
+6. ANALYSIS OF THE CLINICAL DATA 
+The goal of the analysis stage is to make a benefit/risk determination if the appraised data sets available 
+for a medical device collectively demonstrate the safety, clinical performance and/or effectiveness of the 
+device in relation to its intended use. 
+The methods available for analysis of clinical data generally are either quantitative or qualitative. Given 
+the context within which most medical devices are developed (i.e., limited need for clinical investigations 
+because of incremental changes in device design and therefore high use of literature and experience data), 
+it is most likely that qualitative (i.e., descriptive) methods will need to be used. 
+As a final step, the evaluator should consider the basis on which it can be demonstrated that the 
+combined data confirms: 
+ 
+The medical device performs as intended by the manufacturer; 
+ 
+The medical device does not pose any undue safety concerns to either the recipient or end-user;  
+ 
+Any risks associated with the use of the device are acceptable when weighed against the benefits 
+to the patient; 
+ 
+Compliance with the relevant Essential Principles; and 
+ 
+Whether post market clinical follow up or post approval study is necessary. 
+ 
+SAHPGL-MD-16_v1 
+Page 13 of 13
+Guideline on clinical evaluation of medical devices 
+8 September 2025 
+ 
+ 
+7. THE CLINICAL EVALUATION REPORT 
+At the completion of the clinical evaluation process a report should be compiled that outlines the scope 
+and context of the evaluation; the inputs (clinical data); the appraisal and analysis stages; and conclusions 
+about the safety, clinical performance and/or effectiveness of the device in question. 
+The clinical evaluation report should contain sufficient information to be read as a standalone document 
+by an independent party (e.g., regulatory authority or conformity assessment body). It is important that 
+the report outlines: 
+ 
+The technology on which the medical device is based, the intended use of the medical device and 
+any claims made about the device’s safety, clinical performance and/or effectiveness; 
+ 
+The nature and extent of the clinical data that has been evaluated; and 
+ 
+How the referenced information (recognised standards and/or clinical data) demonstrates the 
+safety, clinical performance and/or effectiveness of the device in question. 
+The clinical evaluation report should be signed and dated by the evaluator(s) and accompanied by the     
+manufacturer’s justification of the choice of evaluator. 
+8. REFERENCES 
+1. GHTF:2008-- Summary Technical Documentation for Demonstrating Conformity to the Essential 
+Principles of Safety and Performance of Medical Devices (STED). 
+2. IMDRF:2019 Clinical Evidence – Key definitions and Concepts. 
+3. IMDRF: 2018- Essential Principles of Safety and Performance of Medical Devices and IVD Medical 
+Devices. 
+ 
+4. IMDRF:2017- Software as a Medical Device (SaMD): Clinical Evaluation 
+ 
+5. IMDRF:2017 - Methodological Principles in the Use of International Medical Device Registry Data 
+6. ISO 14155: 2020 - Clinical investigation of medical devices for human subjects — Good clinical practice  
+7. ISO 14971:2019 - Medical devices - Application of risk management to medical devices 
+9. VALIDITY 
+This guideline is valid for a period of five (5) years from the effective date of revision. It will be reviewed on 
+this timeframe or as and when required. 
+

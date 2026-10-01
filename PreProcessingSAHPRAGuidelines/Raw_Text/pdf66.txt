@@ -1,0 +1,813 @@
+Page 1 of 19 
+SAHPGL-INSP-RC-05_v4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 February 2024 
+ 
+ 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+ 
+ 
+                  Document History 
+ 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+• 
+First publication (MCC) 
+10 February 2015 
+2 
+• 
+Update to new template (version in SAHPRA format from MCC for 
+implementation) 
+21 September 2021 
+3 
+• Update to new template 
+• Aligning regulations from previous legislation 
+• Added more information on handling of rapid alerts 
+• Change document number from 5.07 to SAHPGL INSP-RC-05 
+07 June 2022 
+4 
+• 
+Contact details: Included Manger & Senior Manager details  
+• 
+Updated related templates to version 2  
+o GLF-RC-INSP-05A_v2 (Latest version) – Recall Notification 
+o GLF-RC-INSP-05B_v2 (Latest version) – Recall Letter to Customers 
+o GLF-RC-INSP-05C_v2 (Latest version) - Post recall information /FINAL 
+REPORT to SAHPRA 
+• 
+Editorial update: subtitle name changes and numbering throughout the 
+document 
+• 
+Contact details for the Chief Regulatory Officer and Chief Executive 
+Officer removed. 
+15 February 2024 
+ 
+       DR BOITUMELO SEMETE-MAKOKOTLELA              
+CHIEF EXECUTIVE OFFICER 
+This document has been prepared to serve as a recommendation to applicants regarding the recalls 
+and withdrawal of medicines, and the South African Health Products Regulatory Authority current 
+thinking on the safety, quality, and efficacy of medicines. SAHPRA reserves the right to request for 
+any additional information to establish the safety, quality and efficacy of a medicine and may make 
+amendments in keeping with the knowledge which is current at the time of consideration of data 
+which has been submitted regarding any recalls. SAHPRA is committed to ensure that all medicines 
+that are registered are of the required quality, safety, and efficacy. It is important for applicants to 
+adhere to these requirements. 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 2 of 19 
+ 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+List of abbreviations ............................................................................................................................................. 3 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 5 
+3. 
+NOTIFICATION / INITIATION OF A RECALL.................................................................................................. 5 
+3.1 
+Purpose of a recall notification .................................................................................................................. 5 
+3.2 
+Information Required for the Assessment of a Recall ............................................................................... 6 
+3.3 
+Classification of Recalls .............................................................................................................................. 6 
+4. 
+RECALL DOCUMENTATION ......................................................................................................................... 8 
+4.1 
+Recall Notification ...................................................................................................................................... 8 
+4.2 
+Recall Letter to Customers ......................................................................................................................... 9 
+4.3 
+Media Release .......................................................................................................................................... 10 
+4.4 
+Post Recall Report .................................................................................................................................... 10 
+4.5 
+FOLLOW-UP ACTION ................................................................................................................................ 11 
+5. 
+RAPID ALERTS ........................................................................................................................................... 12 
+6. 
+Contact Details ......................................................................................................................................... 13 
+7. 
+REFERENCES ............................................................................................................................................. 13 
+7.1 
+Related Procedures .................................................................................................................................. 13 
+7.2 
+Related Templates ................................................................................................................................... 13 
+8. 
+VALIDITY ................................................................................................................................................... 13 
+9. 
+ANNEXURES .............................................................................................................................................. 14 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 3 of 19 
+ 
+ 
+ 
+List of abbreviations 
+ 
+Abbreviation 
+Meaning 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SOP 
+Standard Operating Procedure 
+PIC/S 
+Pharmaceutical Inspection Corporation Scheme 
+HCR 
+Holders of certificate of registration 
+MCO 
+Medicine Control Officer 
+API 
+Active Pharmaceutical Ingredient 
+ 
+Glossary 
+ 
+Term 
+Meaning 
+Recall 
+Means the removal of specific batch/batches of a medicinal product from the 
+market for reasons relating to deficiencies in the quality, safety, or efficacy. 
+Withdrawal 
+Means the total withdrawal of a medicinal product from the market 
+Medicine 
+Means any substance or mixture of substances used or purporting to be 
+suitable for use or manufactured or sold for use in: 
+a) 
+The diagnosis, treatment, mitigation, modification, or prevention of disease, 
+abnormal physical or mental state or the symptoms thereof in man: or 
+b) 
+Restoring, correcting, or modifying any somatic or psychic or organic function 
+in man, and includes any veterinary medicine 
+Parallel importation 
+Means the importation into the Republic of a medicine protected under 
+patent and/or registered in the Republic that has been put onto the market 
+outside the Republic by or with the consent of such patent holder 
+Parallel importer 
+Means a person who parallel imports a medicine into the Republic on 
+authority of a permit issued in terms of regulation 5(1) of the Medicines and 
+Related Substances Control Act, 101 of 1965. 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 4 of 19 
+ 
+ 
+ 
+1. INTRODUCTION 
+The guideline for recall/withdrawal of medicines is the result of an agreement between the holder of the 
+certificate of registration/parallel importer of the medicine and the South African Health Products Regulatory 
+Authority in South Africa. Its purpose is to define the action to be taken by the Inspectorate and Regulatory 
+Compliance Unit and the holder of the certificate of registration /parallel importer of the medicine, when 
+medicines for reasons relating to their safety, quality and efficacy are to be removed from the market. 
+The CEO of SAHPRA, the senior manager Inspectorate and Regulatory Compliance, the manager: Regulatory 
+Compliance Unit and the Medicines Control Officers (MCOs) are responsible for recall/ withdrawal and will 
+monitor closely the effectiveness of the holder of the registration certificate/parallel importer’s recall actions 
+and provide a scientific, technical, and operational advice. 
+Each holder of a certificate of registration certificate (HCR)/parallel importer should advise SAHPRA of the 
+names, after hours and telephone numbers of two persons who have authority to discuss and, if necessary, 
+implement a recall. These guidelines serve to remind the holder of a certificate of registration/parallel 
+importer that SAHPRA expects them to take full responsibility for medicines recalls, including follow-up 
+checks to ensure that the recalls are successful and that corrective actions are taken. 
+Most medicine recalls are conducted on voluntary basis by the manufacturer or supplier for an assortment 
+of reasons, including safety, mislabelling, contamination, and deviations in strength or potency. 
+SAHPRA can recall medicines when registration thereof has been cancelled, or when medicines are sold 
+illegally in South Africa or when the medicines are no longer of quality, safe and efficacious. If the recalling 
+performance is deemed inadequate SAHPRA is prepared to take appropriate actions to remove the product 
+from sale or use. 
+ 
+1.1 PURPOSE 
+This document has been prepared to serve as a recommendation to applicants regarding the recalls and 
+withdrawal of medicines, and the South African Health Products Regulatory Authority on the safety, quality, 
+and efficacy of medicines. SAHPRA reserves the right to request for any additional information to establish 
+the safety, quality and efficacy of a medicine and may make amendments in keeping with the knowledge 
+which is current at the time of consideration of data which has been submitted regarding any recalls. 
+SAHPRA is committed to ensure that all medicines that are registered are of the required quality, safety, and 
+efficacy. It is important for applicants to adhere to these requirements. 
+1.2 SCOPE 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 5 of 19 
+ 
+ 
+These guidelines are applicable to all quality defective product reports and to all reported incidents of safety 
+and efficacy received for all drugs including vaccines & biological. These guidelines are expected to be 
+followed by licensees (manufacturers, importers, wholesalers, distributors, retailers) and the recall could be 
+voluntary or statutory. The procedure may also be used by SAHPRA when urgent action is required to protect 
+public or animal health. These guidelines would help in adopting a stepwise procedure to be followed in 
+recall strategy and also help in recall evaluation at every level and achieve compliance within the time frame. 
+1.3 LEGAL PROVISION 
+Section 19 (1) of the Medicines and Related Substances Act, Act 101 of 1965 – No person shall sell any 
+medicine unless it complies with the prescribed requirements. Any person who contravenes provision of this 
+sub-section shall be guilty of an offence. 
+ 
+Regulation 43(1) of the Medicines and Related Substances Control Act, Act 101 of 1965 - Every medicine shall 
+comply with the standards and specifications which were furnished to the Authority on the form prescribed 
+by regulation 22 and which have been accepted by the Authority with regard to such medicine. 
+Regulation 43(4) (i) of the Medicines and Related Substances Control Act, Act 101 of 1965 - (i) in the event of 
+a recall of a medicine, comply with the terms of the recall of the medicine. 
+ 
+2. NOTIFICATION / INITIATION OF A RECALL 
+ 
+2.1 Purpose of a recall notification 
+The purpose of a recall notification is to convey: 
+• 
+That the product in question is subject to a recall. 
+• 
+That further distribution or use of any remaining product should cease immediately. 
+• 
+Instructions regarding what to do with the product. 
+The recall of a medicine can be initiated because of reports referred to the holder of a 
+certificate of registration/parallel importer or SAHPRA from various sources, e.g., 
+manufacturers, wholesalers, retail and hospital pharmacists, doctors. A report may 
+relate to inter alia an adverse drug reaction to a particular batch, product quality 
+deficiency, technical complaints experienced with regard to the printed packaging 
+material, contamination, mislabelling, counterfeit including adulterated medicines 
+etc. 
+When initiating a recall, the holder of a certificate of registration should take into 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 6 of 19 
+ 
+ 
+consideration: the extent of public warnings and the successfulness of the recall. 
+It is imperative that before or upon initiating a recall, the applicant immediately on 
+becoming aware of a problem, notifies the Authority or in his/her absence his/her 
+designate of the potential recall. Therefore, it is advisable that no recall, regardless of 
+the level, should be undertaken without consultation with SAHPRA and without 
+agreement on the recall strategy. However, in case of a potential significant health 
+hazard to patients, during the weekend/public holidays the HCR/ parallel importer may 
+within 24 hours disseminate information on the recall. This includes precautionary 
+measures to quarantine stock pending the initiation of the recall. 
+The withdrawal/recall of a particular batch or batches of a product from the 
+market may be prompted by the following but are not limited to: 
+• 
+Serious reports of adverse drug reactions not included in the package insert 
+• 
+Unexpected frequency of adverse reaction stated in the package insert 
+• 
+Incorrect formulation of a product 
+• 
+Incorrect labelling of a product 
+• 
+Unfavourable result of ongoing stability studies 
+ 
+2.2 Information Required for the Assessment of a Recall 
+Each recall is a unique exercise. However, in tailoring an appropriate recall strategy, there are a number of 
+factors common to all recalls that need to be considered. Certain information is essential to permit the 
+assessment of the validity of the report of the problem or recall, the potential danger to consumers and the 
+action appropriate to the situation. The HCR/ parallel importer should gather all relevant information on the 
+recall, which includes the product, its distribution, and action proposed. The HCR/ parallel importer should 
+make available to SAHPRA all the relevant information regarding the recall on the report form provided as 
+Annexure 1. The information required may be included in Annexure 1 but not limited to it only. 
+ 
+2.3 Classification of Recalls 
+Recalls are classified into both the class according to the level of health hazard involved (risk to the patient) 
+and type which denotes the depth or extent to which the product should be recalled from the distribution 
+chain, e.g., Class I, Type C recall, etc. 
+2.3.1 
+Class I 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 7 of 19 
+ 
+ 
+Defects are dangerous or potentially life-threatening medicinal products that predictably or probably could 
+result into serious health risk/adverse events or even death. A Rapid Alert notification must be sent to all 
+contacts of the rapid alert notification list, irrespective of whether or not the batch was exported to the 
+country. 
+Class I is for defective/dangerous/potentially life-threatening medicines that predictably or probably could 
+result into serious health risk/adverse events or even death. 
+a) Examples: 
+• 
+Wrong product (label and contents are different products) 
+• 
+Correct product but wrong strength, with serious medical consequences 
+• 
+Microbial contamination of sterile injectable or ophthalmic product 
+• 
+Chemical contamination with serious medical consequences 
+• 
+Mix-up of some products (rogues) with more than one container involved. 
+• 
+Wrong active ingredient in a multi-component product, with serious medical 
+consequences. 
+2.3.2 Class II 
+Defects could cause illness or mistreatment, but are not Class I. A rapid alert notification should be sent to all 
+contacts of the rapid alert notification list as it might be difficult to know where a batch has been distributed. 
+If the product distribution is known, the notification should be only sent to the contacts concerned. 
+Class II is for medicines that possibly could cause temporary or medically reversible adverse health problem 
+or mistreatment. 
+a. Examples: 
+• 
+Mislabelling, e.g., wrong, or missing text or figures 
+• 
+Missing or incorrect information (leaflets or inserts) 
+• 
+Microbial contamination of non-injectable, non-ophthalmic sterile 
+product with medical consequences 
+• 
+Chemical/physical contamination (significant impurities, cross-contamination, 
+particulates) 
+• 
+Mix up of products in containers (rogues) 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 8 of 19 
+ 
+ 
+• 
+Non-compliance with specification (e.g., assay, stability, fill/weight) 
+• 
+Insecure closure with serious medical consequences (e.g., cytotoxic, child- 
+resistant containers, potent products). 
+ 
+2.3.3 
+Class III 
+Defects may not pose a significant hazard to health. This is for medicines that are defective and are unlikely 
+to cause any adverse health reaction or which do not comply with the requirements of Act 101 of 1965 in 
+terms of: 
+a. Example: 
+• 
+Faulty packaging, e.g., wrong, or missing batch number or expiry date 
+• 
+Requirements of printed packaging material, product specification, labelling, etc. 
+• 
+Faulty closure 
+• 
+Contamination, e.g., microbial spoilage, dirt or detritus, particulate matter 
+Class III is for medicines that are defective and are unlikely to cause any adverse health reaction or which do 
+not comply with the requirements of Act 101 of 1965 in terms of the requirements of printed packaging 
+material, product specification, labelling, etc. 
+ 
+2.3.4 
+Type A 
+A type A recall is designed to reach all suppliers of medicines (all distribution points) i.e., wholesalers 
+throughout the country, directors of hospital services (private as well as state hospitals), retail outlets, 
+doctors, nurses, pharmacists, authorized prescribers and dispensers and individual customers or patients 
+through media release (radio, television, regional and national press). 
+a. 
+Action: Recall letter to all distribution points plus media. 
+ 
+2.3.5 
+Type B 
+A type B recall is designed to reach wholesalers throughout the country, directors of hospital services 
+(private as well as state hospitals), retail outlets, doctors, nurses, pharmacists, authorized prescribers, and 
+dispensers. 
+a. 
+Action: Recall letter to all distribution points. 
+ 
+2.3.6 
+Type C 
+A type C recall is designed to reach wholesale level and other distribution points (e.g., pharmacies, doctors, 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 9 of 19 
+ 
+ 
+hospitals) this can be achieved by means of a representative calling on wholesalers and/or retail outlets. If it 
+is known where the product in question had been distributed to, specific telephone calls or recalls letters to 
+arrange for the return of the product could be made. 
+a. 
+Action: Specific telephone calls, recall letters to/representatives calling at distribution points if 
+known where the medicines have been distributed. 
+NOTE: Decisions on the Class and Type of a recall to be initiated are a matter of SAHPRA in consultation with 
+a holder of the registration certificate and shall be based on the evidence and/or expert opinion of SAHPRA 
+and HCR. 
+ 
+3. RECALL DOCUMENTATION 
+ 
+3.1 Recall Notification 
+The applicant/distributor communicates and engages with the Authority (SAHPRA). This involves information 
+gathering and or intent from Applicant to recall or withdraw affected batches of stock in the market. 
+Based on information received from the Applicant (see Form No. GLF-RC-INSP-05A_v1 [Annexure 1]), the risk, 
+the Type and Class of recall is determined by SAHPRA. 
+The recall communication should not contain irrelevant information, promotional materials, or any other 
+statement that may detract from the message. Where necessary, follow-up communication should be sent 
+by the Applicant to those who fail to respond to the initial recall communication. 
+A recall communication can be accomplished by e-mail, telephone, social media, electronic and print media, 
+or special delivery letters conspicuously marked, preferably in bold red, depending on the classification (The 
+letter by the applicant to the customers or distribution chain should also be marked; "URGENT MEDICINE 
+RECALL" for Class I and Class II recalls see Annex 2). 
+N.B : The recall information could be provided verbally but should be confirmed in writing within two working 
+days. 
+SAHPRA will decide whether a public recall announcement is mandatory and who should issue such warning 
+to the Public (through public media). 
+The purpose of a public warning is to alert the public that a product being recalled presents a serious health 
+hazard. 
+The recall strategy will specify the type of public warning, for example: General public warning through the 
+general news media, either national or local as appropriate, or public warning through specialized news 
+media, e.g., professional journals or publications, trade, or ethnic press, or to specific segments of the 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 10 of 19 
+ 
+ 
+population such as physicians, hospitals, etc. 
+ 
+3.2 Recall Letter to Customers 
+Recall Letters should include factual statements of the reasons for the recall of the product, together with 
+special details that will allow the product to be easily identified. 
+The text of the recall letter is to be sent to the office SAHPRA Inspectorate Regulatory Compliance for 
+approval before being dispatched to customers. The letter, which must be sent by e-mail, should be 
+dispatched within 24 hours of receiving approval from the Inspectorate and Regulatory Compliance Unit. A 
+digitally signed copy of the approved recall letter (or facsimile) to customers is to be sent to Regulatory 
+Compliance Unit via email. In case of an international distribution of the recalled product the applicant 
+should immediately inform the responsible applicant / distributor and or endeavour to make information 
+available to the regulatory authority in that country. 
+Recall Letter from the holder of the registration certificate to the distribution chain should be written in 
+accordance with the following directive (see Form No. GLF-RC-INSP-05B_v1 [Annexure 2]): 
+• 
+The letter shall be on the company's letterhead and signed by the Responsible Pharmacist or 
+authorized person. 
+• 
+The heading should indicate that it is an "Urgent Medicine Recall" and should also indicate the 
+classification and type of the recall. 
+• 
+The Name of product, dosage form, strength, registration number, pack size, batch number(s), expiry 
+date and any other relevant information necessary to allow absolute identification. 
+• 
+The Nature of the defect (be brief and to the point). 
+• 
+The Urgency and Reason for the action (reason for recall). 
+• 
+Indication of a health risk (this should also state exactly what the product may do if taken, i.e., side- 
+effects). 
+• 
+Provide specific information on what should be done in respect of the recalled medicine. Method of 
+recovery or product correction, which will be used. 
+• 
+Contact telephone number and facsimile return numbers (preferably a toll-free number) 
+Where necessary, a follow-up communication shall be sent to those who failed to respond to the initial recall 
+communication. 
+A request to retain the letter in a prominent position for one month in case stock is in transit (where 
+applicable). 
+Where recalled stock has been distributed to a limited number of hospitals and the recall letter is not to be 
+sent to all hospitals in the province, the letter should include the following: 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 11 of 19 
+ 
+ 
+"If any of the recalled stock could have been transferred from your hospital to another, please let that 
+hospital know or alternatively inform our company so that we can make contact with the hospital supplied 
+from your hospital". 
+ 
+NB: The recall communication shall not contain any material that can be viewed as promotional in nature. 
+The letter and the envelope shall indicate in bold red type "MEDICINE RECALL" and be marked "URGENT" 
+ 
+3.3 Media Release 
+In the case of a Class I recall where a media release is indicated, the holder of a certificate of registration and 
+SAHPRA deliberate and develop content for the media release jointly. Expert advice may also be required. 
+The media release should contain sufficient and relevant detail to uniquely define the product, together with 
+a clear outline of the problem (without causing unnecessary alarm) and must state the appropriate response 
+by the consumer/client. 
+A 24-hour access telephone number of the holder of the registration certificate should be given for further 
+information. The media release will be issued by the holder of the registration certificate. 
+If the holder of the registration certificate refuses to do a media release SAHPRA will do the release via the 
+Communication Unit. 
+ 
+3.3.1 Choice of the daily media - this should be done in consultation with SAHPRA and 
+consideration should be given to the need to inform all ethnic groups in their language. 
+ 
+3.3.2 Recommended content to appear on the media release: 
+Shall be on the company's letterhead and signed by the Responsible Pharmacist or authorized person. 
+• 
+The heading should indicate that it is an "Urgent Medicine Recall". 
+• 
+The heading should also indicate the Classification and Type of the recall. 
+• 
+Name of product, dosage form, strength, registration number, pack size, batch number(s), expiry 
+date and any other relevant information necessary to allow absolute identification. 
+• 
+Nature of the defect (be brief and to the point). 
+• 
+Urgency and Reason for the action (reason for recall). 
+• 
+Indication of a health risk (this should also state exactly what the product may do if taken, i.e. side- 
+effects). 
+• 
+Provide specific information on what should be done in respect of the recalled medicine. Method of 
+recovery or product correction, which will be used. 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 12 of 19 
+ 
+ 
+• 
+Contact telephone number and facsimile return numbers (preferably toll free) 
+A request to retain the media release in a prominent position for one month in case stock is in transit (where 
+applicable). 
+ 
+4.4 Post Recall Report 
+The HCR/ parallel importer has a legal responsibility for implementing the recall action, and for ensuring 
+compliance with the recall procedure. Two weeks after the implementation of the recall (or at other agreed 
+times) the HCR/ parallel importer shall provide the SAHPRA with an interim report on the effectiveness of 
+the recall and within 30 days of the recall having been instituted the SAHPRA shall be furnished with a final 
+(post recall) report (as per Form No. GLF-RC-INSP-05C [Annexure 3]). 
+These reports may include but not limited to the following: 
+• 
+Details on the investigation into the cause of the defect. 
+• 
+The corrective actions proposed/implemented and the dates of implementation to prevent a 
+recurrence of the problem. 
+• 
+The extent of distribution of the relevant batch in South Africa as well as to the international market. 
+• 
+The success of the recall i.e., quantity of stock returned, corrected, outstanding, etc. 
+• 
+Confirmation, where applicable, (e.g., hospitals, pharmacists, doctors, customers, other international 
+regulatory authorities / holder of distribution authorization in the foreign country) that the recall 
+letter was received. 
+• 
+The method of destruction or disposal of the recalled goods. 
+These reports establish the effectiveness of the recall and form the basis of the report to the SAHPRA. Unless 
+satisfactorily reports are received, further recall action may have to be considered. 
+ 
+NOTE: 
+- 
+An additional interim report may be requested even before the 30 days have elapsed. 
+- 
+In the case of medicine withdrawal from the market, SAHPRA can recommend the withdrawal of a 
+medicine following a review that considered all available information not relating to safety, quality 
+and efficacy. 
+- 
+In the case of the decision by the HCR to voluntarily withdraw their medicine from the market, it is 
+their responsibility to notify SAHPRA. 
+ 
+4.5 FOLLOW-UP ACTION: 
+The follow- up action consists of an evaluation on the effectiveness of the recall and an investigation of the 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 13 of 19 
+ 
+ 
+reason for the recall and corrective actions taken to prevent a recurrence of the problem. 
+The Medicines Control Officer shall evaluate the reports received from the recalling site and an assessment 
+made of the effectiveness of the recall action. 
+On completion of a recall or during the process of a recall, the recalling site is requested to provide details of 
+the corrective actions and timelines proposed to prevent a recurrence of the problem which gave rise to the 
+recall. 
+Where the nature of the problem and appropriate corrective actions is not apparent, investigation and in 
+some cases, Good Manufacturing Practice audits may be necessary. 
+Apparent follow-up actions will be carried out by the SAHPRA or by the Inspectorate and Regulatory 
+Compliance unit on behalf of the SAHPRA as directed by the Authority. This might include a review of the 
+medicine dossier by the SAHPRA, and any appropriate action instituted by the SAHPRA based on the 
+outcome of the review of the applicable dossier. 
+Once the recall has been handled satisfactorily, and the destruction certificate post disposal/ destruction of 
+the recalled goods, then SAHPRA will consider closure of the recall. 
+ 
+4. RAPID ALERTS 
+Rapid Alerts are as a result of triggers that compel SAHPRA to initiate recalls. However, not all quality defects 
+result in recall of medicinal products. 
+The Rapid Alert System may be used for notification to authorities concerned about the quality of products 
+or an embargo on the distribution of products following suspension or withdrawal of a manufacturing / 
+wholesale authorisation. It can also be initiated by an Authority, i.e. SAHPRA, as a result of a track of market 
+quality or a safety event or by detecting a fraudulent drug. 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 14 of 19 
+ 
+ 
+ 
+5. Contact Details 
+Recall and Enquiries: recalls@sahpra.org.za 
+ 
+Escalations: 
+Mokgadi Fafudi (Manager: Regulatory Compliance Unit): Email: Mokgadi.fafudi@sahpra.org.za 
+Mr Deon Poovan (Senior Manager: Inspectorate and Regulatory Compliance Directorate) Email: 
+deon.poovan@sahpra.org.za 
+ 
+6. REFERENCES 
+ 
+6.1 Related Procedures 
+Circular 9/98 of the Medicines Control Council/ (Now called SAHPRA). 
+Uniform Recall Procedure for the Therapeutic Goods. 
+PIC/S Procedure for Handling Rapid Alerts and Recalls arising from quality defects, Procedure. 
+ 
+6.2 Related Templates 
+GLF-RC-INSP-05A_v2 (Latest version) – Recall Notification (Annex. 1) 
+GLF-RC-INSP-05B_v2 (Latest version) – Recall Letter to Customers (Annex. 2) 
+GLF-RC-INSP-05C_v2 (Latest version) - Post recall information /FINAL REPORT to SAHPRA (Annex.3) 
+ 
+7. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces [Guideline for 
+Recalls/ Withdrawal of Medicine, Document No. 5.07]. It will be reviewed on this timeframe or as and when 
+required. 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 15 of 19 
+ 
+ 
+ 
+8. ANNEXURES 
+ANNEX 1 - Recall Information (INITIAL REPORT to SAHPRA) 
+ANNEX 2 - Recall Letter to customers 
+ANNEX 3 - Post recall information (FINAL REPORT to SAHPRA) 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 16 of 19 
+ 
+ 
+ 
+ 
+ANNEX 1 - Recall Information (INITIAL REPORT to SAHPRA) 
+ 
+Doc Number: 
+GLF-RC-INSP-05A 
+TITLE: 
+Recall Notification 
+ 
+Revision: 2.0 
+Effective date: 15 February 2024 
+ 
+Recall information 
+Information by the HCR/Parallel importer 
+1. Name of person/organisation reporting the 
+problem 
+2. Company 
+3. Physical address 
+4. Telephone number 
+5. Facsimile number 
+6. E-mail address 
+7. Date of report 
+8. Name of recipient at the MRA/SAHPRA 
+Product (medicine) details 
+1. Name of product affected 
+2. Name of Active Pharmaceutical Ingredient (API) 
+3. Source (Manufacturer) of the API 
+4. SAHPRA allocated registration number 
+5. Dosage form 
+6. Strength of the product 
+7. Pack size/type 
+8. Batch number and expiry date 
+9. Manufacturer/holder of the certificate of 
+registration, address and contact details 
+10. Date manufactured 
+11. Date released 
+12. Total quantity prior to distribution 
+13. Quantity released for distribution prior to the recall 
+14. Date of distribution 
+15. Local distribution (include distribution 
+list) 
+16. international distribution (give full details and 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 17 of 19 
+ 
+ 
+ 
+ 
+ 
+ 
+GLF-RC-INSP-05A_v2   Page 1 of 2 
+ 
+Nature of defect 
+17. Source of complaint (e.g., patient/ 
+hospital/pharmacy/manufacturer, etc) 
+18.. Details of complaint 
+19. Number of complaints received 
+20. Initial date complaint was received 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 18 of 19 
+ 
+ 
+ 
+ANNEX 2 - Recall Letter to Customers 
+ 
+Doc Number: 
+GLF-RC-INSP-05B 
+TITLE: RECALL LETTER TO CUSTOMERS 
+ 
+Revision: 2.0 
+Effective date: 15 February 2024 
+ 
+Company B Letter Head 
+URGENT MEDICINE RECALL – CLASS? – TYPE? 
+Dear Customer, 
+We hereby inform you that we are recalling the following batches of Product A 
+ 
+Product 
+A 
+Batch / Lot 
+number(s) 
+Expiry 
+Date 
+Manufacturing 
+date 
+Pack Size 
+First 
+release 
+date 
+for sale 
+Quantity 
+(prior 
+recall) 
+Recall Classification 
+(As confirmed by 
+SAHPRA) 
+ 
+ 
+Class ? Type ? 
+ 
+ 
+This recall is initiated because………………(give reasons) 
+ 
+We request that you refrain from selling any of the affected batch(s) of Product A and return them to your 
+supplying warehouse or distributor with immediate effect. Company B will collect all your stock which will be 
+replaced ………. 
+For further product information, please call Company B on….phone contact number 
+ 
+We thank you in advance for your co-operation and apologise for any inconvenience caused. 
+Yours faithfully, 
+……………………………. 
+15 February 2024 
+GUIDELINES FOR MEDICINE RECALL/ WITHDRAWAL AND RAPID ALERTS 
+SAHPGL-INSP-RC-05_v4 
+Page 19 of 19 
+ 
+ 
+ 
+ANNEX 3 - Post recall information (FINAL REPORT to SAHPRA) 
+ 
+ 
+Doc Number: 
+GLF-RC-INSP-05C 
+TITLE: Post recall information /FINAL REPORT to 
+SAHPRA 
+ 
+Revision: 2.0 
+Effective date: 15 February 2024 
+ 
+Post recall information 
+Information by the HCR / Parallel importer 
+1. Name of product 
+2. Name of Active Pharmaceutical 
+Ingredient(s) (APIs) 
+3. Source (Manufacturer) of the APIs 
+4. SAHPRA allocated registration number 
+5. Dosage form 
+6. Strength of product 
+7. Pack size/type 
+8. Batch number and expiry date 
+9. Nature of defect 
+10. Action taken (taking into account the area of 
+distribution of recalled medicine), if exported 
+confirmation from the Regulatory Authority and the 
+holder of the distribution authorization in the 
+foreign country 
+11. Urgency of the action taken 
+12. Reason for the action 
+13. Indication of the health risk and the 
+reported clinical problems 
+14. Detailed steps taken to prevent re- 
+occurrence of the problem (CAPA) 
+15. Fate of the recalled product (including 
+the decision taken –i.e. destruction) 
+NB: A destruction certificate must be supplied to 
+SAHPRA in order to close the recall) 
+16. The result of the recall-quantity of stock returned, 
+corrected, outstanding, etc 
+17. Confirmation that customers have received the 
+recall letter (include mailing list) 
+18. Copies of all recall correspondence including 
+previous correspondences to SAHPRA regarding this 
+recall. 
+ 
+

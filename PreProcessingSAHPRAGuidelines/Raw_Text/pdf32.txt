@@ -1,0 +1,334 @@
+SAHPGL-RDN-NM-01_v1 
+Page 1 of 8
+ 
+ 
+ 
+20 February 2026 
+GUIDELINE FOR LICENCE APPLICATIONS FOR NON-IONISING 
+RADIATION MEDICAL AND NON-MEDICAL DEVICES CLASSIFIED 
+AS LISTED ELECTRONIC PRODUCTS 
+This guideline is intended to guide applicants wishing to submit applications for the listed electronic products. It 
+represents the South African Health Products Regulatory Authority's (SAHPRA)’s current thinking on the safety, quality, 
+and performance of the listed electronic products. 
+  
+It is not intended as an exclusive approach. The Authority reserves the right to request any additional information to 
+establish the safety, quality, and performance of the listed electronic products in keeping with the knowledge current 
+at the time of evaluation. Alternative approaches may be used, but these should be scientifically and technically 
+justified. The Authority is committed to ensuring that all registered listed electronic products meet the requirements of 
+the essential principles relating to quality, safety, and performance. 
+ 
+It is important that applicants adhere to the administrative requirements to avoid delays in the processing and evaluation 
+of applications. 
+ 
+Guidelines and application forms are available from the SAHPRA website. 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue 
+15 January 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-RDN-NM-01_v1 
+Page 2 of 8
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 5 
+1.1 
+Purpose ...................................................................................................................................................... 5 
+1.2 
+Scope .......................................................................................................................................................... 5 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 5 
+3. 
+LIST OF APPLICATION FORMS..................................................................................................................... 6 
+4. 
+DOCUMENTS REQUIRED FOR LICENSE APPLICATIONS .............................................................................. 6 
+5. 
+REFERENCE ................................................................................................................................................. 7 
+6. 
+VALIDITY……………………………………………………………………………………………………………………………………………….7 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-NM-01_v1 
+Page 3 of 8
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Notified Body 
+A Notified Body is an organisation designated by an EU Member State (or by other 
+countries under specific agreements) to assess the conformity of certain products 
+before being placed on the market. The Notified Body is entitled to carry out tasks 
+related to conformity assessment procedures set out in the applicable legislation 
+when the intervention of a third party is required.  
+Listed product  
+It is an electronic product which has been declared a Group III Hazardous Substance in 
+terms of section 2(1)b and 3(b) by the Minister, by notice in the Gazette. This is in 
+terms of the Hazardous Substances Act no. 15 of 1973.  
+Importer  
+It is any person who, whether as owner, consignor, consignee, agent, or broker, has 
+or is in any way entitled to the custody or control of any Group III hazardous 
+substance imported.  
+Manufacturer  
+It is any person who, whether as owner, consignor, consignee, agent, or broker, has 
+or is in any way entitled to the custody or control of any Group III Hazardous 
+Substance assembled, produced, prepared, processed, repaired, or the use of any 
+other manufacturing or maintenance process.  
+Declaration of 
+Conformity  
+The Declaration of Conformity is a legal document in which the manufacturer or 
+authorised representative signs to state that all CE Marked products sold in the 
+European Union, meet all of the requirements of the applicable EU Directives and 
+Regulations.  
+Group III Hazardous 
+Substance  
+Devices producing ionising radiation, e.g. X-rays, devices producing non-ionising 
+radiation, e.g. lasers, ultraviolet, infrared, RF, ultrasound and High and Medium risk 
+electromedical devices. 
+MDD 93/42/EEC  
+The Medical Device Directive (of 14 June 1993) concerning medical devices is 
+intended to harmonise the laws relating to medical devices within the European 
+Union. For a manufacturer to legally place a medical device on the European market, 
+the requirements of the MD Directive have to be met. Manufacturers' products 
+meeting harmonised standards' have a presumption of conformity to the Directive. 
+Products conforming to the MD Directive must have a CE mark applied.  
+MDD 90/385/EEC   
+The Active Implantable Medical Devices Directive applies only to active implantable 
+devices. For a device to be classified as an active implant, it must rely on a power 
+source not provided by the body or gravity and be designed to be introduced into the 
+body with the intention to remain there following the procedure.  
+MDR 2017/745/EU  
+It is a Regulation of the European Union on the clinical investigation and sale 
+of medical devices for human use. It repeals MDD 93/42/EEC, which concerns medical 
+devices, and Directive 90/385/EEC, which concerns active implantable medical 
+devices, on 26 May 2021. The regulation came into force on 25 May 2017. Originally 
+approved medical devices had a transition time until 26 May 2021 to meet new 
+requirements. MDD certificates will be valid until their original expiry date or 26 May 
+2024, whichever is sooner. This is if compliance is maintained, certain elements of the 
+MDR are fulfilled, and the Notified Body performs surveillance activities. Thus, 
+manufacturers can continue to put MDD-certified devices on the market up to and 
+including 26 May 2024. 
+SAHPGL-RDN-NM-01_v1 
+Page 4 of 8
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+NIRMED 
+Non-Ionising Radiation and Medical Devices 
+EU 
+European Union 
+ 
+ 
+SAHPGL-RDN-NM-01_v1 
+Page 5 of 8
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+1. 
+INTRODUCTION 
+The selling, letting, use, application, installation, manufacturer, and importation of the scheduled list of 
+electronic products are subject to control in terms of Section 4(1)(b) of the provisions made by the 
+Hazardous Substances Act, 1973 (Act 15 of 1973) and subsequent regulations. 
+The intent of the Non-Ionising Radiation and Medical Devices (NIRMED) subdivision under Radiation 
+Control in terms of the license application for listed electronic products is to ensure that SAHPRA remains 
+abreast of the following: 
+• The manufacturers of listed electronic products in South Africa. 
+•  Importers and distributors of listed electronic products in South Africa. 
+• The technical review criteria of import applications for listed electronic products into South Africa. 
+1.1 
+Purpose 
+• To ensure the safety of the public by controlling certain electronic products in terms of the 
+Hazardous Substances Act, Act 15 of 1973 and subsequent regulations. 
+• To ensure the submitted applications of the listed electronic products are compliant.  
+1.2 
+Scope 
+• 
+To guide the applicant on the license application process for the listed electronic products.  
+• 
+To guide the applicant on the minimum requirements for import license applications for listed 
+electronic products. 
+• 
+To be consistent with the Hazardous Substances Act 15 of 1973. 
+2. 
+LEGAL PROVISION 
+• 
+To control the importation of certain electronic products according to the Hazardous Substances Act 
+number 15 of 1973. 
+• 
+The licensing for sale, let, and use of listed electronic products according to Regulation number R.690 
+of 1989. 
+• 
+The schedule of listed electronic products according to Regulation number R.1302 of 1991. 
+ 
+ 
+SAHPGL-RDN-NM-01_v1 
+Page 6 of 8
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+3. 
+LIST OF APPLICATION FORMS 
+Title  
+Document Number  
+Application for a licence to import a new listed electromedical product  GLF-RDN-NM-01A (Old Form No. 
+41BM-1(IMP))  
+Application for a licence to import a new listed non-medical product  
+GLF-RDN-NM-01B (Old Form No. 
+41BN-1(IMP))  
+Application for a licence to manufacture a listed electromedical product 
+in SA  
+GLF-RDN-NM-01C (Old Form No. 
+41BM-1(MAN))  
+Application for a licence to manufacture a listed non-medical product in
+SA  
+GLF-RDN-NM-01D (Old Form No. 
+41BN-1(MAN))  
+4. 
+APPLICATION FOR THE LICENCE TO IMPORT OR MANUFACTURE OF LISTED 
+ELECTRONIC PRODUCTS 
+4.1 
+A correct application form (www.sahpra.org.za) for either import or manufacture must be submitted 
+to nirmed.application@sahpra.org.za. 
+4.2 
+Documents required 
+The following information will inter alia be reviewed when a licence application is evaluated: 
+4.2.1 
+Licence application forms 
+• 
+Complete name of company or individual (not only “trade as” name) 
+• 
+The company premises street address 
+• 
+Brand and model name according to the EC Declaration of Conformity 
+• 
+Indication for use as per brochure 
+• 
+Details of manufacturer as per brochure and EC (European Union) Declaration of Conformity 
+• 
+Name of the Authorised Representative in the EU if the manufacturer is not situated in the EU 
+• 
+Contact person in South Africa with email address and at least one telephone number 
+• 
+Application form signed and dated (within a week from sent date) 
+4.2.2 
+Brochures with technical specifications  
+• Brochure for the specific model as per licence application 
+• Details of the manufacturer on the brochure 
+• Technical specifications for the specific model 
+• Picture of the device 
+4.2.3 
+Agency letter 
+• 
+Official letter from the manufacturer authorising the importer to be the official distributor of 
+their product(s) 
+SAHPGL-RDN-NM-01_v1 
+Page 7 of 8
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+• 
+Wording to the effect that the importer is a SA agent or representative for the manufacturer 
+• 
+Signed and dated (or company stamped) 
+4.2.4 
+Notified Body certificate 
+• 
+Certificate issued by a recognised Notified Body in the EU 
+• 
+Certificate issued for the manufacturer as per the application 
+• 
+Scope of certificate as per the indication for use 
+• 
+Conformity assessment procedure according to the correct annexure(s) 
+• 
+Validity period of the certificate 
+• 
+Certificate verified via Notified Body database, QR code or direct contact with the Notified 
+Body 
+4.2.5 
+Declaration of Conformity 
+• 
+Details of the manufacturer 
+• 
+Declaration statement for the applicable EC Directive(s)/EU Regulation(s) 
+• 
+Notified Body details 
+• 
+EU representative details 
+• 
+Details of specific model as per application form 
+• 
+Dated and signed (or company stamped) 
+4.3 
+In a case where information in section 4.2.1 – 4.2.5 is not submitted or/and is incorrect: 
+• 
+Any application submitted without an application form will be rejected. 
+• 
+Any application submitted with an incorrect application form will be rejected. 
+• 
+The applicant will be contacted to correct any omissions and resubmit the correct application 
+form along with the required documents (stated in section 4.2.1 – 4.2.5). 
+• 
+The applicant must resubmit the correct application form along with the required documents 
+to nirmed.applications@sahpra.org.za. 
+• 
+The applicants who have submitted invalid supporting documents will be given 10 working 
+days to resubmit the correct supporting documents. Failure to submit valid supporting 
+documents will result in a rejection.  
+ 
+4.4 
+The turnaround time for the application of an import licence is 50 working days. 
+ 
+SAHPGL-RDN-NM-01_v1 
+Page 8 of 8
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+5. 
+REFERENCE 
+The following related document are referenced: 
+• 
+The Medical Device Directive (MDD 93/42/EEC) 
+• 
+The Active Implantable Medical Device Directive (MDD 90/385/EEC) 
+• 
+The Medical Devices Regulation (MDR 2017/745/EU) 
+ 
+6. 
+VALIDITY 
+This guideline is valid for a period of five (5) years from the effective date of revision. It will be reviewed on 
+this timeframe or as and when required. 
+

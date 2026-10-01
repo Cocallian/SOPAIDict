@@ -1,0 +1,688 @@
+SAHPGL-HPA-04_v6 
+Page 1 of 15
+ 
+ 
+12 February 2025 
+RENEWAL OF THE CERTIFICATE OF REGISTRATION OF HUMAN 
+AND VETERINARY MEDICINES 
+This guideline document is intended to provide guidance on the renewal of the certificate of registration of 
+human and veterinary medicines.  
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+New 
+22 June 2022 
+2 
+Extensive amendments in line with stakeholder comments after the 
+implementation pilot study 
+31 May 2023 
+3 
+Amended in line with the updated document number for eCTD validation and 
+technical screening for renewals 
+Edited Section 4.1 point 6 to clarify that if no formal notification nor renewal is 
+received, the medicines register will be changed to “Cancelled” 
+06 July 2023 
+4 
+Amended in line with stakeholder comments  
+Edited 4.1 point 5 to include further information on the submission process  
+Edited 4.1 point 10 to now point 11 to provide clarity on clones/replicas of a 
+parent application, as well as different strengths 
+Edited 4.3  
+• 
+Module 1, PQR and Pharmacovigilance requirements  
+22 August 
+2023 
+5 
+Edited Section 1 to remove old naming convention  
+Edited 4.1 to include clarification on the applicant renewal schedule 
+Edited 4.1 & 4.2 to delete any reference to the Service Desk/Quantum  
+Edited 4.3 Module 1: removed requirement for proof of approval of the PI/PIL in 
+working folder 
+Moved declaration that data related to any commitments/compliance from 
+QIS/QOS to 1.0 
+Deletion of QOS requirements   
+Included medicine register details  
+Updated product quality review (PQR) and Pharmacovigilance for clarity  
+ 
+11 September 
+2024 
+SAHPGL-HPA-04_v6 
+Page 2 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+6 
+Clarification of the process to renewal of the certificate of registration  
+Inclusion of requirements in related to ToAs 
+Amendments to application payment requirements 
+Deletion of reference to “temporary certificate” and related information  
+Expansion of the review process to include permitted query rounds and 
+extensions 
+Expansion of the technical requirements section, alignment 2.21 South African 
+Specification for eCTD Regional Module 1 v3.1 
+Update to related documents  
+Expansion of guideline title 
+17 February 
+2025 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-HPA-04_v6 
+Page 3 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 6 
+1.1 
+PURPOSE .................................................................................................................................................... 7 
+1.2 
+SCOPE ......................................................................................................................................................... 7 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 7 
+3. 
+POST-REGISTRATION VARIATION TO MEDICINAL PRODUCTS ................................................................... 7 
+3.1 
+GENERAL REQUIREMENTS .......................................................................................................................... 8 
+3.2 
+PROCESSING OF APPLICATIONS ................................................................................................................. 9 
+3.3 
+TECHNICAL REQUIREMENTS .................................................................................................................... 10 
+4. 
+REFERENCES ............................................................................................................................................. 15 
+5. 
+VALIDITY ................................................................................................................................................... 15 
+6. 
+ANNEXURES .............................................................................................................................................. 15 
+6.1 
+Annexure 1: Renewals Process Flow Diagram ......................................................................................... 15 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-04_v6 
+Page 4 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/Term 
+Meaning 
+Active Pharmaceutical 
+Ingredient (API) 
+Means a substance or compound that is intended to be used in the 
+manufacture of a medicinal product as a therapeutically active compound 
+(ingredient) 
+Authority 
+Means the South African Health Products Regulatory Authority or its acronym 
+“SAHPRA” 
+BMCT(s) 
+Border Medicines Control Technicians 
+These are SAHPRA-employed medicines control officials stationed at the ports 
+of entry for medicines 
+Clone 
+Is defined as an application submitted by the Innovator as a copy of its own 
+product under a different proprietary name at any stage during the product 
+life cycle (of the registered product) 
+CPP 
+Certificate of Pharmaceutical Product (WHO Certification Scheme) 
+Drug Master File 
+A drug master file (DMF) is a master file that provides a full set of data on an 
+API 
+DVP 
+Digital Variations Portal 
+eCTD 
+Electronic Common Technical Document 
+It is the standard dossier format for submitting applications and variations to 
+the majority of global medicines regulators, including SAHPRA  
+Finished Pharmaceutical 
+Product (FPP) 
+Means a product that has undergone all stages of production, including 
+packaging in its final container and labelling 
+FTP 
+File Transfer Protocol 
+GMP 
+Good Manufacturing Practice 
+HCR 
+Holder of the Certificate of Registration 
+HPA 
+Health Products Authorisation 
+IVD 
+In-Vitro Diagnostics 
+Manufacturer 
+Means a person or firm that is engaged in the manufacture of pharmaceutical 
+product(s) 
+ 
+ 
+Medicinal product, Drug, 
+medicine or 
+pharmaceutical product 
+Medicine 
+a) Means any substance or mixture of substances used or purporting 
+to be suitable for use or manufactured or sold for use in: 
+i) 
+the diagnosis, treatment, mitigation, modification or prevention 
+of disease, abnormal physical or mental state or the symptoms 
+thereof in humans; or 
+ii) 
+restoring, correcting or modifying any somatic or psychic 
+or organic function in humans; and 
+includes any veterinary medicine 
+PBRER 
+Periodic Benefit-Risk Evaluation Report 
+SAHPGL-HPA-04_v6 
+Page 5 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+Abbreviation/Term 
+Meaning 
+Pharmacopoeia 
+Means a current edition of the British Pharmacopoeia, European 
+Pharmacopoeia, United States Pharmacopoeia, International Pharmacopoeia 
+and Japanese Pharmacopoeia 
+PI 
+Professional Information 
+PIC/S  
+Pharmaceutical Inspection Convention & Pharmaceutical Inspection Co-
+operation Scheme  
+PIL 
+Patient Information Leaflet 
+PQR 
+Product Quality Review 
+PSUR 
+Periodic Safety Update Report 
+QIS 
+Quality Information Summary 
+Registration of a 
+medicine  
+Means the registration of a product by SAHPRA for the purpose of selling such 
+product in South Africa after evaluation for safety, efficacy and quality, and 
+whereby the product is included in the register referred to in Section 13 of the 
+Medicines and Related Substances Act, 101 of 1965, as amended. 
+Replica 
+Is defined as a copy of an already registered generic product, submitted by 
+the same or by another applicant at any stage during the product life cycle (of 
+the registered product). 
+RRAs 
+Recognised Regulatory Authorities 
+A term used to refer to the regulatory authorities with which SAHPRA aligns 
+itself. 
+SAHPRA 
+ South African Health Products Regulatory Authority 
+SAPC 
+South African Pharmacy Council 
+ToA 
+Transfer of Applicant  
+ 
+Variation 
+Means a change to any aspect of a medicinal product, including but not 
+limited to a change to formulation, method and site of manufacture, 
+specifications for the finished product and ingredients, container closure type 
+or specifications and container labelling, indications and product information 
+WHO 
+World Health Organisation 
+SAO 
+Senior Administrative Officer  
+EC  
+Evaluator Co-ordinator  
+PC 
+Portfolio Co-ordinator  
+ 
+ 
+ 
+SAHPGL-HPA-04_v6 
+Page 6 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+1. 
+INTRODUCTION 
+The registration of medicines in South Africa is governed by the provisions and requirements of the Medicines 
+and Related Substances Act,101 of 1965 (hereinafter “the Act”), as amended, and its subordinate Regulations 
+and Guidelines. The South African Health Products Regulatory Authority (“SAHPRA” or “the Authority”) is a 
+statutory body established in terms of the Act to provide for the monitoring, evaluation, regulation, 
+investigation, inspection, registration and control of medicines, Scheduled substances, clinical trials and 
+medical devices, In-Vitro Diagnostics (IVDs) for human and animal use and related matters in the public 
+interest. 
+It is acknowledged that during the course of five (5) years, several aspects of the registered medicinal product 
+may change significantly as a result of notified variations. These collective changes may significantly impact the 
+quality, safety, and efficacy of the product and, therefore, the objective of renewal of the certificate of 
+registration is to ensure that the product continues to be safe, effective and of good quality for ongoing public 
+use. 
+There are benefit-risk assessments performed throughout the product life cycle, including reviews of annual 
+reports of registered medicines. 
+These guidelines, therefore, accommodate the steps that are followed from the submission of a renewal of 
+the certificate of registration application to the outcome, the timeframe and procedure for the Authority to 
+amend, where necessary, the conditions of renewal of the certificate of registration of a particular product. 
+These guidelines present SAHPRA’s current thinking on technical requirements necessary to facilitate the 
+renewal of the certificate of registration of medicinal products. Evaluation of the applications will, as far as 
+possible, be based on the principles laid down in this guideline document. It is worth noting that conditions of 
+registration specify that current Good Manufacturing Practice (GMP) is to be maintained, which includes the 
+expectation for the latest technological and scientific methods to be used in the manufacture and control of 
+products. SAHPRA will, at the time of a renewal of the certificate of registration, expect variations to have been 
+submitted separately for evaluation, to ensure that the dossier is in line with current GMP, as well as with the 
+latest international scientific requirements. Applicants are also requested to read these guidelines together 
+with the Medicines and Related Substances Act, 101 of 1965, as amended, and other relevant Regulations 
+made thereunder. 
+This guideline document is divided into three major parts stipulating the general requirements and application 
+procedures for human and veterinary medicinal products; processing of applications; and technical 
+requirements for application for the renewal of the certificate of registration of medicinal products. 
+SAHPGL-HPA-04_v6 
+Page 7 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+Applicants are requested to carefully read these guidelines and submit the renewal application via the FTP 
+system.  
+Applicants should ensure that the correct file name convention, as indicated on the SAHPRA website: 
+https://ectd.sahpra.org.za/, is used. 
+1.1 PURPOSE 
+To provide guidance on the submission of applications for the renewal of the certificate of registration 
+of medicines. 
+1.2 SCOPE 
+These guidelines are relevant to applications for the renewal of the registration certificate of both 
+human and veterinary medicinal products. These guidelines do not extend to medical devices, IVDs and 
+complementary medicines, as SAHPRA does not currently register these types of products. 
+2. 
+LEGAL PROVISION 
+The legal provision for the implementation of a renewal of the certificate of registration is covered in 
+the Medicines and Related Substance Act, 101 of 1965, as amended. Section 2B(1)(c) provides for the 
+periodic re-evaluation or re-assessment and monitoring of medicines, medical devices and IVDs. Section 
+15(6)(a)(b) provides for the registration of medicines, medical devices or IVDs. It further states that any 
+registration under this section may be made subject to such conditions as may be determined by the 
+Authority; and shall, in the case of medicines, be valid for a period of five years. 
+3. 
+POST-REGISTRATION VARIATION TO MEDICINAL PRODUCTS 
+All variations to a registered pharmaceutical product shall be made according to requirements stipulated 
+in the Variations Addendum and relevant variation guidelines. This process will not be interrupted. 
+No variations will be accepted as part of the renewal of the certificate of registration as this will impact 
+the processing and swift turn-around of renewals. The dedicated Renewals workstream will only review 
+renewal applications. No applications with pending Transfer of Applicant (ToAs) variations will be 
+accepted. Applicants should ensure that only applications where the ToA has been finalised are 
+submitted for the renewal of registration.  
+SAHPGL-HPA-04_v6 
+Page 8 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+For applications that have a renewal query that warrants variation, the applicant shall submit a variation 
+indicating that this is a variation in response to a renewal query in the application letter and submit the 
+proof of submission in their response to the renewal query. 
+3.1 
+GENERAL REQUIREMENTS 
+For all applications for the renewal of the certificate of registration, a full Electronic Common Technical 
+Document (eCTD) baseline submission, in line with the General Information Guideline for registration, 
+should be submitted (only if the dossier has not yet been converted to eCTD). A roadmap has been 
+devised for each applicant based on the number of active product registrations they have, to allow 
+adequate time for these baseline submissions to be prepared and submitted.  
+Renewal of the certificate of registration applications should be made to the Authority at least six (6) 
+months before the expiry of the validity of registration of a particular medicinal product. Registration 
+certificates issued from 1 October 2022 contain an expiry date; however, older products’ registration 
+certificates do not, and in these cases, renewal dates will be via the applicant-specific renewal schedule. 
+On this schedule, SAHPRA has divided these into different years and quarters per year, so that the 
+Authority can receive the renewal submissions for the relevant products in the first month of each of 
+those identified quarters. 
+Please take note of the following: 
+1. A screening checklist, with specific reference to renewal applications, is to be completed by 
+applicants and included in Module 1.2.5 (eCTD Validation and Technical Screening for Renewals: 
+GLF-HPA-04A).  
+2. All applications and supporting documents shall be in English. Any submitted documents which are 
+in a language other than English must be accompanied by an English translation. 
+3. The responsibility of applying for the renewal of the product’s certificate of registration remains 
+with the company responsible for the introduction of the product into the South African market, 
+i.e., the Holder of Certificate of Registration (HCR), or the new HCR if there was a transfer of the 
+registration certificate since the initial registration or last renewal of the certificate of registration. 
+SAHPRA will only liaise with the current HCR listed for the product and not with any proposed HCRs 
+because of a pending transfer of registration certificate. No transfer of registration certificate may 
+be submitted while a renewal application is still being reviewed. When applications are transferred 
+to a new HCR, it remains the previous HCR’s responsibility to inform the new HCR of the renewal 
+due date, as per the renewal roadmap. The roadmap will not be amended by SAHPRA to reflect 
+SAHPGL-HPA-04_v6 
+Page 9 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+transfers of applicant. 
+4. Applications must be duly completed and supported by all the required documents, as stipulated 
+in this guideline and supplementary documents, and where appropriate in line with the current 
+edition of the General Information Guideline. 
+5. The application should be submitted online via the SAHPRA FTP in line with the General Information 
+guideline.   
+6. The application should be submitted along with a non-refundable application fee as stipulated in 
+the Fees gazette.  
+7. Applicants who intend to cancel their registrations, should follow the withdrawal procedure in the 
+2.21 ZA-SAHPRA eCTD specifications. A notification should be sent to renewals@sahpra.org.za. If 
+the applicant has not formally cancelled the application or submitted the renewal of the 
+application, it is the opinion of the Authority that the Holder of the Registration Certificate has 
+failed to comply with the condition to which medicine was registered. The applicant will be 
+informed of the cancellation of the product’s registration via the medicines register, as the status 
+will be changed to “Cancelled” if no renewal application is received.  
+8. 
+Clones/replicas of a parent application, as well as different strengths (of same product range) 
+registered at different times, maybe submitted at the same time for renewal as one renewal 
+application provided the relevant strengths and clones/replicas are due for renewal, i.e., registered 
+in 2018 and before. This may be done on a case-by-case basis and should be done at the time of 
+the first application that is due for renewal. 
+9. 
+All correspondence related to the processing of the renewal applications will be sent to an 
+applicant(s) via email. HCRs should ensure that the Authority is informed and updated on any 
+changes to the contact person(s) or details.  
+ 
+3.2 
+PROCESSING OF APPLICATIONS 
+Registration renewal applications undergo the following stages from the time of application 
+submission until the final renewal outcome: 
+1. If an application is found to be incomplete upon screening, the applicant will be notified by SAHPRA 
+of this outcome via the applicant(s) email and will be requested to amend and resubmit the 
+application  
+1.1. Only one round of screening queries will be generated. 
+1.2. The response timeline is 10 working days. 
+2. Evaluation of the application shall be carried out within the timelines stipulated (please refer to the 
+SAHPGL-HPA-04_v6 
+Page 10 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+attached renewal process flow diagram in Annexure 1) and the respective outcomes will be 
+communicated to the applicant(s) via email.  
+3. During the evaluation, SAHPRA may request further information and additional supporting 
+documents from the applicant in line with the guideline requirements. The required information 
+should be made available within thirty (30) working days from the date of the request to facilitate 
+timely renewal of the relevant product. 
+3.1. Only two rounds of evaluation queries will be generated. 
+3.2. The response timeline for each round is 30 working days. 
+4. The notification of the renewal of the certificate of registration of the product shall be 
+communicated via email, followed by the issuance of a revised registration certificate. Applicants 
+should carefully read the conditions under which the medicine is registered (appended to the 
+certificate) and adhere to them throughout the product life cycle. 
+5. The full renewal review timeframe is 120 working days (six (6) months), from the time of 
+submission of a renewal of the certificate of registration application by an applicant to the issuance 
+of the revised registration certificate by SAHPRA. 
+3.3 
+TECHNICAL REQUIREMENTS 
+All applications for the renewal of the certificate of registration of Human medicines refer to the latest 
+version of the 2.21 ZA-SAHPRA eCTD Specification and document matrix available on the SAHPRA 
+website. 
+All applications for the renewal of the certificate of registration for Veterinary medicines refer to the 
+latest version of 2.58 ZA- SAHPRA CTD esubmission Specification available on the SAHPRA website. 
+All applications for renewal of the certificate of registration of human and veterinary medicinal 
+products shall be accompanied by the following documentation/requirements: 
+MODULE 1: ADMINISTRATIVE & PRESCRIBING INFORMATION 
+Section 
+Requirements 
+1.0.1 
+Letter of Application 
+1.0.3 
+Correspondence from SAHPRA 
+Variation approval letters 
+1.2.1 
+Application Form (inclusive of up-to-date Variation History) 
+1.2.2.1 
+Proof of Payment 
+Note: Applicant to include a note that proof of payment will be 
+submitted subject to publishing of fees in the Government Gazette. The 
+proof of payment must be submitted once the fees have been gazetted. 
+SAHPGL-HPA-04_v6 
+Page 11 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+Section 
+Requirements 
+1.2.5 
+Validation Template 
+Note: Document should also be included in MS Word format  
+ 
+ 
+1.3 
+South African Product Information 
+1. 
+Copies of the current SAHPRA-approved Professional Information 
+(PI) 1.3.1.1.1 and Patient Information Leaflet (PIL) 1.3.2.1 
+Note: Documents should also be included in MS Word format  
+ 
+1.3.6 
+Sample artwork 
+ 
+Coloured mock-ups of packaging of the product for all strengths, i.e., 
+blister, label and unit carton in PDF format. 1.3.3.1 
+Note: Facsimile labels will be accepted for dormant products. 
+1.5.A 
+Additional Types of Applications Specific Requirements (Module 1.5.A) 
+ 
+1. A declaration that data related to any commitments/compliance 
+with conditions which the product was registered under, must 
+be submitted. 
+2. A declaration that the risk assessment for applications registered 
+without nitrosamine risk assessment has been done and the 
+necessary updates have been submitted to the Authority. 
+3. The Professional Information (PI) and Patient Information Leaflet 
+(PIL) from five (5) years prior to the renewal application. 
+1.5.2.2.1 
+Medicine Register Details 
+The information that has been applied for through the Digital Variations 
+Portal (DVP) and approved through the variations’ summary must be 
+added onto Module 1.5.2.2.1 medicine register details under the 
+“proposed column” and NOT the “current column”. Only information 
+appearing on the current registration certificate must be included under 
+the “current column”. 
+1.5.2.2.2 
+The current registration certificate(s) for the product(s), as well as copies 
+of DVP Variation Summaries regarding site variations received in the 
+preceding five (5) years. 
+1.7.3 
+ Latest GMP Certificate or the Appropriate Licence: 
+1. 
+Certificates of GMP Compliance of the Active Pharmaceutical 
+Ingredient(s) manufacturing facilities, issued by Recognised 
+Regulatory Authorities (RRAs) or by the National Competent 
+Authority of the country of manufacture. 
+2. 
+Certificates of GMP Compliance of the Finished Pharmaceutical 
+Product(s) (FPP) manufacturing facilities, issued by RRAs. 
+Certificates should be provided for all sites involved in the testing, 
+manufacturing and packaging of the FPP. 
+3. 
+Section 22C(1)(b) Licence(s) issued by SAHPRA for local sites. 
+1.7.7 
+South African Pharmacy Council (SAPC) Registration: 
+Registration of Pharmacy, pharmacist responsible/authorised to 
+communicate with the Authority and Responsible Pharmacist with the 
+SAPC. 
+1.7.14 
+Product Quality Review (PQR) 
+SAHPGL-HPA-04_v6 
+Page 12 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+Section 
+Requirements 
+ 
+A Product Quality Review (PQR) should be submitted with the objective 
+of verifying the consistency of the quality of the Finished Pharmaceutical 
+Product (FPP) and its manufacturing process. 
+Please refer to Product Quality Review (PQR) below for details. 
+1.8.2 
+Risk Management Plan 
+ 
+The risk-benefit assessment report of the preceding five (5) years. 
+Please refer to Pharmacovigilance below for details. 
+1.10.6 
+Certificate of Pharmaceutical Product (CPP) (WHO Certification 
+Scheme) 
+A CPP issued by the relevant Health/Regulatory body in the country of 
+manufacture of the product or, if not registered in the country of origin, 
+a CPP from a Health Authority of a country where the product is 
+registered and marketed (legalisation/notarisation not required). 
+This requirement is not applicable to products manufactured in South 
+Africa. 
+3.2.R.8 
+Other 
+ 
+Quality Information Summary (QIS) 
+ 
+1. Completed SAHPRA-specific QIS to be submitted in Module 3.2.R.8 – 
+Other and the working documents. Refer to the SAHPRA QIS (GLF-
+PEM-02C) templates.  
+ 
+PRODUCT QUALITY REVIEW (PQR) 
+The Product Quality Review report of the preceding five (5) years, containing the information stipulated 
+in the Pharmaceutical Inspection Convention & Pharmaceutical Inspection Co-operation Scheme (PIC/S) 
+GMP Guide and following the guidance provided therein, should be submitted with the objective of 
+verifying the consistency of the quality of the FPP and its manufacturing process. 
+Rejected batches should not be included in the analysis but should be reported separately together with 
+the reports of failure investigations, as indicated below. Batches produced for other markets may be 
+included but are required to have the same formulation and manufacturing process of the product 
+registered in South Africa.  
+Reviews should be conducted with no fewer than 10 consecutive batches manufactured over a period of 
+the past 12 months or, where 10 batches were not manufactured in the past 12 months, no fewer than 
+25 consecutive batches manufactured over a period of the past 36 months* and should at least include: 
+i. 
+A review of starting materials including packaging materials used in the product, especially those 
+from new sources and, in particular, the review of supply chain traceability of active substances.  
+ii. 
+A review of critical in-process controls and finished product results.  
+iii. 
+A review of all batches that failed to meet established specification(s) and their investigation. 
+SAHPGL-HPA-04_v6 
+Page 13 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+iv. 
+A review of all significant deviations or non-conformances, their related investigations, and the 
+effectiveness of resultant corrective and preventive actions taken.  
+v. 
+A review of all changes carried out to the processes or analytical methods.  
+vi. 
+A review of variations submitted, granted or refused, including those for third-country (export 
+only) dossiers.  
+vii. 
+A review of the results of the stability monitoring programme and any adverse trends.  
+viii. 
+A review of all quality-related returns, complaints and recalls and the investigations performed at 
+the time, including export-only medicinal products.  
+ix. 
+A review of the adequacy of any other previous product process or equipment corrective actions.  
+x. 
+For new registration applications and variations to registered dossiers, a review of post-marketing 
+commitments.  
+xi. 
+The qualification status of relevant equipment and utilities, e.g. HVAC, water, compressed gases, 
+etc.  
+xii. 
+A review of any contractual arrangements, as defined in Chapter 7 of the PIC/S GMP Guide Part I, 
+to ensure that they are up to date. 
+xiii. 
+A summary report of Post-Marketing Surveillance activities in the preceding five (5) years. 
+*Batches manufactured at a lower scale than that stated above will be handled on a case-by-case 
+basis and more extensive documentation may be required in such cases. 
+ 
+Notes:  
+1. Product Quality Review (PQR) to be included in Module 1.7.14 Inspection reports or equivalent 
+document, only to be updated for registration renewal applications, not routinely. 
+2. Reviews should include data from all batches manufactured during the review. 
+3. Data should be presented in tabular or graphical form, where applicable. 
+4. PQRs should not be summaries of the outcome of review without data.  
+ 
+PHARMACOVIGILANCE 
+In order to support the renewal of the product, a risk-benefit assessment report and risk-benefit 
+conclusions by the HCR for the preceding five (5) years should be submitted (included in Module 1.8.2).  
+i. 
+The risk-benefit report should contain the following sections: 
+• 
+A summary report of all adverse drug reactions observed in the preceding five (5) years and 
+actions taken, including medication errors, potential medication errors, and including lack of 
+SAHPGL-HPA-04_v6 
+Page 14 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+efficacy, off-label use, misuse and abuse. 
+• 
+An executive summary report of the Periodic Risk-Benefit Evaluation Reports (PBRERs) or 
+Periodic Safety Update Reports (PSURs) (included in Section 1.8.2 Risk Management Plan). 
+ii. 
+The Risk-benefit conclusions by the Holder of the Certificate of Registration (HCR), namely by 
+the Clinical Expert or the HCR Responsible Pharmacist should: 
+• 
+Confirm that no new clinical data are available that change or result in a new benefit-risk 
+balance evaluation. 
+• 
+Confirm that the product can be safely renewed for a 5-year period, or any action 
+recommended or initiated should be specified and justified.  
+• 
+Confirm that the Authorities have been kept informed of any additional data significant for 
+the assessment of the benefit-risk balance of the product concerned.  
+• 
+Confirm that the product information is up to date with the current scientific knowledge 
+including the conclusions of the assessments and the recommendations made.  
+QUALITY INFORMATION SUMMARY (QIS) 
+1. 
+Completed SAHPRA-specific QIS to be submitted in Module 3.2.R.8 – Other and the working 
+documents. Refer to the QIS (GLF-PEM-02C) template.   
+ 
+ 
+SAHPGL-HPA-04_v6 
+Page 15 of 15
+RENEWAL OF REGISTRATION OF HUMAN AND VETERINARY 
+12 February 2025 
+ 
+ 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+1. 
+PIC/S Good Manufacturing Practice (GMP) Guide Part I (https://picscheme.org/)  
+2. 
+Medicines and Related Substances Act, 101 of 1965, as amended, together with relevant 
+Regulations 
+3. 
+Variations Addendum for Human and Veterinary Medicines: SAHPGL-HPA-06 
+4. 
+General Information: SAHPGL-HPA-07  
+5. 
+eCTD Validation and Technical Screening for Renewals: GLF-HPA-04A 
+6. 
+QIS Template: GLF-PEM-02C 
+7. 
+Multiple Applications: SAHPGL-HPA-08 
+5. 
+VALIDITY 
+This guideline document is valid for a period of five (5) years from the effective date of revision and 
+replaces Renewal of Human and Veterinary Medicines Requirements and Process Guideline, SAHPGL-
+HPA-04-v4 dated 11 September 2024. It will be reviewed in line with this timeframe or as and when 
+required. 
+6. 
+ANNEXURES 
+6.1 
+Annexure 1: Renewals Process Flow Diagram 
+ 
+

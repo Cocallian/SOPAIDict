@@ -1,0 +1,771 @@
+SAHPGL-CEM-PV-03 Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+Page 1 of 15
+ 
+ 
+ 
+ 
+ 
+ 
+Risk Management Plans for Medicines for Human Use 
+September 2022 
+ 
+Document History 
+ 
+Draft for comment internal– Version 0 
+April 2022 
+Draft for comment by industry– Version 0.1 
+May 2022 
+Final Guideline for implementation – Version 1.0 
+September 2022 
+ 
+ 
+ 
+ 
+ 
+DR B SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICE 
+ 
+ 
+ 
+ 
+This document has been prepared to serve as a guideline to the holders of certificate of registration/applicants on the 
+Authority’s requirements regarding risk management plans for medicines, including biological medicines, in South 
+Africa. It represents SAHPRA’s current thinking on the safety, quality and efficacy of medicines.  SAHPRA reserves the 
+right to request any additional information to establish the safety, quality and efficacy of a medicine and may make 
+amendments in keeping with the knowledge which is current at the time of consideration of safety data.   
+SAHPGL-CEM-PV-03 Risk Management Plans for Medicines for Human Use _Sept 2022 _v1 
+Page 2 of 15
+Risk Management Plans for medicines for Human Use 
+Sept 2022 
+ 
+ 
+ 
+Table of Contents 
+Document History .....................................................................................................................................................1 
+1. 
+Definitions, Descriptions and Acronyms ..............................................................................................................4 
+1.1 
+Holder of Certificate of Registration ..................................................................................................................... 4 
+1.2 
+Risk Management Plan (RMP) ............................................................................................................................... 4 
+1.3 
+Pharmacovigilance and Risk Minimisation Activities............................................................................................. 4 
+1.3.1 
+Routine pharmacovigilance and risk minimisation activities ............................................................................ 4 
+1.3.2 
+Additional pharmacovigilance and risk minimisation activities ........................................................................ 4 
+1.4 
+Reports prepared by other medicines regulatory authorities or institutions ....................................................... 5 
+1.5 
+International Council for Harmonisation ............................................................................................................... 5 
+1.6 
+Periodic Benefit Risk Evaluation Report ................................................................................................................ 5 
+1.7 
+Periodic Safety Update Report .............................................................................................................................. 5 
+1.8 
+Data lock point for RMPs ....................................................................................................................................... 5 
+2. 
+Introduction ......................................................................................................................................................6 
+2.1 
+Purpose of the guideline ........................................................................................................................................ 6 
+2.2 
+Legal Basis ............................................................................................................................................................ 6 
+2.3 
+Scope and application ............................................................................................................................................ 6 
+2.4 
+Overview of Risk Management Plans ................................................................................................................... 7 
+3. 
+RMP Requirements in South Africa .....................................................................................................................7 
+3.1 
+When to submit a Risk Management Plan to SAHPRA ........................................................................................ 7 
+3.2 
+When is an RMP required for a new fixed-dose combination? ............................................................................. 8 
+3.3 
+When is an RMP required for a generic? ............................................................................................................... 8 
+3.4 
+When is an RMP required for a variation? ............................................................................................................ 8 
+3.5 
+When is a RMP not required?................................................................................................................................ 9 
+4. 
+Acceptable Risk Management Plan Format .........................................................................................................9 
+5. 
+RMP submission requirements ........................................................................................................................ 10 
+5.1 
+Submission presentation requirements ................................................................................................................ 10 
+5.2 
+Timelines for the submission of RMPs ............................................................................................................... 11 
+5.3 
+Foreign Reviews .................................................................................................................................................. 11 
+6. 
+South Africa Specific Annexure (SASA) ............................................................................................................. 11 
+6.1 
+Introduction ......................................................................................................................................................... 11 
+6.1.1 
+Purpose of South Africa Specific Annexure for the Risk Management Plan .................................................. 11 
+6.1.2 
+Registration history ......................................................................................................................................... 11 
+6.1.3 
+History of RMPs submitted in SA ................................................................................................................... 12 
+6.1.4 
+Epidemiology of the population to be treated in SA ....................................................................................... 12 
+6.2 
+Pharmacovigilance Plan ...................................................................................................................................... 12 
+6.2.1 
+Pharmacovigilance organisation in SA ........................................................................................................... 12 
+6.2.2 
+Routine Pharmacovigilance Activities ............................................................................................................ 12 
+6.2.3 
+Pharmacovigilance activities for safety concerns specific to SA .................................................................... 12 
+SAHPGL-CEM-PV-03 Risk Management Plans for Medicines for Human Use _Sept 2022 _v1 
+Page 3 of 15
+Risk Management Plans for medicines for Human Use 
+Sept 2022 
+ 
+ 
+6.2.4 
+Studies Referenced in the Pharmacovigilance Plan of the RMP ..................................................................... 13 
+6.3 
+Risk minimisation activities for generic medicines ............................................................................................. 13 
+6.3.1 
+How risk minimisation activities will be implemented ................................................................................... 13 
+6.3.2 
+Potential for medication errors or other risks, if applicable ............................................................................ 13 
+6.3.3 
+How risk minimisation activities will be evaluated in SA .............................................................................. 13 
+6.4 
+Summary of the RMP .......................................................................................................................................... 14 
+6.5 
+Person responsible for the RMP and contact details ............................................................................................ 14 
+7. 
+Role and responsibilities of the Holder of Certificate of Registration/Applicants................................................ 14 
+8. 
+References ..................................................................................................................................................... 14 
+9. 
+Validity .......................................................................................................................................................... 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 4 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 4 of 15
+ 
+ 
+ 
+1. Definitions, Descriptions and Acronyms 
+ 
+1.1 Holder of Certificate of Registration 
+The holder of the certificate of registration (HCR) is the person, natural or juristic, in whose name the certificate of 
+registration for a product has been granted and who is responsible for compliance with the conditions of 
+registration. The terms “holder of certificate of registration” (holder) and “applicant” are used interchangeably. 
+ 
+1.2 Risk Management Plan (RMP)  
+A risk management plan (RMP) is a dynamic, stand-alone document reflecting both known and emerging safety 
+data (i.e., non-clinical and clinical) that is updated throughout the medicine’s life cycle. It describes a set of 
+pharmacovigilance activities and interventions designed to identify, characterise, prevent, or minimise risks related 
+to a specific medicine and the assessment of the effectiveness of those interventions. Medicines for which an 
+RMP has been imposed as a condition of registration need to comply with this section. The RMP is an 
+integral part of the electronic Common Technical Document (eCTD) submitted as an application for registration of 
+a medicine (as module 1.13). 
+ 
+1.3 Pharmacovigilance and Risk Minimisation Activities  
+Pharmacovigilance is defined by the World Health Organization (WHO) as the science and activities relating to the 
+detection, assessment, understanding and prevention of adverse events or any other drug-related problems. Risk 
+minimisation activities are interventions intended to prevent or reduce the occurrence of adverse reactions 
+associated with exposure to a medicine, or to reduce their severity or impact on the patient. Pharmacovigilance 
+and risk minimization activities are classified as routine or additional. Risk minimisation is also referred to as risk 
+mitigation. 
+ 
+1.3.1 
+Routine pharmacovigilance and risk minimisation activities  
+Routine pharmacovigilance activities are the minimum set of activities required for all medicines as per the 
+obligations set out in the registration certificate. Routine risk minimisation activities apply to all medicines and 
+relate to standard activities such as product labelling, the wording of the professional information and patient 
+information leaflet, and scheduling status. Scheduling status may also be linked to the indications, strength, dosage, 
+duration of use and pack size. Routine pharmacovigilance and risk minimisation activities apply to medicines for 
+which no specific safety concerns have arisen.  
+ 
+1.3.2 
+Additional pharmacovigilance and risk minimisation activities 
+Where specific concerns have arisen, additional pharmacovigilance and risk minimisation activities designed to 
+address these safety concerns may be imposed as a condition of registration of a medicine. Examples include 
+training on the administration of a medicine, the provision of educational materials to patients and healthcare 
+providers, controlled access programmes, and additional risk communication through Dear Healthcare Professional 
+letters. Examples of routine and additional pharmacovigilance and risk minimisation activities are provided in Table 
+1. 
+ 
+ 
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 5 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 5 of 15
+ 
+ 
+ 
+Table 1: Example of routine and additional pharmacovigilance activities 
+ 
+Routine 
+Additional 
+Pharmacovigilance 
+activities 
+• Collection, follow-up and reporting 
+of adverse events 
+• Continuous monitoring of the 
+benefit-risk profile 
+• Post-marketing clinical trial 
+obligations 
+• Patient registries 
+Risk minimisation 
+activities 
+• 
+Professional Information 
+• 
+Patient Information Leaflet 
+• 
+Packaging and labelling 
+• 
+Scheduling status 
+• Educational programmes or tools 
+for healthcare providers and/or 
+patients 
+• Controlled access programmes 
+• Dear Healthcare Professional 
+communication 
+ 
+1.4 Reports prepared by other medicines regulatory authorities or institutions  
+In terms of section 2B (2) of the Medicines and Related Substances Act, SAHPRA may liaise with any other medicines 
+regulatory authority or institution and may exchange information with and receive information from any such 
+authority or institution. SAHPRA may also enter into agreements to co-operate with any medicine’s regulatory 
+authority or institution. Reports on the safety, efficacy and quality of a medicine, prepared by other regulatory 
+authorities or institutions, may be relied upon by SAHPRA. 
+ 
+1.5 International Council for Harmonisation 
+The International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) 
+is a joint regulatory-industry harmonisation initiative for medicines. SAHPRA has observer status at ICH. The ICH 
+Guidance on Pharmacovigilance Planning (ICH E2E) is intended to aid in the planning of pharmacovigilance 
+activities, especially in preparation for the early post-marketing period of a new medicine. 
+.  
+1.6 Periodic Benefit Risk Evaluation Report 
+A Periodic Benefit Risk Evaluation Report (PBRER) is a pharmacovigilance document intended to provide a 
+comprehensive, concise, and critical analysis of new or emerging information on the risks of a medicine, and on its 
+benefits in approved indications, to enable an appraisal of the product’s overall benefit-risk profile. The format of 
+the PBRER is outlined in the ICH guideline Clinical Safety Data Management Periodic Benefit-Risk Evaluation Report 
+(PBRER) for Marketed Drugs (ICH E2C (R2)). 
+ 
+1.7 Periodic Safety Update Report  
+A Periodic Safety Update Report (PSUR) is a report prepared by the holder of certificate of registration describing 
+the worldwide safety experience with a medicine at a defined time after its registration. 
+ 
+1.8 Data lock point for RMPs 
+Data Lock Point (DLP) is the designated cut-off date for data to be included in a risk management plan. It is 
+recommended that a DLP date must be stated on the RMP document and should not be more than 6 months before 
+the RMP sign-off date. RMP for initial registration applications should reflect the DLP of the Clinical Safety Summary. 
+ 
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 6 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 6 of 15
+ 
+ 
+ 
+2. Introduction 
+2.1 Purpose of the guideline  
+2.1.1 SAHPRA has adopted and integrated the ICH) E2E Guideline (into the regulatory review of medicines 
+in South Africa to:  
+a) support a life cycle approach to pharmacovigilance. 
+b) enhance the quality of SAHPRA’s regulatory assessments. 
+c) support ongoing evaluation of information that could have an impact on the benefit-risk 
+profile of medicines and. 
+d) align local health products vigilance with international best practices; and 
+e) support South Africans’ timely access to safe, efficacious, and high-quality medicines. 
+ 
+2.1.2 This guidance: 
+a) describes what an RMP is; 
+b) explains when an RMP must be submitted; 
+c) describes what to include in the RMP and the required format for RMPs; 
+d) details special requirements for RMPs for biological medicines, biosimilars and generic 
+medicines;  
+e) explains when to submit RMP updates following regulatory approval. 
+ 
+2.2 Legal Basis 
+2.2.1 This guideline is based on the requirements of General Regulation 40 issued in terms of the 
+Medicines and Related Substances Act, (Act 101 of 1965), as amended (Government Notice No. 859, 
+Government Gazette No. 41064, 25 August 2017). 
+2.3 Scope and application 
+2.3.1 This guideline provides guidance to HCRs and applicants on the submission of a South African RMP, 
+the expected structure of the RMP, and the requirements for updates to be provided to the Authority. 
+The guideline applies to medicines, as defined in the Medicines and Related Substances Act (Act 101 
+of 1965). The guideline applies only to Category A medicines, defined in General Regulation 9 as 
+“medicines which are intended for use in humans and which are, without manipulation, ready for 
+administration, including packaged preparations where only a vehicle is added to the effective 
+medicine”.  
+ 
+2.3.2 The guideline does not apply to Category B medicines (“medicines intended for use in humans 
+which cannot normally be administered without further manipulation”), category C medicines 
+(“medicines intended for veterinary use which are, without further manipulation, ready for 
+administration, including packaged preparations where only a vehicle is added to the effective 
+medicine”) or Category D medicines (“complementary medicines intended for use in humans and 
+animals which are, without further manipulation, ready for administration, including packaged 
+preparations where only a vehicle is added to the effective medicine”).  
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 7 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 7 of 15
+ 
+ 
+ 
+ 
+2.3.3 The submission of RMPs will not be required for medical devices, unless submitted as a combination 
+product. 
+2.4  Overview of Risk Management Plans 
+2.4.1 The decision to register a medicine relies on a satisfactory balance of benefits and risks, based on 
+the information available at the time. The safety profile of a medicine may change over time. In 
+particular, during the early post-marketing period, a medicine might be used in settings different 
+from those studied in clinical trials and a much larger population might be exposed in a relatively 
+short timeframe. Adverse reactions and risks which were unknown at the time of registration may 
+be identified.  
+ 
+2.4.2 The known safety concerns and emerging safety signals require active strategies to mitigate risks 
+during the post-registration phase and to ensure that the assessed benefit-risk profile of a medicine 
+remains favourable. The ICH E2E Guideline provides instructions with respect to the characterisation 
+of important identified risks of medicines, important potential risks and important missing 
+information. ICH E2E defines two basic parts of an RMP: the safety specification section and the 
+pharmacovigilance plan. It does not include risk minimisation. However, it was acknowledged at the 
+time of development of ICH E2E that risk minimisation is an integral part of risk management 
+planning. 
+ 
+3. RMP Requirements in South Africa 
+3.1 When to submit a Risk Management Plan to SAHPRA  
+3.1.1 SAHPRA requires that all new applications for medicine registration and some Clinical Type II 
+variations applications as detailed below (refer to section 3.4) must be accompanied by an RMP. RMPs 
+can also be requested by the Authority as part of an ongoing review or other situations in order to 
+support informed regulatory decision making about a medicine.  
+ 
+3.1.2 RMP should be submitted: 
+a) with all new registrations of: 
+i) new chemical entities; 
+ii) new biological entities; 
+iii) generic medicines where clinical data (including extensions) are provided unless these 
+extensions have been approved by an authority SAHPRA aligns with and no RMP has 
+been required; 
+iv) generic medicines where a safety concern requiring additional risk minimisation activities 
+has been identified with the originator medicine;  
+v) biosimilar medicines; 
+vi) radiopharmaceuticals 
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 8 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 8 of 15
+ 
+ 
+ 
+vii) any medicine returning to the market after being previously withdrawn due to a serious 
+safety issue. 
+b) on request by the Authority; 
+c) when a serious safety concern is identified with a medicine at any stage in its life cycle, that may 
+lead to a significant change in the benefit-risk profile, in the South African context; 
+d) when the results of post-marketing safety studies warrant reconsideration of the benefit-risk 
+profile; and 
+e) for any medicine where a significant change in the therapeutic indication is to be considered (e.g. 
+when the proposed target population differs, a new disease area is involved, the target age group 
+is changed). 
+ 
+3.1.3 An RMP may be submitted at any time in a product’s life-cycle. The RMP should be updated to reflect 
+new knowledge and understanding of the safety profile of a medicine, as required. 
+3.2 When is an RMP required for a new fixed-dose combination? 
+3.2.1 
+New fixed-dose combinations will require an RMP when: 
+a) one or more of the active ingredients is a new chemical entity; or 
+b) one or more of the active ingredients requires additional risk minimisation activities. 
+3.3 When is an RMP required for a generic? 
+3.3.1 An RMP is not routinely required for generic medicine applications. However, RMP is required in the 
+following circumstances: 
+a) where a safety concern requiring additional risk minimisation activities has been identified 
+with the originator medicine; 
+b) if the HCRs/applicants identifies that there has been a significant change to what is known 
+about the benefits, harms, or uncertainties associated with the medicine; 
+c) if the introduction of the generic may lead to a new safety concern, such as an enhanced risk 
+of medication error or off-label use. 
+ 
+3.3.2 The Authority may request a generic manufacturer to revise or submit an RMP. 
+3.4 When is an RMP required for a variation? 
+3.4.1 An RMP must be submitted with an application for a major variation (Type II) if the variation results 
+in a new or heightened risk, such as when: 
+a) the proposed target population differs significantly from the previously approved target 
+population; 
+b) a new route of administration with inherently higher risk (e.g., intravenous vs subcutaneous) 
+is proposed; 
+c) a change in the therapeutic indication is proposed. 
+ 
+3.4.2 For Type 1A and 1B variations, an RMP is not required unless: 
+a) the Authority requests it,  
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 9 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 9 of 15
+ 
+ 
+ 
+b) the HCR/applicant determines that changes in the medicine result in the need for an RMP. 
+ 
+3.5 When is a RMP not required? 
+3.5.1 
+In cases where a medicine does not meet the requirement for an RMP submission, the 
+applicant/HCR must still comply with routine pharmacovigilance requirements. Routine 
+pharmacovigilance requirements are set out in SAHPRA Guideline 2.33 Post-Marketing Reporting 
+of Adverse Drug Reactions to Human Medicines in South Africa. 
+ 
+3.5.2 
+Routine pharmacovigilance requirements include, but are not limited to the following: 
+a) collecting and collating all suspected adverse reactions relating to a medicine that are 
+reported to the applicant/HCR; 
+b) reporting all serious adverse reactions associated with the medicines to the Authority; 
+c) continuous monitoring of the safety profiles of approved products, including signal 
+detection and updating of labelling; 
+d) preparation of Periodic Safety Update Reports (PSURs)/ Periodic Benefit Risk Evaluation 
+Report (PBRER), for submission as specified in the guideline, or when requested by SAHPRA. 
+4. Acceptable Risk Management Plan Format  
+4.1 The European Union (EU) RMP format represents an acceptable approach to fulfilling the Authority’s 
+requirements for RMPs. As per the European Medicines Agency (EMA) requirements, the EU RMP 
+includes the following sections:  
+a) product overview; safety specifications (epidemiology of the indication(s) and target 
+population(s)  
+b) significant non-clinical safety findings (e.g. toxicity), clinical trial exposure, populations not 
+studied in clinical trials, post-authorisation experience, additional requirements for the safety 
+specification, and identified and potential risks); 
+c) pharmacovigilance 
+plans 
+(routine 
+pharmacovigilance 
+activities 
+and 
+additional 
+pharmacovigilance activities); 
+d) plans for post-authorisation studies; 
+e) risk minimisation measures (including evaluation of the effectiveness of risk minimisation 
+activities); and  
+f) summary of the risk management plan. 
+ 
+4.2 Notwithstanding the general acceptability of the EU RMP format, the Authority requires that additional 
+information specific to the South African context must be submitted. Applicants / HCRs can therefore 
+either develop a South African specific RMP or can submit an already-prepared EU RMP together with 
+an SA-specific Annex (SASA) (refer to section 6 for more detail).  
+4.3 The following are examples of special considerations related to medical practice or populations in 
+South Africa that should be considered in the SA RMP or SA-specific Annex: 
+a) SA-specific epidemiology of the medical condition(s) or risk factors that reflect the registered 
+indication(s) in South Africa; 
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 10 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 10 of 15
+ 
+ 
+ 
+b) genetic or extrinsic factors that are specific to the South African population; 
+c) SA data on patient exposure; 
+d) post-registration experience in SA, if the medicine is already marketed; 
+e) routine and additional pharmacovigilance or risk minimisation activities planned to be 
+conducted in SA, considering the Authority’s regulations and guidelines and the SA context; 
+f) appropriate milestones and timelines for reporting on additional pharmacovigilance and risk 
+minimisation activities to be implemented in SA. 
+ 
+4.4 Where an existing global or EU RMP is submitted together with an SA-specific Annex, the Annex should 
+identify any differences between the global/EU-RMP and the local implementation of risk management 
+activities (i.e., routine and additional pharmacovigilance or risk minimisation activities). For example, 
+any differences between the EU Summary of Product Characteristics (SmPC) and the SAHPRA-approved 
+Professional Information (PI), and the reasons for the difference should be provided. This will allow the 
+Authority to assess the appropriateness of the proposed RMP in the SA environment. 
+ 
+4.5 To allow the Authority to assess the appropriateness and value of planned pharmacovigilance or risk 
+minimisation activities, the following details should be included: 
+a) study protocols (or current drafts) for all studies referred to in the pharmacovigilance or risk 
+minimisation plans (including aims, methodology, limitations and practical applications); 
+b) plans for any proposed communication and/or education programmes (including aims, 
+methods, evaluation or monitoring of effectiveness, timelines for the provision of relevant 
+documents); 
+c) timelines for planned activities (such as estimated start, end and reporting dates for planned 
+studies,  
+d) monitoring and/or evaluation plans to assess the effectiveness of any pharmacovigilance or 
+risk minimisation interventions. 
+ 
+4.6 All attachments, annexes and appendices referred to in the RMP must be provided in full. 
+5. RMP submission requirements 
+5.1 Submission presentation requirements 
+5.1.1 Each RMP update should have a distinct version number and date. When any part of the RMP is 
+revised, the revision date should be reflected as the "Last Revised" date, which is when the RMP is 
+considered final. A new RMP version number should be assigned each time any parts/modules are 
+updated. Additionally, a clean version should be submitted to the Authority, including a summary table 
+of changes between the updated and latest RMPs, detailing the changes since the last submitted 
+version.  
+ 
+5.1.2 All RMPs /updates to RMP should be accompanied by a cover letter or a note to reviewer stating the 
+reason for submission. If the RMP is included with a new application (as module 1.13), the new 
+application cover letter should make reference to the RMP. The cover letter should indicate the 
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 11 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 11 of 15
+ 
+ 
+ 
+submission type (e.g., RMP update). Reference to scientific information related to the reason for 
+submission or summary of changes that have been made to the RMP should be provided. All RMPs or 
+follow-up commitments should be submitted in eCTD or eSubmission format.  
+5.1.3 All RMPs submitted shall be accompanied by a declaration to be signed by the QPPV/local 
+Pharmacovigilance Officer.  
+5.2 Timelines for the submission of RMPs 
+5.2.1 Any RMPs requested by the Authority must be submitted within 90 calendar days. 
+5.3 Foreign Reviews  
+5.3.1 RMP reviews issued by medicines regulatory authorities with which SAHPRA aligns itself (US FDA, 
+EMA, Health Canada, TGA, MHRA) should be provided, if available at the time of the initial submission 
+to SAHPRA. Where more than one such RMP review is available, all reviews should be submitted.  
+5.3.2 Any RMP review that becomes available at a later stage can be submitted as unsolicited information.  
+6. South Africa Specific Annexure (SASA)  
+6.1 Introduction 
+6.1.1 Purpose of South Africa Specific Annexure for the Risk Management Plan 
+6.1.1.1 The SASA should: 
+a) provide SA-specific information that is important in assessing and managing the risk locally 
+(and therefore appropriateness of proposed plans/activities) and the relevance of 
+pharmacovigilance and risk management activities to be implemented in SA;  
+b) identify and explain the reasons for any differences from activities planned in other countries; 
+and 
+c) address the applicability of global activities to the SA environment, if no specific SA data will 
+be collected. 
+6.1.2 Registration history 
+6.1.2.1 The SASA should provide the SA registration history including: 
+a) current and previous application types as depicted in module 1.2.1 amendment history 
+(including the status of the submission); 
+b) medicine usage status; 
+c) pertinent dates  (e.g. Registration dates, amendments); 
+d) registration number(s), as appropriate. 
+ 
+6.1.2.2 The SASA should include: 
+a) a summary of previously submitted and approved, withdrawn or rejected SAHPRA 
+applications; 
+b) a summary of any submissions currently under evaluation (including relevant application 
+numbers); 
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 12 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 12 of 15
+ 
+ 
+ 
+c) a table comparing the approved and/or proposed indications in SA and other regulators that 
+SAHPRA aligns itself with, identifying and explaining the reasons for any differences. 
+6.1.3 History of RMPs submitted in SA 
+6.1.3.1 A tabulated history of all RMPs submitted in SA pertaining to the product (with summary of 
+changes between versions) should be provided. 
+6.1.4 Epidemiology of the population to be treated in SA 
+6.1.4.1 The SASA should provide SA-specific epidemiological information on the population to be treated, 
+regarding the size of the target population or any specific data that are relevant to assessing potential 
+use of the medicine in SA. 
+ 
+6.1.4.2 For each indication, data are required on: 
+a) incidence and prevalence of the condition; 
+b) demographics of the target population (age, sex, ethnicity); 
+c) risk factors for the condition; 
+d) current treatment options; 
+e) estimates of mortality and morbidity 
+6.2 Pharmacovigilance Plan 
+6.2.1 Pharmacovigilance organisation in SA 
+6.2.1.1 The applicant/HCR must confirm that local pharmacovigilance activities will be conducted in 
+accordance with the current SAHPRA guideline (“2.33 Post-marketing reporting of adverse drug 
+reactions to human medicines in South Africa”). 
+ 
+6.2.2 Routine Pharmacovigilance Activities 
+6.2.2.1 Routine pharmacovigilance activities to be carried out in SA should be described. Justification for 
+not implementing any routine activities included in the EU RMP in SA is required. 
+ 
+6.2.2.2 Where appropriate, details of procedures that will enable the traceability of biological products, 
+allowing for the investigation of possible disease transmission, between donor and recipient, are to 
+be described in any biovigilance system to be implemented in SA should be provided. 
+ 
+6.2.3 Pharmacovigilance activities for safety concerns specific to SA 
+6.2.3.1 When a safety concern specific to SA is identified, and additional pharmacovigilance or risk 
+minimisation activities are proposed, beyond those included in the EU/global RMP, justification for 
+the additional safety concern must be provided. If the pharmacovigilance plan for the specific safety 
+concern includes additional activities, then details must be provided. 
+ 
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 13 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 13 of 15
+ 
+ 
+ 
+6.2.4 Studies Referenced in the Pharmacovigilance Plan of the RMP 
+6.2.4.1 Any differences between the additional studies listed in the EU/global RMP and those proposed 
+for SA must be justified and tabulated. Where SA data is to be collected in relation to a 
+pharmacovigilance study outlined in the EU/global RMP or any SA-specific study is proposed, the 
+(draft) protocols for these studies must be provided, and anticipated dates for submission of study 
+results in SA must be tabulated. 
+6.3 Risk minimisation activities for generic medicines 
+In circumstances where risk minimisation activities are required for generics (refer to section 3.3), the RMP 
+should describe the proposed additional risk minimisation activities for the generic, and justify any 
+difference with existing additional risk minimisation activities for the originator medicine. Additional risk 
+minimisation materials for a generic medicine should cover the same key safety messages as those for the 
+originator medicine, and any safety concerns specific to the generic.  
+ 
+6.3.1 How risk minimisation activities will be implemented  
+6.3.1.1 In a tabular form, the proposed wording relating to the specified safety concerns and missing 
+information items in the proposed SA PI and PIL, should be provided as follows: 
+Safety 
+concerns 
+Risk minimisation activities 
+(routine & additional) 
+proposed in EU 
+Risk minimisation activities 
+(routine & additional) 
+proposed in SA 
+Comments  
+Item 1 
+Routine activities: include 
+exact wording for EU SmPC 
+statements proposed for this 
+safety element 
+ 
+Additional activities: include 
+details of additional activities 
+to be undertaken for this 
+safety concern in the EU 
+Routine activities: include 
+exact wording for SA PI 
+statements proposed for this 
+safety 
+ 
+Additional activities: include 
+details of additional 
+activities to be undertaken 
+for this safety concern in the 
+SA 
+If routine and/or 
+additional activities 
+differ for SA from 
+those proposed in EU 
+RMP, provide 
+justification for the 
+differences 
+ 
+6.3.2 Potential for medication errors or other risks, if applicable 
+6.3.2.1 SA-specific information (if available) on the potential for medication errors or other risks 
+(e.g. if an extension of indication or new dosage form is proposed) should be provided. 
+ 
+6.3.3 How risk minimisation activities will be evaluated in SA 
+6.3.3.1 Details about how and when evaluation of additional risk minimisation activities, including 
+educational activities, will be undertaken in SA and reported to the Authority, should be 
+provided. How the measures used to mitigate risk are expected to work and what actions will 
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 14 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 14 of 15
+ 
+ 
+ 
+be taken to ensure product effectiveness, if risk mitigation measures do not work, need to be 
+detailed. 
+6.4 Summary of the RMP 
+6.4.1 A table briefly summarising the pharmacovigilance and risk minimisation activities proposed 
+for SA should be provided, as follows: 
+ 
+Safety 
+concerns/missing 
+information 
+Pharmacovigilance 
+activities 
+(routine & additional) proposed 
+for SA 
+Risk 
+minimisation 
+activities 
+(routine and additional for SA) 
+Item 1 
+Routine activities: e.g. Routine 
+pharmacovigilance targeted 
+questionnaire 
+ 
+Additional activities: include 
+study title or identifier 
+[summary only] 
+Routine activities: e.g. Section 
+of the PI/PIL 
+ 
+Additional activities: e.g. 
+Educational programme 
+[summary only] 
+ 
+6.5 Person responsible for the RMP and contact details 
+ 
+6.5.1 The person responsible for the implementation of activities in the RMP will usually be the 
+QPPV/local pharmacovigilance officer in South Africa. 
+7. Role and responsibilities of the Holder of Certificate of 
+Registration/Applicants 
+7.1 The HCR/applicant is responsible for the RMP, which will include: 
+a) developing the RMP; 
+b) updating the RMP as new safety information emerges; to reflect new knowledge and 
+understanding of the medicines’ safety profile and benefit-risk balance. 
+c) implementing the activities and interventions outlined in the RMP; 
+d) collecting information and performing an analysis regarding the efficacy of these activities and 
+interventions; and 
+e) communicating this information to the Authority in a timely manner. 
+8. References 
+8.1 
+Guideline on good pharmacovigilance practices (GVP) Module V – Risk management systems (Rev 
+2), 2017.  
+8.2 
+Risk management plans for medicines and biologicals. Australian requirements and 
+recommendations. Therapeutic Goods Administration. Version 3.3, March 2019.  
+Risk Management Plans for Medicines for Human use 
+Sept 2022 
+Page 15 
+[No XXXXX] Risk Management Plan _April 2022 [Version 01] 
+SAHPGL-CEM-PV-03_Risk Management Plans for Medicines for Human Use_Sept 2022_v1 
+ 
+Page 15 of 15
+ 
+ 
+ 
+9. Validity 
+15.1 This guideline is valid for a period of 5 years from the effective date of revision. It will 
+be reviewed on this timeframe or as and when required. 
+ 
+

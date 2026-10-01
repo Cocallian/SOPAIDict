@@ -1,0 +1,366 @@
+Page 1 of 8 
+SAHPGL-RDN-RN-19_v1 
+ 
+ 
+ 
+GUIDELINES FOR DISTRIBUTORS AND TRANSPORTERS OF SEALED SOURCES 
+ 
+ 
+ 
+Document History 
+ 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+1 
+First issue and published for implementation 
+May 1998 
+2 
+Content structured on the new SAHPRA Guideline Template 
+January 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA 
+CHIEF EXECUTIVE OFFICER 
+14 March 2025 
+This guideline document deals with compiling and submission of sealed source monthly reports. It also 
+deals with cradle-to-grave racking process to account for all sealed radioactive sources that are used 
+in South Africa. The tracking covers the manufacture, storage, use, transport, disposal (sale, transfer 
+or discarding) of sources in South Africa, as well as import and export. 
+As part of this process, distributors and transporters of radioactive sources are required to submit 
+reports and supporting documents monthly. The monthly report summarises all transactions 
+involving radionuclides during the relevant month. 
+Page 2 of 8 
+SAHPGL-RDN-RN-19_v1 
+Guideline for distributors and transporters of sealed source 
+20 January 2025 
+ 
+ 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary .............................................................................................................................................................. 4 
+1. 
+INTRODUCTION ........................................................................................................................................ 4 
+1.1 
+Purpose ....................................................................................................................................................5 
+1.2 
+Scope ....................................................................................................................................................... 5 
+2. 
+LEGAL PROVISION .................................................................................................................................... 5 
+3. 
+Procedures for distributors and manufacturers ....................................................................................... 5 
+4. 
+REFERENCES ............................................................................................................................................. 8 
+5. 
+VALIDITY ................................................................................................................................................... 8 
+Page 3 of 8 
+SAHPGL-RDN-RN-19_v1 
+Guideline for distributors and transporters of sealed source 
+20 January 2025 
+ 
+ 
+ 
+ 
+Glossary 
+ 
+Abbreviation/ Term 
+Meaning 
+NECSA 
+South African Nuclear Energy Corporation 
+MBq 
+megabecquerel, a unit of activity 
+KBq 
+kilobecquerel 
+GBq 
+gigabecquerel 
+TBq 
+terabecqurel 
+mSv 
+millisievert, a unit of equivalent dose (10-3 sievert) 
+POD 
+Proof of delivery 
+PDF 
+Portable document format 
+SAHPRA 
+South African Health Products Regulatory Authority 
+NLM 
+Nuclear liability management 
+ 
+1. INTRODUCTION 
+ 
+The regulation published under Government Notice R247 in Government Gazette 14596 of 26 February 1993 
+a sealed source is “a Group IV hazardous substance that is firmly bonded within solid inactive material or sealed 
+in an inactive capsule of sufficient mechanical strength to exclude the possibility of contact with such substance 
+and of the dispersion thereof into the environment under foreseeable conditions of use and wear; but this 
+definition shall not apply where such bonding or encapsulation is solely for the purpose of storage, transport 
+or disposal”. 
+ 
+A sealed source is a radioactive material (Group IV hazardous substance) that is either: 
+1. Permanently bonded within solid, non-reactive material, or 
+2. Encased in a durable, inactive capsule 
+This containment ensures: 
+• 
+No direct contact with the radioactive material, 
+• 
+No environmental contamination, and 
+• 
+Safety during normal use and expected wear. 
+Page 4 of 8 
+SAHPGL-RDN-RN-19_v1 
+Guideline for distributors and transporters of sealed source 
+20 January 2025 
+ 
+ 
+ 
+ 
+1.1 
+Purpose 
+ 
+These guidelines provide clear instructions for monthly report submissions under the relevant legislation. 
+They outlines the correct procedures and reporting requirements to help ensure accurate and compliant 
+submissions from all users. 
+ 
+1.2 
+Scope 
+ 
+These guidelines apply to all distributors and transporters of sealed sources who supply end users of sealed 
+sources. It covers sealed sources inventory management, movement tracking, disposal records, andusage. 
+The requirements outlined apply to authority holders who distribute and transport sealed sources. 
+ 
+2. LEGAL PROVISION 
+ 
+• 
+Hazardous Substances Act, 15 of 1973 
+• 
+Regulations related to Group IV Hazardous Substances, R247 of 1993 
+ 
+3. PROCEDURES FOR DISTRIBUTORS AND  MANUFACTURERS 
+Distributors and manufacturers should use the GLF-RDN-RN-14A form to account for transactions involving 
+sealed sources on a monthly basis. The GLF-RDN-RN-14A form should be completed, signed and date, and be 
+emailed to: radionuclldes@sahpra.org.zaIf you are working electronically, you can add extra lines to the form 
+as needed, then convert the completed form to PDF format, sign and submit it (Please do not omit columns or 
+re-organise the form). It is helpful to us if you submit the electronic MS Word or MS Excel document along with 
+the PDF version. 
+• 
+All columns must be completed; however, a container serial number is not required where the 
+source is packaged in an unnumbered lead pot or similar protective holder. 
+• 
+Under Activity, use K, M, G or T to indicate KBq, MBq, GBq or TBq respectively. 
+The GLF-RDN-RN-14A form specifies the supporting documentation that must be included with the monthly 
+report. 
+• 
+The source calibration certificates must be copies of the manufacturer’s original certificates, specifying 
+the radionuclide involved, the serial number and the activity on a given date. 
+Page 5 of 8 
+SAHPGL-RDN-RN-19_v1 
+Guideline for distributors and transporters of sealed source 
+20 January 2025 
+ 
+ 
+ 
+• 
+Attach valid authorities of manufacturers and customers. This applies wherever the form asks for 
+authority  numbers. 
+• 
+Waybills or delivery notes must be attached so that SAHPRA can find each listed source on its 
+corresponding proof of delivery. The waybill/delivery notes must specify the radionuclides, source 
+serial numbers and (where applicable) container serial numbers (A “container” here means any 
+equipment that contains a source of radioactivity). 
+*Note that monthly returns submitted without the required supporting documents will not be processed. 
+ 
+3.1 
+Sources brought forward from previous months 
+The figure you enter in Section 3.1 must correspond to the figure you entered in Section 3.5 of the previous 
+month’s report, because the number of sources in stock at the beginning of any month will always be the 
+same as the number in stock at the end of the previous month. 
+ 
+Write this figure in the shaded box marked N1 (for number of sources in Section 3.1). 
+ 
+3.2 
+Sources acquired during this month 
+There are three ways in which distributors generally acquire sources: 
+(a) purchase from a supplier, manufacturer or other local authority holder. 
+ 
+(b) accept from an authority holder for delivery to NECSA for final disposal; or 
+ 
+(c) import from another country. 
+ 
+ 
+Note that Section 3.2 is divided into three parts, corresponding to the above three ways of acquiring sources. 
+ 
+ 
+(d) For purchase from local producers/suppliers, attach a delivery note and source certificate as described 
+earlier, and check that you have a copy of each buyer’s current authority to possess and use the sources. 
+(e) For sources accepted from a local authority holder (client) for final disposal (including exchange), 
+attach the following documents: 
+• 
+The client’s letter W02, received from SAHPRA after submission of the GLF-RDN-RN-14A. This 
+letter gives the authority holder permission to send the sources to NECSA for final disposal. 
+• 
+The client’s source list, with ticks indicating the sources to be disposed of. 
+• 
+A delivery note proving that the sources were collected from the client. 
+(f) For imports, include source certificates, waybills, and, if possible, copies of each supplier’s authority 
+or licence (from their regulator) to export the sources. 
+Page 6 of 8 
+SAHPGL-RDN-RN-19_v1 
+Guideline for distributors and transporters of sealed source 
+20 January 2025 
+ 
+ 
+ 
+ 
+Document checklist for Section 3.2 
+ 
+ 
+Purchase 
+From clients 
+for disposal 
+Import 
+Source certificate 
+  
+  
+Waybill/delivery note (proof of delivery) 
+  
+  
+  
+Client’s exchange form OR Letter W02 from 
+SAHPRA 
+  
+Client’s source list with depleted sources 
+  
+Foreign supplier’s authority (if possible) 
+  
+ 
+Add up the number of sources acquired and fill in the total in the shaded box marked N2 (for number of 
+sources in Section 3.2). 
+Check before submitting: All sources listed in Section 3.2 must also appear as being “in stock” (Section 3.4) at 
+the end of the month, unless they have already been disposed of, in which case they must be listed under 
+sale, final disposal or export (Section 3.3.) 
+ 
+3.3 
+Sources disposed of during this month 
+There are three ways in which distributors generally dispose of sources: 
+(a) sale to local authority holders; 
+ 
+(b) delivery to NECSA for final disposal; or 
+ 
+(c) export (for sale to a foreign buyer or return to a supplier/manufacturer). 
+ 
+ 
+Section 3.3 is divided into three parts corresponding to these three routes of disposal. 
+(a) For sales to local authority holders, attach the delivery note and check that you have a copy of the 
+buyer’s current authority to possess/use the sources. 
+(b) For final disposals, provide proof that NECSA received the specified sources: 
+ 
+1. a copy of the waybill or delivery note detailing the sources; and 
+ 
+2. confirmation of receipt by the Nuclear Liability Management (NLM) department at NECSA. 
+Page 7 of 8 
+SAHPGL-RDN-RN-19_v1 
+Guideline for distributors and transporters of sealed source 
+20 January 2025 
+ 
+ 
+ 
+(c) For exports, provide the waybill and, if possible, a copy of the recipient’s authority/licence (from their 
+country’s regulator) to import and receive the sources. If an export authority was made out but no 
+waybill number is given, the source must be indicated as being still “in stock”. 
+ 
+Document checklist for 3.3 
+ 
+Local sale 
+Final 
+disposal 
+Export 
+Recipient’s authority to possess & 
+use/import 
+  
+  
+Signed waybill/delivery note or proof of 
+export, e.g. customs clearance certificate 
+  
+  
+NECSA/NLM receipt on RN525 form 
+  
+*Sources sent to NECSA for disposal cannot be removed from the stock file before Radiation Control receives 
+the signed receipt from NECSA. 
+ 
+ 
+Add up the number of sources disposed of (sold, discarded and exported) and fill in the total in the shaded 
+box marked N3 (for number of sources in Section 3.3). 
+Check before submitting: Any sources disposed of during the month (Section 3.4) will not appear in the “in 
+stock” list (Section 3.4). 
+ 
+3.4 
+Sources in stock at month-end 
+Sources will be in stock if they were: 
+• 
+‘Brought forward’ from previous months (Section 3.1), or 
+• 
+Acquired during the month in question (Section 3.2) 
+and were not disposed of (Section 3.3) during the month under consideration. 
+• 
+Sources that are in transit to other authority holders will be counted as “in stock” until proof 
+of delivery (POD) is provided. 
+• 
+Similarly, sources that are on an export authority but have not yet passed through Customs 
+will still be counted as being “in stock”. 
+Count the sources in your stock list and fill in the number in the shaded box marked N4 (for number of 
+sources in Section 3.4). 
+Page 8 of 8 
+SAHPGL-RDN-RN-19_v1 
+Guideline for distributors and transporters of sealed source 
+20 January 2025 
+ 
+ 
+ 
+ 
+3.5 
+Check sum of month-end stock 
+ 
+This is a simple sum using the totals in the shaded boxes at the end of each section: 
+The number of sources brought forward (Section 3.1) 
+PLUS 
+The number of sources acquired (Section 3.2) during the month 
+MINUS 
+The number of sources sold, disposed of, or exported (Section 3.3) 
+EQUALS 
+The number of sources in stock at the end of the month 
+ 
+The answer must correspond with N4, the number of sources listed in Section 3.4. 
+Remember to enter your name and contact details and sign your form. 
+ 
+4. REFERENCES 
+ 
+Regulation published under Government Notice R247 in Government Gazette 
+14596 of 26 February 1993 
+ 
+N1 
++ 
+N2 
+– 
+N3 
+= 
+ 
+5. VALIDITY 
+These guidelines are valid for a period of five (5) years from the effective date of revision and replace the 
+Guideline for Distributors Sealed Sources form GLF-RDN-RN-14A. They will be reviewed in line with this 
+timeframe or as and when required. Regulation published under Government Notice R247 in Government 
+Gazette 14596 of 26 February 1993 
+

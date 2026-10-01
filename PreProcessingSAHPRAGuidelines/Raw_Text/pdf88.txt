@@ -1,0 +1,162 @@
+SAHPGL-CEM-PRE-01_v1 
+Page 1 of 5
+ 
+ 
+ 
+17 February 2023 
+GUIDELINE ON CO-PACKAGING OF MEDICINES 
+This guideline is intended to provide guidance to applicants regarding applications for registering co-packaged medicines. It represents 
+the South African Health Products Regulatory Authority (SAHPRA) current thinking on co-packaging of medicines. SAHPRA reserves 
+the right to request any additional information to establish the safety, quality and efficacy of a medicine in keeping with the knowledge 
+current at the time of evaluation. Alternative approaches may be used but these should be scientifically and technically justified. The 
+SAHPRA is committed to ensure that all registered medicines will be of the required quality, safety and efficacy. It is important that 
+applicants adhere to the administrative requirements to avoid delays in the processing and evaluation of applications.  
+Guidelines and application forms are available from the office of the Chief Executive Officer and the website 
+https://www.sahpra.org.za. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue 
+February 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-PRE-01_v1 
+Page 2 of 5
+Guideline on co-packaging of medicines 
+17 February 2023 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+1. 
+INTRODUCTION ......................................................................................................................................... 3 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 3 
+3. 
+REQUIREMENTS FOR A CO-PACKAGED MEDICINE APPLICATION FOR REGISTRATION ............................. 3 
+4. 
+REFERENCES ............................................................................................................................................... 5 
+4.1 Related Guidelines ..................................................................................................................................... 5 
+5. 
+VALIDITY .................................................................................................................................................... 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-PRE-01_v1 
+Page 3 of 5
+Guideline on co-packaging of medicines 
+17 February 2023 
+ 
+ 
+1. 
+INTRODUCTION 
+This guideline is intended to provide guidance to applicants regarding applications for registering co-packaged 
+medicines. It represents the current thinking of the South African Health Products Regulatory Authority 
+(SAHPRA) on co-packaging of medicines. SAHPRA reserves the right to request any additional information to 
+establish the safety, quality and efficacy of a medicine in keeping with the knowledge current at the time of 
+evaluation. Alternative approaches may be used, but these should be scientifically and technically justified. 
+SAHPRA is committed to ensuring that all registered medicines will be of the required quality, safety and 
+efficacy. 
+Definition of a co-packaged medicine: A ‘co-packaged medicine’ consists of more than one medicine presented 
+under a single name (Proprietary Name) and in a single package, where the individual medicines are intended 
+for simultaneous or sequential administration. 
+This scope of this policy document does not include the co-packaging of a medicine together with a medical 
+device. If a medicine and a medical device are supplied together in the same package, or documentation for a 
+medicine (including but not limited to the instructions for use) contains references to a particular medical 
+device, the information about the device should also be submitted when applying for marketing authorization 
+for the medicine. 
+2. 
+LEGAL PROVISION 
+The final decision to register a co-packaged medicine will reside with the South African Health Products 
+Regulatory Authority (SAHPRA) under applicable conditions of registration in terms of section 15(7) of the 
+Medicines and Related Substances Act 1965 (Act 101 of 1965, as amended). 
+The co-packaged medicine must be packaged only in the style and format approved by the SAHPRA. 
+3. 
+REQUIREMENTS FOR A CO-PACKAGED MEDICINE APPLICATION FOR 
+REGISTRATION 
+3.1 
+The principles applicable to fixed-dose combination (FDC) medicine applications for registration are 
+also applicable to co-packaged medicines applications. 
+3.2 
+Inclusion of each individual medicine in a co-packaged medicine containing more than one medicine 
+should be based on valid therapeutic principles and acceptable clinical practice of using the individual 
+medicines included in the co-packed medicine, simultaneously or sequentially, for the same 
+indication and at the same doses that were approved for each individual medicine. 
+SAHPGL-CEM-PRE-01_v1 
+Page 4 of 5
+Guideline on co-packaging of medicines 
+17 February 2023 
+ 
+ 
+3.3 
+Co-packaged medicines must address an identified public health need and / or improve adherence 
+to a particular treatment protocol and / or facilitate implementation of interventional programmes 
+and / or have benefit for the treatment of a clearly-defined subset of patients. 
+3.4 
+Each individual medicine in a co-packaged medicine containing a different formulation and / or form 
+of presentation, must be registered as an individual medicine for the same indication and at the same 
+dose that is proposed in the co-packaged medicine application. The co-packed medicine must then 
+also be registered separately. Whereas each individual medicine may have a different Schedule, 
+based on the included active pharmaceutical ingredient (scheduled substance), the co-packaged 
+medicine will be designated the higher or highest schedule of the included individual medicines. 
+3.5 
+Container closure system: The container closure system used to generate the stability data must be 
+the same material and the same configuration as that of the co-packaged medicine. If stability data 
+is not available in the same packaging configuration, then stability data generated from each 
+component packaged separately in the proposed packaging material for marketing will be 
+acceptable.  
+3.6 
+Shelf life: The individual components of the co-packaged medicine should have an approved shelf-
+life period. The shelf-life of the co-packaged medicine will take the shortest shelf-life of the individual 
+component. The stability studies should be conducted under the same conditions for both the 
+individual components and the co-packaged medicine.  
+3.7 
+The benefit-risk profile of the co-packaged medicine, administered simultaneously or sequentially, 
+should not be different from the risk benefit profile when the individual medicines are administered 
+simultaneously or sequentially. 
+3.8 
+There should be no pharmacokinetic interactions between the individual medicines included in a co-
+packaged medicine when given simultaneously or sequentially. 
+3.9 
+Co-packaging of medicines shall be performed in compliance with current Good Manufacturing 
+Practice Guidelines. 
+ 
+ 
+SAHPGL-CEM-PRE-01_v1 
+Page 5 of 5
+Guideline on co-packaging of medicines 
+17 February 2023 
+ 
+ 
+4. 
+REFERENCES 
+The following related document is referenced: 
+4.1 
+Related Guidelines 
+4.1.1 SAHPGL-CEM-PRE-02 Fixed Dose Combination Products (FDC Products) for HIV/AIDS, tuberculosis, 
+and malaria 
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision. It will be reviewed on this 
+timeframe or as and when required. 
+

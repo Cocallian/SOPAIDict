@@ -1,0 +1,589 @@
+SAHPGL-RDN-XR-26_v2 
+Page 1 of 16
+ 
+ 
+ 
+31 January 2025 
+Approval of a dosimetry service in South Africa 
+This guideline sets out the requirements for the approval of a dosimetry service to operate in South Africa 
+and provide passive monitoring of radiation workers. 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+First issue and published for implementation 
+Oct 2016 
+2 
+− Content structured on the new SAHPRA Guideline Template 
+− A unique document number SAHPGL-RDN-XR-26 allocated to this 
+Guideline 
+18 December 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-26_v2 
+Page 2 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+Application for approval ............................................................................................................................. 4 
+3.1 
+Information to be submitted with Applications ......................................................................................... 4 
+3.1.1 Scope of Approval ...................................................................................................................................... 5 
+3.1.2 Evidence of Accreditation .......................................................................................................................... 5 
+3.1.3 Performance Data ...................................................................................................................................... 5 
+3.1.4 Sample Reports .......................................................................................................................................... 5 
+3.1.5 Statement of conformance with approval criteria..................................................................................... 5 
+3.1.6 Type test Data ............................................................................................................................................ 6 
+3.2 
+Assessment Process ................................................................................................................................... 6 
+3.2.1 Incomplete application .............................................................................................................................. 7 
+3.2.2 Approval ..................................................................................................................................................... 7 
+3.2.3 Conditions of approval ............................................................................................................................... 7 
+3.2.4 Failure to receive approval ......................................................................................................................... 8 
+3.3 
+Documentation to be provided annually ................................................................................................... 8 
+3.4 
+Revocation of Approval .............................................................................................................................. 8 
+3.5 
+Appeals ....................................................................................................................................................... 8 
+4. 
+REFERENCES ............................................................................................................................................... 8 
+5. 
+VALIDITY ..................................................................................................................................................... 8 
+6. 
+APPENDIX ................................................................................................................................................. 10 
+6.1 
+APPENDIX A: Approved Dosimetry Service (ADS) – Technical Criteria and Customer Information ........ 10 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-26_v2 
+Page 3 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ADS 
+Approved dosimetry services 
+Hp (10) 
+Whole body dose equivalent (dose equivalent at 10 mm depth in tissue) 
+Hp (3) 
+Eye lens dose equivalent (dose equivalent at 3mm depth in tissue) 
+HP (0.07) 
+Skin dose equivalent (dose equivalent at 0.07 mm depth in tissue) 
+mSv 
+Milli-Sievert  
+NDR 
+National Dosimetry Register 
+NMISA 
+National Metrology Institute of South Africa 
+OSL  
+Optically stimulated luminescence 
+TLD 
+Thermal luminescence dosimeter 
+SANAS 
+South African National Accreditation System 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-26_v2 
+Page 4 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+1. 
+INTRODUCTION 
+A dosimetry service provider may only operate in South Africa pursuant to Regulation 23 of the 
+Regulations relating to Group IV Hazardous Substances (R247 of 1993) and Regulation III.5(c) of the 
+Regulations concerning the control of electronic products (R1332 of 1973), after receiving approval from 
+the Radiation Control Unit at the South African Health Products Regulatory Authority (SAHPRA). The 
+purpose of approval is to ensure that a dosimetry service is technically competent and can assess doses 
+with a reasonable degree of accuracy. To be approved, the dosimetry service must satisfy the criteria in 
+Appendix A. These recommendations provide a basis for developing consistent and harmonized approval 
+criteria for dosimetry services operating in South Africa. 
+1.1 
+Purpose 
+The purpose of these guidelines is to set out the criteria to entities that wishing to obtain approval to provide 
+dosimetry service to licence holders approved in terms of the Hazardous Substances Act, 15 of 1973.  
+1.2 
+Scope 
+This guideline sets out requirements for dosimetry service providers to be approved and technical criteria for 
+existing and new dosimetry service providers.  
+2. 
+LEGAL PROVISION 
+The guidelines are implemented in accordance with the Hazardous Substances Act, 15 of 1973, and the 
+related Regulations concerning the control of electronic products (R1332 of 1973). A dosimetry service 
+provider may only operate in South Africa pursuant to Regulation 23 of the Regulations relating to Group 
+IV Hazardous Substances (R247 of 1993) and Regulation III.5(c) of the Regulations concerning the control 
+of electronic products (R1332 of 1973). 
+3. 
+APPLICATION FOR APPROVAL 
+3.1 
+Information to be submitted with Applications  
+A dosimetry service wishing to apply for approval in South Africa must apply in writing to SAHPRA Radiation 
+Control. 
+• 
+The following information should be included with applications:  
+• 
+Full name and address of the dosimetry service and contact details.  
+• 
+Scope for which approval is being sought. 
+• 
+Approval in accordance with 3.1.2 below; Performance data from irradiation tests. 
+SAHPGL-RDN-XR-26_v2 
+Page 5 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+• 
+Intercomparison exercises; Sample customer reports.  
+• 
+Statement that the dosimetry service conforms to all of the Approval Criteria. 
+• 
+Type test data (where appropriate) 
+3.1.1 Scope of Approval 
+The scope of approval should specify the type of dosimetry (internal, external whole body, external extremity, 
+etc), the dosimeter technology (TLD, film, OSL, etc.), the dosimeter make and model, energy range, dose rate 
+range and limitations or conditions for use. 
+3.1.2 Evidence of Accreditation  
+The service shall provide a copy of their certificate and scope of accreditation to ISO 17025 issued by the South 
+African National Accreditation System (SANAS) as a testing laboratory. 
+In the case of a dosimetry service whose processing is done outside of South Africa, the processing service shall 
+provide a copy of their certificate and scope of accreditation to ISO 17025 and such accreditation must be 
+recognised by SANAS. If, for example, the service (or a third party) runs a depot or distribution centre in South 
+Africa it must demonstrate that these operations are covered by its quality system so that results cannot be 
+adversely affected by that part of the operation. 
+3.1.3 Performance Data 
+The dosimetry service shall provide evidence of participation in recognized laboratory intercomparison. The 
+application for approval should include performance data as follows:  
+• 
+Evidence of regular satisfactory participation in intercomparisons  
+• 
+Results of irradiation tests with a satisfactory response of the dosimetry system within the rated ranges 
+of all input quantities as set out in the scope of approval. 
+• 
+The results of intercomparison and irradiation tests must demonstrate compliance with accuracy of 
+measurement of personal dose equivalents criteria set out in the technical criteria.  
+• 
+SAHPRA Radiation Control may require that the applicant submit dosimeters for irradiation and 
+performance testing 
+3.1.4 Sample Reports 
+The service shall provide samples of customer reports and guidance made available to customers. 
+3.1.5 Statement of conformance with approval criteria 
+The following declarations must be provided: 
+SAHPGL-RDN-XR-26_v2 
+Page 6 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+• 
+The dosimetry service complies with SAHPRA Radiation Control’s approval criteria.  
+• 
+The reporting time in normal and accident situations shall comply with the response times set out in 
+the technical criteria.  
+• 
+The service will provide at least quarterly data to the National Dose Register (NDR) in a format specified 
+by the National Dose Register Data Provider. 
+3.1.6 Type test data 
+In assessing an application for approval for a dosimetry system that is not of established and proven design, 
+SAHPRA Radiation Control reserves the right to request that the applicant provide results of type testing 
+against relevant international standards. For personal dosimeters to monitor individuals occupationally 
+exposed to external radiation, several international standards exist for type testing as set out in Table 1 below. 
+Such testing shall, where required, be undertaken by an independent laboratory internationally recognised as 
+being competent to undertake such testing. In general, dosimetry systems which are already in widespread 
+use will be of proven design. 
+Table 1: Dosimetry standards  
+Dosimetry Type  
+Standard(s)  
+Extremity TLD  
+ISO 12794  
+Whole body passive  
+IEC 62387-1  
+Personal and Environmental Monitoring  
+IEC61066  
+Direct reading dosimeters  
+IEC 61526  
+ 
+3.2 
+Assessment Process  
+Approval is granted to a dosimetry service following a satisfactory review of the documents submitted with 
+the application to ensure that the criteria specified in Appendix A are met. The review will be carried out by 
+SAHPRA Radiation Control and may include a member with expertise in personal dosimetry. SAHPRA Radiation 
+Control reserves the right to include one or more external experts in the assessment team. 
+In assessing the applications, the assessment team will:  
+• 
+Consider whether the type of dosimetry system as set out in the scope of approval is appropriate to 
+its intended purpose.  
+• 
+Consider if the scope of accreditation adequately covers the range of dosimetry systems/devices as 
+set out in the scope of approval  
+• 
+Consider if the performance data provided adequately demonstrates compliance with the Technical 
+SAHPGL-RDN-XR-26_v2 
+Page 7 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+recommendations for monitoring individuals occupationally exposed to external radiation (RP160).  
+• 
+Consider if the sample reports comply with the requirements set out in the technical criteria. 
+• 
+Consider if the declarations given are adequate. SAHPRA Radiation Control reserves the right to seek 
+evidence to support these declarations. 
+• 
+In assessing an application for approval for a dosimetry system, that is not of established and proven 
+design, SAHPRA Radiation Control reserves the right to require the service to provide results of type 
+testing against relevant international standards. In general dosimetry systems, which are not already 
+in widespread use, will not be of proven design. 
+ 
+SAHPRA Radiation Control will not itself carry out on-site inspections of services or systems. Instead, SAHPRA 
+Radiation Control will rely primarily on accreditation by SANAS to demonstrate that the service as delivered 
+meets the technical specifications set out in the scope of approval. In assessing the applications., the SAHPRA 
+Radiation Control assessment team will consider if the scope of accreditation adequately covers the range of 
+dosimetry systems/ devices as set out in the scope of approval. 
+3.2.1 Incomplete application  
+If the information submitted is incomplete or unsatisfactory, the dosimetry service will be given the 
+opportunity to submit additional information. 
+3.2.2 Approval  
+The approval specifies the dosimetry system together with details of the type of radiation(s) for which doses 
+are assessed. If any changes are made to the dosimetry system including dosimeters or the type of radiation(s) 
+for which doses are assessed a new application for approval must be submitted. Approval will remain valid 
+provided that the dosimetry service must confirm annually, in writing, that they continue to comply with the 
+approval criteria and maintain their SANAS accreditation as a dosimetry service provider. 
+3.2.3 Conditions of approval  
+Approval is granted with the condition that the dosimetry service must notify SAHPRA Radiation Control of any 
+significant changes to the dosimetry system, any changes to approval in another country on which the initial 
+application was based, or any changes to the service itself e.g. changes in key staff or location. Approval is also 
+dependent on satisfactory performance data being submitted at regular intervals as specified by the SAHPRA 
+Radiation Control. 
+SAHPGL-RDN-XR-26_v2 
+Page 8 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+3.2.4 Failure to receive approval 
+If an applicant is refused an approval, they will be notified of this decision by SAHPRA Radiation Control and 
+advised of the areas in which they failed to meet the eligibility criteria. 
+3.3 
+Documentation to be provided annually  
+An approved dosimetry services must provide a declaration that they comply with the approval criteria 
+annually. In the declaration the service must specify the date of the most recent intercomparison in which they 
+participated. Intercomparison results received by the service since the last annual declaration should be 
+provided. 
+3.4 
+Revocation of Approval 
+SAHPRA Radiation Control may revoke in writing any approval given to a dosimetry service. An approval may 
+be revoked if an ADS: 
+• 
+Does not conform to the current criteria for approval and fails to provide SAHPRA Radiation Control 
+with an action plan which is sufficient to enable the deficiencies to be rectified within three months.  
+• 
+Fails to provide evidence of on-going satisfactory performance in intercomparison tests which 
+demonstrate that they continue to meet the relevant approval criteria.  
+• 
+Persistently fails to report dose assessments for which it is approved within the period set out in the 
+approval criteria.  
+• 
+Fails to maintain SANAS accreditation. 
+In addition, where a serious complaint has been received, which is upheld following investigation by SAHPRA 
+Radiation Control, the ADS approval may be revoked. SAHPRA Radiation Control may also revoke such approval 
+where the ADS fails to cooperate with such an investigation. 
+3.5 
+Appeals  
+Applicants who have been refused approval or dosimetry services that have had their approval revoked have 
+the right of appeal such revocation to the SAHPRA CEO in terms of Section 6 of the Hazardous Substances Act. 
+4. 
+REFERENCES 
+1. Regulations concerning the control of Electronic Products- R.1332, 3 August 1973. 
+2. Regulations relating to Group IV Hazardous Substances - R.247 of 26 February 1993. 
+3. EC, 2009. Radiation Protection No 160, Technical Recommendations for Monitoring Individuals 
+Occupationally Exposed to External Radiation. Luxembourg: European Commission. 
+5. 
+VALIDITY 
+SAHPGL-RDN-XR-26_v2 
+Page 9 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+This document is valid for a period of five (5) years from the effective date of revision and replaces the 
+GUIDELINES APPROVAL OF A DOSIMETRY SERVICE IN SOUTH AFRICA Rev1 Oct 2016. It will be reviewed in line 
+with this timeframe or as and when required. 
+ 
+ 
+SAHPGL-RDN-XR-26_v2 
+Page 10 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+6. 
+APPENDIX 
+6.1 
+APPENDIX A: Approved Dosimetry Service (ADS) – Technical Criteria and Customer 
+Information 
+1. Scope of approval  
+The scope of approval shall specify the type of dosimetry (internal, external whole body, external extremity, 
+etc), the dosimeter technology (TLD, film, OSL, etc.), the dosimeter make and model, energy range, dose rate 
+range and limitations or conditions for use. 
+2. General  
+The service shall be able to demonstrate that it has the necessary administration, technical and quality systems 
+to be able to provide and maintain a service that: 
+a) produces a reasonable degree of accuracy in the assessment of dose. 
+b) is highly reliable. 
+c) communicates the results of routine dose assessments to the customer within a reasonable time: 
+d) rapidly communicates to the customer the results of dose assessments made in the event of an accident, 
+occurrence or incident. 
+3. Details of wearer and Organisation  
+3.1 Details of wearer 
+a) Surname, Full names 
+b) Nationality 
+c) If South African citizen, ID number must be used (copy of ID must be kept by ADS with personal 
+information); if non-South African, a passport number should be used. 
+3.2 Organisation 
+a) Name of organisation 
+b) Physical address 
+c) Contact details 
+d) Contact person 
+SAHPGL-RDN-XR-26_v2 
+Page 11 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+e) Classification of organisation (Hospital, radiology, radiotherapy, mining, industrial radiography, etc.) 
+(Align with SABS classification) 
+f) Licence/Authority number with SAHPRA Radiation Control 
+4. Dosimetry Methods 
+The assessment of individual doses shall be based on: 
+a) the issuance of individually identifiable personal dosimeters or other devices. 
+b) the processing of those dosimeters or devices. 
+c) the evaluation of the dose recorded by the dosimeters, or of the response of the devices; and 
+d) the assessment of the appropriate dose quantity for the individual for the relevant monitoring period.  
+The approval system covers only services which undertake all the above stages. 
+4.1 Identification of dosimeters  
+The service shall ensure that any dosimeter or other device it uses as part of the dosimetry system is of a 
+readily identifiable type and model and can be shown by type testing and field trials to be suitable and reliable 
+for the environments in which it will be used. Each dosimeter or device shall also be traceable to the individual 
+to whom it is issued and the period of assessment.  
+4.2 Energy/dose ranges  
+The dose range for which approval is sought must be specified. In general, an appropriate dose range for a 
+dosimeter used in the assessment of effective dose (E) would be 0.1 mSv to ~1 Sv for gamma/x-rays radiation 
+and 0.2 mSv to at least 50 mSv for neutrons. An approved dosimetry service shall not offer a dose assessment 
+service to a customer if the range of radiation energies likely to be encountered is broader than stated in the 
+certificate of approval. 
+5. Traceability to National Metrology Institute of South Africa (NMISA) 
+The calibration of the dosimetry system can be shown to be traceable to NMISA or equivalent and the service 
+shall be aware of the uncertainties associated with the calibration. 
+6. Irradiation tests 
+Performance tests shall be carried out for a representative number of dosimeters for each of several irradiation 
+conditions to confirm that the overall accuracy is acceptable, and that the performance of the dosimetry 
+system is as expected. 
+SAHPGL-RDN-XR-26_v2 
+Page 12 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+7. Intercomparison tests 
+Participation in national or international intercomparison exercises is a useful and necessary part of the 
+performance test of a service. Approved services shall participate in a recognised independently organised 
+intercomparison test at least once every two years. 
+The combined standard uncertainty for measurements of personal dose equivalents at the location of the 
+dosimeter for gamma/x-rays and electrons shall not exceed ±30% for doses greater than 1 mSv for Hp (10) and 
+50 mSv for Hp (0.07) and ±20% or a factor of 1.5 at 95% confidence for doses near dose limits. The combined 
+standard uncertainty for measurements of personal dose equivalents for neutrons shall not exceed ±50% for 
+doses greater than 1 mSv for Hp (10).  
+If these limits are exceeded the dosimetry service is required to undertake a review and submit a report to 
+SAHPRA Radiation Control with an action plan showing how the service intends to remedy the deficiency. A 
+dosimetry service may be required to undertake another performance test to confirm that the improvement 
+measures introduced have been effective. 
+8. Staff Competence  
+The service shall ensure that it has the necessary facilities and staff to carry out the measurement and 
+assessment of individual doses. Adequate training programmes shall be available for new staff and 
+refresher/update training for existing staff. Staff shall be free from any internal or external influence which 
+could affect the quality or impartiality of their work. The responsibilities of key personnel shall be clarified to 
+avoid conflicts of interest. 
+9. Data Handling 
+Procedures shall be in place for the safe handling, storage and back-up of records. 
+10. Accident preparedness 
+The service shall ensure that adequate arrangements are made for the timely despatch of dosimeters or other 
+devices to customers and for the availability of sufficient and suitable dosimeter processing equipment 
+appropriate to the scope of the service. Provision for breakdown of equipment, e.g. arrangements with the 
+equipment supplier for routine maintenance, repair or temporary replacement of equipment, must be in place.  
+When the dosimetry service is notified by a customer of an incident, the service must have in place appropriate 
+arrangements so that dosimeters can be returned, processed and the results made available within five (5) 
+working days of despatch of the dosimeter from the customer’s premises.  
+SAHPGL-RDN-XR-26_v2 
+Page 13 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+During routine processing, if a dose exceeds any relevant dose limit (see par. 13) it shall be reported to the 
+customer as soon as the results are available e.g. by phone or email and followed up by written confirmation 
+(see par. 13). 
+11. Reporting  
+In normal circumstances, every dose result shall be reported to the customer within 14 working days of 
+receipt of the dosimeter. The report shall include the following information:  
+a) name and address of the ADS.  
+b) a unique report reference.  
+c) name and address of the customer.  
+d) wearer’s first name and surname.  
+e) wearer’s unique identification code.  
+f) dosimeter type, e.g. film, TLD, OSL, etc.  
+g) dosimeter identification code.  
+h) issue or wear period for each dosimeter (this shall be clearly defined in the report).  
+i) the position on the body where the dosimeter was worn e.g. trunk, left arm, etc.  
+j) Hp (10), Hp (0.07) or Hp (3), as appropriate, recorded on the dosimeter and annual and/or 5-year 
+accumulated dose.  
+k) signature of authorised member of staff.  
+l) a statement of measurement method and uncertainty.  
+m) the minimum reporting level.  
+n) the page number and the total number of pages in the report.  
+Where transit dosimeters are used to estimate the contribution to dose from natural background radiation, 
+arrangements must be put in place to cover situations where the transit dosimeters are not returned for 
+processing. 
+12. Reporting to SAHPRA Radiation Control 
+A dosimeter with a reading of 4 mSv or higher must immediately reported to SAHPRA Radiation Control and 
+to the customer. The customer must be informed to complete form RC010 and to submit it to Radiation Control 
+(###provide fax and email no ##). Similar process must be followed if the annual dose exceeds 20 mSv per 
+annum for an individual. 
+ 
+SAHPGL-RDN-XR-26_v2 
+Page 14 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+13. Operational quantities 
+The operational quantities for personal monitoring, personal dose equivalent, Hp (10), Hp (3) and Hp(0.07), 
+shall be used as estimates of equivalent dose, HT and effective dose, E. For gamma/x-rays, in practical 
+situations, Hp (10) will provide a reasonable estimate of E. For doses near or above the dose limit, or above a 
+fixed investigation level, it will be necessary to confirm that measurements of the operational quantities 
+provide good estimates of the protection quantities. To determine effective dose, information is needed on 
+both the energy and direction characteristics of the workplace field(s) and the position and orientation of the 
+personal dosimeter. The customer may ask the dosimetry service, in conjunction with the Radiation Protection 
+Advisor (RPA)/Responsible person, to assist in these cases. 
+The operational quantity Hp (0.07) for gamma/x-rays and electrons is used for the assessment of dose 
+equivalent to local skin. For neutrons, the use of dosimeters calibrated in terms of Hp (10) would be 
+appropriate. Hp (3) may be estimated from measurements of Hp (0.07) and Hp (10). Alternatively, a simple 
+design of dosimeter can be used, worn on the head, to directly estimate Hp (3), comprising a skin dosimeter 
+with additional covering. If a dosimetry service seeks approval for both the assessment of whole-body dose (or 
+skin dose) and dose to the eyes, using the same type of dosimeter a case shall be made for such a purpose; 
+and the written instructions to the customer shall cover both uses. 
+Where reliance is placed on the use of algorithms and correction factors to assess dose it is important to give 
+a full explanation (by reference to type test data, etc.) to show that these are justified in the circumstances. 
+Where algorithms are used, the dosimetry service shall state explicitly which algorithm will be used and under 
+what circumstances, to avoid ambiguity. The values of any additional factors must also be stated explicitly. 
+ 
+14. Re-assessment and re-evaluation of doses 
+The service shall make reasonable arrangements to ensure that doses can be reassessed or re-evaluated up to 
+two years after the receipt of a dosimeter (or another device), which shall include:  
+a) sufficient records to link any dose reported to the customer with a particular dosimeter worn, the 
+method of evaluation of the dosimeter and the method of assessment.  
+b) a secure storage facility for the active elements of dosimeters such as film dosimeters; or  
+c) a facility to record and retain the output data retrieved from the dosimeter to assess the original 
+exposure e.g. the glow curve output of TLDs; or  
+SAHPGL-RDN-XR-26_v2 
+Page 15 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+d) arrangements for independent diagnostic checks built into the dosimeter reader to ensure that the 
+read-out is normal and where practicable is recorded for future reference; or  
+e) other equally effective means of re-evaluation.  
+The method used may depend on:  
+a) a re-examination of the original dosimeter; or  
+b) a re-examination of dosimeter outputs such as glow curves; or  
+c) reliability checks of the output during the read process,  
+together with a check of stored records relating individuals to the output for individual dosimeters and any 
+special factors used (e.g. quality factors). Where appropriate, the service shall have arrangements for secure 
+storage of exposed films/records to prevent loss e.g. in a fire. 
+15. Guidance made available to customers 
+The service shall provide advice to customers about the proper handling, storage, issue and use of the 
+dosimeter or other device and any other information necessary to ensure that such dosimeters or devices are 
+used correctly.  
+The advice to the customer would normally cover matters such as: 
+a) any limitations in the scope of approval such as energy restrictions and avoiding exposure to certain 
+fields or environments. 
+b) recommended dosimeter issue and return procedures, including specific arrangements to ensure 
+named persons are unmistakably linked to the dosimeters they wear. 
+c) location on the body where the dosimeter should be worn.  
+d) arrangements for dealing with unusual occurrences, e.g. late, damaged or lost dosimeters.  
+e) storage of dosimeters, including security against tampering and avoiding the risk of inadvertent 
+exposure to ionizing radiations.  
+f) security against background radiation and any other environmental condition likely to affect the 
+performance of the dosimeter adversely (this shall include reference to the potential for dosimeters to be 
+passed through security scanning equipment which might affect the dosimeter reading).  
+SAHPGL-RDN-XR-26_v2 
+Page 16 of 16
+Guideline of dosimetry service provider approval in South Africa 
+31 January 2025 
+ 
+ 
+g) correct assembly of dosimeters e.g. positioning of films/filters etc.  
+h) the warning period provided in active devices before battery failure.  
+i) special features or arrangements, e.g. remote reading of dosimeters/devices.  
+j) contamination monitoring of dosimeters (where applicable).  
+k) any special arrangements for handling dosimeters (or other devices) in the event of an accident, 
+occurrence or incident.  
+The service shall provide advice, on request, on the suitability of their service in relation to the needs of 
+the customer. 
+16. Unassessed doses 
+The dosimetry service shall not report a zero dose for components of dose that were not assessed, for example 
+because a dosimeter was lost by the wearer or was not issued for a particular assessment period. A nominal 
+dose of 4 mSv should be allocated. 
+17. Implementation of standards 
+Dosimetry systems shall be type-tested according to the relevant EN/IEC or ISO standard and shall have passed 
+that test. All the radiation fields used must be well characterised and traceable to NMISA or equivalent. 
+18. Reporting of results to the National Dose Register (NDR)  
+The APD service shall provide at least quarterly data to the National Dose Register (NDR) in a format specified 
+by the National Dose Register Data Provider. 
+ 
+ 
+

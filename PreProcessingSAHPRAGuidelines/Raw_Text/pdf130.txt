@@ -1,0 +1,320 @@
+SAHPGL-RDN-XR-05_v1 
+Page 1 of 8
+ 
+ 
+ 
+15 August 2022 
+GENERAL GUIDELINE FOR CABINET AND CONVEYER BELT X-RAY 
+A cabinet or conveyer belt X-Ray scanner is primarily used for security screening of mail, baggage, cargo contents, etc.   
+Other common names are X-Ray Screening Systems, X- Ray Security Systems, and scanners for the Inspection of Cargo 
+contents. Even though cabinet and conveyer belt X-Ray scanners are designed to provide safe and efficient operation, 
+they must be operated with safety in mind. It represents South African Health Products Regulatory Authority’s 
+(SAHPRA’s) current thinking on the safety, quality, and efficacy of medicines It is not intended as an exclusive approach. 
+ 
+SAHPRA reserves the right to request any additional information to establish the safety, quality and efficacy of medicines 
+and may make amendments in keeping with the knowledge which is current at the time of consideration of safety data. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and implementation 
+September 2017 
+1 
+− 
+Content structured on the new SAHPRA Guideline Template 
+− 
+A unique document number SAHPGL-RDN-XR-05 allocated to this 
+Guideline 
+− 
+Form RC002 changed to GLF-RDN-XR-02A; Form RC001 changed to 
+GLF-RDN-XR-02B and Form RC005 also changed to GLF-RDN-XR-02C 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-05_v1 
+Page 2 of 8
+General Guideline for Cabinet and Conveyor Belt X-Ray 
+15 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+LICENSING .................................................................................................................................................. 4 
+3.1 New Equipment ......................................................................................................................................... 4 
+3.2 Pre-Owned/ Used ...................................................................................................................................... 4 
+3.3 Changes ..................................................................................................................................................... 5 
+4. 
+INFORMATION TO BE DISPLAYED .............................................................................................................. 5 
+5. 
+RADIATION SIGNS OR NOTICES SHALL BE DISPLAYED ON THE X-RAY SCANNER: ..................................... 5 
+6. 
+RADIATION SAFETY REQUIREMENTS ......................................................................................................... 6 
+7. 
+OPERATORS AND MAINTENANCE PERSONNEL ......................................................................................... 6 
+8. 
+OPERATIONAL SAFETY ............................................................................................................................... 6 
+9. 
+OTHER IMPORTANT SAFETY MEASURES ................................................................................................... 7 
+10. REFERENCES ............................................................................................................................................... 8 
+11. VALIDITY .................................................................................................................................................... 8 
+ 
+ 
+ 
+SAHPGL-RDN-XR-05_v1 
+Page 3 of 8
+General Guideline for Cabinet and Conveyor Belt X-Ray 
+15 August 2022 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ACT 
+Hazardous Substance Act 15 of 1973 
+SAHPRA 
+South African Health Products Regulatory Authority 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-05_v1 
+Page 4 of 8
+General Guideline for Cabinet and Conveyor Belt X-Ray 
+15 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+This guideline will provide you with all safety information needed in Cabinet and Conveyor Belt X-Ray Scanners. 
+In terms of the Hazardous Substances Act, Act 15 of 1973, no person shall Import and/or Purchase and/or Use 
+a listed electronic product unless such a product has been licensed. The product licence number, as issued by 
+the - SAHPRA: Radiation Control must be displayed in/on an easily accessible area of each unit. The 
+identification plate, permanently affixed to the unit, should contain information regarding the manufacturer, 
+model designation, serial number, and place of manufacture for the device 
+1.1 
+Purpose 
+The purpose of this guideline is for license holders and users of cabinets and conveyer belts that uses X-ray 
+source, and it provides regulatory requirements for the safe use of such equipment’s.  
+1.2 
+Scope 
+The scope of this guideline is to provide you with proper regulatory standards, as well as to guide you with 
+important information that should be displayed, such as Radiation warning signs and notices on the 
+scanner. It will also provide radiation safety requirements for operators, maintenance personnel and the 
+public. 
+2. 
+LEGAL PROVISION 
+In terms of the Hazardous Substances Act, Act 15 of 1973, no person shall Import and/ or Purchase and/ or 
+Use a listed electronic product unless such a product has been licensed. 
+3. 
+LICENSING 
+3.1 
+New Equipment 
+• 
+Licensing must be done through the supplier, but in conjunction with the user of the 
+equipment. 
+• 
+RC dealer must be completed by the supplier, signed by the license holder, and submitted 
+before any installation 
+3.2 
+Pre-Owned/ Used 
+A GLF-RDN-XR-02B (old RC001) form is to be fully completed by the user and GLF-RDN-XR-02A (old RC002) 
+form completed by the previous owner/seller. Both forms must be forwarded, to the relevant office in 
+application of a licence.         
+SAHPGL-RDN-XR-05_v1 
+Page 5 of 8
+General Guideline for Cabinet and Conveyor Belt X-Ray 
+15 August 2022 
+ 
+ 
+3.3 
+Changes  
+• 
+Normal Responsible person - A GLF-RDN-XR-02C (old RC005) form is to be fully completed by 
+the user and forwarded to the relevant office 
+• 
+If the responsible person leaves the position/ or is changed, a new responsible person must be 
+appointed by completion and submission of the GLF-RDN-XR-02C (old RC005) 
+• 
+Premises changes or disposal of scanner - A GLF-RDN-XR-02A (old RC002) form is to be fully 
+completed by the user and forwarded to the relevant SAHPRA regional office. 
+4. 
+ INFORMATION TO BE DISPLAYED 
+The product licence number, as issued by SAHPRA: Radiation Control must be displayed in/ on an easily 
+accessible area of each unit. The identification plate, permanently affixed to the unit, should contain 
+information regarding the manufacturer, model designation, serial number, and place of manufacture for the 
+device. 
+5. 
+RADIATION SIGNS OR NOTICES SHALL BE DISPLAYED ON THE X-RAY SCANNER: 
+(a) 
+Radiation warning sign (trefoil) 
+• 
+Is shown in two contrasting colours. 
+• 
+Is clearly visible and identifiable from a distance of 1 meter. 
+• 
+On/Near the control panel of the unit in clear view of the operator. 
+• 
+On the external surface of the device. 
+(b) 
+Radiation warning notice 
+Radiation warning notices must bear the words below and must be permanently affixed or displayed. 
+• 
+"CAUTION X-RAYS PRODUCED WHEN ACTIVATED". 
+• 
+"TO BE USED BY AUTHORISED PERSONS ONLY". 
+• 
+At all access openings where items are inserted or removed: 
+"DO NOT INSERT ANY PART OF THE BODY WHEN SYSTEM IS ACTIVATED - X-RAY HAZARD". 
+SAHPGL-RDN-XR-05_v1 
+Page 6 of 8
+General Guideline for Cabinet and Conveyor Belt X-Ray 
+15 August 2022 
+ 
+ 
+6. 
+RADIATION SAFETY REQUIREMENTS 
+Leakage radiation shall be ≤5µSv/h at any point 5cm from the external surface. 
+(a) 
+Pregnancy 
+• 
+The public dose limit is 1mSv per year (ICRP 103). Studies have shown that operators of X-Ray 
+scanner machines for security purposes receive well below 1mSv of radiation dose per year 
+from workplace activities. 
+(b) 
+Items passing through 
+• 
+Items passing through an X-Ray screening machine, will receive ionizing radiation exposure; 
+but the exposure is too low to cause any damage to them.  
+7. 
+OPERATORS AND MAINTENANCE PERSONNEL 
+Personnel, that use or perform maintenance on X-Ray scanners, must receive training, authorised by the 
+original manufacturer on the operation and X-Ray safety relevant to the x- ray scanner intended for use. 
+(a) 
+Use 
+• 
+For regulatory purposes, operators of X-Ray scanners for security purposes, are exempted 
+from being monitored as Radiation Workers. 
+(b) 
+Maintenance 
+• 
+All persons involved in the maintenance of these units, should be monitored as Radiation 
+Workers. 
+8. 
+OPERATIONAL SAFETY 
+X-Ray Inspection Systems are designed to provide safe and efficient operation however the systems have 
+inherent dangers and must be operated with safety in mind. 
+(a) 
+Conveyer Belt Unit 
+• 
+Key actuated control so that X-Rays cannot be produced when the key is removed. 
+• 
+Clearly visible reliable light/beam-on indication. 
+• 
+No X-Rays shall be produced when the conveyer is stationary. 
+SAHPGL-RDN-XR-05_v1 
+Page 7 of 8
+General Guideline for Cabinet and Conveyor Belt X-Ray 
+15 August 2022 
+ 
+ 
+• 
+Manual control of X-Ray production should be provided in case of an emergency.  
+• 
+For exposures exceeding 0.5 seconds, two independent means to indicate when x- rays are 
+being produced. (e.g mA meter and X-Ray ON light). 
+• 
+Emergency buttons at either end of the units. 
+• 
+Please note - X-Rays are switched on and off automatically, by activation or deactivation of 
+conveyor belt. 
+(b) 
+Cabinet Type 
+• 
+Key actuated control so that X-Rays cannot be produced when the key is removed. 
+• 
+Clearly visible reliable light/beam-on indication. 
+• 
+Manual control of X-Ray production in case of an emergency. 
+• 
+Accessible emergency buttons. 
+(c) 
+Additional Requirements 
+The exposure switch must be a "dead-man" type. A safety interlock to prevent the production of X-
+Rays while any door or access panel leading to the interior of the cabinet or conveyer belt unit is open, 
+must be present. 
+9. 
+OTHER IMPORTANT SAFETY MEASURES 
+(a) 
+DO 
+• 
+Adhere to the operation manual/instructions as prescribed by the manufacturer. 
+• 
+Ensure that curtains are hanging down and in a good condition. 
+• 
+Ensure that warning signs, lamps and signals are installed. 
+• 
+Ensure notices are clearly legible. 
+• 
+Ensure that lights are in a good working condition before operating the unit. 
+• 
+Use a solid push stick to remove items that are stuck on the conveyor belt. 
+• 
+Turn the system OFF before reaching or crawling inside. 
+SAHPGL-RDN-XR-05_v1 
+Page 8 of 8
+General Guideline for Cabinet and Conveyor Belt X-Ray 
+15 August 2022 
+ 
+ 
+• 
+Follow the procedure established at your facility when dangerous objects or weapons are 
+identified on the screen. 
+• 
+All maintenance functions must be performed by a qualified technician. 
+• 
+Maintenance reports must be filed for future reference. 
+(b) 
+DO NOT 
+• 
+Insert any part of the body into the inspection tunnel while X-Rays are on. 
+• 
+Operate the X-Ray system with lead curtains broken or removed. 
+• 
+Displace the curtains while X-Ray lights are on. 
+10. REFERENCES 
+10.1 Hazardous Substances Act, Act 15 of 1973. 
+10.2 Regulations Concerning the Control of Electronic Products, R.1332. Code of practice for users of 
+medical X-Ray equipment 01-2015. 
+10.3 ICRP, 2007. The 2007 Recommendations of the International Commission on Radiological 
+Protection. ICRP Publication 103. Ann. ICRP 37 (2-4). 
+10.4 Health Physics Society. Airport Screening Fact Sheet. 
+http://hps.org/documents/airport_screening_fact_sheet.pdf 
+10.5 Health Physics Society. Security Screening. 
+http://hps.org/publicinformation/ate/faqs/securityscreening.html 
+11. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old Guidelines 
+for Cabinet and Conveyor Belt X-Ray Scanners, revised September 2017. It will be reviewed on this timeframe 
+or as and when required. 
+ 
+

@@ -1,0 +1,500 @@
+SAHPGL-RDN-XR-21_v1 
+Page 1 of 10
+ 
+ 
+ 
+12 September 2022 
+GUIDELINE FOR PATIENT DOSE MEASUREMENTS IN DIAGNOSTIC 
+RADIOLOGY 
+The objective of this guideline is to provide a simple and standardize method to determine patient dose by implementing 
+the entrance surface exposure. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+October 2009 
+1 
+- 
+Content structured on the latest SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-XR-21 allocated to this 
+Guideline 
+September 2022 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-21_v1 
+Page 2 of 10
+Guideline for Patient Dose Measurements in Diagnostic Radiology 
+12 September 2022 
+ 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+ANSI PHANTOM ......................................................................................................................................... 5 
+3.1 BENEFITS .................................................................................................................................................... 5 
+4. 
+MEASUREMENT PROCEDURE .................................................................................................................... 6 
+4.1 Entrance Surface Dose Measurement - MANUAL MODE .......................................................................... 6 
+4.2 Entrance Surface Dose Measurement - AUTOMATIC EXPOSURE CONTROL MODE (AEC) ........................ 7 
+5. 
+REFERENCES ............................................................................................................................................... 8 
+6. 
+VALIDITY .................................................................................................................................................... 9 
+7. 
+ANNEXURES ............................................................................................................................................. 10 
+7.1 Annexure 1: Patient Dose Measurements in Diagnostic Radiology ........................................................ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-21_v1 
+Page 3 of 10
+Guideline for Patient Dose Measurements in Diagnostic Radiology 
+12 September 2022 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+AAPM 
+American Association of Physicists in Medicine 
+AEC 
+Automatic Exposure Control 
+ALARA 
+As low as reasonably achievable 
+ANSI 
+American National Science Institute 
+CFP 
+Correction Factor for Phantom 
+DRL 
+Dose Reference Level 
+ESE 
+Entrance surface exposure 
+FAE 
+Free Air Exposure 
+FCD 
+Focus to Chamber Distance 
+FEBD 
+Focus to Erect Bucky Distance 
+FID 
+Focus to Image Distance 
+FSS 
+Film Screen Speed 
+FTD 
+Focus to table top Distance 
+ICRP 
+International Commission of Radiological Protection 
+ 
+ 
+ 
+SAHPGL-RDN-XR-21_v1 
+Page 4 of 10
+Guideline for Patient Dose Measurements in Diagnostic Radiology 
+12 September 2022 
+ 
+ 
+ 
+1. 
+INTRODUCTION 
+Two basic principles of radiological protection as recommended by the International Commission on 
+Radiological Protection (ICRP) are justification of the practice and optimization of protection. Justification is 
+the first step in radiological protection. It is accepted that diagnostic exposure is justifiable only when there is 
+a valid clinical indication, no matter how good the imaging performance may be. Every examination must result 
+in a net benefit to the patient. 
+Once a diagnostic examination has been clinically justified, the subsequent imaging process must be optimized 
+to obtain the required diagnostic information for a patient dose that is as low as reasonably achievable. 
+Because diagnostic medical procedures are usually for the direct benefit of the patient, somewhat less 
+attention has been given to the optimization of protection in medical exposure than in other applications that 
+use radiation source 
+In the area of optimization in diagnostic radiology there is considerable scope for reducing doses without loss 
+of diagnostic information, but the extent to which the measures available are used varies widely. The 
+optimization of protection in diagnostic radiology does not necessarily mean the reduction of doses to the 
+patient — it is paramount that the image obtained contains the diagnostic information as intended. 
+In accordance with the recommendations of the ICRP, it is often helpful in the management of operations to 
+establish values of measured quantities above which some specified action or decision should be taken. These 
+values are generally called reference or guidance levels. Implementation of a procedure to measure Entrance 
+Surface Exposure (ESE) is therefore long overdue. It was decided that a standardized simple, inexpensive, and 
+versatile phantom, designed by the American National Science Institute (ANSI) instead of a patient would be 
+used. This will ensure that measurements made under different conditions can be compared with international 
+standards. 
+1.1 
+Purpose 
+To standardize the method of measuring patient dose and determining refence lever in diagnostic radiology 
+by using the ANSI phantom. 
+1.2 
+Scope 
+The guideline covers patient dose measurements in diagnostic radiology that can be measured under 
+different conditions ad be comparable to international standards. 
+2. 
+LEGAL PROVISION 
+SAHPGL-RDN-XR-21_v1 
+Page 5 of 10
+Guideline for Patient Dose Measurements in Diagnostic Radiology 
+12 September 2022 
+ 
+ 
+ 
+The guideline is implemented in promulgating the Hazardous Substances Act 15, 1973 (Act15 of 1973) the 
+related Regulations R.1332. 
+3. 
+ANSI PHANTOM 
+3.1 
+BENEFITS 
+• 
+Optimization of the protection during medical exposures. 
+• 
+Calculate national reference dose levels. 
+• 
+Comparison of national dose levels with international dose levels.  
+• 
+Perform trend analysis 
+• 
+Identification of problem areas.  
+• 
+Calculate the total collective population dose from medical exposures, and  
+• 
+Apply ALARA 
+Drawings of the phantom compositions, which can be used for different diagnostic projections, are 
+illustrated in AAPM Report No. 31-1 - Standardized Methods for Measuring Diagnostic X-Ray Exposures 
+(Fluke Biomedical). Available at www.aapm.org. 
+ 
+TABLE 1: PROJECTION FOR AIR KERMA MEASUREMENTS IN AIR WITHOUT BACKSCATTER. 
+ 
+Description 
+Thickness of body part in cm (P) 
+Correction factor for phantom 
+(CFP)
+CHEST (PA) Grid 
+23 
+0.75 
+ABDOMEN (AP) Grid 
+23 
+1.15 
+LUMBAR SPINE (AP) Grid 
+23 
+1.15 
+SKULL (LATERAL) Grid 
+15 
+1.10 
+FOOT - Non-Grid 
+8 
+ 
+Average 
+Person
+71 kg and height of 174 cm 
+FEBD 
+Focus to Erect Bucky Distance 
+AEC 
+Automatic Exposure Control 
+FID 
+Focus to Image Distance 
+Chambe Measuring chamber 
+Focus 
+Focal spot of X-ray tube 
+CFP 
+Correction factor for phantom 
+FSS 
+Film Screen Speed 
+ESE 
+Entrance Surface Exposure 
+FTD 
+Focus to Table-top Distance 
+FAE 
+Free in air exposure 
+P 
+Thickness of Body Part (see table 1) 
+SAHPGL-RDN-XR-21_v1 
+Page 6 of 10
+Guideline for Patient Dose Measurements in Diagnostic Radiology 
+12 September 2022 
+ 
+ 
+ 
+FCD 
+Focus to Chamber Distance (Use 
+measuring point of chamber) 
+FAECPT Average Free in air exposure (instrument reading) 
+multiply with correction factor for chamber and 
+t d f
+t
+t
+d
+ 
+NB.  Temperature and pressure correction are applicable for ionisation chambers (not for solid state detectors) 
+ 
+ESE measurements must only be performed on fixed installations, and NOT on mobiles. 
+4. 
+MEASUREMENT PROCEDURE 
+4.1 
+Entrance Surface Dose Measurement - MANUAL MODE 
+4.1.1 Set the clinically used FID and record this value. 
+4.1.2 Measure and record the focus to tabletop or the focus to surface of the erect bucky distance (FTD or 
+FEBD). 
+4.1.3 Position an appropriate patient-equivalent phantom (ANSI) (see AAPM-31-1 patient phantom) in the 
+X ray field. 
+4.1.4 Place the chamber on a stand and the chamber shall be at least 23cm from the surface of the 
+phantom to minimize backscatter. 
+4.1.5 Centre the chamber in the X-ray field. Measure and record the focal spot to the chamber distance 
+(FCD). 
+4.1.6 Adjust the X-ray field area so that it is just bigger than the phantom. Remember the heel-effect! 
+4.1.7 Set the X-ray generator at the desired technique factors for an average person (use the technique 
+factors as displayed on the technique chart). 
+4.1.8 Record the kV and mAs values. 
+4.1.9 Insert a loaded cassette into the bucky tray. 
+4.1.10 Expose phantom, detector and film. 
+4.1.11 Record the free-in-air exposure. 
+4.1.12 Develop the film. 
+4.1.13 Label this film with file number of the facility and machine number, description of examination, 
+date, and processor if more than one is used. 
+SAHPGL-RDN-XR-21_v1 
+Page 7 of 10
+Guideline for Patient Dose Measurements in Diagnostic Radiology 
+12 September 2022 
+ 
+ 
+ 
+4.1.14 Zero the densitometer and measure the density as close as possible to the centre of the Xray field 
+(maximum reach of densitometer); NB - Not under the chamber. Record the density value. 
+4.1.15 Place the develop film in cassette and insert the loaded cassette into the bucky tray. 
+4.1.16 Perform 3 additional exposures at the above set-up and settings (insert a developed film in cassette 
+for these exposures). 
+4.1.17 Calculate the average free-in-air exposure for the 4 exposures. 
+4.1.18 Calculate:  
+𝐸𝐸𝐸𝐸𝐸𝐸= (𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹) × ൤
+𝐹𝐹𝐹𝐹𝐹𝐹
+𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹−𝑃𝑃൨
+2
+           𝐎𝐎𝐎𝐎        𝐸𝐸𝐸𝐸𝐸𝐸= (𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹) × ൤
+𝐹𝐹𝐹𝐹𝐹𝐹
+𝐹𝐹𝐹𝐹𝐹𝐹−𝑃𝑃൨
+2
+ 
+and record this value. 
+4.1.19 Repeat steps 4.1.1 to 4.1.18 for other examinations listed in Table1 
+4.2 
+Entrance Surface Dose Measurement - AUTOMATIC EXPOSURE CONTROL MODE (AEC) 
+4.2.1 Set the clinically used FID and record this value. 
+4.2.2 Measure and record the focus to tabletop or the focus to the surface of the erect bucky distance (FTD 
+or FEBD). 
+4.2.3 Position an appropriate patient-equivalent phantom (ANSI) (see AAPM-31-1 patient  
+phantom) in 
+the X-ray field between the focal spot and AEC detectors. 
+4.2.4 Adjust the X-ray field size so that it is just bigger than the phantom. 
+4.2.5 Place the chamber on a stand and the chamber shall be at least 23cm from the surface of the 
+phantom to minimise backscatter. The chamber must be outside the sensory area of the active AEC 
+detector(s), but sufficiently covered by the X-ray field. Remember the heel-effect! To minimise the 
+heel effect, the measuring chamber should be as close as possible to the central axis. 
+4.2.6 Measure and record the distance from the focal spot to the chamber distance (FCD). 
+4.2.7 Set the X-ray generator at the desired technique factors for an average person (use the technique 
+factors as displayed on the technique chart). 
+4.2.8 Insert a loaded cassette into the bucky tray. 
+SAHPGL-RDN-XR-21_v1 
+Page 8 of 10
+Guideline for Patient Dose Measurements in Diagnostic Radiology 
+12 September 2022 
+ 
+ 
+ 
+4.2.9 Expose phantom, detector and film. 
+4.2.10 Record the average free-in-air exposure. 
+4.2.11 Record the kV and mAs values. 
+4.2.12 Develop the film. 
+4.2.13 Label this film with file number of the facility and machine, description of examination, date, and 
+processor if more than one is used. 
+4.2.14 Zero the densitometer and measure the density in the centre of the X-ray field - NB - not under the 
+chamber. Record the optical density 
+4.2.15 Perform 3 additional exposures at the above set-up and settings (insert a developed film in cassette 
+for these exposures). 
+4.2.16 Calculate the average free-in-air exposure for the 4 exposures. 
+4.2.17 Calculate: 
+𝐸𝐸𝐸𝐸𝐸𝐸= (𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹) × ൤
+𝐹𝐹𝐹𝐹𝐹𝐹
+𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹−𝑃𝑃൨
+2
+× 𝐶𝐶𝐶𝐶𝐶𝐶       𝐎𝐎𝐎𝐎       𝐸𝐸𝐸𝐸𝐸𝐸= (𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹) × ൤
+𝐹𝐹𝐹𝐹𝐹𝐹
+𝐹𝐹𝐹𝐹𝐹𝐹−𝑃𝑃൨
+2
+× 𝐶𝐶𝐶𝐶𝐶𝐶 
+and record this value. 
+4.2.18 Repeat steps 4.2.1 to 4.2.17 for other examinations listed in Table1. 
+5. 
+REFERENCES 
+The following related documents are referenced: 
+5.1 
+Standardized methods for measuring diagnostic x-ray exposures 
+https://www.aapm.org/pubs/reports/rpt_31.pdf  
+5.2 
+ICRP Publication 34, Protection of the Patient in Diagnostic Radiology. Committee 3 of the 
+International Commission on Radiological Protection, Pergamon Press, May, 1982. 
+5.3 
+NCRP Report #99, Quality Assurance for Diagnostic Imaging Equipment. NCRP, Bethesda, MD 1988. 
+5.4 
+Guideline for QC in Medical Diagnostic X-Ray Imaging Systems (SAHPGL-RDN-XR-01). 
+https://www.sahpra.org.za/radiation-control-guidelines-and-codes-of-practice/  
+SAHPGL-RDN-XR-21_v1 
+Page 9 of 10
+Guideline for Patient Dose Measurements in Diagnostic Radiology 
+12 September 2022 
+ 
+ 
+ 
+5.5 
+South Africa, 1973.  Hazardous Substances Act, 1973 (Act of 15 of 1973). 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+5.6 
+South Africa, 1973. Regulations Concerning the Control of Electronic Products.  Regulation Gazette 
+No 3991. https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+6. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Patient Dose Measurements in Diagnostic Radiology, revised October 2009. It will be reviewed on this 
+timeframe or as and when required. 
+ 
+ 
+ 
+SAHPGL-RDN-XR-21_v1 
+Page 10 of 10 
+ Guideline for Patient Dose Measurements in Diagnostic Radiology 
+12 September 2022 
+ 
+ 
+ 
+7. 
+ANNEXURES 
+7.1 
+Annexure 1: Patient Dose Measurements in Diagnostic Radiology 
+Holder: 
+Reference no 
+Licence no. 
+Machine no. 
+DETAILS OF PERSON WHO PERFORMED THE MEASUREMENTS 
+I, (PLEASE PRINT): ………………………………………….. ………………………………hereby declare that the results below is a true and accurate reflection of measurements performed on this x-ray unit. 
+Cell no/ 
+E-mail/Fax: 
+Date: 
+Pressure 
+Temperature 
+Chamber correction factor 
+Chamber + detector info 
+X-ray Generator 
+X-ray Tube 
+Brand 
+Model: 
+Waveform 
+Total Filtration in mm Al 
+OR 
+Half Value Layer at 70 kV in mm Al 
+Projection 
+FID (cm) 
+FTD / FEBD 
+(cm) 
+FCD (cm) 
+kV 
+mAs 
+FAE 
+ μSv 
+ESE  
+ μSv 
+Film Density 
+FSS 
+Fine OR 
+Broad 
+Grid 
+YES/NO 
+AEC Chamber 
+Position 
+CHEST (PA) 
+ Grid 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABDOMEN (AP)  
+Grid 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LUMBAR SPINE (AP) 
+Grid 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SKULL (LATERAL) Grid 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FOOT  
+Non-Grid 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

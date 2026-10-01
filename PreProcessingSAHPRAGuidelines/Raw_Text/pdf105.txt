@@ -1,0 +1,232 @@
+SAHPGL-RDN-XR-22_v1 
+Page 1 of 6
+ 
+ 
+ 
+12 September 2022 
+GUIDELINE REGARDING PROTECTIVE CLOTHING 
+This guideline provides a practical framework for the use, maintenance and inspection of radiation protective aprons, 
+gonad shields, thyroid shields and protective gloves. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+October 2012 
+1 
+- 
+Content structured on the latest SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-XR-22 allocated to this 
+Guideline 
+September 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-22_v1 
+Page 2 of 6
+Guideline Regarding Protective Clothing 
+12 September 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+PROTECTIVE APRONS (WORKERS) ............................................................................................................. 4 
+4. 
+PROTECTIVE GLOVES (WORKERS) .............................................................................................................. 4 
+5. 
+THYROID SHIELDS ...................................................................................................................................... 5 
+5.1 Patients ...................................................................................................................................................... 5 
+5.2 Radiation workers ...................................................................................................................................... 5 
+6. 
+GONAD SHIELDS ........................................................................................................................................ 5 
+6.1 Patients ...................................................................................................................................................... 5 
+7. 
+REPAIR OF LEAD APRONS, GONAD SHIELDS, PROTECTIVE GLOVES AND THYROID SHIELDS .................... 6 
+8. 
+REFERENCES ............................................................................................................................................... 6 
+9. 
+VALIDITY .................................................................................................................................................... 6 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-22_v1 
+Page 3 of 6
+Guideline Regarding Protective Clothing 
+12 September 2022 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Act 
+Hazardous Substance Act 15 of 1973 (Act 15, of 1973) 
+Gonads 
+Primary reproductive gland that produces reproductive cells (gametes). I 
+ICRP 
+International Commission on Radiological Protection 
+Lead aprons 
+this a type of protective clothing made of thin rubber externally lead interior 
+that acts as a radiation shield 
+Radio-opaque 
+Any high-density material that attenuates radiation  
+Radiographic 
+Process of producing an image using x-ray machine 
+Regulation 
+Regulation concerning the control of electronic products, (R1332) 
+Thyroid 
+A gland that makes and stores hormones that help regulate the heart rate, 
+blood pressure, body temperature, and the rate at which food is converted 
+into energy 
+ 
+ 
+ 
+SAHPGL-RDN-XR-22_v1 
+Page 4 of 6
+Guideline Regarding Protective Clothing 
+12 September 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+The regulation 1332 (R.1332) states very clear that the holder shall be liable for the entire scope of radiation 
+protection with regard to a listed electronic product or premises for which he holds a license. Such liability 
+shall relate to any aspect that could reasonably be included under radiation protection. Radiation protective 
+clothing is an essential safety tool used in a radiology department to protect medical radiation workers and 
+patients from scatter radiation during x-ray procedures. It is therefore the responsibility of the license holder 
+to ensure radiation workers in areas need have the required protective clothes. 
+1.1 
+Purpose 
+This guideline provides a practical framework for the use, maintenance and inspection of radiation 
+protective aprons, gonad shields, thyroid shields, and protective gloves. 
+1.2 
+Scope 
+The recommended use of radiation protective clothing during x-ray procedures in a Radiology Department. 
+Damaged lead aprons, gonad shields, protective gloves and thyroid shields should be withdrawn from use. 
+It may be repaired provided that it is restored to its original shielding ability. Any supplier of lead aprons, 
+gonad shields, protective gloves and thyroid shields should be able to assist the user with regards to the 
+repair thereof. 
+2. 
+LEGAL PROVISION 
+The SAHPRA Radiation control regulates ionizing devices as promulgated by the hazardous Substances 15 of 
+1973 with its related regulations R1332 concerning the control of electronic products. 
+3. 
+PROTECTIVE APRONS (WORKERS) 
+SAHPRA Radiation Control has accepted the conditions stated by the International Commission on Radiological 
+Protection (ICRP Publication 57, paragraph 174), namely: 
+“If workers cannot remain in the protected area when the x-ray machine is operated, they shall wear a 
+protective apron of at least 0.25 mm lead equivalence. As far as is reasonably practicable they should occupy 
+areas of the room where the levels of radiation exposure are low. Any person required standing within 1 metre 
+of the x-ray tube or patient should wear a protective apron of at least 0.35-mm lead equivalence. All such 
+protective clothing should bear an identifying mark and should be examined at 3 monthly intervals. Defective 
+items should be withdrawn from use”. 
+4. 
+PROTECTIVE GLOVES (WORKERS) 
+SAHPRA Radiation Control has also accepted the conditions stated by the ICRP Publication 57 (paragraph 174) 
+SAHPGL-RDN-XR-22_v1 
+Page 5 of 6
+Guideline Regarding Protective Clothing 
+12 September 2022 
+ 
+ 
+regarding protective gloves, namely: “Protective gloves should be of at least 0.35 mm lead equivalence. All 
+such protective clothing should bear an identifying mark and shall be examined at 3 monthly intervals. 
+Defective items should be withdrawn from use”. 
+5. 
+THYROID SHIELDS  
+The ICRP Publication 57 (paragraph 175) stated namely: 
+“Thyroid protection, if deemed necessary can be achieved either by wearing a collar of suitable lead 
+equivalence, or by the use of a protective apron with a high neckline”. 
+5.1 
+Patients 
+No requirements 
+5.2 
+Radiation workers 
+A lead equivalence of 0.35-mm lead is required (in correspondence with ICRP Publication 57, paragraph 
+174). 
+6. 
+GONAD SHIELDS  
+6.1 
+Patients 
+Gonad shielding should only be used when it does not interfere with radiographic diagnosis. The gonads of 
+males with reproductive potential must be protected if they are within the primary beam or within 5 cm of 
+it, and if the shielding does not exclude important diagnostic information or interfere with the study. If the 
+gonads are beyond 5 cm the gain obtained in shielding is negligible. The use of gonadal shielding in males 
+can reduce dose to the gonads by 95% when the gonads are in the direct beam. In females the saving is 
+considerably lower (about 50%). 
+There are three basic types of gonadal shields (contact shield, the shadow shield and the shaped contact 
+shield). These shields must be at least 0.5 mm lead equivalent. Contact shields are the simplest to use and 
+are the least expensive. They are simply pieces of lead sheet or lead rubber or even objects such as lead 
+gloves that can be placed over the gonads. Shadow shields are radio-opaque shields that are placed 
+between the X-ray tube and the patient but are not in contact with the patient. Shaped contact shields are 
+available only for the male. 
+For female patients shielding of ovaries may obscure structures of clinical importance and must therefore 
+be abandoned. Shielding of the ovaries are recommended only if loss of diagnostic information can be 
+avoided. Due to uncertainty in the location of the ovaries, the real shielding effectiveness cannot always be 
+predicted. 
+SAHPGL-RDN-XR-22_v1 
+Page 6 of 6
+Guideline Regarding Protective Clothing 
+12 September 2022 
+ 
+ 
+7. 
+REPAIR OF LEAD APRONS, GONAD SHIELDS, PROTECTIVE GLOVES AND 
+THYROID SHIELDS 
+7.1 
+To verify that lead aprons, gonad shields, protective gloves and thyroid shields are free from any 
+defects, holes and cracks: 
+7.1.1 A visual and manual check must be performed 3 monthly, and 
+7.1.2 A radiographic / fluoroscopic test if a defect is suspected. 
+7.2 
+Damaged lead aprons, gonad shields, protective gloves and thyroid should be withdrawn from use. 
+It may be repaired provided that it is restored to its original shielding ability. 
+Any supplier of lead aprons, gonad shields, protective gloves and thyroid shields should be able to assist 
+the user with regard to the repair thereof. 
+8. 
+REFERENCES 
+8.1 
+ICRP, 1982. Protection of the Patient in Diagnostic Radiology. ICRP Publication 34. Ann. ICRP 9 (2-3).  
+8.2 
+ICRP, 1990. Radiological Protection of the Worker in Medicine and Dentistry. ICRP Publication 57. 
+Ann. ICRP 20 (3). 
+8.3 
+Hazardous Substance Act 15 of 1973 (Act 15, of 1973), https://www.sahpra.org.za/radiation-control-
+acts-and-regulations/  
+8.4 
+Regulation 
+concerning 
+the 
+control 
+of 
+electronic 
+products, 
+(R1332), 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+9. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Protective Clothing, revised October 2012. It will be reviewed on this timeframe or as and when required. 
+

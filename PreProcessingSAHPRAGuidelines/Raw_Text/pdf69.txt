@@ -1,0 +1,443 @@
+SAHPGL-RDN-RN-08_v2 
+Page 1 of 13
+ 
+ 
+ 
+1 February 2024 
+GUIDELINE FOR THE SAFE USE OF INDUSTRIAL GAUGES 
+CONTAINING RADIOACTIVE SOURCES 
+These standards have been set to limit the risk of over-exposure of workers, as well as the public, to ionizing radiation, and to ensure 
+that radiation doses are kept as low as reasonably achievable (ALARA principle). 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue and published for implementation 
+January 2011 
+2 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-RN-08 allocated to this 
+Guideline 
+- 
+Form RC010 changed to GLF-RDN-XR-10A, RN525 changed to GLF-
+RDN-RN-13C, RN526 changed to GLF-RDN-RN-16B, RN784 changed to 
+GLF-RDN-RN-16D, RN785 changed to GLF-RDN-RN-16C, RN787 
+changed to GLF-RDN-RN-07A and RN900 also changed to GLF-RDN-RN-
+12A. 
+January 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+SAHPGL-RDN-RN-08_v2 
+Page 2 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION ............................................................................................................................................ 4 
+1.1 Purpose ......................................................................................................................................................... 4 
+1.2 Scope ............................................................................................................................................................. 4 
+2. 
+LEGAL PROVISION ......................................................................................................................................... 4 
+3. 
+ADMINISTRATIVE REQUIREMENTS ............................................................................................................... 4 
+4. 
+EQUIPMENT SPECIFICATIONS ....................................................................................................................... 5 
+5. 
+STORAGE REQUIREMENTS ............................................................................................................................ 6 
+6. 
+OPERATING PROCEDURES ............................................................................................................................ 6 
+6.1 General Requirements .................................................................................................................................. 6 
+6.2 Repairs and Maintenance ............................................................................................................................. 7 
+6.3 Leak Tests ...................................................................................................................................................... 8 
+7. 
+RADIATION MONITORING REQUIREMENTS ................................................................................................. 8 
+8. 
+TRANSPORTATION ........................................................................................................................................ 9 
+9. 
+EMERGENCY PROCEDURES ......................................................................................................................... 10 
+10. DISPOSAL .................................................................................................................................................... 11 
+11. REFERENCES ................................................................................................................................................ 12 
+12. VALIDITY ..................................................................................................................................................... 12 
+13. ANNEXURES ................................................................................................................................................ 13 
+13.1 Annexure 1: Warning Signs/ Labels ............................................................................................................ 13 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-RN-08_v2 
+Page 3 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+SAHPRA 
+South African Health Products Regulatory Authority 
+TLD 
+Thermoluminescence Dosimeter 
+RPO 
+Radiation Protection Officer 
+ 
+ 
+ 
+SAHPGL-RDN-RN-08_v2 
+Page 4 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+1. 
+INTRODUCTION 
+Radioactive sources used in industrial gauges are subject to regulatory control in terms of the South African 
+Hazardous Substances Act, 1973 (Act 15 of 1973). The body responsible for administering this legislation is the 
+South African Health Product Regulatory Authority (SAHPRA).  
+ These standards apply to all gauges installed in fixed positions and are used for measuring or process control 
+purposes. These include density gauges, level gauges, belt mass meters, thickness gauges and various other 
+analytical units.  
+ The radioactive sources used in these gauges are generally sufficiently radioactive to constitute a significant 
+health hazard unless adequately shielded and handled with proper care. These standards have been set to 
+limit the risk of over-exposure of workers, as well as the public, to ionizing radiation, and to ensure that 
+radiation doses are kept as low as reasonably achievable (ALARA principle). 
+1.1 
+Purpose 
+The purpose of this Code is to provide guidance on the establishment of workplace practices, procedures, 
+and protective measures that would enhance the safe use and security of radioactive sources. In addition, 
+it gives a broad overview of the forms that must be completed when applicants require authorisation for 
+controlled activities.  
+1.2 
+Scope 
+This code applies to activities associated with sealed sources such as fixed and portable nuclear gauges and 
+logging tools containing sealed sources used for non-medical purposes including research and education. 
+Nuclear gauges can be used for purposes such as level indication and density, concentration, and thickness 
+measurement. Logging tools are used for well logging. Activities can include the manufacture, possession, 
+control, management, use, storage, import, export, sale, supply, and disposal of radioactive material and 
+equipment. 
+2. 
+LEGAL PROVISION 
+The following are the relevant regulatory documents with necessary provisions: 
+− 
+Hazardous Substances Act 15 of 1973 
+− 
+R246, R247 Regulations related to Group IV Hazardous Substances 
+3. 
+ADMINISTRATIVE REQUIREMENTS 
+SAHPGL-RDN-RN-08_v2 
+Page 5 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+3.1. All applications and required documents (CIPC certificates, internal rules) for authorities to acquire, 
+possess, use, convey or cause to convey a radioactive substance/radionuclide must be submitted to 
+SAHPRA Radiation Control at  radionuclides@sahpra.org.za 
+3.2. An application for authority to possess and use a nuclear gauge must be submitted to Radiation 
+Control on Form GLF-RDN-RN-07A (old form RN787). The applicant must nominate a radiation 
+protection officer (RPO) as well as an acting radiation protection officer (acting RPO). 
+3.3. Authorities are valid for a limited period. Applications for renewal of authorities must be submitted 
+to Radiation Control Radiation Control on Form GLF-RDN-RN-07A (old form RN787) 60 days before 
+the date of expiry. 
+3.4. Should the radiation protection officer (RPO) or acting RPO change at any stage, the Radiation 
+Control must be informed of the change on Form GLF-RDN-RN-16C (old form RN785). 
+3.5. Once a year, the holder of the authority must furnish Radiation Control with a declaration, on Form 
+GLF-RDN-RN-16D (old form RN784), confirming that all the sealed sources which are reflected on 
+his current authority, are in his possession, and that the details on this authority are complete and 
+correct. This declaration is due each year before 31 January. 
+3.6. Internal rules must be compiled according to Regulation 7 of the Regulations relating to Group IV 
+Hazardous Substances. The Regulations, Code of Practice and Minimum requirements for internal 
+rules should be utilized in compiling the internal rules. 
+The above documents can be found on the following website: 
+https://www.sahpra.org.za/radiation-control-application-and-report-forms/ 
+3.7. A copy of the Act, Regulations, authority, internal rules, and any amendments must be kept on the 
+premises of the holder in a place accessible to all employees. 
+4. 
+EQUIPMENT SPECIFICATIONS 
+4.1 
+All sources and source containers incorporated in nuclear gauges must be of a design approved by 
+Radiation Control. 
+4.2 
+The shutter or source control mechanism of the radioactive source container must be designed 
+with an effective mechanism to ensure that it can be secured in the "beam off" position. Padlocks 
+and/or keys must be available for this purpose. 
+SAHPGL-RDN-RN-08_v2 
+Page 6 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+NOTE:  Open shutters (beam on position) must not be padlocked. The source container must 
+incorporate an indicator that clearly shows whether the source is In the “beam on” or the "beam 
+off" position.  
+4.3 
+The source container must bear a radiation warning sign as well as a durable label indicating the 
+source serial no, date, type and activity of the radionuclide contained therein. The sign and label 
+must be permanently attached to the container and legible at all times. 
+4.4 
+The dose rate on the surface of the source container may not exceed 2 mSv/h (200 mR/h). (Ref 1) 
+4.5 
+The source container must always be in a good condition with no excessive rust 
+5. 
+STORAGE REQUIREMENTS 
+5.1 
+No radioactive material or instrument or apparatus containing such material may be stored on any 
+premises zoned for domestic purposes. 
+5.2 
+When in storage the source assembly of a nuclear gauge must be secured in the “beam off" position   
+5.3 
+Warning signs, of a design approved by Radiation Control, must be displayed at the entrance to the 
+storeroom or storage area to indicate the presence of radioactive material. 
+5.4 
+Dose rates outside the store must not exceed 2.5 µSv/h (0.25 mR/h). 
+5.5 
+A notice containing the names and telephone numbers of persons who can be telephoned in the 
+event of an emergency, must be displayed at all storage facilities for radioactive material. 
+5.6 
+The storage facility must be duly lockable, and no unauthorized entry shall take place. 
+5.7 
+No radioactive material may be stored with, or near any corrosive, combustible, or explosive 
+material. 
+6. 
+OPERATING PROCEDURES 
+6.1 
+General Requirements 
+6.1.1 The radiation protection officer shall ensure that all persons handling or working near the gauge are 
+fully aware of the associated radiation hazard and are familiar with correct work procedures 
+6.1.2 A radiation warning sign must be posted in the vicinity of the gauge to discourage loitering in the 
+SAHPGL-RDN-RN-08_v2 
+Page 7 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+area. The sign must have an emergency after-hours telephone number written on it, unless a 24-hour 
+security system exists on the premises. Any doors or openings giving access to the direct radiation 
+beam must be provided with a radiation warning to prevent any unauthorized entry. 
+6.1.3 The dose rate at the nearest accessible position (NAP) to the gauge must not exceed 7.5 µSv/h (0.75 
+mR/h). If the area near the gauge has a low occupancy rate, a higher dose rate may be permitted at 
+the nearest accessible position (NAP), provided that the average dose rate to any person over any 8 
+hour period does not exceed 2.5 µSv/h (0.25 mR/h).  Extra protection may be added, the position of 
+the gauge changed, barriers may be erected or warning signs prohibiting loitering in the area may be 
+displayed to ensure that this requirement is met.  If necessary, a cage or screen must be erected 
+around the gauge to restrict access to the direct radiation beam of the gauge.  Cages or screens, 
+however, must be erected in such a way that source containers are visible and shutter mechanisms 
+easily accessible.  (The NAP is the closest distance that an employee, that is also a member of the 
+public, could get to the radiation source under normal working circumstances.  If a radiation source 
+is, e.g., mounted at a height of 3 meters above the walkway, the NAP will be the closest position that 
+a person can approach this source while standing on the walkway.)  
+6.1.4 When a gauge is not required to function (e.g. if a line is closed down temporarily, or if a tank is 
+emptied for maintenance) the source container must immediately be secured in the shielded or 
+"beam off" position. 
+6.1.5 The source container must be properly mounted to the application. All bolts and nuts must be 
+present and tightened and with no excessive rust. Source containers installed in excessively wet or 
+dirty applications should be protected to promote the correct functioning of the gauge and to 
+prevent excessive rust. 
+6.1.6 When a gauge is moved to a new position or when a gauge is removed from service, such moving or 
+removal may take place only under the direct supervision of the radiation protection officer. It is the 
+responsibility of the holder of the authority to ensure that all personnel are aware of this rule, and 
+that they adhere to it. Radiation Control must be informed of such a move. 
+6.1.7 When a gauge is removed from service, the radiation protection officer shall ensure that it is 
+immediately locked in an approved storage facility. 
+6.2 
+Repairs and Maintenance 
+6.2.1 Maintenance work which does not involve the source directly (e.g. fixing of electronics, working on 
+SAHPGL-RDN-RN-08_v2 
+Page 8 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+the detector, relocation of equipment, or the performance of non-related tasks in the vicinity of the 
+gauge) may be performed by competent personnel under the supervision of the radiation protection 
+officer. The radiation protection officer should evaluate the potential radiation hazard and give 
+advice on any precautionary measures that need to be taken. 
+6.2.2 No person may do maintenance work on a gauge which directly involves the source (e.g. replacing 
+defective sources, working on the shutter mechanism, etc.) unless he is a registered radiation worker 
+and is authorized by Radiation Control to perform such work. 
+6.3 
+Leak Tests 
+6.3.1 Leak tests must be performed at least every two years. (Please consult the SAHPRA Code of Practice 
+for Leak Tests for more details on leak tests). 
+6.3.2 Leak tests may be performed by any person or persons responsible for the gauge, by the company 
+responsible for servicing the gauge, or by any company who offers a leak testing service. 
+6.3.3 The leak tests should be performed with wet or dry cotton wool, tissue, or soft paper. 
+6.3.4 Method: Wipe the moving part closest to the source, or along any joint or opening where it is feasible 
+that contamination might occur. Do NOT put your hands, or any part of your body, in the direct beam 
+from the gauge. Do NOT dismantle the gauge in order to do the leak test, and do NOT wipe the source 
+itself. 
+6.3.5 If the company has access to a suitable contamination monitor, the analysis of the leak test samples 
+may be performed and recorded by the company themselves. 
+6.3.6 If the company does not have a suitable monitor, the wipe samples must be sent to a company or 
+institution who performs such analyses. Samples should be placed in sealed plastic bags before 
+dispatching. Samples may not be sent via the post. 
+6.3.7 If a source is found to be leaking (i.e. a positive result) the Radiation Control must be notified 
+immediately. 
+6.3.8 The results of all leak tests must be recorded and must be available for inspection purposes. 
+7. 
+RADIATION MONITORING REQUIREMENTS 
+7.1 
+If a company possesses a large number of gauges, or if relatively high activity sources are being used, 
+SAHPGL-RDN-RN-08_v2 
+Page 9 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+Radiation Control requires the company obtain a radiation monitor. Radiation monitors must be 
+calibrated at an approved facility at least every 14 months. 
+7.2 
+The radiation monitor must be used to ensure that radiation dose rates in the vicinity of the gauges 
+do not exceed prescribed limits. Typical applications would be routine monitoring programmers, 
+checking of new installations, confirming "beam off" status before relocating a gauge and, if the 
+gauge is sufficiently sensitive, leak testing. 
+7.3 
+Personal dosimeters (TLD badges) must be worn by persons doing maintenance work involving the 
+source itself, or by any worker whom the responsible person feels is likely to receive more than 3/10 
+of the dose limit for radiation workers. (The annual dose limit for radiation workers is 20 mSv (2000 
+mR). 
+8. 
+TRANSPORTATION 
+8.1 
+An enclosed vehicle must be used for transporting the gauge by road. If a “bakkie” is used, a lockable     
+canopy must be installed, or the gauge must be secured to the vehicle. 
+8.2 
+The vehicle may not be left unattended with the gauge in (or on) it. 
+8.3 
+Three removable transport radiation warning signs (see Annexure 1 - fig 5) must be displayed on the 
+vehicle during transportation; one sign on each side and one at the rear of the vehicle. The name and 
+telephone number of a person to be contacted in the event of an emergency must appear adjacent 
+on each sign. 
+8.4 
+The gauge must be secured in the shielded ("beam off") position. 
+8.5 
+The gauge shall be positioned as far as possible from the driver of the vehicle and should be so stowed 
+as to prevent any shift under normal conditions of transport. 
+8.6 
+The maximum radiation level at the position of any person in the vehicle shall not exceed 20 µSv/h 
+(2 mR/h) (Ref 2). 
+8.7 
+Nuclear gauges may be dispatched by public transport (i.e. by ship, air freight or road) provided that 
+the following additional requirements are met: 
+8.7.1 The source container shall be packed in an outer shipping container/package which is of strong, 
+rigid construction. 
+SAHPGL-RDN-RN-08_v2 
+Page 10 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+8.7.2 The source container shall be effectively immobilized within the outer container. 
+8.7.3 The outer shipping container shall bear approved transport labels (See Annexure 1 - fig 2, 3, 4) 
+in accordance with the radiation levels associated with the gauge. 
+8.7.4 The gauge shall be accompanied by properly completed transport documents specifying the 
+radioactive content. 
+9. 
+EMERGENCY PROCEDURES 
+9.1 
+The unit Radiation Control must be notified immediately by telephone, e-mail or facsimile and the 
+information must be reported to the Directorate in writing within 7 days in the following instances 
+(See Regulation 16): 
+9.1.1 If the authority holder is not able to deal with an emergency situation in a safe and acceptable 
+manner with the equipment at his disposal, or if he does not have personnel who are trained 
+to handle such situations. 
+9.1.2 If there is the likelihood of radioactive contamination occurring, or having occurred as a result 
+of an incident 
+9.1.3 If any person is overexposed or suspected of being overexposed a Form GLF-RDN-XR-10A (old 
+form RC010) must be submitted. 
+9.1.4 If a radioactive source and/or container is lost or missing or damaged, in which case Form GLF-
+RDN-RN-12A (old form RN900) must be submitted to the Directorate. 
+SAHPRA - Unit: 
+Radiation Control can advise on further action to be taken and can provide radiation monitoring 
+equipment, if required. During office hours, phone 083 440 1486 or e-mail 
+radionuclides@sahpra.org.za . After hours, call the Necsa 24-hour National Emergency Centre 
+on 012-305 3333. 
+9.1.5 Priority must be given to the rendering of first aid and other actions to protect human life or 
+to limit injury BEFORE the radiation hazard is considered. 
+9.1.6 If the area where nuclear gauges are stored is threatened by fire, or some other potential 
+hazard exists, the gauges must be moved to a safe place and secured against unauthorized 
+SAHPGL-RDN-RN-08_v2 
+Page 11 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+access. (Ensure that the gauge is secured in the "beam off" position before moving.) 
+9.1.7 If it is suspected that there has been loss of, or damage to the shielding material, persons 
+should maintain as large a distance from the gauge as possible. However, if the emergency 
+situation requires it, the gauge could be approached for short periods, without significant risk. 
+9.2 
+If it is suspected that a source itself may have been damaged (e.g. if the gauge is severely crushed or 
+burned) the following precautions should be taken to avoid the spread of radioactive material: 
+9.2.1 Care should be taken not to touch the gauge, or anything in the vicinity of the gauge, unless 
+with a gloved hand. The gauge should not be approached unless the emergency situation 
+requires it. 
+9.2.2 If available, a mask with a filter should be worn by persons who have to approach the gauge, 
+to prevent possible inhalation of airborne radioactive particles. 
+9.2.3 Once the emergency has been dealt with, persons who were in the vicinity of the gauge should 
+gather in a central place.  Clothing or shoes suspected of being contaminated must be removed 
+and placed in a plastic bag and sealed. 
+10. DISPOSAL 
+10.1 Radiation Control strongly recommend that any unused radioactive sources be disposed of in the 
+prescribed manner. Any Radiation Control office may be contacted should you require more 
+information on the disposal of radioactive sources. 
+10.2 The holder of authority shall not dispose off a sealed source, or a nuclear gauge containing a sealed 
+source, without the approval of the Radiation Control. "Dispose" here includes sale, lend, donate, 
+exchange,permanent storage at Nuclear Liabilities Management (NLM) as well as return of the gauge 
+or source to the supplier. 
+10.3 An application Form GLF-RDN-RN-16B (old form RN526) to dispose (Sale, lend, donate, exchange as 
+well as return of the gauge or source to the supplier) of the gauge or source must be submitted to 
+the Radiation Control. 
+10.4 Should the holder wish to dispose of a source or gauge at the Nuclear Liabilities Management (NLM) 
+section of NECSA at Pelindaba, application must be made to GLF-RDN-RN-13C, previously known as 
+form RN525. 
+SAHPGL-RDN-RN-08_v2 
+Page 12 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+11. REFERENCES 
+The following related documents are referenced: 
+11.1 Report on the Applicability of International Radiation Protection Recommendations in the Nordic 
+Countries, Stockholm, 1976. 
+11.2 Code of Practice for the Safe Use of Radiation Gauges, NH & MRC, Canberra, Australia, 1982.  
+11.3 Working Safely with Nuclear Gauges, Atomic Energy Control Board, Canada. 
+11.4 Government Gazette no. 14596 26 February 1993.  
+11.5 Code of Practice for the Safe Use of Sealed Radioactive Material in Industry, NRL, Christchurch, New 
+Zealand, 1981.  
+12. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old Code of 
+Practice for Safe Use of Industrial Gauges Containing Radioactive Sources, revised January 2011. It will be 
+reviewed on this timeframe or as and when required. 
+ 
+SAHPGL-RDN-RN-08_v2 
+Page 13 of 13
+Guideline for Safe Use of Industrial Gauges Containing Radioactive Sources 
+1 February 2024 
+ 
+ 
+13. ANNEXURES 
+13.1 Annexure 1: Warning Signs/ Labels 
+ 
+

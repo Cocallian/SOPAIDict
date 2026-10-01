@@ -1,0 +1,226 @@
+SAHPGL-RDN-XR-07_v1 
+Page 1 of 6
+ 
+ 
+ 
+19 August 2022 
+GUIDELINE FOR BONE DENSITOMETER – SHIELDING, 
+MONITORING AND POSITIONING OF OPERATORS 
+The following recommendations serve as guidelines for shielding, monitoring, and positioning of operators 
+during dual-energy X-Ray absorptiometry (DXA). 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+Oct 2009 
+1 
+− 
+Content structured on the new SAHPRA Guideline Template 
+− 
+A unique document number SAHPGL-RDN-XR-07 allocated to this 
+Guideline 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-07_v1 
+Page 2 of 6
+Guideline for Bone Densitometer – Shielding, Monitoring and Positioning of Operators 
+19 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+Guideline Recommendations .................................................................................................................... 4 
+3.1 Background ................................................................................................................................................ 4 
+3.2 Shielding requirements ............................................................................................................................. 5 
+3.1 Operator: Positioning ................................................................................................................................ 5 
+3.2 Personal Monitoring .................................................................................................................................. 5 
+4. 
+REFERENCES ............................................................................................................................................... 6 
+5. 
+VALIDITY .................................................................................................................................................... 6 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-07_v1 
+Page 3 of 6
+Guideline for Bone Densitometer – Shielding, Monitoring and Positioning of Operators 
+19 August 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+BMD 
+Bone Mineral Density 
+ISCD 
+International Society for Clinical Densitometry 
+DEXA/DXA 
+Dual Energy X-Ray Absorptiometry 
+mSv 
+millisievert 
+Absorptiometry 
+Means of measuring bone mineral density 
+Act 
+Hazardous Substances Act, 1973 (Act 15 of 1973) 
+Regulations 
+Regulations relating to the Control of Electronic Products (No R1332 of 3 
+August 1973) 
+SAHPRA 
+South African Health Product Regulatory Authority 
+ 
+ 
+ 
+SAHPGL-RDN-XR-07_v1 
+Page 4 of 6
+Guideline for Bone Densitometer – Shielding, Monitoring and Positioning of Operators 
+19 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+Dual-energy X-Ray absorptiometry (DXA, or formerly DEXA) is a technique used to measure bone mineral 
+density (BMD). The preferred regions for BMD measurement are lumbar spine, proximal femur, and whole 
+body. The technique relies on transmission measurements made at two photon energies to allow calcium, and 
+thereby bone mineral, to be assessed.  
+The abbreviation “DXA” was proposed by the International Society for Clinical Densitometry (ISCD) in 2003, as 
+an alternative to “DEXA”. 
+1.1 
+Purpose 
+This guideline document is intended to ensure that license holders and users of bone densitometer are 
+updated with the requirements of the Act and Regulations. 
+1.2 
+Scope 
+The guideline outlines the requirements and recommendations for shielding, monitoring, and positioning 
+of operators during dual-energy X-Ray absorptiometry (DXA). 
+2. 
+LEGAL PROVISION 
+The Hazardous Substances Act, 1973 (Act 15 of 1973) and Regulations (No R1332 of 3 August 1973) govern 
+the safe use of X-Ray equipment in South Africa. 
+3. 
+Guideline Recommendations  
+3.1 
+Background  
+The patient dose from a DXA examination is determined by system dependent parameters such as source 
+spectra, source-detector geometry, beam collimation, beam filters, beam filtration, tube current and scan 
+speed.  
+ 
+These factors vary significantly between systems made by different manufacturers. Broadly similar levels 
+of dose are achieved when the radionuclide source is replaced by an X-Ray tube. The dose depends on the 
+precision of the BMD measurement as well as the site of investigation. This is commonly the spine, femur, 
+hip, or whole body.  
+ 
+The latest DXA scanners with fan beams provide improved images that approach diagnostic radiographic 
+quality. However, this increases the patient dose. Pencil beam scanners give lower doses than fan beam 
+SAHPGL-RDN-XR-07_v1 
+Page 5 of 6
+Guideline for Bone Densitometer – Shielding, Monitoring and Positioning of Operators 
+19 August 2022 
+ 
+ 
+systems. So far, there have been few investigations of cone-beam and C-arm systems, but initial reports 
+indicate the dose is higher than that from typical fan-beam systems. 
+3.2 
+Shielding requirements 
+I. 
+Walls - dry walls should provide sufficient shielding with a workload of less than 7500 
+examinations per year (20 examinations / day) 
+II. 
+Protective screen (preferably transparent lead-acrylic shielding). 
+III. 
+Only required if the distances below are not kept by the operator or the workload is more than 
+20 examinations / day. 
+3.1 
+Operator: Positioning 
+I. 
+Pencil beam densitometers: 
+ 
+The operator shall be positioned at least 1 metre from the edge of the scan table. 
+II. 
+Fan beam densitometers: 
+ 
+The operator shall be positioned at least 2 metres from the edge of the scan table. 
+3.2 
+Personal Monitoring  
+Personnel are required to wear personal dosimeters if the distances above are not kept, and a protective 
+screen not used. 
+ The dose to staff in DXA facilities is generally small. However, new developments in DXA imaging 
+technology (fan beam, cone beam, C-arm configurations) can result in larger scattered exposure 
+levels.  
+ In some examinations the operator may be present in the scanning room; thus, the scattered 
+radiation from the total annual patient workload must be considered when assessing occupational 
+dose levels.  
+ The reported scatter dose rates at 1m from the central axis of the patient table range from few 
+tenths of a µSv/h to 5 µSv/h, depending on the scanner model. 
+ From these values, recent calculations and measurements indicate that the annual dose for an 
+average workload (20 patients/day) at 1m from the scanner will be between 0.1 and 1.5 mSv 
+depending on the model of the scanner. 
+SAHPGL-RDN-XR-07_v1 
+Page 6 of 6
+Guideline for Bone Densitometer – Shielding, Monitoring and Positioning of Operators 
+19 August 2022 
+ 
+ 
+ These figures assume that staff do not comfort or hold children during examinations, and that this 
+is done by parents or other comforters/careers. 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+CRCPD Publication E-06-05 (October 2006) – Technical White Paper: Bone Densitometry  
+4.2 
+https://www.iaea.org/resources/rpop/health-professionals/other-specialities-and-imaging-
+modalities/dxa-bone-mineral-densitometry 
+4.3 
+BOUDOUSQ, V., KOTZKI, P.O., DINTEN, J.M., BARRAU, C., ROBERT-COUTANT, C., THOMAS, E., 
+GOULART, D.M., Total Dose incurred by patients and staff from BMD measurement using a new 2D 
+digital bone densitometer, Osteoporos. Int. 14 3 (May 2003) 263-269.  
+4.4 
+EUROPEAN COMMISSION, Council Directive 97/43/ EURATOM on Health Protection of Individuals 
+against the Dangers of Ionising Radiation in relation to Medical Exposure. Official Journal of the 
+European Communities, Luxembourg (1996).  
+4.5 
+EU 2000; Publication 118: Referral Guidelines.  
+4.6 
+EU 1998; Research Guidelines, Publication 99.  
+4.7 
+HUDA, W., MORIN, R.L., Patient doses in bone mineral densitometry, Br. J. Radiol. 69 821 (May 1996) 
+422-425.  
+4.8 
+LARKIN, A., SHEAHAN, N., GRAY, L., O’CONNOR, U., DOWLING, A., VANO, E., TORBICA, P., SALAT, D., 
+SCHREINER, A., NEOFOTISTOU, V., MALONE, J.F., Commissioning and Quality Assurance of Dual 
+Energy X-Ray Absorptiometry (DEXA) systems, Rad. Prot. Dosim. 2008 (in press).  
+4.9 
+LEWIS, M.K., BLAKE, G.M., FOGELMAN, I., Patient dose in dual X-Ray absorptiometry, Osteoporos. 
+Int. 4 1 (Jan.1994) 11-15. 
+4.10 SHEAHAN, N.F., DOWLING, A., O'REILLY, G., MALONE, J.F., Commissioning and quality assurance 
+protocol for dual energy X-Ray absorptiometry systems, Rad. Prot. Dosim. 117 (2005) 288-290.  
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Bone Densitometer – Shielding, Monitoring and Positioning of Operators, revised October 2009. It will be 
+reviewed on this timeframe or as and when required. 
+

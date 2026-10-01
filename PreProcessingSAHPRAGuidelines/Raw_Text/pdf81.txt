@@ -1,0 +1,1351 @@
+SAHPGL-PEM-VET-04_v4 
+Page 1 of 20
+ 
+ 
+ 
+27 June 2023 
+GENERAL INFORMATION GUIDELINE FOR REGISTRATION OF 
+VETERINARY MEDICINES 
+ 
+This guideline is intended to provide recommendations to applicants wishing to submit applications for the registration 
+of veterinary medicines.  It represents the South African Health Products Regulatory Authority’s (SAHPRA) current 
+thinking on the quality, safety, and efficacy of medicines.  SAHPRA reserves the right to request any additional 
+information to establish the quality, safety, and efficacy of a medicine in keeping with the knowledge current at the time 
+of evaluation.  It is not intended as an exclusive approach.  Alternative approaches may be used but these should be 
+scientifically and technically justified.  SAHPRA is committed to ensure that all registered veterinary medicines will be of 
+the required quality, safety, and efficacy.  Human medicines and medical devices including in vitro diagnostics are 
+addressed in separate guidelines. Guidelines and application forms are available from the SAHPRA website 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue and published for implementation 
+January 2004 
+2 
+Second issue and published for implementation 
+September 2019 
+3 
+Administrative changes to accommodate new registration process 
+July 2021 
+4 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+Old document number 3.01 changed to SAHPGL-PEM-VET-04 
+- 
+Administrative changes to accommodate new processes 
+June 2023 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+ 
+ 
+Fina doc for website
+SAHPGL-PEM-VET-04_v4 
+Page 2 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Legislation .................................................................................................................................................. 4 
+1.2 Scope ......................................................................................................................................................... 4 
+1.3 Applicant / PHCR/ HRC .............................................................................................................................. 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 5 
+2.1 Where to send applications ....................................................................................................................... 5 
+2.2 When a veterinary product should be registered ..................................................................................... 6 
+2.3 Types of Veterinary Medicine Applications ............................................................................................... 6 
+2.4 Evaluation Pathways .................................................................................................................................. 7 
+3. 
+REQUIREMENT AND PREPARATION OF AN APPLICATION ......................................................................... 9 
+3.1 Requirements ............................................................................................................................................ 9 
+3.2 Proprietary Name Policy (Section 15(3) of the Act) .................................................................................. 9 
+4. 
+MANUFACTURING REQUIREMENTS .......................................................................................................... 9 
+5. 
+SAMPLES .................................................................................................................................................. 10 
+6. 
+CODING OF SUBMISSIONS ....................................................................................................................... 10 
+6.1 Health Product Authorisation .................................................................................................................. 12 
+6.2 Fees .......................................................................................................................................................... 12 
+6.3 Cancellation or withdrawal of applications ............................................................................................. 12 
+7. 
+REFERENCES ............................................................................................................................................. 13 
+8. 
+VALIDITY .................................................................................................................................................. 13 
+9. 
+ADDENDA ................................................................................................................................................. 14 
+9.1 Addendum A: Same or Separate Applications ........................................................................................ 14 
+ 
+ 
+ 
+ 
+SAHPGL-PEM-VET-04_v4 
+Page 3 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+API 
+Active Pharmaceutical Ingredient 
+BCS 
+Biopharmaceuticals Classification System 
+CEP 
+Certificate of Suitability to the monographs of the European 
+Pharmacopoeia 
+CoA 
+Certificate of Analysis 
+CTD 
+Common Technical Document 
+FPP 
+Finished Pharmaceutical Product 
+GCP 
+Good Clinical Practice 
+GRP 
+Good Regulatory Practice 
+LOD 
+Limit of Detection 
+MRLs 
+Maximum Residue Limits 
+NCE 
+New Chemical Entity 
+PI 
+Professional Information 
+Ph.Eur 
+European Pharmacopoeia 
+ROS 
+Residue Overall Summary 
+ 
+ 
+SAHPGL-PEM-VET-04_v4 
+Page 4 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+1. 
+INTRODUCTION 
+This guideline describes the format, data requirements and information required for the preparation and 
+submission of an application for registration of veterinary medicines and for an application to amend a 
+registered veterinary medicine. The new medicines include new chemical entities (NCE), generics, clones and 
+replicas and line extensions. It is acknowledged, however, that in some instances scientific developments may 
+dictate alternative approaches.  When a deviation from a guideline is decided on, a detailed motivation giving 
+the reasons for the deviation and scientific justification for the alternative approach should be included in the 
+expert report.  
+Whenever there is doubt, applicants are advised to consult SAHPRA for clarification before completing and 
+submitting the application forms. The contact details for queries are VETqueries@sahpra.org.za 
+Guidelines are constantly evolving due to scientific developments and harmonisation of the technical 
+requirements at regional and international levels.  SAHPRA endeavours to regularly update the guidelines to 
+reflect current scientific thinking in line with “best international veterinary medicines regulatory practice”. 
+1.1 
+Legislation 
+The registration of veterinary medicines in South Africa is governed by the provisions of the Medicines and 
+Related Substances Act, 1965 (Act No. 101 of 1965) and the relevant regulations and guidelines. The 
+document should be read in conjunction with the Regulations and relevant VICH/SAHPRA/RRA guidelines. 
+The confidentiality of information submitted to SAHPRA is governed by Section 34 of the Act. The Authority, 
+advisory committee members and staff of the Authority may NOT 
+• 
+disclose to any person, any information acquired in the exercise of powers or performance of functions 
+under the Act and relating to the business affairs of any person, except for the purpose of exercising his / 
+her powers, or for the performance of his/her functions under the Act, or when required to do so by any 
+competent court or under any law, or with the written authority of the CEO, or 
+• 
+use such information for self-gain or for the benefit of his employer. 
+SAHPRA may insist on written confirmation of the identity and affiliation of an individual inquiring 
+telephonically, or in person, about a medicine. 
+1.2 
+Scope 
+Legislation requires that SAHPRA shall register every medicine before it may be sold / marketed. It is a legal 
+requirement that data submitted for evaluation should substantiate all claims and should meet technical 
+requirements of quality, safety, and efficacy for the purposes for which it is intended. The only exception 
+to this rule is if a Section 21 exemption is granted by SAHPRA for an unregistered medicine in terms of the 
+Act for certain purposes. 
+1.3 
+GENERAL: Applicant / PHCR/ HRC 
+The term ‘applicant’ can refer either to the proposed holder of the certificate of registration (PHCR), as in 
+the case of a new registration, or to the holder of the certificate of registration (HCR), as in the case of a 
+variation application. Throughout this document, the term ‘applicant’ is used to refer to either the PHCR or 
+the HCR, based on whichever is applicable. 
+Eligibility to apply for registration of a medicine is governed by Regulation 16 of the Act. An application may 
+be made by any of the following:  
+SAHPGL-PEM-VET-04_v4 
+Page 5 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+a) a person, body corporate / juristic person, company, residing and doing business in South Africa;  
+b) a close corporation incorporated in South Africa; or  
+c) a company in South Africa with at least 
+ - a responsible delegated person residing in South Africa and  
+- an authorised person residing in South Africa who must be a person with appropriate knowledge of all 
+aspects of the medicine and who shall be responsible for communication with the Authority.  
+The application submitted should be signed by the pharmacist authorised to communicate with the 
+Authority. This pharmacist should be in full-time employment of the company and may be:  
+• the Responsible Pharmacist in terms of the Pharmacy Act, 1974 (Act 53 of 1974) as amended, or  
+• another registered pharmacist responsible for regulatory affairs and with appropriate knowledge of all 
+aspects of the medicine.  
+The following should be included:  
+• proof of current registration (copy of certificate) of the pharmacist who signed the dossier, and  
+• proof of current registration of the Responsible Pharmacist in terms of Act 53/1974;  
+• an individualised, person-specific letter of authorisation for the signatory, issued by the person 
+responsible for the overall management and control of the business (CEO). (Note that such a letter is not 
+required for the Responsible Pharmacist if the Responsible Pharmacist signs the application.)  
+An applicant should submit a Site Master File (SMF) in accordance with the Site Master File Guideline 
+SAHPGL-INSP-04. For subsequent applications, reference to the allocated SMF number will suffice. 
+2. 
+LEGAL PROVISION 
+2.1.1 Where and how to send applications 
+Applications should be addressed to the Chief Executive Officer and should be clearly coded. Also refer to 
+the Variations Addendum: Document SAHPGL-HPA-06 for variations codes. 
+The medium for submitting the CTD and e-Submission related submissions to the authority is through the 
+online upload utility (refer to the SAHPGL-ICT-01_File Transfer Protocol (FTP) User Guide for Files/Dossier 
+Submission). A request for the File Transfer Protocol (FTP) User Guide for Files/Dossier Submission should 
+be sent to vetmedicines@sahpra.org.za. An applicant seeking access to the FPT should submit a request, 
+with their license number. 
+SAHPRA will not take responsibility for documents posted or delivered to any other place or in any other 
+manner. 
+2.1.2 Language 
+In terms of Regulation 16 (4) of the Act, all applications and supporting data submitted to SAHPRA should be 
+presented in English (UK)). Original documents not in English should be accompanied by an English translation. 
+SAHPGL-PEM-VET-04_v4 
+Page 6 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+2.1 
+When a veterinary product should be registered 
+A veterinary product is liable for registration with SAHPRA if any of the following apply.  
+2.1.1 Any of the ingredients of the veterinary product is listed in one of the Schedules to the Act; 
+2.1.2 The product is a veterinary medicine by virtue of the definition of a veterinary medicine in the Act. 
+The Act defines a medicine as: 
+a) means any substance or mixture of substances used or purporting to be suitable for use or 
+manufactured or sold for use in:- 
+(i) 
+the diagnosis, treatment, mitigation, modification, or prevention of disease, abnormal 
+physical or mental state or the symptoms thereof in humans; or 
+(ii) restoring, correcting, or modifying any somatic or psychic or organic function in humans, 
+and  
+b) includes any veterinary medicine 
+2.1.3 If the product falls under any of the pharmacological classifications as specified Annexure to the 
+Regulations. 
+2.1.4 The intended use of a product and the text/words used in promoting the product, even if no claims 
+are reflected on the label, render the product registerable. 
+NOTE: All scheduled substances are registerable under Act 101 of 1965, unless they are specifically 
+exempted from the requirements of the schedules in terms of Section 36 of the Act. 
+2.2 
+Types of Veterinary Medicine Applications 
+Medicine applications for registration for animal use are divided into the following types:  
+2.2.1 New chemical entity applications that include pre-clinical (including food safety, environmental 
+toxicity, and user safety) and clinical information in support of the efficacy and safety of the 
+formulation/dosage form, indication/s per species and dosage regimen. This includes clones to the 
+NCE. 
+2.2.2 Multisource/generic applications and innovator product line extension applications that include 
+clinical information in support of efficacy and safety of the formulation/dosage form, or indication/s 
+or dosage regimen. 
+2.2.3 Multisource/generic applications and innovator line extension applications that include 
+bioequivalence studies as proof of efficacy. 
+2.2.4 Multisource / generic applications and innovator line extension applications 
+• 
+that include comparative dissolution studies as proof of efficacy 
+• 
+that include any other comparative studies as proof of efficacy 
+2.2.5 Veterinary biological applications  
+• 
+May include but not limited to the following: (i) Plasma-derived products and (ii) 
+Biotechnology-derived medicinal products e.g., monoclonal antibodies 
+SAHPGL-PEM-VET-04_v4 
+Page 7 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+2.2.6 Post-registration variations concerning quality control for example change of FPRC or a 
+Pharmaceutical / Analytical Change must be submitted in the CTD. 
+2.3 
+Evaluation Pathways 
+Veterinary medicines applications for new registrations and variations in South Africa will follow one of 
+three evaluation / review pathways: 
+a) Full review 
+b) Abridged review 
+c) Verified review 
+2.3.1 Recognition 
+Review types (b), (c) (d) and (e) represent reliance pathways, which SAHPRA will be implementing to reduce 
+evaluation times. To qualify for a reliance pathway, an application must have received prior approval from 
+the reference recognised regulatory authority. The World Health Organisation defines reliance as “The act 
+whereby the regulatory authority in one jurisdiction may consider and give significant weight to (i.e., totally 
+or partially) evaluations performed by another regulatory authority or trusted institution in reaching its 
+own decision. The relying authority remains responsible and accountable for decisions taken, even when it 
+relies on the decisions and information of others.”  
+Wherever possible, SAHPRA will leverage these pathways, relying on the evaluation efforts of Recognised 
+Regulatory Authorities (RRAs) to reduce evaluation times. 
+General descriptions of the evaluation pathways are provided below: 
+a) Full review 
+A comprehensive / thorough review of all aspects of the dossier, based primarily on the evaluation of 
+data (and summaries thereof) submitted by the applicant. This is the default evaluation pathway for 
+new registrations and variations not previously approved by SAHPRA or a RRA, or where reliance 
+documentation provided to SAHPRA is deemed to be insufficient. 
+b) Abridged review 
+A streamlined review based primarily on un-redacted assessment reports from RRAs, replacing the 
+need to evaluate all of the data (and summaries thereof) submitted in support of an application. 
+c) Verified review 
+A streamlined review based primarily on verifying, instead of evaluating, information submitted in the 
+application against information which has already been approved by SAHPRA or a RRA. Note that un-
+redacted reports are required for clinical and quality reviews as a fall-back option for evaluators. 
+d) Recognition 
+A streamlined registration / approval process based on directly recognising the outcome of a review 
+from a RRA with which SAHPRA shares a collaborative agreement.  
+Note: SAHPRA is currently in the process of negotiating recognition agreements with RRAs. The 
+guiding principle is that applications approved by RRAs with which SAHPRA shares a recognition 
+agreement may not need to be fully evaluated separately by SAHPRA. 
+SAHPGL-PEM-VET-04_v4 
+Page 8 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+The abridged and verified review processes do not involve an abbreviated application – all data and 
+information required for a full review should be submitted, i.e., the full CTD structure and BMR 
+document. Evaluators may still need to review data in the dossier as required (even when presented 
+with un-redacted reports).  
+2.3.2 SAHPRA’s Recognised Regulatory Authorities for Registration of Veterinary Medicines 
+To qualify for a reliance evaluation pathway, an application must have been approved by one or more of 
+the RRAs with which SAHPRA aligns itself. SAHPRA’s current RRAs include: 
+US-FDA (CVM),  
+EMA (CVMP),  
+Japan Ministry of Agriculture, Forestry and Fisheries (JMAFF),  
+Health Canada (VDD),  
+Australia, (APVMA), 
+UK (VMD), 
+Swissmedic  
+New Zealand. 
+2.3.3 Application for reliance and expedited reviews 
+A given application often differs in complexity for clinical versus quality aspects and between various 
+species. Reliance pathways are applied independently for clinical and quality sections based on the quality 
+of documents submitted. This approach widens the use of reliance, by not limiting an application to the 
+same pathway / reference RRA throughout. For further guidance, please refer to the Vet Clinical Guideline 
+(document no 3.14) and the EMA/VICH guidelines.  
+2.3.3.1 Expedited review process: Refer to the latest version of HPA03-202223 Priority Review Requests 
+Communication. 
+2.3.3.2 Medicines for Use in a Public Health Emergency (PHE): Refer to the latest version of the guideline - 
+SAHPGL-PEM-01 Availability of medicines for use in a PHE. 
+2.3.4 Technical screening of applications 
+Applicants are to provide SAHPRA with the intended evaluation pathways for quality and clinical evaluation, 
+along with a brief motivation. Providing the intended pathways prevents unnecessary screening for reliance 
+documentation in instances where a full review is intended by the applicant. Request for a review pathway 
+must be included in the letter of request for an application number. 
+Decisions related to an application’s final evaluation pathway and the extent of reliance on a RRA’s 
+evaluation are fully at SAHPRA’s discretion and will depend on the availability and quality of reliance 
+documentation submitted. SAHPRA will share technical screening queries with applicants regarding 
+insufficient reliance documentation to ensure that as many applications as possible qualify for abridged and 
+verified reviews. Applications will default to a full review in the absence of a suitable reliance pathway. 
+SAHPGL-PEM-VET-04_v4 
+Page 9 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+2.3.5 Un-redacted/Redacted assessment reports and the Letter of Access 
+Where indicated as a requirement for an abridged or verified review, applicants are to provide SAHPRA 
+with full, un-redacted assessment reports from an RRA. The following requirements apply: 
+• 
+Un-redacted assessment / evaluation reports should at least include all aspects of safety, 
+environmental toxicity (if applicable) efficacy and quality report(s) prepared by the RRA upon 
+which the registration / approval decision was based 
+• 
+Where un-redacted assessment / evaluation reports from the RRA are in a language which is not 
+English, officially translated versions need to be provided  
+In instances where applicants do not have access to relevant un-redacted assessment reports, SAHPRA 
+requires a signed Letter of Access appended to the letter of application (see appendix for a template) 
+included in the application (appended to the letter of application). This letter should be sent to the Unit at 
+the point of request of an application number to allow the unit ample time to obtain the documentation 
+from the RRA However, SAHPRA does not guarantee that these reports will be obtained. For a single given 
+RRA, only one letter should be signed covering both quality and clinical access to the un-redacted reports. 
+The Letter of Access must also be signed by the MAH in the associated RRA country. 
+Note that SAHPRA prefers receiving un-redacted/redacted reports directly from the applicant and has 
+introduced the Letter of Access only for instances where this is not possible. 
+3. 
+REQUIREMENT AND PREPARATION OF AN APPLICATION 
+3.1 
+Requirements 
+Please note: The VMRF1 format is no longer acceptable since 31 December 2021. 
+3.1.1 For ZA CTD (Common Technical Document for South Africa) format submissions please refer to the 
+Guidance for the Submission of the South African CTD / eCTD General & Module 1. 
+For e-Submissions, PDFs will be accepted for a period to be determined by SAHPRA. All veterinary medicines 
+applicants need to request for an application number before submission of a registration dossier.  
+3.1.2 For Inspectorate-Veterinary medicines variations, that involve replacement or addition of a manufacturing 
+site/packaging site/ batch control or testing site, the applicant is required to submit the Veterinary Medicines Unit 
+Approval letter to the DVP as part of the supporting documents. 
+3.2 
+Proprietary Name Policy (Section 15(3) of the Act) 
+Refer to the current version of the Guideline on Proprietary Names for Medicines (document 2.15) 
+4. 
+MANUFACTURING REQUIREMENTS    
+The following related documents are referenced: 
+Only medicines manufactured, packed and quality controlled at sites compliant with the current principles of 
+Good Manufacturing Practice (GMP) as prescribed by SAHPRA will be considered for registration. 
+SAHPRA's general policy is that the standard to be used to assess compliance with current Good Manufacturing 
+Practice (cGMP), is the South African Guide to Good Manufacturing Practice (RSA guide to GMP) (latest edition: 
+SAHPGL-INSP-02) 
+SAHPGL-PEM-VET-04_v4 
+Page 10 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+Under Section 22C of the Act, all South African manufacturers should be licensed (effective 2 May 2004). 
+The aim of these licensing requirements and standards is to protect public health by ensuring that medicines 
+meet defined standards of quality and are manufactured in conditions that are clean and free of contaminants.  
+The Act requires that overseas manufacturers of medicine supplied to South Africa should comply with the 
+same or equivalent manufacturing standards as expected of South African manufacturers.   
+Evidence in relation to compliance with Good Manufacturing Practices of the overseas manufacturer is 
+required upfront for applications of registration of imported medicines.  When acceptable evidence of GMP 
+compliance is not available, overseas manufacturers are inspected by the South African GMP Inspectorate 
+before registration of the medicine is approved. 
+5. 
+SAMPLES 
+All medicine applications for registration must include a sample of a unit pack, Section 15(1) of the Act. 
+6. 
+CODING OF SUBMISSIONS and SPECIAL CONDITIONS 
+6A. Coding of applications / submissions / correspondence facilitates distribution, processing, and tracking. 
+The codes should be placed on the first page of each letter of application in bold lettering to reduce the 
+possibility of misdirection. 
+The code indicates the Unit to which the correspondence should be directed. The specific request should be 
+stated in the letter of application. When more than one code is applicable, each should be indicated. For 
+general correspondences, which do not have a letter of application, include a brief description in the subject 
+line as well as the code. All supporting documentation must be included with the letter of application. 
+Submission codes 
+ 
+CODE 
+SUBJECT 
+ANA 
+All new-registration applications (including extension applications) 
+AGC 
+General enquires and correspondence – Health Product Authorisation 
+RGC 
+General enquires and correspondence – Veterinary Medicines Unit 
+PGC 
+General enquires and correspondence – Pharmaceutical Evaluation and Registration (PE&R) 
+SGC 
+General correspondence involving enquiries on policy issues and changes that are not product- 
+specific 
+VPA 
+All variation applications 
+BGC 
+Inspectorate and Regulatory Compliance 
+ 
+6B. Variations Permitted during the Registration Process 
+All applications for registration in terms of Section 15 of the Act 101 are required to be complete in terms of 
+the CTD and data requirements and no variations during the registration process are permissible except for 
+the following: 
+• 
+Transfer of Applicancy with motivation in exceptional circumstances  
+• 
+Urgent restriction safety updates as requested by or as deemed necessary by SAHPRA or 
+the applicant following consultation with SAHPRA 
+SAHPGL-PEM-VET-04_v4 
+Page 11 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+• 
+Updated reliance documentation, e.g., where an RRA approval is obtained for the product 
+after the application was submitted to SAHPRA 
+ 
+6C. Permissible review response rounds and period for response submissions 
+• 
+SAHPRA’s review process for new medicines and variations will permit for all units a maximum  
+number of three response rounds. If the applicant fails to address the queries adequately by the third query 
+round, the application will be tabled for rejection from the respective unit. 
+• 
+Each response timeframe should be no longer than 30 working days from the date sent to the  
+Applicant 
+• 
+Applicants may submit a *written request for one extension of timeline for a response per  
+response round and which may not exceed a further 30 working days. Requests will only be considered by the 
+Authority if the applicant provides appropriate scientific justification.  
+Note: If an applicant does not respond to the queries and does not communicate any request for extension, 
+their application will be tabled for rejection. 
+6D Renewals 
+Refer to the latest version of the following documents: 
+• SAHPGL-HPA-04 Renewal of Human and Veterinary Medicines Requirements and Process 
+• Communication on Medicines Registration Renewals Implementation Framework 
+• Renewals Frequently Asked Questions (FAQs) 
+ 
+6E. Responsibilities of Relevant Units 
+In order to facilitate the correct coding of correspondences, examples of the responsibilities of each relevant 
+unit are outlined below. 
+Pharmaceutical Evaluation and Management (PEM) 
+It comprises the following sub-units: Veterinary medicines, Complementary medicines, Human Biologicals, 
+Human quality and bioequivalence assessments pre and post registration. 
+Veterinary medicines unit 
+The Veterinary Medicines Unit is responsible for: 
+a) evaluation of clinical and pre-clinical data including clinical aspects of the Professional Information 
+and relevant changes to veterinary medicines. 
+b) evaluation of clinical trial protocols and clinical trial amendments; 
+c) reporting of adverse events arising from a clinical trials and use of registered veterinary medicine 
+d) authorisation of use of unregistered medicines for named patience and for clinical trial purposes. 
+e) Quality evaluation of the drug substance (API) and drug product (finished pharmaceutical 
+SAHPGL-PEM-VET-04_v4 
+Page 12 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+product); 
+f) Bioequivalence evaluation of generic veterinary medicines 
+Inspectorate and Regulatory Compliance 
+The Inspectorate and Regulatory Compliance Unit is responsible for: 
+a) inspection and evaluation of sites for the manufacturing, packing, and testing of medicines 
+nationally and internationally, as well as inspection and evaluation of all storage and distribution 
+sites for medicines prior to issuing a license; 
+b) investigation of complaints regarding registered and unregistered medicines; 
+c) monitoring compliance to the Act and prosecution in case of non-compliance; 
+d) monitoring the importation and exportation of medicines in consultation with customs 
+authorities; 
+Please note: Evaluation of proprietary names and changes thereto have now been moved to the Clinical Unit 
+(CEM). 
+6.1 
+Health Product Authorisation  
+The Health Products Authorisation Unit is responsible for the following: 
+a) receiving and acknowledging applications for registration of medicines and for amendment of 
+registration dossiers; 
+b) receiving correspondence dealing with administrative processes, registration and other 
+application forms, and registration policy information documents and guidelines; 
+c) applicant transfers and applicant name and address changes; 
+d) cancellations of registered medicines and withdrawal of applications 
+e) tracking of new applications and variations to registered medicines 
+6.2 
+Fees 
+6.2.1 The fees payable are published in the Government Gazette (document no 42474) also available on 
+the website. 
+6.2.2 Methods of payment: Electronic payment / direct transfer. Cheques are no longer accepted as a 
+method of payment.  
+Refer to the Bank Details for Direct Payment of Fees to SAHPRA Guideline (document 17.02) for 
+electronic payment / direct transfer. 
+6.2.3 Proof of electronic payment / direct transfer must be submitted in a separate envelope attached to 
+a copy of the signed letter of application of the relevant submission(s). 
+6.2.4 To ensure evaluation of the relevant submission(s) a copy of proof of payment must also be attached 
+to the original signed letter of application of the relevant submission. 
+6.3 
+Cancellation or withdrawal of applications 
+SAHPGL-PEM-VET-04_v4 
+Page 13 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+HCRs of medicines and applicants should, before applying to the Authority, carefully consider any decision 
+to cancel or withdraw, a registration or application for registration respectively, as the Authority after 
+consideration of all issues involved has resolved the following with immediate effect. 
+6.3.1 Any medicine 
+• 
+of which the registration has been cancelled, or any “old medicine” of which the application for 
+registration has been withdrawn by notice in the Government Gazette, and  
+• 
+for which a written application or request to the CEO has been submitted by the holder of a 
+certificate of registration or by the applicant, 
+• 
+will under no circumstances be re-instated. 
+6.3.2 Should the applicant desire to re-register such medicine, a new application for registration of a 
+medicine must be submitted in accordance with the requirements of the Act and the relevant 
+Regulations. 
+6.3.3 An application for registration of a medicine may at whatever stage of processing be withdrawn by 
+written application to the CEO.  The withdrawal shall under no circumstances be reversed once such 
+an application is approved and the approval confirmed in writing.  A new application for registration 
+must be submitted should the applicant wish to proceed with registration thereafter. 
+7. 
+REFERENCES 
+The following related documents are referenced: 
+7.1 SAHPGL-PEM-VET-03_v2 Guideline for Veterinary Medicines Exemptions from Certain Medicine 
+Registration Requirements 
+7.2 SAHPGL-PEM-VET-02_v2 VETERINARY MEDICINES CLINICAL GUIDELINE 
+7.3 2020.12.22 Fees payable GG No 44026, no 1379 
+7.4 SAHPGL-INSP-02 Guideline for Good Manufacturing Practice 
+7.5 17.05 Payment Guideline 
+7.6 5.08 Reliance Guideline 
+7.7 SAHPGL-HPA-04 Renewal of Human and Veterinary Medicines Requirements and processes 
+7.8 SAHPGL-PEM-01 Availability of medicines in a Public Health Emergency (PHE) 
+7.9 SAHPGL-HPA-06 Variations Addendum For Human And Veterinary Medicines 
+8. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces a guideline for 
+General Information for Registration of Veterinary Medicines, old document number 3.01. It will be reviewed 
+on this timeframe or as and when required. 
+ 
+SAHPGL-PEM-VET-04_v4 
+Page 14 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+9. 
+ADDENDA 
+9.1 
+Addendum A: Same or Separate Applications 
+For the purpose of registration, the following products will be regarded as either being the same product 
+or separate product applications: 
+TYPE OF APPLICATIONS 
+Application 
+Same 
+Separate 
+7.1 Each individual dosage form of a particular medicine 
+   
+X 
+7.2 Variations of the active ingredient of a product 
+ 
+X 
+7.3Tablets Capsules/Suppositories/ Lozenges 
+ 
+ 
+a) Different pack-sizes of exactly the same strength and formulation.  
+X 
+ 
+b) Different strengths and formulations. 
+ 
+X 
+c) Uncoated and coated tablets of the same strength and formulation. 
+ 
+X 
+7.4 Syrups/Liquids/Solutions (excluding parenteral) /Creams/Ointments 
+ 
+ 
+a) Different container sizes of the same strength and formulation. 
+X 
+ 
+b) The same container size of different strengths and formulations. 
+ 
+X 
+2.7.5 Ampoules and Vials and Large Volume Parenterals  
+Same 
+Separate 
+a) Ampoules containing identical solutions of the same strength (provided the 
+dose remains constant) but of different volumes.  
+ 
+X 
+b) Ampoules containing solutions of different strengths. 
+ 
+X 
+c) Ampoules and single dose vials containing e.g. dry powder, crystals of 
+different mass. 
+ 
+X 
+d) Ampoules and single dose vials containing the same respective masses of 
+e.g. dry powder, crystals. 
+X 
+ 
+e) Ampoules, single dose vials, as well as pre-filled disposable syringes and 
+cartridges containing identical solutions of the same strength and same 
+volume of liquid. 
+X 
+ 
+f) Dental cartridges containing different volumes of fluids of the same strength 
+(provided the dose remains constant). 
+X 
+ 
+g)  Ampoules containing “water for injection”, but of different volumes. 
+X 
+ 
+h)  Special ampoules of dry powder and “water for injections” contained in the 
+same unit, but intended for mixing at the time of injection if water for 
+injections is fully described in dossier. 
+X 
+ 
+i) Ampoules containing identical solutions of different volumes used only as 
+diluent in the reconstitution of a preparation for parenteral use. 
+X 
+ 
+j) Multidose vials containing different volumes of the same strength and 
+formulation with the same dosage schedule. 
+X 
+ 
+k) Multidose vials and a single dose ampoule of the same formulation if the 
+single-dose ampoule corresponds to the dose indicated for the multi-dose 
+vial. 
+X 
+ 
+SAHPGL-PEM-VET-04_v4 
+Page 15 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+ 
+l) Multidose vials containing dry powder of different mass of the same 
+formulation, and the same concentration when reconstituted. 
+X 
+ 
+m) An ampoule of diluent packed together with any preparation including 
+biological medicines if diluent is fully described in dossier. 
+X 
+ 
+n) Infusion solutions of the different volumes and of the same formulation which 
+are packed in containers of exactly the same type of material depending on the 
+relevant information submitted. 
+X 
+ 
+o) Infusion solutions of the same formulation and of the same or different volume 
+which are packed in containers made of different types of materials. 
+X 
+ 
+p) A preparation, packed in plastic containers, intended to be marketed in glass 
+containers containing the same volume and the same formulation. 
+X 
+ 
+q) Products with the same strength and formulation but with different colours 
+and/or flavours. 
+ 
+X 
+r) Applications containing the same active ingredient(s) applying for additional 
+indications which render the product in a different scheduling status, or 
+different pharmacological classification, or have any other restrictions imposed 
+other than the original application. 
+ 
+X 
+7.5 
+ Same formulation with different proprietary names whether of the same or 
+different applicants 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The following table guides the veterinary medicines applicants which documents should be compiled for CTD 
+submission: 
+ 
+DOSSIER CTD MODULES FOR REGISTRATION OF A VETERINARY MEDICINE 
+ 
+Section 
+MODULE 
+COMMENTS 
+2.1 
+ 
+2.1.1 
+MODULE 1: ADMINISTRATIVE INFORMATION 
+ 
+Cover letter 
+ 
+SAHPGL-PEM-VET-04_v4 
+Page 16 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+ 
+2.1.2 
+Comprehensive Table of Contents 
+A complete list of all documents provided in the product 
+dossier by module 
+ 
+2.1.3 
+Completed, signed, and dated application 
+form 
+ 
+ 
+2.1.4 
+Declaration by applicant 
+ 
+ 
+2.1.5 
+Screening checklist 
+ 
+ 
+2.1.6 
+Proof of payment of appropriate fees 
+ 
+ 
+2.1.7 
+Manufacturing and Marketing 
+Authorization(s) 
+ 
+ 
+2.1.8 
+Summary of Product Characteristics (SmPC) 
+and Proposed Package Insert 
+ 
+ 
+2.1.9 
+Labelling 
+ 
+2.2 
+MODULE 2 
+ 
+ 
+2.2.1? 
+Quality Overall Summary – Product Dossiers 
+(QOS – PD) 
+ 
+ 
+2.2.2? 
+Quality Information summary/SCoRE doc 
+ 
+3 
+MODULE 3 
+ 
+ 
+Table of Contents of Module 3 
+ 
+3.2.S 
+ACTIVE PHARMACEUTICAL INGREDIENT (API) 
+ 
+ 
+3.1 
+Approved API source(s) 
+ 
+DMF1 
+ 
+CEP2 with annexes 
+ 
+ 
+3.2.S.1 
+General Information 
+ 
+ 
+3.2.S.1.1 
+Nomenclature 
+ 
+ 
+3.2.S.1.2 
+Chemical Structure 
+ 
+ 
+3.2.S.1.3 
+Physicochemical Properties 
+ 
+ 
+3.2.S.1.4 
+Physical Description 
+ 
+ 
+3.2.S1..5 
+Solubility/Quantitative Aqueous pH Solubility 
+Profile 
+ 
+ 
+3.2.S.1.6 
+Polymorphs 
+ 
+ 
+3.2.S.1.7 
+Particle Size Distribution 
+ 
+ 
+ 
+3.2.S.2 
+Manufacture 
+ 
+ 
+ 
+3.2.S.2.1 
+Manufacturer(s) name and address 
+ 
+ 
+3.2.S.2.2 
+Description of Manufacturing Process and 
+Process Controls 
+ 
+ 
+ 
+3.2.S.2.3 
+Control of Materials 
+ 
+ 
+ 
+3.2.S.2.4 
+Controls of Critical Steps and Intermediates 
+ 
+ 
+ 
+3.2.S.2.5 
+Process Validation and/or Evaluation 
+~ Must be submitted for sterile APIs and NCEs  
+ 
+For applications with DMF, sections S2.3, 
+S2.4, S2.5 and S2.6 are included in the closed 
+part of DMF 
+ 
+3.2.S.3 
+CHARACTERISATION 
+ 
+Section 
+Documents 
+ 
+SAHPGL-PEM-VET-04_v4 
+Page 17 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+ 
+3.2.S.3.1 
+Elucidation of Structure and other 
+Characteristics 
+ 
+ 
+3.2.S.3.2 
+Impurities 
+ 
+3.2.S.4 
+CONTROL OF DRUG SUBSTANCE 
+ 
+ 
+3.2.S.4.1 
+API Specifications 
+ 
+ 
+3.2.S.4.2 
+Analytical Procedures 
+ 
+ 
+3.2.S.4.3 
+Validation of Analytical Procedures 
+ 
+ 
+3.2.S.4.4 
+Batch Analysis 
+ 
+ 
+3.2.S.4.5 
+Justification of Specification 
+ 
+3.2.S.5 
+REFERENCE STANDARDS 
+ 
+3.2.S.6 
+CONTAINER CLOSURE SYSTEM 
+ 
+ 
+ 
+Specifications and Test Methods 
+ 
+3.2.S.7 
+Stability 
+ 
+3.2.S.7.1 
+Forced degradation (stress) studies 
+ 
+3.2.S.7.2.1 
+Accelerated and Long-term studies 
+ 
+3.2.S.7.2.2 
+Drug substances intended for storage in a 
+refrigerator 
+ 
+3.2.S.7.2.3 
+Drug substances intended for storage in a 
+freezer 
+ 
+3.2.S.7.2.4 
+Drug substances intended for storage -20 0C 
+ 
+3.2.S.7.3 
+Proposed storage conditions and re-test 
+period 
+ 
+3.2.P 
+FINISHED PHARMACEUTICAL PRODUCT (FPP) 
+ 
+3.2.P.1 
+Description of the Drug Product 
+ 
+3.2.P.2 
+Pharmaceutical Development 
+ 
+3.2.P.2.1 
+Formulation and Process Development 
+ 
+3.2.P.2.2 
+Physicochemical Characteristics of the Drug 
+Substance 
+ 
+3.2.P.2.3 
+Compatibility 
+ 
+3.2.P.2.4 
+Physicochemical Characteristics of the Drug 
+Product Relevant to Performance 
+ 
+3.2.P.2.5 
+Microbiological Attributes 
+ 
+3.2.P.2.6 
+Container Closure System 
+ 
+3.2.P.3 
+Manufacture 
+ 
+ 
+3.2.P.3.1 
+Manufacturer(s)  
+ 
+ 
+3.2.P.3.2 
+Formulae 
+ 
+ 
+3.2.P.3.2.1 Unit Formula 
+ 
+ 
+3.2.P.3.2.2 Batch Formula 
+ 
+ 
+3.2.P.3.3 
+Manufacturing Process  
+ 
+ 
+3.2.P.3.4 
+Process validation 
+~For three consecutive batches 
+ 
+ 
+3.2.P.3.4.1 Sterile Products 
+ 
+ 
+3.2.P.3.4.2 Non-sterile Products 
+ 
+3.2.P.4 
+Control of Excipients 
+ 
+ 
+3.2.P.4.1 
+Specifications 
+ 
+ 
+3.2.P.4.2 
+Analytical Procedures and Validation 
+ 
+ 
+3.2.P.4.3 
+Justification of Specifications 
+ 
+ 
+3.2.P.4.4 
+Excipients of Human or Animal Origin 
+ 
+SAHPGL-PEM-VET-04_v4 
+Page 18 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+*: BSE / TSE free certification 
+ 
+3.2.P.4.5 
+Novel excipients 
+*: Provide information provided as per full API 
+Section 
+ 
+3.2.P.5 
+Control of FPP 
+ 
+ 
+3.2.P.5.1 
+Finished Product Specifications 
+ 
+ 
+3.2.P.5.2 
+Analytical Procedures 
+ 
+ 
+3.2.P.5.3 
+Validation of Analytical Procedures                  
+ 
+ 
+3.2.P.5.4 
+Batch Analysis  
+ 
+ 
+3.2.P.5.5 
+Justification of Specification 
+ 
+3.2.P.6 
+Reference Standards 
+ 
+3.2.P.7 
+Packaging/Container Closure System 
+ 
+ 
+3.2.P.7.1 
+Specifications and Test Methods 
+ 
+3.2.P.8 
+Stability 
+ 
+3.2.P.8.1 
+Accelerated and Long-term Studies (General Case) 
+ 
+3.2.P.8.1.1 
+Medicinal substances intended for storage in a refrigerator 
+ 
+3.2.P.8.1.2 
+Medicinal substances intended for storage in a freezer 
+ 
+3.2.P.8.1.3 
+Medicinal substances intended for storage below -20 0C 
+ 
+3.2.P.8.2 
+Proposed Storage Conditions and Shelf-life 
+ 
+3.2.P.8.3 
+Stability Commitment 
+ 
+3.2.8 
+Additional Information 
+ 
+3.2.8 
+Stability of Medicated Feeds 
+ 
+3.2.8 
+Mixing Studies 
+ 
+3.2.8 
+Premixes Proposed for Concurrent Use 
+ 
+3.2.8 
+Feed Assay Validation 
+ 
+3.2.8 
+Samples 
+ 
+3.2.R 
+REGIONAL INFORMATION/ REQUIREMENTS 
+ 
+ 
+3.2.R.1 
+Production documentation 
+ 
+ 
+3.2.R.1.1 
+Master production documentation 
+ 
+ 
+3.2.R.1.2 
+Executed production documentation 
+ 
+Section 
+DOCUMENTS 
+ 
+ 
+ 
+ 
+4.1 
+MODULE 4 
+NON-CLINICAL PHARMACO-TOXICOLOGICAL 
+DATA 
+A must for new pharmaceutical active ingredients 
+4.2 
+Data presentation 
+Involves initial studies in laboratory animals and later pre-
+clinical studies in the target species, which should take into 
+consideration the following:  
+1. Pharmacology 
+2. Toxicology 
+3. Discussions and conclusions 
+4. Expert report 
+4.3 
+Pharmacodynamics 
+Tests performed to establish the pharmacological actions 
+that are relevant to the proposed indication(s) of the API 
+and mechanisms of action 
+4.4 
+Other actions (desired/undesired) 
+Summary of action(s) other than those of therapeutic use. 
+E.g. significant adverse reactions 
+4.5 
+Pharmacodynamic interactions 
+ 
+4.6 
+Pharmacokinetics 
+Pharmacokinetics studies should be made with single dose 
+by various routes.  
+4.7 
+Absorption 
+ 
+4.8 
+Distribution of API and metabolites 
+ 
+SAHPGL-PEM-VET-04_v4 
+Page 19 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+4.9 
+Biotransformation 
+ 
+4.10 
+Pharmacokinetic interactions 
+ 
+4.11 
+Excretion 
+ 
+4.12 
+Toxicological studies 
+Should be described in relation to the proposed clinical use. 
+4.13 
+General toxicity studies 
+ 
+4.14 
+Acute, sub-acute and long-term toxicity 
+studies 
+ 
+4.15 
+Safety to users 
+Studies on potential harmful effects to exposure by various 
+routes, e.g. inhalation, topical contact, oral ingestion, 
+performed on laboratory animals 
+4.16 
+Risk assessment of veterinary medicines 
+residues in food of animal origin 
+4.16 
+RESIDUE STUDIES 
+4.16.1 
+Situations and conditions when the residue  data 
+ 
+requirements could be waived 
+4.16.2 
+Situations and conditions when the residue  data 
+ 
+requirement cannot be waived 
+4.16.3 
+Residue depletion study 
+4.16.4 
+Comprehensive residue depletion study 
+4.16.5 
+Analytical methodology 
+4.17 
+Toxicity to the environment 
+Products requiring environmental assessment include: 
+(a) Antibiotics in poultry, pig, and fish feeds 
+(b) Anthelmintics in large animals 
+(c) Expired medicines from veterinary hospitals/clinics, co-
+ops and manufacturing plants 
+ 
+4.18 
+Presentation of safety studies 
+ 
+5.1 
+MODULE 5 
+EFFICACY DATA 
+Applicable to new chemical entities and bioequivalence 
+studies. A summary of well presented, controlled blinded 
+clinical trials conducted in target animals investigating the 
+pharmacological and therapeutic properties, and adverse 
+reactions is required. GCP compliant studies. 
+ 
+Registration details 
+ 
+ 
+List of countries where product is registered 
+ 
+Proof of registration countries with stringent regulation (VICH 
+founding and standing members)  
+ 
+ 
+ 
+Sample of FPP 
+ 
+ 
+5.2 
+Pharmacodynamic studies (target animals) 
+ 
+ 
+5.3 
+Pharmacokinetics and bioavailability of the 
+medicine in target animals 
+ 
+ 
+5.4 
+Efficacy clinical end point studies in target 
+species 
+ 
+ 
+LETTER OF ACCESS FOR RELIANCE DOCUMENTATION 
+To be completed by the applicant / holder of certificate of registration1 / principal from whom the 
+document was purchased for submission in South Africa, based on which party submitted the dossier to the 
+RRA: 
+ 
+Details of foreign registration 
+Recognised Regulatory Authority(ies) (RRAs) 
+{Insert name of recognised regulatory 
+authority(ies) here} 
+SAHPGL-PEM-VET-04_v4 
+Page 20 of 20
+General Information Guideline for Registration of Veterinary Medicines 
+27 June 2023 
+ 
+ 
+Proprietary name(s) of reference product(s) 
+registered with RRA(s) 
+{Insert the proprietary name(s) of the 
+associated product(s) which has been 
+registered with the RRA(s) listed above} 
+Active Pharmaceutical Ingredient(s) (APIs) 
+Registration date 
+Date(s) of approval of post-registration 
+variation(s) if applicable 
+Details of SAHPRA application 
+SAHPRA application number 
+Product / proprietary name proposed to 
+SAHPRA 
+ 
+I hereby authorise SAHPRA to contact the above-specified regulatory authority or authorities to obtain 
+reliance documentation for registered products. Reliance documentation includes, but is not limited to: 
+ 
+• 
+The full, unredacted assessment / evaluation reports and inspection outcomes / reports 
+ 
+• 
+Results of laboratory testing 
+ 
+• 
+Assessment and inspection reports of other regulatory authorities, provided that these authorities 
+gave their written consent to the use of such reports 
+ 
+Full name of Responsible pharmacist / Person authorised to communicate with the authority: Job 
+title, company: 
+Email address: 
+Telephone number: 
+ 
+Signature: 
+ 
+Date: 
+Place: 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Also referred to as marketing authorisation holder 
+

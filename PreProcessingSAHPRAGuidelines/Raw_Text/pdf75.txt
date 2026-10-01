@@ -1,0 +1,354 @@
+SAHPGL-HPA-08_v3 
+Page 1 of 8
+DOCUMENT NAME 
+11 December 2023 
+ 
+ 
+ 
+11 December 2023 
+MULTIPLE APPLICATIONS GUIDELINE  
+This guideline is intended to provide recommendations to applicants wishing to submit multiple applications for 
+the registration of medicines.  It represents the South African Health Products Regulatory Authority’s (SAHPRA) 
+current thinking on the safety, quality and efficacy of medicines.  It is not intended as an exclusive approach.  
+SAHPRA reserves the right to request any additional information to establish the safety, quality and efficacy of a 
+medicine in keeping with the knowledge current at the time of evaluation.  Alternative approaches may be used 
+but these should be scientifically and technically justified.  SAHPRA is committed to ensure that all registered 
+medicines will be of the required quality, safety and efficacy.  It is important that applicants adhere to the 
+administrative requirements to avoid delays in the processing and evaluation of applications. 
+ 
+Guidelines and application forms are available on the website, www.sahpra.org.za.  
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+Published for comment 
+30 September 2013 
+2 
+Published for comment 
+16 September 2015 
+3 
+Published for Implementation  
+• 
+new applications 
+• 
+Applications in the System 
+December 2015 
+With immediate effect 
+ 
+4 
+Change from MCC to SAHPRA 
+Changes to Section 1.2, 5 (old 6) and 7 (old 5) 
+Section 5 moved to 7 
+New section 6 
+May 2019 
+5 
+Update to new SAHPRA guideline template 
+Added sections 1.2, 2, 3.3, 5 & 6. 
+Changes to Section 4.1, 4.5, 4.6, 4.7 & 4.8.2.  
+Deleted sections 4.4, 4.8.1, 4.8.3, 4.8.4 & 5.  
+December 2023 
+Implementation date: 
+01 January 2024 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+SAHPGL-HPA-08_v3 
+Page 2 of 8
+DOCUMENT NAME 
+11 December 2023 
+ 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 5 
+1.1 
+Purpose ...................................................................................................................................................... 5 
+1.2 
+Scope .......................................................................................................................................................... 5 
+2.        LEGAL PROVISION…………………………………………………………………………………………………………………………………5 
+3. 
+GENERAL ..................................................................................................................................................... 5 
+3.1 
+Process for duplicate applications ............................................................................................................. 5 
+3.2      Process for Clones…………………………………………………………………………………………………………………………………7 
+3.3      Process for Replicas………………………………………………………………………………………………………………………………7 
+3.3.1   Replica from same applicant………………………………………………………………………………………………………………..7 
+3.3.2   Replica from different applicant…………………………………………………………………………………………………………..8 
+4.        FEES PAYABLE……………………………………………………………………………………………………………………………………….9 
+5. 
+REFERENCES ............................................................................................................................................... 9 
+6. 
+VALIDITY ..................................................................................................................................................... 9 
+ 
+ 
+ 
+ 
+SAHPGL-HPA-08_v3 
+Page 3 of 8
+DOCUMENT NAME 
+11 December 2023 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+API  
+Active Pharmaceutical Ingredient (also known as Drug Substance)  
+Clone  
+Application submitted by the HCR of the innovator as a copy of its own 
+product under a different proprietary name at any stage during the product 
+life cycle of the registered product. 
+Duplicate or Multiple 
+Two or more applications submitted simultaneously by the same applicant, 
+which are identical in every aspect except for the proposed proprietary 
+name(s) and include duplicate or multiple applications of innovator and 
+generic products.  
+eCTD   
+Electronic Common Technical Document  
+FPP  
+Finished Pharmaceutical Product  
+HCR  
+Holder of Certificate of Registration  
+Master dossier 
+Is the first or original application submitted for registration on which the 
+duplicate, clone and replica applications is based. 
+NCE 
+New Chemical Entity 
+QIS 
+Quality Information Summary 
+QOS 
+Quality Overall Summary 
+Replica 
+A copy of an already registered generic product, submitted by the same or by 
+another applicant at any stage during the product life cycle of the registered 
+product. 
+ 
+ 
+ 
+SAHPGL-HPA-08_v3 
+Page 4 of 8
+DOCUMENT NAME 
+11 December 2023 
+ 
+ 
+1. 
+INTRODUCTION 
+Applicants often submit multiple applications for the same product under different proprietary names. 
+Generally, in practice the first application is compiled by the applicant and then additional applications 
+for the additional product names are prepared by replacing the proprietary name of the first, or 
+master application, with each of the additional proprietary names. 
+These types of submissions are generally referred to as ‘duplicates’ / ‘multiples’ or in Europe as 
+‘clones’ and should not be confused with the applications for the same molecule from different 
+Applicants, final product (FPP) and active pharmaceutical ingredient (API) manufacturers. 
+Sometimes the additional applications are not submitted together with the first or master application 
+but can be submitted many years later. 
+1.1 Purpose 
+The aim of this guideline is to assist applicants wishing to submit multiple applications for the 
+registration of medicines including post-registration variations. The types of medicine, which this 
+guideline refers to, include applications for a new chemical entity (NCE), new biological medicine, a 
+multisource (generic) product or a biosimilar product, including clones and replicas.  
+1.2 Scope 
+A duplicate application may be for an innovator or a generic or a biosimilar product. 
+A duplicate application must be submitted at the same time as the master application.  If, for example, 
+an application is submitted days, months or years after the master, it is regarded as not being linked to 
+a master and would follow the normal evaluation process. 
+An application for a clone or replica is submitted after the registration of the original product. 
+2. 
+LEGAL PROVISION 
+There are no legal provisions for this guideline. 
+3. 
+GENERAL 
+3.1 Process for duplicate applications 
+3.1.1 
+A single “master” dossier for an application for registration or to support the submission of post-
+registration variations is required with a module 1.2.1 for each proprietary name.  The application 
+must be accompanied by photographs of all dimensions of the sample in the final primary 
+packaging and of the sample itself and a single professional information and patient information 
+leaflet where the product name is indicated as [PRODUCT NAME].  A list of all the proposed 
+proprietary names must be included in module 1.5.3.  The application must be accompanied by 
+the applicable application fees for each application. 
+3.1.2 
+The applicant must indicate which proprietary name should be regarded as the “master”; if not 
+indicated the invented name will usually be regarded as the master. 
+3.1.3 
+Additional product applications (same API and source, same indications, same FPP manufacturer) 
+SAHPGL-HPA-08_v3 
+Page 5 of 8
+DOCUMENT NAME 
+11 December 2023 
+ 
+ 
+not linked to the master will not be handled as a duplicate application.  In this case, each 
+application will stand on its own, and be evaluated on its own, and a Technical Evaluation Unit 
+query letter on one product may not be applied and responded to for the other applications. 
+An application number is allocated to the master dossier, and for each of the additional 
+proprietary names.  
+3.1.4 
+The single master dossier is fully evaluated by all the relevant Technical Evaluation Units and all 
+the proposed proprietary names for the master and duplicate dossiers are reviewed by the Names 
+and Scheduling Unit. 
+3.1.5 
+When approved by all Technical Evaluation Units the master product and all the duplicates are 
+registered. 
+3.1.6 
+A registration certificate is issued for each approved proprietary name. 
+3.1.7 
+Pre- and Post-registration changes are affected to and reviewed only for the single master dossier 
+and is implemented across all the duplicate/clone/replica dossiers, as applicable. 
+3.1.7.1 If an application is made for a variation which is not intended to be implemented across all the 
+duplicate/clone/replica dossiers, the affected dossier must be delinked/submitted separately 
+and will be a stand-alone dossier.  Such an application requires submission of a complete 
+approved baseline dossier, sequence 0000 together with the relevant variation and the 
+applicable fee(s) in sequence 0001.  
+The variation application and applicable fee for an amended registration certificate for the 
+delinked dossier should be applied for after approval of the technical variation in a follow-up 
+sequence. The approval letter of the technical variation should be included in the certificate 
+variation application. This variation application should be addressed to both the Inspectorate 
+and Certification Variation Units.  
+3.2 Clones 
+3.2.1 Where the original registered dossier is still in paper format, a submission in eCTD format will be  
+required as for a baseline submission, as sequence 0000.  The application for the clone will then  
+be sequence 0001. 
+Refer to guideline SAHPGL-HPA-10 Submission in eCTD format. 
+Include copies of the latest Authority letters of 
+• approval of any variations or variation summary from the DVP to the registered product, 
+including the PI and PIL, 
+• the allocation of the shelf-life of the product, and  
+• the allocation of the retest/shelf-life period of the API/s  
+as bookmarked annexes to the letter of application in section 1.0 
+At this stage different strengths should be combined into one dossier, with the first application    
+number being used as the eCTD identifier. 
+An application for a clone should not be submitted if there are amendments to the registered  
+product pending Authority approval. 
+SAHPGL-HPA-08_v3 
+Page 6 of 8
+DOCUMENT NAME 
+11 December 2023 
+ 
+ 
+3.2.2 For an existing eCTD of a registered product, the clone should be submitted in a similar manner 
+to a duplicate application. 
+The letter of application (M1.0), M1.2.1, 1.2.2.1, 1.2.2.4, labelling (1.3.1.1, 1.3.2, 1.3.3) reflecting 
+the proposed proprietary name as [PRODUCT NAME] and 1.5.3 reflecting all proprietary names 
+should be submitted.   
+The name/s and application number/s of the clone/s should be included in the envelope under  
+Multiple/Duplicate Applications. 
+3.2.3 The following documents for the clone application should be included in M1.10 
+• Declaration of sameness for the clone, signed and dated by a Commissioner of Oaths 
+• Registration certificate for the registered product 
+3.2.4 The updated QIS / QOS should be included in M3.2.R.8. 
+3.3 Replicas 
+3.3.1 Replica application from the same Applicant 
+3.3.1.1  Where the original registration dossier is still in paper format, a submission in eCTD format 
+will be required as for a baseline submission, as sequence 0000.  The application for the 
+replica will then be sequence 0001. 
+Refer to guideline 2.23 Submission in eCTD format. 
+Include copies of the latest Authority letters of 
+• 
+approval of any variations or variation summary from the DVP to the registered  
+product, including the PI and PIL, 
+• 
+the allocation of the shelf-life of the product, and  
+• 
+the allocation of the retest /shelf-life period of the API/s  
+as bookmarked annexes to the letter of application in section 1.0 
+At this stage different strengths should be combined into one dossier, with the first application 
+number being used as the eCTD identifier. 
+ An application for a replica should not be submitted if there are amendments to the registered 
+product pending Authority approval. 
+3.3.1.2 
+For an existing eCTD of a registered product, the replica should be submitted as for a 
+duplicate application. The application for the replica will then be submitted in a follow-up 
+sequence. 
+The letter of application (M1.0), M1.2.1, 1.2.2.1, 1.2.2.4, labelling (1.3.1.1, 1.3.2, 1.3.3) 
+reflecting the proposed proprietary name as [PRODUCT NAME] and 1.5.3 reflecting all 
+proprietary names should be submitted.   
+3.3.1.3 
+The following documents for the replica application should be included in M1.10 
+• 
+Declaration of sameness for the replica, signed and dated by a Commissioner of Oaths 
+• 
+Registration certificate for the registered product 
+3.3.1.4 
+The updated QIS /QOS should be included in M3.2.R.8. 
+ 
+SAHPGL-HPA-08_v3 
+Page 7 of 8
+DOCUMENT NAME 
+11 December 2023 
+ 
+ 
+3.3.2 Replica application from different Applicants 
+3.3.2.1 
+Where the original registration is still in paper format, a submission in eCTD format will be 
+required as for a baseline submission, as sequence 0000.   
+Refer to guideline SAHPGL-HPA-10 Submission in eCTD format. 
+Include copies of the latest Authority letters of 
+• 
+approval of any variations or variation summary from the DVP to the registered product, 
+including the PI and PIL, 
+• 
+the allocation of the shelf-life of the product, and  
+• 
+the allocation of the retest /shelf-life period of the API/s  
+as bookmarked annexes to the letter of application in section 1.0 
+At this stage different strengths should be combined into one dossier, with the first application 
+number being used as the eCTD identifier. 
+The application for a replica should not be submitted until all amendments applied for have 
+been approved for the registered product. 
+3.3.2.2 
+The following documents for the replica application should be included in M1.10 
+Declaration of sameness for the replica, signed and dated by a Commissioner of Oaths  
+Letter of Permission from the applicant with the registered product allowing the second 
+applicant to use their data. 
+• 
+Registration certificate for the registered product 
+3.3.2.3 
+The QIS / QOS should be included in M3.2.R.8. 
+ 
+4. 
+FEES PAYABLE 
+The application fee for multiple applications will be as follows: 
+4.1.1 The fee for the master application will remain as published. 
+4.1.2 The fee for the duplicates will be same as for the master. 
+4.1.3 The fee for the clone/replica will be the same as for the registered product, according to the current 
+fees. 
+4.1.4 For variations related fees, refer to the Explanatory note on general fees payable to the Quality 
+variations (Type 1A, 1B & II) for medicinal products for human use.  
+ 
+5. 
+REFERENCES 
+The following related documents are referenced: 
+5.1  
+Related Guidelines 
+• 
+SAHPGL-HPA-10 Submission in eCTD format 
+• 
+SAHPGL-HPA-07 General Information Guideline 
+5.2 
+GLF-HPA-07A Declaration of Sameness letter 
+5.3 
+GLF-HPA-07B Letter of Permission 
+SAHPGL-HPA-08_v3 
+Page 8 of 8
+DOCUMENT NAME 
+11 December 2023 
+ 
+ 
+6. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the 
+Multiple_applications_May19_v4/2.40. It will be reviewed on this timeframe or as and when required. 
+

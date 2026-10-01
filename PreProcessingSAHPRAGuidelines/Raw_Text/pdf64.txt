@@ -1,0 +1,2289 @@
+SAHPGL-RDN-RN-14_v1 
+Page 1 of 20 
+SAHPGL-RDN-RN-14_v1 
+Page 1 of 20 
+ 
+ 
+ 
+20 February 2024 
+GUIDELINE FOR THE SAFE TRANSPORT OF RADIOACTIVE 
+MATERIAL 
+This guideline provides information concerning the safe transport of radioactive material not related to the nuclear fuel cycle. It is not 
+intended to be comprehensive but aims to summarise and supplement the IAEA transport regulations. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+Guideline version for TRUG91-1 issued before SAHPRA’s existence 
+May 2005 
+1 
+− 
+First issue under formal QMS establishment 
+− 
+Content structured on the latest SAHPRA Guideline Template 
+− 
+Document number TRUG91-1 changed to SAHPGL-RDN-RN-14 in 
+accordance with the current SAHPRA’s document coding structure  
+October 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-RN-14_v1 
+Page 2 of 20 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................ 1 
+Glossary ............................................................................................................................................................... 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+TYPES OF CONTAINERS .............................................................................................................................. 4 
+3.1 
+General requirements for all packages ...................................................................................................... 4 
+3.2 
+Requirements for excepted packages ....................................................................................................... 5 
+3.3 
+Requirements for Type A packages ........................................................................................................... 6 
+3.4 
+Requirements for Type B packages ........................................................................................................... 8 
+4. 
+REQUIREMENTS DURING TRANSPORTATION ............................................................................................ 8 
+4.1 
+Segregation during transport and during storage in transit ...................................................................... 8 
+4.2 
+Additional requirements relating to rail and road ..................................................................................... 9 
+4.3 
+Additional requirements relating to transport by air ................................................................................ 9 
+4.4 
+Post .......................................................................................................................................................... 10 
+4.5 
+Maximum radiation levels (with exclusive and without exclusive use) ................................................... 10 
+4.6 
+Contamination and decontamination on packages, freight containers, tanks and overpacks ................ 10 
+5. 
+LABELLING AND DOCUMENTATION ........................................................................................................ 11 
+5.1 
+Labelling and marking of packages, freight containers, tanks and overpacks ......................................... 11 
+5.2 
+Placards on vehicles, freight containers and tanks .................................................................................. 12 
+5.3 
+Transport documents .............................................................................................................................. 12 
+6. 
+CONSIGNOR'S RESPONSIBILITY ................................................................................................................ 13 
+7. 
+REFERENCES ............................................................................................................................................. 13 
+8. 
+VALIDITY .................................................................................................................................................. 13 
+9. 
+ANNEXURES ............................................................................................................................................. 14 
+9.1 
+Annexure 1: Table 3- Examples of transport package categories label requirements ............................ 14 
+9.2 
+Annexure 2: Table 4- Activity limits ......................................................................................................... 15 
+ 
+ 
+ 
+SAHPGL-RDN-RN-14_v1 
+Page 3 of 20 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Exclusive use 
+The sole use, by a single consignor, of a conveyance or a large freight 
+container with a minimum length of 6 m, in respect of which all initial, 
+intermediate, and final loading and unloading is carried out in accordance 
+with the directives of the consignor or consignee 
+Freight container 
+An article of transport equipment designed to facilitate the carriage of goods, 
+either packaged or unpackaged, by one or more modes of transport without 
+intermediate reloading. It shall be of a permanent enclosed character, rigid 
+and strong enough for repeated use, and must be fitted with devices 
+facilitating its handling, particularly in transfer between conveyances and 
+from one mode of transport to another 
+Radioactive material 
+Any substance which consists of or contains any radioactive nuclide whether 
+natural or artificial and whose specific activity exceeds 74 Bq/g (0,002 uCi/g) 
+of chemical element, and which has a total activity greater than 3,7 kBq (0,1 
+uCi). 
+Transport index (TI) 
+A single number assigned to a package which is used to provide control over 
+radiation exposure. It is the maximum radiation level in mRem/hr (uSv/hr 
+divided by 10) at 1 m from the external surface of the package. 
+UN number   
+A United Nations number that is allocated to all the different kinds of 
+transported dangerous materials (among which radioactive materials are 
+included). This number is frequently required to be provided on transport 
+documents 
+IAEA 
+International Atomic Energy Agency 
+RSA 
+Republic of South Africa 
+ 
+ 
+ 
+SAHPGL-RDN-RN-14_v1 
+Page 4 of 20 
+ 
+ 
+1. 
+INTRODUCTION 
+This guideline provides information concerning the safe transport of radioactive material not related to the 
+nuclear fuel cycle. 
+1.1 
+Purpose 
+The guideline is not intended to be comprehensive but aims to summarise and supplement the IAEA 
+transport regulations. The IAEA guidelines, drawn up by the International Atomic Energy Agency (IAEA) , 
+must  always be adhered to when radioactive material is being transported in South Africa, or 
+internationally.  
+1.2 
+Scope 
+This guideline provides information, concerning the safe transport of radioactive material not related to  
+the nuclear fuel cycle. 
+2. 
+LEGAL PROVISION 
+The guideline is implemented in promulgating the Hazardous Substances Act 15, 1973 (Act15 of 1973) the 
+related Regulations R.1332. 
+3. 
+TYPES OF CONTAINERS 
+The three most common types of packages or containers commonly used in South Africa are the "excepted" 
+package, the Type A package, and the Type B package. 
+3.1 
+General requirements for all packages 
+All containers or packages shall comply with the following general requirements: 
+3.1.1 
+The package design shall be such that it can be easily handled, transported, and secured during 
+transport. 
+3.1.2 
+Lifting attachments on packages shall not fail when used in the intended manner. If failure occurs, 
+it shall not impair other requirements. Lifting attachments shall either be able to support the 
+package or be removed or rendered incapable during transport. 
+3.1.3 
+External surfaces shall be free from protruding features for easy decontamination. 
+3.1.4 
+The outer packaging shall prevent, as far as possible, the retention of water. 
+3.1.5 
+Features added to the package during transport shall not reduce its safety. 
+SAHPGL-RDN-RN-14_v1 
+Page 5 of 20 
+ 
+ 
+3.1.6 
+The package and its closing devices shall not be affected under conditions it would most likely 
+experience during transport. 
+3.1.7 
+The materials of the package shall be physically and chemically compatible with each other and 
+with the radioactive contents. 
+3.1.8 
+Valves through which radioactive material can escape shall be protected against unauthorised 
+operation. 
+3.1.9 
+Other dangerous properties of contents such as explosiveness, flammability, pyrophoricity, 
+chemical toxicity and corrosiveness, shall be considered. 
+3.2 
+Requirements for excepted packages 
+3.2.1 
+The package must meet the general requirements for all packages stated in section 4.1. 
+3.2.2 
+The radiation levels on the external surface of the package shall not exceed 5 uSv/h (0.5 mrem/h). 
+3.2.3 
+Excepted packages may contain radioactive material which is enclosed in or forms a component 
+part of an instrument and does not exceed the limits specified in  columns 2 and 3 in Table 1, 
+provided that: 
+(a) the radiation levels 10 cm from the external surface of the unpacked instrument or article, 
+do not exceed 0.1 mSv/h (10 mRem/h). 
+(b) the instrument or article (except radioluminiscent timepieces or devices) is marked 
+"RADIOACTIVE". 
+3.2.4 
+Excepted packages may contain radioactive material in forms other than as specified in the 
+previous paragraph, with an activity not exceeding the limits specified in column 4 of Table 1, 
+provided that: 
+(a) the packages retain their contents under conditions likely to be encountered in routine 
+transport. 
+(b) the packages bear the marking "RADIOACTIVE" on an internal surface in such a manner that 
+a warning of the presence of radioactive material is visible on the opening of the package. 
+ 
+SAHPGL-RDN-RN-14_v1 
+Page 6 of 20 
+ 
+ 
+Table 1: Activity limits for exceptional packages 
+Physical state of contents 
+Instruments and articles 
+Materials 
+Item limits 
+Package limits 
+Package limits 
+Solids: 
+ 
+ 
+ 
+Special form 
+10-2A1 
+A1 
+10-3A1 
+Other forms 
+10-2A2 
+A2 
+10-3A2 
+Liquids: 
+10-3A2 
+10-1A2 
+10-4A2 
+Gasses: 
+ 
+ 
+ 
+Tritium 
+2x10-2A2 
+2x10-1A2 
+2x10-2A2 
+Special form 
+10-3A1 
+10-2A1 
+10-3A1 
+Other forms 
+10-3A2 
+10-2A2 
+10-3A2 
+ 
+3.3 
+Requirements for Type A packages 
+Radioactive material in quantities which represent a limited radiation risk may be carried in a Type A 
+package, which shall be designed to withstand normal conditions of transport. The source containers 
+incorporated in nuclear gauges are often approved Type A containers, so that many gauges can be 
+transported as is.  
+Where this is not the case, the user must  provide his own container. Containers which would typically meet 
+A-standards are strong metal tins, or sturdy wooden boxes. Type A containers do not require the specific 
+approval  of SAHPRA Radiation Control, but it is the responsibility of the consignor to ensure that he uses a 
+container which would comply with the requirements listed below. If suitable packaging is not readily 
+available, standard Type A containers can be obtained from NECSA. 
+The attached table (table 4) should be consulted when a decision must be made as to whether radioactive 
+material may be transported in a Type A package or not, as there are limits on the activity which may be 
+transported in such a package. If the radioactive material is in special form, up to an activity of A1 may be 
+transported in an A Type package, and if the material is not in special form, an activity not exceeding A2 
+may be transported in such a package. The package must meet the general requirements for all packages 
+stated in Section 4.1. The radiation levels on the external surface of the package shall not exceed 5 uSv/h 
+(0.5 mrem/h). 
+ 
+SAHPGL-RDN-RN-14_v1 
+Page 7 of 20 
+ 
+ 
+Type A packages must comply with the following requirements: 
+3.3.1 
+The package shall meet the general requirements for all packages stated in section 4.1. 
+3.3.2 
+The smallest overall external dimension of the Type A package shall not be less than 10 cm. 
+3.3.3 
+The outside of the Type A package shall incorporate a feature such as a seal, which is not readily 
+breakable and which, while intact, will be evidence that it has not been opened. 
+3.3.4 
+Tie-down attachments shall under all conditions not impair the ability of the package to meet the 
+requirements Radiation Control. 
+3.3.5 
+Package design shall consider temperatures ranging from -40°C to 70°C. 
+3.3.6 
+The package shall include a containment system which cannot be opened unintentionally. 
+3.3.7 
+If the containment system forms a separate unit of the package, it shall be capable of being 
+securely closed by a positive fastening device which is independent of any other part of the 
+packaging. 
+3.3.8 
+The containment system shall retain its radioactive contents under a reduction of ambient 
+pressure to 25 kPa. 
+3.3.9 
+All openings, e.g. exit channels, valves, etc., shall be closed to retain leakage. 
+3.3.10 
+Packages containing liquids shall: 
+(a) have absorbent material to absorb twice the volume of the contents if the volume is less than 
+50 ml; 
+(b) shall have primary inner and secondary outer containment components for the retention of 
+the liquid if the volume exceeds 50 ml. 
+(c) shall make provision for ullage to accommodate variations in temperature, dynamic effects, 
+and filling dynamics. 
+3.3.11 
+Type A packages should also be able to withstand several tests. These tests are well described in 
+the IAEA Safety Standards Series No. SSR-6 and include a water spray test, a free drop test, a 
+stacking test and a penetration test. 
+3.3.12 
+If the contents are special form radioactive material, and exceed the A2 activity limit, regulatory 
+SAHPGL-RDN-RN-14_v1 
+Page 8 of 20 
+ 
+ 
+approval of the design for the special form radioactive material is required. 
+3.3.13 
+The package shall be so designed that, under normal conditions of transport, it shall prevent loss 
+or dispersal of the radioactive contents, and loss of shielding integrity which would result in more 
+than a 20% increase in the radiation level on any  external surface. 
+3.4 
+Requirements for Type B packages 
+Where Type A activity limits are exceeded, approved Type B containers/packages (either B(U) or B(M) 
+packages) must be used, unless Radiation Control specifically permits  otherwise. A Type B container is a 
+specially designed and approved container, constructed to withstand both normal and accidental 
+conditions of transport.  
+The requirements and tests to which these packages are subjected, are much more severe than those for 
+Type A packages. A B(U) container is suitable for international transport and requires only unilateral 
+approval. A B(M) container, because it fails to meet one or more specific design requirements for a B(U) 
+container, requires multilateral approval i.e., it requires the approval of the competent authority in each 
+country through which it is transported. 
+Typical examples of Type B(U) packages are approved industrial radiography containers (Techops, 
+Gammamat, etc.), source heads of approved teletherapy units, approved transport containers for 60Co 
+sources for irradiation plants, etc. 
+The limit on the total activity in a Type B package is as prescribed in the design approval certificate for that 
+package. 
+4. 
+REQUIREMENTS DURING TRANSPORTATION 
+4.1 
+Segregation during transport and during storage in transit 
+4.1.1 
+Radioactive material shall be segregated sufficiently from transport workers and from members 
+of the public. For the purpose only of calculating segregation distances or dose rates in regularly 
+occupied areas, different limiting values for dose shall be required: 
+(a) For transport workers a dose level of 5 mSv (500 mrem) per year shall be used as the limiting 
+value. 
+(b) For members of the public a dose level of not more than 1 mSv (100 mrem) per year to the 
+critical group shall be used as the limiting value. 
+SAHPGL-RDN-RN-14_v1 
+Page 9 of 20 
+ 
+ 
+4.1.2 
+Radioactive material shall be segregated from undeveloped photographic film so that the radiation 
+exposure of the film is limited to 0,1 mSv (10 mrem) per consignment of such film. 
+4.1.3 
+Categories II-YELLOW or III-YELLOW packages (see table 3) shall not be carried in compartments 
+occupied by passengers except for exclusively authorised personnel. 
+4.1.4 
+The number of category II-YELLOW and category III-YELLOW packages, overpacks, tanks and freight 
+containers stored in any one area shall be so limited that the total sum of the transport indices in 
+any individual group of such packages does not exceed 50. Groups of such packages shall be stored 
+to maintain a spacing of at least 6 m from other groups of such packages. 
+4.1.5 
+Only articles or documents which are necessary for the use of radioactive material are permitted 
+in the package if there is no interaction between them and the packaging or its contents that would 
+reduce the safety of the package. Other items may not be transported in packages. 
+4.1.6 
+Mixing of packages of different kinds of radioactive material, including fissile material, and mixing 
+of packages with different indexes (TI's) is permitted. 
+4.1.7 
+Consignments shall be segregated from other dangerous goods. 
+4.2 
+Additional requirements relating to rail and road 
+4.2.1 
+Vehicles or railroad carriages carrying packages with category I-WHITE, II-YELLOW and III-YELLOW 
+transport labels shall display radiation warning signs. Vehicles carrying excepted packages need 
+not be so marked. 
+4.2.2 
+No persons other than the driver and assistants shall be permitted in vehicles carrying packages 
+bearing category II-YELLOW or III-YELLOW labels. 
+4.2.3 
+The radiation level at any normally occupied position shall not exceed 0,02 mSv/h (2 mrem/h) 
+unless the persons occupying such positions are provided with personal monitoring devices. 
+4.3 
+Additional requirements relating to transport by air 
+4.3.1 
+Type B(M) packages under exclusive use and vented Type B(M) packages which require external 
+cooling shall not be transported on passenger aircraft. 
+4.3.2 
+Packages having a surface radiation level greater than 2 mSv/h (200 mrem/h) shall not be 
+transported by air except by special arrangement. 
+SAHPGL-RDN-RN-14_v1 
+Page 10 of 20 
+ 
+ 
+ 
+4.4 
+Post 
+4.4.1 
+No radioactive materials are permitted to be dispatched by post in the RSA. 
+4.5 
+Maximum radiation levels (with exclusive and without exclusive use) 
+4.5.1 
+The radiation levels shall not exceed (except under exclusive use): 
+(a) 0.1 mSv/h (10 mrem/h) at 1 m from the external surface of the package. 
+(b) 2 mSv/h (200 mrem/h) on the external surface of the package. 
+4.5.2 
+The radiation levels may exceed 2 mSv/h (200 mrem/h) on an external surface only under the 
+following circumstances: 
+(a) If transported under exclusive use by rail or road provided that: 
+i. 
+the vehicle is equipped with an enclosure to prevent unauthorized access during 
+transport. 
+ii. 
+the package or overpack is secured to retain its position within the  enclosure during 
+transport. 
+iii. 
+there are no loading and unloading operations between the beginning and end of the 
+shipment. 
+(b) If transported by air provided that: 
+i. the package is transported under exclusive use; and 
+ii. the transport takes place by special arrangement. 
+(c) If transported by vessel (i.e., by sea) provided that: 
+i. the package is transported under exclusive use, or 
+ii. the transport takes place by special arrangement. 
+4.6 
+Contamination and decontamination on packages, freight containers, tanks and 
+overpacks 
+4.6.1 
+Contamination levels shall be kept as low as reasonably possible and shall not exceed the values 
+SAHPGL-RDN-RN-14_v1 
+Page 11 of 20 
+ 
+ 
+specified below: 
+Table 4 Contamination Limits 
+Beta & gamma emitters and low toxicity 
+alpha emitters 
+Alpha emitters: other than those of low toxicity 
+4 Bq/cm2 (10-4 µCi/cm2) 
+0.4 Bq/cm2 (10-5 µCi/cm2) 
+ 
+(a) Conveyances, equipment, or parts thereof which have become contaminated shall be 
+decontaminated as soon as possible and in any case before re-use. 
+(b) Packages, used for the transport of radioactive material shall not be used for the storage or 
+transport of other goods. 
+5. 
+LABELLING AND DOCUMENTATION 
+5.1 
+Labelling and marking of packages, freight containers, tanks and overpacks 
+Table 5 Categories of packages 
+Transport index (TI) 
+Maximum radiation level (H) at 
+any point on the external surface 
+Category 
+0 
+5 µSv/h < H 
+I-WHITE 
+0<TI<1 
+5 µSv/h < H < 0.5 mSv/h 
+II-YELLOW 
+1<TI<10 
+0.5 mSv/h < H < 2 mSv/h 
+III-YELLOW 
+TI<10 
+2 mSv/h < H < 10 mSv/h 
+III-YELLOW and exclusive use 
+ 
+5.1.1 
+Completed WHITE or YELLOW labels with the contents described (with the name of the 
+radionuclide, or for mixtures, the names of the most restrictive nuclides) shall be affixed externally 
+to two opposite sides of packages and to all four sides of tanks. 
+5.1.2 
+Each label shall be marked with the maximum activity of the radioactive contents during transport. 
+5.1.3 
+Each YELLOW label shall be marked with the TI for that package. 
+5.1.4 
+Packages with a gross mass exceeding 50kg shall be legibly and durably marked with their 
+permissible gross mass on the outside. 
+5.1.5 
+Packages shall be legibly and durably marked on the outside with the word "TYPE A" or "TYPE 
+SAHPGL-RDN-RN-14_v1 
+Page 12 of 20 
+ 
+ 
+B(U)", or whatever is applicable. 
+5.1.6 
+Packages containing materials having additional dangerous properties (e.g. uranium hexafluoride) 
+shall also be labelled as required by other relevant transport regulations. 
+5.2 
+Placards on vehicles, freight containers and tanks 
+5.2.1 
+Placards shall be affixed in a vertical orientation: 
+(a) to the two external walls of a rail vehicle; 
+(b) to the two external lateral walls and the external rear wall of a road vehicle; and 
+(c) to the two external side walls and the two external end walls of a freight container or tank; 
+alternatively, enlarged labels may be used. 
+5.2.2 
+The appropriate UN Number shall be displayed on all four sides of the freight container. 
+5.2.3 
+Any placards that do not relate to the contents shall be removed. 
+5.2.4 
+Placards may be required for other dangerous properties of the contents. 
+5.2.5 
+An emergency telephone number along with the name of a person to be contacted in the event of 
+an accident, shall be displayed on all placards. 
+5.3 
+Transport documents 
+5.3.1 
+Authority must be obtained from Radiation Control to transport radioactive materials. Normally 
+when an application is received to possess and use radioactive materials Radiation Control 
+automatically grants a "convey" and "cause to convey" authority. This gives the holder authority 
+to transport the radioactive material himself, or to make use of a conveyor to transport it on his 
+behalf. 
+5.3.2 
+The transport documents shall: 
+(a) reflect all the information viz. activity, TI, type of label, type of radioactive material, etc. 
+which appears on the labels on the package. 
+(b) contain the words "RADIOACTIVE MATERIAL”. 
+(c) describe actions, if any, that are required from the carrier. 
+SAHPGL-RDN-RN-14_v1 
+Page 13 of 20 
+ 
+ 
+(d) contain details of procedures to be followed in the event of an emergency. 
+5.3.3 
+Where transport documents refer to a "class or division of dangerous goods", the class must be 
+specified as "7". If a UN number is requested, the appropriate  number (see definitions) must be 
+specified. 
+6. 
+CONSIGNOR'S RESPONSIBILITY 
+6.1 
+The consignor (entity presenting package for transport) shall undertake and be responsible for the 
+following: 
+(a) He shall ensure that the transport documents are correctly completed. 
+(b) He shall ensure that the package is in a proper condition for transport and agrees with the 
+transport requirements specified in the latest edition of IAEA Safety Series No. 6. 
+ 
+7. 
+REFERENCES 
+7.1 
+IAEA Safety Standards Series No. SSR-6, Regulations for the Safe Transport of Radioactive Material, 
+2018 Edition 
+7.2 
+Safety Series No. 80, IAEA Safety Guides, Schedule of Requirements for the Transport of Specified 
+Types of Radioactive Material Consignments, 1986. 
+7.3 
+Dangerous Goods Regulations, International Air Transport Association (IATA), 1991 edition. 
+8. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old Guideline 
+for Safe Transport of Radioactive Material, revised on 31 March 2025 . It will be reviewed on this timeframe or 
+as and when required. 
+ 
+SAHPGL-RDN-RN-14_v1 
+Page 14 of 20 
+ 
+ 
+9. 
+ANNEXURES 
+9.1 
+Annexure 1: Table 3- Examples of transport package categories label requirements 
+ 
+SAHPGL-RDN-RN-14_v1 
+Page 15 of 20 
+ 
+ 
+9.2 
+Annexure 2: Table 4- Activity limits 
+ 
+Symbol 
+of  
+Isotope 
+Element 
+and 
+Atomic Number 
+A1 
+Special Form 
+TBq 
+Ci 
+A2 
+Other Forms 
+TBq 
+Ci 
+Ac-227 
+Actinium (89) 
+40 
+1000 
+0.00002 
+0.0005 
+Ac-228 
+ 
+0.6 
+10 
+0.4 
+10 
+Ag-105 
+Silver (47) 
+2 
+50 
+2 
+50 
+Ag-110m 
+ 
+0.4 
+10 
+0.4 
+10 
+Ag-111 
+ 
+0.6 
+10 
+0.5 
+10 
+Am-241 
+Americium 
+2 
+50 
+0.0002 
+0.005 
+Am-243 
+ 
+2 
+50 
+0.0002 
+0.005 
+Ar-37 
+Argon (18) 
+40 
+1000 
+40 
+1000 
+Ar-41 
+ 
+0.6 
+10 
+0.6 
+10 
+As-73 
+Arsenic (33) 
+40 
+1000 
+40 
+1000 
+As-74 
+ 
+1 
+20 
+0.5 
+10 
+As-76 
+ 
+0.2 
+5 
+0.2 
+5 
+As-77 
+ 
+20 
+500 
+0.5 
+10 
+At-211 
+Astatine (85) 
+30 
+800 
+2 
+50 
+Au-193 
+Gold (79) 
+6 
+100 
+6 
+100 
+Au-196 
+ 
+2 
+50 
+2 
+50 
+Au-198 
+ 
+3 
+80 
+0.5 
+10 
+Au-199 
+ 
+10 
+200 
+0.9 
+20 
+Ba-131 
+Barium (56) 
+2 
+50 
+2 
+50 
+Ba-133 
+ 
+3 
+80 
+3 
+80 
+Ba-133m 
+ 
+10 
+200 
+0.9 
+20 
+Ba-140 
+ 
+0.4 
+10 
+0.4 
+10 
+Be-7 
+Beryllium (4) 
+20 
+500 
+20 
+500 
+Bi-206 
+Bismuth (83) 
+0.3 
+8 
+0.3 
+8 
+Bi-207 
+ 
+0.7 
+10 
+0.7 
+10 
+Bi-210 
+ 
+0.6 
+10 
+0.5 
+10 
+Bi-212 
+ 
+0.3 
+8 
+0.3 
+8 
+Bk-249 
+Berkelium (97) 
+40 
+1000 
+0.08 
+2 
+Br-77 
+Bromine (35) 
+3 
+80 
+3 
+80 
+Br-82 
+ 
+0.4 
+10 
+0.4 
+10 
+C-11 
+Carbon (6) 
+1 
+20 
+0.5 
+10 
+C-14 
+ 
+40 
+1000 
+2 
+50 
+Ca-45 
+Calcium (20) 
+40 
+1000 
+0.9 
+20 
+Ca-47 
+ 
+0.9 
+20 
+0.5 
+10 
+Cd-109 
+Cadmium (48) 
+40 
+1000 
+1 
+20 
+Cd-115m 
+ 
+0.3 
+8 
+0.3 
+8 
+Cd-115 
+ 
+4 
+100 
+0.5 
+10 
+Ce-139 
+Cerium (58) 
+6 
+100 
+6 
+100 
+Ce-141 
+ 
+10 
+200 
+0.5 
+10 
+Ce-143 
+ 
+0.6 
+10 
+0.5 
+10 
+Ce-144 
+ 
+0.2 
+5 
+0.2 
+5 
+Cf-249 
+Californium (98) 
+2 
+50 
+0.0002 
+0.005 
+Cf-250 
+ 
+5 
+100 
+0.0005 
+0.01 
+Cf-252 
+ 
+0.1 
+2 
+0.001 
+0.02 
+Cl-36 
+Chlorine (17) 
+20 
+500 
+0.5 
+10 
+Cl-38 
+ 
+0.2 
+5 
+0.2 
+5 
+Cm-242 
+Curium (96) 
+40 
+1000 
+0.01 
+0.2 
+SAHPGL-RDN-RN-14_v1 
+Page 16 of 20 
+Guideline for the Safe Transport of Radioactive Material 
+20 February 2024 
+ 
+ 
+Symbol 
+Element 
+ 
+A 
+A 
+of 
+Isotope 
+and 
+Atomic Number 
+Special Form 
+TBq 
+Ci 
+Other Forms 
+TBq 
+Ci 
+Cm-244 
+ 
+4  
+100 
+0.0004 
+0.01 
+Cm-245 
+ 
+2  
+50 
+0.0002 
+0.005 
+Cm-246 
+ 
+2  
+50 
+0.0002 
+0.005 
+Co-56 
+Cobalt (27) 
+0.3  
+8 
+0.3 
+8 
+Co-57 
+ 
+8  
+200 
+8 
+200 
+Co-58m 
+ 
+40  
+1000 
+40 
+1000 
+Co-58 
+ 
+1  
+20 
+1 
+20 
+Co-60 
+ 
+0.4  
+10 
+0.4 
+10 
+Cr-51 
+Chromium (24) 
+30  
+800 
+30 
+800 
+Cs-129 
+Caesium (55) 
+4  
+100 
+4 
+100 
+Cs-131 
+ 
+40  
+1000 
+40 
+1000 
+Cs-132 
+ 
+1  
+20 
+1 
+20 
+Cs-134m 
+ 
+40  
+1000 
+9 
+200 
+Cs-134 
+ 
+0.6  
+10 
+0.5 
+10 
+Cs-135 
+ 
+40  
+1000 
+0.9 
+20 
+Cs-136 
+ 
+0.5  
+10 
+0.5 
+10 
+Cs-137 
+ 
+2  
+50 
+0.5 
+10 
+Cu-64 
+Copper (29) 
+5  
+100 
+0.9 
+20 
+Cu-67 
+ 
+9  
+200 
+0.9 
+20 
+Dy-165 
+Dysprosium (66) 
+0.6  
+10 
+0.5 
+10 
+Dy-166 
+ 
+0.3  
+8 
+0.3 
+8 
+Er-169 
+Erbium (68) 
+40  
+1000 
+0.9 
+20 
+Er-171 
+ 
+0.6  
+10 
+0.5 
+10 
+Eu-152m 
+Europium (63) 
+0.6  
+10 
+0.5 
+10 
+Eu-152 
+ 
+0.9  
+20 
+0.9 
+20 
+Eu-154 
+ 
+0.8  
+20 
+0.5 
+10 
+Eu-155 
+ 
+20  
+500 
+2 
+50 
+F-18 
+Fluorine (9) 
+1  
+20 
+0.5 
+10 
+Fe-52 
+Iron (26) 
+0.2  
+5 
+0.2 
+5 
+Fe-55 
+ 
+40  
+1000 
+40 
+1000 
+Fe-59 
+ 
+0.8  
+20 
+0.8 
+20 
+Ga-67 
+Gallium (31) 
+6  
+100 
+6 
+100 
+Ga-68 
+ 
+0.3  
+8 
+0.3 
+8 
+Ga-72 
+ 
+0.4  
+10 
+0.4 
+10 
+Gd-153 
+Gadolinium (64) 
+10  
+200 
+5 
+100 
+Gd-159 
+ 
+4  
+100 
+0.5 
+10 
+Ge-68 
+Germanium (32) 
+0.3  
+8 
+0.3 
+8 
+Ge-71 
+ 
+40  
+1000 
+40 
+1000 
+Ge-77 
+ 
+0.3  
+8 
+0.3 
+8 
+H-3 
+Hydrogen (1) 
+see T (Tritium) 
+see T (Tritium) 
+Hf-175 
+Hafnium (72) 
+3  
+80 
+3 
+80 
+Hf-181 
+ 
+2  
+50 
+0.9 
+20 
+Hg-197m 
+Mercury (80) 
+10  
+200 
+0.9 
+20 
+Hg-197 
+ 
+10  
+200 
+10 
+200 
+Hg-203 
+ 
+4  
+100 
+0.9 
+20 
+Ho-163 
+Holmium (67) 
+40  
+1000 
+40 
+1000 
+Ho-166 
+ 
+0.3  
+8 
+0.3 
+8 
+SAHPGL-RDN-RN-14_v1 
+Page 17 of 20 
+ 
+ 
+ 
+Symbol 
+Element 
+A 
+A 
+of 
+Isotope 
+and 
+Atomic Number 
+Special Form 
+TBq 
+Ci 
+Other Forms 
+TBq 
+Ci 
+I-123 
+I-125 
+I-126 
+I-129 
+I-131 
+I-132 
+I-133 
+I-134 
+I-135 
+In-111 
+In-113m 
+In-114m 
+In-115m 
+Ir-190 
+Ir-192 
+Ir-193m 
+Ir-194 
+ 
+K-42 
+K-43 
+Kr-85m 
+Kr-85 
+Kr-87 
+ 
+La-140 
+LSA 
+ 
+Lu-172 
+MFP 
+Mg-28 
+Mn-52 
+Mn-54 
+Mn-56 
+Mo-99 
+ 
+N-13 
+Na-22 
+Na-24 
+Nb-93m 
+Nb-95 
+Nb-97 
+Nd-147 
+Nd-149 
+Ni-59 
+Ni-63 
+Ni-65 
+Np-237 
+Np-239 
+Iodine (53) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indium (49) 
+ 
+ 
+Iridium (77) 
+ 
+ 
+ 
+Potassium (19) 
+ 
+ 
+ 
+ 
+Lanthanum (57) 
+Low specific 
+activity 
+material 
+Lutetium (71) 
+ 
+Mixed fission 
+products 
+Magnesium (12) 
+Manganese (25) 
+ 
+ 
+Molybdenum (42) 
+ 
+Nitrogen (7) 
+Sodium (11) 
+ 
+Niobium (41) 
+ 
+ 
+Neodymium (60) 
+ 
+Nickel (28) 
+ 
+ 
+Neptunium (93) 
+6 
+100 
+6 
+100 
+20 
+500 
+2 
+50 
+2 
+50 
+0.9 
+20 
+unlimited 
+unlimited 
+3 
+80 
+0.5 
+10 
+0.4 
+10 
+0.4 
+10 
+0.6 
+10 
+0.5 
+10 
+0.3 
+8 
+0.3 
+8 
+0.6 
+10 
+0.5 
+10 
+2 
+50 
+2 
+50 
+4 
+100 
+4 
+100 
+0.3 
+8 
+0.3 
+8 
+6 
+100 
+0.9 
+20 
+0.7 
+10 
+0.7 
+10 
+1 
+20 
+0.5 
+10 
+10 
+200 
+10 
+200 
+0.2 
+5 
+0.2 
+5 
+0.2 
+5 
+0.2 
+5 
+1 
+20 
+0.5 
+10 
+6 
+100 
+6 
+100 
+20 
+500 
+10 
+200 
+0.2 
+5 
+0.2 
+5 
+0.4 
+10 
+0.4 
+10 
+Consult IAEA regs 
+Consult IAEA regs 
+0.5 
+10 
+ 
+0.5 
+10 
+Consult IAEA regs 
+Consult IAEA regs 
+0.2 
+5 
+0.2 
+5 
+0.3 
+8 
+0.3 
+8 
+1 
+20 
+1 
+20 
+0.2 
+5 
+0.2 
+5 
+0.6 
+10 
+0.5 
+10 
+0.6 
+10 
+0.5 
+10 
+0.5 
+10 
+0.5 
+10 
+0.2 
+5 
+0.2 
+5 
+40 
+1000 
+6 
+100 
+1 
+20 
+1 
+20 
+0.6 
+10 
+0.5 
+10 
+4 
+100 
+0.5 
+10 
+0.6 
+10 
+0.5 
+10 
+40 
+1000 
+40 
+1000 
+40 
+1000 
+30 
+800 
+0.3 
+8 
+0.3 
+8 
+2 
+50 
+0.0002 
+0.005 
+ 
+6 
+100 
+0.5 
+10 
+SAHPGL-RDN-RN-14_v1 
+Page 18 of 20 
+Guideline for the Safe Transport of Radioactive Material 
+20 February 2024 
+ 
+ 
+Symbol 
+Element 
+A 
+ 
+A 
+of 
+and 
+Isotope 
+Atomic Number 
+Special Form 
+TBq 
+Ci 
+Other Forms 
+TBq 
+Ci 
+Os-185 
+Osmium (76) 
+1 
+20 
+1 
+20 
+Os-191m 
+ 
+40 
+1000 
+40 
+1000 
+Os-191 
+ 
+10 
+200 
+0.9 
+20 
+Os-193 
+ 
+0.6 
+10 
+0.5 
+10 
+P-32 
+Phosphorus (15) 
+0.3 
+8 
+0.3 
+8 
+Pa-230 
+Protactinium (91) 
+2 
+50 
+0.1 
+2 
+Pa-231 
+ 
+0.6 
+10 
+0.00006 
+0.001 
+Pa-233 
+ 
+5 
+100 
+0.9 
+20 
+Pb-201 
+Lead (82) 
+1 
+20 
+1 
+20 
+Pb-210 
+ 
+0.6 
+10 
+0.009 
+0.2 
+Li-212 
+ 
+0.3 
+8 
+0.3 
+8 
+Pd-103 
+Palladium (46) 
+40 
+1000 
+40 
+1000 
+Pd-109 
+ 
+0.6 
+10 
+0.5 
+10 
+Pm-147 
+Promethium (61) 
+40 
+1000 
+0.9 
+20 
+Pm-149 
+ 
+0.6 
+10 
+0.5 
+10 
+Pm-151 
+ 
+3 
+80 
+0.5 
+10 
+Po-210 
+Polonium (84) 
+40 
+1000 
+0.02 
+0.5 
+Pr-142 
+Praseodymium (59) 
+0.2 
+5 
+0.2 
+5 
+Pr-143 
+ 
+4 
+100 
+0.5 
+10 
+Pt-191 
+Platinum (78) 
+0.6 
+10 
+0.6 
+10 
+Pt-193m 
+ 
+40 
+1000 
+9 
+200 
+Pt-195m 
+ 
+10 
+200 
+2 
+50 
+Pt-197m 
+ 
+10 
+200 
+0.9 
+20 
+Pt-197 
+ 
+20 
+500 
+0.5 
+10 
+Pu-238* 
+Plutonium (94) 
+2 
+50 
+0.0002 
+0.005 
+Pu-239* 
+ 
+2 
+50 
+0.0002 
+0.005 
+Pu-240 
+ 
+2 
+50 
+0.0002 
+0.005 
+Pu-241* 
+ 
+40 
+1000 
+0.01 
+0.2 
+Pu-242 
+ 
+2 
+50 
+0.0002 
+0.005 
+Ra-223 
+Radium (88) 
+0.6 
+10 
+0.03 
+0.8 
+Ra-224 
+ 
+0.3 
+8 
+0.06 
+1 
+Ra-226 
+ 
+0.3 
+8 
+0.02 
+0.5 
+Ra-228 
+ 
+0.6 
+10 
+0.04 
+1 
+Rb-81 
+Rubidium (37) 
+2 
+50 
+0.9 
+20 
+Rb-86 
+ 
+0.3 
+8 
+0.3 
+8 
+Rb-87 
+ 
+unlimited  
+unlimited 
+Rb (natural)  
+unlimited  
+unlimited 
+Re-186 
+Rhenium (75) 
+4 
+100 
+0.5 
+10 
+Re-187 
+ 
+unlimited  
+unlimited 
+Re-188 
+ 
+0.2 
+5 
+0.2 
+5 
+Re (natural)  
+unlimited  
+unlimited 
+Rh-103m 
+Rhodium (45) 
+40 
+1000 
+40 
+1000 
+Rh-105 
+ 
+10 
+200 
+0.9 
+20 
+Rn-222 
+Radon (86) 
+0.2 
+5 
+0.004 
+0.1 
+Ru-97 
+Ruthenium (44) 
+4 
+100 
+4 
+100 
+Ru-103 
+ 
+2 
+50 
+0.9 
+20 
+Ru-105 
+ 
+0.6 
+10 
+0.5 
+10 
+Ru-106 
+ 
+0.2 
+5 
+0.2 
+5 
+S-35 
+Sulphur (16) 
+40 
+1000 
+2 
+50 
+Sb-122 
+Antimony (51) 
+0.3 
+8 
+0.3 
+8 
+Sb-124 
+ 
+0.6 
+10 
+0.5 
+10 
+Sb-125 
+ 
+2 
+50 
+0.9 
+20 
+SAHPGL-RDN-RN-14_v1 
+Page 19 of 20 
+Guideline for the Safe Transport of Radioactive Material 
+20 February 2024 
+ 
+ 
+Symbol 
+Element 
+A 
+ 
+A 
+ 
+of 
+Isotope 
+and 
+Atomic Number 
+Special Form 
+TBq 
+Ci 
+Other Forms 
+TBq 
+Ci 
+Sc-46 
+Scandium (21) 
+0.5 
+10 
+0.5 
+10 
+Sc-47 
+9 
+200 
+0.9 
+20 
+Sc-48 
+0.3 
+8 
+0.3 
+8 
+Se-75 
+Selenium (34) 
+3 
+80 
+3 
+80 
+Se-79 
+40 
+1000 
+2 
+50 
+Si-31 
+Silicon (14) 
+0.6 
+10 
+0.5 
+10 
+Si-32 
+40 
+1000 
+0.2 
+5 
+Sm-147 
+Samarium (62) 
+unlimited  
+unlimited  
+Sm-151 
+40 
+1000 
+4 
+100 
+Sm-153 
+4 
+100 
+0.5 
+10 
+Sn-113 
+Tin (50) 
+4 
+100 
+4 
+100 
+Sn-119m 
+4 
+1000 
+40 
+1000 
+Sn-125 
+0.2 
+5 
+0.2 
+5 
+Sr-85m 
+Strontium (38) 
+5 
+100 
+5 
+100 
+Sr-85 
+2 
+50 
+2 
+50 
+Sr-87m 
+3 
+80 
+3 
+80 
+Sr-89 
+0.6 
+10 
+0.5 
+10 
+Sr-90 
+0.2 
+5 
+0.1 
+2 
+Sr-91 
+0.3 
+8 
+0.3 
+8 
+Sr-92 
+0.2 
+5 
+0.2 
+5 
+T (all forms) 
+Tritium (1) 
+40 
+1000 
+40 and 
+1000 and 
+ 
+ 
+ 
+for liq, 
+for liq, 
+ 
+ 
+ 
+conc. 
+conc. 
+ 
+ 
+ 
+< 1TBq/l 
+< 20 Ci/l 
+Ta-182 
+Tantalum (73) 
+0.8 
+20 
+0.5 
+10 
+Tb-160 
+Terbium (65) 
+0.9 
+20 
+0.5 
+10 
+Tc-96m 
+Technetium (43) 
+0.4 
+10 
+0.4 
+10 
+Tc-96 
+0.4 
+10 
+0.4 
+10 
+Tc-97m 
+40 
+1000 
+40 
+1000 
+Tc-97 
+unlimited  
+unlimited  
+Tc-99m 
+8 
+200 
+8 
+200 
+Tc-99 
+40 
+1000 
+0.9 
+20 
+Te-123m 
+Tellurium (52) 
+7 
+100 
+7 
+100 
+Te-125m 
+30 
+800 
+9 
+200 
+Te-127m 
+20 
+500 
+0.5 
+10 
+Te-127 
+20 
+500 
+0.5 
+10 
+Te-129m 
+0.6 
+10 
+0.5 
+10 
+Te-129 
+0.6 
+10 
+0.5 
+10 
+Te-131m 
+0.7 
+10 
+0.5 
+10 
+Te-132 
+0.4 
+10 
+0.4 
+10 
+Th-227 
+Thorium (90) 
+9 
+200 
+0.01 
+0.2 
+Th-228 
+0.3 
+8 
+0.0004 
+0.01 
+Th-230 
+2 
+50 
+0.0002 
+0.005 
+Th-231 
+40 
+1000 
+0.9 
+20 
+Th-232 
+unlimited  
+unlimited  
+Th-234 
+0.2 
+5 
+0.2 
+5 
+Th (natural) 
+unlimited  
+unlimited  
+Ti-44 
+Titanium (22) 
+0.5 
+10 
+0.2 
+5 
+Tl-200 
+Thallium (82) 
+0.8 
+20 
+0.8 
+20 
+Tl-201 
+10 
+200 
+10 
+200 
+SAHPGL-RDN-RN-14_v1 
+Page 20 of 20 
+Guideline for the Safe Transport of Radioactive Material 
+20 February 2024 
+ 
+ 
+Symbol 
+Element 
+A 
+A 
+ 
+of 
+and 
+Isotope 
+Atomic Number 
+Special Form 
+TBq 
+Ci 
+Other Forms 
+TBq 
+Ci 
+Tl-202 
+2 
+50 
+2 
+50 
+Tl-204 
+4 
+100 
+0.5 
+10 
+Tm-170 
+Thulium (69) 
+4 
+100 
+0.5 
+10 
+Tm-171 
+40 
+1000 
+10 
+200 
+U-230 
+Uranium (92) 
+40 
+1000 
+0.01 
+0.2 
+U-232 
+3 
+80 
+0.0003 
+0.008 
+U-233* 
+10 
+200 
+0.001 
+0.02 
+U-234 
+10 
+200 
+0.001 
+0.02 
+U-235* 
+unlimited 
+unlimited  
+U-236 
+10 
+200 
+0.001 
+0.02 
+U-238 
+unlimited 
+unlimited  
+U (natural) 
+unlimited 
+unlimited  
+U (enriched - 5% or less)* 
+unlimited 
+unlimited  
+U (enriched - more than 5%)* 
+10 
+200 
+0.n 1 
+0.02 
+U (depleted) 
+unlimited 
+unlimited  
+V-48 
+Vanadium (23) 
+0.3 
+8 
+0.3 
+8 
+W-181 
+Tungsten (74) 
+30 
+800 
+30 
+800 
+W-185 
+40 
+1000 
+0.9 
+20 
+W-187 
+2 
+50 
+0.5 
+10 
+Xe-127 
+Xenon (54) 
+4 
+100 
+4 
+100 
+Xe-131m 
+40 
+1000 
+40 
+1000 
+Xe-133 
+20 
+500 
+20 
+500 
+Xe-135 
+4 
+100 
+4 
+100 
+Y-87 
+Yttrium(39) 
+2 
+50 
+2 
+50 
+Y-90 
+0.2 
+5 
+0.2 
+5 
+Y-91m 
+2 
+50 
+2 
+50 
+Y-91 
+0.3 
+8 
+0.3 
+8 
+Y-92 
+0.2 
+5 
+0.2 
+5 
+Y-93 
+0.2 
+5 
+0.2 
+5 
+Yb-169 
+Ytterbium (70) 
+3 
+80 
+3 
+80 
+Yb-175 
+30 
+800 
+0.9 
+20 
+Zn-65 
+Zinc (30) 
+2 
+50 
+2 
+50 
+Zn-69m 
+2 
+50 
+0.5 
+10 
+Zn-69 
+4 
+100 
+0.5 
+10 
+Zr-93 
+Zirconium (40) 
+40 
+1000 
+0.2 
+5 
+Zr-95 
+1 
+20 
+0.9 
+20 
+Zr-97 
+0.3 
+8 
+0.3 
+8 
+* 
+Fissile material subject to additional requirements specified in IAEA  regulations(5.7.52-60). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

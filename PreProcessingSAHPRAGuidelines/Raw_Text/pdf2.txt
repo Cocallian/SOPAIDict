@@ -1,0 +1,849 @@
+SAHPGL-RDN-NM-02_v1 
+Page 1 of 22 
+ 
+ 
+ 
+14 September 2026 
+GUIDELINE FOR USE LICENCE APPLICATIONS AND THE REQUIREMENTS FOR THE 
+SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+This guideline provides information to applicants wishing to submit applications for the use of Class 3B and 
+Class 4 lasers or laser systems.  
+Class 3B and Class 4 systems are regulated under the Hazardous Substances Act (Act 15 of 1973) and its 
+subsequent regulations. According to Section 4(1)b and c of the Hazardous Substances Act, any individual or 
+company wishing to use, operate, apply, install a laser product must apply for a license in accordance with 
+this guideline. Additionally, there is a separate guideline for obtaining a license to import listed electronic 
+products, as described in Regulation 1302 of the schedule for listed electronic products. 
+ 
+The guideline also specifies the safety control measures that must be instituted to protect the operator, 
+workers, patients or the public against the adverse health effects of excessive exposure to laser radiation.  
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First Issue 
+September 2026 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-NM-02_v1 
+Page 2 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................ 1 
+Glossary ............................................................................................................................................................... 5 
+1. 
+INTRODUCTION ............................................................................................................................................ 6 
+1.1 Purpose ........................................................................................................................................................ 6 
+1.2 Scope ............................................................................................................................................................ 6 
+2. 
+LEGAL PROVISION ........................................................................................................................................ 6 
+3. 
+PROCESS FOR CLASSIFICATION AND LICENCE APPLICATION ....................................................................... 6 
+3.1 Classification .............................................................................................................................................. 6 
+3.2 Process for Licence Application ................................................................................................................. 7 
+4.1.  General ..................................................................................................................................................... 8 
+4.2.  Classification ............................................................................................................................................ 8 
+4.3. Hazard Evaluation ..................................................................................................................................... 8 
+4.4. Control Measures ...................................................................................................................................... 8 
+4.5. Procedure Approvals ................................................................................................................................. 8 
+4.6. Protective Equipment ............................................................................................................................... 8 
+4.7. Signs and Labels ........................................................................................................................................ 9 
+4.8. Facility and Equipment .............................................................................................................................. 9 
+4.9. Safety Features Audits .............................................................................................................................. 9 
+4.10. Training ................................................................................................................................................... 9 
+4.11. Medical Surveillance ............................................................................................................................... 9 
+4.12. Additional responsibility of the LSO ........................................................................................................ 9 
+5.1.  General Considerations ................................................................................................................................ 9 
+5.2. Protective Housings .................................................................................................................................... 10 
+5.3. Key Control ................................................................................................................................................. 10 
+5.4. Beam stop or attenuator ............................................................................................................................ 10 
+5.5. Beam Paths ................................................................................................................................................. 10 
+5.6. Remote Interlock ........................................................................................................................................ 11 
+5.7. Laser Activation Warning System ............................................................................................................... 11 
+5.8. Class 3B Laser Controlled Area ................................................................................................................... 11 
+5.9. Class 4 Laser Controlled Area ...................................................................................................................... 12 
+5.10. Outdoor Control Measures for Class 3B or Class 4 laser systems ............................................................. 13 
+5.11. Equipment Labels ...................................................................................................................................... 13 
+5.12. Area Posting Signs ..................................................................................................................................... 14 
+SAHPGL-RDN-NM-02_v1 
+Page 3 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+5.13. Administrative and Procedural Controls ................................................................................................... 14 
+5.13.1. Standard Operating Procedures ........................................................................................................ 14 
+5.13.2. Output Emission Limitations .............................................................................................................. 14 
+5.13.3. Education and Training ...................................................................................................................... 14 
+5.13.4. Authorised Personnel ........................................................................................................................ 14 
+5.13.5. Alignment Procedures ....................................................................................................................... 14 
+5.13.6. Protective Equipment ........................................................................................................................ 15 
+5.13.7. Spectators .......................................................................................................................................... 15 
+5.13.8. Service Personnel ............................................................................................................................... 15 
+5.14 Protection Equipment ................................................................................................................................ 15 
+5.14.1 General Guidelines .............................................................................................................................. 15 
+5.14.2 Eye Protection ..................................................................................................................................... 15 
+5.14.3. Laser Protective Windows ................................................................................................................. 16 
+5.14.4. Laser Protective Barriers and Curtains ............................................................................................... 16 
+5.14.5. Skin Protection ................................................................................................................................... 16 
+5.14.6. Other Personnel Protective Equipment ............................................................................................. 16 
+5.15. Warning Signs and Labels ..................................................................................................................... 16 
+5.15.1. Design of Signs ................................................................................................................................... 16 
+5.15.2. Symbols .............................................................................................................................................. 16 
+5.15.3. Warning Labels ................................................................................................................................... 16 
+Figure 1: Laser Warning Sign and Label ............................................................................................................. 18 
+5.16. Modification of Laser Systems .............................................................................................................. 19 
+6. 
+LASER SAFETY AND TRAINING PROGRAMS ................................................................................................ 19 
+6.1. Organisation ............................................................................................................................................ 19 
+6.2. Education ................................................................................................................................................ 19 
+7. 
+MEDICAL EXAMINATIONS .......................................................................................................................... 19 
+8. 
+ NON-BEAM HAZARDS ............................................................................................................................... 20 
+8.1. General .................................................................................................................................................... 20 
+8.2. Electrical Hazards .................................................................................................................................... 20 
+8.3. Laser Generated Air Contaminants (LGAC) ............................................................................................. 20 
+8.4. Fire Hazards ............................................................................................................................................ 20 
+8.5. Explosion Hazards ................................................................................................................................... 21 
+8.6. Compressed Gases .................................................................................................................................. 21 
+8.7. Laser Dyes ............................................................................................................................................... 21 
+8.8. Noise ....................................................................................................................................................... 21 
+SAHPGL-RDN-NM-02_v1 
+Page 4 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+8.9. Waste Disposal ........................................................................................................................................ 21 
+8.10. Confining Space and Ergonomics .......................................................................................................... 21 
+9. 
+REFERENCE ................................................................................................................................................. 21 
+10. VALIDITY ..................................................................................................................................................... 22 
+ 
+ 
+ 
+SAHPGL-RDN-NM-02_v1 
+Page 5 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Aversion response 
+Closure of the eyelid, or movement of the head to avoid an exposure to a 
+noxious stimulant or bright light. In these requirements, the aversion response 
+to an exposure from a bright laser source is assumed to occur within 0.25 s, 
+including the blink reflex time 
+Carcinogen 
+An agent potentially capable of causing cancer 
+Controlled area 
+An area where the occupancy and activity of those within it are subject to 
+control and supervision for the purpose of protection from radiation hazards 
+Cryogenics 
+The branch of physical science dealing with very low temperatures 
+Diffuse reflection 
+Change of the spatial distribution of a beam of radiance when it is reflected in 
+many directions by a surface or by a medium 
+Enclosed laser 
+A laser that is contained within a protective housing of itself or of the laser 
+system in which it is incorporated. Opening or removal of the protective 
+housing provides access to laser radiation additional to that, which is possible 
+with the protective housing in place 
+Irradiance 
+Quotient of the radiant flux incident on an element of the surface containing 
+the point at which irradiance is measured, and the area of that element. Unit: 
+watt per square centimeter (W/cm2) 
+Laser 
+A device that produces an intense, coherent, directional beam of light by 
+stimulating electronic or molecular transitions. An acronym for Light 
+Amplification by Stimulated Emission of Radiation 
+Laser safety officer (LSO) 
+One who has authority to monitor and enforce the control of laser hazards and 
+effect the knowledgeable evaluation and control of laser hazards 
+Laser system 
+An assembly of electrical, mechanical, and optical components that includes a 
+laser 
+Operation 
+The performance of the laser system over the full range of its intended 
+functions (normal operation). It does not include maintenance or service 
+Protective housing 
+An enclosure that surrounds the laser system that prevents human access to 
+laser radiation more than the prescribed accessible limits. It also limits access 
+to other associated radiant energy emissions and to electrical hazards 
+associated with components and terminals 
+Radiant energy 
+Energy emitted, transferred or received in the form of radiation. Unit: joule (J) 
+Radiant exposure 
+Surface density of the radiant energy received. Unit: joules per centimeter 
+squared (J/cm2) 
+Reflection 
+Deviation of the direction of radiation following incidence on a surface 
+Shall 
+The word “shall” is to be understood as mandatory 
+Should 
+The word “should” is to be understood as a recommendation 
+SAHPGL-RDN-NM-02_v1 
+Page 6 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+Spectator 
+An individual who wishes to observe or watch a laser system in operation, and 
+who may lack the appropriate laser safety training 
+Specular reflection 
+A mirrorlike reflection 
+Ultraviolet radiation 
+Electromagnetic radiation with wavelengths smaller than those of visible 
+radiation; for the purpose of these requirements, 180 to 400 nm 
+Visible radiation (Light) 
+Electromagnetic radiation that can be detected by the human eye. The term is 
+commonly used to describe wavelengths that lie in the range 400 to 700 nm 
+Wavelength 
+The distance between two successive points on a periodic wave which have the 
+same phase 
+ 
+1. 
+INTRODUCTION 
+A licence for use is required for the use of a Class 3B or a Class 4 laser or laser system in terms of section 4(1) 
+b and c of Hazardous Substances Act 15, of 1973. This is because the installation or use of the product directly 
+contributes toward the safety of the product. In the case of devices producing non-ionising radiation the 
+patient, operator and the public, for example, must be protected against the adverse health effects of 
+excessive exposure to this radiation. 
+1.1 
+Purpose 
+To provide clear guidance on the licensing process and ensure the safe use of laser systems. This can be 
+effectively achieved by classifying laser systems according to their relative hazards and specifying appropriate 
+controls based on these classifications. 
+1.2 
+Scope 
+This document is applicable to all users of laser systems classified in risk grouping Class 3B and Class 4 as per 
+section 3 of this document 
+2. 
+LEGAL PROVISION 
+To control the use of certain electronic products according to the Hazardous Substances Act no. 15 of 1973. 
+Licensing for sale, let and use of listed electronic products according to Regulation no. R.690 of 14 April 1989. 
+Schedule of listed electronic products according to Regulation no. R.1302 of 14 June 1991. 
+3. 
+PROCESS FOR CLASSIFICATION AND LICENCE APPLICATION  
+3.1 Classification  
+The basis of the hazard classification scheme is the ability of the primary laser beam or reflected primary 
+laser beam to cause biological damage to the eye or skin during normal operation. For example, a Class 1 
+SAHPGL-RDN-NM-02_v1 
+Page 7 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+(termed “No-Risk”) laser system is incapable of producing damaging radiation levels during operation and 
+maintenance and is therefore exempt from any control measures or other forms of surveillance. Class 2 laser 
+systems (termed “Low-power” or “Low-Risk” lasers) emit in the visible portion of the spectrum and eye 
+protection is normally afforded by the aversion response including the blink response. These laser systems 
+would only be hazardous if one purposely overcomes their natural aversion response.  
+A Class 3 laser system (“low power” or “medium power” laser) poses a hazard to the eye, since the aversion 
+response is insufficiently fast to limit retinal exposure to a momentarily safe level. Damage to other 
+structures of the eye (e.g., cornea and lens) could also take place. A Class 3 laser system may be hazardous 
+under direct and specular reflection viewing conditions, but the diffuse reflection is usually not a hazard. The 
+laser beam should not be intentionally aimed at people and the use of optical viewing aids (e.g., binoculars) 
+with Class 3 laser systems may be hazardous. Skin hazards normally do not exist for incidental exposure. 
+Class 3 laser systems are divided into two subclasses, Class 3R and 3B. Class 3R is lasers or laser systems, 
+which is normally not hazardous unless viewed intentionally for a long time. For a Class 3B laser system, 
+exposure (including brief accidental exposure) of the eye to the direct beam may cause serious injuries.  
+A Class 4 laser system (“High-Power” laser) is a hazard to the eye or skin from direct beam and sometimes 
+from a diffuse reflection and they also present a potential fire hazard. Class 4 laser systems may also produce 
+laser generated air contaminants and hazardous plasma radiation. 
+It must be recognized that the classification scheme used relates specifically to the laser product and its 
+potential hazard, based on operating characteristics. 
+3.2 Process for Licence Application  
+ 
+A licence for use of a laser or laser system is required in terms of the Hazardous Substances Act. This must be 
+done by using the prescribed application forms available at www.sahpra.org.za/radiation-control-
+application-and-report-forms/    
+ 
+Application for a licence to use, operate, apply, install or keep installed a medical laser – Doc number GLF-
+RDN-NM-02A, or  
+ 
+Application for a licence to use, operate, apply, install or keep installed a non-medical laser – Doc number 
+GLF-RDN-NM-02B 
+ 
+The information to be supplied includes the details of the applicant, premises, product, safety control 
+measures, intended use of the product and declaration. 
+ 
+The product sales licence number is available from the supplier (licence holder) in South Africa. No licence 
+for use of a unit can be issued without a valid licence for the importation thereof. 
+ 
+Information on the Safety Control Measures is discussed in Section 4 to Section 8 of this document. 
+SAHPGL-RDN-NM-02_v1 
+Page 8 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+ 
+Completed licence application must be submitted to nirmed.application@sahpra.org.za. 
+If the information supplied is sufficient, an electronic licence will be emailed to the applicant within 30 
+working days. Disapproval of an application will be communicated to the applicant and the reasons for 
+refusal will be provided. The applicant may appeal against such refusal. 
+ 
+Any enquiries related to the licensing process may be submitted to nirmed.enquiry@sahpra.org.za 
+ 
+4. 
+LASER SAFETY OFFICER (LSO)  
+ 
+4.1.  General  
+ 
+An individual shall be designated the Laser Safety Officer (LSO) with the authority and responsibility to 
+monitor and enforce the control of laser hazards for the operation, maintenance and service of a Class 3B or 
+Class 4 laser system. The LSO may be designated from among such personnel as the radiation protection 
+officer, industrial hygienist, safety engineer, laser specialist, laser operator, etc.  
+4.2.  Classification  
+ 
+The LSO shall verify classification of lasers and laser systems used under their jurisdiction.  
+4.3. Hazard Evaluation  
+ 
+The LSO shall be responsible for hazard evaluation of laser work areas.  
+4.4. Control Measures  
+The LSO shall be responsible for assuring that the prescribed control measures are in effect, recommending 
+or approving substitute or alternate control measures when the primary ones are not feasible or practical, 
+and periodically auditing the functionality of those control measures in use (see Section 5).  
+4.5. Procedure Approvals  
+ 
+The LSO shall approve standard operating procedures, alignment procedures, and other procedures that may 
+be part of the requirements for administrative and procedural control measures.  
+4.6. Protective Equipment  
+ 
+The LSO shall recommend or approve protective equipment i.e., eyewear, clothing, barriers, screens, etc., as 
+may be required to assure personnel safety. The LSO shall assure that protective equipment is audited 
+periodically to ensure proper working order.  
+SAHPGL-RDN-NM-02_v1 
+Page 9 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+4.7. Signs and Labels  
+ 
+The LSO shall approve the wording on area signs and labels.  
+4.8. Facility and Equipment  
+ 
+The LSO shall approve laser installation facilities and laser equipment prior to use. This also applies to 
+modification of existing facilities or equipment.  
+ 
+4.9. Safety Features Audits  
+The LSO shall ensure that the safety features of the laser installation facilities and laser equipment are 
+audited periodically to assure proper operation. 
+4.10. Training  
+The LSO shall ensure that adequate safety education and training is provided to laser area personnel. 
+4.11. Medical Surveillance 
+The LSO shall determine the medical surveillance requirements for personnel working in a laser environment 
+(see Section 7). 
+4.12. Additional responsibility of the LSO 
+The LSO will have the authority to suspend, restrict, or terminate the operation of a laser system if it is 
+deemed that the laser hazard controls are inadequate. 
+ 
+ 
+5. 
+CONTROL MEASURES  
+5.1.  General Considerations  
+ 
+Control measures intend to reduce the possibility of exposure of the eye and skin to hazardous levels of laser 
+radiation and to other hazards associated with the operation of laser devices during operation and 
+maintenance. The LSO has the authority to monitor and enforce the control of laser hazards. For all uses of 
+lasers and laser systems, it is recommended that the minimum laser radiation required for the application be 
+used. 
+ It is also recommended that the beam height be maintained at a level other than the normal position of the 
+eyes of a person in the standing or seated position. Engineering controls items incorporated into the laser 
+system or designed into the installation by the user shall be given primary consideration in instituting a 
+control measure program for limiting access to laser radiation. If engineering controls are impractical or 
+inadequate, administrative and procedural controls and personnel protective equipment shall be used. The 
+limits of any type of control measure for example, failure modes of enclosures and eye protection, or the 
+inability of some personnel to understand written warnings, shall be considered when developing a laser 
+hazard control program.  
+SAHPGL-RDN-NM-02_v1 
+Page 10 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+5.2. Protective Housings  
+ 
+A protective housing that surrounds the laser system shall be provided to limit access to associated radiant 
+energy emissions and to electrical hazards associated with components and terminals. In some 
+circumstances, such as research and development, operation of laser systems without a protective housing 
+may become necessary. In such cases the LSO shall perform a hazard analysis and ensure that control 
+measures are instituted to ensure safe operation. These controls may include, but not be limited to:  
+a) Access Restriction  
+b) Eye Protection  
+c) Area Control  
+d) Barriers, Shrouds, Beam Stops Etc.  
+e) Administrative and Procedural Controls  
+f) Education and Training  
+ 
+Lasers or laser systems which contain protective housing enclosures which are of sufficient size to allow 
+personnel within the enclosure (walk-in protective housing) shall be provided with an area warning system 
+(floor mats, IR sensors, etc.) which is activated upon entry by personnel into the protective housing. Only 
+authorised (service) personnel shall be provided with means to override the sensors for alignment or testing 
+procedures if beam access is required for beam diagnostic purposes. If overridden, the interlock circuit shall 
+activate an appropriate warning (light, electronic tone, etc.) indicating the condition of sensor override.  
+5.3. Key Control  
+ 
+A Class 3B laser system should be provided with a master switch. A Class 4 laser system shall be provided 
+with a master switch. This master switch shall be operated by a key, or by a coded access (such as a 
+computer code). The authority for access to the master switch shall be vested in the appropriate supervisory 
+personnel. The master switch shall be disabled when the laser system is not intended to be used. A single 
+master switch on a main control unit shall be acceptable for multiple laser installations where the 
+operational controls have been integrated.  
+5.4. Beam stop or attenuator  
+The inadvertent exposure of bystanders shall be prevented using a permanently attached beam attenuator, 
+filter or beam stop. Important in the selection of window and display screen material, are the flammability 
+and the decomposition products of the material. It is essential that the material used for viewing portals and 
+display screens does not support combustion or release toxic airborne contaminants following exposure to 
+laser radiation.  
+5.5. Beam Paths  
+ 
+The LSO shall ensure that consideration is given to direct, reflected and scattered radiation in the 
+establishment of boundaries for the laser-controlled area as furnished by the manufacturer. If the operators 
+or maintenance personnel are required to be within this controlled area, appropriate control measures shall 
+SAHPGL-RDN-NM-02_v1 
+Page 11 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+be established. In some cases, the total hazard assessment may be dependent upon the nature of the 
+environment, the geometry of the application or the spatial limitations of other hazards associated with the 
+laser use. This may include, for example, localised fume or radiant exposure hazards produced during laser 
+material processing or surgery, robotic working envelopes, location of walls, barriers, or other equipment in 
+the laser environment.  
+5.6. Remote Interlock  
+A Class 3B laser system remote interlock should be connected to an emergency master disconnect interlock. 
+A Class 4 laser system remote interlock shall be connected to an emergency master interlock. The interlock 
+connector facilitates electrical connections to the emergency master interlock or to a room, entrance, floor, 
+or area interlock. The person in charge may be permitted momentary override of the remote interlock 
+connector to allow access to other authorised persons if there is no optical radiation hazard at the time and 
+point of entry. When medical procedures requiring operation without interruption is required, interlocks may 
+be inappropriate. In these instances, the control measures specified in section 5.9 shall be used.  
+    5.7. Laser Activation Warning System  
+ 
+An alarm (for example, an audible sound such as a bell or chime), a warning light (visible through protective 
+eyewear), or a verbal “countdown” command for single pulse or intermittent operations should be used with 
+Class 3B and shall be used with Class 4 lasers or laser systems during activation or start-up. For single pulsed 
+lasers or laser systems, an audible system may commence operation when the laser power supply is charged 
+for operation, for example, during the charging of capacitor banks. In this case the warning should sound 
+intermittently during the charging procedure and continuously when fully charged. When warning lights are 
+employed, one form of warning light could indicate conditions of enabled laser (high voltage on), laser on 
+(beam on) and area clear (no high voltage or beam on). For Class 4 lasers or laser systems, the warning system 
+shall be activated a sufficient time prior to emission of laser radiation to allow appropriate action to be taken 
+to avoid exposure to the laser radiation.  
+5.8. Class 3B Laser Controlled Area  
+ 
+The Class 3B laser-controlled area shall:  
+a) Be posted with the appropriate warning signs (see 5.15). An appropriate warning sign shall be posted 
+at the entrance(s) and, if deemed necessary by the LSO, should be posted within the laser-controlled 
+area  
+b) Be operated only by authorised personnel  
+c) Be operated or attended by personnel who have been appropriately trained  
+d) Be operated in a manner such that the path is limited when the laser beam must extend beyond an 
+indoor controlled area, particularly to the outdoors under adverse atmospheric conditions, i.e. fog, 
+snow, etc. (see 5.10).  
+SAHPGL-RDN-NM-02_v1 
+Page 12 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+ 
+In addition to the above, a Class 3B controlled area should be:  
+ 
+a)  under the direct supervision of an individual knowledgeable in laser safety  
+b)  located in an area where access by spectators is limited and requires approval  
+c) have any potentially hazardous beam terminated in a beam stop of an appropriate material  
+d) have only diffusely reflecting material in or near the beam path, where feasible  
+e) provide personnel within the laser - controlled area with the appropriate eye protection  
+f) have the laser secured such that the exposed beam path is above or below eye level of a person in any 
+standing or seated position, except as required for medical use  
+g) have all windows, doorways, open portals, etc. from an indoor facility be either covered or restricted 
+in such a manner as to prevent the transmission of laser radiation  
+h) require storage or disabling (e.g., removal of the key) of the laser system when not in use to prevent 
+unauthorised use. 
+ 
+5.9. Class 4 Laser Controlled Area 
+ 
+All personnel who regularly require entry into a Class 4 laser-controlled area shall be appropriately trained, 
+provided with appropriate protective equipment, and follow all applicable administrative procedural 
+controls. All Class 4 area or entrance safety controls shall be designed to always allow both rapid egress by 
+laser personnel and admittance to the laser-controlled area under emergency conditions. For emergency 
+conditions there shall be a clearly marked “Panic Button” (remote controlled connector or equivalent device) 
+available for deactivating the laser The Class 4 laser-controlled area shall be designed to fulfil all items of 5.8, 
+and in addition shall incorporate one of the following alternatives:  
+ 
+• 
+Non-Defeatable (non-override) Area or Entrance Safety Controls  
+ 
+Non-defeatable safety latches, entrance or area interlocks (e.g., electrical switches, pressure sensitive floor 
+mats, infrared or sonic detectors) shall be used to deactivate the laser in the event of unexpected entry into 
+the laser-controlled area.  
+ 
+• 
+Defeatable Area or Entrance Safety Controls  
+ 
+Defeatable safety latches, entrance or area interlocks shall be used if non-defeatable area/entrance safety 
+controls limit the intended use of the laser system. For example, during normal usage requiring operation 
+without interruption e.g., long term testing, medical procedures, surgery), if it is clearly evident that there is 
+SAHPGL-RDN-NM-02_v1 
+Page 13 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+no laser radiation hazard at the point of entry, override of the safety controls shall be permitted to allow 
+access to authorised personnel provided that they have been adequately trained and provided with 
+adequate personal protective equipment.  
+ 
+• 
+Procedural Area or Entrance Safety Controls  
+Where safety latches or interlocks are not feasible or inappropriate, for example during medical procedures, 
+surgery, etc., the following shall apply: All authorised personnel shall be adequately trained, and adequate 
+personal protective equipment shall be provided upon entry. A door, blocking barrier, screen, curtains, etc. 
+shall be used to block, screen or attenuate the laser radiation at the entrance. At the entrance there shall be 
+a visible or audible signal indicating that the laser is energised and operating at Class 4 level. A lighted laser 
+warning sign or flashing light (visible through laser protective eyewear) are two of the appropriate methods 
+to accomplish this requirement. Alternatively, an entrance warning light assembly may be interfaced to the 
+laser in such a manner that one light will indicate when the laser is powered up (high voltage applied – but 
+no laser emission) and by an additional (flashing optional) light that activates when the laser is operating. 
+ 
+5.10. Outdoor Control Measures for Class 3B or Class 4 laser systems  
+ 
+A Class 3B or Class 4 laser system used outdoors shall meet the following requirements:  
+a) Laser warning signs shall be posted at the demarcated laser-controlled area (see 5.12)  
+b) All personnel authorised to enter the area shall be appropriately trained (see 6.2)  
+c) Only authorised personnel shall operate a laser system  
+d) Appropriate combinations of physical barriers, screening, personnel protective equipment shall be 
+provided and used by authorised personnel  
+e) Appropriate administrative controls shall be used  
+f) Directing the laser beam at motor-vehicles, aircraft or other manned structures shall be prohibited  
+g) The exposed laser beam path shall not be maintained at or near personnel eye level without specific 
+authorisation of the LSO  
+h) The beam path shall be confined and terminated wherever possible  
+i) 
+When the laser is not being used, it shall be disabled in a manner that prevents unauthorised use  
+j) 
+The operation of Class 4 lasers or laser systems during rain or snowfall or in a foggy or dusty 
+atmosphere may produce hazardous reflections near the beam. In such conditions, the LSO shall 
+evaluate the need for, and specify the use of, appropriate personal protective equipment.  
+5.11. Equipment Labels  
+ 
+SAHPGL-RDN-NM-02_v1 
+Page 14 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+The LSO shall apply advisory protective housing labeling to long distance (3 m) beam conduits. Such labeling 
+shall be placed on the outside of the conduit at appropriate intervals (approximately 3 meters), to provide 
+warning of the relative hazards of laser radiation contained within the conduit. The laser sunburst logotype 
+symbol is not required on such advisory labels. See 5.15.3 for suggested wording. Additional wording for non-
+laser hazards may be required.  
+5.12. Area Posting Signs  
+An area that contains a Class 3B or Class 4 laser system shall be posted with the appropriate sign as described 
+in 5.15.  
+5.13. Administrative and Procedural Controls  
+Administrative and procedural controls are methods or instructions that specify rules, or work practices, or 
+both, which implement or supplement engineering controls and which may specify the use of personal 
+protective equipment. 
+5.13.1. Standard Operating Procedures  
+The LSO should require approved written standard operating, maintenance and service procedures (SOP) for 
+Class 3B lasers or laser systems. The LSO shall require and approve written SOP for Class 4 lasers or laser 
+systems. These written SOPs shall be maintained with the laser equipment for reference by the operator and 
+maintenance or service personnel (see 5.13.5).  
+5.13.2. Output Emission Limitations  
+ 
+If, in the opinion of the LSO, excessive power or radiant energy is accessible during operation or maintenance 
+of the laser system, the LSO shall take such action as required to reduce the levels of accessible power or 
+radiant energy to that which is required for the application. 
+5.13.3. Education and Training  
+Education and training shall be provided for operators, maintenance or service personnel of lasers or laser 
+systems. The level of training shall be equal to the level of the potential hazard (see Section 6).  
+5.13.4. Authorised Personnel  
+The lasers or laser systems shall be operated, maintained or serviced only by authorised personnel.  
+5.13.5. Alignment Procedures 
+ Laser incident reports have repeatedly shown that an ocular hazard may exist during beam alignment 
+procedures. Written Standard Operating Procedures (SOPs) outlining alignment methods should be approved 
+for Class 3B and shall be approved for Class 4 lasers or laser systems. The use of low power (Class 1 or Class 
+2) visible lasers for path simulation of higher power lasers is recommended for alignment of higher power 
+Class 3B or Class 4 visible or invisible lasers and laser systems. 
+SAHPGL-RDN-NM-02_v1 
+Page 15 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+5.13.6. Protective Equipment 
+Protective equipment (eye protection in the form of goggles or spectacles, barriers, windows, clothing and 
+gloves, and other devices) that has been specifically selected for suitable protection against laser radiation 
+may be required when other control measures are inadequate to eliminate potential exposure (see 5.14). 
+5.13.7. Spectators  
+ 
+Spectators should not be permitted within a laser-controlled area (see 3.8, 3.9 and 3.10) that contains a Class 
+3B laser system and spectators shall not be permitted within a laser-controlled area that contains a Class 4 
+laser system unless:  
+a) appropriate approval from the supervisor has been obtained  
+b) the degree of hazard and avoidance procedure has been explained  
+c) appropriate protective measures are taken  
+5.13.8. Service Personnel  
+Personnel who require access to Class 3B or Class 4 lasers or laser systems enclosed within a protective 
+housing or protective area enclosure shall comply with the appropriate control measures of the enclosed 
+laser system. The LSO shall require that service personnel shall have the education and safety training equal 
+with the class of the laser system contained within the protective housing. 
+5.14 Protection Equipment 
+5.14.1 General Guidelines 
+Enclosure of the laser equipment or beam path is the preferred method of control, since the enclosure will 
+eliminate or minimize the hazard. When other control measures do not provide adequate means to prevent 
+access to direct or reflected beams it may be necessary to use personal protective equipment. It should be 
+noted that personal protective equipment may have serious limitations when used as the only control 
+measure with higher-power Class 4 lasers or laser systems; the protective equipment may not adequately 
+reduce or eliminate the hazard and may be damaged by the incident laser radiation. 
+5.14.2 Eye Protection 
+Eye protection devices, which are specifically designed for protection against radiation from Class 3B lasers 
+or laser systems should be administratively required and their use enforced when engineering or other 
+procedural and administrative controls are inadequate to eliminate potential exposure. Eye protection 
+devices, which are specifically designed for protection against radiation from Class 4 lasers or laser systems 
+shall be administratively required and their use enforced when engineering or other procedural and 
+administrative controls are inadequate to eliminate potential exposure Laser protective eyewear may include 
+goggles, face shields, spectacles or prescription eyewear using special filter material or reflective coatings (or 
+a combination of both) to reduce the potential ocular exposure. Laser protective eyewear shall be specifically 
+selected to withstand either direct or diffusely scattered beams. In this case, the protective filter shall exhibit 
+a damage threshold for a specified exposure time (typical 10 seconds). The eyewear shall be used in a 
+manner so that the damage threshold is not exceeded in the “worst case” exposure scenario. 
+SAHPGL-RDN-NM-02_v1 
+Page 16 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+5.14.3. Laser Protective Windows 
+Facility windows (exterior or interior) shall be provided with appropriate absorbing filter, scattering filter, 
+blocking barrier or screen, which reduces any transmitted laser radiation to save levels. Such laser windows 
+shall be specifically selected to withstand direct and diffusely scattered beams. In this case, the window 
+barrier shall exhibit a damage threshold for beam penetration for a specified exposure time equal to the 
+total hazard evaluation for the facility and specific application. Important in the selection of the window are 
+the factors of flammability and decomposition products of the window material. It is essential that the 
+window does not support combustion or release toxic airborne contaminants following a laser exposure. 
+5.14.4. Laser Protective Barriers and Curtains 
+A blocking barrier, or screen, or curtain which can block or filter the laser beam at the entrance should be 
+used inside the controlled area to prevent the laser light from exiting the area at hazardous levels. Such laser 
+barriers shall be specifically selected to withstand direct and diffusely scattered beams. In this case, the 
+barrier shall exhibit a damage threshold for beam penetration for a specified exposure time equal to the 
+total hazard evaluation for the facility and specific application. Important in the selection of the barrier are 
+the factors of flammability and decomposition products of the barrier material. It is essential that the barrier 
+does not support combustion or release toxic fumes following a laser exposure. 
+5.14.5. Skin Protection 
+In some laser applications, such as use of excimer lasers operating in the ultraviolet region, the use of a skin 
+cover shall be employed if chronic (repeated) exposures are anticipated at levels at or near the applicable 
+limits for skin exposure. Skin protection can best be achieved through engineering controls. If the potential 
+exists for damaging skin exposure, particularly for ultraviolet lasers (180 – 400 nm), then skin covers and or 
+“sunscreen” creams are recommended. Most gloves will provide some protection against laser radiation. 
+Tightly woven fabrics and opaque gloves provide protection. A laboratory jacket or coat can provide 
+protection for the arms. For Class 4 lasers, consideration shall be given to flame-retardant materials.  
+5.14.6. Other Personnel Protective Equipment 
+Respirators, additional local exhaust ventilation, fire extinguishers, and hearing protection may be required 
+whenever engineering controls cannot provide protection from a harmful ancillary environment (see Section 
+8). 
+5.15. Warning Signs and Labels 
+5.15.1. Design of Signs 
+Sign dimensions and colour, etc., shall be in accordance with Figure 1. The minimum length for the legs of the 
+equilateral triangle shall be 150 mm.  
+5.15.2. Symbols 
+The laser hazard symbol shall be a sunburst pattern consisting of two sets of radial spokes of different 
+lengths and one long spoke, radiating from a common centre. 
+5.15.3. Warning Labels 
+Labels must be at least 150 mm x 100 mm with lettering no smaller than 5mm in height  
+SAHPGL-RDN-NM-02_v1 
+Page 17 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+For Class 3B and Class 4 lasers and laser systems, the word “DANGER” must appear at the top of the panel 
+(see Figure 1). 
+All labels must have enough space to include relevant information, which can be printed or handwritten 
+legibly. Labels must include the following:  
+For all Class 3B lasers and laser systems, “Laser radiation – Avoid Direct Eye Exposure to Beam” For Class 4 
+lasers and laser systems, “Laser Radiation – Avoid Eye or Skin Exposure to Direct or Scattered Radiation” 
+The word “Radiation” on labels may be replaced by the word “Light” for lasers operating in the visible range 
+of wavelengths greater than 400 nm and equal to or less than 700 nm. For lasers operating outside of this 
+visible range the word “invisible” shall be placed prior to the word “radiation”. 
+Special precautionary instructions or protective action shall be included that may be applicable such as, 
+Invisible Laser Radiation; Knock Before Entering; Do Not Enter When Light is On; Restricted Area; etc. 
+Display all signs and labels prominently where they will effectively provide warning about laser hazards. 
+SAHPGL-RDN-NM-02_v1 
+Page 18 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+ 
+Figure 1: Laser Warning Sign and Label 
+SAHPGL-RDN-NM-02_v1 
+Page 19 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+5.16. Modification of Laser Systems 
+Where deliberate modifications are made which could change a laser system’s class and affect its output 
+power or operating characteristics to make it potentially more hazardous, the LSO shall ascertain whether 
+any additional or modified control measures are required. 
+ 
+6. 
+LASER SAFETY AND TRAINING PROGRAMS 
+ 
+6.1. Organisation 
+ 
+The management (employer) shall establish and maintain an adequate program for the control of laser 
+hazards. Safety and training programs shall be required for lasers and laser systems. The program shall 
+include provisions for the following:  
+(1) Delegation of authority and responsibility to the LSO for the monitoring and enforcement of hazard 
+evaluation and control of laser hazards.  
+(2) Education of authorised personnel (LSO, operators, service personnel and others) in the assessment and 
+control of laser hazards. This may be accomplished through training programs.  
+(3) Application of adequate protective measures for the control of laser hazards as required in Section 5.  
+(4) Incident investigation, including reporting of alleged incidents and preparation of action plans in prevention 
+of incidents following a known or suspected incident.  
+(5) Provide an appropriate medical surveillance program in accordance with Section 7.  
+ 
+6.2. Education 
+The management shall provide training to the LSO on the potential hazards, control measures, medical 
+surveillance and other pertinent information pertaining to laser safety or provide to the LSO adequate 
+consultative services. Safety training program(s) shall be provided to the users, which shall include operators, 
+technicians, engineers, maintenance and service personnel, etc., working with or around lasers. The training 
+shall ensure that the users are knowledgeable about the potential hazards and the control measures for the 
+laser equipment they may have occasion to use. 
+7. 
+ MEDICAL EXAMINATIONS 
+The reasons for performing medical surveillance of personnel working in a laser environment are the same as 
+for other potential health hazards. Although chronic injury from laser radiation in the ultraviolet, blue 
+portion of the visible, and near infrared regions is theoretically possible, risks to workers using laser devices 
+are primarily from accidental acute injuries.  
+Except for examinations following suspected injury, pre-assignment medical examinations are the only 
+examination required. The purpose is to establish a baseline against which damage (primarily ocular) can be 
+measured in the event of an accidental injury. Examinations should be performed by, or under the 
+SAHPGL-RDN-NM-02_v1 
+Page 20 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+supervision of, an ophthalmologist or optometrist or another qualified physician. Although chronic skin 
+damage from laser radiation has not been reported, and indeed seems unlikely, this area has not been 
+adequately studied.  
+The primary purpose of termination examinations is for the legal protection of the employer against 
+unwarranted claims for damage that might occur after an employee leaves a particular job. The decision 
+about whether to offer or require such examinations is left to individual employers. 
+8. 
+ NON-BEAM HAZARDS 
+8.1. General 
+In addition to direct hazards to the eyes and skin associated with exposure to the laser beam, it is also 
+important to address other hazards associated with the use of lasers. The non-beam hazards, in some cases, 
+can be life threatening, e.g., electrocution. As a result, the special considerations discussed in this section 
+require use of control measures different from those discussed in Section 5. Because of the diversity of these 
+potential hazards, the LSO may employ safety personnel to perform the hazard evaluations for special 
+considerations. 
+8.2. Electrical Hazards  
+The use of lasers or laser systems can present an electric shock hazard. This may occur from contact with 
+exposed utility power utilisation, device control, and power supply conductors. 
+8.3. Laser Generated Air Contaminants (LGAC) 
+Air contaminants may be generated when certain laser beams interact with matter. The quantity, 
+composition, and chemical complexity of the LGAC depend greatly upon the beam irradiance. While it is 
+difficult to predict what LGAC may be released in any given interaction situation, it is known that 
+contaminants, including new compounds, can be produced with many types of lasers. When the target 
+irradiance reaches a given threshold, target materials including plastics, composites, metals, and tissues may 
+liberate toxic and noxious airborne contaminants. LGAC include metallic fumes and dust, metallic oxide 
+fumes, chemical and gaseous vapors, and biological fragments from human and animal tissues (bio-aerosols, 
+dead and live cellular material, bacteria, fungi, and viruses). The LSO shall ensure that appropriate industrial 
+hygiene characterisation of exposure to LGAC is performed and appropriately controlled through exhaust 
+ventilation, respiratory protection and isolation. 
+8.4. Fire Hazards 
+Class 4 laser systems represent a fire hazard. The use of flame - retardant materials should be encouraged. 
+Opaque laser barriers e.g., curtains, can be used to block the laser beam from exiting the work area during 
+certain operations (see 5.14). While these barriers can be designed to offer a range of protection, they 
+normally cannot withstand high irradiance levels for more than a few seconds without some damage, e.g., 
+production of smoke, open fire or penetration. Users of commercially available laser barriers should obtain 
+appropriate fire prevention information from the manufacturer.  
+Operators of Class 4 lasers should be aware of the ability of unprotected wire insulation and plastic tubing to 
+catch on fire from intense reflected or scattered beams, particularly from lasers operating at invisible 
+wavelengths. 
+SAHPGL-RDN-NM-02_v1 
+Page 21 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+8.5. Explosion Hazards 
+The laser target, which may shatter during laser operation, shall be enclosed or equivalently protected to 
+prevent injury to operators and observers. 
+8.6. Compressed Gases 
+ 
+Presently, many hazardous gases are used in laser applications including chlorine, fluorine, hydrogen chloride, 
+and hydrogen fluorite. Standard operating procedures should be developed for safely handling compressed 
+gases. Typical safety problems that often arise when using compressed gases are:  
+ 
+a) Working with free-standing cylinders not separated from personnel  
+b) Inability to protect open cylinders (regulator disconnected) from atmosphere and contaminants  
+c) No remote shutoff valve or provisions for purging gas before disconnecting or reconnection  
+d) Labelled hazardous gas cylinders not maintained in appropriately exhausted enclosures  
+e) Gases of different categories (toxics, corrosives, flammable, oxidisers, inserts, high pressure, and 
+cryogenics) not stored separately.  
+8.7. Laser Dyes 
+Laser dyes are complex fluorescent organic compounds that, when in solution with certain solvents, form a 
+lasing medium for dye lasers. Certain dyes are highly toxic or carcinogenic. Since these dyes frequently need 
+to be changed, special care must be taken when handling, preparing solutions, and operating lasers. 
+8.8. Noise 
+Noise levels from certain lasers, such as excimer lasers, may be of such intensity that noise control may be 
+necessary. 
+8.9. Waste Disposal 
+Proper waste disposal of contaminated laser-related material, such as flue and smoke filters, organic dyes, 
+and solvent solutions shall be handled in conformance with appropriate municipal guidelines.  
+8.10. Confining Space and Ergonomics 
+There must be sufficient room for personnel to turn around and maneuver freely. If LGAC’s are present when 
+laser systems are used in a confined space, local exhaust and mechanical ventilation shall be provided and 
+respiratory protection shall be used. Ergonomic problems can exist in certain laser operations that can cause 
+unique arm, hand, and wrist deviations. If such repetitive deviations occur for long periods of time medical 
+problems can arise. The LSO should be aware of this problem and become familiar with appropriate user 
+control measures. 
+9. 
+REFERENCE 
+The following related document is referenced: 
+SAHPGL-RDN-NM-02_v1 
+Page 22 of 22 
+REQUIREMENTS FOR THE SAFE USE OF CLASS 3B AND CLASS 4 LASERS OR LASER SYSTEMS 
+14 September 2026 
+ 
+ 
+ANSI Z136.1-1993 American National Standard for Safe Use of Lasers 
+10. VALIDITY 
+This guideline is valid for five years from its effective date of revision. A review will occur at the end of this 
+period, or as and when the need arises.   
+ 
+

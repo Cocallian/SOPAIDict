@@ -1,0 +1,546 @@
+SAHPGL-INSP-06_v2
+Page 1 of 12
+18 September 2022
+GUIDELINE FOR FEE DETERMINATION AND PAYMENTS OF GXP
+AND PRODUCT RELATED INSPECTIONS
+This document has been prepared to serve as a guidance document on the fees structure employed to calculate the fees
+for GxP and product-related inspections.
+Document History
+Final
+Version
+Reason for Amendment
+Effective Date
+1
+First issue and published for implementation
+March 2021
+2
+−
+Content structured on the latest SAHPRA Guideline Template
+−
+Old guideline number 4.13 changed to SAHPGL-INSP-06
+September 2022
+DR BOITUMELO SEMETE-MAKOKOTLELA
+CHIEF EXECUTIVE OFFICER
+Guideline for Fee Determination and Payments of GxP and Product Related Inspections
+18 September 2022
+SAHPGL-INSP-06_v2
+Page 2 of 12
+13] Guide To Fee Determination And Payments Of GxP And Product Related Inspections [v1]
+of
+Contents
+Document History............................................................................................................................................ 1
+Glossary............................................................................................................................................................3
+1.
+INTRODUCTION........................................................................................................................................ 5
+1.1 Purpose.................................................................................................................................................... 5
+1.2 Scope........................................................................................................................................................ 5
+2.
+LEGAL PROVISION.....................................................................................................................................5
+3.
+EXPLANATORY NOTES............................................................................................................................... 5
+4.
+GOOD MANUFACTURING PRACTICE (GMP) INSPECTIONS........................................................................6
+4.1 GMP Local Inspections [QC Laboratory, Holder of Certificate of Registration and Manufacturer]:.......... 6
+4.2 GMP International Inspections:................................................................................................................7
+5.
+REMOTE INSPECTIONS..............................................................................................................................7
+6.
+GOOD CLINICAL PRACTICE (GCP) INSPECTIONS........................................................................................7
+6.1 GCP Local Inspections...............................................................................................................................7
+6.2 GCP International Inspections.................................................................................................................. 7
+7.
+GOOD WHOLESALING PRACTICE (GWP) INSPECTIONS............................................................................. 8
+8.
+CANNABIS CULTIVATION INSPECTIONS.....................................................................................................8
+9.
+PHARMACOVIGILANCE INSPECTIONS....................................................................................................... 8
+10. INTERNATIONAL TRAVEL AND ACCOMODATION...................................................................................... 8
+11. FEE PAYMENT............................................................................................................................................9
+12. REFERENCES........................................................................................................................................... 10
+13. VALIDITY................................................................................................................................................. 10
+14. ADDENDA............................................................................................................................................... 11
+14.1 Addendum 1: Onsite Inspections........................................................................................................... 11
+14.2 Addendum 2: Remote / Hybrid# Inspections......................................................................................... 12
+Guideline for Fee Determination and Payments of GxP and Product Related Inspections
+18 September 2022
+SAHPGL-INSP-06_v2
+Page 3 of 12
+13] Guide To Fee Determination And Payments Of GxP And Product Related Inspections [v1]
+of
+Glossary
+Abbreviation/ Term
+Meaning
+Active pharmaceutical
+ingredient (API)
+Any substance or mixture of substances intended to be used in the
+manufacture of a pharmaceutical dosage form and that, when so used,
+becomes an active ingredient of that pharmaceutical dosage form. Such
+substances are intended to furnish pharmacological activity or other direct
+effect in the diagnosis, cure, mitigation, treatment, or prevention of disease or
+to affect the structure and function of the body.
+Certificate of registration
+A certificate of registration issued under section 15, 15A or 15B of the Act.
+Compensatory calculated
+fee
+A compensatory calculated fee is fee calculated to compensate for
+services rendered by the Authority in line with Section 33A of the Act.
+Distributor
+Holder of Certificate of Registration (HCR) or proposed Holder of Certificate of
+Registration (PHCR) of pharmaceutical product.
+Holder of Certificate of
+Registration
+A person in whose name a registration certificate has been granted and
+who is responsible for all aspects of the medicines, including quality and
+safety and compliance with conditions of registration.
+Manufacturer
+A person manufacturing a medicine and includes a manufacturing pharmacy.
+Multicentre Site
+A clinical trial conducted according to a single protocol but at more than
+one site, and therefore, carried out by more than one investigator.
+Person
+Means a natural or juristic person
+Pharmaceutical Quality
+Control Laboratory
+Carries out the required tests and assays to verify that APIs, excipients and
+pharmaceutical products
+meet the prescribed specifications.
+Protocol
+A document that describes the objective(s), design, methodology,
+statistical considerations, and organization of a trial. The protocol usually
+also gives the background and rationale for the trial, but these could be
+provided in other protocol referenced documents. Throughout the ICH
+GCP Guideline the term protocol refers to protocol and protocol
+amendments.
+Service rendered
+Service rendered includes, but is not limited to, conducting the inspection
+on-site and/or virtually, and the completing (writing and review) of the
+inspection report in order take an administrative action while effecting
+Guideline for Fee Determination and Payments of GxP and Product Related Inspections
+18 September 2022
+SAHPGL-INSP-06_v2
+Page 4 of 12
+13] Guide To Fee Determination And Payments Of GxP And Product Related Inspections [v1]
+of
+the objects and functions of the Authority as per the Act.
+Sponsor
+An individual, company, institution, or organization, which takes
+responsibility for the initiation, management, and/or financing of a
+clinical trial.
+Sponsor-Investigator
+An individual who both initiates and conducts, alone or with others, a
+clinical trial, and under whose immediate direction the investigational
+product is administered to, dispensed to, or used by a subject. The term
+does not include any person other than an individual (e.g., it does not
+include a corporation or an agency). The obligations of a sponsor-
+investigator include both those of a sponsor and those of an investigator.
+Trial Site
+The location(s) where trial-related activities are actually conducted.
+Wholesaler
+A person who holds, stores, delivers or purchases medicines or Scheduled
+substances from a manufacturer and sells them in terms of Section 22H
+of the Act.
+Guideline for Fee Determination and Payments of GxP and Product Related Inspections
+18 September 2022
+SAHPGL-INSP-06_v2
+Page 5 of 12
+13] Guide To Fee Determination And Payments Of GxP And Product Related Inspections [v1]
+of
+1.
+INTRODUCTION
+The South African Health Products Regulatory Authority (SAHPRA) (hereinafter referred to as the Authority)
+is a statutory body, established to provide for the monitoring, evaluation, regulation, investigation,
+inspection, registration and control of medicines, Scheduled substances, clinical trials and medical devices,
+IVDs and related matters in the public interest according to section 2A of the Medicines and Related
+Substances Act, Act 101 of 1965, as amended (hereafter, “the Act”). The Authority must ensure medicines
+registered by the Authority, during its entire life cycle, comply with the information that has been evaluated
+and approved by the Authority through section 2B(1)(c) of the Act.
+Regular inspections are performed at the applicant, manufacturing, quality control, wholesalers,
+distributors and clinical trial sites, of medicines, in order to ensure compliance with quality control, good
+manufacturing, wholesaling, distribution and clinical practices (GxP) as well as compliance with the relevant
+registration dossier and approved clinical trial protocols according to section 2B(1)(e)-(f) of the Act. Such
+inspections can be initiated on request by the applicant and/or SAHPRA may initiate an inspection.
+1.1
+Purpose
+This guideline is intended to assist applicants in identifying the correct category of fees to accompany
+GxP and product related inspections.
+1.2
+Scope
+This guideline is applicable to GxP and product-related inspections, however, this does not cover
+inspections for medical device establishments.
+2.
+LEGAL PROVISION
+Section 35 (xxxii) of the Act 101 0f 1965
+3.
+EXPLANATORY NOTES
+3.1
+The fees are calculated to raise funds for the Authority as provided by Section 33A(1)(b) of the Act
+in order for the Authority to defray expenses incurred as per Section 33A(3), taking into
+consideration the objects and functions of SAHPRA determined by the Act.
+3.2
+Fees are determined per hour for service rendered. In order to be transparent, fair and objective
+in its determination of the fees to be charged, the Authority will charge a compensatory calculated
+fee after completion of the inspection in the form of hours service rendered during on-site
+inspection, desktop inspection and/or remote virtual inspection.
+For example:
+Total number of billable hours involved in sterile facility/site services rendered:
+Service
+Duration/Time
+Guideline for Fee Determination and Payments of GxP and Product Related Inspections
+18 September 2022
+SAHPGL-INSP-06_v2
+Page 6 of 12
+13] Guide To Fee Determination And Payments Of GxP And Product Related Inspections [v1]
+of
+Inspection (On-site / per inspector) (two (2) Inspectors)
+40 hours (5 days) x 2
+80 hours
+(Maximum)
+Total Duration
+80 hours
+Previous billed hours for 2 inspectors
+Inspection
+40 hours
+3.3
+Accommodation and subsistence for inspections occurring within South Africa will not be charged
+to the applicant.
+3.4
+Travel time within South Africa will be charged per hour per inspector to the applicant. This will be
+included as a separate line in the invoice.
+Province
+Hours per inspector
+Travel Time one way per
+inspection
+Travel Time Round Trip per
+inspection
+Gauteng
+0.5 hour
+1 hour
+Northwest Limpopo
+Mpumalanga KwaZulu-
+Natal
+Free State
+1 hour
+2 hours
+Western Cape
+Eastern Cape Northern
+Cape
+2 hours
+4 hours
+3.5
+Travel time outside of South Africa will be charged per hour per inspector to the applicant.
+Hours per inspector
+Travel Time one way per
+inspection
+Travel Time Round Trip per
+inspection
+Neighbouring
+Countries
+4 hours
+8 hours
+Rest of Africa
+8 Hours
+16 Hours
+International
+16 Hours
+32 Hours
+See section 12 for further details of charges for international inspections.
+4.
+GOOD MANUFACTURING PRACTICE (GMP) INSPECTIONS
+4.1
+GMP Local Inspections [QC Laboratory, Holder of Certificate of Registration and
+Manufacturer]:
+The scope of local site inspections will be based on the (proposed) licensed activities of each facility/site.
+Local site inspections will attract a fee on the activities performed at the facility/site.
+Hourly Rate
+Rationale
+Guideline for Fee Determination and Payments of GxP and Product Related Inspections
+18 September 2022
+SAHPGL-INSP-06_v2
+Page 7 of 12
+13] Guide To Fee Determination And Payments Of GxP And Product Related Inspections [v1]
+of
+R 1600 / h per inspector
+Application of compensatory calculation for the hours involved in
+inspection and travel. Travel time and Inspection time to be
+charged separately.
+4.2
+GMP International Inspections:
+The scope of international site inspections will be based on dosage forms and will be limited to the
+activities and areas associated with the production of the specified dosage form. For International
+Inspections, SAHPRA may perform desktop review / evaluate the valid GMP certificates issued by PIC/s
+aligned Regulatory Authority(ies) for GMP compliance evaluation. However, SAHPRA reserves the right
+to inspect international sites inspected by PIC/s aligned Regulatory Authorities.
+Hourly Rate
+Rationale
+R 1600 / h per inspector
+Application of compensatory calculation for the hours involved in
+inspection and travel. Travel time and Inspection time to be
+charged separately.
+5.
+REMOTE INSPECTIONS
+Remote virtual inspection for facility/site.
+Hourly Rate
+Rationale
+R 1600 / h per inspector for
+inspections
+Application of compensatory calculation for the hours
+involved in inspection
+6.
+GOOD CLINICAL PRACTICE (GCP) INSPECTIONS
+GCP inspections at clinical trial sites will be payable per protocol and/or per activity.
+6.1
+GCP Local Inspections
+Local site inspections will attract a fee based on the activities performed at the site.
+Hourly Rate
+Rationale
+R 1600 / h per inspector
+Application of compensatory calculation for the hours involved
+in inspection and travel. Travel time and Inspection time to be
+charged separately.
+6.2
+GCP International Inspections
+Guideline for Fee Determination and Payments of GxP and Product Related Inspections
+18 September 2022
+SAHPGL-INSP-06_v2
+Page 8 of 12
+13] Guide To Fee Determination And Payments Of GxP And Product Related Inspections [v1]
+of
+International sites performing BE studies will be inspected following a risk-based approach. Inspection
+fees for international GCP inspections at sites will be payable per protocol and/or per activity.
+International site inspections will attract a fee on the activities / protocol inspected at the site.
+Hourly Rate
+Rationale
+R 1600 / h per inspector
+Application of compensatory calculation for the hours involved
+in inspection and travel. Travel time and Inspection time to be
+charged separately.
+7.
+GOOD WHOLESALING PRACTICE (GWP) INSPECTIONS
+Site inspections will attract a fee based on the activities performed at the site.
+Hourly Rate
+Rationale
+R 1600 / h per inspector
+Application of compensatory calculation for the hours involved
+in inspection and travel. Travel time and Inspection time to be
+charged separately.
+8.
+CANNABIS CULTIVATION INSPECTIONS
+Site inspections will attract a fee based on the activities performed at the site.
+Hourly Rate
+Rationale
+R 1600 / h per inspector
+Application of compensatory calculation for the hours involved
+in inspection and travel. Travel time and Inspection time to be
+charged separately.
+9.
+PHARMACOVIGILANCE INSPECTIONS
+Inspections will attract a fee based on the activities performed at the site.
+Hourly Rate
+Rationale
+R 1600 / h per inspector
+Application of compensatory calculation for the hours involved
+in inspection and travel. Travel time and Inspection time to be
+charged separately.
+10. INTERNATIONAL TRAVEL AND ACCOMODATION
+10.1 Travel and accommodation required for an international inspection shall be in line with SAHPRA
+travel policy requirements.
+10.2 The Applicant shall be responsible for travel (including transfers) and accommodation costs.
+Guideline for Fee Determination and Payments of GxP and Product Related Inspections
+18 September 2022
+SAHPGL-INSP-06_v2
+Page 9 of 12
+13] Guide To Fee Determination And Payments Of GxP And Product Related Inspections [v1]
+of
+SAHPRA shall be responsible for costs associated with visas and travel insurances.
+10.3 Travel authorisation: The Inspectorate Unit shall request authorisation for the international trip as
+per National Treasury’s National Travel Policy Framework. Once authorisation is received,
+quotations for flights, accommodations and transfers (where required) shall be requested from
+the travel agent. Once quotations are approved by SAHPRA management in line with internal
+approval procedures, the itinerary and costs shall be provided to the Applicant. The quotations
+will be provided to the Applicant upon request.
+10.4 Applicants who have a mutual benefit resulting from one inspection or whose site may be part of
+multiple inspections being undertaken in one trip by SAHPRA inspectors, may share costs.
+10.5 Upon approval of the quotation for the travel and accommodation as per SAHPRA internal
+procedures, the travel agent itinerary and costs will be provided to the applicants. A full itinerary
+detailed per day will also be provided by Inspectorate, indicating flights (including internal flights),
+hotels, sites and transfers.
+10.6 Upon inspection report completion, the inspection report cover letter will be provided to the
+applicants with the travel/accommodation costs and inspection costs. Applicants may opt to split
+the payment according to their own cost review, failing which SAHPRA will split the payment.
+10.7 The cost-split must be communicated back to Inspectorate who will facilitate the issuing of
+invoices per applicant from SAHPRA Finance. Invoices will be provided with the respective
+inspection reports.
+11. FEE PAYMENT
+11.1 After the inspection, the inspection report and the invoice will be sent in PDF format via email to
+the HCR / Manufacturer / Laboratory / Sponsor / CRO / Principal Investigator. The inspection
+report shall contain the number of hours to be charged for the inspection and the number of hours
+spent on travel. The costs of accommodation and travel will be listed as separate line items in the
+invoice.
+11.2 The invoice will contain the banking details of the Authority, the due date of the inspection fee
+payment, a unique reference number and the amount payable by the HCR / Manufacturer /
+Laboratory / Sponsor / CRO / Principal Investigator for the inspection.
+11.3 The HCR / Manufacturer / Laboratory / Sponsor / CRO / Principal Investigator must ensure that the
+unique reference number is used as the reference number for payments made to the Authority.
+Proof of payment documentation must be submitted to inspectorate@sahpra.org.za and
+finance@sahpra.org.za and accompany inspection report response. The latest Guideline on the
+Payment of Fees to SAHPRA must be consulted for requirements related to payment to SAHPRA.
+11.4 Fees are due within thirty (30) calendar days of receipt of invoice.
+11.5 The fees are calculated based on the accurate time spent on site and will be rounded off to the
+nearest half-hour.
+11.6 For the purpose of these guidelines, the applicant for GCP Inspection refers to the Sponsor or
+Principal Investigator.
+11.7 It should be noted that the inspection fee will be reviewed as per SAHPRA requirements and
+timelines.
+Guideline for Fee Determination and Payments of GxP and Product Related Inspections
+18 September 2022
+SAHPGL-INSP-06_v2
+Page 10 of 12
+13] Guide To Fee Determination And Payments Of GxP And Product Related Inspections [v1]
+of
+11.8 Note that for easy reference Applicants may use the addendums attached below.
+12. REFERENCES
+The following related documents are referenced:
+12.1 Medicines and Related Substances Act. Act 101 0f 1965, as amended.
+13. VALIDITY
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the guide for Fee
+Determination and Payments of GxP and Product Related Inspections, old document number 4.13. It will be
+reviewed
+on
+this
+timeframe
+or
+as
+and
+when
+required.
+Guideline for Fee Determination and Payments of GxP and Product Related Inspections
+18 September 2022
+SAHPGL-INSP-06_v2
+Page 11 of 12
+of
+14.
+ADDENDA
+14.1 Addendum 1: Onsite Inspections
+The following table below depicts the maximum number of hours to be levied per activity per type of inspection.
+Inspection Type
+Inspection Time (hours)
+Number of inspectors
+Total Time Spent (hours)
+GMP Biologicals - Upstream
+40
+2
+80
+GMP Biologicals - Downstream
+40
+2
+80
+GMP sterile
+40
+2
+80
+GMP non- sterile
+32
+2
+64
+GMP non-sterile – QC Laboratories*
+32
+2
+64
+1
+32
+GMP non-sterile – Cannabis Cultivation
+32
+2
+64
+HCR
+16
+1
+16
+GCP– Sponsor Driven*
+32
+2
+64
+1
+32
+GCP– Investigator Driven*
+24
+2
+48
+1
+24
+GWP
+16
+1
+16
+Pharmacovigilance*
+32
+2
+64
+1
+32
+* = Number of inspectors dependent on complexity of site/trial
+Guideline for Fee Determination and Payments of GxP and Product Related Inspections
+18 September 2022
+SAHPGL-INSP-06_v2
+Page 12 of 12
+of
+14.2 Addendum 2: Remote / Hybrid# Inspections
+Inspection Type
+Inspection Time (hours)
+Number of inspectors
+Total Time Spent (hours)
+GMP Biologicals - Upstream
+50
+2
+100
+GMP Biologicals - Downstream
+50
+2
+100
+GMP sterile
+50
+2
+100
+GMP non- sterile
+40
+2
+80
+GMP non-sterile – QC Laboratories*
+40
+2
+80
+1
+40
+GMP non-sterile – Cannabis Cultivation
+40
+2
+64
+HCR
+20
+1
+20
+GCP– Sponsor Driven*
+40
+2
+80
+1
+40
+GCP– Investigator Driven*
+30
+2
+60
+1
+30
+GWP
+20
+1
+20
+Pharmacovigilance*
+40
+2
+80
+1
+40
+* = Number of inspectors dependent on complexity of site/trial
+# = Hybrid - Combination of remote and onsite inspection
+

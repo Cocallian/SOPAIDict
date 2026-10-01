@@ -1,0 +1,339 @@
+SAHPGL-RDN-RDN-06_v1 
+Page 1 of 9
+ 
+ 
+ 
+20 February 2026 
+Guideline for the Application of a License to Install, Use, 
+Operate, and Apply for Magnetic Resonance Imaging (MRI) 
+The purpose of this document is to guide applicants seeking a license to install and use Magnetic Resonance 
+Imaging (MRI) equipment. It outlines the necessary processes involved in applying for a license, the required 
+supporting documents, and safety requirements. This guideline represents the minimum standards set forth 
+by the South African Health Products Regulatory Authority (SAHPRA) for submitting applications to install and 
+use MRI equipment. 
+ 
+MRI systems are regulated under the Hazardous Substances Act (Act 15 of 1973) and its subsequent 
+regulations. According to Section 4(c) of the Hazardous Substances Act, any individual or company wishing to 
+use, operate, apply, install, or store an MRI machine—whether for medical or non-medical purposes—must 
+apply for a license in accordance with this guide. Before an MRI system can be installed and used, it must be 
+licensed for import or manufacturing, and the application for technical evaluation will only be considered 
+afterward. There is a separate guideline for obtaining a license to import listed electronic products, as 
+described in Regulation 1302 of the schedule for listed electronic products. 
+ 
+The application form for obtaining a license to install and use MRI equipment can be found on the SAHPRA 
+website. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[01 March 2026] 
+1 
+-First issue 
+30 February 2026 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-NM-06_v1 
+Page 2 of 9
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 4 
+1.1 
+Purpose ...................................................................................................................................................... 4 
+1.2 
+Scope .......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+a. 
+Hazardous Substances Act 15 of 1973 ....................................................................................................... 4 
+b. 
+Regulation 1302 on Schedule of listed electronic products. ..................................................................... 4 
+3. 
+APPLICATION PROCESS. ............................................................................................................................. 5 
+3.1 
+Application Form. ....................................................................................................................................... 5 
+3.2 
+Supporting documentation ........................................................................................................................ 5 
+4. 
+ACKNOWLEDGEMENT AND REJECTION OF THE APPLICATION .................................................................. 6 
+5. 
+VALIDITY AND RENEWAL OF THE USE LICENSE FOR MRI ........................................................................... 7 
+6. 
+COMMISSIONING AND ACCEPTANCE TESTS OF MRI ................................................................................. 7 
+6.1 
+Acceptance Tests ........................................................................................................................................ 7 
+6.2 
+Acceptance Tests by the applicant ............................................................................................................. 7 
+6.3 
+Quality Assurance program ........................................................................................................................ 8 
+7.        MRI SAFETY SIGNS…………………………………………………………………………………………………………………………………8 
+8. 
+REFERENCES ............................................................................................................................................... 9 
+9. 
+VALIDITY ..................................................................................................................................................... 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-NM-06_v1 
+Page 3 of 9
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+MRI  
+Magnetic Resonance Imaging  
+SAHPRA 
+South African Health Products Regulatory Authority  
+RF  
+Radiofrequency  
+HAS Act  
+Hazardous Substances Act 15 of 1973 
+ 
+ 
+ 
+SAHPGL-RDN-NM-06_v1 
+Page 4 of 9
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+1. 
+INTRODUCTION 
+The installation, use, and operation of Magnetic Resonance Imaging (MRI) machines are regulated by the 
+Radiation Control Unit of the South African Health Products Authority, in accordance with the Hazardous 
+Substances Act 15 of 1973. MRI machines are listed under section 5.11 of Regulation 1302, which includes a 
+schedule of electronic products that are controlled and regulated for use. This also covers the installation, 
+application, and maintenance of these devices, as detailed in section 4 of the Hazardous Substances Act. 
+MRI machines pose risks of exposing the public to strong magnetic fields and radiofrequency (RF) waves. These 
+risks can lead to issues such as the malfunctioning of implanted medical devices, burns from heating, and 
+projectile hazards from ferromagnetic objects, among others. 
+To minimize these risks, the Radiation Control Unit of the South African Health Products Authority aims to 
+ensure compliance with the regulations and safety requirements surrounding the use, operation, and 
+application of MRI machines. 
+1.1 
+Purpose 
+The purpose of this guideline is to ensure that the installation and use of MRI equipment comply with safety 
+regulations. Additionally, the guideline aims to improve and enhance public safety by minimizing exposure 
+to magnetic fields during the operation and application of MRI equipment. 
+1.2 
+Scope 
+To assist the applicant in applying for a license to install, use and operate MRI equipment, including the 
+required supporting documents and necessary safety regulations to that must be followed. 
+2. 
+LEGAL PROVISION 
+a. Hazardous Substances Act 15 of 1973 
+b. Regulation 1302 on Schedule of listed electronic products.  
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-NM-06_v1 
+Page 5 of 9
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+3. 
+APPLICATION PROCESS  
+3.1 
+ Application Form 
+Any individual or entity wishing to install, use, operate, or apply MRI equipment for either medical or non-
+medical purposes must apply for a license through the Radiation Control Unit of SAHPRA. To initiate this 
+process, 
+applicants 
+must 
+complete 
+the 
+prescribed 
+application 
+form 
+found 
+on 
+the 
+link 
+https://www.sahpra.org.za/radiation-control-application-and-report-forms/.   
+The completed, signed, and dated application form should be submitted in PDF format to the email address 
+nirmed.application@sahpra.org.za. It is essential that the application clearly includes the following 
+information: 
+a) The physical address of the premises (Hospital or Diagnostic practice) 
+b) Contact details of the person responsible (including telephone and email address) 
+c) Information about the reporting radiologist (including the latest HPSCA number) 
+d) Details of qualified MRI radiographers (including the latest HPSCA number) 
+e) A description of the MRI equipment (including model and Tesla levels) 
+f) Serial Number of the machine (It must be provided to the regulator when machine is delivered, if not 
+available when application is sent) 
+g) The product model import license number (which must be provided by the suppliers)  
+3.2 
+Supporting documentation 
+The prescribed completed, signed, and dated application form must be sent to the Radiation Control unit 
+of SAHPRA using the email address nirmed.application@sahpra.rog.za accompanied by the following 
+documentation: 
+a. Professional registration supporting documentation 
+ 
+HPSCA Certification of the reporting/responsible Radiologist 
+ 
+HPSCA Certification of the responsible MRI Radiographer 
+ 
+SAHPGL-RDN-NM-06_v1 
+Page 6 of 9
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+ 
+b. Technical Supporting Documentation 
+ 
+Premises layout sketches 
+ 
+Layout Sketches indicating magnetic fields around the MRI machine premises  
+ 
+Acceptance and Installation Tests after the installation are completed. 
+ 
+Any supporting documentation may be instructed. 
+4. 
+ACKNOWLEDGEMENT AND REJECTION OF THE APPLICATION  
+a. Upon receipt of a completed application form for a license to install and use MRI, including all 
+required supporting documents, the applicant will receive an acknowledgment confirming the 
+receipt of the application.  
+b. The model of the MRI machine applied must be licensed for importation. 
+c. The application will be subjected to the screening, evaluation, and approval processes with a 
+timeframe of 60 working days. 
+d. After the technical evaluation of the application, the applicant will be sent an email informing 
+them to proceed with the installation. 
+e. Depending on the technical evaluation results of the submitted supporting documents, the 
+regulator might request to perform the pre inspections. 
+f. 
+When the application is approved, the Regulator will inform the applicant through an email  
+g. If the application came through with incorrect or incomplete supporting documents, the 
+Regulator would send an email to the applicant requesting the complete/correct documentation 
+to be submitted. 
+h. The applicant will have five (10) working days to submit the correct supporting documents from 
+the day they receive the email from Regulator about incorrect or complete documents. 
+i. 
+If the applicant has not responded to the Regulator with correct supporting documents within 
+the allocated timeframe, they will receive a reminder. 
+SAHPGL-RDN-NM-06_v1 
+Page 7 of 9
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+j. 
+If the applicant has not responded to the regulator with correct supporting documents within 30 
+working days from when the application was received, the applications will be considered 
+unsuccessful, and communication will be sent to the applicant regarding this within 10 working 
+days. 
+ 
+5. 
+VALIDITY AND RENEWAL OF THE USE LICENSE FOR MRI 
+a. The use license of MRI will be valid for five (5) years.  
+b. The license will be renewable within 90 (3 months) working days before the expiry date.  
+c. The applicant must follow the steps in section 3 for submission of the application to renew. 
+d. The renewal application will be subjected to the steps in Section 4. 
+e. The applicant will be issued with communication confirming the submission of the application to 
+renew and referred to technical evaluation and assessment. 
+ 
+6. 
+COMMISSIONING AND ACCEPTANCE TESTS OF MRI 
+6.1 
+Acceptance Tests  
+The applicant must keep a file of acceptance tests that are performed as part of the installation and 
+commissioning of MRI equipment in preparation of the equipment for clinical usage. The following 
+minimum tests must be performed: 
+a. Shielding tests,  
+b. Electrical safety tests,  
+c. Confirmation of the magnetic field 0.5mT (5 Gauss),  
+d. Confirmation of the noise level among others  
+The applicant or licence holder must arrange that their technical representative(s) are involved or present 
+during the performance of the commissioning and acceptancy tests. 
+6.2 
+ Acceptance Tests by the applicant  
+In addition to the tests performed by the supplier of the MRI equipment, an applicant must 
+perform tests to ensure the following: 
+SAHPGL-RDN-NM-06_v1 
+Page 8 of 9
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+a. Independent assessment of the performance of the MRI machine 
+b. To create a file of baseline tests for regular quality assurance of the MRI machine  
+c. To identify any corrective action before the commencement of the clinician use of the machine 
+ 
+ 
+6.3 Quality Assurance Programme 
+The applicant will be responsible for compiling a policy of a quality assurance programme, which 
+includes, but is not limited to:  
+a. Screening protocols,  
+b. Imaging protocols,  
+c. Tests for MRI quality image,  
+d. Geometrical parameters 
+e. Signal noise among others. 
+f. 
+MRI routine quality control tests  
+ 
+7. 
+MRI SAFETY  
+a. The licence holder will be responsible for ensuring the safety of the staff, patients, and public 
+in and around the MRI premises.  
+b. The licence holder must ensure that the MRI room has access control. 
+c. The licence holder must ensure that the premises are correctly demarcated for access control. 
+d. The licence holder must ensure that warning signs are clearly displayed at entrance. 
+SAHPGL-RDN-NM-06_v1 
+Page 9 of 9
+DOCUMENT NAME 
+20 February 2026 
+ 
+ 
+                  
+ 
+Figure 1: MRI entry warning  
+ 
+ 
+  
+ 
+8. 
+REFERENCES 
+The following related documents are referenced: 
+1. Hazardous Substances Act 15 of 1973  
+2. International standards commission standards and guidelines for MRI accreditation 
+3. MHRI safety guidelines for MRI equipment in clinical use 
+4. HMRI MRI safety guidelines manual and safety procedures 
+9. 
+VALIDITY 
+This guideline is valid for a period of five (5) years from the effective date of revision and replaces the [Old 
+document title if applicable here/ and old document number]. It will be reviewed in this timeframe or as and 
+when required. 
+

@@ -1,0 +1,2084 @@
+SAHPGL-INSP-RC-13_v3 
+Page 1 of 34
+ 
+ 
+ 
+10 November 2022 
+GUIDELINE FOR CULTIVATION OF CANNABIS AND 
+MANUFACTURE OF CANNABIS-RELATED PHARMACEUTICAL 
+PRODUCTS FOR MEDICINAL AND RESEARCH PURPOSES 
+This document provides the principles behind the minimum requirements in terms of quality, security and standard operating 
+procedures relating to the cultivation of Cannabis and the manufacture and use of Cannabis-related pharmaceutical products for 
+medicinal and research purposes that will need to be in place should an application be submitted to SAHPRA for consideration. This 
+guideline represents SAHPRA’s current thinking on the measures required to be in place to ensure that quality products are cultivated 
+and harvested and made available to patients when prescribed by an authorised prescriber / physician. SAHPRA reserves the right to 
+request any additional information and may make amendments in keeping with current knowledge. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue, public comments incorporated and published for 
+implementation 
+November 2017 
+2 
+Published for implementation 
+May 2020 
+3 
+- 
+Updated on the latest guideline template 
+- 
+Old document number 2.44 replaced with the new unique document 
+number (SAHPGL-INSP-RC-13, see the footer of this document) 
+November 2022 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 2 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 4 
+1. 
+INTRODUCTION .......................................................................................................................................... 6 
+2. 
+LEGAL PROVISION LEGAL STATUS OF CANNABIS INTERNATIONAL TREATIES............................................ 6 
+3. 
+APPLICATIONS FOR CULTIVATION OF CANNABIS FOR MEDICINAL PURPOSES .......................................... 7 
+3.1 
+Application to the SAHPRA for a licence .................................................................................................... 7 
+3.2 
+Application to Director-General of Health for a permit ............................................................................. 8 
+3.3 
+Personnel Requirements ............................................................................................................................ 8 
+3.3.1 Suitable Fit and Proper Requirements: Applicant ...................................................................................... 8 
+3.3.2 Personnel .................................................................................................................................................... 8 
+3.3.3 Personnel Training...................................................................................................................................... 9 
+3.4 
+Security Requirements ............................................................................................................................... 9 
+3.4.1 Mandatory Requirements .......................................................................................................................... 9 
+3.5 
+Building and Facilities ............................................................................................................................... 13 
+3.6 
+Equipment ................................................................................................................................................ 13 
+3.7 
+Production and Manufacturing ................................................................................................................ 13 
+3.7.1 Seeds and Labelling Material ................................................................................................................... 13 
+3.7.2 Cultivation ................................................................................................................................................ 13 
+3.7.3 Harvesting ................................................................................................................................................ 14 
+3.7.3.1 
+Primary Processing ............................................................................................................................. 14 
+3.7.3.2 
+Drying.................................................................................................................................................. 14 
+3.7.4 Packaging .................................................................................................................................................. 15 
+3.8 
+Storage and Distribution .......................................................................................................................... 15 
+3.9 
+Special Provisions for the Production of Cannabis Intended for Processing into a Standardised ........... 15 
+3.10 Documentation ........................................................................................................................................ 16 
+3.10.1 Record Keeping and Reporting ................................................................................................................. 17 
+3.11 Good Manufacturing Practices (GMP) Related to Medicinal Cannabis and Related Products ................ 18 
+3.11.1 Compliance with Good Manufacturing Practice (GMP), Good Laboratory Practice (GLP) and  .............. 19 
+3.11.2 Quality and Safety .................................................................................................................................... 19 
+3.12 Compliance and Enforcement .................................................................................................................. 20 
+3.13 Access to Unregistered Cannabis Containing Products for Medicinal Use .............................................. 21 
+4. 
+REFERENCES ............................................................................................................................................. 21 
+SAHPGL-INSP-RC-13_v3 
+Page 3 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+5. 
+VALIDITY ................................................................................................................................................... 22 
+6. 
+ANNEXURES .............................................................................................................................................. 23 
+6.1 
+ANNEXURE A: Security ............................................................................................................................. 23 
+6.2 
+ANNEXURE B: Record keeping and reporting .......................................................................................... 31 
+ 
+ 
+ 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 4 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+API 
+Active Pharmaceutical Ingredient 
+CBD 
+Cannabidiol  
+CBN 
+Cannabinol  
+CCTV 
+Closed-Circuit Television 
+DALRRD 
+Department of Agriculture, Land Reform and Rural Development  
+DoH 
+Department of Health 
+EMA 
+European medicines Agency 
+FDA 
+Food and Drug Administration 
+GC 
+Gas Chromatography 
+GC-MS 
+Gas Chromatography Mass Spectrometry 
+GACP 
+Good Agricultural and Collection Practices 
+GLP 
+Good Laboratory Practice 
+GMP 
+Good Manufacturing Practice 
+HPLC 
+High Performance Liquid Chromatography 
+ICH 
+International Council for Harmonisation of Technical Requirements for 
+Pharmaceuticals for Human Use 
+INCB 
+International Narcotics Drug Control Board  
+Ph. Eur 
+European Pharmacopoeia 
+PIC/S 
+Pharmaceutical Inspection Co-operation Scheme 
+SABS 
+South African Bureau of Standards 
+SAHPGL-INSP-RC-13_v3 
+Page 5 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Abbreviation/ Term 
+Meaning 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SAPS 
+South African Police Services  
+SARS 
+South African Revenue Service  
+TGA 
+Therapeutic Goods Administration 
+THC 
+(-)-transdelta-9-tetrahydrocannabinol  
+TLC 
+Thin Layer Chromatography 
+WHO 
+World Health Organisation 
+ 
+ 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 6 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+The Medicines and Related Substances Act (Act 101 of 1965), as amended, herein referred to as the Medicines 
+Act, mandates SAHPRA to regulate the availability of quality medicines which are safe and efficacious for their 
+intended use. This mandate requires SAHPRA to apply standards for the production, distribution, sale and 
+marketing of medicines, medical devices and Scheduled substances. In considering the availability of any 
+medicine for human or animal use, SAHPRA assesses the balance between its benefits and risks. 
+In terms of Section 21 of the Medicines Act, authorised practitioners can apply to SAHPRA for permission to 
+access and prescribe unregistered medicines when intended to treat individual patients. Cannabis-containing 
+products intended for medicinal purposes may thus be made available, in exceptional circumstances, to 
+specific patients under medical supervision. Authorisation is dependent on the submission of an appropriate 
+dosage regimen, an acceptable justification for the proposed use, and regular reporting to SAHPRA. 
+To date, patient access to unregistered Cannabis or cannabinoid-containing medicines has been enabled by 
+SAHPRA through importation of these products. In order to ensure the availability of standardised quality-
+assured locally grown Cannabis for the manufacture of suitable pharmaceutical products, the Department of 
+Health and the SAHPRA may permit the cultivation of Cannabis solely for medicinal and research purposes. 
+This framework, developed in consultation with the Department of Agriculture, Land Reform and Rural 
+Development (DALRRD), is intended to control the cultivation, production and manufacturing of Cannabis-
+containing products intended for medicinal use in South Africa. Licensed domestic cultivation of Cannabis for 
+medicinal use is aimed at ensuring sufficient local supply for medical, scientific and clinical research purposes 
+and the implementation of control measures necessary to prevent diversion and misuse, as well as to ensure 
+patient safety.   
+This guideline provides information relating to the standards required for the cultivation and processing of 
+Cannabis as herbal starting material and identifies the critical production steps that are needed to ensure a 
+product of reliable and reproducible quality.   
+The SAHPRA encourages and supports scientific and clinical research in order to further contribute to the 
+evidence base for Cannabis-containing medicinal products. All studies involving Cannabis for medicinal use for 
+clinical or scientific research purposes require a licence by the SAHPRA. Approval by an independent research 
+ethics committee will also be required. The detailed procedure and requirements for research are available on 
+the SAHPRA website. 
+2. 
+LEGAL PROVISION LEGAL STATUS OF CANNABIS INTERNATIONAL TREATIES 
+The United Nations Single Convention on Narcotic Drugs (1961), herein referred to as Single Convention, aims 
+to combat drug abuse and trafficking through coordinated international cooperation directed at limiting the 
+possession, use, trade, distribution, import, export, manufacture and production of narcotic drugs exclusively. 
+The Single Convention provides an international framework that recognises the medicinal value of narcotic 
+drugs and ensures availability for such purposes while preventing diversion into illicit channels and abuse. 
+As a signatory to the Single Convention, South Africa is committed to comply with its obligations by controlling 
+the cultivation of Cannabis for medicinal use and reporting to the International Narcotics Drug Control Board 
+(INCB) on volumes of production and manufacture. These obligations require South Africa to minimise the risk 
+SAHPGL-INSP-RC-13_v3 
+Page 7 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+of diversion of Cannabis and to reserve its use for appropriate medical and scientific purposes only. 
+Under the Medicines Act and in line with the Single Convention, the use, cultivation and harvesting of Cannabis 
+and the manufacture of Cannabis-containing products for medicinal use may only occur through a licence 
+issued by the SAHPRA and a permit in case of manufacturing, issued by the Department of Health. These 
+conditions allow government authorities to limit the quantities of cultivated and manufactured products based 
+on the agreed quotas from the INCB, thus meeting a key obligation of preventing unregulated accumulation of 
+Cannabis material. 
+Legislative Framework 
+Access to medicines and Scheduled substances in South Africa is controlled through Scheduling of the 
+substance. Cannabis contains (-)-transdelta-9-tetrahydrocannabinol (THC) which is a narcotic substance listed 
+under Schedule 6 of the Schedules to the Medicines Act and cultivation is allowed for through the licence and 
+permit system under the Medicines Act. Likewise, cultivation for medical purpose by non-licensees remains a 
+criminal offense under this and other legislation. 
+In addition, the Medicines Act allows SAHPRA to issue a licence to manufacture either a medicine or a 
+Scheduled substance (Active Pharmaceutical Ingredient/API). Section 22C(1)(b) of the Medicines Act enables 
+the cultivation and manufacture of Scheduled substances and ensures the required oversight of SAHPRA in 
+regulating these activities. This provision allows SAHPRA to license cultivators of Cannabis for medicinal use 
+and enables regulatory oversight in a way that is compliant with South Africa’s international obligations. 
+The legislative framework addresses three regulatory aspects:   
+• 
+Authorisation of Cannabis cultivation and production domestically, for medicinal and research purposes.  
+• 
+Satisfying the requirements of South Africa’s international obligations, under the Single Convention.  
+• 
+Aligning the access of Cannabis-containing products for medicinal purposes with that of other controlled 
+medicines.  
+3. 
+APPLICATIONS FOR CULTIVATION OF CANNABIS FOR MEDICINAL PURPOSES 
+3.1 
+Application to the SAHPRA for a licence 
+An applicant may apply to the SAHPRA for a licence in terms of the provisions of Section 22C(1)(b) of the 
+Medicines Act for any or all of the following activities: 
+• 
+Cultivate/grow and produce Cannabis and Cannabis resin;   
+• 
+Extract and test Cannabis, Cannabis resin and/or cannabinoids;   
+• 
+Manufacture a Cannabis-containing or cannabinoid-containing medicine;  
+• 
+Import a Cannabis-containing medicine;  
+• 
+Export a Cannabis-containing medicine; 
+• 
+Distribute a Cannabis-containing medicine.  
+SAHPGL-INSP-RC-13_v3 
+Page 8 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Applications may be made on the basis of a site plan and site master file, prior to construction of the facility. 
+However, all completed facilities will be inspected for compliance with all requirements. 
+3.2 
+Application to Director-General of Health for a permit 
+In addition to the licence application to SAHPRA, Applicants will also be required to apply to the Director-
+General of Health for a permit in terms of the provisions of Section 22A(9)(a)(i) of the Medicines Act to 
+manufacture Cannabis for medicinal use. Section 22C(1)(b) of the Medicines Act states: 
+the Authority may- on application in the prescribed manner and on payment of the prescribed fee, issue to 
+a manufacturer...of a medicine,….or scheduled substance a licence to manufacture....such medicine,...or 
+scheduled substance, upon such conditions as to the application of such acceptable quality assurance 
+principles and good manufacturing and distribution practices as the council may determine.   
+Section 22A(9)(a)(i) of the Medicines Act states: 
+No person shall- acquire, use, possess, manufacture, or supply any Schedule 7...substance, or manufacture 
+any ...Schedule 6 substance unless he or she has been issued with a permit by the Director General for such 
+acquisition, use, possession, manufacture, or supply...; 
+There are no restrictions on the number of licences that SAHPRA may issue, except that the overall 
+quantities of substance produced in South Africa may not exceed the quota allocated by the INCB.    
+The permit system ensures that quotas issued by the INCB are adhered to. Permits will be managed fairly, 
+relative to the expected usage in the country in order to prevent accumulation of Cannabis or Cannabis 
+products. SAHPRA, together with the Department of Health, will order the seizure and destruction of any 
+Cannabis produced by a licence holder when the quantity conditions of the licence are not adhered to.   
+3.3 
+Personnel Requirements 
+3.3.1 
+Suitable Fit and Proper Requirements: Applicant  
+The integrity of a person who is granted a licence, or who has the ability to substantially influence the 
+conduct of activities under a licence, is fundamental to the Cannabis for medicinal use scheme.  
+The Applicant’s interactions and associations will be considered by SAHPRA in assessing whether the fit and 
+proper person principle is met. Applicants will be invited in their applications to make disclosures. Once 
+licensed, it is a condition of the licence that Applicants inform SAHPRA immediately upon becoming aware 
+of any matter that would call into question the Applicant’s status, or that of the Applicant’s business 
+associates' status as a fit and proper person.   
+3.3.2 
+Personnel 
+Licence holders must take all reasonable steps to ensure that staff members employed or engaged do not 
+present a risk of diversion of Cannabis or compromise the cultivation, manufacture and production of 
+Cannabis for medicinal use and Cannabis-containing products.  
+A person is unsuitable for employment in Cannabis-related operations if such a person:  
+SAHPGL-INSP-RC-13_v3 
+Page 9 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+• 
+is under the age of 18 years  
+• 
+has been convicted of a serious offence  
+The measures taken to ensure that employees do not fall into any of the descriptors above are the 
+responsibility of the licence holder. Where a licence is granted, ongoing compliance with these measures must 
+be maintained.   
+3.3.3 Personnel Training 
+It is a requirement that Applicants ensure that competent staff with appropriate skills are appointed to oversee 
+the cultivation, production or manufacture of Cannabis for medicinal or research use. Training and hygiene 
+policies must be developed and implemented and must include the following:  
+Training  
+Personnel must receive appropriate training before performing the tasks given to them. Production personnel 
+must be trained in the production techniques used.   
+Hygiene  
+All personnel entrusted with handling herbal material must maintain proper personal hygiene to ensure that 
+the quality of processing, manufacturing and production of Cannabis and Cannabis related products are not 
+compromised. Persons suffering from infectious diseases transmittable via food, or carriers of these diseases 
+must be precluded from accessing areas where they could come into contact with herbal material. Persons 
+with open wounds, inflammation and skin infections must not be allowed in areas where they could come into 
+contact with herbal material, unless they wear protective clothing or gloves. Personnel must be protected from 
+contact with toxic or potentially allergenic herbal material by means of adequate protective clothing. 
+3.4 
+Security Requirements 
+Security arrangements deployed at the proposed site will form an integral part of the conditions to be 
+considered prior to SAHPRA licence being issued and the Department of Health permit being granted. SAHPRA 
+and the Department of Health require that Applicants develop and implement appropriate security policies 
+and procedures for the cultivation, manufacturing and production of Cannabis and Cannabis-related products 
+in order to prevent unauthorised access, theft or diversion. Non-compliance with any security requirements 
+will be grounds to revoke a licence and withdraw a permit issued to an Applicant.   
+Applicants are advised that, in applying for a Cannabis licence, or conducting activities under a licence, it is an 
+offence to provide false or misleading information in relation to such application or in respect of information 
+requested by SAHPRA and or Department of Health. 
+3.4.1 Mandatory Requirements 
+There are a number of requirements prescribed in the Medicines Act and Regulations thereof, that direct a 
+licence holder to design, implement and maintain a business operational plan that ensures the security of 
+Cannabis and related products.  
+A licence or permit may be refused if the SAHPRA or the Department of Health is not satisfied that the applicant 
+will:   
+SAHPGL-INSP-RC-13_v3 
+Page 10 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+• 
+take all reasonable measures to ensure the physical security of any Cannabis cultivated or Cannabis-
+related product manufactured; and   
+• 
+ensure that there are suitable security arrangements at all locations where activities related to the licence 
+will be undertaken.  
+The Guide to Good Manufacturing Practice (GMP) for Medicines in South Africa, requires as a precondition of 
+a licence, that adequate measures to ensure security, transport, destruction, reporting and employment of 
+suitable persons are in place. The GMP guide also requires conditions around self-inspections, compliance and 
+monitoring to be adhered to.  
+Section 22A(9)(b) of the Medicines Act allows the Director-General of Health to revoke the issued permit if any 
+condition under which the permit was issued in not being complied with.   
+There are a number of critical security principles that are required to be reflected in an Applicant’s security 
+policies and procedures. These, amongst others, include the following:  
+• 
+discouraging persons from attempting to breach security measures;  
+• 
+preventing acts aimed at breaching security measures, including measures to delay security breaches to 
+provide time for defence or leading to the intrusion being abandoned;  
+• 
+preventative measures that allow access to authorised persons while declining access to others;  
+• 
+detection measures to discover security breaches; and  
+• 
+defined actions to be taken to respond to a security breach.  
+These principles should be supported by effective recording and information management systems that allow 
+the licence holder to both demonstrate how security arrangements are met, and provide tools to secure 
+evidence where there are attempts to breach security arrangements. 
+3.4.2 Risk of Diversion  
+Theft and loss are the two most likely ways in which diversion can occur and may be the result of deliberate 
+acts or negligence.  
+The following scenarios may result in theft, loss or substitution of Cannabis and should be avoided:  
+• 
+Unauthorised access by an external person  
+This is likely to be intrusion by a person or persons with no legitimate reason for accessing the site or the 
+Cannabis material. It is likely to be a deliberate act, but may be assisted through negligence. Such scenarios 
+might include covert attack (break-ins) and overt attack (armed holdups), and are most closely controlled 
+through intruder resistance mechanisms.  
+Transport is another point of potential deliberate attack and careful consideration needs to be given to the 
+security of the Cannabis material at this time.  
+• 
+Unauthorised access by an employee or visitor  
+This scenario could be the result of an employee or visitor obtaining unauthorised access to an area of the 
+Cannabis site. This could occur through deliberate deception, physical damage or negligence. It is therefore 
+important to ensure adequate internal access controls within Cannabis sites in order to prevent unauthorised 
+access by employees or visitors.  
+• 
+Authorised access by an employee or visitor  
+This scenario accounts for the employee or visitor who uses their authorised access for theft or substitution of 
+SAHPGL-INSP-RC-13_v3 
+Page 11 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Cannabis, or sabotages security arrangements to enable later unauthorised access.  
+This is an extremely difficult scenario to mitigate as it requires the imposition of controls over persons in 
+positions of trust. Personnel security, restrictions on clothing or bags, provisions around employee searches 
+might be the types of interventions used to avoid this scenario.   
+The likelihood and risk of the occurrence of these scenarios should be thoroughly considered in a security risk 
+management plan.  
+Note that in the event of an intrusion, theft or loss of Cannabis, a licence holder is required to notify both the 
+SAHPRA and the South African Police Services (SAPS) of the event as soon as possible. 
+3.4.3 Key Security Measures  
+In addition to the aforementioned principles, a number of key concepts inform the design of security systems 
+and arrangements which should be considered, and include, amongst others:   
+• 
+Access Controls  
+All security arrangements need to take into account the actions of employees, contractors, visitors and other 
+persons who may have access to, or knowledge of the Cannabis cultivation or production site. Access controls 
+are the first step in preventing access to Cannabis materials and assist in the detection and response of 
+unauthorised activity.  
+Access controls should be in place to control both entry and exit to the perimeter of the facility or site, and 
+equally important, within the facility itself. This may include locks or access passes between different sections 
+of the facility and would need to consider the relevant level of risk of any given location. For example, a storage 
+area for finished product may require more stringent access controls than an office area.  
+• 
+Intruder resistance  
+Intruder resistance can be achieved through a number of physical and technological measures. Careful design, 
+construction and ongoing maintenance are important considerations for ensuring intruder resistance. The 
+objective is to deny, deter and delay any person or persons who may attempt to access the Cannabis 
+cultivation/production site.  
+Intruder resistance refers to the concept of preventing or delaying unauthorised access or forcible attack and 
+may also include the ability to detect attempts to tamper with the barriers.  
+• 
+Crop integrity  
+Crop integrity means ensuring that the Applicant is growing the right number and chemo-types of plants. This 
+will ensure the correct quality control and identification of specific marker compounds at pre-determined 
+concentrations for the Cannabis species. In particular, cross-pollination of outdoor crops or where an enclosed 
+air filtration system is not present, poses a high risk and requires appropriate minimisation strategies by the 
+licence holder. Consequently, a person with a licence to produce Cannabis for purpose of hemp will not be 
+permitted to cultivate Cannabis for medicinal purposes on the same site, in order to prevent cross-pollination. 
+Furthermore, volunteer plants or rogue plants should be carefully controlled in outdoor sites to ensure that 
+the permitted crop size is not contaminated or exceeded.  
+• 
+Detection and response  
+While access controls and intruder resistance measures may prevent unauthorised access to Cannabis, the 
+SAHPGL-INSP-RC-13_v3 
+Page 12 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+licence holder should have measures in place to detect and respond appropriately to unauthorised access, 
+theft or loss of Cannabis. The objective of these measures is to minimise the effect of a serious incident and, 
+where possible, intervene to prevent any intrusion or losses. Examples of detection capability include 
+monitored alarms and visitor escorting practices. Note that video recording of premises can be considered a 
+detection control only when it is actively monitored.  
+• 
+Procedural security measures  
+Effective security arrangements require integration between physical infrastructure and procedural measures. 
+The objective of procedural security measures is to ensure that the licence holder has procedures in place that 
+support and complement intruder resistance and detection measures, while also managing security during the 
+handling of Cannabis in business operations. Procedural security should be reflected in operational practice 
+and tested to ensure that this is the case.  
+• 
+Disposal and destruction of Cannabis  
+Any Cannabis that is disposed of may still hold value on the illicit market; hence the security around disposal 
+and eventual destruction of Cannabis remains critical to prevent diversion. In the event that a request for 
+further processing of Cannabis by-products is made, compliance with the requirements for processed hemp 
+fiber will apply. It is possible that licence holders will seek external assistance in disposal and destruction and 
+any business arrangements should be carefully considered to ensure that risk is controlled.  
+It is important to note that the licence holder is responsible for preventing loss or theft during the destruction 
+process, even where separate contractual arrangements are in place. 
+3.4.4 Transportation of Cannabis  
+Transport management systems with appropriate procedures and control measures must be developed and 
+implemented. All transport activities must be recorded and reviewed.  The key principle of transport security 
+is to develop arrangements that adapt according to the risk associated with the movement. In some cases, 
+transport of Cannabis may be outsourced to appropriate secure transport service providers. The licence holder 
+remains responsible for the Cannabis under such arrangements.  
+Factors to be considered when preparing transport security arrangements include, but are not limited, to the 
+following:  
+• 
+Security requirements at the point of origin;  
+• 
+Security requirements at the destination point (including handover);  
+• 
+The duration of travel;  
+• 
+Security considerations specific to any areas traversed;  
+• 
+Size of consignment;  
+• 
+Means of transport; and 
+• 
+Areas where consignments may be travelling outside of the licensee’s control.  
+The licence holder needs to be able to demonstrate effective controls around these issues before any activities 
+can commence. Ongoing compliance with security arrangements is required to be maintained for the duration 
+of any licence and failure to comply could result in revocation of the licence or referral of the matter to the 
+relevant law enforcement agency.  
+Any changes to the arrangements must be reported to SAHPRA for assessment of the effect the changes have 
+on the security of the Cannabis. These changes may require an amendment to the Applicant’s licence.   
+SAHPGL-INSP-RC-13_v3 
+Page 13 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Note: Annex A identifies some minimum security measures required to be in place. Applicants are required to 
+develop and implement additional measures if required to address the infrastructure and operations of the 
+specific site. 
+3.5 
+Building and Facilities 
+Maintenance policies for building and facilities must be developed and implemented. Buildings and facilities 
+used in the processing of harvested crops must be clean, well ventilated and must not be used for other 
+activities. Buildings must be designed in a manner that protects crops against pests and domestic animals.  
+The Cannabis for medicinal use must be stored:  
+• 
+in suitable packaging materials;  
+• 
+in rooms with concrete or similar floors which are easy to clean;  
+• 
+on pallets;  
+• 
+at a sufficient distance from walls; and 
+• 
+well separated from other crops in order to prevent cross contamination.  
+Organic products must be stored separately from products not grown organically.  
+Buildings where plant processing is carried out must have changing facilities, toilets and hand washing facilities. 
+3.6 
+Equipment 
+Maintenance policy for equipment must be developed and implemented. Equipment used in plant cultivation 
+and processing must be easy to clean in order to eliminate the risk of contamination. Equipment and machinery 
+used for harvesting must be clean and in good working condition. Machine parts that come into direct contact 
+with the harvested crop must be cleaned regularly and must be free from oil and contamination, including 
+residual plant matter. 
+3.7 
+Production and Manufacturing 
+Standard operating procedures must be developed and implemented for all activities during production and 
+manufacturing. These procedures must be reviewed at appropriate time intervals according to GMP practices.   
+3.7.1 Seeds and Labelling Material 
+Labelling of seeds and other plant material must allow for botanical identification in respect of species, variety, 
+chemo-type and origin. The materials used must be traceable. Starting material must, as far as possible, be 
+free from pests and disease in order to guarantee healthy plant growth. Cuttings of female plants and 
+appropriate seed lines must be used as propagation material for the production of Cannabis.  
+During the entire production process (cultivation, harvest, drying, packaging), the presence of male plants and 
+different species, varieties or different plant parts must be monitored and reported. Any unwanted or 
+unnecessary plants and impurities found during the production process must be removed immediately. 
+3.7.2 Cultivation 
+Good Agricultural and Collection Practices must be applied in the cultivation of Cannabis, as determined by 
+the Department of Agriculture, Land Reform and Rural Development (DALRRD) for food producing plants 
+intended for human consumption.  
+SAHPGL-INSP-RC-13_v3 
+Page 14 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Measures to be considered during cultivation include but are not limited to:  
+• 
+Soil and fertilizer or alternative growth medium/ substrate;  
+• 
+The reliance on irrigation; and 
+• 
+The appropriate use of approved herbicides and pesticides. 
+3.7.3 Harvesting  
+Good harvesting practices with appropriate procedures, as determined by DALRRD, must be followed to ensure 
+that the appropriate quality product is obtained for the intended use. The following are some of the measures 
+to be considered but are not limited to those described:  
+• 
+Male, damaged, and dead plants must be removed during this process. Harvesting must take place under 
+the appropriate conditions, avoiding wet soil or extremely high air humidity. If harvesting occurs in wet 
+conditions, additional care must be taken to avoid the adverse effects of moisture.  
+• 
+During harvesting, procedures must be in place to ensure that no other plant species or Cannabis variety 
+gets mixed with the Cannabis crop. The harvested crop must not come into direct contact with the soil.  
+• 
+Directly after harvesting, the crop must be prepared for transport in clean, dry conditions (e.g. sacks, 
+baskets, boxes). All containers must be clean and free from any residues from previous harvests; 
+containers that are not in use must be kept in dry conditions, free of pests and inaccessible to domestic 
+animals.  
+• 
+Mechanical damage and compacting of the herbal drug that could result in undesirable quality changes 
+must be avoided. In this respect, care should be taken to avoid: overfilling sacks/containers and stacking 
+sacks/containers too high.  
+• 
+Freshly harvested herbal material must be delivered to the processing facility as quickly as possible in 
+order to prevent thermal degradation and mould growth.  
+• 
+The harvested crop must be protected from pests and domestic animals. 
+3.7.3.1 
+Primary Processing 
+Primary processing includes washing, cutting before drying, decontamination, freezing, distillation, drying, etc. 
+On arrival at the processing facility, the harvested crop must be directly unloaded and unpacked. Prior to 
+processing, the material must not be exposed to direct sunlight (except in cases that specifically requires this) 
+and must be protected from rain and adverse environmental conditions. 
+3.7.3.2 
+Drying 
+Drying conditions of crops must not adversely affect the quality such as drying on unsuitable surfaces, i.e. 
+directly on the ground or under direct sunlight. A uniform drying speed of the crops and the prevention of 
+mould growth by appropriate measures must be assured.  
+In cases where plant material is dried in the open air, the material must be spread in a thin layer, to ensure 
+good air circulation of the drying racks placed at sufficient distance from the drying surface.  
+Where plant material is not dried in the open air optimal drying conditions, i.e. temperature and drying time 
+must be followed, and recorded. 
+SAHPGL-INSP-RC-13_v3 
+Page 15 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+3.7.4 Packaging 
+The following are some of the measures to be taken during packaging operations but are not limited to those 
+described.   
+Packaging procedures must be developed and implemented to ensure the integrity of the product during 
+storage and distribution. The packaging process must be documented for quality and security purposes. 
+Packaging of product can only occur after adequate removal and control of any sub-standard material or 
+undesired objects.    
+The product must be packaged in clean, dry, uncontaminated packaging. The label of packed product must be 
+clear, firmly fixed and made from non-toxic material. Re-usable packaging material must be well cleaned and 
+dried prior to use. Packaging material must be stored in a clean, dry place that is free of pests and inaccessible 
+to domestic animals. The packaging material must not contaminate the product. 
+3.8 
+Storage and Distribution 
+Storage and distribution procedures must be developed and implemented. Dried, packaged products and 
+extracts must be stored in a dry, well ventilated building in which daily temperature fluctuations are limited.  
+Fresh products must be stored between 1 °C and 5 °C; frozen products must be kept at temperatures 
+below -18 °C (or below -20 °C for long-term storage).  
+In the event of bulk transport, it is important to ensure dry conditions. To prevent mould formation or 
+fermentation, it is advisable to use ventilated containers, transport vehicles and other ventilated facilities.  
+Decontamination of the storage area to combat pests must be carried out only where necessary and by 
+authorised personnel. When frozen storage or saturated steam is used for pest control, the moisture content 
+of the product must be controlled after treatment. 
+3.9 
+Special Provisions for the Production of Cannabis Intended for Processing into a 
+Standardised Herbal Medicine 
+In this guideline, herbal medicine is understood to mean any medicine that contains exclusively herbal 
+substance or herbal preparations as active ingredients.  
+A herbal medicine or preparation is regarded as one active entity in its entirety whether or not all the 
+constituents with therapeutic activity are known.  
+Herbal medicine preparations are comminuted or powdered herbal preparations, extracts, tinctures, fatty or 
+essential oils, expressed juices, processed resins or gums, etc., prepared from herbal preparations that are 
+produced through fractionation, purification or concentration.  
+As a departure from the above, chemically defined isolated constituents or their mixtures are not considered 
+herbal medicine preparations.  
+Herbal medicine preparations may contain other components such as solvents, diluents and preservatives.  
+If the Cannabis is intended for processing into a standardised herbal medicine, the Cannabis must be cultivated 
+under such standardised conditions that the content of the constituents is constant. Protocols of the 
+operations undertaken during the cultivation must be kept available.  
+The content of the main constituents, which includes ∆-9-tetrahydrocannabinol (∆-9-THC) and cannabidiol 
+SAHPGL-INSP-RC-13_v3 
+Page 16 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+(CBD), is determined quantitatively. For a selection of the other constituents, fingerprinting with a suitable 
+technique, such as GC-MS, GC, HPLC or TLC will be acceptable.  
+Unless it is proven that omitting the standardisation of one of the following elements results in a constant and 
+reproducible product, at least the following must be standardised during cultivation:  
+• 
+cultivar of the Cannabis plant;  
+• 
+cultivation substrate;  
+• 
+day length;  
+• 
+light intensity;  
+• 
+colour temperature of the lighting;  
+• 
+atmospheric humidity;  
+• 
+temperature;  
+• 
+ventilation;  
+• 
+plant age at the time of harvesting; and 
+• 
+time of day of harvesting.  
+Unless it is proven that omitting the standardisation of one of the following elements results in a constant and 
+reproducible product, at least the following must be standardised during drying:  
+• 
+atmospheric humidity;  
+• 
+temperature;  
+• 
+ventilation; and 
+• 
+drying time. 
+3.10 Documentation 
+Under the Single Convention, countries are required to inform the INCB of the quantities of Cannabis materials 
+cultivated, produced, manufactured and used at each stage of the product supply chain to substantiate 
+domestic requirements and forecast future requirements. Appropriate record keeping and reporting on the 
+part of licence holders forms a core part of assisting the Department of Health in meeting these obligations. 
+Furthermore, implementation of methodical and accurate record keeping procedures contributes to the 
+management of the risk of diversion of Cannabis for illicit uses. To support the Department’s international 
+reporting obligation, the permit will include conditions with respect to a range of information components 
+around both actual and estimated cultivation, production and manufacture.   
+Applicants must develop and implement a document management system which will allow all processes and 
+procedures which may affect the quality of the product to be recorded in the documentation for each batch. 
+The following in particular must at least be documented:  
+• 
+the location of cultivation and the name of the person (cultivator) in charge;  
+• 
+details of crops previously grown at that location;  
+• 
+nature, origin and quantity of the herbal starting materials;  
+• 
+the chemicals and other substances used during cultivation, such as fertilisers, pesticides and herbicides;  
+• 
+irrigation water analysis;  
+• 
+standard cultivation conditions, if applicable;  
+• 
+particular circumstances which occurred during cultivation;  
+• 
+harvesting and production which may affect the chemical composition;  
+SAHPGL-INSP-RC-13_v3 
+Page 17 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+• 
+departure from standard cultivation conditions, particularly during the harvesting period;  
+• 
+nature and quantity of the yield;  
+• 
+date/s and time/s of day when harvesting occurred;  
+• 
+drying conditions;  
+• 
+measures for pest control.  
+Reports of soil analyses must be kept available in the dossier addressing “Location”.  
+All batches originating from one location must be clearly labelled (e.g. with a batch number). This must be 
+done as early on in the process as possible. Batches originating from different geographic locations may be 
+combined only if guaranteed to be the same, and if ensured that the mixture is homogenous. Mixing of batches 
+must be documented. It must be recorded in the documentation for each batch that the cultivation, harvest 
+and primary processing procedures were in accordance with these requirements.  
+All parties involved in the production process must demand that their suppliers document all relevant stages 
+and elements of the production process for each batch.  
+Audit results must be recorded in an audit report. The audit report and concomitant analysis reports and other 
+documents must be kept for at least ten years.  
+In addition to the aforementioned requirements, the following reporting and forecasting requirements must 
+also be recorded:  
+• 
+Details of cultivation area;  
+• 
+Number of plants cultivated;  
+• 
+Drying mechanism and average weight loss (where drying is conducted);  
+• 
+Wet and dry weight of crops produced (total);  
+• 
+Wet and dry weight of crops produced (components);  
+• 
+End of year stock levels of crops produced (wet and dry weight);  
+• 
+Transactions of Cannabis along the supply chain (including sale or physical movements);  
+• 
+Purpose of production (medicinal or research – defined by the particular licence type);  
+• 
+Forecast production for the next calendar year; and  
+• 
+Forecast end of year stock for the next calendar year.  
+These reports require quantities of plants, Cannabis produced, and/or Cannabis resin produced. Note that the 
+separation of total and component weights is to allow for the removal of the herbal flower in some production 
+processes. In outlining the transactions along a supply chain, note that this includes any movement of materials 
+for production or manufacture, to destruction, to consumption, or to a research purpose. 
+3.10.1 Record Keeping and Reporting 
+A licence holder should ensure that information created, sent and received in the course of conducting their 
+business is appropriately recorded for the purposes of:  
+• 
+compliance with obligations under licence conditions, the Act and Regulations;  
+• 
+corporate memory and repeatable decision making;  
+• 
+ensuring the integrity of information assets;  
+• 
+facilitating business continuity as employees change over time;  
+SAHPGL-INSP-RC-13_v3 
+Page 18 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+• 
+responding to auditing or inspectorate requirements, which may include unannounced inspections and  
+• 
+meeting the security arrangements to record access to Cannabis and to Cannabis cultivation, production 
+or manufacture sites. 
+The level of detail to be included in a particular record will need to factor in the complexity of the issue being 
+addressed and any regulatory requirements that apply to the particular record.  
+As part of the application process Applicants are required to provide details of the arrangements in place to 
+undertake record keeping activity.  
+Requirement will be included within the licence conditions and must be complied with for the duration of any 
+Cannabis licence that is granted, including post surrender of a licence where applicable.  
+In the event of non-compliance with any licence requirements relating to documentation keeping, a Cannabis 
+licence may be suspended or revoked and, if appropriate, the matter referred to the relevant law enforcement 
+agency for further action. In addition, the licence holder must, as soon as reasonably practicable, notify 
+SAHPRA of:  
+• 
+the theft or suspected theft of Cannabis or Cannabis-related materials from a Cannabis site;  
+• 
+the loss or suspected loss of Cannabis or Cannabis-related materials from a Cannabis site or any other 
+place, including during transportation; and 
+• 
+a discrepancy or suspected discrepancy in the number of Cannabis plants or quantity of Cannabis 
+materials in the possession or under the control of a licence holder.  
+Should such circumstances arise, the licence holder must notify the SAHPRA and await direction. If a security 
+breach has compromised security measures, then the licence holder must take steps to secure the Cannabis 
+site and the Cannabis material.  
+The documentation requirements and key concepts related to record keeping and reporting are outlined 
+further under Annex B – Requirements and Examples. 
+3.11 Good Manufacturing Practices (GMP) Related to Medicinal Cannabis and Related Products 
+This overview reflects on the GMP, quality, safety and efficacy requirements to be taken into consideration in 
+the cultivation, harvesting and primary processing of Cannabis plants intended for medicinal use or in the 
+preparation of non-sterile Cannabis-containing medicines. Cannabis for medicinal use includes:  
+• 
+Cannabis,   
+• 
+Cannabis materials,   
+• 
+Cannabis preparations; and   
+• 
+Finished Cannabis products  
+The cultivation method, cultivar, and primary processing of the Cannabis plant determine the ultimate 
+properties of the active pharmaceutical ingredients (APIs). It is important to note that starting materials of 
+herbal origin have a complex composition and can be characterised to only a limited extent through chemical 
+or biological analysis. Therefore, an effective quality assurance system in the steps leading up to the production 
+of the API is needed in order to guarantee reproducible quality. The goals for manufacture are to ensure that 
+the Cannabis is:  
+• 
+produced hygienically to keep microbiological contamination to a minimum;  
+SAHPGL-INSP-RC-13_v3 
+Page 19 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+• 
+produced such that negative effects on the plants during cultivation, processing and storage are kept to a 
+minimum; and   
+• 
+produced under conditions that ensure that the therapeutic properties of the end product are constant 
+and reproducible. 
+3.11.1 Compliance with Good Manufacturing Practice (GMP), Good Laboratory Practice (GLP) and 
+Good Agricultural and Collection Practices (GACP) 
+All manufacturers of a medicine shall comply with all relevant aspects of Good Manufacturing Practices 
+applicable to medicines which are further described in SAHPRA Guideline, Guide to Good Manufacturing 
+Practice (GMP) for Medicines in South Africa.  
+Applicants are invited to scrutinise specifically Annexure 7 which deals with the agricultural aspects relating to 
+the production of starting materials derived from a plant.  
+Further to this, the PIC/S Guide to Good Manufacturing Practice (GMP) for Medicinal Products Part II adopted 
+by the SAHPRA addresses the GMP requirements for Scheduled Substances   
+In addition, Applicants are invited to the WHO Guidelines on Good Agricultural and Collection Practices (GACP) 
+for Medicinal Plants (http://apps.who.int/medicinedocs/pdf/s4928e/s4928e.pdf) that address the 
+requirements for good agriculture and collection practises when dealing with the herbal products.   
+All conditions set forth in the above guideline pertaining to herbal products and manufacture of Scheduled 
+Substances must be met. Applicants are advised that any alternative standards that they intend to use must 
+be specified, referenced and justified.   
+Other guidelines that Applicants may refer to include:  
+• 
+ICH Q7 Guideline: Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients; and  
+• 
+WHO guidelines for assessing quality of herbal medicines with reference to contaminants and residues. 
+http://apps.who.int/medicinedocs/index/assoc/s14878e/s14878e.pdf 
+3.11.2 Quality and Safety 
+The list of the European Pharmacopoeia (Ph. Eur.) general monographs that may be relevant to ensure 
+compliance with quality and safety of Cannabis include:  
+• 
+Herbal Drugs (1433);  
+• 
+Herbal Drug Preparations (765);  
+• 
+Herbal Drug Extracts (765); and 
+• 
+General monographs for dosage forms e.g. Oromucosal Preparations.   
+• 
+EMA guideline - Guidance on Specifications: Test Procedures and Acceptance Criteria for Herbal 
+Substances, Herbal Preparations and Herbal Medicinal Products/Traditional Herbal Medicinal Products 
+(CPMP/QWP/2820/00 Rev 2).  
+In addition, the American Herbal Pharmacopoeia monograph on Cannabis can serve as a basis for providing 
+standards of identity, analysis and quality control of Cannabis. Analytical tests to be performed shall include 
+the following, but are not limited to those mentioned:  
+• 
+Appearance;  
+• 
+Foreign Material;  
+SAHPGL-INSP-RC-13_v3 
+Page 20 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+• 
+Fineness;  
+• 
+Identification A: Microscopic Properties;  
+• 
+Identification B: TLC;  
+• 
+Microbiological Contamination;  
+• 
+Aflatoxins;  
+• 
+Pesticides;  
+• 
+Heavy Metals;  
+• 
+Loss on Drying; and  
+• 
+Assay and Related Substances.  
+The above tests are recommended on the basis that:  
+• 
+Several plant species have morphological characteristics comparable to Cannabis, leading to 
+contamination. Therefore, the inspection of microscopic and macroscopic characteristics can assist in 
+distinguishing Cannabis from contaminants.   
+• 
+Growth enhancers and pesticides or fungicides introduced during the cultivation and storage can be a 
+health hazard to the consumer.   
+• 
+Cannabis produced for intended medicinal purposes must also be free from foreign matter and from 
+moulds and bacteria that have a high likelihood of pathogenicity.   
+• 
+Primary cannabinoids of interest are tetrahydrocannabinol (THC), cannabidiol (CBD) and cannabinol 
+(CBN). Positive identification and quantitation of these substances, especially the THC/CBD ratio, is the 
+primary objective to ensure reproducible potency of the product.   
+Analytical tests must be validated. With regard to in-house test methods, guidance on the principles and 
+practice of validation of analytical procedures can be found at ICH Harmonised Tripartite Guideline Validation 
+of Analytical Procedures: Text and Methodology Q2 (R1).  
+Guidance on the sample size and sample preparation of herbal plant material for analysis is given in Ph. Eur. 
+method 2.8.20 Herbal Drugs: Sampling and Sample Preparation. 
+3.12 Compliance and Enforcement 
+Cannabis and its products, where a licence has been granted, shall be subject to strict monitoring to avoid any 
+unintended usage. Monitoring of Cannabis for medicinal use has to cover the entire chain, i.e. cultivation, 
+manufacture, import, export, distribution and access for medicinal or research purposes.   
+The SAHPRA Inspectorate conduct compliance and monitoring activities of all regulated parties to ensure 
+compliance with regulations, licence and permit requirements. These activities include compliance 
+investigations and inspecting licensed sites, as well as sites applying to be licensed to conduct regulated 
+activities. Licensed producers and manufactures are required to comply with all applicable legislation and 
+regulations.   
+In addition, where appropriate, the SAHPRA and Department of Health (DoH) work with partners including the 
+Department of Agricultrure, Land Reform and Rural Development (DALLRD), the South African Police Services 
+(SAPS), the South African Revenue Service (SARS) and professional regulatory bodies to help ensure controlled 
+substances (including Cannabis) are handled effectively and remain in legal distribution channels. As 
+appropriate, the SAHPRA refers illegal activity to the relevant authorities. 
+SAHPGL-INSP-RC-13_v3 
+Page 21 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+3.13 Access to Unregistered Cannabis Containing Products for Medicinal Use 
+In exceptional cases, unregistered Cannabis / cannabinoid-containing medicines may be prescribed by medical 
+practitioners for medicinal purposes. The Medicines Act enables patients to access Cannabis for therapeutic 
+purposes through the provisions of Section 21 of the Medicines Act. In order for patients to access these 
+unregistered medicines, the registered medical practitioner/ authorised prescriber needs to apply to the 
+SAHPRA to allow for a specific named patient to use the unregistered medicine.   
+As with any other unregistered medicine, the quality of the medicinal Cannabis and/or cannabinoids must be 
+of acceptable standard, as determined by the SAHPRA. It is recommended that the medicine is registered by a 
+regulatory authority with which the SAHPRA aligns itself, including the United States Food and Drug 
+Administration (FDA), Australian Therapeutic Goods Administration (TGA), Health Canada, European 
+Medicines Agency (EMA) and Swissmedic.   
+The Section 21 application portal and stipulated fee can be accessed on the SAHPRA website 
+sahpra.org.za/unregistered-products/.    
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+The Medicines and Related Substances Act, 1965 (Act 101 of 1965) as amended. 
+http://www.SAHPRAza.com/Publications/Index/9   
+4.2 
+General Regulations made in terms of the Medicines and Related Substances Act, 1965 (Act 101 of 
+1965) as amended. http://www.SAHPRAza.com/Publications/Index/9   
+4.3 
+Guide to Good Manufacturing Practice (GMP) for Medicines in South Africa, version 5, November 
+2010. http://www.mccza.com/Publications/Index/1   
+4.4 
+American Herbal Products Association (2014). Recommendations to regulators: Cannabis 
+manufacturing, 
+packaging, 
+labelling, 
+and 
+holding 
+operations. 
+Message 
+posted 
+to 
+https://d3n8a8pro7vhmx.cloudfront.net/americansforsafeaccess/pages/7453/attachments/original
+/1 
+406050488/14_0722_AHPA_Recommendation_for_Regulators_MPLH-
+For_Distribution.pdf?1406050488  
+4.5 
+Australian Government Department of Health, & Therapeutics Goods Administration. Good 
+manufacturing 
+practice 
+- 
+an 
+overview. 
+Retrieved 
+April 
+29, 
+2013, 
+from 
+https://www.tga.gov.au/goodmanufacturing-practice-overview  
+4.6 
+ElSohly, M., Chandra, S., Lata, H., Williamson, E., Upton, R., & Slade, D. (2013). In Upton R., Cracker 
+L., ElSohly M., Romm A., Russo E. & Sexton M.(Eds.), Cannabis inflorescence and Cannabis spp. 
+standards of identity, analysis, and quality control. Scotts Valley, CA: American Herbal 
+Pharmacopoeia.  
+4.7 
+Food and Drug Administration (2006). Guidance for industry quality systems approach to 
+pharmaceutical cGMP regulations. Pharmaceutical CGMPs,  
+4.8 
+Health Canada. Additional information for licenced producers under the access to Cannabis for 
+medical 
+purposes 
+regulations. 
+Retrieved 
+August 
+24, 
+2016, 
+from 
+http://www.hc-
+sc.gc.ca/dhpmps/marihuana/info/add-supp-eng.php   
+SAHPGL-INSP-RC-13_v3 
+Page 22 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+4.9 
+Health Canada. Archived-guidance document-building and production security requirements for 
+marihuana 
+for 
+medical 
+purposes. 
+Retrieved 
+June 
+19, 
+2013, 
+from 
+http://www.hc-
+sc.gc.ca/dhpmps/marihuana/info/bp-securit-eng.php   
+4.10 Health Canada. Guidance document for the industrial hemp regulations. Application for an industrial 
+hemp 
+licence. 
+ 
+Retrieved 
+November 
+21, 
+2016, 
+from 
+http://www.hc-
+sc.gc.ca/hcps/pubs/precurs/hemp_app-chanvre_dem-eng.php   
+4.11 HempHacker. Compliance vs. good manufacturing practices. Retrieved May 14, 2016, from 
+http://www.hemphacker.com/tag/ich/   
+4.12 HempHacker. GMP Cannabis and the marijuana industry - a short introduction. Retrieved December 
+20, 2015, from http://www.hemphacker.com/gmp-Cannabis-and-the-marijuana-industry/   
+4.13 HempHacker. (2016). CGMP definitions for the Cannabis industry-21CFR part 210. Retrieved May 16, 
+2016, from http://hemphacker.com/cgmp-definitions-for-the-Cannabis-industry-21-cfr-part-210/ 
+Johnson, R. (2014). Hemp as an agricultural commodity.  
+4.14 Ruppel, T., Kuffel, N., PerkinElmer, I., & Shelton, C. Cannabis analysis: Potency testing identification 
+and quantification of THC and CBD by GC/FID and GC/MS. Waltham, MA 02451 USA: PerkinElmer, 
+Inc.  
+4.15 Scholten, W. K. (2003). Guidelines for cultivating Cannabis for medicinal purposes [voorschriften voor 
+de verbouw van Cannabis voor medicinale doeleinden]. Annex to the regulation of the minister of 
+health, welfare and sport of 9 January 2003, GMT/BMC 2340685, containing policy guidelines for the 
+decision on applications for opium act exemptions (policy guidelines opium act exemptions) 
+(authorised English translation). Journal of Cannabis Therapeutics, 3(2), 51-61.  
+4.16 The Association of Public Health Laboratories Work Group. (2016). Guidance for state medical 
+Cannabis testing programs. Silver Springs, Maryland: Association of Public Health Laboratories.  
+4.17 The Office of Drug Control. Medicinal Cannabis manufacturing licences and permits. Retrieved 
+November 
+2, 
+2016, 
+from 
+https://www.odc.gov.au/publications/medicinal-Cannabis-
+manufacturelicences-and-permits  
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+2.44 for Cannabis Cultivation. It will be reviewed on this timeframe or as and when required. 
+SAHPGL-INSP-RC-13_v3 
+Page 23 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+6. 
+ANNEXURES 
+6.1 
+ANNEXURE A: Security  
+Applicants should note that security conditions for growing or testing Cannabis, or manufacturing of a 
+medicine containing cannabinoids are not limited to those outlined below and Applicants are required to 
+develop and implement additional measures to ensure that the required security level is achieved.   
+1  
+Access Controls  
+Mandatory requirement: The licence holder to maintain a set of access controls preventing unauthorized 
+access to Cannabis, including the site as a whole and during transportation.  This must include recording 
+of movements at both internal and external perimeters.  
+Expectations  
+Rationale  
+Example  
+Access to the Cannabis site 
+should be limited to people 
+required to be on site.   
+This is to minimise the number 
+of people that are allowed onto 
+the Cannabis site.  The nature of 
+the business should also be kept 
+discreet.   
+No access to the general public – 
+gates to block access.   
+Visitor policy that documents 
+classes of people allowed on site 
+(and circumstances).  
+Sign in/out registers.  
+No external advertising of the 
+business / Cannabis not visible to 
+the public.  
+2  
+Intruder resistance  
+Mandatory requirement: The licence holder to maintain an intruder resistant Cannabis site, designed to 
+prevent intrusion by external parties and to prevent removal of Cannabis from within the Cannabis site.   
+Expectations  
+Rationale  
+Example  
+The Cannabis site should be 
+designed and maintained to  
+deter intruders  
+Through its physical design, the 
+ability to covertly access the 
+Cannabis site is reduced and 
+therefore intruders may be 
+deterred from breaking in.  
+There should not be shrubbery 
+immediately against fences.  
+Sites should be well lit, and no large 
+objects stored near access points.   
+The outer perimeter of the 
+Cannabis site should have an 
+intruder-resistant physical 
+barrier.  
+To ensure that an intruder is 
+denied, delayed or deterred 
+from entering the Cannabis site.   
+Climb-proof perimeter fencing that 
+complies with SABS standards. 
+Mechanisms to prevent entry from 
+above or below the Cannabis site  
+SAHPGL-INSP-RC-13_v3 
+Page 24 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Cannabis should be protected 
+by two or more layers of 
+intruder-resistant physical 
+barriers.  
+The illicit value of Cannabis 
+requires that it has an added 
+layer of security to deny, deter 
+and delay an intruder.  
+Two layers of resistance seek to 
+control the risk of forcible attack.  
+For an outdoor operation, the 
+second layer could take the form of 
+another layer of fencing that 
+complies with SABS standards.   
+For an indoor operation, the 
+Cannabis could be contained in a 
+separate room that is securely 
+locked.  
+Expectations  
+Rationale  
+Example  
+For outdoor sites, there should 
+be measures in place to 
+prevent cross-pollination.   
+Cross-pollination may result in 
+different strains and 
+cannabinoid concentrations 
+leading to breaches of permit 
+conditions.  
+Mechanisms  to  prevent  cross- 
+pollination such as the utilisation of 
+distance, crop time separation, 
+natural barriers, pollen traps or 
+exclusions zones.   
+The layers of intruder-resistant 
+physical barriers should be 
+constructed so that they 
+cannot be breached by a single 
+movement or act.   
+This is to ensure that the two 
+layers of security provide two 
+points of defence against any 
+intrusion.   
+The two layers of barrier should be 
+at a distance that ensures both 
+fences are effective in their own 
+right.  A room containing Cannabis 
+should not share a wall with the 
+exterior of the building unless that 
+exterior wall has additional controls.  
+Any receptacle that contains 
+Cannabis, including waste 
+disposal units, should be 
+contained within two layers of 
+intruder-resistant physical 
+barriers.   
+This is to ensure the physical 
+security of bins where Cannabis 
+may be placed or storage 
+containers of Cannabis.   
+Bins are kept in a locked room or 
+within two layers of fencing.   
+Given that waste disposal might be 
+only an occasional activity, 
+additional controls are required to 
+store material over a longer period.   
+Refined Cannabis (such as an 
+extracted flower product) 
+should be protected by two 
+layers of intruder-resistant 
+physical barriers, one of which 
+should be a secure storage 
+unit.   
+The term ‘secure storage unit’ 
+allows for the licence holder to 
+provide security that is 
+appropriate to the volume of 
+Cannabis to be stored.  The 
+additional security requirement 
+reflects the risk of diversion of 
+the Cannabis in this state.   
+A safe, vault or strong room 
+depending on the volume of  
+Cannabis to be stored.   
+Additional access controls into such 
+spaces should also be considered.   
+The Cannabis site should not 
+identify the nature of activities 
+at the Cannabis site.   
+It is important to not identify 
+the existence of the Cannabis 
+site to prevent targeting by 
+criminals.   
+The site should be void of signs that 
+identify the company or business.   
+Vehicles that identify the company 
+should not be visible to the public.   
+Cannabis should not be visible from 
+the perimeter of the site.   
+ 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 25 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Expectations  
+Rationale  
+Example  
+The Cannabis site should be 
+designed and maintained to 
+prevent the theft or loss of 
+Cannabis during daily 
+operations.   
+Thorough careful physical 
+design, the ability for an 
+employee to access and remove 
+Cannabis without authorization 
+is minimized.   
+Employees and visitors should 
+not be presented the 
+opportunity to remove Cannabis 
+product.  This may require the 
+use of clothing inspections or 
+pocketless clothing, and/or 
+restrictions around bags and 
+other containers.   
+Work areas should be separate from 
+break areas.  
+Physical separation of office space 
+from Cannabis cultivation and 
+production sites.   
+CCTV on areas where people work 
+with Cannabis.   
+Avoid constructing areas that are 
+hidden from monitoring.   
+3  
+Detection and response  
+The licence holder to have physical security systems and documented procedures in place to detect and 
+respond to intrusion or unauthorized access, theft or loss of Cannabis.   
+The licence holder to have arrangements in place with emergency services, police and local government 
+authorities to deal with loss or theft of Cannabis.  
+Expectations  
+Rationale  
+Example  
+The Cannabis site should have a 
+physical intruder detection 
+system that monitors and 
+records activity.   
+This is to detect if intrusion or 
+unauthorised access occurs and 
+provide the evidence for any 
+possible investigation.   
+CCTV  
+Alarm system; Motion sensors.   
+Cell Phone alert system to the  
+Applicant of any breach of security  
+The licence holder should have 
+procedures in place to maintain 
+and test the efficacy of the 
+security equipment and 
+procedures.  
+This is to ensure that the system 
+is working as expected.   
+Regular testing of security systems 
+and drills for procedures.   
+Regular inspections of equipment 
+and infrastructure.   
+The Cannabis site should be 
+physically visited on a daily basis.   
+This is to verify that a breach of 
+security has not occurred.   
+Staff making daily perimeter 
+inspections.  Outsourced security 
+services.   
+The licence holder should have 
+procedures in place to rapidly 
+respond to unauthorised access.   
+The procedures should outline 
+how the licence holder uses the 
+physical detection system with 
+operational procedures to 
+detect intrusion or unauthorised 
+access.  
+Procedures to respond to alarms, 
+regular and random checks of 
+access logs, and review of CCTV 
+footage.   
+Training and regular drills for staff 
+in preparation for intrusion.   
+ 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 26 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Expectations  
+Rationale  
+Example  
+The licence holder should have 
+procedures and clear lines of 
+responsibility to ensure local 
+services, police and SAHPRA are 
+contacted in the event of a 
+serious incident.   
+This is to ensure that the licence 
+holder and employees are 
+prepared and take the necessary 
+steps to involve the relevant 
+services.   
+It is also important that local 
+services are aware of the 
+potential risks around criminal 
+activity (for police) or fire or 
+injury (emergency services).   
+Policies that document the events 
+that require police intervention 
+and procedures to follow in this 
+event.   
+Procedures to handle immediate 
+threats.   
+Procedures for contacting the 
+SAHPRA.   
+The licence holder should retain a 
+backup of all video recordings.   
+The licence holder should retain 
+all access records (for electronic 
+passes) for the period of the 
+licence.   
+This is to ensure that recordings 
+can be reviewed to identify the 
+source of theft or loss and or 
+assistance of law enforcement 
+during any potential 
+investigation.  
+IT systems to back up CCTV 
+recordings.   
+Access logs on pass access  
+(where available) are much 
+smaller in size and may be useful 
+in security auditing.   
+4  
+Procedural security measures  
+Mandatory requirement: The licence holder to design and maintain operational policies and procedures to 
+support physical security measures and prevent the theft or loss of Cannabis.   
+Expectations  
+Rationale  
+Example  
+The licence holder should have 
+policies and procedures in place to 
+minimise the opportunity of theft 
+or loss of Cannabis.   
+Ensuring staff and visitors are 
+aware of procedures around 
+activity on a Cannabis site 
+reduces the risk of diversion.   
+Divergence from standard 
+operating procedures should be 
+seen as a potential concern and 
+reviewed.   
+Staff rotation or scheduling 
+policy.   
+Daily procedures for checking 
+inventory and cross checking by 
+a second person.   
+The licence holder should have 
+policies and procedures in place 
+for responding to unauthorised 
+access or theft of Cannabis by an 
+internal source.   
+This is so the licence holder is 
+prepared to respond to a 
+situation appropriately.  
+The existence of such policies 
+may also act as a deterrent.    
+Policies and procedures for staff 
+management and referral to 
+SAHPRA and law enforcement.   
+Contingency plans in the event 
+of staff suspension or 
+termination of service.   
+ 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 27 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Expectations  
+Rationale  
+Example  
+Cannabis should be reconciled 
+against records once custody of 
+the Cannabis is formally 
+transferred, including receipt.   
+This is to make a clear point 
+where responsibility is 
+transferred and to identify any 
+loss or theft at different stages.   
+Procedures for transfer  and 
+receipt of the Cannabis.  
+Procedures to validate tamper-
+evident packaging along chain of 
+custody.   
+The licence holder should have 
+procedures to track the movement 
+of Cannabis through the Cannabis 
+site and during operational 
+activities.   
+This is to ensure that theft or loss 
+of Cannabis can be identified.   
+Plant stocktakes and mortality 
+registers.   
+Procedures that control and 
+document the transfer, testing, 
+or cloning of plants.   
+5  
+Disposal and destruction of Cannabis  
+Mandatory requirements: The licence holder to have procedures in place to ensure that all Cannabis that 
+is not to be manufactured into a medicinal product is disposed of or destroyed in a safe and secure 
+manner.  The licence holder to provide details of the method of destruction of Cannabis and any 
+arrangements with third parties to dispose of or destroy Cannabis.   
+The licence holder to have arrangements in place with emergency services, police and local government 
+authorities to deal with disposal or destruction of Cannabis.   
+Expectations  
+Rationale  
+Example  
+The licence holder should have 
+procedures in place that identify 
+activities that generate Cannabis 
+that requires disposal or 
+destruction.   
+To ensure that all Cannabis is 
+accounted for, and 
+appropriately disposed of, or 
+destroyed.   
+Standard operation procedures 
+around destruction, including 
+storage and transport of material 
+to destruction.   
+Any equipment used for 
+cultivation or production of 
+Cannabis should be regularly 
+cleaned and any Cannabis that is 
+attached to the equipment 
+disposed of or destroyed.   
+During the production process, 
+resin may become attached to 
+the equipment.  
+Cleaning ensures that any 
+Cannabis is removed from the 
+equipment and prevents the risk 
+of diversion.   
+Procedures for cleaning 
+equipment between tasks or 
+moving to another site.   
+Designated waste bins for 
+Cannabis with procedures for 
+emptying.   
+Contracts with third parties 
+should outline security 
+requirements to ensure that 
+Cannabis is not diverted before 
+or during disposal or destruction.   
+This is to address the risk that 
+any third party presents where 
+Cannabis is outside of the 
+licence holder’s control.   
+Contract with a location that has a 
+secure site or approval from a law 
+enforcement agency.   
+Record keeping from the third 
+party to demonstrate the 
+completion of the task.   
+ 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 28 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+6  
+Transportation of Cannabis  
+Mandatory requirements: The licence holder to have procedures and contingency measures in place to 
+ensure the transportation of Cannabis is discreet, and that security of Cannabis is maintained during 
+transportation and at receipt at the final destination.   
+Expectations  
+Rationale  
+Example  
+During the transportation 
+Cannabis should be contained 
+within two intruder-resistant 
+physical barriers.   
+This expectation should be 
+covered regardless of mode of 
+transportation - air, road, rail or 
+shipping.   
+Cannabis stowed in a secure 
+locked receptacle in a secure 
+vehicle.   
+In transit, Cannabis is stowed in a 
+secure locked receptacle within a 
+secure locked room.   
+Cannabis should be transported 
+in tamper-evident containers or 
+packaging.   
+This is to ensure integrity of the 
+consignment along the end to 
+end transport route.   
+Tamper-evident tapes or seals.  
+Security bags or pouches.  
+Time delay access to containers.   
+During transportation, the 
+Cannabis should have a physical 
+intruder detection system that 
+monitors and records activity.   
+This is to alert the person in 
+control of the Cannabis to a 
+possible intrusion or 
+unauthorised access to the 
+Cannabis.   
+Time delay safes/ locking systems.   
+CCTV recordings.  
+Alarms/ motion detection systems.  
+Physical guarding.   
+A consignment of Cannabis 
+should not be marked in such a 
+way that identifies its contents.   
+This is to keep the contents of 
+the container as discreet as 
+possible.   
+No external signage or symbols on 
+vehicles or containers that would 
+indicate that Cannabis is being 
+transported.   
+The licence holder should be able 
+to identify who has custody of 
+the Cannabis at any point in time 
+during transportation.   
+An expectation from law 
+enforcement agencies that the 
+consignment be tracked.   
+Custody control is important to 
+prevent substitution of product.  
+GPS tracking chips to accompany 
+the consignment.  
+Barcode tracking and log systems.  
+Procedures for reporting when 
+Cannabis is exchanged and 
+responsibility are securely 
+transferred.   
+ 
+ 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 29 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Expectations  
+Rationale  
+Example  
+The chain of custody of Cannabis 
+during transportation should be 
+clearly documented.   
+This enables any potential 
+investigation to determine the 
+point of weakness in the chain 
+of security and makes people in 
+the process accountable.  This is 
+to prevent the loss of product 
+through negligence.   
+Registers with signatures and 
+names to record people who 
+handle Cannabis.  
+Procedures that outline the point 
+in time where someone accepts 
+responsibility for the Cannabis.   
+Training for staff involved in the 
+process.   
+Contractual obligations 
+documented for third parties with 
+responsibility for the Cannabis.   
+The licence holder should have 
+procedures in place to detect the 
+theft, substitution or loss of 
+Cannabis during transportation.   
+This requirement is to address 
+the situation where it may not 
+be obvious that Cannabis has 
+been removed, particularly 
+when an employee has 
+authorized access to Cannabis.   
+Procedures to reconcile inventory 
+when Cannabis is handed from 
+one person to another.   
+Procedures to verify tamper proof 
+packaging/ seals on containers.   
+Details of delivery schedules and 
+routes should be disclosed only 
+to people that have a need to 
+know.  
+To prevent stealing or diversion 
+of a consignment through 
+leaked information.   
+Internal office security to conceal 
+plans.   
+Minimal time notification of routes 
+or schedules to people involved.   
+Delivery schedules and routes 
+should be regularly varied.   
+To prevent the observation of 
+the transportation practices for 
+the Cannabis, which could lead 
+to heisting attempts.  
+Internal office security to conceal 
+routes and schedules.   
+Policy for regular alteration of 
+routes and schedules and staffing.   
+Delivery routes should be 
+planned to ensure the minimum 
+number of stops along the route.   
+For long distance trips, some 
+stops, for example for refuelling, 
+may be essential.  This 
+requirement is to ensure any 
+stops are planned and Cannabis 
+is secure during the stops.   
+Routes should be the most direct 
+possible.   
+Vehicles should be filled with fuel 
+before travel to avoid the need to 
+stop for refuelling.   
+The vehicle should be 
+appropriately secured during any 
+planned stops during road 
+transport of Cannabis.   
+The vehicle should be 
+appropriately secured during 
+any planned stops during road 
+transport of Cannabis.   
+When refuelling is required, two 
+people are present.   
+The licence holder should be 
+aware when any deviation or 
+delay occurs to a planned 
+delivery route.   
+To ensure that the licence 
+holder can respond to any 
+possible issues and organize 
+additional security if required.   
+Reporting procedures for incidents. 
+ 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 30 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Expectations  
+Rationale  
+Example  
+The licence holder should have a 
+contingency plan in the event 
+that the Cannabis cannot be 
+received at any destination.   
+To ensure Cannabis will be 
+controlled and secured in the 
+event of any failures in the 
+planned transport route.   
+A backup location for storage of 
+Cannabis that complies with site 
+security expectations.   
+Where possible, return of the 
+consignment to the Cannabis site.   
+Different routes for the return 
+journey.   
+The licence holder should have 
+contingency plans in place in the 
+event of vehicle breakdown, 
+incapacitation of a driver, 
+accidents or road closures.   
+This is to secure drivers or third 
+parties are prepared for any 
+possible issues that may arise.   
+Regular training for staff in 
+contingency plans.   
+Clear reporting mechanisms.   
+ 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 31 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+6.2 
+ANNEXURE B: Record keeping and reporting  
+1  
+Record Keeping  
+Mandatory requirement: It will be a condition of the licence that the licence holder has record keeping 
+arrangements in place to record the amounts of Cannabis that, during the period of the licence, the 
+applicant: cultivates and obtains; produces and stores; supplies to the holder of a manufacturing licence, 
+destroys or disposes of.   
+Expectations  
+Rationale  
+Example  
+Records should be created as 
+close as possible to the event to 
+which they relate, by a person 
+with the appropriate oversight of 
+the activity to which the record 
+relates.  
+This is to ensure that record 
+keeping is accurate and timely in 
+order to prevent errors or neglect.   
+Record created by employee 
+undertaking the stock take at 
+the same time that the activity 
+is being performed.   
+Regular internal procedures for 
+verify amounts of Cannabis on 
+site.  
+Records should be maintained in 
+a system that ensures the 
+management of use, tracking 
+and understanding of records.   
+This is to ensure that records are 
+readily available for reporting to 
+SAHPRA as required and accessible 
+during inspection activities by 
+SAHPRA.   
+Manual or digital filing protocols. 
+Software systems.  
+Version controls.  
+The licence holder should have 
+procedures in place to facilitate 
+access to records during an 
+inspection by SAHPRA (including 
+unannounced inspections).  
+Verification of records will be an 
+important activity during an 
+inspection.  This ensures that 
+records can be viewed.   
+On site records or movement of 
+relevant records to the site for 
+inspections.   
+Access to digital systems.   
+The records should be stored in a 
+manner that maintains continuity. 
+This is to prevent the loss of 
+records through natural disaster, 
+criminal damage or negligence.   
+Records backed up off site.  
+Fire and flood proof facilities.   
+Employees responsible for the 
+maintenance of records should 
+be clearly identifiable.   
+This is to ensure that the people 
+managing records understand 
+their obligations and to enable 
+trace back in the event of a 
+discrepancy.   
+Clearly documented procedures 
+and role accountabilities.   
+Distribution of records should be 
+limited to those with a legitimate 
+business need to access the 
+records.  
+This is related to procedural 
+measures to prevent the 
+distribution of information further 
+than necessary.   
+Policies, access controls and 
+procedures to limit the number 
+of people who need to know 
+information.   
+ 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 32 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Expectations  
+Rationale  
+Example  
+The licence holder should record 
+details of plant mortality to 
+reconcile with permit 
+requirements.   
+This will account for any losses and 
+enable the reconciliation of 
+amounts of Cannabis.   
+Plant mortality register that lists 
+the number of plants that die.   
+The licence holder should have 
+records that document chain of 
+custody of the Cannabis during 
+transportation.   
+To ensure that the handling of 
+Cannabis while being transported 
+can be traced and tracked in the 
+event of a discrepancy, theft or 
+loss.   
+Registers that are signed by 
+people involved in handling and 
+transporting the Cannabis.   
+Licence holders should ensure 
+that appropriate resources are 
+allocated to implement and 
+accurately maintain their record 
+keeping arrangements.   
+To ensure that adequate time is 
+available to complete records and 
+facilitate compliance with reporting 
+requirements.   
+Standard operating procedures 
+that embed record keeping 
+activities.   
+Sufficient staff resources to 
+ensure record keeping can be 
+undertaken.   
+ 2  
+Reporting – stock and forecasts  
+Conditional requirement: In applying for a permit, the licence holder to provide information relating to 
+the size of a Cannabis crop, the number of plants, and the amount of Cannabis or Cannabis resin 
+produced / intending to be produced.  As part of the conditions of a licence, the licence holder will be 
+required to provide information necessary to support the Department of Health reporting to the INCB.   
+Expectations   
+Rationale  
+Example  
+Records should include the 
+number of plants cultivated, the 
+size of the growing space and the 
+yields.   
+Differing means of production will 
+result in different plant spacing, 
+number and ultimately crop sizes.   
+Records of plants per permit and 
+detail of cultivation space.   
+Internal procedures to verify 
+amounts of Cannabis.   
+The licence holder should have 
+mechanisms to record separation 
+of plant components and 
+undertake both wet and dry 
+weighing of crops.  
+This is to manage the risk of 
+diversion given both the high illicit 
+value of dried Cannabis flower, and 
+the substantial difference in weight 
+of Cannabis between wet and dry 
+conditions.   
+Procedures to track and weigh 
+Cannabis along the production 
+process.   
+Practices around internally 
+tracking of crops.   
+The licence holder should 
+maintain records of all 
+transactions involving Cannabis 
+distribution or movement events.  
+Understanding of the movements 
+of Cannabis for supply, destruction, 
+production or any other purpose is 
+a diversion risk control.   
+Registers of Cannabis 
+movements or transactions.   
+Examples under plant mortality 
+and chain of custody (above) 
+are also relevant to this control.  
+SAHPGL-INSP-RC-13_v3 
+Page 33 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+The licence holder should provide 
+annual forecasts of anticipated 
+production and projected “end of 
+year” stock for each calendar 
+year.   
+Such forecasts will allow SAHPRA to 
+oversee supply and prevent 
+unnecessary stockpiling of  
+Cannabis.   
+Annual reporting arrangements 
+with the Department of Health.   
+3  
+Reporting – incidents  
+Mandatory requirement:  The licence holder to have arrangements in place to ensure that SAHPRA is 
+notified of actual and suspected events involving:   
+• 
+A security breach at, or unauthorized access to, a Cannabis site  
+• 
+A theft or loss of Cannabis  
+• 
+A discrepancy in quantity of Cannabis  
+• 
+A serious incident involving Cannabis.   
+Expectations   
+Rationale   
+Example   
+In the case of known or 
+suspected criminal activity (theft 
+or breach), the licence holder 
+should immediately engage with 
+their local law enforcement 
+agency.   
+Law enforcement agencies are the 
+first point of contact in response 
+to a criminal act.   
+Incident response procedures 
+contain contact details for local 
+law enforcement agency.   
+The licence holder should 
+provide SAHPRA with formal, 
+written notification of any such 
+events.   
+This is to ensure that SAHPRA can 
+respond appropriately and to 
+allow for consideration of any 
+potential licence or permit 
+breaches.   
+SAHPRA will work with licence 
+holders to rectify inadvertent 
+condition breaches.   
+The licence holder should notify 
+SAHPRA immediately after 
+identifying the event.   
+This is to allow SAHPRA to respond 
+to any immediate issues.   
+Note: Such reporting should only 
+be made after law enforcement 
+reporting occurs, and after actions 
+to secure the site and / or 
+response to safety concerns have 
+been addressed.   
+SAHPRA will work with the 
+licence holders to rectify 
+inadvertent condition breaches.  
+ 
+ 
+SAHPGL-INSP-RC-13_v3 
+Page 34 of 34
+Guideline for Cultivation of Cannabis 
+10 November 2022 
+ 
+ 
+Expectations   
+Rationale   
+Example   
+Licence holder should provide 
+the SAHPRA with descriptions of 
+the matter being reported, 
+including but not limited to:  
+• Details of the volume of 
+Cannabis unaccounted for  
+• When and how the issue was 
+detected  
+• When and how the event was 
+believed to occur  
+• The current status of security at 
+the Cannabis site  
+• Any action taken by the licence 
+holder  
+• Any records that can support 
+investigation into the matter.   
+This information will assist SAHPRA 
+in responding to the situation and 
+ensures that the licence holder has 
+gathered relevant facts about the 
+matter.   
+Development of incident 
+management protocols 
+including incident report forms 
+to submit to SAHPRA.   
+Provision of security records, 
+access registers and 
+documented records of stock 
+levels.   
+  
+ 
+

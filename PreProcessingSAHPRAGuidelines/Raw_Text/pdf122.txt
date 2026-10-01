@@ -1,0 +1,259 @@
+SAHPGL-RDN-XR-12_v1 
+Page 1 of 7
+ 
+ 
+ 
+26 August 2022 
+GUIDELINE FOR MONITORING OF RADIATION WORKERS IN A 
+THEATRE 
+This document has been prepared to serve as a guideline in monitoring Radiation workers in a Theatre. It 
+represents South African Health Products Regulatory Authority’s (SAHPRA’s) current thinking on the safety, 
+quality and efficacy of medicines. It is not intended as an exclusive approach. SAHPRA reserves the right to 
+request any additional information to establish the safety, quality and efficacy of medicines and may make 
+amendments in keeping with the knowledge which is current at the time of consideration of safety data. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and published for implementation 
+November 2011 
+1 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-XR-12 allocated to this 
+Guideline 
+September 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-12_v1 
+Page 2 of 7
+Guideline for Monitoring of Radiation Workers in A Theatre 
+26 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+RECOMMENDATIONS AND REQUIREMENTS ............................................................................................. 4 
+3.1 ICRP Recommendations ............................................................................................................................ 4 
+3.2 Requirements ............................................................................................................................................ 5 
+3.3 NCRP Recommendations ........................................................................................................................... 6 
+4. 
+REFERENCES ............................................................................................................................................... 7 
+5. 
+VALIDITY .................................................................................................................................................... 7 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-12_v1 
+Page 3 of 7
+Guideline for Monitoring of Radiation Workers in A Theatre 
+26 August 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ALARA 
+As Low As Reasonable Achieveable 
+ICRP 
+International Commission of Radiation Protection  
+NCRP 
+National Commission of radiation Protection and Measurements  
+Effective Dose 
+is a biological dose commonly used in radiation protection, as it determines 
+how dangerous an individual's exposure to radiations can be 
+Occupational exposure 
+Radiation exposure to persons classified as radiation workers 
+Equivalent Dose 
+Refer to a radiation dose absorbed by a specific organ or any part of the body 
+ 
+ 
+ 
+SAHPGL-RDN-XR-12_v1 
+Page 4 of 7
+Guideline for Monitoring of Radiation Workers in A Theatre 
+26 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+All full-time theatre personnel must be monitored with dosimeters. In cases where the workload of the X-Ray 
+unit is very low, the requirement for the monitoring of workers must be determined individually. 
+Radiographers are responsible to distribute dosimeters to staff before commencing with fluoroscopy. Without 
+eye protection wear dosimeter outside the apron at the collar facing the source of exposure. 
+1.1 
+Purpose 
+The purpose of personnel monitoring is to provide early notice if your exposure is not below the limits and 
+kept ALARA. The monitoring program also provides a permanent record of your exposure. 
+1.2 
+Scope 
+The recommendations of this document are based on the international commission of radiation protection 
+(ICRP) and National Council of Radiation Protection and Measurements (NCRP). 
+2. 
+LEGAL PROVISION 
+The guideline is implemented in promulgating the Hazardous Substances Act 15, 1973 (Act15 of 1973). 
+Provisions regarding medical control and monitoring of radiation workers is stipulated in the Regulation No.R 
+1332 of 3 August 1973. 
+3. 
+RECOMMENDATIONS AND REQUIREMENTS 
+3.1 
+ICRP Recommendations  
+3.1.1 
+ICRP 60 (Paragraph 266) 
+“In occupational exposure, it is usually feasible to monitor the doses received by individuals. Often, 
+however, there is no clear-cut line between workers closely involved with radiation sources and others who 
+are exposed only casually, either because they are rarely present in the relevant locations or because they 
+are remote and receive only trivial doses. To avoid a wasteful use of resources in monitoring and record 
+keeping, it is necessary to identify groups of workers for whom individual monitoring is needed”. 
+3.1.2 
+ICRP 60 (Paragraph 267) 
+“The decision to provide individual monitoring for a group of workers depends on many factors. Some of 
+these are technical and others are concerned more with industrial relations. The decision should be taken 
+by the operating management but should be subject to review by the regulatory agency. Three major 
+SAHPGL-RDN-XR-12_v1 
+Page 5 of 7
+Guideline for Monitoring of Radiation Workers in A Theatre 
+26 August 2022 
+ 
+ 
+technical factors should influence the decision; the expected level of dose or intake in relation to the 
+relevant limits, the likely variations in the dose and intakes, and the complexity of the measurement and 
+interpretation procedures comprising the monitoring programme”. 
+3.1.3 
+ICRP 35 (Paragraph A.10) 
+“If it can be established by survey or by a limited program of individual monitoring that operating 
+procedures are of a high standard, some types of work can be identified as calling for no routine individual 
+monitoring. Examples of these types of work are as follows: 
+a) 
+non-radiological work in departments which deal with X-Ray and gamma-ray radiography; 
+b) 
+dental radiography; and 
+c) 
+process work on industrial processes involving radiological control of measurement, e.g. 
+thickness and level gauging.” 
+3.1.4 
+Dose Limits 
+Table 1: ICRP Recommended dose limits 
+ 
+3.2 
+Requirements  
+In view of the above-mentioned recommendations of the ICRP, the following requirements are valid for a 
+theatre: 
+3.2.1 
+All full-time theatre personnel must be monitored. In cases where the workload of the X-Ray unit 
+is very low, the requirement for the monitoring of workers must be determined individually. 
+SAHPGL-RDN-XR-12_v1 
+Page 6 of 7
+Guideline for Monitoring of Radiation Workers in A Theatre 
+26 August 2022 
+ 
+ 
+3.2.2 
+Workers that do not need to perform duties on a regular base, say every third or fourth month, 
+may be exempted from being monitored. This exemption must be re-evaluated, however, should 
+the workers mentioned in paragraph 1 receive a higher dose than the permissible limit (see Table). 
+3.2.3 
+Every licence holder shall regularly estimate the dose to those workers who routinely work in a 
+designated area but who are considered unlikely to receive an effective dose or an equivalent dose 
+greater than three- tenths of the relevant occupational dose limits referred to in the Table. 
+3.3 
+NCRP Recommendations 
+3.3.1 
+NCRP Report No.102 
+The regulatory requirement is guided by the NATIONAL COUNCIL ON RADIATION PROTECTION AND 
+MEASUREMENTS as stated in NCRP Report No. 102 regarding the following aspects: 
+3.7.4  (h) “Only persons whose presence is necessary shall be in the theatre during exposures. 
+All such persons shall be protected (e.g., provided with leaded aprons, leaded gloves, eye 
+protection (leaded glasses), thyroid shields and/or portable shields)”.  
+(j) “The operator shall stand behind a barrier if possible and shall observe the patient 
+during radiographic exposures.” 
+(q) “People who must move around the room during the procedure should wear a 
+wraparound protective garment.”  
+(aa) “When possible, the specialist and all other personnel required in the room should 
+step back from the table and behind portable shields during fluoroscopy and serial 
+radiography procedures. Comment: This action can decrease the exposure of the 
+specialist and other personnel by a factor of three or more.”  
+(cc) “All personnel not required in the room shall leave the room during serial radiographic 
+exposures.”  
+3.3.2 
+Radiation Control Recommendation  
+It can thus be stressed that all full-time personnel in the theatre must be monitored and that eye protection 
+(leaded glasses) shall be added to the list in paragraph (h). The Department accepted the recommendations 
+of the ICRP 57 (Radiological Protection of the Worker in Medicine and Dentistry) regarding protective 
+aprons and gloves, namely “If workers cannot remain in the protected area when the X-Ray machine is 
+SAHPGL-RDN-XR-12_v1 
+Page 7 of 7
+Guideline for Monitoring of Radiation Workers in A Theatre 
+26 August 2022 
+ 
+ 
+operated, they shall wear a protective apron of at least 0.25 mm lead equivalent. As far as reasonably 
+practicable they should occupy areas of the room where the levels of radiation exposure are low. Any 
+person required standing within 1 metre of the X-Ray tube or patient shall wear a protective apron of at 
+least 0.35 mm lead equivalence, eye protection (leaded glasses) and thyroid protection. Protective gloves 
+should be of at least 0.35 mm lead equivalence. All such protective clothing should bear an identifying mark 
+and shall be examined for holes and cracks at 3 monthly intervals and if suspect perform an X-Ray test. 
+Defective items should be withdrawn from use. 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+ICRP, 1982. General Principles of Monitoring for Radiation Protection of Workers. ICRP Publication 
+35. Ann. ICRP 9 (4) 
+4.2 
+ICRP, 1991. 1990 Recommendations of the International Commission on Radiological Protection. 
+ICRP Publication 60. Ann. ICRP 21 (1-3) 
+4.3 
+ICRP ref 4825-3093-1464 (21 April 2011). https://www.icrp.org/docs/2011%20Seoul.pdf   
+4.4 
+National Council on Radiation Protection and Measurements (1989) NCRP Report No 102: Medical X-
+Ray, Electron Beam and Gamma-Ray Protection for Energies up to 50 MeV (Equipment Design, 
+Performance and Use) 
+4.5 
+South 
+Africa, 
+1973. 
+ 
+Hazardous 
+Substances 
+Act, 
+1973 
+(Act 
+of 
+15 
+of 
+1973). 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/   
+4.6 
+South Africa, 1973.  Regulations Concerning the Control of Electronic Products.  Regulation Gazette 
+No 3991. https://www.sahpra.org.za/radiation-control-acts-and-regulations/  
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Monitoring of Radiation Workers in a Theatre, revised November 2011. It will be reviewed on this 
+timeframe or as and when required. 
+

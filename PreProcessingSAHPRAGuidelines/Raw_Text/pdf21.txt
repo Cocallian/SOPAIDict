@@ -1,0 +1,762 @@
+[SAHPGL-CEM-CT_12_v1] 
+Page 1 of 19
+24 March 2026 
+PRE-CLINICAL TESTING GUIDELINES AND CLINICAL REQUIREMENTS FOR 
+PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+This document has been prepared to serve as a guideline for the preparation of applications to conduct first-in-human (FIH) and Phase 
+I clinical trials in South Africa. It is not intended as an exclusive approach, and SAHPRA reserves the right to request any additional 
+information and may make amendments in keeping with the knowledge that is current at the time. 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+1 
+This is a new guideline for implementation 
+01 June 2026 
+2 
+DR BOITUMELO SEMETE-MAKOKOTLELA 
+CHIEF EXECUTIVE OFFICER 
+[SAHPGL-CEM-CT_12_v1] 
+Page 2 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1.
+INTRODUCTION .......................................................................................................................................... 5 
+2.
+PURPOSE AND SCOPE ................................................................................................................................. 6 
+3.
+LEGAL PROVISION ....................................................................................................................................... 7 
+4.
+BACKGROUND ............................................................................................................................................ 8 
+5.
+DETAILS OF PRE-CLINICAL TESTS THAT NEED TO BE REPORTED ................................................................ 9 
+6.
+KEY POINTS FOR CTC EVALUATION OF PRE-CLINICAL DATA TO SUPPORT PHASE I CLINICAL TRIAL ........ 10 
+7.
+CLINICAL FACTORS: CONSIDERATIONS FOR PHASE-I/FIH CLINICAL TRIALS ............................................. 10 
+7.1 
+Dose selection for FIH and early clinical trials .......................................................................................... 10 
+7.1.1 Starting dose for Healthy Volunteers ....................................................................................................... 11 
+7.1.2 Maximum Dose Selection ......................................................................................................................... 11 
+7.1.3 Moving from single and multiple dosing .................................................................................................. 12 
+7.1.4 Route of Administration ........................................................................................................................... 12 
+7.2 
+Planning and conducting early clinical trials ............................................................................................ 12 
+7.3 
+Documentation of sponsor and investigational responsibilities .............................................................. 15 
+8.
+FINANCIAL FACTORS ................................................................................................................................. 16 
+8.1 Participant remuneration: ............................................................................................................................ 16 
+8.2 Sponsor responsibility: ................................................................................................................................. 16 
+9.
+FACILITY REQUIREMENTS FOR PHASE I CLINICAL TRIALS UNITS: ............................................................. 17 
+10.
+ETHICS AND REGULATORY FACTORS: ....................................................................................................... 17 
+10.1 Role of RECS and the NHREC: ..................................................................................................................... 17 
+10.2 Other Regulatory Authorities: .................................................................................................................... 18 
+10.3 Reporting frequency ................................................................................................................................... 18 
+10.4 Audits and inspections ............................................................................................................................... 19 
+11.
+REFERENCES ............................................................................................................................................. 19 
+12.
+VALIDITY ................................................................................................................................................... 19 
+[SAHPGL-CEM-CT_12_v1] 
+Page 3 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+Glossary 
+Abbreviation / Key 
+concept 
+Meaning 
+ABPI 
+AssociaƟon of the BriƟsh PharmaceuƟcal Industry guideline for insurance in clinical 
+trials 
+AUC 0-tau 
+Area under the curve limited to the end of the dosing interval 
+Clinical studies/trials 
+These are Research studies conducted with human volunteers testing 
+interventions to prevent, diagnose or treat disease 
+CTF-1 
+Clinical Trial ApplicaƟon Form 
+Cmax 
+Maximum plasma concentraƟon 
+DLT 
+Dose limiƟng toxicity 
+FIH 
+First-in-human 
+IP 
+Investigational product (including medicines, devices and IVDs) 
+IVD 
+In Vitro Diagnostic 
+In vitro 
+“In glass” or in a laboratory 
+In silico 
+In a computer 
+In vivo 
+In an animal or human 
+ICU 
+Intensive Care Unit 
+MAD 
+MulƟple Ascending Dose 
+Medical Device (MD) 
+Means any instrument, apparatus, implement, machine, appliance, implant, 
+reagent for in vitro use, soŌware, material or other similar or related arƟcle, 
+including Group III and IV Hazardous Substances contemplated in the Hazardous 
+Substances Act, 1973 (Act No. 15 of 1973)— 
+(a) intended by the manufacturer to be used, alone or in combinaƟon, for humans
+or animals, for one or more of the following:
+(i) diagnosis, prevenƟon, monitoring, treatment or alleviaƟon of disease;
+(ii) diagnosis, monitoring, treatment, alleviaƟon of or compensaƟon for an injury;
+(iii) invesƟgaƟon, replacement, modiﬁcaƟon or support of the anatomy or of a
+physiological process;
+[SAHPGL-CEM-CT_12_v1] 
+Page 4 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+(iv) supporƟng or sustaining life;
+(v) control of concepƟon;
+(vi) disinfecƟon of medical devices; or
+(vii) providing informaƟon for medical or diagnosƟc purposes by means of in vitro
+examinaƟon of specimens derived from the human body; and
+(b) which does not achieve its primary intended acƟon by pharmacological,
+immunological or metabolic means, in or on the human or animal body, but which
+may be assisted in its intended funcƟon by such means
+MTD 
+Maximum Tolerated Dose 
+NHREC 
+NaƟonal Health Research Ethics Council (NHREC) 
+NOAEL 
+No-Observed-Adverse-Effect-Level in animal model 
+Non-clinical 
+All studies performed outside of humans, including pharmacology, 
+pharmacokinetics, toxicology, safety pharmacology, to provide evidence of safety, 
+guide dose selection and study design for clinical trials. 
+These research activities may be conducted at any stage of product development. 
+PD 
+Pharmacodynamic: Study of the effects of a medical product in the human body.  
+Pre-clinical PD studies can be used to show the effects in an animal model before 
+starting human clinical trials. 
+PK 
+Pharmacokinetic: Studies to how the medicine levels vary over time depending on 
+the way it is absorbed, distributed, how it is metabolised, and how it is excreted. 
+Pre-clinical PK studies can be used to show these effects in an animal model before 
+starting human clinical trials. 
+PBPK 
+Physiologically based Pharmacokinetic modelling is an experimental computational 
+tool that simulates how a substance (medicine or chemical) moves through the 
+body.1  
+Pre-clinical 
+Pre-clinical studies are non-clinical studies that are conducted before starting of 
+human studies. 
+Research activities done in lab / in vivo and in vitro prior to initiation of human 
+studies.   
+Laboratory research and animal studies are done to determine whether the 
+experimental product has an acceptable safety profile before it is administered to 
+humans. 
+SAD 
+Single Ascending Dose 
+SUSAR 
+Suspected Unexpected Serious Adverse ReacƟons 
+1 D Deepika et al., Int J Environ Res Public Health. 2023 Feb 16;20(4):3473. 
+[SAHPGL-CEM-CT_12_v1] 
+Page 5 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+1.
+INTRODUCTION
+Pre-clinical Testing
+Information from pre-clinical testing is essential in planning clinical trials in humans.  For first-in-human (FIH)
+trials, the information is used to decide what the starting dose should be, and the range of doses to be tested.
+It also suggests what clinical signs and symptoms as well as laboratory abnormalities should be looked for to
+detect any adverse effects, especially Serious Adverse Events (SAEs).
+This document is intended to guide the type and extent of pre-clinical data to be provided in the Clinical Trial 
+Application Form (CTF-1) for submission to SAHPRA for the conduct of a clinical trial in South Africa. Detailed 
+data must be provided in the Investigator’s Brochure and cross-referenced from the CTF-1 where appropriate. 
+In the CTF-1, the applicant is required to provide a summary of the pre-clinical testing that has been conducted 
+during the development of a candidate medicinal or relevant related health products, and a discussion of how 
+this supports the design of the clinical trial in the application. Pre-clinical testing may include both in vitro 
+(laboratory), in silico (computer) and in vivo (animal) studies. 
+The Guideline is adopted from ICH M3 (R2) non-clinical safety studies for the conduct of human clinical trials 
+for pharmaceuticals - Scientific guideline2. 
+SAHPRA supports the current international principles of the 3Rs - Reduction, Refinement, and Replacement – 
+in animal testing, which involves animal pain, suffering, and/or death. However, in the development of new 
+medicines certain animal tests remain essential for ensuring human safety before clinical investigation.  
+Pre-clinical tests results supporting product functions and safety profile are particularly relevant to support FIH 
+clinical trials but are also important support for subsequent and more extensive clinical trials where 
+physiological or adverse effects observed in animal models can be important for the design of safety 
+surveillance during later phases of clinical development.  
+Pre-clinical test results can provide a preliminary assessment of the balance of risks versus potential benefits 
+of the candidate investigational product (IP). 
+2 [https://www.ema.europa.eu/en/ich-m3-r2-non-clinical-safety-studies-conduct-human-clinical-trials-pharmaceuticals-
+scientific-guideline] 
+[SAHPGL-CEM-CT_12_v1] 
+Page 6 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+Animal testing can be used for elucidation of biodistribution, metabolism and elimination and evaluation of 
+the investigational product activity if a suitable animal model is available.  Animal models should be validated 
+and appropriate for the class of medicine/device being tested. 
+Small-animal models, including mice and rats, may be useful for toxicity testing, but larger animal species are 
+more appropriate for investigating physiological functions and may include rabbits, dogs, sheep, pigs and non-
+human primates. 
+Toxicity testing of pharmaceutical medicines should establish a No-Observed-Adverse-Effect-Level (NOAEL) in 
+an appropriate animal model and may be determined during repeat dose toxicity studies. Pre-clinical testing 
+of medical devices is necessary to establish safety and functional capabilities. Where animal models are 
+needed, they must be qualified as appropriate for establishment of the required endpoint that maybe 
+anatomical or physiological. 
+In addition, for Biosimilar medicines, the investigational product must be fully characterised by comparative 
+physico-chemical testing, demonstration of functional activity (e.g., receptor binding in cell cultures), and in 
+vivo testing as “Biosimilar3” before it can be included in clinical trials.  SAHPRA may consider that for biosimilar 
+medicines, established by comparative physico-chemical and functional similarity studies, in-vivo testing may 
+be unnecessary. 
+Clinical Factors in early Clinical Trials 
+The Clinical factors section outlines the key clinical considerations relevant to dose selection, dose escalation, 
+maximum exposure, and transition between single and multiple dosing regimens, with particular emphasis on 
+healthy volunteer studies. It also addresses the planning and conduct of early clinical trials, including protocol 
+design, participant selection, safety monitoring, data review, stopping rules, and communication of adverse 
+events. In addition, the responsibilities of sponsors and investigators, as well as requirements for clinical site 
+facilities and emergency preparedness, are described. Collectively, these principles aim to support informed 
+decision-making, minimize risk, and ensure regulatory compliance throughout the early stages of clinical 
+development. 
+2.
+PURPOSE AND SCOPE
+3 SAHPGL-PEM-BIO-02_v4 Biosimilar medicine Q S E _ Final version for BMEAC 06 Dec 2024 
+[SAHPGL-CEM-CT_12_v1] 
+Page 7 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+This guideline sets out the key requirements and safeguards for pre-clinical testing and for First-in-Human 
+(FIH)/ Phase I clinical studies in South Africa. 
+This document applies to the situations usually encountered during the development of pharmaceuticals, in 
+case of studies involving medical devices/ IVDs (e.g., diagnostic assays and kits, monitoring systems), refer also 
+to the Guidelines on clinical investigation requirements on https://www.sahpra.org.za/medical-devices-and-
+in-vitro-diagnostics-guidelines. 
+3.
+LEGAL PROVISION
+All clinical studies must comply with national regulations and international best practice.  This includes 
+compliance with but not limited to: 
+•
+Applicable provisions of the Medicines and Related Substances Act 101 of 1965 (as amended) and its
+Regulations.
+•
+The National Health Act 61 of 2003 and regulations governing health research involving human
+participants.
+•
+National Health Research Ethics Council (2024) South African Ethics in Health Research Guidelines:
+Principles, Processes and Structures, 3rd ed. National Department of Health of the Republic of South
+Africa.
+•
+South African Good Clinical Practice (SAGCP ) guidelines adopted by SAHPRA
+In alignment with the latest: 
+•
+Declaration of Helsinki
+•
+ICH E6 standards on Good Clinical Practice
+•
+ICH M3 (R2): Guideline on pre-clinical safety studies for the conduct of human clinical trials
+•
+CIOMS guidelines
+[SAHPGL-CEM-CT_12_v1] 
+Page 8 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+4.
+BACKGROUND
+The clinical development of a medicine follows a sequenƟal series of steps, from drug-discovery through pre-
+clinical tesƟng to clinical trials and eventual markeƟng authorizaƟon (Regulatory approval) 
+(RegistraƟon/MarkeƟng approval/Licence).  The results from each stage must support progression to the 
+subsequent stage. 
+Pre-clinical 
+Phase-I 
+Phase-II 
+Phase-III 
+Phase-IV 
+In-vitro 
+/in-silico 
+In-vivo 
+1st in human 
+Dose 
+Finding and 
+Safety 
+Special groups 
+including 
+healthy 
+volunteers 
+Proof of concept, 
+Safety 
+& 
+preliminary 
+eﬃcacy 
+Safety & Eﬃcacy 
+(suﬃcient 
+powering 
+and 
+randomisaƟon) 
+Post approval 
+Safety in use, 
+especially 
+long-term 
+AEs/SAEs 
+Pre-clinical tesƟng is required to establish the safety proﬁle, pharmacology, toxicology, and pharmacokineƟcs 
+of the IP before clinical (in humans) tesƟng can be iniƟated. 
+For Phase-II and Phase-III trials, results from pre-clinical including non-clinical tesƟng can guide surveillance for 
+potenƟal rare side eﬀects. 
+The goals of the pre-clinical safety assessment programme include establishing the iniƟal safety proﬁle, 
+including the characterisaƟon of adverse eﬀects, especially serious Adverse Events, the idenƟﬁcaƟon of target 
+organs, clariﬁcaƟon of dose dependence, the relaƟonship of toxiciƟes to exposure, and potenƟal reversibility. 
+Tests of the funcƟonality and metabolism of the candidate molecule (primary pharmacodynamics and 
+PharmacokineƟcs) can be explored in vitro and in animal models.  These characterisƟcs can be conﬁrmed for 
+experimental formulaƟons of the candidate medicine in the same systems. 
+The following pre-clinical studies should be reported (based on ICH M3) to support FIH studies: 
+•
+Pharmacology studies,
+•
+General toxicity studies,
+•
+ToxicokineƟc and pre-clinical pharmacokineƟc studies, and
+•
+Repeated-dose toxicity studies.
+Further non-clinical studies will be conducted on a case-by-case basis and at any phase, including: 
+o
+Assessments of carcinogenic potenƟal
+o
+Phototoxicity, immunotoxicity, juvenile animal toxicity, etc.
+o
+For biotechnology-derived products (see ICH topic S6)
+o
+For life-threatening or serious diseases – such as resistant infecƟons, cancer, etc., that do not have a
+current adequately eﬀecƟve therapy.
+o
+Teratogenicity: Teratogenicity, Developmental and ReproducƟve toxicity studies will be required before
+exposure of women of child-bearing potenƟal to the invesƟgaƟonal drug or comparators.
+[SAHPGL-CEM-CT_12_v1] 
+Page 9 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+o
+Plaƞorm technologies: Where a medicine or vaccine are of the same or similar class and are based on
+a well-accepted formulaƟon with minor modiﬁcaƟons to the acƟve ingredient, then the applicant can
+request that the pre-clinical program be reduced. This is parƟcularly relevant in biosimilar studies.
+Where animal tesƟng is required, examinaƟons for adverse eﬀects and toxicity need to be conducted in suitable 
+animal models and in more than one family of animals (not all rodents or non-human primates), at least one 
+of which is considered relevant to the human condiƟon.  Conduct of research in animals in South Africa requires 
+approval from the insƟtuƟonal Animal Ethics Commitee. 
+5.
+DETAILS OF PRE-CLINICAL TESTS THAT NEED TO BE REPORTED
+Safety pharmacology core studies
+Assessing eﬀects on the cardiovascular, respiratory, renal, gastrointesƟnal, haematological and 
+central nervous systems 
+Primary pharmacodynamics studies 
+In vivo and/or in vitro studies, assessing the mode of acƟon/eﬀects of the candidate compound on the 
+target. 
+PharmacokineƟcs and toxicokineƟcs studies 
+Data gathered during in vitro studies on metabolic and blood protein binding data for animals and 
+humans. 
+Systemic exposure data from toxicology studies. BiodistribuƟon and eliminaƟon. 
+These studies are not usually required for biological medicines apart from immunotherapeuƟc 
+medicines, blood products, live vaccines, or gene products. 
+Acute toxicity studies 
+Single-dose toxicity studies in more than one mammalian species can be completed during studies that 
+deﬁne dose limiƟng toxicity (DLT) and maximum tolerated dose (MTD) in the species used for toxicity 
+tesƟng. The NOAEL relevant to the intended use of the IP can be accepted as a guide to esƟmaƟng the 
+maximum dose to be used in clinical trials. 
+Repeated-dose toxicity studies 
+Vary in length according to duraƟon, therapeuƟc indicaƟon, and scope of the proposed clinical 
+program. 
+Minimum duraƟon for two weeks in two mammalian species (one of which is not a rodent) but may 
+need to be extended to be relevant for the proposed trial duraƟon. 
+Repeat-dose toxicity studies can be designed to collect data supporƟng single-dose acute toxicity 
+studies. 
+[SAHPGL-CEM-CT_12_v1] 
+Page 10 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+Reversibility of toxicity 
+Animal studies can indicate the potenƟal for reversibility of adverse events that are detected. 
+Other studies of concern 
+e.g., invesƟgaƟon of phototoxicity and/or radiaƟon toxicity
+Teratogenicity: Pregnant women must be excluded in all ﬁrst in human studies. Preclinical and clinical results 
+from teratogenicity, developmental and reproducƟve toxicity studies will be required before exposure of 
+women of child-bearing potenƟal to any invesƟgaƟonal drug or comparators. 
+In the extremely rare case that the parƟcipant falls pregnant while on FIH/phase I study, the parƟcipant 
+should be terminated immediately from study treatment and the pregnancy and the baby be carefully 
+followed up. Please refer to the SAHPRA Guidelines on Pregnancy and LactaƟon. 
+6.
+KEY POINTS FOR CTC EVALUATION OF PRE-CLINICAL DATA TO SUPPORT PHASE I CLINICAL TRIAL
+•
+Have the relevant non-clinical tests as required by ICH and other guidelines been conducted and
+reported in this applicaƟon? Is there an acceptable jusƟﬁcaƟon for any omissions?
+•
+Is there adequate evidence of safety and evidence supporƟng eﬃcacy from pre-clinical studies to
+proceed with clinical studies, parƟcularly for early phase or FIH clinical trials?  Is there an acceptable
+jusƟﬁcaƟon for any omissions?
+•
+For the FIH clinical study, are the proposed starƟng dose, dose escalaƟon, and maximum exposure
+jusƟﬁed based on the pre-clinical data for this applicaƟon?
+•
+Has the current formulaƟon been included in the reported pre-clinical test results?  Are the pre-clinical
+data relevant to the proposed formulaƟon and route of administraƟon in the clinical study applicaƟon?
+•
+Where medicines are used in combinaƟon, special consideraƟon needs to be given to the potenƟal
+adverse eﬀects and the dosages used of both the IP and the registered medicine(s).
+•
+Are there addiƟonal surveillance acƟviƟes for parƟcipants that should be conducted during the
+proposed clinical trial, based on the reported results from the pre-clinical studies (or potenƟal adverse
+eﬀects reported from medicines in the same class)?
+•
+Development and ReproducƟve Toxicity (DART) and teratogenicity studies are not usually required for
+FIH studies, as the safety of the candidate IP given to non-pregnant women must be established before
+trials in pregnant or breasƞeeding women can be undertaken.
+7.
+CLINICAL FACTORS: CONSIDERATIONS FOR PHASE-I/FIH CLINICAL TRIALS
+7.1 Dose selection for FIH and early clinical trials
+The starting dose and maximum exposure, as well as dose escalation steps during the clinical trial, should be 
+justified and outlined in the protocol. The methods used and calculations on how doses and estimated 
+[SAHPGL-CEM-CT_12_v1] 
+Page 11 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+exposure levels were determined, including methods for modelling (e.g., PK/PD and physiologically based 
+pharmacokinetic (PBPK)), should be summarised in the CTF-1 and protocol and the details included in the 
+investigational brochure (IB).  
+Deviations from the prespecified dose escalation and decision-making criteria would warrant the submission 
+of substantial amendment(s). Decision making criteria for adapting dosage based on clinical data based on 
+emerging clinical data should be described. 
+In addition, sentinel dosing of two participants (one active, one placebo) is required at a minimum for the 
+first single ascending dose (SAD) and multiple ascending dose (MAD) cohorts. 
+7.1.1 Starting dose for Healthy Volunteers 
+Sentinel safety cohorts are small groups of participants dosed before the main cohort.  These may help to 
+identify potential adverse effects, and mitigate risk, especially in FIH and Phase 1 trials. 
+The starting dose must mitigate the risk of toxicity while balancing the need to elicit pharmacologic activity.  
+Reference should be made to published guidance documents from EMA and the FDA for investigators to 
+follow when determining an appropriate starting dose. 
+There are two methods that may be used for calculating the starting dose; an empirical or a mechanistic 
+approach.  
+The empirical approach aims at avoiding toxicity at initial human doses by using the NOAEL, a generally 
+accepted benchmark for safety (FDA). The exposures achieved at the NOAEL in the most relevant animal 
+species used (which might not necessarily be the most sensitive species) should be used for the estimation of 
+an equivalent exposure for humans. 
+The mechanistic approach is based on state-of-the-art modelling incorporating all relevant preclinical 
+pharmacology data, including ex vivo and in vitro studies in human tissues (EMA).  
+This approach enables the selection of a minimal anticipated biological effect dose-level, as this is becoming 
+increasingly important as more targeted therapies are being developed that are very specific and potent, with 
+predicted pharmacologically active doses well below a dose that is thought to be safe based on the NOAEL. 
+7.1.2 Maximum Dose Selection 
+The maximum exposure should be justified based on all available pre-clinical and clinical data, including PD, 
+PK, findings in toxicity studies, and exposure at the expected therapeutic dose range. An expected maximum 
+exposure level must not be exceeded in the study without approval of a substantial protocol amendment, 
+this should have been pre-defined in the protocol for each study part. 
+[SAHPGL-CEM-CT_12_v1] 
+Page 12 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+7.1.3 Moving from single and multiple dosing 
+The selection of an appropriate dosing interval and duration of dosing for all multiple dosing cohorts and 
+study parts should consider the specific PK and PD characteristics of the IP, the available non-clinical safety 
+data, and all data from participants in previous single-dose cohorts. 
+A maximum duration of dosing should be stated in the protocol for every cohort. The expected exposure 
+after multiple dosing (Cmax and AUC 0-tau) should have been covered during preceding SAD parts/trials. 
+7.1.4 Route of Administration 
+The choice of route of administration for dosing in humans should be based on the pre-clinical data, the 
+characteristics of the IP, and the intended therapeutic use.  
+7.2 Planning and conducting early clinical trials 
+7.2.1 Protocol - Overall design 
+The following are key considerations: 
+a) Description of the trial and its ethical and scientific rationale. This would Include a description of what is
+being done in the trial and the rationale behind key decisions so that the trial can be subject to scrutiny in
+regulatory assessment.
+b) Graphical representation of the overall scheme of the proposed trial in real-time, showing intervals for
+interventions, sampling, timing of all reviews, and decision points.
+c) Details on the size of the cohorts, including how many participants are on active IP and how many are on
+placebo treatment.
+d) Phase-1 clinical trials typically enroll small groups of participants; about 20 per cohort, and less than 100
+for the whole trial.
+7.2.2 Integrated protocol 
+The practice of conducting FIH/early clinical trials with integrated protocols means that the information 
+generated in previous parts needs to be analysed and integrated into an assessment in a limited timeframe 
+before deciding on proceeding to the next part.  
+All parts, and the criteria to move from one part to another, should be predefined within an integrated 
+protocol, as should possible modifications, based on the totality of available information and the related 
+uncertainty. 
+Recommendations for time sequence for the conduct of different parts: 
+a)
+Overlapping of SAD and MAD parts may be acceptable. The proposed overlap, however, should be
+scientifically justified and supported by decision points and a review of available data before starting
+the MAD part.
+[SAHPGL-CEM-CT_12_v1] 
+Page 13 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+b) Other single-dose parts (e.g., food interaction) could be conducted in parallel to the SAD part,
+provided the dose chosen and the expected exposure are equal to or lower than that which was
+reached in a concluded preceding SAD cohort where all relevant data have been reviewed and no
+dose escalation stopping criteria were met.
+c)
+Other study parts that involve multiple dosing (e.g., drug-drug interaction) should generally not
+overlap with earlier SAD or MAD cohorts. All relevant SAD and MAD data should be reviewed before
+starting these parts. Deviation from this should be justified in the protocol.
+7.2.3 Choice of participants 
+The choice to conduct FIH trials in healthy participants or patients should be made on a case‐by‐case basis. The 
+risks of enrolling healthy volunteers versus patients must be weighed, including toxicities, PK variability, lifestyle conditions, 
+benefits to patients, and special populations. 
+Clinical factors to consider in the decision to conduct a study in healthy volunteers or patients include:  
+a)
+Whether the toxicities foreseen/risks associated can support the inclusion of healthy volunteers.
+b)
+The relative presence of the molecular target in healthy participants or in patients.
+c)
+The possible variable PK, PD or safety profile in participants.
+d)
+The potential differences between the targeted patient group and healthy volunteers.
+e)
+Possible interactions with participants’ lifestyle, e.g., smoking, use of alcohol or recreational drugs.
+f)
+The use of other medications with the possibility of adverse reactions and/or difficulties in the
+interpretation of results.
+g)
+A potential of patients to benefit from other products or interventions.
+h)
+The predicted therapeutic window of the IP based on preclinical testing.
+i)
+Factors relating to special populations, including age, gender, ethnicity, and genotype(s).
+Key inclusion and exclusion criteria for trials involving healthy participants should include an adequate set of 
+vital signs (including ECG), laboratory values and clinical assessments that should be within normal ranges. A 
+justification for deviations outside the defined normal ranges should be provided.  
+7.2.4 Safety monitoring and interventions 
+The detection of a safety signal with a high degree of certainty is extremely limited by the typically small size 
+of these trials. Successful signal detection in FIH studies depends on adequate collection of data coupled to a 
+systematic analysis of the data, a determination of the strength of a potential signal, and an understanding of 
+the quantitative limitations of typical study designs. 
+The participant’s safety assessments that will be routinely conducted, their timing, and any additional 
+monitoring actions or interventions should be pre-specified in line with the known pharmacological and non-
+[SAHPGL-CEM-CT_12_v1] 
+Page 14 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+clinical safety profile and balanced against the degree of uncertainty.  Any proposal to routinely omit an 
+assessment should be scientifically based.  
+The length of follow-up of participants should be specified within the protocol (e.g., for possible delayed 
+adverse reactions). 
+The sponsor should describe how safety monitoring should be extended until parameters return to within 
+the normal range or to baseline, as appropriate for the population. 
+Extended monitoring should be considered, e.g., when the mechanism entails enzyme inhibition or activation 
+(monitoring should continue until enzyme activity has returned to baseline or to an acceptable percentage of 
+baseline) or when prolonged PD effects are observed, regardless of duration of target inhibition or the PK 
+profile of the IP. 
+Repeated assessments, integrating available knowledge with rapid processing of emerging information, are 
+crucial for the recognition of developing toxicity at an early stage.  
+7.2.5 Data review for decisions 
+The data supporting dose escalation or the beginning of a new study part in alignment with the predefined 
+criteria in the protocol are key and should be described in the protocol. 
+The following are regarded as minimum criteria for data review:  
+•
+Evaluation of data by a defined expert group and summary of criteria for evaluation and progression
+to the next dose-level.
+•
+‘Evaluable’ participants should be defined, i.e., participants who have completed all planned study
+visits at least until the time of the decision as detailed in the protocol.
+•
+Data collection as planned in the protocol in each dosing cohort should be complete and the decision
+to proceed to the next dose cohort should be documented.
+7.2.6 Early Stopping rules 
+The protocol should define unambiguous stopping rules that result in an immediate stop to dosing.  
+Stopping rules should be defined for each of the following:  
+•
+Final stop to dosing and termination of the trial;
+•
+Stopping for an individual participant, at any time in the trial;
+•
+Stopping within a cohort
+− when participants in a cohort are dosed staggered;
+− during multiple dosing;
+•
+Progression to the next part of the trial;
+[SAHPGL-CEM-CT_12_v1] 
+Page 15 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+•
+Any dose escalation parts of the trial.
+Stopping rules with healthy volunteers must include precautions in the event of the following: 
+• a ‘serious adverse reaction, considered at least possibly related to the IP administration, in one participant;
+• ‘severe’ non-serious adverse reactions, possibly related to the IP administration, in two participants in the
+same cohort, independent of within or not within the same system-organ-class.
+7.2.7 Monitoring and communication of adverse events
+For all clinical trials, adverse events of special interest (AESI) should be defined, based on non-clinical findings
+and observations from experience with other similar active ingredients.  Suitable monitoring activities for
+these AESIs should be described.
+Due to high risk of Phase 1 /FIH trials, four weekly progress reports on a SAHPRA template should be
+submitted.
+7.3  Documentation of sponsor and investigational responsibilities 
+The responsibilities of the sponsor and investigator(s) (as well as any other experts or study staff) in decision-
+making should be clearly defined in the protocol. Responsibility regarding breaking the treatment code in 
+emergencies should also be documented. 
+The composition of any decision-making group or safety review committee should be documented in the 
+protocol. Other details to include are the exact remit of the group and the roles of all members in the 
+committee, and their relation to the sponsor. Consideration should be given to the inclusion of independent 
+experts who are (at least) external to the study. Written statements and conclusions by any decision-making 
+or safety review group must be in place before allowing trial progression at the noted times as per protocol. 
+This includes documentation of appropriate quality control checks on the data reviewed. 
+7.3.1 Investigator site facilities/personnel 
+To prioritize participant safety and data integrity, FIH clinical trials should be undertaken in appropriate clinical 
+facilities and conducted by investigators and medical staff with the appropriate levels of training and experience in early-
+phase clinical trials.  Relevant medical experƟse and up-to-date GCP training, as well as an understanding of 
+the special characterisƟcs of the IP and its mechanism of acƟon are crucial.  
+It is a necessity for FIH clinical trials to take place under controlled condiƟons, such as inpaƟent care, where 
+close supervision of trial parƟcipants during and aŌer dosing can be provided. Sites must have access to 
+emergency supplies, and staﬀ must be prepared for medical emergencies.  
+It is advisable that FIH clinical trials should be conducted at a single site.  Where mulƟple sites are required for 
+enrolment, protocols should be in place providing a descripƟon of measures to reduce risks that might occur 
+from the use of mulƟple sites. 
+[SAHPGL-CEM-CT_12_v1] 
+Page 16 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+Procedures should be established between the clinical research unit and its nearby intensive care unit (ICU) 
+regarding the responsibiliƟes and undertakings of each in the transfer and care of paƟents. 
+7.3.2 Referrals to hospital, including Intensive Care Unit (ICU)   
+ParƟcipants in all clinical studies, especially Phase I / FIH studies, who develop serious adverse event(s) 
+requiring hospitalizaƟon need to be admited to a nearby hospital with faciliƟes to deal with such urgent 
+problems. This includes access to imaging and intervenƟonal radiology, laboratory services, pharmacy, 
+emergency admission and resuscitaƟon, as well as intensive care (ICU). ICU faciliƟes should cover the 
+appropriate SAE, and may need to be Medical, Surgical, or Paediatric ICUs. The research site / PI must have 
+prior arrangements with the appropriate specialist(s) at the nearby hospital to enable rapid admission and 
+avoid long ER/casualty waiƟng. Based on ABPI, the Sponsor/Applicant must cover the costs of such 
+admissions and facilitate immediate payments to the applicable hospital.   
+8.
+FINANCIAL FACTORS
+8.1 Participant remuneration:  
+Please refer to the SAHPRA Guideline for Remuneration of Volunteers in Phase I Clinical Trials. 
+8.2 Sponsor responsibility:  
+In the case of interventional (including Phase I) trials, the sponsor must provide comprehensive no-fault 
+insurance/liability cover for trial-related injury or death and must indemnify investigators and trial sites for 
+liabilities arising from trial conduct (except where investigator negligence/malpractice is proven). 
+8.2.1 No-fault insurance/liability cover: 
+On submission to SAHPRA, an up-to-date insurance certificate must be included that contains: 
+•
+Insurer name, local address & contact person/phone.
+•
+Policy number insured party (sponsor), a clear statement that it covers trial-related bodily injury,
+including death.
+•
+Scope of cover (no-fault compensation for medical treatment for serious/enduring injury and
+death compensation to the family).
+•
+Dates: cover inclusive of approval date, trial procedures, and a reasonable period for late
+injuries.
+•
+Any special conditions (should not invalidate/abate cover); no deductibles or co-payments
+charged to participants.
+•
+Declaration of compliance with SA GCP (and reference to ABPI approach).
+•
+Policies must be underwritten in line with the SA Insurance Act. All local insurer/broker details
+must be provided to facilitate easy access.
+[SAHPGL-CEM-CT_12_v1] 
+Page 17 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+Importantly, insurance must not impose deductibles/co-payments that the participant must pay. If 
+insurance policies have deductibles, they must be covered fully by the Sponsor/Applicant. Cover 
+must include a reasonable period for late-onset injuries.  This should be stated clearly in the 
+informed consent form. 
+8.2.2 
+Indemnification of investigators and trial site: 
+The indemnification of investigators and trial sites for liabilities arising from trial conduct (except 
+where investigator negligence is proven) is mandatory and should be indicated in the clinical trial 
+agreement with the investigator.  
+8.2.3 
+Investigator negligence/malpractice (professional indemnity) 
+The malpractice cover is separate from sponsor trial insurance and site indemnification cover. All 
+healthcare professionals involved in all clinical trials must maintain personal professional 
+indemnity/malpractice cover to cover clinical negligence or investigator malpractice. Trial insurance 
+does not replace the clinicians’ own indemnity. 
+9.
+FACILITY REQUIREMENTS FOR PHASE I CLINICAL TRIALS UNITS:
+9.1 
+Physical layout and participant accommodation
+•
+Dedicated inpatient observation area or ward (beds for overnight monitoring of healthy
+volunteers) with a visible nursing station and monitoring capability. Phase I studies often
+requires prolonged observation, and the extent of this requirement will be dependent on the
+design of the protocol.
+9.2 
+Emergency and resuscitation capability 
+•
+Resuscitation trolley/crash cart stocked as per local emergency SOP and in keeping with SAHPRA
+Guidelines (Emergency Procedures for Clinical Trial Sites).
+•
+Written emergency procedures (including rapid unblinding and emergency referrals) and contact
+list for nearby emergency services/hospital transfer plan.
+9.3 
+Medical equipment & monitoring 
+All medical equipment needs regular and current calibration. Any specialised emergency equipment and 
+medicines required for a specific trial must be listed. 
+10. ETHICS AND REGULATORY FACTORS:
+10.1 Role of RECS and the NHREC: 
+[SAHPGL-CEM-CT_12_v1] 
+Page 18 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+Due to their inherently high-risk nature, Phase I studies, parƟcularly ﬁrst-in-human trials (FIHs), also 
+require heightened atenƟon from Health Research Ethics Commitees (RECs).  
+In most phase 1 / FIH studies with healthy volunteer parƟcipants, reviewers need to balance the potenƟal 
+risk of harm with possible future beneﬁts to the general community, while in the case of oncology and 
+gene therapy studies, reviewers need to balance the risk of harm with any potenƟal beneﬁts to the both 
+the parƟcipant and to the general community.  
+Special atenƟon should be given to preclinical data, dose selecƟon and escalaƟon, safety monitoring plans, 
+stopping rules, parƟcipant selecƟon criteria, and the adequacy of informed consent processes. In the case 
+of oncology and gene therapy studies, addiƟonal atenƟon should be given to the underlying disease 
+process and comorbidiƟes of the study parƟcipants.  
+In addiƟon, when reviewing such studies, the REC reviewers must parƟcularly follow both the latest SAGCP 
+Guidelines and the NaƟonal Department of Health (NDoH) Ethics in Research Guidelines, developed by the 
+NaƟonal Health Research Ethics Council (NHREC). 
+Through this structured oversight framework, RECs and the NHREC play a criƟcal role in ensuring that early-
+phase clinical research in South Africa is conducted ethically, responsibly, and in a manner that protects 
+parƟcipant safety while advancing scienƟﬁc knowledge. 
+10.2 Other Regulatory AuthoriƟes: 
+When reviewing Phase I and especially FIHs in South Africa, informaƟon used and decisions made, 
+parƟcularly concerning the risk of harm, made by other Regulatory AuthoriƟes that SAHPRA aligns with, 
+e.g., FDA, EMA, MHRA, when available, should be considered. The decisions and policies from the African
+Medicines Agency (AMA) and Zambia, Zimbabwe, Botswana, Namibia, and South Africa (ZAZIBONA
+collaboraƟon) should be considered concerning FIH / Phase I clinical trials.
+10.3 ReporƟng frequency 
+As these studies are considered high risk, or indeed very high risk, more frequent reporƟng to both SAHPRA 
+and the applicable RECs is needed.  
+All FIHs require four weekly rouƟne reports as well as SAE reporƟng within 24 hours, as is usually the case. 
+Phase I clinical trials other than FIH may also require more frequent reports as per the potenƟal risk of 
+harm and as determined by SAHPRA/CTC. 
+[SAHPGL-CEM-CT_12_v1] 
+Page 19 of 19
+PRE-CLINICAL TESTING AND CLINICAL REQUIREMENTS FOR PHASE I / FIRST IN HUMAN (FIH) STUDIES 
+24 March 2026 
+10.4 Audits and inspecƟons 
+As FIHs require highly trained staﬀ as well as special faciliƟes where parƟcipants may be managed and 
+possibly referred, in the case of an SAE, a pre-study inspecƟon by the SAHPRA GCP Inspectorate may be 
+required.  ThereaŌer, both rouƟne inspecƟons and unannounced inspecƟons may occur. Adequate 
+funding must be provided by the Sponsor/Applicant for the research site to allow for such monitoring 
+acƟviƟes. 
+11. REFERENCES
+The following related documents are referenced:
+1.
+WHO TRS 927 Handbook for Non-Clinical Safety TesƟng:  htps://www.who.int/teams/health-product-
+policy-and-standards/standards-and-speciﬁcaƟons/norms-and-standards/vaccine-
+standardizaƟon/non-clinical-evaluaƟon-of-vaccines.
+2.
+InternaƟonal Conference on HarmonisaƟon (2009). Guidance on nonclinical safety studies for the
+conduct of human clinical trials and markeƟng authorisaƟon for pharmaceuƟcals M3(R2). Step 4
+Geneva: ICH. from US FDA  2010: htps://www.fda.gov/media/71542/download
+3.
+InternaƟonal Conference on HarmonisaƟon (2011). Preclinical safety evaluaƟon of biotechnology-
+derived pharmaceuƟcals S6(R1). Step 4 version. Geneva: ICH. Retrieved 27.7.2015, from: EMA
+htps://www.ema.europa.eu/en/documents/scienƟﬁc-guideline/ich-s6r1-preclinical-safety-
+evaluaƟon-biotechnology-derived-pharmaceuƟcals-step-5_en.pdf
+12. VALIDITY
+This guideline is valid for a period of five (5) years from the date of publication. It will be reviewed periodically
+and may be updated earlier if new scientific, ethical, or regulatory information becomes available.
+

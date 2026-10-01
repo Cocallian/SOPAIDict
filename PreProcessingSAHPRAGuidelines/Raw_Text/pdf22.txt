@@ -1,0 +1,301 @@
+SAHPGL-CEM-NS-01_v2 
+Page 1 of 8 
+ 
+ 
+ 
+March 26 
+GUIDELINE ON RESCHEDULING OF A SUBSTANCE OR MEDICINE 
+This document is intended to provide guidance to applicants on the scheduling of substances submitted for registration as medicines. 
+It represents the South African Health Products Regulatory Authority’s current thinking on the safety, quality and efficacy of medicines 
+and takes into account the country’s obligations in terms of international agreements. It is not intended as an exclusive approach. The 
+Authority reserves the right to request any additional information to establish the scheduling status of a medicine in keeping with the 
+knowledge current at the time of evaluation. Alternative approaches may be used but these should be scientifically and technically 
+justified. It is important that applicants adhere to the administrative requirements to avoid delays in the processing and evaluation of 
+applications. 
+ 
+ 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1 
+First issue  
+30 May 2022 
+2 
+• 
+Alignment to the latest SAHPRA guideline template 
+• 
+Introduction to the Rescheduling Application Form and general 
+process alignments. 
+March 2026  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-CEM-NS-01_v2 
+Page 2 of 8 
+Guideline on Rescheduling of a Substance or Medicine 
+March 2026 
+ 
+ 
+Contents 
+Document History ........................................................................................................................................... 1 
+Glossary ........................................................................................................................................................... 3 
+1. 
+INTRODUCTION ........................................................................................................................................ 4 
+1.1 Purpose .................................................................................................................................................... 4 
+1.2 Scope ....................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION .................................................................................................................................... 4 
+3. 
+GENERAL INFORMATION ......................................................................................................................... 5 
+4. 
+SUBMITTING AN APPLICATION ................................................................................................................ 6 
+5. 
+TIMELINES FOR PROCESSING OF RESCHEDULING APPLICATIONS ........................................................... 7 
+5.1 Rescheduling: ........................................................................................................................................... 7 
+5.2 Letter to the applicant: ............................................................................................................................ 7 
+5.3 Permittable query rounds:....................................................................................................................... 7 
+5.4 Scheduling of medicines as approved and gazetted by the Minister of Health ...................................... 7 
+6. 
+REFERENCES ............................................................................................................................................. 8 
+7. 
+VALIDITY ................................................................................................................................................... 8 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-NS-01_v2 
+Page 3 of 8 
+Guideline on Rescheduling of a Substance or Medicine 
+March 2026 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+API 
+Active Pharmaceutical Ingredient  
+SAHPRA 
+South Arican Health Products Regulatory Authority 
+ 
+ 
+ 
+SAHPGL-CEM-NS-01_v2 
+Page 4 of 8 
+Guideline on Rescheduling of a Substance or Medicine 
+March 2026 
+ 
+ 
+1. INTRODUCTION 
+This guideline is intended to provide applicants, Holders of Certificates of Registration (HCR) with guidance on 
+the criteria applied by the South African Health Products Regulatory Authority (“SAHPRA” or “the Authority”) 
+when applying for the rescheduling of a medicine or substance.  
+1.1 
+Purpose 
+This purpose of this document is to provide guidance to applicants on the rescheduling of registered 
+medicinal products.  
+1.2 
+Scope 
+This Guideline contains guidance on the suitability of rescheduling medicines or substances. This guideline 
+should be read in conjunction with the Medicines and Related Substances Act, 1965 (Act 101 of 1965) 
+(herein referred to as the Medicines Act), as amended, and the Regulations issued in terms of this Act; and 
+the latest version of the Consolidated Schedules. 
+2. LEGAL PROVISION 
+In terms of the Medicines Act, a ‘Scheduled substance’ is defined as follows: “means any medicine or other 
+substance prescribed by the Minister under section 22A”. Section 22A(2) empowers the Minister of Health “on 
+the recommendation of SAHPRA”, to make the Schedules referred to in that section, Section 37A also 
+empowers the Minister, again on the recommendation of SAHPRA, to amend the Schedules by notice in the 
+Government Gazette.  The official Schedules shall therefore always be those that have been published in the 
+Government Gazette or amended by subsequent notice in the Gazette. All medicines are subject to a 
+scheduling process on the basis of the substances (active pharmaceutical ingredients) they contain. 
+The primary consideration in scheduling a substance is its safety profile, in relation to the therapeutic 
+indications for its use. Substances may be listed in one or more of eight Schedules. 
+However, substances may also be listed in more than one Schedule, based on dosage form, route of 
+administration, strength, indication, dose, duration of treatment or a combination of these factors. Where a 
+substance or medicine has been listed in more than one Schedule, the other Schedule(s) in which it is listed is/ 
+are indicated in parentheses after the inscription in a particular Schedule. Where exceptions are included in 
+an entry, these have been emphasised by printing the word ―except in bold type. 
+ 
+ 
+SAHPGL-CEM-NS-01_v2 
+Page 5 of 8 
+Guideline on Rescheduling of a Substance or Medicine 
+March 2026 
+ 
+ 
+3. GENERAL INFORMATION 
+3.1 
+The application form for Rescheduling of a Substance or Medicine (GLF-CEM-NS-01A) is to be used 
+for applications regarding rescheduling of a substance or medicine in line with the Guideline to the 
+Scheduling of Substances and Medicines (SAHPGL-CEM-NS-02). The application form can be 
+accessible on SAHPRA website. 
+3.2 
+An application can be submitted by an applicant who wishes to change the schedule status of a 
+registered medicine.  
+3.3 
+An independent person/s or association may not apply for a rescheduling of a product. However, the 
+independent persons or association may bring forth data/ information to the regulator to highlight 
+any safety/ efficacy concerns observed by the persons or association for the regulator to assess if a 
+feasible action is required. 
+NOTE: Safety and efficacy data concerns may be submitted to the regulator independently, where 
+applicable. 
+3.4 
+The same principles as outlined in the Guideline to the Scheduling of Substances and Medicines 
+(SAHPGL-CEM-NS-02) would be applied in considering an application for rescheduling. Therefore, to 
+justify rescheduling from Schedule 3 or 4 to Schedule 2 or 1, evidence would need to be provided to 
+justify use without a prescription. 
+If any of the following criteria are met, prescription status would need to be maintained: 
+• 
+The substance is likely to present a direct or indirect danger to human health, even when used 
+correctly, if used without supervision by a medical practitioner or dentist; 
+• 
+The substance is frequently and to a very wide extent used incorrectly or inappropriately, and 
+as a result is likely to present a direct or indirect danger to human health; 
+• 
+The safety and efficacy of the substance has not yet been adequately described and requires 
+further investigation. 
+3.5 
+Likewise, in order to justify a Schedule 0 status, evidence would need to be provided to show that 
+the hazard to health, the risk of misuse and the need for special precautions in handling are minimal, 
+and that wider sale would be a convenience to the consumer. 
+SAHPGL-CEM-NS-01_v2 
+Page 6 of 8 
+Guideline on Rescheduling of a Substance or Medicine 
+March 2026 
+ 
+ 
+3.6 
+A product is normally assigned the highest scheduling status appropriate to any one of the registered 
+indications of the product. 
+3.7 
+If an application is made to reschedule only selected indications of a specific product to a lower 
+Schedule a unique name and a separate registration dossier, where applicable, will be required for 
+such a product.  
+3.8 
+It must be noted that dual scheduling on packaging, Professional Information and the Patient 
+Information Leaflet is not permitted.  
+• 
+Only products with indications, strengths, routes of administration and/ or pack sizes 
+applicable to the lower schedule will qualify for the lower scheduling status. 
+4. SUBMITTING AN APPLICATION  
+4.1 
+The rescheduling application form Application Form Rescheduling of a Substance or Medicine (GLF-
+CEM-NS-01A) accessible on the SAHPRA website, must be submitted to SAHPRA as per section 4.2 
+below. 
+4.2 
+Variation applications for the rescheduling of a registered medicine or substance (Type II) for 
+evaluation must be submitted via the SAHPRA Engagement Portal (refer to the SAHPRA latest eCTD 
+Specification (SAHPGL-HPA-09) for more information as accessible on the SAHPRA website). 
+4.3 
+The applicant must ensure that all relevant fields are completed on the application form (GLF-CEM-
+NS-01A) and that all supporting documentation is attached. Incomplete applications will be identified 
+as deficient, and the evaluation will not progress until deficiencies are addressed. 
+4.4 
+The prescribed application fee and proof of payment must accompany the application. For the 
+current fee payable, refer to the latest fee schedule as published in the Government Gazette and 
+published on the SAHPRA website https://www.sahpra.org.za/government-gazette/. 
+• 
+Payments should be made as per the latest SAHPRA Payment Guideline (SAHPGL-FIN-01).  
+4.5 
+In the event of a rescheduling application for a product moving to a lower schedule, a unique 
+proprietary name and a separate registration dossier is required.    
+4.6 
+For rescheduling an existing registered product to a lower schedule which is part of an existing 
+dossier, a delinking from the master dossier will be required.   
+SAHPGL-CEM-NS-01_v2 
+Page 7 of 8 
+Guideline on Rescheduling of a Substance or Medicine 
+March 2026 
+ 
+ 
+4.7 
+The proprietary name change variation application for the de-linked medicine, should be submitted 
+as the next follow-up sequence following an approval of a rescheduling application and the applicant 
+should amend the eCTD envelope to remove the details of the master. 
+5. TIMELINES FOR PROCESSING OF RESCHEDULING APPLICATIONS 
+5.1 
+Rescheduling: 
+5.1.1 
+For Rescheduling Type II variation applications made to SAHPRA, the timeline will be 220 
+working days.  
+5.2 
+Letter to the applicant: 
+5.2.1 
+A correspondence letter will be sent to the applicant regarding the outcome of an 
+application, and 
+5.2.2 
+If an application does not meet the evaluation criteria, a query letter will be sent to the 
+applicant stating the deficiencies identified within the application.  
+5.3 
+Permittable query rounds: 
+5.3.1 
+The query rounds will be as per General Information guideline (SAHPGL-HPA-07), 
+consultations with the applicant can be done where applicable. 
+5.3.2 
+If the applicant fails to address the queries adequately by the within the permissible query 
+rounds, the application will be tabled for rejection. 
+• 
+The applicant will be required to submit a new application, and the applicable fee shall 
+be payable. 
+5.3.3 
+Each response timeframe should be within 20 working days of receipt and notification of 
+recommendation  variations@sahpra.org.za. Applicants may submit a written request for 
+extension, 
+addressed 
+to 
+variations@sahpra.org.za 
+and 
+namesandscheduling.variations@sahpra.org.za . 
+5.4 
+Scheduling of medicines as approved and gazetted by the Minister of Health  
+5.4.1 
+Rescheduling recommendations that SAHPRA has approved will be submitted as an 
+amendment to the published Schedules, for consideration by the Minister of Health and 
+publication in the Government Gazette.  
+SAHPGL-CEM-NS-01_v2 
+Page 8 of 8 
+Guideline on Rescheduling of a Substance or Medicine 
+March 2026 
+ 
+ 
+5.4.2 
+Applicants are required to update their PI/ PIL and all relevant sections of the dossier for the 
+registered product to align with the new requirements as published and gazetted by the 
+Minister of health.  
+6. REFERENCES 
+The following related documents are referenced: 
+6.1 
+SAHPGL-CEM-NS-02_Guideline to the Scheduling of Substances and Medicines 
+6.2 
+GLF-CEM-NS-01A_ Application Form _Rescheduling of a Substance or Medicine 
+6.3 
+SAHPGL-HPA-09_SAHPRA eCTD latest Specification 
+6.4 
+GLF-CEM-NS-01A _Application Form Rescheduling of a substance or Medicine 
+6.5 
+SAHPGL-HPA-07_ General Information guideline 
+7. VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the previous 
+guideline on application, rescheduling of substances and medicines (SAHPGL-CEM-NS-01_v1). It will be 
+reviewed on this timeframe or as and when required. 
+

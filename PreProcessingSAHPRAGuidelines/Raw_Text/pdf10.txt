@@ -1,0 +1,760 @@
+SAHPGL-CEM-01_v4 
+Page 1 of 18 
+ 
+ 
+ 
+1 June 2026 
+CLINICAL GUIDELINE 
+This guideline is intended to provide guidance to applicants wishing to submit applications for the registration of Human Medicines 
+containing specified substances. In addition to this guideline, SAHPRA reserves the right to request any additional information to 
+establish the quality, safety, and efficacy of a medicine in keeping with the knowledge current at the time of evaluation. SAHPRA is 
+committed to ensure that all registered medicines will be of the required quality, safety, and efficacy. 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+1 
+First issue and published for implementation 
+December 2003 
+2 
+Date of Implementation 
+April 2019 
+3 
+- Content structured on the new SAHPRA Guideline Template 
+- Old guideline number 2.09 changed to SAHPGL-CEM-01 
+August 2022 
+4 
+The following Sections have been updated, this includes: 
+- 
+Glossary table to cover all abbreviations used in this guideline; 
+- 
+Section 1 (Introduction) includes reading with ICH guidelines;  
+- 
+Section 3, added to indicate the Types of applications; 
+- 
+Section 4 (Clinical review type details) previously defined as 
+section 3, recognition review pathway deleted in line with current 
+clinical review pathways; 
+- 
+Section 5 (Pre-clinical and clinical studies) previously defined as 
+section 4, part (d) has minor editorial change; 
+- 
+Section 6 (Document/ Data Requirements for New Registration) 
+previously defined as section 5; reference to eCTD modules 
+updated and minor editorial change now included; 
+- 
+Section 7 (References) previously defined as section 6 now 
+revised to include relevant guidelines; 
+June 2026 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-CEM-01_v4 
+Page 2 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 5 
+1.1 
+Purpose ...................................................................................................................................................... 6 
+1.2 
+Scope .......................................................................................................................................................... 6 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 6 
+3. 
+TYPES OF APPLICATIONS ............................................................................................................................ 6 
+3.1 
+New chemical entity (NCE) ......................................................................................................................... 6 
+3.2 
+Multisource/ generic applications (including replicas) and extension applications .................................. 6 
+3.3 
+Multisource/ generic applications (pharmaceutical equivalence) ............................................................. 7 
+3.4 
+Multisource/ generic application (pharmaceutical alternative) and Extensions ....................................... 7 
+3.4.1 Types of Extension applications: ................................................................................................................ 7 
+4. 
+CLINICAL REVIEW TYPE ............................................................................................................................... 8 
+4.1 
+FULL REVIEW .............................................................................................................................................. 9 
+4.1.1 Monocomponent medicines ...................................................................................................................... 9 
+4.1.2 Multicomponent medicines ....................................................................................................................... 9 
+4.1.3 Type II variations ........................................................................................................................................ 9 
+4.1.4 Extension applications ................................................................................................................................ 9 
+4.2 
+ABRIDGED REVIEWS ................................................................................................................................... 9 
+4.3 
+VERIFIED REVIEW ..................................................................................................................................... 10 
+5. 
+PRE-CLINICAL AND CLINICAL STUDIES ...................................................................................................... 10 
+5.1 
+PRE-CLINICAL STUDIES (CTD MODULES 2.4, 2.6 & 4) ............................................................................... 10 
+5.1.1 Pharmacology ........................................................................................................................................... 10 
+5.1.2 Pharmacokinetic properties: .................................................................................................................... 11 
+5.1.3 Toxicology:................................................................................................................................................ 11 
+5.2 
+CLINICAL STUDIES (eCTD MODULES 2.5, 2.7 & 5) .................................................................................... 12 
+6. 
+DOCUMENT/ DATA REQUIREMENTS FOR NEW REGISTRATION .............................................................. 14 
+6.1 
+FULL REVIEW REQUIREMENTS ................................................................................................................. 14 
+6.2 
+ABRIDGED REVIEW REQUIREMENTS ........................................................................................................ 16 
+6.3 
+VERIFIED REVIEW REQUIREMENTS .......................................................................................................... 16 
+7. 
+REFERENCES ............................................................................................................................................. 17 
+8. 
+VALIDITY ................................................................................................................................................... 18 
+SAHPGL-CEM-01_v4 
+Page 3 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+Act 
+Medicines and Related Substances Act, 1965 (Act 101 of 1965 as amended)   
+Amendments  
+Used interchangeably with the term ‘variations’  
+API  
+Active Pharmaceutical Ingredient  
+Authority  
+Refers to SAHPRA 
+CHMP  
+Committee for Medicinal Products for Human Use  
+EA  
+Extension Application  
+EMA  
+European Medicines Agency  
+EU  
+European Union  
+FAAF 
+Formulation As Applied For 
+FPP 
+Finished Pharmaceutical Product 
+Generic  
+This term is used interchangeably with “interchangeable multisource medicine” 
+which means medicines that contain the same active substances which are 
+identical in strength or concentration, dosage form and route of administration 
+and meet the same or comparable standards, which comply with the requirements 
+for therapeutic equivalence as prescribed. 
+GCP 
+Good Clinical Practice 
+ICH  
+The International Council on Harmonisation of Technical Requirements for 
+Registration of Pharmaceuticals for Human Use 
+MAH: Equivalent to 
+HCR  
+Market Authorisation Holder: Holder of the Certificate of Registration  
+MHLW  
+Ministry of Health, Labour and Welfare (Japan)  
+MHRA  
+Medicines and Healthcare Products Regulatory Agency (United Kingdom)  
+NCE  
+New Chemical Entity  
+Q & BE  
+Quality and Bioequivalence  
+PBRER  
+Periodic Benefit-Risk Evaluation Report  
+Pharmaceutical 
+alternatives 
+Medicines that contain the same active moiety but differ either in chemical form 
+of that moiety or in the dosage form or strength; and after administration in the 
+same molar dose, their effects with respect to both efficacy and safety are 
+essentially the same. 
+SAHPGL-CEM-01_v4 
+Page 4 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+Pharmaceutical 
+equivalent 
+Medicines that contain the same amount of active substances in the same dosage 
+form, meet the same or comparable standards and are intended to be 
+administered by the same route. 
+PI 
+Professional Information  
+PIL  
+Patient Information Leaflet  
+PSUR  
+Periodic Safety Update Report  
+RMP 
+Risk Management Plan 
+RRA  
+Recognised Regulatory Authorities – a term used to refer to the list of regulatory 
+authorities with which SAHPRA aligns itself  
+SAHPRA  
+South African Health Products Regulatory Authority  
+SAP 
+Statistical Analysis Plan 
+SmPC  
+Summary of Product characteristics: Equivalent to PI  
+The Authority  
+Relevant regulatory authority, in this case SAHPRA  
+TGA  
+Therapeutic Goods Administration (Australia)  
+Unregistered 
+medicine  
+Is a medicine that were on the South African market before registration became 
+mandatory with the promulgation of The Medicines and Related Substances 
+Control Act, 1965 (Act 101 of 1965). These medicines were never formally 
+evaluated by the SAHPRA or former MCC for safety, efficacy and quality. 
+US FDA  
+United States Food and Drug Administration  
+WHO CRP 
+World Health Organisation Collaborative Registration Procedure 
+ 
+ 
+ 
+ 
+SAHPGL-CEM-01_v4 
+Page 5 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+1. 
+INTRODUCTION 
+The science and practice of drug development and clinical evaluation have evolved significantly, and this 
+evolution has implications for the amount and type of data needed to support effectiveness in certain cases. 
+Guidelines are constantly evolving because of scientific developments and harmonisation of the requirements 
+of the major international regulatory authorities. The South African Health Products Regulatory Authority 
+(SAHPRA) endeavours to keep abreast of such developments and keep its application requirements and 
+evaluation policies in line with international best practice. As an Assembly to The International Council on 
+Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH), South 
+Africa uses and applies information provided in the ICH guidelines for safety, efficacy, and quality 
+requirements. This guideline must be read in conjunction with relevant ICH guidelines, including but not limited 
+to E3 (Clinical Study Reports), E6 (Good Clinical Practice), E8 (General Considerations) and M4 (CTD Structure).  
+This guideline adopts and refers to the Safety and Efficacy guidelines from ICH in their current form and/ or 
+with amendments to align with local requirements and legislation.  
+The concepts of safety and therapeutic efficacy can only be examined in relation to each other and have only 
+relative significance depending on the scientific knowledge and the use for which the medicine is intended. 
+The particulars and documents which must accompany an application for registration of a medicine 
+demonstrate that potential risks are outweighed by the therapeutic efficacy of the medicine.    
+Evaluation of safety and efficacy data also includes the evaluation and approval of the professional information 
+(PI) and patient information leaflet (PIL) for registration purposes. It is the applicant’s responsibility to maintain 
+the life cycle of PI and PIL post registration. 
+SAHPRA in terms of the general regulations outlines in the Medicines and Related Substances Act, 1965 (Act 
+101 of 1965 as amended) requires that a PI and PIL to be made available for each medicine as stipulated in 
+Regulation 11 and 12, respectively. The Authority requires that an application for the registration of a medicine 
+be accompanied by a PI and PIL as prescribed by the Act.  For the format and content requirements of the PI 
+and PIL, refer to the current SAHPRA PI and PIL guidelines (SAHPGL-CEM-02). 
+This guideline outlines SAHPRA’s evaluation pathways for Clinical and the associated documentation/ data 
+requirements and provides guidance on Non-clinical and Clinical studies.   Throughout the Common Technical 
+Document, the display of information should be unambiguous and transparent, in order to facilitate the review 
+of the basic data and to help a reviewer become quickly oriented to the application contents. 
+NOTE: An unregistered medicine PI cannot be used as reference source for a multisource/ generic PI. For 
+SAHPGL-CEM-01_v4 
+Page 6 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+further explanation refer to the PI/ PIL guidelines (Guideline for Professional Information for Human Medicines 
+(Categories A and D) and Guideline for Patient Information Leaflet for Human Medicines (Categories A and D).    
+1.1 
+Purpose 
+This document provides guidance on the review pathways for clinical evaluations and the required 
+documentation/ data for the respective review pathways for the purpose of registration of Human 
+Medicines (categories A and D) and the amendments thereof.  
+1.2 
+Scope 
+The guideline is applicable to categories A and D Human Medicines, as defined in the Medicines and Related 
+Substances Act (Act 101 of 1965). In addition to this guideline, SAHPRA reserves the right to request any 
+additional information to establish the safety, quality, and efficacy of a medicine in keeping with the 
+knowledge current at the time of evaluation. SAHPRA is committed to ensure that all registered medicines 
+will be of the required quality, safety, and efficacy. 
+2. 
+LEGAL PROVISION 
+This guideline is based on the requirements of General Regulations 2, 10, 11, 12 and 15 issued in terms of the 
+Medicines and Related Substances Act, (Act 101 of 1965), as amended (Government Notice No. 859, 
+Government Gazette No. 41064, 25 August 2017). 
+3. 
+TYPES OF APPLICATIONS 
+3.1 
+New chemical entity (NCE)  
+Applications (including clones) that include non-clinical and clinical information in support of the efficacy 
+and safety of the formulation/ dosage form, indication(s) and dosage regimen. 
+3.2 
+Multisource/ generic applications (including replicas) and extension applications 
+That include (where applicable): 
+• 
+clinical information in support of efficacy and safety of the formulation/ dosage form, or 
+indication(s) or dosage regimen.  
+• 
+comparative bioavailability/ bioequivalence studies as proof of efficacy. 
+• 
+comparative dissolution studies as proof of efficacy. 
+• 
+any other comparative studies as proof of efficacy.  
+SAHPGL-CEM-01_v4 
+Page 7 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+• 
+others, not mentioned above e.g., liquids/ solutions. 
+3.3 
+Multisource/ generic applications (pharmaceutical equivalence) 
+A multisource/ generic medicine is described as medicine which has: 
+• 
+the same qualitative and quantitative composition in active substances in the same dosage from as 
+the reference product registered by SAHPRA, 
+• 
+the same pharmaceutical form and are intended to be administered by the same route as the 
+reference product registered by SAHPRA, 
+• 
+and whose bioequivalence with the registered product has been demonstrated by appropriate 
+bioavailability studies (where applicable). 
+The different salts, esters, ethers, isomers, mixtures of isomers, complexes or derivatives of an active 
+substance must be the same active substance, unless they differ significantly in properties regarding safety 
+and/ or efficacy. In such cases, additional information providing proof of the safety and/ or efficacy of the 
+various salts, esters, ethers, isomers or mixtures thereof or derivatives of an authorised active substance 
+must be supplied by the applicant. 
+3.4 
+Multisource/ generic application (pharmaceutical alternative) and Extensions  
+Products are pharmaceutical alternative(s) if they contain the same molar amount of the same active 
+pharmaceutical moiety(s) but differ in dosage form (e.g. tablets versus capsules), and/ or chemical form 
+(e.g. different salts, different esters). Pharmaceutical alternatives deliver the same active moiety by the 
+same route of administration but are otherwise not pharmaceutically equivalent. They may or may not be 
+bioequivalent or therapeutically equivalent to the comparator product. 
+Therapeutic equivalence is determined from comparative bioavailability, pharmacodynamic, clinical or in 
+vitro studies which meets the requirements and acceptable criteria for bioequivalence as determined by 
+the Authority. 
+These types of applications depend partly on the results of tests on reference medicine and partly on new 
+data from clinical studies. 
+3.4.1 
+Types of Extension applications: 
+Applications that may fall in these categories are (refer to the SAHPRA Guideline for submission of Extension 
+applications): 
+SAHPGL-CEM-01_v4 
+Page 8 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+• 
+Change in active substance. 
+• 
+Change in bioavailability. 
+• 
+Change in pharmacokinetics (e.g., change in rate of release). 
+• 
+change or addition of a new strength/ potency. 
+• 
+change or addition of a new route of administration. 
+Pharmaceutical alternatives and Extension applications are regarded as generics with clinical data. Clinical 
+data should be submitted to support the proposed application and the relevant ICH guidelines can be 
+utilised for guidance. 
+4. 
+CLINICAL REVIEW TYPE 
+A clinical application will follow one of the following review types, namely: 
+(a) Full Review  
+(b) Abridged Review  
+(c) Verified Review 
+Review types (b) and (c) represent reliance pathways, which SAHPRA will be implementing to reduce 
+evaluation times. To qualify for a reliance pathway, an application must have received prior approval from 
+RRA. Reliance pathways are discussed in detail in the latest SAHPRA reliance guideline (SAHPGL-BAU-01). 
+Full review is defined as a comprehensive/ thorough review of all aspects of the dossier, based primarily on 
+the evaluation of data (and summaries thereof) submitted by the applicant. This is the default evaluation 
+pathway for new registrations and variations not previously approved by SAHPRA or RRA, or where reliance 
+documentation provided to SAHPRA is deemed to be insufficient. 
+The final evaluation pathway decision for an application is at the discretion of SAHPRA and will depend on the 
+availability and quality of reliance documentation submitted. SAHPRA will share screening queries with 
+applicants regarding insufficient reliance documentation to ensure that as many applications as possible 
+qualify for abridged and verified reviews. Applications will default to a Full Review in the absence of a suitable 
+reliance pathway. 
+SAHPGL-CEM-01_v4 
+Page 9 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+NOTE: That an application for an API that has not yet been registered by SAHPRA will be considered as a New 
+Chemical Entity (NCE) in South Africa, regardless of whether the molecule has already been registered by other 
+regulatory authorities. 
+4.1 
+FULL REVIEW 
+A full review involves a thorough review of all aspects of the dossier, particularly the pre-clinical and clinical 
+data submitted under CTD Modules 4 and 5 (and summarised in Module 2). All NCE biological, and biosimilar 
+medicine applications, generic applications with clinical data, Type II variations and extension applications 
+(EAs) that lack adequate reliance documentation or do not have prior approval from an RRA will undergo/ 
+be subjected to a full review pathway. 
+A full review is indicated specifically for the following types of applications: 
+4.1.1 
+Monocomponent medicines  
+• 
+For a monocomponent NCE (new chemical entity) not registered by SAHPRA or an RRA, 
+• 
+For a monocomponent multisource medicine/ generic/ API not registered by SAHPRA or an 
+RRA, and where clinical data generated with the multisource/ generic has been supplied in 
+support of the application, and 
+• 
+Biological medicine not registered by SAHPRA or an RRA. 
+4.1.2 
+Multicomponent medicines  
+• 
+For a multicomponent fixed dose combination of two or more chemical entities, where the 
+combination is not registered by SAHPRA or by an RRA. 
+4.1.3 
+Type II variations  
+• 
+For Type II variations where the amendment applied for has not been approved by an RRA 
+or when the amendments are made to therapeutic indication and posology. 
+4.1.4 
+Extension applications  
+• 
+For EAs which have not yet been approved by SAHPRA or by an RRA for a given molecule. 
+4.2 
+ABRIDGED REVIEWS 
+The Abridged Review is initiated to limit the evaluation time of medicines that are registered by RRAs.  
+All NCE and biological applications, generic applications with clinical data, Type II variations and EAs that 
+SAHPGL-CEM-01_v4 
+Page 10 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+have prior approval from a RRA will be considered for an abridged review. In addition, all applications for 
+biosimilar medicines will be considered for an abridged review. 
+For the requirements for an application to be considered for an abridged review refer to the SAHPRA 
+reliance guidelines (SAHPGL-BAU-01). 
+4.3 
+VERIFIED REVIEW 
+The verified review is initiated to limit the evaluation time of multisource/ generic applications for APIs 
+already registered by SAHPRA.  
+The verified review is effectively a comparison of an applicant’s proposed PI against an approved up-to-
+date reference PI (from a Clinical safety perspective). The primary reference for a verified review is the 
+latest-approved PI of the associated local innovator product.  
+The most recently approved Innovator SmPC/ PI from a recognised regulatory authority (RRA) (for 
+multisource/ generic applications: as a supplement for safety aspects only in instances where the local IPI 
+is materially outdated i.e. 5 years or older) refer to the Guideline on Professional Information for Human 
+Use (see  SAHPGL-CEM-02  for which sections require complete localisation to the SA innovator product).  
+All Type IB variations, and multisource/ generic applications (without clinical data) for APIs already 
+registered by SAHPRA will be considered for a verified review.  
+5. 
+PRE-CLINICAL AND CLINICAL STUDIES 
+5.1 
+PRE-CLINICAL STUDIES (CTD MODULES 2.4, 2.6 & 4)  
+The details of results from tests shall depend on the state of scientific knowledge at the time when the 
+application is lodged. Any interim and final results of ongoing studies should be submitted as soon as this 
+data become available. A new route of administration, or an increased daily dose, or different inactive 
+pharmaceutical ingredients, may result in the need for additional pharmaco-toxicological data. Details 
+(published or unpublished) of the results of any trials or experiments carried out in a man or in the animal 
+target species, or carried out in other animals, that establish and confirm the safety of the medicine, with 
+reference to the Posology and method of administration for use, should be included. 
+5.1.1 
+Pharmacology  
+The Pharmacology of the medicine should be addressed.  
+Pharmacodynamic properties:  
+SAHPGL-CEM-01_v4 
+Page 11 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+(a) The primary effects of medicine, with results in different animal species (ED50 values if possible), 
+should be addressed.  
+(b) Comparison of the effects of medicine with that of reference product(s), is valuable information.  
+(c) Where relevant, the pharmacology of significant metabolites should be investigated.  
+(d) The pharmacodynamic effects, especially those that might be of significance for adverse effects of 
+medicine, should be studied and described. 
+Interaction studies, where relevant, should be included.  
+5.1.2 
+Pharmacokinetic properties:  
+(a) To assist in the interpretation of toxicological studies, it is important to compare the exposure 
+of the animals used in the toxicity testing with that anticipated in patients given the proposed 
+therapeutic dose regimen data, which includes Cmax (after a single dose and at steady state) 
+and AUC. 
+(b) MODULE 4 should, therefore, include comparative pharmacokinetic data for the parent 
+substance and major/ active metabolite(s), where relevant, in human and all species used in 
+toxicity, carcinogenicity and reproduction studies. 
+(c) These data should preferably be obtained from the toxicity studies. 
+(d) Other information (for example, t½ and clearance) may be of value where important 
+differences have been shown between animals and man.  
+5.1.3 
+Toxicology:  
+For medicines other than biological medicines the Toxicology of the medicine should be addressed.  
+(a) A summary, or Expert Report, should be submitted for each animal species studied, with 
+information on the sex of the animals, number of animals, dosage, route of administration, 
+duration of study and toxic manifestations.  
+(b) Important points to consider that pertain to pre-clinical toxicity, are:  
+• 
+Dose-response relationship  
+• 
+Time-response relationship  
+SAHPGL-CEM-01_v4 
+Page 12 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+• 
+Species specificity  
+• 
+Consistency of findings across studies with different species 
+• 
+Target organ specificity 
+• 
+Reversibility/ irreversibility of toxic effects. 
+(c) Medicines that show specific toxicological effects, such as immunotoxicity, teratogenicity, 
+nephrotoxicity, hepatotoxicity or neurotoxicity, should be investigated further, taking into 
+account the points under b) above.  
+(d) New medicines, which belong to classes that are known to produce a particular toxic effect, 
+should be tested appropriately.  
+(e) The possible mechanism(s) underlying the changes observed in toxicity studies need to be 
+investigated and addressed.  
+(f) Due to the local climatic conditions, the phototoxic potential of a medicine should be 
+considered.  
+(g) The points to address in the reproduction studies include fertility, embryonal toxicity, 
+teratogenicity, peri- and post- natal effects. 
+5.2 
+CLINICAL STUDIES (eCTD MODULES 2.5, 2.7 & 5)  
+The following items should be addressed in conducting, and presenting the findings from, clinical studies:  
+(a) The clinical data should be presented in a manner that allows easy cross-referencing to the index, 
+other studies, and the professional information. 
+(b) Data presented in support of the safety and efficacy of the medicine should be derived from clinical 
+trials conducted in compliance with internationally accepted good clinical practice (GCP) guidelines. 
+The studies should be properly designed and conducted and should be of acceptable statistical 
+power (refer to the SA clinical trial guidelines), and any other ICH-approved clinical trial guidelines 
+referenced therein). Where relevant, results published in peer reviewed scientific journals, should 
+be submitted in full.  
+(c) Clinical trials should be conducted with the formulation as applied for. Where studies have been 
+SAHPGL-CEM-01_v4 
+Page 13 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+conducted with different formulations, comparative equivalence studies are required to enable 
+extrapolation to the formulation intended for the market.  
+(d) Individual patient data and case record forms from clinical trials need not be included in an 
+application dossier (except in the case of bioequivalence studies where the individual plasma/ 
+serum concentrations concentration/ time curves and derived pharmacokinetic data should be 
+supplied). Tabulated individual patient data may be included in the application if the applicant 
+considers it appropriate.  
+(e) Studies designed to demonstrate the pharmacodynamic properties of a medicine should address 
+the effect of the medicine, duration of effect, dose-response and tolerance. Additional action on 
+e.g. the central nervous system, respiration, circulation, blood chemistry, liver and kidney function 
+should be considered at the proposed therapeutic dose(s).  
+(f) Pharmacokinetic studies should be conducted with the formulation as applied for. All relevant 
+pharmacokinetic data shall be given, such as amount and rate of absorption after various routes of 
+administration, plasma concentration, half-lives, drug clearance, drug metabolism, handling by 
+transporters, as well as the routes and rates of excretion. Data on major/ active metabolite(s) 
+should be included if applicable.  
+(g) The pharmacokinetic studies should be carried out with both single dose and multiple doses to 
+steady state within the recommended dosage range. Where applicable the plasma concentration(s) 
+producing pharmacological and/ or therapeutic effects as well as adverse effects, should be 
+presented. Possible dose and time-dependent pharmacokinetic effects should be addressed. The 
+consequences of genetic polymorphism on transporters and metabolic enzymes should be 
+discussed, if applicable.  
+(h) The trial design of the relevant clinical studies should be such that the safety and efficacy of the 
+medicine can be established in comparison to either a placebo and/ or a medicine registered by an 
+RRA.  
+(i) The description of the studies should include patient population size and diagnosis, in- and 
+exclusion criteria, test and comparator/ reference medicine dosage regimens and duration of 
+therapy, parameters assessed for efficacy and safety, including results of special investigations.  
+(j) It should be noted that the randomised, double blind, placebo and/ or active controlled trial design 
+SAHPGL-CEM-01_v4 
+Page 14 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+remains the gold standard for establishing the efficacy and safety of medicines.  
+(k) Detailed statistical results should be presented. The analysis conducted should be consistent with 
+that pre-specified in the protocol and statistical analysis plan (SAP). The SAP must be finalised 
+before unblinded trial data are available.  
+(l) The dosage of the active comparator/ reference should be in line with that approved for the specific 
+therapeutic indication.  
+(m) The patient dropouts should be addressed, including the time of and reason(s) for withdrawal/ 
+drop-out.  
+(n) To enable evaluation of safety of the medicine it should be noted that the long-term safety, 
+particularly for medicines proposed for chronic use, or where repeated treatment courses are to 
+be used, should be addressed.  
+(o) Whilst the medicine is in the evaluation process Applicants should notify the Authority of any 
+prohibition or restriction imposed by the competent authorities of any country in which the 
+medicine is marketed and of any other new information which might influence the evaluation of 
+the benefits and risks of the medicine concerned. 
+6. 
+DOCUMENT/ DATA REQUIREMENTS FOR NEW REGISTRATION  
+This section outlines the new-registration document/ data requirements for the various evaluation pathways. 
+Clinical document/ data requirements for variation applications can be found in the “SAHPGL-HPA-06, 
+Variations Addendum for Human and Veterinary Medicines”.  
+6.1 
+FULL REVIEW REQUIREMENTS  
+6.1.1 
+Applicants cover letter (M1.0)  
+6.1.2 
+Proposed PI and PIL (M1.3)  
+6.1.3 
+Standard references (if applicable) (M1.3) 
+6.1.4 
+Administrative and Clinical technical screening checklists (M1.2.5) 
+6.1.4.1 Registration status and dates of approval with other regulatory authorities (M1.10) 
+[Applicants are requested to highlight SAHPRA’s RRAs on this list]  
+SAHPGL-CEM-01_v4 
+Page 15 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+6.1.4.2 Risk Management Plan (RMP) refer to RMP guideline (see SAHPGL-CEM-PV) (M1.8.2)  
+6.1.4.3 Latest Periodic Safety Update Report (PSUR)/ Periodic Benefit-Risk Evaluation Report 
+(PBRER) if already registered by a RRA, if applicable – (M5)  
+6.1.4.4 The latest approved PI and PIL with SAHPRA date of approval (M1.3), applicable for 
+Variations applications. 
+Pre-clinical data (proof of concept, in vitro/ in vivo data, animal data) 
+6.1.5 
+Overview of pre-clinical data (M2.4) 
+6.1.6 
+Synopsis of pre-clinical findings of relevance to humans (M2.6) 
+6.1.7 
+Pre-clinical data expert report from the applicant (M2.4) 
+6.1.8 
+Full pre-clinical data (M4) 
+6.1.9 
+The studies include pharmacological properties, pharmacokinetic, and toxicology, this 
+information should be integrated across studies and across species, and exposure in the test 
+animals should be related to exposure in humans given the maximum intended doses (M4) 
+Clinical data 
+6.1.10 
+Overview of clinical data (incl. safety, efficacy, pharmacology and benefit/ risk analysis) (M2.5) 
+6.1.11 
+Clinical expert reports on safety and efficacy from the applicant (M2.5) 
+6.1.12 
+Synopsis of each clinical study included in the application (M2.7) 
+6.1.13 
+Full clinical study data with formulation as applied for (FAAF) (M5) 
+6.1.14 
+Studies on the molecule/ medicine demonstrating its pharmacology including mechanism of 
+action (if applicable or possible) and the pharmacotoxicology.  
+6.1.15 
+Studies demonstrating pharmacodynamic properties (M5) 
+6.1.16 
+Studies demonstrating pharmacokinetic properties, including PK/PD relationship, and where 
+relevant, pharmacokinetic properties in special populations (e.g. hepatic, renal, gender, race, 
+SAHPGL-CEM-01_v4 
+Page 16 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+elderly, children, other age groups) and pharmacodynamic/ pharmacokinetic interactions with 
+other medicines relevant to the indication and target population (M5) 
+6.2 
+ABRIDGED REVIEW REQUIREMENTS 
+Some requirements may not be applicable to a certain application type for abridged review: 
+6.2.1 
+Full review requirements 6.1.1 – 6.1.16 
+6.2.2 
+Un-redacted rapporteur assessment reports from RRAs, if available (M1.10) 
+6.2.3 
+The relevant reference PI approved by a RRA M1.3.5 (eCTD spec 3.1) 
+6.2.4 
+Declaration that the information in the application is materially the same as the information 
+submitted to the regulatory authority (name the RRA) which approved the medicine (include 
+approval date) (M1.10.4.2) 
+6.2.5 
+Correspondence between the Applicant and other reference RRAs, concerning queries relating to 
+safety, efficacy, risk/ benefit and RMP issues (if not included in the un-redacted assessment report). 
+Detailed explanation/ reasons if registration/ approval was refused by a Regulator with which 
+SAHPRA aligns itself (M1.10) 
+6.2.6 
+The latest approved PI and PIL with SAHPRA date of approval (M1.3), applicable for Variations 
+applications. 
+6.3 
+VERIFIED REVIEW REQUIREMENTS 
+Some requirements may not be applicable to a certain application type for verified review: 
+6.3.1 
+Full review requirements 6.1.1 – 6.1.16 
+6.3.2 
+Full review requirement 4.1.6, if/ when applicable for specified molecules and indications 
+6.3.3 
+The relevant, primary reference innovator PI approved by SAHPRA (M1.3) 
+6.3.4 
+The relevant secondary reference PI approved by RRA, if applicable in instances where the local 
+innovator PI is materially outdated (M1.3) 
+6.3.5 
+The latest approved PI and PIL with SAHPRA date of approval (M1.3), applicable for 
+6.3.6 
+Variations applications. 
+SAHPGL-CEM-01_v4 
+Page 17 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+7. 
+REFERENCES 
+The following related documents are referenced: 
+7.1 
+General Information Guideline (SAHPGL-HPA-07) 
+7.2 
+Variations Addendum for Human and Veterinary Medicines (SAHPGL-HPA-06) 
+7.3 
+Guideline on Professional Information for Human Medicines (Categories A and D) [SAHPGL-CEM-02] 
+7.4 
+Guideline for Patient Information Leaflet for Human Medicines (Categories A and D) [SAHPGL-CEM-
+03] 
+7.5 
+Biosimilar Medicines Guideline (SAHPGL-PEM-BIO-02) 
+7.6 
+EMA Guideline on clinical development of fixed combination medicinal products (except for HIV, 
+Malaria and TB medicines where the SAHPRA guideline applies) [EMA/CHMP/158268/2017] 
+7.7 
+SAHPRA Fixed Drug Combination Guidelines for HIV, TB and Malaria (SAHPGL-CEM-PRE-02) 
+7.8 
+EU 
+variations 
+classification 
+guidelines 
+(see 
+EMA 
+website: 
+https://www.ema.europa.eu/en/homepage) 
+7.9 
+Quality & Bioequivalence guideline (SAHPGL-PEM-02) 
+7.10 SAHPRA eCTD Specification 3.1 and Guidance for Module 1 and Regional Information (SAHPGL-HPA-
+09) 
+7.11 Medicines and Related Substances Act, (Act 101 of 1965), as amended (Government Notice No. 859, 
+Government Gazette No. 41064, 25 August 2017 
+7.12 General Regulations (Medicines and Related Substances Act, 1965) 25 August 2017 
+7.13 ICH Guidelines (S, E and M series) (see ICH website: https://www.ich.org/) 
+7.14 EMA guidance on a new therapeutic indication for a well-established substance (see EMA website: 
+https://www.ema.europa.eu/en/homepage) 
+7.15 EMA guideline on the categorisation of extension applications (EA) versus variations applications (V) 
+(see EMA website: https://www.ema.europa.eu/en/homepage) 
+SAHPGL-CEM-01_v4 
+Page 18 of 18 
+CLINICAL GUIDELINE 
+1 June 2026 
+ 
+ 
+7.16 General Guidance document on Quality, Safety and Efficacy requirements for Biological Medicines 
+(SAHPGL-PEM-BIO-06) 
+7.17 SAHPRA Guideline for submission of Extension applications (SAHPGL-CEM-PRE-03) 
+7.18 SAHPRA reliance guideline (SAHPGL-BAU-01) 
+7.19 SAHPRA clinical trial guidelines (see SAHPRA website https://www.sahpra.org.za/guidelines/)  
+7.20 SAHPRA RMP guideline (SAHPGL-CEM-PV-03) 
+7.21 Guideline for Patient Information Leaflet for Human Medicines (Categories A and D) [SAHPGL-CEM-
+03] 
+8. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the previous 
+revision of this guideline (i.e. v3). It will be reviewed on this timeframe or as and when required. 
+

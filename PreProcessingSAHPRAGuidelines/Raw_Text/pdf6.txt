@@ -1,0 +1,514 @@
+SAHPGL-RDN-NM-05_v2 
+Page 1 of 14
+ 
+ 
+ 
+6 August 2026 
+GUIDELINE FOR THE COMPLETION OF THE ANNUAL SUBMISSION 
+OF COMPLIANCE INFORMATION FORM (OF-RDN-NM-06A, 
+REPLACING OLD FORM: 41BM-2)  
+The objective of this guideline is to give clear guidance on the Annual Submission of Compliance Information 
+process from the perspective of an importer/ License Holder and Completion of the Annual submission of 
+Compliance Information Form (OF-RDN-NM-06A, replacing Old Form: 41BM-2). 
+ 
+ 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+1 
+− 
+First issue. 
+November 2024 
+2 
+− 
+This guideline replaces the old 41BM-2A, the ASOCI-Guidelines and 
+Corrections that were not aligned to SAHPRA’s QMS documentation 
+structure 
+August 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+ 
+SAHPGL-RDN-NM-05_v2 
+Page 2 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 4 
+1. INTRODUCTION ................................................................................................................................................ 5 
+1.1 PURPOSE ......................................................................................................................................................... 5 
+1.2 SCOPE ............................................................................................................................................................. 6 
+2. LEGISLATIVE FRAMEWORK ............................................................................................................................... 6 
+3. COMPLETION OF THE ANNUAL SUBMISSION OF COMPLIANCE INFORMATION FORM (OF-RDN-NM-06A) .... 7 
+Classification and Conformity Assessment Requirements ......................................................................... 8 
+Submission Format .................................................................................................................................... 10 
+4. DISTRIBUTION OF THE ANNUAL SUBMISSION OF COMPLIANCE INFORMATION FORM ............................... 10 
+4.1 Compliance Groups ...................................................................................................................................... 10 
+4.2 Distribution of the Annual Submission of Compliance Information Form ................................................... 11 
+4.3 Submission Period ........................................................................................................................................ 11 
+5. ASSESSMENT OF THE ANNUAL SUBMISSION OF COMPLIANCE INFORMATION ............................................ 11 
+5.1 Receipt of Submissions ................................................................................................................................. 11 
+5.2 Assessment of Submissions .......................................................................................................................... 12 
+5.3 Requests for Additional Information ............................................................................................................ 12 
+5.4 Updating of Compliance Status .................................................................................................................... 12 
+5.5 Processing Timeframes ................................................................................................................................. 12 
+6. FAILURE TO SUBMIT THE ANNUAL SUBMISSION OF COMPLIANCE INFORMATION ...................................... 12 
+6.1 Notice of Non-Compliance................................................................................................................... 12 
+6.2 Opportunity to Remedy the Non-Compliance .................................................................................... 12 
+7. CANCELLATION OF LICENCES ARISING FROM NON-COMPLIANCE ................................................................. 12 
+7.1 Regulatory Action ......................................................................................................................................... 13 
+7.2 Notification of Cancellation .......................................................................................................................... 13 
+7.3 Submission of New Applications .................................................................................................................. 13 
+8. ISSUANCE OF UPDATED LICENCE DOCUMENTS ............................................................................................. 13 
+8.1 Updated Licence Documents ........................................................................................................................ 13 
+8.2 Content of Updated Licence Documents ..................................................................................................... 13 
+8.3 Timeframe .................................................................................................................................................... 13 
+9. LICENCE CONDITION 9 .................................................................................................................................... 13 
+SAHPGL-RDN-NM-05_v2 
+Page 3 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+10. REFERENCES .................................................................................................................................................. 14 
+11. VALIDITY ....................................................................................................................................................... 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-NM-05_v2 
+Page 4 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ASOCI 
+Annual Submission of Compliance Information 
+License Holder 
+Refers to the holder of a licence, granted by the Regulator, under the 
+Hazardous Substances Act (Act no. 15 of 1973).  
+MEDSALE 
+Database used to capture licensing information on an Oracle platform 
+SAHPRA 
+South African Health Products Regulatory Authority 
+ 
+ 
+SAHPGL-RDN-NM-05_v2 
+Page 5 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+1. INTRODUCTION 
+The South African Health Products Regulatory Authority (SAHPRA) is mandated, in terms of the Hazardous 
+Substances Act, 1973 (Act No. 15 of 1973) ("the Act") and the Regulations promulgated thereunder, to 
+regulate the importation, sale, letting, use and continued compliance of listed electronic products, including 
+electromedical devices. 
+In fulfilment of this mandate, SAHPRA requires all Licence Holders of licensed electromedical devices to 
+demonstrate continued compliance with the conditions of their licences through the annual submission of 
+current regulatory and conformity assessment information. 
+Licence Condition 9 forms an integral part of every licence issued in respect of an electromedical device and 
+requires Licence Holders to maintain current conformity assessment documentation and to provide such 
+information to SAHPRA upon request or during the annual compliance review process. 
+The Annual Submission of Compliance Information (ASOCI) process enables SAHPRA to verify the continued 
+validity of conformity assessment documentation, regulatory certification and other supporting information 
+to ensure that licensed electromedical devices continue to comply with the applicable legislative and 
+regulatory requirements throughout the validity period of the licence. 
+ 
+1.1 PURPOSE 
+The purpose of this Guideline is to prescribe the regulatory requirements, administrative procedures and 
+compliance obligations applicable to Licence Holders required to complete and submit the Annual 
+Submission of Compliance Information Form (OF-RDN-NM-06A), which replaces the legacy Form 41BM-2. 
+This Guideline establishes a uniform administrative framework for the annual submission, assessment and 
+maintenance of compliance information relating to licensed electromedical devices and provides guidance on 
+the regulatory actions that may arise during the annual compliance review process. 
+More specifically, this Guideline sets out the requirements relating to: 
+• 
+the annual distribution of the Annual Submission of Compliance Information Form; 
+• 
+the submission of annual compliance information by Licence Holders; 
+SAHPGL-RDN-NM-05_v2 
+Page 6 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+• 
+the assessment and verification of submitted information by SAHPRA; 
+• 
+requests for additional information or clarification, where necessary; 
+• 
+the updating of regulatory compliance records; 
+• 
+regulatory action arising from non-submission, late submission, incomplete submission or the 
+submission of deficient information; 
+• 
+the cancellation of licences where regulatory requirements are not satisfied; and 
+• 
+the issuance of updated licence documentation following completion of the annual compliance 
+review process. 
+ 
+ 
+1.2 SCOPE 
+This Guideline applies to every Licence Holder holding one or more valid licences issued by SAHPRA in 
+respect of electromedical devices to which Licence Condition 9 applies. 
+The provisions of this Guideline are applicable to: 
+• 
+importers of listed electromedical devices; 
+• 
+Licence Holders authorised to import, sell, let, distribute or otherwise place licensed electromedical 
+devices on the South African market; 
+• 
+authorised regulatory representatives acting on behalf of Licence Holders; 
+• 
+persons responsible for maintaining regulatory documentation relating to licensed electromedical 
+devices; and 
+• 
+SAHPRA personnel responsible for the administration, assessment, processing, maintenance and 
+oversight of licensing and compliance records. 
+This Guideline applies irrespective of whether the licensed electromedical device has been certified under 
+the applicable European Medical Device Directives or Regulation (EU) 2017/745 on Medical Devices (MDR), 
+provided that the conformity assessment documentation remains valid and is recognised under the 
+applicable legislative and regulatory framework. 
+ 
+2. LEGISLATIVE FRAMEWORK 
+SAHPGL-RDN-NM-05_v2 
+Page 7 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+This Guideline shall be read in conjunction with the following legislation and subordinate legislation: 
+2.1 The Hazardous Substances Act, 1973 (Act No. 15 of 1973), which provides the legislative authority for 
+the regulation and control of listed electronic products. 
+2.2 Regulation R.690 of 14 April 1989, promulgated under the Hazardous Substances Act, governing the 
+licensing of persons engaged in the sale, letting and use of listed electronic products. 
+2.3 Regulation R.1302 of 14 June 1991, prescribing the Schedule of Listed Electronic Products subject to the 
+licensing requirements of the Act. 
+ 
+3. COMPLETION OF THE ANNUAL SUBMISSION OF COMPLIANCE INFORMATION 
+FORM (OF-RDN-NM-06A) 
+Licence Holders shall complete and submit the Annual Submission of Compliance Information Form (OF-
+RDN-NM-06A) in accordance with the requirements prescribed in this Guideline. 
+The information submitted shall be complete, accurate, current and supported by the applicable conformity 
+assessment documentation and any additional information that may be required by SAHPRA for the 
+purposes of regulatory assessment. 
+The submission of incomplete, inaccurate, misleading or false information, or the failure to submit the 
+required information within the prescribed timeframe, may constitute non-compliance with the conditions of 
+the licence and may result in regulatory action in accordance with the Hazardous Substances Act, 1973 (Act 
+No. 15 of 1973), the applicable Regulations and the conditions of the licence. 
+Licence Holders shall ensure that all information submitted to SAHPRA remains current throughout the 
+assessment process and shall promptly notify SAHPRA of any material changes affecting the information 
+previously submitted. 
+The following instructions shall be followed when completing the Annual Submission of Compliance 
+Information Form (OF-RDN-NM-06A). 
+SAHPGL-RDN-NM-05_v2 
+Page 8 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+COLUMN 
+INSTRUCTION 
+(i), (ii) 
+Data provided by SAHPRA – DO NOT ALTER. 
+Indicate corrections to any product model name (ONLY for EXISTING licenses on the 
+attached list) on the separate sheet marked “CORRECTIONS”. Copy the license number 
+from the original list and supply all the other data as required. 
+Strike through and/ or mark as “OBSOLETE” any products that are obsolete or which are 
+not being imported anymore for whatever reason – these licenses will then be cancelled. 
+(iii) 
+Classification and Conformity Assessment Requirements 
+Licence Holders shall indicate the classification of each licensed medical device model in 
+accordance with the applicable conformity assessment legislation, namely: 
+• 
+Annex IX of Council Directive 93/42/EEC (Medical Devices Directive); 
+• 
+Council Directive 90/385/EEC (Active Implantable Medical Devices Directive); or 
+• 
+Regulation (EU) 2017/745 on Medical Devices (MDR), as applicable. 
+For the purposes of the Annual Submission of Compliance Information, SAHPRA will 
+accept the following evidence of conformity assessment, provided that the 
+documentation remains valid and applicable at the time of submission: 
+• 
+valid certificates issued under Regulation (EU) 2017/745 (MDR); 
+• 
+valid legacy certificates issued under Council Directives 93/42/EEC or 90/385/EEC 
+that continue to be recognised during the applicable MDR transitional period; 
+• 
+manufacturer declarations or attestations confirming the continued validity of the 
+certification; and 
+• 
+correspondence issued by the Notified Body, where applicable, confirming the 
+regulatory status of the certification. 
+Note: The provision of the requested information is not mandatory where Annex II has 
+been indicated in Column (iv) of the Annual Submission of Compliance Information Form 
+SAHPGL-RDN-NM-05_v2 
+Page 9 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+or where the medical device is classified as an Active Implantable Medical Device under 
+the applicable regulatory framework. 
+ 
+(iv) 
+Conformity Assessment Procedure 
+ 
+Licence Holders shall indicate the applicable Annex(es) applied by the Notified Body 
+during the conformity assessment procedure for each licensed medical device, in 
+accordance with the relevant legislative framework. 
+ 
+For devices certified under Council Directive 93/42/EEC (Medical Devices Directive) or 
+Council Directive 90/385/EEC (Active Implantable Medical Devices Directive), the 
+applicable Annex(es) shall be those prescribed for the conformity assessment procedures 
+in terms of the respective Directive. 
+ 
+For devices certified under Regulation (EU) 2017/745 on Medical Devices (MDR), Licence 
+Holders shall indicate the conformity assessment procedure applied in accordance with 
+the applicable provisions of the Regulation. 
+ 
+The information provided shall correspond with the conformity assessment 
+documentation and certificates issued by the relevant Notified Body. 
+(v) 
+Indicate the unique number of the EC Certificate issued by the Notified Body. 
+(vi) 
+Indicate the date (yyyy/mm/dd) on which the EC Certificate, mentioned in column (v), 
+was issued, and signed by the Notified Body. 
+(vii) 
+Indicate the expiry date (yyyy/mm/dd) of the EC Certificate mentioned in column (v) (if 
+this available). 
+SAHPGL-RDN-NM-05_v2 
+Page 10 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+(viii) 
+Indicate the unique four-character identification number of the Notified Body that issued 
+the EC Certificate mentioned in column (v). 
+(ix) 
+Indicate the date (yyyy/mm/dd) on which the EC Declaration of Conformity for this 
+product model was drawn up and signed by the manufacturer. 
+Please Note: 
+When submitting the completed Annual Submission of Compliance Information Form (OF-RDN-NM-06A), 
+Licence Holders shall not enclose or submit any additional supporting documentation unless such 
+documentation has been specifically requested by SAHPRA. 
+Submission Format 
+The Annual Submission of Compliance Information process shall be conducted as follows: 
+• 
+SAHPRA shall issue the Annual Submission of Compliance Information Form (OF-RDN-NM-06A) to 
+the Licence Holder in Microsoft Excel format. 
+• 
+The Licence Holder shall complete the prescribed form in full and submit the completed form to 
+SAHPRA in Portable Document Format (PDF). 
+• 
+The completed form shall be submitted electronically to the designated SAHPRA email address, 
+Radcon.Asoci@sahpra.org.za. 
+• 
+Forms that are incomplete, submitted in an incorrect format, or submitted together with 
+unsolicited supporting documentation may be returned to the Licence Holder for correction prior 
+to assessment. 
+ 
+4. DISTRIBUTION OF THE ANNUAL SUBMISSION OF COMPLIANCE INFORMATION 
+FORM 
+4.1 Compliance Groups 
+For the purposes of the annual compliance process, SAHPRA has categorised Licence Holders into eight (8) 
+compliance groups based on alphabetical order, namely: 
+• 
+A–B 
+SAHPGL-RDN-NM-05_v2 
+Page 11 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+• 
+C–F 
+• 
+G–H 
+• 
+I–L 
+• 
+M 
+• 
+N–R 
+• 
+S 
+• 
+T–Z 
+4.2 Distribution of the Annual Submission of Compliance Information Form 
+4.2.1 SAHPRA shall issue the Annual Submission of Compliance Information Form (OF-RDN-NM-06A, 
+replacing Old Form: 41BM-2) electronically to the designated contact person of each Licence Holder within 
+the applicable compliance group. 
+4.2.2 Distribution of the Annual Submission of Compliance Information Form shall commence annually from 
+1 April and continue in accordance with the established compliance schedule for each respective compliance 
+group. 
+4.2.3 The electronic notification shall specify the submission requirements, the prescribed submission period 
+and any additional information necessary to facilitate compliance. 
+4.3 Submission Period 
+Licence Holders shall submit a duly completed Annual Submission of Compliance Information Form, together 
+with any supporting documentation requested by SAHPRA, within thirty (30) calendar days from the date of 
+the electronic notification. 
+ 
+5. ASSESSMENT OF THE ANNUAL SUBMISSION OF COMPLIANCE INFORMATION 
+5.1 Receipt of Submissions 
+Completed Annual Submission of Compliance Information Forms shall be submitted to the designated 
+SAHPRA electronic mailbox from which the original notification was issued. 
+SAHPGL-RDN-NM-05_v2 
+Page 12 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+5.2 Assessment of Submissions 
+Upon receipt, submissions shall be acknowledged and allocated to the responsible regulatory scientist for 
+assessment. 
+5.3 Requests for Additional Information 
+Where the submitted information is incomplete or requires clarification, SAHPRA may request additional 
+information or supporting documentation from the Licence Holder. The Licence Holder shall provide the 
+requested information within the period specified by SAHPRA. 
+5.4 Updating of Compliance Status 
+Upon completion of the assessment, the Annual Submission of Compliance Information (ASOCI) status of 
+each licence shall be updated accordingly within the SAHPRA regulatory records. 
+5.5 Processing Timeframes 
+Subject to the submission of a complete and satisfactory Annual Submission of Compliance Information 
+Form, SAHPRA will endeavour to complete the assessment process within thirty (30) calendar days of receipt 
+ 
+6. FAILURE TO SUBMIT THE ANNUAL SUBMISSION OF COMPLIANCE INFORMATION 
+6.1 Notice of Non-Compliance 
+Where a Licence Holder fails to submit the completed Annual Submission of Compliance Information Form 
+within the prescribed submission period, or where the submission is incomplete, SAHPRA shall issue a 
+written Notice of Non-Compliance to the Licence Holder. 
+6.2 Opportunity to Remedy the Non-Compliance 
+The Notice of Non-Compliance shall afford the Licence Holder a period of five (5) working days within which 
+to submit the outstanding information or otherwise remedy the non-compliance. 
+ 
+7. CANCELLATION OF LICENCES ARISING FROM NON-COMPLIANCE 
+SAHPGL-RDN-NM-05_v2 
+Page 13 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+7.1 Regulatory Action 
+Where a Licence Holder fails to remedy the identified non-compliance within the prescribed period, SAHPRA 
+may, subject to the provisions of the Medicines and Related Substances Act, 1965 (Act 101 of 1965), the 
+Hazardous Substances Act, 1973 (Act No. 15 of 1973), and the applicable Regulations, cancel the licence(s) 
+relating to the affected medical device(s). 
+7.2 Notification of Cancellation 
+Following cancellation of the relevant licence(s), SAHPRA shall issue a formal Notice of Cancellation to the 
+affected Licence Holder. 
+7.3 Submission of New Applications 
+Where a licence has been cancelled as a result of non-compliance, the Licence Holder shall be required to 
+submit a new licence application for each affected medical device in accordance with the applicable 
+legislative and regulatory requirements. 
+ 
+8. ISSUANCE OF UPDATED LICENCE DOCUMENTS 
+8.1 Updated Licence Documents 
+Following completion of the annual compliance assessment and the implementation of any resulting 
+regulatory actions, SAHPRA shall issue updated licence documents to the relevant Licence Holders. 
+8.2 Content of Updated Licence Documents 
+The updated licence document shall reflect the current licensing status of the Licence Holder, including any 
+amendments arising from the annual compliance assessment. 
+8.3 Timeframe 
+Subject to the approval of the Annual Submission of Compliance Information Form, SAHPRA will endeavour 
+to issue updated licence documents within thirty (30) calendar days following completion of the assessment. 
+ 
+9. LICENCE CONDITION 9 
+SAHPGL-RDN-NM-05_v2 
+Page 14 of 14
+Guideline for The Completion of The Annual Submission of Compliance Information Form (OF-RDN-NM-
+06A, replacing Old Form: 41BM-2) 
+6 August 2026 
+ 
+ 
+In accordance with the conditions of the licence, the Licence Holder shall provide and maintain the following 
+information: 
+• 
+Classification in accordance with Annex IX of Council Directive 93/42/EEC, Council Directive 
+90/385/EEC, or Regulation (EU) 2017/745 (Medical Device Regulation). 
+• 
+Conformity assessment Annex(es) applied. 
+• 
+EC Certificate number(s). 
+• 
+Date(s) of issue of the EC Certificate(s). 
+• 
+Expiry date(s) of the EC Certificate(s). 
+• 
+Notified Body identification number. 
+• 
+Date of the manufacturer's EC Declaration of Conformity. 
+ 
+10. REFERENCES 
+This guideline shall be read in conjunction with the following legislation and associated documents: 
+• 
+Annual Submission of Compliance Information Form (OF-RDN-NM-06A). 
+• 
+Hazardous Substances Act, 1973 (Act No. 15 of 1973). 
+• 
+Government Notice R.690 of 14 April 1989. 
+• 
+Government Notice R.1302 of 14 June 1991. 
+ 
+11. VALIDITY 
+This Guideline shall remain valid for a period of five (5) years from its effective date and supersedes the 
+previous 41BM-2A – ASOCI Guidelines and Corrections. The Guideline shall be reviewed upon expiry of its 
+validity period or earlier where amendments to the applicable legislation, regulatory requirements, or 
+SAHPRA operational processes necessitate such review. 
+

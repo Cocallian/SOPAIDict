@@ -1,0 +1,1087 @@
+SAHPGL-INSP-RC-04_v1 
+Page 1 of 23
+ 
+ 
+ 
+1 October 2025 
+GUIDELINE ON TRACEABILITY OF HEALTH PRODUCTS 
+The purpose of the document is to guide the implementation of global standards for product identification, data capture, and data 
+sharing. It represents the South African Health Products Regulatory Authority’s (SAHPRA)’s current thinking on the safety, quality and 
+efficacy of medicines. The implementation of unique product identification will enable efficient data capturing, enhance end-to-end 
+supply chain efficiencies, and improve patient safety. 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+1.0 
+First issue 
+October 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-INSP-RC-04_v1 
+Page 2 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+Contents 
+Document History ................................................................................................................................................. 1 
+Glossary ................................................................................................................................................................ 3 
+1. 
+INTRODUCTION .......................................................................................................................................... 7 
+1.1 
+Purpose ...................................................................................................................................................... 7 
+1.2 
+Scope .......................................................................................................................................................... 8 
+2. 
+LEGAL PROVISION ....................................................................................................................................... 8 
+3. 
+REQUIREMENTS FOR THE IMPLEMENTATION OF PRODUCT IDENTIFICATION, CAPTURE AND DATA ..... 10 
+3.1 
+General Requirements ............................................................................................................................. 10 
+3.2 
+Composition of the Unique Identifier ...................................................................................................... 11 
+3.3 
+Data Carriers (Available Product identification keys) .............................................................................. 12 
+3.4 
+SAHPRA requirements for each packaging level ...................................................................................... 14 
+3.4.1 Primary Pack ............................................................................................................................................. 14 
+3.4.2 Secondary Pack ........................................................................................................................................ 16 
+3.4.3 Tertiary Pack – Logistics Unit ................................................................................................................... 18 
+3.4.4 Multi-pack ................................................................................................................................................ 20 
+3.5 
+Data Capture ............................................................................................................................................ 20 
+3.6 
+Requirements for Medicines and Location Master Date Data Sharing.................................................... 21 
+3.6.1 Steps for Sharing Product and Location Master Data with SAHPRA ........................................................ 21 
+4. 
+The use of Human Readable Interpretation (HRI) PHASED IMPLEMENTATION ...................................... 22 
+5. 
+REFERENCES ............................................................................................................................................. 23 
+6. 
+VALIDITY ................................................................................................................................................... 23 
+ 
+ 
+ 
+ 
+SAHPGL-INSP-RC-04_v1 
+Page 3 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+ 
+ 
+Glossary 
+Term 
+Meaning 
+Aggregation 
+Defines the relationship between the unique identifiers for parent and child 
+packaging hierarchies, where each packaging level will carry a unique identifier 
+encoded in a data carrier uniquely identified, allowing the receiver of the 
+product to scan one code and understand exactly what is in the whole 
+shipment—every case, bundle, or individual carton. 
+Automatic identification 
+and data capture (AIDC) 
+A technology used to automatically capture data. AIDC technologies include 
+barcodes, smart cards, biometrics, and radio frequency identification devices. 
+Barcodes 
+A symbol that encodes data into a machine-readable pattern of adjacent, 
+varying-width, parallel, rectangular dark bars and pale spaces. 
+Batch number/lot 
+number 
+The batch or lot number associates an item with information that the 
+manufacturer considers relevant for the traceability of the trade item. The data 
+may refer to the trade item itself or to items contained in it. 
+Data capture 
+The process of collecting data about products. This includes data to be encoded 
+into a data carrier to be affixed to an instance of a product package, as well as 
+data read from existing data.  
+Data carrier 
+It is a standardised, machine-readable format for encoding and storing data 
+about products, locations, and other entities within a supply chain. 
+Data exchange 
+The sharing/ movement of structured data from one party to one or more other 
+parties.  
+Data Matrix 
+A standalone, 2D matrix symbology that is made up of square modules 
+arranged within a perimeter finder pattern. GS1 Data Matrix symbols are read 
+by 2D imaging scanners or vision systems. 
+Expiry date 
+The date up to which a medicine will retain the strength and other properties 
+stated on the label which strength and other properties can change after the 
+lapse of time, and after which date the medicine shall not be sold to the public 
+or used. 
+Falsified 
+Products that deliberately/ fraudulently misrepresent their identity, 
+composition, or source(WHO). 
+Function 1 Symbol 
+Character (FNC1) 
+When used as the first character, Function 1 Symbol Character (FNC1) indicates 
+that the barcode follows the GS1 standard, allowing the scanner to properly 
+decode it. It is also used as a separator between specific. Application Identifiers 
+that do not have a fixed character count (e.g., AI (10) Batch/Lot, AI (21) Serial 
+Number). 
+Global data standards/ 
+“family” of standards 
+A set of standards specifically defined as working together coherently to 
+facilitate a specific purpose, i.e., secure commerce within a supply chain. 
+Global Trade Item 
+Number (GTIN) 
+The GS1 identification key is used to identify trade items. The key comprises a 
+GS1 Company Prefix, an item reference, and a check digit. 
+Global/ globally unique 
+product 
+A product code that cannot be assigned to more than one product throughout 
+the world because it is defined by elements that are controlled via a global 
+assignment agency and the manufacturer. 
+GS1 
+A neutral, not-for-profit, global organisation that develops and maintains the 
+most widely used supply chain data standards in the world. 
+SAHPGL-INSP-RC-04_v1 
+Page 4 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+GS1 Application 
+Identifier (AI) 
+The field of two or more digits at the beginning of an element string that 
+uniquely defines its format and meaning. 
+GS1 Member 
+Organisation 
+A member of GS1 who is responsible for administering the GS1 system in its 
+country (or assigned area). This task includes, but is not restricted to, ensuring 
+user companies make correct use of the GS1 system; have access to education, 
+training, promotion, and implementation support; and have an opportunity to 
+play an active role in the Global Standards Management Process. 
+GS1-128 linear barcode 
+A barcode symbology using bars and spaces in one dimension that leverages a 
+subset of Code 128, which uses the function that allows the encoding of 
+element strings. 
+Health care primary 
+packaging 
+The first level of packaging for the product is marked with an AIDC data carrier 
+either on the packaging or on a label affixed to the packaging. For non-sterile 
+packaging, the first level of packaging can be in direct contact with the product. 
+For sterile packaging, the first level of packaging can be any combination of the 
+sterile packaging system and may consist of a single item or group of items for 
+a single therapy, such as a kit. For packaging configurations that include a retail 
+consumer trade item, primary packaging is a packaging level below the retail 
+consumer trade item. 
+Health care secondary 
+packaging 
+A level of packaging marked with an AIDC carrier that may contain one or more 
+primary packages or a group of primary packages containing a single item. 
+Health establishment 
+The whole or part of a public or private institution, facility, building, or place, 
+whether for profit or not, that is operated or designed to provide inpatient or 
+outpatient treatment, diagnostic or therapeutic interventions, nursing, 
+rehabilitative, palliative, convalescent, preventative, or other health services. 
+Human Readable 
+Interpretation (HRI) 
+Characters, such as letters and numbers, that can be read by people and are 
+encoded in GS1 AIDC data carriers confined to a GS1 standard structure and 
+format. The HRI is a one-to-one illustration of the data encoded in a data 
+carrier. However, start, stop, shift, and function characters, as well as the 
+symbol check character, are not shown in the HRI. 
+Interoperability  
+The ability to exchange product traceability information accurately, efficiently, 
+and consistently among trading partners in a supply chain and/ or authorised 
+regulators. 
+Item 
+Any item (product or service) upon which there is a need to retrieve pre-defined 
+information and that may be priced, ordered, or invoiced at any point in any 
+supply chain. 
+Logistic unit 
+An item of any composition established for transport and/ or storage of 
+pharmaceuticals that needs to be managed through the supply chain. It is 
+identified with an SSCC. 
+Manufacturer 
+A person manufacturing a medicine, including a manufacturing pharmacy 
+(compounding). 
+Package 
+Any article that may be used for filling, inserting, wrapping, or packing 
+regulated products and includes the immediate container and other wrapping 
+materials. 
+Packaging levels 
+The hierarchy of product packaging. Each level includes a specific way of 
+protecting and identifying the product during different types of handling. 
+Recognised levels include “primary”, “secondary”, and “tertiary”. 
+Pharmaceutical 
+Any 
+substance 
+or 
+mixture 
+of 
+substances:   
+a) used in the diagnosis, treatment, mitigation, or prevention of human disease, 
+disorder, abnormal physical or mental state, or the symptoms thereof b) used 
+SAHPGL-INSP-RC-04_v1 
+Page 5 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+in restoring, correcting, or beneficial modification of organic or mental 
+functions 
+in 
+humans   
+c) articles other than food, intended to affect the structure or any function of 
+the 
+body 
+of 
+humans   
+Includes articles intended for use as a component of any articles specified in 
+clause a), b), or c) 
+Primary pack 
+The product packaging that touches the dose, i.e., a blister pack and/or a vial. 
+If no secondary pack exists, then the primary pack is usually the lowest saleable 
+pack. 
+Secondary pack 
+The layer of packaging surrounding the primary package. It may be used for 
+presentation and branding or for additional mechanical protection that the 
+primary package might not be able to provide. May contain one or more 
+primary packages. 
+Serial number 
+A code, numeric or alphanumeric, assigned to an individual instance of an entity 
+for its lifetime. Example: microscope model AC-2 with serial number 1234568 
+and microscope model AC-2 with serial number 1234569. A unique individual 
+item may be identified with the combined Global Trade Item Number (GTIN) 
+and serial number. 
+Serial Shipping Container 
+Code (SSCC) 
+The GS1 identification key is used to identify logistic units. The key comprises 
+an extension digit, GS1 Company Prefix, serial reference, and check digit. 
+Serialisation 
+The processes and results of defining, assigning, and affixing unique serial 
+numbers to product packaging at any level. A unique number that identifies a 
+single instance of a product. 
+Tertiary homogeneous 
+pack 
+A tertiary pack that consists entirely of the same trade item with the same 
+batch number and expiry date. 
+Tertiary mixed pack 
+A tertiary pack that contains either more than one unique trade item or entirely 
+the same trade item with different batch numbers or expiry dates. 
+Tertiary packaging 
+The highest level of packaging that may include a pallet that contains (one or 
+usually) several cases or a case that contains (one or usually) several items in 
+its primary or secondary packaging.  
+Tertiary partial pack 
+A homogeneous pack of products that is not to be considered a trade item 
+because it is less than full. 
+Trace 
+The ability to know where a product has been within a supply chain before its 
+current location. 
+Traceability 
+The capability to trace something. In some cases, it is interpreted as the ability 
+to verify the history. 
+Track 
+The ability to know where a product is right now. 
+Track and trace  
+A type of traceability model that attempts to track and trace products through 
+a supply chain. 
+Trade item 
+A product or a homogeneous grouping of a product that is identified so that it 
+may be treated as a “quantity one” unit for registration, listing, marketing, 
+sales, shipment, billing, and other value chain and supply chain applications. 
+Not all homogeneous groupings are trade items. Trade items are products and 
+services for which there is a need to retrieve predefined information and that 
+may be priced, ordered, or invoiced at any point in the supply chain. 
+SAHPGL-INSP-RC-04_v1 
+Page 6 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+Trading partner 
+Supply chain stakeholders that engage in the purchase, sale, and donation of 
+products between each other. 
+Unique identifier 
+A numeric or alphanumeric string captured in a machine-readable data carrier 
+and human-readable form on the label of the pharmaceutical package that is 
+associated with a single product or product group. In this instance, the unique 
+identifier refers to the combination of GTIN with Expiry Date, Batch/ Lot, and 
+serial number. 
+  
+ 
+Abbreviation 
+Meaning 
+AI 
+GS1 Application Identifier 
+AIDC 
+Automatic Identification and Data Capture 
+EAN 
+EAN International, now called GS1 
+FNC1 
+Function 1 Symbol Character 
+GDSN 
+Global Data Synchronisation Network 
+GLN 
+Global Location Number 
+GTIN 
+Global Trade Item Number 
+HRI 
+Human Readable Interpretation 
+IDMP 
+Identification of Medicinal Products 
+NDoH 
+National Department of Health 
+SAHPRA 
+South African Health Products Regulatory Authority 
+SSCC 
+Serial Shipping Container Code  
+ 
+ 
+ 
+SAHPGL-INSP-RC-04_v1 
+Page 7 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+1. 
+INTRODUCTION 
+Patient safety and the security of the supply of medicines are of paramount importance within the health 
+sector. To this end, modern mechanisms must be explored and implemented to satisfy these requirements 
+within the South African Health Products Regulatory Authority (SAHPRA). There is thus a need to be able to 
+track and trace health products (orthodox medicines, biological products, complementary medicines, and 
+veterinary medicines) through the supply chain and provide documented assurance that the product being 
+dispensed or consumed by the patient is indeed a genuine product. 
+Unique product identification provides an opportunity to differentiate a product’s identification in a machine-
+readable form. Such information is rapidly becoming a prerequisite when linked with the product's batch 
+number, unique serial number, and expiry date for traceability of pharmaceutical products from production to 
+delivery to the point of care. 
+1.1 
+Purpose 
+The aim is to implement the unique product identification and medicine monitoring system for all medicines 
+used in South Africa by adopting the ISO/IEC 15416:2016 and ISO/IEC 15415:2011, which specifies the 
+methodology for the measurement of specific attributes of bar code/ GS1 Data Matrix symbols together 
+with GS1 standards for product identification, data capture, and data exchange. 
+The implementation of unique product identification and barcodes aims to improve transparency and 
+increase efficiency across the supply chain of medical products for the public and private health sector, 
+including manufacturers, wholesalers, distributors, health care providers, insurers, and patients. It will also 
+ensure standardisation, thereby increasing the competitiveness of local manufacturers at the international 
+level. The implementation will be phased, starting with batch-level identification and moving towards unit/ 
+product-level serialization.  
+The requirements seek to harmonise with the global health market to: 
+− 
+enable end-to-end supply chain data visibility, 
+− 
+identify and implement supply chain efficiencies, 
+− 
+ensure supply chain security, and 
+− 
+improve patient safety. 
+ 
+SAHPGL-INSP-RC-04_v1 
+Page 8 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+1.2 
+Scope 
+This guideline details the scope and approach for the implementation of product identification for all health 
+products regulated by SAHPRA. This guideline further aims to map out the requirements for product 
+identification, data capturing, and sharing.  
+It applies to all health products in the South African market except for:  
+− 
+Whole blood and blood components, 
+− 
+Homeopathic medicines and allied substances, 
+− 
+Extemporaneous preparations, 
+− 
+Medicines imported for personal use only are subject to authorisation by the Authority, 
+− 
+Unregistered medicines imported by special authorisation from the Authority, 
+− 
+Donated medicines imported for emergency cases are subject to authorisation by the Authority. 
+− 
+Products manufactured and labelled before their unique identification compliance effective dates, 
+− 
+Food and related supplements, 
+− 
+Investigational drugs, 
+− 
+Any other product the Authority may determine. 
+The following areas are out of the scope of this document: 
+− 
+Requirements for implementation of data capturing at downstream health establishments, 
+− 
+Master data systems to enable data capture and sharing, and  
+− 
+Requirements for interoperability of systems at all levels. 
+2. 
+LEGAL PROVISION 
+This document is informed by the following legislative and policy provisions: 
+2.1 
+Medicines and Related Substances Act 1965 (Act No 101 of 1965) 
+− 
+Section 18 of the Act - Labels and advertisements, states that 
+SAHPGL-INSP-RC-04_v1 
+Page 9 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+o (1) No person shall sell any medicine or Scheduled substance unless the immediate container 
+or the package in which that medicine or a Scheduled substance is sold bears a label stating 
+the prescribed particulars. 
+o (3) The label referred to in subsection (1) shall be approved by the Authority. 
+o (4) The Authority may authorize a deviation from the prescribed format and contents of any 
+lab. 
+o (5) The Minister may prescribe additional requirements for the labelling of medicines, medi
+cal devices, or IVDs. 
+− 
+Section 19(2) of the Act states that: 
+o (2)  The Authority may by notice in writing require any person who manufactures or sells 
+medicines, medical devices or IVDs or administers or prescribes any medicine, medical 
+device or IVD or on whose direction any medicine or medical device is administered to 
+furnish it, within a period stipulated in such notice, with any information which such person 
+has in his or her possession or which such person is in a position to obtain regarding such 
+medicine, medical device or IVD. 
+ 
+2.2 
+General regulations relating to medicines, 25 August 2017 (Government Gazette 41064, Vol 626) 
+− 
+Section 10(1)(p) states that:  
+o "a GS1 barcode suitable for the identification and tracking of medication: Provided that 
+where such barcode appears on the outer label, it may be excluded on the immediate 
+container label".  
+ 
+2.3 
+Regulations relating to a transparent pricing system for medicines and scheduled substances, 
+Regulation 21(2) 
+The Director-General may publish or otherwise communicate, or require manufacturers, importers, 
+wholesalers, distributors, pharmacists or persons licensed in terms of section 22C(l)(a) of the Act to publish 
+or otherwise communicate in such manner and format as he or she may by notice in the Gazette determine, 
+information in relation to a particular medicine or Scheduled substance or class or category of medicines or 
+Scheduled substances or the sale of a medicine or Scheduled substance for the purpose of informing the 
+public on the following matters – 
+(a) the availability of a medicine or Scheduled substance; 
+SAHPGL-INSP-RC-04_v1 
+Page 10 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+(b) the pricing system contemplated in section 22G of the Act; 
+(c) the supply chain for a medicine or Scheduled substance; 
+(d) the fees charged by wholesalers, distributors, retailers, and other persons selling medicines or 
+Scheduled substances; 
+(e) the country from which a medicine or Scheduled substance is sourced.  
+3. 
+REQUIREMENTS FOR THE IMPLEMENTATION OF PRODUCT IDENTIFICATION, 
+CAPTURE AND DATA SHARING 
+3.1 
+General Requirements 
+3.1.1 All health products that are manufactured and/ or distributed in South Africa shall be identified with 
+a GS1 unique identifier. Except those products defined under Section 1.2. 
+3.1.2 The manufacturer shall maintain records about each of such unique identifiers up to five (5) years 
+after the expiry of a trade item to which the unique identifier is affixed or imprinted and provide 
+those records to SAHPRA upon request. 
+3.1.3  Labelling with the unique identifier of a trade item shall be applied to the product before the product 
+enters the South African supply chain. 
+3.1.4 
+When a new trade item is created by co-packing of two or more physical items (e.g., creating a kit, 
+overpacking), the authorised and approved re-packager shall link the original unique identifier and 
+assign a new unique identifier. 
+3.1.5 The unique identification data carrier for all secondary and higher packaging levels in scope shall 
+remain on or attached to the pharmaceutical product throughout the life cycle. 
+3.1.6 The GS1 General Specifications shall be used to construct a unique identifier in the data carrier, which 
+allows the identification and accurate decoding of each data element of which the unique identifier 
+is composed. 
+3.1.6.1 The unique identifier of the primary package, where necessary, shall be encoded in a GS1 
+Data Matrix. 
+3.1.6.2 The unique identifier of the secondary package shall be encoded in a GS1 Data Matrix. 
+SAHPGL-INSP-RC-04_v1 
+Page 11 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+3.1.6.3 The unique identifier of the tertiary package(s) shall be encoded in a GS1 Data Matrix, and/ 
+or GS1-128 linear barcode. The unique identifier of the logistics unit shall be encoded as 
+stated in the GS1 General Specifications. 
+3.1.6.4 It is not allowed to use multiple two-dimensional barcodes on a single packaging of an 
+allopathic drug product to identify and verify its authenticity. 
+3.2 
+Composition of the Unique Identifier 
+a) The unique identifier shall be constructed according to the globally accepted GS1 General 
+Specifications. 
+b) The unique identifier shall be a sequence of numeric or alphanumeric characters that are unique 
+to a given primary packaged trade item, secondary packaged trade item, tertiary packaged trade 
+item, or logistic unit. 
+c) The unique identifier of the primary, secondary, and tertiary packages for pharmaceutical products 
+published by the Authority shall contain the following information: 
+i. 
+GTIN (Global Trade Item Number) 
+ii. 
+Batch/ lot number 
+iii. 
+Expiry date 
+iv. 
+Manufacturing/ Production date 
+v. 
+Serial number 
+vi. 
+Logistic units shall be identified with a Serial Shipping Container Code (SSCC). 
+d) Notwithstanding Section 3.2(c), the brand owner/ HCR shall notify the Authority of any other 
+information it intends to add to the data carrier. 
+e) When the logistic unit is an orderable trade item, the logistic unit shall be identified with an SSCC 
+and a GTIN. 
+f) The relationship between the unique identifiers of different packaging levels shall be captured in 
+the manufacturer’s electronic internal systems. 
+SAHPGL-INSP-RC-04_v1 
+Page 12 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+3.3 
+Data Carriers (Available Product identification keys) 
+There are multiple product identification keys issued by GS1 to identify products at different levels of 
+packaging: 
+A) 
+GS1-128 barcode – is a linear barcode symbology using bars and spaces in one dimension that 
+leverages a subset of Code 128 that is used exclusively for GS1 system data structures. A linear 
+barcode must be concatenated (i.e., represent all elements of the data string in a single barcode. 
+Concatenated linear barcode: 
+ 
+B) 
+The European Article Number (EAN) barcode – identifies the package at an item level. The GS1 EAN-
+13 is used at the point of sale to identify the item, consisting of the GS1 prefix, the manufacturer's 
+code, the product code, and the checksum digit, which is part of the artwork of the product. The 
+medicine registration holder must use EAN 13 Barcode Symbology, to be printed in primary print to 
+the item level i.e., secondary packaging. The barcode symbology must be surrounded by sufficient 
+blank space to be scanned correctly, appear in both a human-readable format and as a machine-
+readable data carrier that conforms to the GS1 global standards. 
+C) 
+(01) The GS1 Global Trade Item Number (GTIN)– is a globally unique product identifier key used 
+worldwide for trade items. (N2+N14) 
+GS1 AI (01) indicates that the data field contains a GTIN. Batches of unique GTINs are issued to the 
+brand owner by GS1 and are then assigned by the applicant to a unique health product.  
+Once a brand owner has allocated a GTIN to a trade item, it provides a common language for all its 
+entities and trading partners worldwide to identify the trade item and easily communicate 
+information about the product. The GTIN is also used to identify types of products at any packaging 
+level (e.g., consumer unit, inner pack, case, pallet). 
+The GTIN may be comprised of 8, 12, 13, or 14 digits. The format of the GTIN-14 is as follows: 
+SAHPGL-INSP-RC-04_v1 
+Page 13 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+ 
+D) 
+(00) The serial shipment container code (SSCC) is the GS1 identification key used to identify logistics 
+units. The key comprises an extension digit, GS1 Company Prefix, serial reference, and check digit. 
+The GS1 Application Identifier (AI) (00) indicates that the data field contains an SSCC.  (N2+N18) 
+The SSCC format is as follows: 
+ 
+E) 
+(21) Serial number - the GS1 AI (21) indicates that the data field contains a serial number. When 
+combined with a GTIN, a serial number uniquely identifies an individual item. The manufacturer 
+determines the serial number. (N2+X..20). 
+The serial number field is alphanumeric. The character sequence resulting from the combination of 
+the GTIN and the serial number must be unique forever, and it can never be reused. 
+The format of the serial number is as follows:  
+ 
+F) 
+(17) Expiry Date – the GS1 AI (17) indicates that the data field contains an expiry date. (N2+N6) 
+The structure of the expiry date should be as follows: 
+Year: the tens and units of the year (e.g., 2003 = 03), which is mandatory 
+Month: the number of the month (e.g., January = 01), which is mandatory 
+Day: the number of the day of the relevant month (e.g., second day = 02). Expiry date to be encoded 
+in the format YYMMDD, and a valid date (including the day) should be used.:   
+SAHPGL-INSP-RC-04_v1 
+Page 14 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+ 
+G) 
+(10) Batch/ Lot – the GS1 AI (10) indicates that the data field contains a batch or lot number. The 
+batch or lot number field is alphanumeric. (N2+X..20) 
+The format of the batch or lot number is as follows: 
+ 
+ 
+3.4 
+SAHPRA requirements for each packaging level 
+All tertiary and secondary packages are required to be labelled in accordance with the specified barcode 
+requirement, with relevant GS1 Identifiers encoded and printed in their human-readable form. 
+Barcodes play a key role in supply chains, enabling parties like retailers, manufacturers, transport providers, 
+and hospitals to automatically identify and track products as they move through the supply chain 
+All barcode symbols should meet print-quality “Grade C” (1.5 or above). As part of the regular 
+manufacturing or production process, barcode symbol print quality and data content must be verified and 
+graded in accordance with the appropriate sections within the GS1 General Specifications.  
+3.4.1 
+Primary Pack 
+The primary packaging, also known as retail packaging, is the first level of packaging for the product marked 
+with an AIDC data carrier either on the packaging or on a label affixed to the packaging. For non-sterile 
+packaging, the first level of packaging can be the packaging in direct contact with the product. For sterile 
+packaging, the first level of packaging can be any combination of the sterile packaging system, which may 
+SAHPGL-INSP-RC-04_v1 
+Page 15 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+consist of a single item or group of items for a single therapy, such as a kit. For packaging configurations 
+that include a retail consumer trade item, primary packaging is a packaging level below the retail consumer 
+trade item. Primary packaging will include simple materials such as blisters, bottles, plastics, and paper. The 
+blister must be marked with a GS1 Data Matrix barcode, either directly on the packaging or on a non-
+removable label affixed to the packaging. 
+Identification and labelling of trade items at this level is a preferred characteristic unless the supplier is 
+providing items in “carton-less packaging” (i.e., without a secondary packaging level, in which case it is 
+mandatory). 
+Marking trade items at this level is also recommended where the secondary package will likely be opened 
+or removed before being dispensed to one or several patients (e.g., a display carton is opened, and 
+individual or split blister packs are distributed to patients). 
+Example of a GS1 Data Matrix for a trade item on Primary Packaging: 
+ 
+ 
+AI 
+Description 
+Required by 
+01 
+GTIN 
+(all 
+health 
+products) 
+No later than 2  years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+17 
+Expiry Date (all health 
+products) 
+No later than 2  years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+10 
+Batch/ Lot (all health 
+products) 
+No later than 2  years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+21 
+Serial 
+Number 
+(all 
+health products) 
+No later than 2  years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+ 
+FNC1 
+Symbol 
+Character 
+AI 
+GTIN 
+AI 
+Expiry 
+Date 
+AI 
+Batch/ Lot 
+Number 
+FNC 
+Separator 
+AI 
+Serial Number 
+FNC1 
+01 10857674002017 17 251231 
+10 NYFUL01 
+<GS> 
+21 21192A837H7 
+ 
+Read via AIDC technology, this example will take on the following format: 
+SAHPGL-INSP-RC-04_v1 
+Page 16 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+]d201108576740020171725123110NYFUL01<GS>21192A837H7 
+3.4.2 
+Secondary Pack 
+Secondary packaging is a level of packaging that may contain one or more primary packages, or a group of 
+primary packages containing a single item. The secondary pack is always a trade item. This packaging level 
+is marked with a GS1 Data Matrix, either on the packaging itself or on a label affixed to the packaging. 
+Primary and secondary packaging often get confused or overlapped with one another. The packs are similar 
+as both including manufacturer branding on the packaging materials. However, while primary packaging is 
+the most immediate form of protection to contain products, secondary packaging is the next layer of retail 
+boxing. Secondary packaging provides the second layer of retail packaging, which also protects against 
+possible damage. For example, if the product is tablets, the primary packaging for the product is the blister 
+pack, and the secondary packaging is the boxed pack of tablets (2 x 8 tablets). The packaging must be 
+marked with a GS1 Data Matrix barcode, either directly on the packaging or on a non-removable label 
+affixed to the packaging. 
+ 
+ 
+ 
+ 
+Group of primary packages 
+containing a single item 
+One primary package 
+One or more primary 
+packages 
+Group of primary 
+packages containing a 
+single item 
+ 
+In-scope medical products can have more than one level of secondary packaging, such as an inner pack 
+(bundles) and intermediate packs (inner case). Identification and marking of inner and intermediate 
+secondary packaging levels is required. Examples of inner or intermediary secondary packaging include, but 
+are not limited to: 
+ 
+ 
+SAHPGL-INSP-RC-04_v1 
+Page 17 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+AI 
+Description 
+Required by 
+01 
+GTIN 
+(all 
+health 
+products) 
+No later than 2 years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+17 
+Expiry Date (all health 
+products) 
+No later than 2 years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+10 
+Batch/Lot (all health 
+products) 
+No later than 2 years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+21 
+Serial 
+Number 
+(all 
+health products) 
+No later than 2 years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+ 
+Example of a GS1 Data Matrix for a trade item on Secondary Packaging: 
+ 
+FNC1 Symbol 
+Character 
+AI 
+GTIN 
+AI 
+Expiry 
+Date 
+AI 
+Batch/ Lot 
+Number 
+FNC 
+Separator 
+AI 
+Serial Number 
+FNC1 
+01 
+10857674002017 
+17 
+251231 
+10 
+NYFUL01 
+<GS> 
+21 
+21192A837H7 
+Read via AIDC technology, this example will take on the following format: 
+]d201108576740020171725123110NYFUL01<GS>21192A837H7 
+3.4.2.1 Tertiary Pack 
+Tertiary packaging refers to upper levels of the packaging hierarchy. A tertiary pack may be: 
+− 
+A pallet that contains one or several cases 
+− 
+A case that contains one or several items in the items’ primary or secondary packaging 
+Tertiary packaging may be used as either a logistic unit or as a trade item. Tertiary packages can be 
+homogenous (i.e., consisting entirely of the same trade item, batch or lot, and expiry date), partial (i.e., 
+consisting of a homogenous pack of items that is not to be considered a trade item because it is less than 
+full), or mixed (i.e., either more than one unique trade item or entirely the same trade item with different 
+batch numbers or expiry dates). 
+For label placement, please refer to Section 8: Label placement” of GS1’s logistics label guidelines to fine-
+SAHPGL-INSP-RC-04_v1 
+Page 18 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+tune the recommendation - https://www.gs1.org/standards/gs1-logistic-label-guideline/1-3. 
+Tertiary packaging includes more extensive protective materials such as corrugated boxes. A standard 
+shipping unit that contains “eaches” (packaged either individually or grouped as an inner pack). All the items 
+in a case must have the same GTIN. Example: a case containing eight shrink-wrap packs, each containing 
+seven packs of tablets. 
+3.4.3 
+Tertiary Pack – Logistics Unit 
+This packaging is assembled in warehouses where products are securely wrapped and organised on 
+different layers of wooden/plastic pallets to safely store large quantities of stock while shipping 
+merchandise to different distributors and dispensing sites. Example: 8 Shippers on a pallet. 
+The logistic unit is identified using the SSCC. This packaging level is marked with a GS1 Data Matrix or a GS1-
+128 linear barcode, either on the packaging itself or on a label affixed to the packaging. 
+A GS1 Data Matrix may be included in addition to the GS1-128 symbol. When used, the GS1 2D symbol 
+SHALL include all element strings included in the GS1-128 symbol(s), and MAY include additional element 
+strings. If a logistics unit does not have at least one surface area greater than an A6 or 4” x 6” logistic label, 
+a GS1 Data Matrix may be used by itself on a logistic label, though a GS1-128 containing a SSCC is still 
+recommended. If a logistic label is used with only a GS1 Data Matrix, care must be taken to ensure trading 
+partners are able to scan this barcode. 
+AI 
+Description 
+Required by 
+00 
+SSCC 
+No later than 5 years from the date of publication of the guidelines 
+ 
+A Serial Shipping Container Code may be reused after a period of one year, as noted within the GS1 General 
+Specifications. 
+An example of this in practice: 
+ 
+Encoded in the data carrier, this example will take on the following format: 
+FNC1 
+Symbol 
+Character 
+AI 
+GTIN 
+AI 
+Expiry 
+Date 
+AI 
+Batch/ Lot 
+Number 
+FNC 
+Separator 
+AI 
+Serial Number 
+SAHPGL-INSP-RC-04_v1 
+Page 19 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+FNC1 
+01 10857674002017 17 251231 
+10 NYFUL01 
+<GS> 
+21 21192A837H7 
+ 
+Read via AIDC technology, this example will take on the following format: 
+]C100006141411234567890 
+ 
+3.4.3.1 Tertiary Pack – Trade Item 
+Trade items are products and services for which there is a need to retrieve predefined information and that 
+may be priced, ordered, or invoiced at any point in the supply chain.  
+The tertiary package trade item will typically be a case or carton but may also be a shrink-wrapped tray or 
+another configuration. 
+The GS1 Data Matrix barcode must contain the following (and printed adjacent to it in Human Readable 
+format): 
+AI 
+Description 
+Required by 
+01 
+GTIN/ 
+(all 
+health 
+products) 
+No later than 2 years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+17 
+Expiry Date (all health 
+products) 
+No later than 2 years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+10 
+Batch/ Lot (all health 
+products) 
+No later than 2 years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+21 
+Serial 
+Number 
+(all 
+health products) 
+No later than 2 years for imported health products and 4 years for domestically 
+manufactured health products from the date of publication of the guideline 
+An example of this in practice: 
+ 
+ 
+Encoded in the data carrier, these examples will take in the following format: 
+SAHPGL-INSP-RC-04_v1 
+Page 20 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+ 
+ 
+Read via AIDC technology, this example will take on the following format: 
+]d201108576740020171725123110NYFUL01<GS>21192A837H7 
+The character sequence resulting from the combination of the product identifier and the serial number 
+shall be unique to a given pack of a medicine. 
+SAHPRA shall not stipulate the order in which data is encoded into the data carrier. 
+However, for the most efficient encoding, it is recommended to have fixed-length data elements precede 
+variable-length elements. In this instance where a tertiary pack trade item is also considered a logistics unit, 
+the SSCC can be applied in lieu of the serialised GTIN. 
+Stakeholders shall notify the Authority if they need to add information other than the four data elements 
+described above in the unique identifier. 
+3.4.4 
+Multi-pack 
+Intermediate package of multiples of the same trade item or a predefined assortment of trade items 
+(representing a single GTIN). The inner pack is NOT traditionally sold to consumers (e.g., seven packs of 
+tablets for shipping/ receiving only). 
+3.5 
+Data Capture  
+All packages are required to be labelled in accordance with the specified barcode requirement, encoded 
+with relevant GS1 application identifiers, and printed in their human-readable form. The data carrier must 
+be a two-dimensional barcode. The GS1 Data Matrix symbology must be unique per product, which can be 
+scanned at fixed points along the supply chain, encoded with the GTIN and other data elements such as the 
+batch number, expiry date, and serial number. 
+The benefits of implementing a GTlN-14 GS1 Data Matrix barcoding system for identification purposes allow 
+for the following across the medicine supply chain: 
+ 
+ 
+AI 
+GTIN 
+AI 
+Expiry 
+Date 
+AI 
+Batch/ Lot 
+Number 
+FNC 
+Separator 
+AI 
+Serial Number 
+FNC1 
+01 10857674002017 17 251231 
+10 NYFUL01 
+<GS> 
+21 21192A837H7 
+SAHPGL-INSP-RC-04_v1 
+Page 21 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+− 
+Automatic Identification and Data Capture: One of the key benefits of the GTIN is that it can be 
+encoded in many automatic data capture (AIDC) technologies (such as a barcode or radio 
+frequency identification (RFID) tags). Scanning allows the data exchange to be linked to the 
+physical flow of trade items through the supply chain. 
+− 
+Data Integrity: The check digit ensures the integrity of data passing into the system. 
+− 
+Uniqueness: The GTIN identifies an item uniquely. The rules for assigning GTINs ensure that every 
+variation and packaging level of an item (product or service) is allocated a globally unique product 
+identifier. 
+− 
+Data accuracy: Use of the product ID scanning across the supply chain assists in improving 
+inventory management accuracy, order replenishment and the management of expiry dates. 
+− 
+Multi-sectoral: GTINs are unique across all business sectors, and an assigned GTIN can be used 
+anywhere in the world. 
+− 
+Source Numbering: The GTIN is enumerated by the market authorisation holder of the product 
+using their GS1 Company prefix. Once assigned, all trading partners and internal users can use 
+GTIN. 
+3.6 
+Requirements for Medicines and Location Master Date Data Sharing 
+This section guides manufacturers, holders of certificate of registration, and/ or other supply chain 
+stakeholders on the collection and submission of product and GS1-based trade item master data to SAHPRA 
+to be displayed on the Health Product Registration database - including GTINs and relevant Global Location 
+Numbers (GLNs) for Health products that are procured/ manufactured and/ or distributed in the South 
+African market. 
+3.6.1 
+Steps for Sharing Product and Location Master Data with SAHPRA 
+To synchronise data with SAHPRA, the applicants are advised to undertake the following actions: 
+− 
+Assign a GLN for each of the relevant locations or legal entities, including local Applicant and 
+manufacturing site(s). GLN (Global Location Number) for the specific production or service site 
+(health product manufacturing site). 
+− 
+Assign a GTIN to each level of the trade item packaging hierarchy (e.g., each inner, case, pallet).                       
+An example of a trade item packaging hierarchy in the healthcare context is: 
+SAHPGL-INSP-RC-04_v1 
+Page 22 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+ 
+Gather the product and location attribute data on each trade item packaging hierarchy level. Note that 
+these attributes are based on the GS1 Global Data Synchronisation Network (GDSN) standard. 
+Ensure that the IDMP Health Product Master data is provided to SAHPRA during the new product 
+registration process or any amendment submissions where IDMP health product data attributes are 
+affected. This will be done via the SAHPRA portal. 
+Further data integration and information sharing requirements will be captured as updates to this guideline 
+under Section 3.6.  
+4. 
+The use of Human Readable Interpretation (HRI) PHASED IMPLEMENTATION 
+The implementation will be phased, starting with batch-level identification, and in time, will move to unit-level 
+identification. It is envisioned that the implementation will be phased according to the following timeframes: 
+− 
+Batch-level identification: 
+o GTIN-14, expiry date, and batch number for primary, secondary, and homogenous tertiary 
+packaging – xxx 
+o SSCC for mixed or logistics unit tertiary packaging – xxx 
+− 
+Unit-level identification: 
+o Serialised GTIN – xxx 
+o Serialised SCCC 
+Additionally, the implementation will be phased and staggered according to medicine categories. 
+SAHPGL-INSP-RC-04_v1 
+Page 23 of 23
+Guideline on Traceability of Health Products 
+1 October 2025 
+ 
+ 
+An Implementation Roadmap will be published in support of the Guideline. 
+5. 
+REFERENCES 
+The following related documents are referenced: 
+5.1 
+GS1 General Specification - This resource is the primary document that details the foundational GS1 
+standards that define how identification keys, data attributes, and barcodes must be used in business 
+applications. https://www.gs1.org/standards/barcodes-epcrfid-id-keys/gs1-general-specifications 
+5.2 
+10 Steps to Barcode your product - This resource provides a step-by-step instruction for 
+implementing AIDC on your products. https://www.gs1.org/standards/barcodes/10-steps-to-
+barcode-your-product/english 
+5.3 
+GTIN Healthcare Allocation Rules - This resource provides the rules for assigning GTINs to trade items 
+in the health sector.  https://www.gs1.org/standards/gs1-healthcare-gtin-allocation-rules-
+standard/current-standard 
+5.4 
+Global Health Standards Technical Implementation Guideline for Global Medical Products - This 
+resource was developed by a set of international procurement agents in the global health community 
+to support suppliers in meeting their AIDC requirements.  It includes several technical references and 
+a Frequently Asked Questions section that may be useful to Applicants in their implementation. 
+http://ghsupplychain.org/global-standards-technical-implementation-guideline-global-health-
+commodities-v21 
+6. 
+VALIDITY 
+This guideline is valid for a period of five (5) years from the effective date. It will be reviewed within this 
+timeframe or as and when required. 
+

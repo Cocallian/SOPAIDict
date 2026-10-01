@@ -1,0 +1,716 @@
+SAHPGL-INSP-04_v5
+Page 1 of 20
+18 September 2022
+GUIDELINES FOR PREPARATION OF SITE MASTER FILE
+This document has been prepared as a guide to assist applicants to comply with the requirements for Site Master Files
+with regard to all sites for pharmaceutical business. SAHPRA is committed to ensure that all sites where medicines are
+manufactured, stored or tested are of good standard and that all premises where pharmaceutical business is conducted
+comply with statutory requirements. Applicants must ensure that all administrative requirements are adhered to.
+Document History
+Final
+Version
+Reason for Amendment
+Effective Date
+1
+New guideline
+April 2003
+2
+Formatting only
+February 2004
+3
+Contact details updated
+October 2010
+4
+Authority: “MCC” to “SAHPRA”
+Authority Logo: “MCC Logo” to “SAHPRA Logo”Registrar of Medicines
+to Chief Executive Officer
+Directorate: Inspectorate and Law Enforcementto Program 3:
+Inspectorate &Regulatory Compliance
+November 2019
+5
+−
+Content structured on the latest SAHPRA Guideline Template
+−
+Old guideline number 4.08 changed to SAHPGL-INSP-04
+August 2022
+DR BOITUMELO SEMETE-MAKOKOTLELA
+CHIEF EXECUTIVE OFFICER
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 2 of 20
+Contents
+Document History............................................................................................................................................ 1
+Glossary............................................................................................................................................................3
+1.
+INTRODUCTION........................................................................................................................................ 4
+1.1 Purpose.................................................................................................................................................... 4
+1.2 Scope........................................................................................................................................................ 4
+2.
+LEGAL PROVISION.....................................................................................................................................4
+3.
+PREPARATION OF SITE MASTER FILE.........................................................................................................4
+4.
+REFERENCES........................................................................................................................................... 18
+5.
+ALIDITY................................................................................................................................................... 18
+6.
+APPENDICES........................................................................................................................................... 19
+6.1 Appendix A: Type of Products Manufactured or Wholesaled (referred to in paragraph C.1.5).............. 19
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 3 of 20
+Glossary
+Abbreviation/ Term
+Meaning
+SMF
+Site Master File
+GMP
+Good Manufacturing Practice
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 4 of 20
+1.
+INTRODUCTION
+The Site Master File is prepared by the manufacturer and or wholesaler and contains specific information about
+the quality assurance, the production and/or quality control of pharmaceutical manufacturing operations and
+or wholesaling operations carried out at the named site and any closely integrated operations at adjacent and
+nearby buildings. If only part of a pharmaceutical operation is carried out on the site, a Site Master File need
+only describe those operations, e.g., analysis, packaging, etc.
+When submitted to a regulatory authority, the Site Master File provides information on the manufacturer's
+operations or the wholesaler’s operations and procedures that can be useful in the efficient planning and
+undertaking of a GMP or GWP inspection.
+These guidance notes have been set out in such a manner that each chapter and the paragraphs noted under
+"REQUIREMENT" is followed by "GUIDANCE" to provide details of how the requirements should be interpreted.
+The Site Master File should have an edition number and an effective date. The Site Master file must be updated
+when a major constructional upgrade takes place or when key activities and or key personnel, changes. In
+addition, an updated Site Master File must be submitted to the office of the Chief Executive Officer (CEO) every
+five years.
+1.1
+Purpose
+The purpose of this guideline is to guide the manufacturer or wholesaler of medicinal products in the
+preparation of a Site Master File that can be useful to the regulatory authority in planning and conducting
+GMP or GWP inspections.
+1.2
+Scope
+The scope of this document applies to the preparation of the Site Master File. Refer to national regulatory
+requirements to establish whether it is mandatory for manufacturers or wholesalers of medicinal products
+to prepare a Site Master File.
+2.
+LEGAL PROVISION
+This guideline was prepared with reference to Medicines and Related Substances Act, 1965 (Act 101 of 1965).
+3.
+PREPARATION OF SITE MASTER FILE
+C.1. GENERAL INFORMATION
+REQUIREMENT
+C.1.1.
+Brief information on the firm (including name and address), relation to other sites and, particularly,
+any information relevant to understand the manufacturing or wholesaling operations.
+C.1.1. GUIDANCE
+C.1.1.
+In not more than 250 words (one A4 page) outline the firm's activities, other sites, in addition to the site
+which is the subject of this report
+REQUIREMENT
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 5 of 20
+C.1.2. Pharmaceutical manufacturing or wholesaling activities as licensed or approved by the Competent
+Authorities.
+GUIDANCE
+C.1.2. Quote the relevant document as issued by the Competent Authority. State period of validity of licence
+document (if the validity of the document is given in the country concerned). Any conditions and/or restrictions
+should be stated.
+REQUIREMENT
+C.1.3.
+Any other manufacturing or wholesaling activities carried out on the site.
+GUIDANCE
+C.1.3. This covers both pharmaceutical and non-pharmaceutical activities. NB: See para-C.1.6
+REQUIREMENT
+C.1.4. Name and exact address of the site, including telephone, fax and 24 hrs telephone numbers.
+GUIDANCE
+C.1.4. Name and Address of Site
+C.1.4.1. Name of Company (and trading style if different). Postal Address including. Code (street address if
+different).
+C.1.4.2. Telephone No. of contact person.
+C.1.4.3. Fax No. of contact person.
+C.1.4.4. hour contact Telephone No.
+REQUIREMENT
+C.1.5. Type of actual products manufactured on the site (see list at Appendix A), or list of products
+wholesaled on site (as the case may be) and information about specifically toxic or hazardous substances
+handled, mentioning the way they are manufactured (in dedicated facilities or on a campaign basis) or in the
+case of a wholesaler (any special precautions taken for storage or distribution).
+GUIDANCE
+C.1.5. Type of Actual Products Manufactured or Wholesaled as the case may be
+C.1.5.1. Quote the type of actual products as described at Appendix A, below.
+C.1.5.2. Note any toxic or hazardous substances handled e.g., antibiotics, hormones, cytostatic. Note whether
+the products are manufactured in a dedicated facility or on a campaign basis or in the case of a wholesaler, any
+special precautions taken during the storage or distribution of the products...
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 6 of 20
+C.1.5.3. In the case of a manufacturer, mention if human and veterinary products are both prepared on the site.
+REQUIREMENT
+C.1.6. Short description of the site (size. location and immediate environment and other manufacturing or
+wholesaling activities on the site).
+GUIDANCE
+C.1.6. A Short Description of the Site (not more than 250 words/one A4 page)
+C.1.6.1. The location and immediate environment.
+C.1.6.2. The size of the site, types of buildings and their ages.
+C.1.6.3. Other manufacturing activities on the site.
+REQUIREMENT
+C.1.7. Number of employees engaged in the quality assurance, production, quality control, storage, and
+distribution.
+GUIDANCE
+C.1.7.
+(Note: Include employees working only part-time on full-time equivalent basis. Give the rate of the
+academic and non-academic persons.)
+C.1.7.1. Quality Assurance
+C.1.7.2. Production
+C.1.7.3. Quality Control
+C.1.7.4. Storage and distribution
+C.1.7.5. Technical & Engineering Support Services
+C.1.7.6. Total of the above
+REQUIREMENT
+C.1.8. Use of outside scientific, analytical, or other technical assistance in relation to manufacture and
+analysis; and in the case of a wholesaler any outside scientific, analytical, or other technical assistance
+relating to any wholesaling activities if applicable.
+GUIDANCE
+C.1.8. For each outside contractor give:
+C.1.8.1. Name and address of the company. C.1.8... Telephone No.
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 7 of 20
+C.1.8.3. Fax No.
+C.1.8.4. Brief outline of the activity being undertaken in not more than 100 words (half an A4 page).
+REQUIREMENT
+C.1.9. Short description of the quality management system of the firm responsible for manufacture or
+wholesaling.
+GUIDANCE
+C.1.9.
+(Not more than 750 words or three A4 pages)
+C.1.9.1. State the firm's Quality Policy.
+C.1.9.2. Define the responsibility of the Quality Assurance function.
+C.1.9.3. Describe the elements of the QA system e.g., organisational structure, responsibilities, procedures,
+processes.
+C.1.9.4. Describe the audit programs (self-inspection or audits by external organisations undertaken).
+C.1.9.5. Describe how the results are reviewed to demonstrate the adequacy of the quality system in relation to
+the objective i.e., quality efficacy and safety of the product. See also paragraph 6.1.2
+C.1.9.6. Record if standards such as ISO 9001-9004 are used by the company to assess its suppliers.
+C.1.9.7. When suppliers of critical starting materials and packing materials - actives, excipients, containers and
+closures and printed materials are assessed, give details of how this is done.
+C.1.9.8. Describe the release for sale procedure for finished products.
+C.2. PERSONNEL
+REQUIREMENT
+C.2.1.
+Organisation chart showing the arrangements for quality assurance, including production and
+quality control in the case of a manufacturer. In the case of a wholesaler organisation chart showing the
+arrangements for quality assurance. (See also C.1.9.3)
+C.2.2.
+Qualifications, experience, and responsibilities of key personnel.
+C.2.3.
+Outline of arrangements for basic and in-service training and how records are maintained.
+C.2.4.
+Health requirements for personnel engaged in production or wholesaling.
+C.2.5.
+Personnel hygiene requirements, including clothing.
+GUIDANCE
+C.2.1
+PERSONNEL (500 words/two A4 pages)
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 8 of 20
+C.2.1.1. Organisation chart
+C.2.1.1.1 Organogram for quality assurance including production and quality control. In the case of a
+wholesaler, an organisation chart showing the arrangements for quality assurance. Record senior managers
+and supervisors only.
+C.2.2.
+Qualifications, Experience and Responsibilities of Key Personnel.
+C.2.2.1. Brief details of academic qualifications and work-related qualifications and years relevant experience
+since qualifying.
+C.2.3.
+Outline of Arrangements for Basic and In-service Training and how Records are maintained Give brief
+details of the training programme and include induction and continuous training, as follows:
+C.2.3.1. Describe how training needs are identified and by whom.
+C.2.3.2. Give details of training relative to GMP or GWP requirements.
+C.2.3.3. State the form of training e.g., in-house, external, and how practical experience is gained, and which
+staff are involved.
+C.2.3.4. Explain how the efficacy of the training is assessed e.g., by questionnaires.
+C.2.3.5. Explain how retraining needs are identified.
+C.2.3.6. Give brief details of records kept.
+C.2.4.
+Health Requirements for Personnel Engaged in Production in the case of a manufacturer or picking and
+packaging in the case of a wholesaler
+C.2.4.1. Who is responsible for checking health of employees?
+C.2.4.2. Is there a pre-employment medical examination?
+C.2.4.3. Are employees routinely checked from time to time depending on nature of their work?
+C.2.4.4. Is there a system for reporting sickness or contact with sick people before working in a critical area?
+C.2.4.5. Is there a system of reporting back after illness?
+C.2.4.6. Are those who work in clean areas (grade A-D) subject to additional monitoring?
+C.2.5. Personnel Hygiene Requirements Including Clothing
+C.2.5.1. Are there suitable washing, changing and rest areas?
+C.2.5.2. Is the clothing suitable for the activity undertaken? Briefly describe the clothing.
+C.2.5.3. Are there clear instructions on how protective clothing should be used and when it should be changed if
+required? Detailed procedures are not needed. Is in house or external laundry used?
+C.3. PREMISES AND EQUIPMENT
+REQUIREMENT
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 9 of 20
+C.3.1.
+Simple plan or description of manufacturing or wholesaling areas with indication of scale
+(architectural or engineering drawings are not required).
+C.3.2.
+Nature of construction and finishes.
+C.3.3.
+Brief description of ventilation systems. More details should be given for critical areas with potential
+risks of airborne contamination (schematic drawings of the systems are desirable). Classification of the
+rooms used for manufacture of sterile products should be mentioned.
+C.3.4.
+Special areas for the handling of highly toxic, hazardous, and sensitising materials.
+C.3.5.
+Brief description of water systems (schematic drawings of the systems are desirable) including
+sanitation if applicable.
+C.3.6.
+Maintenance (description of planned preventive maintenance programmes and recording system).
+C.3.7. Equipment
+C.3.7.
+In the case of a manufacturer, a brief description of major production and control laboratories
+equipment (a list of equipment is not required).
+C.3.8.
+In the case of a manufacturer and wholesaler details on maintenance (description of planned
+preventative maintenance programmes and recording system).
+C.3.9.
+In the case of a manufacturer and wholesaler, details on qualification and calibration, including
+recording system. Arrangements for computerized systems validation.
+C.3.10. Sanitation
+C.3.11. Availability of written specifications and procedures for cleaning manufacturing or wholesaling areas
+and equipment.
+GUIDANCE
+C.3.1.
+Premises
+C.3.1.1. Provide a site plan highlighting production or wholesaling areas.
+C.3.1.2. Provide a simple plan of each production area or wholesaling area (as the case may be) with indication
+of scale. Label areas and annotate plan with names.
+C.3. 1..3. Plans should be legible and on A4 sheets of paper. Plans could be on A3 sheets of paper if considered
+necessary.
+C.3.1.4. In the case of manufacturing of sterile products, the sterile areas indicating the room and area
+classification and pressure differentials between adjoining areas of different classifications.
+C.3.2.
+Nature of Construction and Finishes (500 words/two A4 pages)
+C.3.2.1. To reduce narrative for a large complex plant, the details should be limited to critical areas.
+C.3.2.2. These areas must include all processing and packaging and critical storage areas.
+C.3.2.3. A narrative format is preferred.
+C.3.3.
+Brief Description of Ventilation Systems etc. (500 words/two A4 pages)
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 10 of 20
+Note 1: More details should be given for critical areas with potential risks of airborne contamination. This will
+include sterile product areas as well as areas for processing powders, granulation and tableting. For sterile
+product areas a summary of the results of the most recent qualification/requalification should be given.
+For wholesaling activities, the ventilation system applicable to wholesaling activities should be described. Note
+2: To reduce the narrative, schematic drawings should be used.
+The following data should be given: -
+C.3.3.1. Design criteria e.g.
+Specification of the air supply
+Pressure differentials and air change rate
+Simple pass or recirculation (%)
+Temperature
+Humidity
+C.3.3.2. Filter design and efficiency e.g.
+Bag 99% eff.
+Hepa 99,997% eff.
+Details of any alarms on the ventilation system should be given.
+C.3.3.3. The limits for changing the filters should be given.
+C.3.3.4. If DOP (dioctyl-phthalate) is introduced, the point must be shown.
+C.3.3.5. Give the frequency of revalidation of the system.
+C.3.4.
+Special Areas for the Handling of Highly Toxic Hazardous and Sensitising Materials
+C.3.4.1. Follow the same layout as 3.1 above.
+C.3.5.
+Brief Description of Water Systems, including sanitation (500 words / two A4 pages) Note: For
+wholesaling activities this section may be omitted.
+Schematic drawings of the systems are preferred. The following information must appear:
+C.3.5.1. The schematic must go back to the city supply system.
+C.3.5.2. The capacity of the system (maximum quantity produced per hour).
+C.3.5.3. Construction materials of the vessels and pipework.
+C.3.5.4. Specification of any filters in the system must be given.
+C.3.5.5. If water is stored and circulated, what is the temperature at the point of return.
+C.3.5.6. The specification of the water produced;
+chemical
+conductivity
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 11 of 20
+microbiological
+The sampling points and frequency testing. The procedure and frequency for sanitation.
+C.3.6.
+Maintenance (250 words/one A4 page)
+Note: For the purpose of this guide "Maintenance" is carried out by the manufacturer or wholesaler and
+"servicing" by an outside contractor.
+C.3.6.1. Describe the planned preventative maintenance programme.
+C.3.6.2. Are there written procedures and suitable reporting forms for maintenance and servicing? Do the
+documents record type frequency of services/checks, details of service, repairs, and modifications?
+C.3.6.3. Are the maintenance routines that could affect product quality clearly identified?
+C.3.6.4. Are the reports made known to the users?
+C.3.7 Equipment (250 words/one A4 page)
+Brief Description of Major Production and Control Laboratory Equipment. Note: For wholesaling activities this
+section may be omitted.
+Note: Makes and model numbers equipment are not required. However, the following points should be
+addressed:
+C.3.7.1. Is the equipment designed with ease of cleaning in mind?
+C.3.7.2. Only a general description is required e.g., a rotary tablet press etc. If the equipment has additional
+devices, these should be recorded e.g., automatic weighing machines with printer; a labeller incorporating a bar
+code reader for the label; a lot number and expiry date over printer; a freeze drier equipped with a steam
+sterilisation facility.
+C.3.7.3. In the quality control laboratory only general descriptions such as pH meters, chromatographic
+equipment GLC (gas-liquid chromatography), HPLC (high performance liquid chromatography) with computer
+systems, particle size analysers.
+C.3.7.4. Is the machinery constructed of appropriate material (e.g., AISI* grade 316 stainless steel for product
+contact equipment?)
+C.3.7.5. Have other materials been suitably validated e.g., polypropylene, chrome-plated brass, PVC (poly vinyl
+chloride), non-reactive plastic materials?
+C.3.7.6. In microbiology use general descriptions such as incubators (temperature ranges) facilities for LAL
+(limulus amoebocyte lysate) testing, membrane filtration sterility testing, antibiotic assay, etc.
+C.3.7.7. In particular give brief information on the use of computers, microprocessors etc. in the factory.
+C.3.8.
+Maintenance (250 words/one A4 page)
+C.3.8.1. Who is responsible for maintenance and servicing?
+C.3.8.2. Are there written procedures and contractual details for outside work?
+C.3.8.3. Are maintenance routines which could affect product quality clearly identified?
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 12 of 20
+C.3.8.4. Are records kept of: type and frequency of service/check details of service repairs and modifications?
+C.3.8.5. Are reports made known to the users?
+C.3.9.
+Qualification, validation, and Calibration (750 words/three A4 pages)
+C.3.9.1. Briefly describe the Company's general policy and protocols for qualification and validation (prospective
+and retrospective).
+C.3.9.2. Is there regular revalidation of critical equipment?
+C.3.9.3. Describe equipment calibration policy and records kept.
+C.3.9.4. An outline of process validation may be given here or cross-referenced to production para 5.4
+C.3.9.5. What are the arrangements for computer validation, including software validation?
+C.3.9.6. Describe the system for the release for sale or supply of development and validation batches.
+C.3.10. Sanitation
+Cleaning procedures for manufacturing areas and equipment and cleaning procedures for wholesaling area in
+the case of a wholesaler (250 words/one A4 page)
+C.3.10.1. Are there written specifications and procedures for cleaning, cleaning agents and their concentration
+for the method of cleaning and the frequency?
+C.3.10.2. Are cleaning agents changed from time to time?
+C.3.10.3. Have the cleaning procedures been validated and what was the method of evaluating the
+effectiveness of cleaning?
+C.3.10.4. Are cleaning methods monitored routinely by chemical and/or microbiological methods?
+C.3.10.5. What are the cleaning methods (and their frequency) for the water supply system, air handling system
+and dust extraction system?
+C.4. DOCUMENTATION
+REQUIREMENT
+C.4.1.
+Arrangements for the preparation, revision, and distribution of necessary documentation for
+manufacture or wholesale.
+C.4.2.
+Any other documentation related to product quality which is not mentioned elsewhere (e.g.,
+microbiological controls on air and water, etc.).
+GUIDANCE
+C.4.DOCUMENTATION (500 words/two A-4 pages)
+Note: This section refers to all documentation used in manufacture or wholesale. Manufacture involves all
+activities relating to the production and control of pharmaceutical products with wholesale involving all
+activities relating to wholesaling and distribution.
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 13 of 20
+C.4.1.
+Arrangements for the Preparation, Revision and Distribution of Documentation
+C.4.1.1. Is there a description of the documentation system?
+C.4.1.2. Who is responsible for the preparation revision and distribution of documents?
+C.4.1.3. Where are the master documents stored?
+C.4.1.4. Is there a standard format and instruction of how documents are to be prepared? Are there documents
+for in the case of a manufacturer:
+C.4.1.4.1. Product/process specification
+C.4.1.4.2. Raw material specifications
+C.4.1.4.3. Packaging component specifications
+C.4.1.4.4. Standard process instructions including packaging
+C.4.1.4.5. Batch records including packaging
+C.4.1.4.6. Product/Process Specifications
+C.4.1.4.7. Analytical methods
+C.4.1.4.8. QA release procedures.
+C.4.1.5. Are there documents for in the case of a wholesaler:
+C.4.1.5.1. Receiving, dispatch and oversight of narcotic and psychotropic substances by the Pharmacist
+C.4.1.5.2. Oversight of all wholesaling activities by the Responsible Pharmacist
+C.4.1.5.3. Receiving, Picking, Packaging and Distribution of orders
+C.4.1.5.4. Verification of the validity of clients in terms of the provisions of Section 22A of the Medicines and
+Related Substances Act, 1965
+C.4.1.5.5. Quarantine of products following a notice of a recall from a Pharmaceutical company/applicant.
+C.4.1.6. How is the documentation controlled?
+C.4.1.7. For how long are documents kept after release of the batch?
+C.4.1.8. Detail any arrangements for electronic or microfilmed records.
+C.4.2.
+Other Documentation related to Product Quality Are the following documents available and in use?
+C.4.2.1. Specifications for disposables i.e., cleaning materials.
+C.4.2.2. Standard operating procedures.
+C.4.2.3. Equipment specifications.
+C.4.2.4. Quality Control Procedures.
+C.4.2.5. Training procedures.
+C.4.2.6. Computer program specifications.
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 14 of 20
+C.4.2.7. Documentation control of process deviations.
+C.4.2.8. Calibration and test documents (see para 3.9.5)
+C.4.2.9. Validation documents (see paras 3.9 and 5.4)
+C.4.2.10. Reconciliation of batches of raw materials, major packing components i.e., product-contact, and
+printed materials.
+C.4.2.11. List and briefly explain the use of any additional standard documentation used routinely.
+C.5. PRODUCTION OR WHOLESALING
+REQUIREMENT
+C.5.1.
+Brief description of production operations or wholesaling activities using, wherever possible, flow
+sheets and charts specifying important parameters (see Appendix A for the list of products manufactured or
+wholesaled).
+C.5.2.
+Arrangements for the handling of starting materials. packaging materials, bulk, and finished
+products, including sampling quarantine, release, and storage applicable to manufacturing or wholesaling.
+C.5.3.
+Arrangements for reprocessing or rework.
+C.5.4.
+Arrangements for the handling of rejected materials and products.
+C.5.5.
+In the case of a manufacturer a brief description of the general policy for process validation.
+GUIDANCE.
+C.5. PRODUCTION OR WHOLESALING as the case may be
+This narrative should be kept to a minimum and generalized schematic layouts used where possible. The
+following points should be addressed:
+C.5.1.
+Describe the operations capable of being carried out at the site with the existing facilities and specify
+the types of pharmaceutical products. (See para 1.5.1 and the Appendix A for types of products
+manufactured/wholesaled).
+When only primary or secondary packaging, as in the case of a manufacturer, is undertaken, give a brief
+description e.g., labelling, filling etc., and the nature of containers used e.g., sachets, tamper evident glass
+containers.
+If cytotoxic or radio-active substances are handled give details of the products.
+Describe the production operations or wholesaling operations using flow charts if possible. Technical details are
+not required.
+In the case of manufacturing, describe how products are identified during production and how in-process
+storage is organized.
+C.5.2.
+Arrangements for handling Starting Materials, Packing Materials, Bulk and Finished Products including
+Sampling Quarantine Release and Storage when applicable to manufacturing or wholesaling
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 15 of 20
+Identification of suppliers’ lot number with the company's lot number. Status labelling e.g., by using labels or by
+computer. Issue of materials to manufacture and package. The control of weighing, sampling plans, how are
+materials being used for manufacture identified and released? Information on checking methods?
+C.5.2.1. Control of Bulk Manufacture
+Checks on key parameters during manufacture e.g., blend times, filter integrity tests. Records of key
+parameters.
+Records of in-process checks.
+Compliance with the Marketing Authorisation. In-process checks.
+C.5.2.2. Packing
+Release of bulk, semi-finished products, packing materials; confirmation of identity and line clearance checks;
+in-process checks.
+C.5.2.3. Quarantine and release of finished products; compliance with the Marketing Authorisation.
+C.5.2.4. Explain the role of the Responsible pharmacist(s).
+C.5.3.
+Arrangements for Reprocessing or Rework
+C.5.3.1. What arrangements are in place for reprocessing or reworking batches of products?
+C.5.4.
+Arrangements for Handling Reject Materials and Products
+C.5.4.1. Are reject materials and products clearly labelled? Are they stored separately in restricted areas?
+C.5.4.2. Describe arrangements for sentencing the materials and disposal. Is destruction recorded?
+C.5.5.
+Brief Description of the General Policy for Process Validation (note only applicable to Manufacturers)
+An outline of process validation protocol only is required. (See para 3.9.3)
+C.6. QUALITY CONTROL (Note: Only applicable to Manufacturers)
+REQUIREMENT
+C.6.1.
+Description of the Quality Control system and of the activities of the Quality Control Department
+Procedures for the release of finished products.
+GUIDANCE
+C.6.1. Activities of the Quality Control Department
+C.6.1.1. (a) Describe the elements of the QC system e.g., specifications, test methods, and other quality related
+data collection.
+(b) Briefly describe the activities of analytical testing, packaging, component testing, biological and
+microbiological testing.
+C.6.1.2. If the review of batch documentation and release of final documentation takes place in this department,
+give details. (See also para 1.9.5)
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 16 of 20
+C.6.1.3. Outline the involvement in the arrangements for the preparation, revision, and distribution of
+documents in particular those for specification test methods and release criteria if not mentioned elsewhere.
+(See also para 1.9 and Documentation)
+C.7. CONTRACT MANUFACTURE AND ANALYSIS (Note: Only applicable to Manufacturers)
+REQUIREMENT
+C.7.1.
+Description of the way in which the GMP compliance of the contract acceptor is assessed.
+GUIDANCE
+C.7.
+CONTRACT MANUFACTURE AND ANALYSIS
+C.7.1.
+Describe briefly the details of the technical contract between the contract giver and acceptor and the
+way in which the GMP compliance is assessed to ensure product compliance with the Marketing Authorization
+C.8. DISTRIBUTION, COMPLAINTS AND PRODUCT RECALL
+REQUIREMENT
+C.8.1.
+Arrangements and recording system for distribution.
+C.8.2.
+Arrangements for the handling of complaints and product recalls.
+GUIDANCE
+C.8.1 DISTRIBUTION
+C.8.1.1 A Description of Storage and Distribution Practices
+C.8.1.1.1
+Is the warehouse secure?
+C.8.1.1.2.
+Is it environmentally controlled?
+C.8.1.1.3.
+Is there refrigerated storage?
+C.8.1.1.4.
+How are the materials stored e.g., pallet racking?
+C.8.1.1.5.
+How is the status of products controlled e.g., by computer, by label?
+C.8.1.1.6.
+What are the methods of distribution to customers?
+C.8.1.1.7.
+Does the dispatch order ensure first in/first out and identify the lot number?
+C.8.1.2. Records of Distribution
+Do the retained records permit full batch traceability from the factory to the customer, in terms of the date of
+sale, customer details and quantity dispatched?
+C.8.2. Complaints
+C.8.2.1. Is there a written complaints procedure?
+C.8.2.2 Who is responsible for:
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 17 of 20
+C.8.2.2.1 Logging
+C.8.2.2.2 Classifying
+C.8.2.3 Investigating complaints.
+C.8.2.3.1.
+Are written reports prepared?
+C.8.2.3.2
+Who reviews these reports?
+C.8.2.3.4
+For how long are complaints records kept?
+C.8.3 Product Recalls
+C.8.3.1. Is there a written procedure which describes the sequence of actions to be followed including;
+C.8.3.1.1.
+Retrieval of distribution data
+C.8.3.1.2.
+Notification of customers
+C.8.3.1.3.
+Receipt/segregation/inspection of returned product
+C.8.3.1.4.
+Investigation/reporting of cause
+C.8.3.1.5.
+Reporting corrective action.
+C.8.3.2. Who is responsible for coordinating product recalls?
+C.8.3.3. Who notifies the Competent Authority of complaints and recalls?
+C.8.3.4. Is the Competent Authority involved in complaints and the decision to recall?
+C.8.3.5. Can recalls be effected below wholesale level?
+C.9. SELF INSPECTION
+REQUIREMENT
+C.9.1.
+Short description of the self-inspection system See also para 1.9.4.).
+GUIDANCE
+C.9.1.1. Describe how the self-inspection system verifies that those activities that have a bearing on quality
+comply with the planned arrangement.
+C.9.1.2. Are the quality systems effective?
+C.9.1.3. Are there documented procedures for the self-inspection system and for the follow-up actions?
+C.9.1.4. Are the results of the self-inspection system documented, brought to the attention of the personnel
+having responsibility for the area and activities inspected?
+C.9.1.5. Does the system ensure that those responsible for the area or activity take timely corrective action on
+the deficiencies found?
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 18 of 20
+4.
+REFERENCES
+The following related documents are referenced:
+4.1
+Circular 34/93
+4.2
+PIC/S guide
+5.
+VALIDITY
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the guidelines for
+Preparation of Site Master File, old document number 4.08. It will be reviewed on this timeframe or as and
+when required.
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 19 of 20
+6.
+APPENDICES
+6.1
+Appendix A: Type of Products Manufactured or Wholesaled (referred to in paragraph C.1.5)
+A. Sterile products
+A.1 Liquid dosage forms (large volume solutions, including LVP and rinsing solutions)
+A.1.1
+Aseptically prepared
+A.1.2
+Terminally sterilized A.2
+A.2. Liquid dosage forms (small volume solutions, including SVP and eye drops)
+A.2.1
+Aseptically prepared
+A.2.2
+Terminally sterilized
+A.3 Semi-solid dosage forms A4 Solid dosage form
+A.4.1
+Solid fill
+A.4.2
+Freeze-dried
+B.
+Non-sterile products
+B.1 Liquid dosage forms
+B.2. Semi-solid dosage forms
+B.3. Solid dosage forms
+B.4. Unit dose form (tablet, capsules, suppositories, pessaries)
+B.5 Multi dose form (powder, granules) C. Biological products
+C.1. Vaccines C.
+C.2 Sera C.
+C.3 Blood products
+C.4 Others (describe)
+D.
+Specifically, toxic, and hazardous substances
+D.1 Penicillin’s
+Guidelines for Preparation of Site Master File
+18 September 2022
+SAHPGL-INSP-04_v5
+Page 20 of 20
+D.2 Cephalosporins
+D.3. Hormones
+D.4. Cytostatic
+D.5. Others (describe)
+E.
+Primary and or Secondary Packaging only
+E.1 Liquid dosage forms
+E.2 Semi-solid dosage forms
+E.2 Solid dosage forms
+F.
+Contract manufacturing (kind of products)
+F.1. Firm reported upon is:
+F.2. Contract Acceptor.
+F.3. Contract Giver G. Contract analysis
+Firm reported upon is:
+F.1. Contract Acceptor
+F.2. Contract Giver
+H. Drugs for clinical trials
+I. Others
+(e.g., veterinary products, cosmetics, etc.)
+

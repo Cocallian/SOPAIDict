@@ -1,0 +1,256 @@
+SAHPGL-RDN-INSP-01_v2 
+Page 1 of 8
+19 November 2024 
+GUIDELINE FOR THE SEALING AND UNSEALING OF HAZARDOUS 
+SUBSTANCES  
+The above guideline intends to narrate the critical framework of sealing and unsealing hazardous substances. 
+It stipulates all enforcement actions necessary, according to the Hazardous Substance Act, 15 of 1973 with 
+respect to Grouped Hazardous Substances, related regulations and prescribed licence conditions, that may 
+be imposed by the Inspectors under the Inspectorate division of Radiation Control.   
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+[dd Month yyyy] 
+0 
+First issue and publish for implementation 
+November 2014 
+1 
+Content structured on the latest SAHPRA Guideline Template 
+November 2024 
+DR BOITUMELO SEMETE-MAKOKOTLELA 
+CHIEF EXECUTIVE OFFICER 
+SAHPGL-RDN-INSP-01_v2 
+Page 2 of 8
+Guideline for the sealing and unsealing of hazardous substances 
+19 November 2024 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 5 
+3. 
+GENERAL REQUIREMENTS ......................................................................................................................... 5 
+4. 
+SEALING OF ELECTRONIC PRODUCTS ........................................................................................................ 5 
+5. 
+UNSEALING OF ELECTRONIC PRODUCTS ................................................................................................... 6 
+6. 
+REFERENCES ............................................................................................................................................... 7 
+7. 
+VALIDITY .................................................................................................................................................... 8 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-INSP-01_v2 
+Page 3 of 8
+Guideline for the sealing and unsealing of hazardous substances 
+19 November 2024 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ES 
+Electronic Submission 
+HPCSA 
+Health Profession Council of South Africa  
+IB 
+Inspection Body 
+TECH Unseal  
+Technicians unseal letter 
+kVp 
+Kilovoltage Peak 
+POPI Act 
+Protection of Personal Information Act 
+QC 
+Quality Control 
+Regulation R1332 
+Regulations concerning the control of electronic products 
+SAHPRA 
+South African Health Product Regulatory Authority 
+SANAS 
+South African National Accreditation System 
+ 
+ 
+ 
+SAHPGL-RDN-INSP-01_v2 
+Page 4 of 8
+Guideline for the sealing and unsealing of hazardous substances 
+19 November 2024 
+ 
+ 
+1. 
+INTRODUCTION 
+The South African Health Products Regulatory Authority (SAHPRA) is responsible for the regulation of 
+group III and IV products used in medical, industrial, veterinary, research and security applications. The 
+aim is to protect patients, radiation workers, the public and the environment against over-exposure to 
+ionizing radiation without limiting its beneficial use. 
+This guideline document describes the framework for the sealing and unsealing of hazardous 
+substances. It defines the standards and actions required by Inspectors in the radiation control 
+inspectorate sub-unit. It complies with the Hazardous Substance Act, 15 of 1973 with respect to Grouped 
+Hazardous Substances and related regulations and licence conditions. 
+The sealing of hazardous substances may happen during announced and unannounced routine 
+inspections or reported incidents/accidents relating to Grouped Hazardous Substances.  
+The sealing of a hazardous substances is an enforcement action therefore performing QC tests or 
+services does not mean that the licence holder should resume using the unit. Licence Holders are 
+encouraged to observe the instructions outlined on the sealing letter (GLF-RDN-INSP-01C) or do a follow 
+up after the sealing of the hazardous substances. 
+It should be noted as per the Protection of Personal Information Act (POPIA) and the Hazardous 
+Substances Act, that a licence holder’s information will not be disseminated to a third party except when 
+the information is required for legal proceedings. 
+1.1 Purpose 
+To establish clear and effective mandatory practices to enforce outlined procedures regarding sealing 
+and unsealing of grouped hazardous substances. To ascertain safety and optimal functioning of 
+radiation emitting devices.  
+1.2 Scope 
+The guideline covers the sealing and unsealing of Group III and IV hazardous substances used in 
+medical, industrial, veterinary, research and security applications. 
+2. 
+LEGAL PROVISION 
+SAHPGL-RDN-INSP-01_v2 
+Page 5 of 8
+Guideline for the sealing and unsealing of hazardous substances 
+19 November 2024 
+ 
+ 
+The guideline is implemented in promulgating the Hazardous Substances Act, 15 of 1973, related 
+regulations, SAHPRA guidelines and prescribed licence conditions. 
+3. GENERAL REQUIREMENTS 
+The related Regulation concerning the control of electronic products require that a joint product and 
+premises licence must be obtained for Group III and IV before it may be installed and commissioned.  
+• 
+It is the responsibility of the prospective user of these electronic products to be in possession of a 
+licence from SAHPRA prior to the delivery and installation of these electronic products.  
+• 
+Licenses are issued subject to the Regulations concerning the control of electronic products and the 
+application of specific licence conditions. 
+• 
+The licence holder must ensure that the room design shielding calculations and commissioning is 
+performed by a qualified Medical Physicist registered with HPCSA after completion of the training 
+program for Medical Physicist as prescribed on the HPCSA document CMS 03 PH Facility Based Intern 
+Training Program.  
+• 
+An Inspection Body (IB) approved by SAHPRA, OR an appropriately trained medical professional as per 
+the South African National Accreditation System (SANAS) (ISO/IEC 17020 and TR78) standard and 
+registered with the HPCSA as a Medical Physicist / Radiographer must be used to perform all the 
+diagnostics X-rays acceptance tests as well as the routine tests.  
+• 
+The applicable quality control (QC) tests are performed thereafter at the frequencies specified in, 
+“Requirements for licence holders with respect to quality control tests for diagnostic x-ray imaging 
+systems / dental diagnostic x-ray imaging systems”.  
+• 
+A formal contract by SANAS Inspection Body (ISO/IEC 17020 and TR78) is required to perform these 
+tests as listed on the Code: Diagnostic QC – Requirements for licence holders with respect to Quality 
+Control tests for Diagnostic x-ray imaging systems.  
+• 
+The licence holder shall ensure that only an IB approved by SAHPRA is used to perform all the 
+acceptance tests as well as the annual/routine quality control tests.  
+4. SEALING OF ELECTRONIC PRODUCTS  
+• 
+The decision to take urgent measures such as sealing is recorded in the inspection report OF-RDN-
+INSP-06B and verbal notification must be given immediately to the license holder or representative. A 
+written SEAL letter GLF-RDN-INSP-01C with the same content must be provided within 24 hours. 
+(Subject to whether the Inspector is working locally or out) 
+• 
+Electronic products will be sealed under the following conditions: 
+SAHPGL-RDN-INSP-01_v2 
+Page 6 of 8
+Guideline for the sealing and unsealing of hazardous substances 
+19 November 2024 
+ 
+ 
+❖ Unlicensed product 
+❖ Unqualified operators 
+❖ Illegal imports of products / components 
+❖ Annual QC tests not performed (outstanding for more than 3 months within the prescribed cycle) 
+❖ X-ray units to be stored / out of order / not to be used  
+❖ Supplementary radiographers not supervised by qualified radiographers. 
+❖ Mammography phantom for image quality not available 
+❖ Dental intra/extra oral phantom for image quality not available 
+❖ Dental x-ray units operating below 50 kVp. 
+❖ When no response to outstanding inspection report requirements have been received following 
+a 30 days email reminder and telephonic follow-up confirmed by email. 
+5. UNSEALING OF ELECTRONIC PRODUCTS  
+• 
+A seal may only be removed by an Inspector from SAHPRA.  
+• 
+If it is not possible for an Inspector to remove the seal, the licence holder may only remove the seal 
+following written confirmation UNSEAL letter GLF-RDN-INSP-01A from SAHPRA. 
+• 
+Inspectors must grant permission in writing by providing the unseal letter for the seal to be removed 
+from an electronic product. 
+• 
+If an Inspector is not available, SAHPRA will forward an UNSEAL letter (GLF-RDN-INSP-01A) to the 
+licence holder in order to remove the seal.  
+• 
+No sealed electronic product should be tested or serviced without a technician unseal letter TECH 
+UNSEAL (GLF-RDN-INSP-01B).  
+• 
+If a IB Technician requires the unit to be unsealed, the TECH Unseal letter should be requested from 
+the SAHPRA Inspector who sealed the unit. The letter will be addressed to the inspection body and 
+SAHPGL-RDN-INSP-01_v2 
+Page 7 of 8
+Guideline for the sealing and unsealing of hazardous substances 
+19 November 2024 
+ 
+ 
+the technician’s details will be listed on the letter. The letter will indicate that the unit is not licensed 
+for “clinical use”.  
+• 
+The IB Technician must reseal the x-ray unit after the test/service was completed and the test results 
+must be uploaded in the electronic submission (ES) template. 
+• 
+Permission to unseal and permission to use the x-ray unit is granted to the licence holder once the 
+QC tests are reflecting on the SAHPRA database, and the responsible Inspector confirms no other 
+outstanding non-conformances. 
+6. 
+REFERENCES 
+6.1 Related Articles 
+6.1.1 Hazardous Substance Act 15 of 1973 (Act 15, of 1973), https://www.sahpra.org.za/radiation-control-
+acts-and-regulations/ 
+6.1.2 Regulation concerning the control of electronic products, (R1332) 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/.  
+6.1.3 Schedule of listed electronic devices, Hazardous Substances Act 15, 1973, Regulation No. R.1302. 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/ 
+6.1.4 Regulations relating to Group IV Hazardous Substances, made in terms of section(s) 6 to 11, 25 and 26 
+of the Hazardous Substances Act 15 of 1973 and published under Government Notice R247 in 
+Government Gazette 14596, dated 26 February 1993 (R247) https://www.sahpra.org.za/radiation-
+control-acts-and-regulations/ 
+6.1.5 Template for the development of a facility-based intern training program: Medical Physicist, CMS 03 
+PH https://www.hpcsa.co.za/Uploads/professional_boards/mdb/guidelines/ 
+6.1.6 South African Health Products Regulatory Authority (SAHPRA) and SANAS technical requirements for 
+the application of ISO/IEC 17020: 2012 for testing of diagnostic x-ray imaging systems by inspection 
+bodies TR 78-08. 
+6.2 Related Documents 
+6.2.1 Code: Diagnostic QC – Requirements for licence holders with respect to Quality Control tests for 
+SAHPGL-RDN-INSP-01_v2 
+Page 8 of 8
+Guideline for the sealing and unsealing of hazardous substances 
+19 November 2024 
+ 
+ 
+Diagnostic x-ray imaging systems. https://www.sahpra.org.za/radiation-control-guidelines-and-
+codes-of-practice/ 
+6.2.2 Guidelines for users of of electronic therapeutic devices emitting ionizing radiation, SAHPGL-RDN-XR 
+25_v2 https://www.sahpra.org.za/wp-content/uploads/ 
+6.2.3 SAHPRA IB Sealing and Unsealing, 11/04/2023, https://www.sahpra.org.za/communication-to-
+industry/ 
+6.2.4 Unseal letter, GLF-RDN-INSP-01A 
+6.2.5 Tech unseal letter, GLF-RDN-INSP-01B 
+6.2.6 Seal letter, GLF-RDN-INSP-01C 
+7. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision. It will be reviewed in this 
+timeframe or as and when required. 
+

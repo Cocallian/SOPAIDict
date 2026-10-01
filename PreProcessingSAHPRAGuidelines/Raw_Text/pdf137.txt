@@ -1,0 +1,270 @@
+SAHPGL-RDN-XR-10_v1 
+Page 1 of 7
+ 
+ 
+ 
+15 August 2022 
+GUIDELINE FOR RADIATION MONITORING REQUIREMENTS 
+AND RADIATION OCCURRENCES 
+This guideline sets out requirements and recommendations for monitoring of radiation workers and reporting 
+of radiation occurrences by holders of license issued in terms the Hazardous Substances Act, 1973 (Act 15 of 
+1973) and Regulations (No R1332 of 3 August 1973). 
+ 
+Document History 
+Final 
+Version 
+Reason for Amendment 
+Effective Date 
+ 
+0 
+First issue and implementation 
+September 2012 
+1 
+- 
+Content structured on the new SAHPRA Guideline Template 
+- 
+A unique document number SAHPGL-RDN-XR-10 allocated to this 
+Guideline 
+- 
+Form RC008 changed to GLF-RDN-XR-02F, and Form RC010 also 
+changed to GLF-RDN-XR-10A 
+August 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DR BOITUMELO SEMETE-MAKOKOTLELA  
+CHIEF EXECUTIVE OFFICER 
+ 
+SAHPGL-RDN-XR-10_v1 
+Page 2 of 7
+Guideline for Radiation Monitoring Requirements and Radiation Occurrences 
+15 August 2022 
+ 
+ 
+Contents 
+Document History .............................................................................................................................................. 1 
+Glossary ............................................................................................................................................................. 3 
+1. 
+INTRODUCTION ......................................................................................................................................... 4 
+1.1 Purpose ...................................................................................................................................................... 4 
+1.2 Scope ......................................................................................................................................................... 4 
+2. 
+LEGAL PROVISION ...................................................................................................................................... 4 
+3. 
+MONITORING OF RADIATION WORKERS ................................................................................................... 4 
+3.1 Registration of radiation workers (new Form No.: GLF-RDN-XR-02F, replaced old Form RC008) ............ 5 
+3.2 Medical examinations of radiation workers .............................................................................................. 5 
+3.3 Monitoring service of radiation workers ................................................................................................... 5 
+3.4 Termination of registration as radiation worker ....................................................................................... 6 
+3.5 Re-registration of a person as radiation worker ....................................................................................... 6 
+3.6 Radiation Occurrences (new Form No.: GLF-RDN-XR-10A, replaced old Form RC010) ............................ 6 
+4. 
+REFERENCES ............................................................................................................................................... 6 
+5. 
+VALIDITY .................................................................................................................................................... 7 
+ 
+ 
+ 
+ 
+SAHPGL-RDN-XR-10_v1 
+Page 3 of 7
+Guideline for Radiation Monitoring Requirements and Radiation Occurrences 
+15 August 2022 
+ 
+ 
+ 
+ 
+Glossary 
+Abbreviation/ Term 
+Meaning 
+ALARA 
+As Low As Reasonable Achievable  
+ICRP  
+International Commission of Radiation Protection  
+mSv 
+Millie-Sieverts 
+PRMD 
+Personal Radiation Monitoring Devices 
+SABS 
+South African Bureau of Standards  
+SAHPRA 
+South African Health Products Regulatory Authority 
+Occupational Dose limits 
+Regulated annual dose limits for radiation workers 
+Ionizing Radiation 
+means radiation emanating from a listed electronic product, capable of 
+producing ions directly or indirectly in its passage through matter 
+License Holders 
+Any individual holding the license issued in terms of the HS Act 15 of 1973 
+Radiation Protection 
+Service 
+Approved service/lab providing monitoring devices to license holders 
+Radiation Worker 
+means any person who is potentially exposed to ionising radiation because of 
+his occupation and who has been registered in terms of regulation 
+Regulations 
+Regulations relating to the Control of Electronic Products (No R1332 of 3 August 
+1973) 
+ 
+ 
+SAHPGL-RDN-XR-10_v1 
+Page 4 of 7
+Guideline for Radiation Monitoring Requirements and Radiation Occurrences 
+15 August 2022 
+ 
+ 
+1. 
+INTRODUCTION 
+REGULATIONS CONCERNING THE CONTROL OF ELECTRONIC PRODUCTS No. R.1332 stipulate the provision 
+regarding radiation workers in section III.4.  Every holder shall keep a register (hereinafter referred to as his 
+"register") in which all persons who because of their occupation are potentially exposed to radiation from a 
+listed electronic product for which he holds the licence and who, in accordance with the latest applicable 
+recommendations of the ICRP: are regarded by the holder as radiation workers or trainee radiation workers 
+shall be registered. 
+1.1 
+Purpose 
+The purpose of monitoring radiation workers is to ensure that annual occupational dose limits are within 
+regulatory limits and to provide early reporting when exposure has occurred to ensure the principle of ALARA 
+is maintained. Section III.5.c of the regulation no R.1332 every license holder should ensure that all radiation 
+workers are monitored by an approved personnel monitoring service.  
+1.2 
+Scope 
+This guideline sets out requirements and recommendations for monitoring of radiation workers and reporting 
+of radiation occurrences by holders of license to use a listed electronic product generating ionizing radiation. 
+2. 
+LEGAL PROVISION  
+The guideline is implemented in promulgating the Hazardous Substances Act 15, 1973 (Act15 of 1973) the 
+related Regulations R.1332 
+3. 
+MONITORING OF RADIATION WORKERS 
+a) Every licence holder must ensure that the following three steps are taken in respect of any person who 
+may, by virtue of his/her occupation, be exposed to more than three tenths of the occupational dose 
+limit (20mSv/annum). 
+• 
+Such a person must be registered as a radiation worker  
+• 
+He/she must undergo the prescribed medical examination  
+• 
+His/her exposure to radiation must be monitored  
+b) The three sets of records resulting from the above actions are best kept in a separate register. The 
+record of each action mentioned above must be kept for at least ten years after the date of the action. 
+These records must be available on site for inspection. 
+SAHPGL-RDN-XR-10_v1 
+Page 5 of 7
+Guideline for Radiation Monitoring Requirements and Radiation Occurrences 
+15 August 2022 
+ 
+ 
+3.1 
+Registration of radiation workers (new Form No.: GLF-RDN-XR-02F, replaced old Form 
+RC008) 
+Note: Licence holders are no longer required to submit form GLF-RDN-XR-02F, replaced old Form 
+RC008 or inform Radiation Control of any change in the register as stipulated in Regulation III.4 (b) 
+& (c).   
+3.2 
+Medical examinations of radiation workers 
+a) Before a person is registered / appointed as a radiation worker he/she must undergo a medical 
+examination. 
+b) Medical examinations for radiation workers should follow general occupational medical 
+practice for determining fitness for work. 
+c) The results must be kept in the licence holder’s register. 
+d) In addition to the initial medical examination every radiation worker will be required to 
+undergo a medical examination in the event of the following: 
+• 
+Where a radiation occurrence has been confirmed or an incident resulting in an abnormal 
+exposure is suspected 
+• 
+Where the appointed medical practitioner deems it necessary 
+• 
+Where such an examination is considered necessary either by the regulatory authority or 
+the holder of the license. 
+• 
+Where the radiation worker believes that his/her health has been or will be adversely 
+affected by the factors relating to his/her occupation. 
+Annual medical examinations and those pertaining to de-registration are no longer required 
+by the regulator, but it remains the prerogative of the license holder should he/she deems it 
+necessary. 
+3.3 
+Monitoring service of radiation workers 
+a) The licence holder must ensure that all the registered radiation workers are issued with 
+personal radiation monitoring devices (PRMD). 
+b) Application forms for PRMD’s can be obtained directly from the following approved Radiation 
+Protection Service Provider(s): 
+Name of SERVICE 
+ 
+Contact No. 
+ 
+ 
+Email address 
+SABS Holdings 
+012 428 6199 
+rps@sabs.co.za 
+Dosimeter Services (Pty) Ltd 
+012 677 8074 
+nds@netcare.co.za 
+c) Records of the radiation doses to which workers have been exposed will be furnished to the 
+licence holder by the SABS monthly or after a radiation occurrence (see 3.6 below). The records 
+must be kept for 10 years. 
+SAHPGL-RDN-XR-10_v1 
+Page 6 of 7
+Guideline for Radiation Monitoring Requirements and Radiation Occurrences 
+15 August 2022 
+ 
+ 
+3.4 
+ Termination of registration as radiation worker 
+a) Record keeping in respect of the worker in question will now cease, but the file must be 
+preserved in the licence holder’s register for a period of 10 years from the date of the last 
+entry in the file. 
+b) Licence holders are no longer required to submit GLF-RDN-XR-02F forms (replaced old RC008 
+forms) or inform the regulator of any change in the register as stipulated in Regulation III.4 b 
+& c. 
+c) When a radiation worker ceases to be employed by the licence holder, the holder must 
+provide that worker with a copy of his/her complete dose record.  Such complete records can 
+be obtained from the SABS/Dosimeter Services on request.  
+d) Note: Licence holders are no longer required to inform Radiation Control of any change in the 
+register as stipulated in Regulation III.4 (c).  
+3.5 
+Re-registration of a person as radiation worker 
+a) Note” Licence holders are no longer required to inform Radiation Control of any change in 
+the register as stipulated in Regulation III.4 (c). 
+b) The procedures outlined in paragraphs 3.1 must then be followed with respect to the 
+registration of this person as a radiation worker. 
+3.6 
+ Radiation Occurrences (new Form No.: GLF-RDN-XR-10A, replaced old Form RC010) 
+a) Details of any radiation occurrence or suspected radiation occurrence must immediately be 
+reported to SAHPRA radiation control on form GLF-RDN-XR-010A. 
+b) The workers concerned must immediately submit their personal dosimeters to the dosimetry 
+service provider. The licence holder must liaise with Radiation Control on what action to be 
+taken after such occurrence. 
+The attention of the reader is drawn to the fact that this guide is intended and was compiled merely to 
+simplify and assist holders in the modus operandi with respect to the registration and monitoring of 
+radiation workers. 
+4. 
+REFERENCES 
+The following related documents are referenced: 
+4.1 
+South Africa, 1973. Hazardous Substances Act, 1973 (Act of 15 of 1973). 
+https://www.sahpra.org.za/radiation-control-acts-and-regulations/ 
+4.2 
+South Africa, 1973.  Regulations Concerning the Control of Electronic Products.  Regulation Gazette 
+No 3991. https://www.sahpra.org.za/radiation-control-acts-and-regulations/ 
+4.3 
+International Commission on Radiological Protection, 73. Radiological Protection and Safety in 
+SAHPGL-RDN-XR-10_v1 
+Page 7 of 7
+Guideline for Radiation Monitoring Requirements and Radiation Occurrences 
+15 August 2022 
+ 
+ 
+Medicine.  Annals of the ICRP Volume 26/2.  Elsevier B.V. http://www.icrp.org  
+5. 
+VALIDITY 
+This guideline is valid for a period of 5 years from the effective date of revision and replaces the old guideline 
+for Radiation Monitoring Requirements and Radiation Occurrences - DOH, revision Sept 2012. It will be 
+reviewed on this timeframe or as and when required. 
+
