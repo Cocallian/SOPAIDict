@@ -33,13 +33,3 @@ with open(FOLDER / "passage_ids.json", "w", encoding="utf-8") as f:
 print("Saved vectors:", vectors.shape)
 
 
-def search(question, k=3):
-    """Return the k passages most similar to the question."""
-    q = embedder.encode([QUERY_PREFIX + question], normalize_embeddings=True)[0]
-    scores = vectors @ q
-    best = np.argsort(-scores)[:k]
-    return [(passages[i], float(scores[i])) for i in best]
-
-
-for p, score in search("How do I report an adverse drug reaction?"):
-    print(f"{score:.3f}  {p['document_number']}  {p['title'][:60]}  (pages {p['page_start']}-{p['page_end']})")
