@@ -1,0 +1,145 @@
+<?php
+session_start();
+$_SESSION["perm"] = "";
+$uname = "";
+$pass = "";
+if (isset($_POST["uname"]) && isset($_POST["pass"]) && trim($_POST["uname"]) != "" && trim($_POST["pass"]) != "")
+    {
+        $uname = $_POST["uname"];
+        $pass = hash("sha256", $_POST["pass"]);
+    }
+    else{
+         $_SESSION["err"] = "Please enter details into the fields for log in validation";
+         header("Location: login.php");
+         exit;
+    }
+
+    try
+        {
+            $secrets = parse_ini_file(__DIR__ . "/passwords.txt");
+            $conn = new mysqli($secrets["db_host"], $secrets["db_user"], $secrets["db_pass"]);
+        }
+        catch(mysqli_sql_exception)
+        {
+            $_SESSION["err"] = "Database connection error, contact your system adminstrator for assistance";            
+            header("Location: login.php");
+            exit;
+        }
+
+    
+    
+
+if($conn->connect_error)
+    {
+        $_SESSION["err"] = "Database connection error, contact your system adminstrator for assistance";
+        header("Location: login.php");
+        exit;
+    }else{
+
+    $conn -> query("CREATE DATABASE IF NOT EXISTS SOPAgent");
+    $conn -> select_db("SOPAgent");
+
+    $conn -> query("CREATE TABLE IF NOT EXISTS Admins (
+        AdminId      INT UNSIGNED NOT NULL AUTO_INCREMENT,
+        Username     VARCHAR(50)  NOT NULL UNIQUE,
+        PasswordHash VARCHAR(255) NOT NULL,
+        PRIMARY KEY (AdminId)
+    ) ENGINE=InnoDB");
+
+    $conn -> query("CREATE TABLE IF NOT EXISTS Users (
+        UserId       INT UNSIGNED NOT NULL AUTO_INCREMENT,
+        Username     VARCHAR(50)  NOT NULL UNIQUE,
+        PasswordHash VARCHAR(255) NOT NULL,
+        PRIMARY KEY (UserId)
+    ) ENGINE=InnoDB");
+
+    
+    $conn -> query("CREATE TABLE IF NOT EXISTS Prompts (
+        PromptId   INT UNSIGNED NOT NULL AUTO_INCREMENT,
+        UserId     INT UNSIGNED NULL,
+        AdminId    INT UNSIGNED NULL,
+        PromptText TEXT         NOT NULL,
+        CreatedAt  TIMESTAMP    NOT NULL DEFAULT CURRENT_TIMESTAMP,
+        PRIMARY KEY (PromptId),
+        FOREIGN KEY (UserId)  REFERENCES Users(UserId)   ON DELETE CASCADE,
+        FOREIGN KEY (AdminId) REFERENCES Admins(AdminId) ON DELETE CASCADE,
+        CHECK ((UserId IS NULL) <> (AdminId IS NULL))
+    ) ENGINE=InnoDB");
+
+    $conn -> query("CREATE TABLE IF NOT EXISTS Responses (
+        ResponseId   INT UNSIGNED NOT NULL AUTO_INCREMENT,
+        PromptId     INT UNSIGNED NOT NULL,
+        UserId       INT UNSIGNED NULL,
+        AdminId      INT UNSIGNED NULL,
+        ResponseText MEDIUMTEXT   NOT NULL,
+        CreatedAt    TIMESTAMP    NOT NULL DEFAULT CURRENT_TIMESTAMP,
+        PRIMARY KEY (ResponseId),
+        FOREIGN KEY (PromptId) REFERENCES Prompts(PromptId) ON DELETE CASCADE,
+        FOREIGN KEY (UserId)   REFERENCES Users(UserId)     ON DELETE CASCADE,
+        FOREIGN KEY (AdminId)  REFERENCES Admins(AdminId)   ON DELETE CASCADE,
+        CHECK ((UserId IS NULL) <> (AdminId IS NULL))
+    ) ENGINE=InnoDB");
+
+    //Delete this code after first run or if you manually set admin details
+    $adminUser = $secrets["admin_user"];
+    $adminHash = hash('sha256', $secrets["admin_pass"]);
+    $stmt = $conn -> prepare("INSERT IGNORE INTO Admins (Username, PasswordHash) VALUES (?, ?)");
+    $stmt -> bind_param("ss", $adminUser, $adminHash);
+    $stmt -> execute();
+
+    $dumUser = $secrets["user_user"];
+    $userPass = hash("sha256", $secrets["user_pass"]);
+    $stmt2 = $conn -> prepare("INSERT IGNORE INTO Users (Username, PasswordHash) VALUES (?, ?)");
+    $stmt2 -> bind_param("ss", $dumUser, $userPass);
+    $stmt2 -> execute();
+
+    if(substr($uname, 0, 5) == "admin")
+        {
+            $stmt = $conn -> prepare("SELECT * FROM Admins WHERE Username = ? AND PasswordHash = ?");
+            $stmt -> bind_param("ss", $uname, $pass);
+            $stmt -> execute();
+            $stmt -> store_result();
+
+            if($stmt -> num_rows() < 1)
+                {
+                    $_SESSION["err"] = "Incorrect Login details";
+                    header("Location: login.php");
+                    exit;
+                }
+                else{
+                    $_SESSION["perm"] = "admin";
+                    $_SESSION["uname"] = $uname;   // used to look up who sent each prompt
+                    header("Location: adminAgent.php");
+                    exit;
+                }
+        }
+        else{
+            $stmt2 = $conn -> prepare("SELECT * FROM Users WHERE Username = ? AND PasswordHash = ?");
+            $stmt2 -> bind_param("ss", $uname, $pass);
+            $stmt2 -> execute();
+            $stmt2 -> store_result();
+
+                if($stmt2 -> num_rows() < 1)
+                {
+                    
+                    $_SESSION["err"] = "Incorrect Login details";
+                    header("Location: login.php");
+                    exit;
+                }
+                else{
+                    $_SESSION["perm"] = "user";
+                    $_SESSION["uname"] = $uname;   // used to look up who sent each prompt
+                    header("Location: Agent.php");
+                    exit;
+                }
+        }
+
+
+    
+    }
+
+?>
+<html>
+    <br>
+<a href = "login.php"><button >Go Back</button></a>
+</html>

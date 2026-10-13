@@ -1,0 +1,6 @@
+DirectoryIndex login.php index.php index.html
+
+# Stop browsers from downloading the passwords file (PHP can still read it)
+<Files "passwords.txt">
+    Require all denied
+</Files>
