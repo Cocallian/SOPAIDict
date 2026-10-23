@@ -1,4 +1,14 @@
-# Passwords used by the PHP front end
+# Passwords, paths and settings used by the PHP front end and the Python scripts (made by Setup.bat)
 FrontEnd/passwords.txt
 SysInfo.py
 T4Info.ipynb
+
+# Your own documents and everything made from them stay on your PC
+YourDocuments/*
+!YourDocuments/.gitkeep
+RAGData/
+
+# Downloaded by Setup.bat
+FrontEnd/vendor/
+.tools/
+__pycache__/

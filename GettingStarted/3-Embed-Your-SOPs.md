@@ -14,7 +14,7 @@ py EmbedScript.py
 ```
 
 - **The first run downloads BGE** from Hugging Face. This is about 130 MB and needs an internet connection. It's saved in a cache folder on your PC, and every later run reuses it.
-- It then shows a progress bar while it embeds every passage. Expect several minutes for a couple of thousand passages on a laptop CPU.
+- It then shows a progress bar while it embeds every passage. Expect several minutes (for SAHPRA guidelines it took close to half an hour) for a couple of thousand passages on a laptop CPU.
 - It finishes with `Saved vectors: (1876, 384)`: one row per passage, 384 numbers each.
 
 It reads `PreProcessesV1/passages.jsonl` from step 2 and writes two files next to it:

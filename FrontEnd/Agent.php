@@ -5,10 +5,72 @@ if($_SESSION["perm"] != "user")
         header("Location: login.php");
         exit();
     }
-// dataconn.php saves the question, gets the answer and sends the user back here with it.
-// Read the answer, then clear it so it only shows once
-$a = $_SESSION["answer"] ?? "";
-$_SESSION["answer"] = "";
+$PYTH = "C:\\Users\\tygra\\AppData\\Local\\Programs\\Python\\Python312\\python.exe";
+$SCRIPT = "C:\\Users\\tygra\\Documents\\Code\\Pythom\\LLM\\LocalAITest.py";
+
+$q = $_POST['user-input'] ?? '';
+$a = "";
+
+        try
+        {
+            $conn = new mysqli("127.0.0.1", "root", "Wozmaniak123");
+            $conn->select_db("SOPAgent");
+        }
+        catch(mysqli_sql_exception)
+        {
+            $_SESSION["err"] = "Database connection error, contact your system administrator for assistance";
+        }
+
+if($q !== "")
+    {
+        set_time_limit(300);   // finding passages + Qwen's answer can take over a minute
+
+        $promptId = null;
+
+        // save the prompt with the current date and time before the model starts working on it
+        if(isset($conn))
+            {
+                try
+                    {
+                        $uname = $_SESSION["uname"] ?? "";
+                        $stmt = $conn->prepare("SELECT UserId FROM Users WHERE Username = ?");
+                        $stmt->bind_param("s", $uname);
+                        $stmt->execute();
+                        $stmt->bind_result($userId);
+                        $stmt->fetch();
+                        $stmt->close();
+
+                        $stmt = $conn->prepare("INSERT INTO Prompts (UserId, PromptText, CreatedAt) VALUES (?, ?, NOW())");
+                        $stmt->bind_param("is", $userId, $q);
+                        $stmt->execute();
+                        $promptId = $conn->insert_id;
+                        $stmt->close();
+                    }
+                catch(mysqli_sql_exception)
+                    {
+                        $_SESSION["err"] = "Your prompt could not be saved to the database";
+                    }
+            }
+
+        $command = escapeshellarg($PYTH) . " " . escapeshellarg($SCRIPT) . " " . escapeshellarg($q) . " 2>&1"; //executes the RAG pipiline via command line (php and python both operate via command line)
+    $a = shell_exec($command);   // blocks here until the script (and Colab, if it uses it) returns
+
+        // the response is back: save it against the prompt, again with the current date and time
+        if($promptId && $a !== null && trim($a) !== "")
+            {
+                try
+                    {
+                        $stmt = $conn->prepare("INSERT INTO Responses (PromptId, UserId, ResponseText, CreatedAt) VALUES (?, ?, ?, NOW())");
+                        $stmt->bind_param("iis", $promptId, $userId, $a);
+                        $stmt->execute();
+                        $stmt->close();
+                    }
+                catch(mysqli_sql_exception)
+                    {
+                        $_SESSION["err"] = "The response could not be saved to the database";
+                    }
+            }
+    }
 
     // Read the error, then clear it so it only shows once
     $err = $_SESSION["err"] ?? "";
@@ -171,7 +233,7 @@ $_SESSION["answer"] = "";
 <div id="res">
     <textarea id = "ta" readonly>Welcome to the SOP RAG agent, type below to start querying the agent<?php echo htmlspecialchars($a); ?></textarea>
 </div>
-    <form method = "post" action = "dataconn.php" onsubmit = "startSearch(event)">
+    <form method = "post" onsubmit = "startSearch(event)">
         <input type="text" id="user-input" name="user-input" autofocus>
         <button type="submit" tabindex="-1" hidden>Submit</button>
 

@@ -6,29 +6,8 @@ BEWARE: this does download files from this repository onto your drive, they are 
 <br></br>
 <b>TO NOTE:</b>
 <br></br>
-To enable connection to your own database and/or a google colab notebook place your details in a self-created 'passwords.txt' file inside the 'FrontEnd' folder structured like this:
+If you would like to implement this agent in your own envrionment check out the getting started guide (possible launcher or installer soon)
 <br>
-
-<hr></hr>
-
-[database] <br>
-;put your database information here (MYSQL based)
-db_host = "127.0.0.1"
-db_user = "root"
-db_pass = "YOUR_PASSWORD_HERE"
-
-[seed_accounts]<br>
-; dataconn.php creates these accounts if they don't exist yet, put your seeded accounts here:
-admin_user = "admin"
-admin_pass = "123"
-user_user  = "user"
-user_pass  = "123"
-
-[answers]<br>
-; Leave colab_url empty to answer with LocalAITest.py on this PC.
-; To use the Colab notebook instead, paste the address its last cell prints (it ends in /ask).
-; The address changes every time the notebook is restarted. If Colab can't be reached, the local model answers.
-colab_url = "URL_FROM_COLAB_NOTEBOOK_LAST_CELL"
 
 <hr></hr>
 

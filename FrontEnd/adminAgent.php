@@ -8,22 +8,71 @@ if($_SESSION["perm"] != "admin" )
         header("Location: login.php");
         exit();
     }
-// dataconn.php saves the question, gets the answer and sends the admin back here with it.
-// Read the answer, then clear it so it only shows once
-$a = $_SESSION["answer"] ?? "";
-$_SESSION["answer"] = "";
+$PYTH = "C:\\Users\\tygra\\AppData\\Local\\Programs\\Python\\Python312\\python.exe";
+$SCRIPT = "C:\\Users\\tygra\\Documents\\Code\\Pythom\\LLM\\LocalAITest.py";
 
-        // the database is still needed here for the dashboard
+
+$q = $_POST['user-input'] ?? '';
+$a = "";
+
         try
         {
-            $secrets = parse_ini_file(__DIR__ . "/passwords.txt");
-            $conn = new mysqli($secrets["db_host"], $secrets["db_user"], $secrets["db_pass"]);
+            $conn = new mysqli("127.0.0.1", "root", "Wozmaniak123");
             $conn->select_db("SOPAgent");
         }
         catch(mysqli_sql_exception)
         {
             $_SESSION["err"] = "Database connection error, contact your system administrator for assistance";
         }
+
+if($q !== "")
+    {
+        set_time_limit(300);
+
+        $promptId = null;
+
+        if(isset($conn))
+            {
+                try
+                    {
+                        $uname = $_SESSION["uname"] ?? "";
+                        $stmt = $conn->prepare("SELECT AdminId FROM Admins WHERE Username = ?");
+                        $stmt->bind_param("s", $uname);
+                        $stmt->execute();
+                        $stmt->bind_result($adminId);
+                        $stmt->fetch();
+                        $stmt->close();
+
+                        $stmt = $conn->prepare("INSERT INTO Prompts (AdminId, PromptText, CreatedAt) VALUES (?, ?, NOW())");
+                        $stmt->bind_param("is", $adminId, $q);
+                        $stmt->execute();
+                        $promptId = $conn->insert_id;
+                        $stmt->close();
+                    }
+                catch(mysqli_sql_exception)
+                    {
+                        $_SESSION["err"] = "Your prompt could not be saved to the database";
+                    }
+            }
+
+        $command = escapeshellarg($PYTH) . " " . escapeshellarg($SCRIPT) . " " . escapeshellarg($q) . " 2>&1";
+    $a = shell_exec($command);
+
+        if($promptId && $a !== null && trim($a) !== "")
+            {
+                try
+                    {
+                        $stmt = $conn->prepare("INSERT INTO Responses (PromptId, AdminId, ResponseText, CreatedAt) VALUES (?, ?, ?, NOW())");
+                        $stmt->bind_param("iis", $promptId, $adminId, $a);
+                        $stmt->execute();
+                        $stmt->close();
+                    }
+                catch(mysqli_sql_exception)
+                    {
+                        $_SESSION["err"] = "The response could not be saved to the database";
+                    }
+            }
+    }
 
     $userD = 0;
     $TotQ = 0;
@@ -421,7 +470,7 @@ $_SESSION["answer"] = "";
 <div id="res">
     <textarea id = "ta" readonly>Welcome to the SOP RAG agent, type below to start querying the agent<?php echo htmlspecialchars($a); ?></textarea>
 </div>
-    <form method = "post" action = "dataconn.php" onsubmit = "startSearch(event)">
+    <form method = "post" onsubmit = "startSearch(event)">
         <input type="text" id="user-input" name="user-input" autofocus>
         <button type="submit" tabindex="-1" hidden>Submit</button>
 

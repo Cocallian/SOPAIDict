@@ -1,11 +1,8 @@
-# SAHPRA RAG project
-requests >= 2.33.1              # DownloadAll.py; LocalAITest.py (talks to Ollama)
-beautifulsoup4 >= 4.14.3        # DownloadAll.py
-pymupdf >= 1.28.2               # PyPDF.py
-sentence-transformers >= 6.1.0  # EmbedScript.py; sahpra_rag_demo.ipynb
-transformers >= 5.18.0          # used by sentence-transformers and TextToVector
-TextToVector >= 2025.5.180916   # TTV.py
-
-install command for convenience (install inside this folder):
-
-py -m pip install requests, beautifulsoup4, pymupdf, sentence-transformers, TextToVector
+# Python packages for the SOP assistant. Setup.bat installs these for you; to do it by hand:
+#   py -m pip install -r requirement.txt
+requests                 # LocalAITest.py talks to Ollama; DownloadAll.py
+pymupdf                  # PyPDF.py reads PDF, XPS and EPUB files
+python-docx >= 1.1       # PyPDF.py reads Word (.docx) files
+numpy                    # storing and searching the vectors
+sentence-transformers    # EmbedScript.py and LocalAITest.py run the embedding model
+beautifulsoup4           # DownloadAll.py only (downloading SAHPRA's public guidelines)
