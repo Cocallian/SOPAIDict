@@ -14,31 +14,33 @@ py EmbedScript.py
 ```
 
 - **The first run downloads BGE** from Hugging Face. This is about 130 MB and needs an internet connection. It's saved in a cache folder on your PC, and every later run reuses it.
-- It then shows a progress bar while it embeds every passage. Expect several minutes (for SAHPRA guidelines it took close to half an hour) for a couple of thousand passages on a laptop CPU.
-- It finishes with `Saved vectors: (1876, 384)`: one row per passage, 384 numbers each.
+- It prints `Loaded … passages`, then shows a progress bar while it embeds every passage. On a laptop CPU this takes several minutes for a couple of thousand passages; SAHPRA's guidelines took close to half an hour.
+- It finishes with `Saved vectors: (42, 384)`: one row per passage, 384 numbers each.
 
-It reads `PreProcessesV1/passages.jsonl` from step 2 and writes two files next to it:
+It reads `PreProcessing/Raw_Text/passages.jsonl` from step 2 and writes two files into `PreProcessing/Embeds`:
 
 | File | Contents |
 |---|---|
 | `passage_vectors.npy` | The vectors, one row per passage |
 | `passage_ids.json` | Which passage each row belongs to, in the same order |
 
-**Check:** both files in `PreProcessingSAHPRAGuidelines/PreProcessesV1/` have just been updated, and the first number in `Saved vectors: (…, 384)` matches the passage count from `TextCleanUp.py`.
+**Check:** both files are in `PreProcessing/Embeds`, and the first number in `Saved vectors: (…, 384)` matches the passage count from `TextCleanUp.py`.
 
 ## 3.2 Run it on the PC that will answer questions
 
-`LocalAITest.py`, which answers questions on your PC in step 4, deliberately runs offline. It uses the copy of BGE this step downloaded and doesn't go online to check for updates. So run `EmbedScript.py` at least once on the PC that will answer questions, logged in as the same Windows user. Otherwise `LocalAITest.py` stops with an error that it can't find the model.
+`LocalAITest.py`, which answers questions on your PC, deliberately runs offline. It uses the copy of BGE this step downloaded, and doesn't go online to check for updates. So run `EmbedScript.py` at least once on the PC that will answer questions, logged in as the same Windows user. Otherwise `LocalAITest.py` stops with an error that it can't find the model.
 
 ## 3.3 When to run it again
 
-Run `EmbedScript.py` again **every time you run `TextCleanUp.py`**, which means every time you add, remove or update an SOP. The full sequence is always:
+`LocalAITest.py` reads your passages from `Raw_Text` and the vectors from `Embeds`, so there's nothing to copy: once `EmbedScript.py` finishes, the answers use your SOPs.
+
+Run the whole sequence again every time you add, remove or update an SOP:
 
 ```
-PyPDF.py  →  TextCleanUp.py  →  EmbedScript.py  →  (Colab only) upload the 3 files again
+clear Raw_Text  →  PyPDF.py  →  TextCleanUp.py  →  EmbedScript.py  →  (Colab only) block 1.2
 ```
 
-If you forget, the answering scripts notice that the number of passages and vectors don't match. They stop with: *"The passages have changed since they were embedded. Run EmbedScript.py again."*
+If you forget a step after `TextCleanUp.py`, the answering scripts notice that the number of passages and vectors don't match. They stop with: *"The passages have changed since they were embedded. Run EmbedScript.py again."*
 
 ## 3.4 Changing the embedding model
 
@@ -46,10 +48,10 @@ Questions and passages must be embedded by the **same** model, or the search ret
 
 - `EmbedScript.py`: `MODEL_NAME`
 - `LocalAITest.py`: `EMBED_MODEL`
-- `ColabTest.ipynb`: `EMBED_MODEL`
+- `ColabTest.ipynb`, block 3: `EMBED_MODEL`
 
 If you switch to another model, for example a multilingual one for non-English SOPs, change all three and run `EmbedScript.py` again.
 
 ---
 
-Next: [4. Choose local or Google Colab](4-Choose-Local-or-Colab.md)
+Next: [4. Answer questions: on your PC or Google Colab](4-Choose-Local-or-Colab.md)

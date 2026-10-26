@@ -1,1 +1,6 @@
 DirectoryIndex login.php
+
+# Stop browsers from opening the passwords file (PHP can still read it)
+<Files "passwords.txt">
+    Require all denied
+</Files>

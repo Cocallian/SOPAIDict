@@ -6,3 +6,7 @@ python-docx >= 1.1       # PyPDF.py reads Word (.docx) files
 numpy                    # storing and searching the vectors
 sentence-transformers    # EmbedScript.py and LocalAITest.py run the embedding model
 beautifulsoup4           # DownloadAll.py only (downloading SAHPRA's public guidelines)
+
+
+#HARDWARE:
+#

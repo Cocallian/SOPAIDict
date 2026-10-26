@@ -14,17 +14,21 @@ from sentence_transformers import SentenceTransformer
 MODEL = "qwen3.5:0.8b"
 EMBED_MODEL = "BAAI/bge-small-en-v1.5"                 # must be the same model EmbedScript.py used
 QUERY_PREFIX = "Represent this sentence for searching relevant passages: "   # BGE wants this on questions only
-FOLDER = Path(__file__).parent / "PreProcessingSAHPRAGuidelines" / "PreProcessesV1"
+PASSAGES_FOLDER = Path(__file__).parent / "PreProcessing" / "Raw_Text"   # passages.jsonl from TextCleanUp.py
+VECTORS_FOLDER = Path(__file__).parent / "PreProcessing" / "Embeds"     # passage_vectors.npy from EmbedScript.py
 TOP_K = 5                                               # passages given to Qwen; raise num_ctx if you raise this
+
+with open(Path(__file__).parent / "config.json", encoding="utf-8") as f:
+    ORG_NAME = json.load(f)["ORG_NAME"]                 # the organisation named in the prompt below
 
 sys.stdout.reconfigure(encoding="utf-8")   # so PHP receives special characters correctly
 
 question = sys.argv[1] if len(sys.argv) > 1 else "In one sentence, what does SAHPRA regulate?"
 
 # Load the passages and the vectors EmbedScript.py saved for them
-with open(FOLDER / "passages.jsonl", encoding="utf-8") as f:
+with open(PASSAGES_FOLDER / "passages.jsonl", encoding="utf-8") as f:
     passages = [json.loads(line) for line in f]
-vectors = np.load(FOLDER / "passage_vectors.npy")
+vectors = np.load(VECTORS_FOLDER / "passage_vectors.npy")
 if len(vectors) != len(passages):
     sys.exit("The passages have changed since they were embedded. Run EmbedScript.py again.")
 
@@ -42,7 +46,7 @@ def source_label(p):
 sources = "\n\n".join(f"[{i}] {source_label(passages[j])}\n{passages[j]['text']}" for i, j in enumerate(best, start=1))
 
 SYSTEM_PROMPT = (
-    "You answer questions about South African Health Products Regulatory Authority (SAHPRA) guidelines. "
+    f"You answer questions about {ORG_NAME} Standard Operating Procedure documents. "
     "Use ONLY the numbered sources provided. Cite sources in square brackets, e.g. [1] or [2][3]. "
     "If the sources do not contain the answer, say you could not find it in the guidelines."
 )

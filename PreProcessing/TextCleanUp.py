@@ -16,7 +16,7 @@ from collections import Counter
 from pathlib import Path
 
 INPUT_DIR = Path("Raw_Text")
-OUTPUT_DIR = Path("PreProcessesV1")
+OUTPUT_DIR = Path("Raw_Text")
 PASSAGE_WORDS = 300      # words per passage
 OVERLAP_WORDS = 50       # words repeated at the start of the next passage
 
@@ -98,40 +98,42 @@ def document_details(raw, pages):
     }
 
 
-OUTPUT_DIR.mkdir(exist_ok=True)
-files = sorted(INPUT_DIR.glob("*.txt"), key=lambda p: [int(t) if t.isdigit() else t for t in re.split(r"(\d+)", p.name)])
-fields = ["passage_id", "source_file", "document_number", "title", "version", "date",
-          "page_start", "page_end", "word_count"]
-total = 0
+# only runs when this file is run directly; PyPDF.py imports the functions above without running this
+if __name__ == "__main__":
+    OUTPUT_DIR.mkdir(exist_ok=True)
+    files = sorted(INPUT_DIR.glob("*.txt"), key=lambda p: [int(t) if t.isdigit() else t for t in re.split(r"(\d+)", p.name)])
+    fields = ["passage_id", "source_file", "document_number", "title", "version", "date",
+              "page_start", "page_end", "word_count"]
+    total = 0
 
-with open(OUTPUT_DIR / "passages.jsonl", "w", encoding="utf-8") as jsonl, \
-     open(OUTPUT_DIR / "manifest.csv", "w", newline="", encoding="utf-8") as manifest:
-    writer = csv.DictWriter(manifest, fieldnames=fields)
-    writer.writeheader()
+    with open(OUTPUT_DIR / "passages.jsonl", "w", encoding="utf-8") as jsonl, \
+         open(OUTPUT_DIR / "manifest.csv", "w", newline="", encoding="utf-8") as manifest:
+        writer = csv.DictWriter(manifest, fieldnames=fields)
+        writer.writeheader()
 
-    for path in files:
-        raw = path.read_text(encoding="utf-8", errors="replace")
-        pages = clean_pages(raw)
-        words = words_with_pages(pages)
-        if len(words) < 30:
-            print(f"Skipping {path.name}: almost no text (probably a scanned PDF)")
-            continue
+        for path in files:
+            raw = path.read_text(encoding="utf-8", errors="replace")
+            pages = clean_pages(raw)
+            words = words_with_pages(pages)
+            if len(words) < 30:
+                print(f"Skipping {path.name}: almost no text (probably a scanned PDF)")
+                continue
 
-        details = document_details(raw, pages)
-        step = PASSAGE_WORDS - OVERLAP_WORDS
+            details = document_details(raw, pages)
+            step = PASSAGE_WORDS - OVERLAP_WORDS
 
-        for n, start in enumerate(range(0, max(len(words) - OVERLAP_WORDS, 1), step), start=1):
-            chunk = words[start:start + PASSAGE_WORDS]
-            record = {
-                "passage_id": f"{path.stem}-p{n:04d}",
-                "source_file": path.name,
-                **details,
-                "page_start": chunk[0][1],
-                "page_end": chunk[-1][1],
-                "word_count": len(chunk),
-            }
-            writer.writerow(record)
-            jsonl.write(json.dumps({**record, "text": " ".join(w for w, _ in chunk)}, ensure_ascii=False) + "\n")
-            total += 1
+            for n, start in enumerate(range(0, max(len(words) - OVERLAP_WORDS, 1), step), start=1):
+                chunk = words[start:start + PASSAGE_WORDS]
+                record = {
+                    "passage_id": f"{path.stem}-p{n:04d}",
+                    "source_file": path.name,
+                    **details,
+                    "page_start": chunk[0][1],
+                    "page_end": chunk[-1][1],
+                    "word_count": len(chunk),
+                }
+                writer.writerow(record)
+                jsonl.write(json.dumps({**record, "text": " ".join(w for w, _ in chunk)}, ensure_ascii=False) + "\n")
+                total += 1
 
-print(f"Done: {total} passages from {len(files)} files, saved in '{OUTPUT_DIR}'")
+    print(f"Done: {total} passages from {len(files)} files, saved in '{OUTPUT_DIR}'")

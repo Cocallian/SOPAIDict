@@ -1,19 +1,19 @@
 """
 Turn the SAHPRA passages into vectors with BGE, then test a search.
 
-Input:   PreProcessingSAHPRAGuidelines/PreProcessesV1/passages.jsonl  (made by TextCleanUp.py)
-Output (same folder):
+Input:   PreProcessing/Raw_Text/passages.jsonl  (made by PyPDF.py)
+Output (PreProcessing/Embeds):
   passage_vectors.npy   one row of 384 numbers per passage
   passage_ids.json      the passage_id for each row, in the same order
 """
 
 import json
 from pathlib import Path
-
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
-FOLDER = Path(__file__).parent / "PreProcessingSAHPRAGuidelines" / "PreProcessesV1"
+FOLDER = Path(__file__).parent / "PreProcessing" / "Raw_Text"
+OUTPUT = Path(__file__).parent / "PreProcessing" / "Embeds"   # where the vectors and ids are saved
 MODEL_NAME = "BAAI/bge-small-en-v1.5"     # same model as the Colab notebook, so the vectors match
 QUERY_PREFIX = "Represent this sentence for searching relevant passages: "   # BGE wants this on questions only
 
@@ -27,8 +27,9 @@ embedder = SentenceTransformer(MODEL_NAME, device="cpu")   # "cuda" if you have 
 vectors = embedder.encode([p["text"] for p in passages], batch_size=16,
                           normalize_embeddings=True, show_progress_bar=True)
 
-np.save(FOLDER / "passage_vectors.npy", vectors)
-with open(FOLDER / "passage_ids.json", "w", encoding="utf-8") as f:
+OUTPUT.mkdir(exist_ok=True)
+np.save(OUTPUT / "passage_vectors.npy", vectors)
+with open(OUTPUT / "passage_ids.json", "w", encoding="utf-8") as f:
     json.dump([p["passage_id"] for p in passages], f)
 print("Saved vectors:", vectors.shape)
 

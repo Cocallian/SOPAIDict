@@ -1,5 +1,6 @@
 <?php
 session_start();
+$secrets = parse_ini_file(__DIR__ . "/passwords.txt");   // MySQL login and Python paths (kept out of the code)
 $_SESSION["perm"] = "";
 $uname = "";
 $pass = "";
@@ -16,7 +17,7 @@ if (isset($_POST["uname"]) && isset($_POST["pass"]) && trim($_POST["uname"]) != 
 
     try
         {
-            $conn = new mysqli("127.0.0.1", "root", "Wozmaniak123");
+            $conn = new mysqli($secrets["db_host"], $secrets["db_user"], $secrets["db_pass"]);
         }
         catch(mysqli_sql_exception)
         {

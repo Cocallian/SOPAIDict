@@ -1,19 +1,20 @@
 <?php
 session_start();
+$secrets = parse_ini_file(__DIR__ . "/passwords.txt");   // MySQL login and Python paths (kept out of the code)
 if($_SESSION["perm"] != "user")
     {
         header("Location: login.php");
         exit();
     }
-$PYTH = "C:\\Users\\tygra\\AppData\\Local\\Programs\\Python\\Python312\\python.exe";
-$SCRIPT = "C:\\Users\\tygra\\Documents\\Code\\Pythom\\LLM\\LocalAITest.py";
+$PYTH = $secrets["python"];
+$SCRIPT = $secrets["script"];
 
 $q = $_POST['user-input'] ?? '';
 $a = "";
 
         try
         {
-            $conn = new mysqli("127.0.0.1", "root", "Wozmaniak123");
+            $conn = new mysqli($secrets["db_host"], $secrets["db_user"], $secrets["db_pass"]);
             $conn->select_db("SOPAgent");
         }
         catch(mysqli_sql_exception)
