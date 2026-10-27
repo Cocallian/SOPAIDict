@@ -27,6 +27,7 @@ If you would like to implement this agent in your own envrionment check out the 
 <li>Connect colab and a front end php file</li>
 <li>Agent optimization settings and user changes for cut-off answers</li>
 <li>User priority queue implementation</li>
+<li>Update Getting Started guide</li>
 </ul>
 <br/>
 <br/>
