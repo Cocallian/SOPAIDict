@@ -1,6 +1,6 @@
 <?php
 session_start();
-$secrets = parse_ini_file(__DIR__ . "/passwords.txt");   // MySQL login and Python paths (kept out of the code)
+$secrets = parse_ini_file(__DIR__ . "/passwords.txt");   // MySQL login (kept out of the code)
 require __DIR__ . "/vendor/autoload.php";
 use CpChart\Data;
 use CpChart\Image;
@@ -9,13 +9,41 @@ if($_SESSION["perm"] != "admin" )
         header("Location: login.php");
         exit();
     }
-$PYTH = $secrets["python"];
-$SCRIPT = $secrets["script"];
+$ASK_URL = "http://127.0.0.1:5000/ask";   // the answer server LocalAITest.py runs
 
 
 $q = $_POST['user-input'] ?? '';
 $a = "";
 
+if(array_key_exists('backup', $_POST)) {
+            // Folder window opens on this PC's desktop (Apache must be started from the XAMPP Control Panel)
+            $pick = 'Add-Type -AssemblyName System.Windows.Forms; '
+                  . '$f = New-Object System.Windows.Forms.FolderBrowserDialog; '
+                  . '$f.Description = "Choose where to save the SOPAgent backup"; '
+                  . 'if($f.ShowDialog((New-Object System.Windows.Forms.Form -Property @{TopMost = $true})) -eq "OK") { $f.SelectedPath }';
+            $folder = trim(shell_exec("powershell -NoProfile -STA -EncodedCommand " . base64_encode(iconv("UTF-8", "UTF-16LE", $pick))) ?? "");
+
+            if($folder !== "")
+                {
+                    $file = $folder . "\\SOPagent" . date("Y-m-d") . ".sql";
+                    $dump = escapeshellarg("C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysqldump.exe")
+                          . " --host=" . escapeshellarg($secrets["db_host"])
+                          . " --user=" . escapeshellarg($secrets["db_user"])
+                          . ($secrets["db_pass"] !== "" ? " --password=" . escapeshellarg($secrets["db_pass"]) : "")
+                          . " --single-transaction --databases SOPAgent"
+                          . " --skip-extended-insert"
+                          . " --result-file=" . escapeshellarg($file) . " 2>&1";
+                    exec($dump, $output, $code);
+                    if($code !== 0)
+                        {
+                            $_SESSION["err"] = "Backup failed: " . implode(" ", $output);
+                        }
+                }
+
+            // Reload as a normal GET so refreshing the page doesn't send the backup again
+            header("Location: adminAgent.php");
+            exit();
+        }
         try
         {
             $conn = new mysqli($secrets["db_host"], $secrets["db_user"], $secrets["db_pass"]);
@@ -56,8 +84,15 @@ if($q !== "")
                     }
             }
 
-        $command = escapeshellarg($PYTH) . " " . escapeshellarg($SCRIPT) . " " . escapeshellarg($q) . " 2>&1";
-    $a = shell_exec($command);
+        // sends the question to the LocalAITest.py server and blocks here until its answer comes back
+        $reply = @file_get_contents($ASK_URL, false, stream_context_create(["http" => [
+            "method"        => "POST",
+            "header"        => "Content-Type: application/x-www-form-urlencoded",
+            "content"       => http_build_query(["question" => $q]),
+            "timeout"       => 300,
+            "ignore_errors" => true,
+        ]]));
+        $a = $reply === false ? "The answer server isn't running. Start LocalAITest.py and try again." : $reply;
 
         if($promptId && $a !== null && trim($a) !== "")
             {
@@ -528,6 +563,9 @@ if($q !== "")
                     <button type="submit">Add user</button>
                 </form>
             </div>
+            <form method="post" style="width: auto;">
+                <button type = "submit" name = "backup" value = "backup">Perform Backup</button>
+            </form>
         </div>
     </div>
 <script>

@@ -15,7 +15,7 @@ If you would like to implement this agent in your own envrionment check out the 
 
 <ul>
 <li>RAG pipeline - 100% </li>
-<li>Agent optimization - 90%</li>
+<li>Agent optimization - 98%</li>
 <li>Front end - 90% (appealing design only)</li>
 <li>Backend database and sign-in - 100%</li>
 </ul>
@@ -25,6 +25,6 @@ If you would like to implement this agent in your own envrionment check out the 
 
 <ul>
 <li>Connect colab and a front end php file</li>
-<li>Agent optimization (possible python server?)</li>
+<li>Agent optimization settings and user changes for cut-off answers</li>
 <li>User priority queue implementation</li>
 </ul>

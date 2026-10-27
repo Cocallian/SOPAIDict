@@ -1,13 +1,12 @@
 <?php
 session_start();
-$secrets = parse_ini_file(__DIR__ . "/passwords.txt");   // MySQL login and Python paths (kept out of the code)
+$secrets = parse_ini_file(__DIR__ . "/passwords.txt");   // MySQL login (kept out of the code)
 if($_SESSION["perm"] != "user")
     {
         header("Location: login.php");
         exit();
     }
-$PYTH = $secrets["python"];
-$SCRIPT = $secrets["script"];
+$ASK_URL = "http://127.0.0.1:5000/ask";   // the answer server LocalAITest.py runs
 
 $q = $_POST['user-input'] ?? '';
 $a = "";
@@ -53,8 +52,15 @@ if($q !== "")
                     }
             }
 
-        $command = escapeshellarg($PYTH) . " " . escapeshellarg($SCRIPT) . " " . escapeshellarg($q) . " 2>&1"; //executes the RAG pipiline via command line (php and python both operate via command line)
-    $a = shell_exec($command);   // blocks here until the script (and Colab, if it uses it) returns
+        // sends the question to the LocalAITest.py server and blocks here until its answer comes back
+        $reply = @file_get_contents($ASK_URL, false, stream_context_create(["http" => [
+            "method"        => "POST",
+            "header"        => "Content-Type: application/x-www-form-urlencoded",
+            "content"       => http_build_query(["question" => $q]),
+            "timeout"       => 300,
+            "ignore_errors" => true,
+        ]]));
+        $a = $reply === false ? "The answer server isn't running. Start LocalAITest.py and try again." : $reply;
 
         // the response is back: save it against the prompt, again with the current date and time
         if($promptId && $a !== null && trim($a) !== "")
