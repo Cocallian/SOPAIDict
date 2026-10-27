@@ -15,6 +15,14 @@ $ASK_URL = "http://127.0.0.1:5000/ask";   // the answer server LocalAITest.py ru
 $q = $_POST['user-input'] ?? '';
 $a = "";
 
+if(array_key_exists('logout', $_POST))
+    {
+        $_SESSION["perm"] = "";    // "" means not logged in, the same as dataconn.php uses
+        $_SESSION["uname"] = "";
+        header("Location: login.php");
+        exit();
+    }
+
 if(array_key_exists('backup', $_POST)) {
             // Folder window opens on this PC's desktop (Apache must be started from the XAMPP Control Panel)
             $pick = 'Add-Type -AssemblyName System.Windows.Forms; '
@@ -37,6 +45,8 @@ if(array_key_exists('backup', $_POST)) {
                     if($code !== 0)
                         {
                             $_SESSION["err"] = "Backup failed: " . implode(" ", $output);
+                        }else{
+                            $_SESSION["err"] = "Database successfully backed up to: " . $folder;
                         }
                 }
 
@@ -53,6 +63,88 @@ if(array_key_exists('backup', $_POST)) {
         {
             $_SESSION["err"] = "Database connection error, contact your system administrator for assistance";
         }
+
+if(array_key_exists('add-user', $_POST) && isset($conn))
+    {
+        $newName = trim($_POST["name"] ?? "");
+        $newHash = hash("sha256", $_POST["password"] ?? "");
+        $isAdmin = ($_POST["role"] ?? "") === "admin";
+
+        // dataconn.php decides admin or user by the username, so the name has to match the role
+        if($isAdmin && substr($newName, 0, 5) !== "admin")
+            {
+                $_SESSION["err"] = "Admin usernames must start with \"admin\"";
+            }
+        else if(!$isAdmin && substr($newName, 0, 5) === "admin")
+            {
+                $_SESSION["err"] = "User usernames can't start with \"admin\"";
+            }
+        else
+            {
+                try
+                    {
+                        $stmt = $conn->prepare($isAdmin ? "INSERT INTO Admins (Username, PasswordHash) VALUES (?, ?)"
+                                                        : "INSERT INTO Users (Username, PasswordHash) VALUES (?, ?)");
+                        $stmt->bind_param("ss", $newName, $newHash);
+                        $stmt->execute();
+                        $stmt->close();
+                        $_SESSION["err"] = ($isAdmin ? "Admin " : "User ") . $newName . " added";
+                    }
+                catch(mysqli_sql_exception $e)
+                    {
+                        $_SESSION["err"] = $e->getCode() == 1062 ? "The username " . $newName . " already exists"
+                                                                 : "The user could not be added to the database";
+                    }
+            }
+
+        // Reload as a normal GET so refreshing the page doesn't add the user again
+        header("Location: adminAgent.php");
+        exit();
+    }
+
+if(array_key_exists('del-user', $_POST) && isset($conn))
+    {
+        $dname = trim($_POST["dname"]);
+
+        try{
+
+        $stmt = $conn->prepare("SELECT 1 FROM Users WHERE Username = ?");
+        $stmt->bind_param("s", $dname);
+        $stmt->execute();
+        $stmt->store_result();
+        $count = $stmt->num_rows;
+        $stmt->close();
+            if($count < 1)
+            {
+                $_SESSION["err"] = "No user found with that name";
+            }elseif($count > 1)
+            {
+                $_SESSION["err"] = "More than one user with that name, delete it manually via sql statement in MySQL workbench";
+            }else{
+                try{
+                $stmt = $conn->prepare("DELETE FROM Users WHERE Username = ?");
+                $stmt->bind_param("s", $dname);
+                $stmt->execute();
+                $stmt->close();
+            }catch(mysqli_sql_exception $e)
+            {
+                $_SESSION["err"] = "Database connection error: " . $e;
+            }
+            }
+        }catch(mysqli_sql_exception $e)
+        {
+            $_SESSION["err"] = "Database connection error: " . $e;
+        }
+
+        
+
+        
+
+            
+            
+
+
+    }
 
 if($q !== "")
     {
@@ -88,7 +180,7 @@ if($q !== "")
         $reply = @file_get_contents($ASK_URL, false, stream_context_create(["http" => [
             "method"        => "POST",
             "header"        => "Content-Type: application/x-www-form-urlencoded",
-            "content"       => http_build_query(["question" => $q]),
+            "content"       => http_build_query(["question" => $q, "role" => "admin"]),   // admins are answered before users
             "timeout"       => 300,
             "ignore_errors" => true,
         ]]));
@@ -438,7 +530,7 @@ if($q !== "")
             margin-bottom: 12px;
         }
         .panel-box input[type="text"],
-        .panel-box input[type="email"],
+        .panel-box input[type="password"],
         .panel-box select {
             display: block;
             width: 100%;
@@ -547,12 +639,12 @@ if($q !== "")
 
             <div class="panel-box">
                 <h3>Add new user</h3>
-                <form id="new-user-form" onsubmit="event.preventDefault()">
-                    <label>Name
-                        <input type="text" name="name" required>
+                <form id="new-user-form" method="post" style="width: auto;">
+                    <label>Username
+                        <input type="text" name="name" maxlength="50" required>
                     </label>
-                    <label>Email
-                        <input type="email" name="email" required>
+                    <label>Password
+                        <input type="password" name="password" required>
                     </label>
                     <label>Role
                         <select name="role">
@@ -560,12 +652,26 @@ if($q !== "")
                             <option value="admin">Admin</option>
                         </select>
                     </label>
-                    <button type="submit">Add user</button>
+                    <button type="submit" name="add-user" value="add-user">Add user</button>
                 </form>
             </div>
+            <div class="panel-box">
+                <h3>Delete User</h3>
+                <form id="del-user" method="post" style="width: auto;">
+                    <label>Username
+                        <input type="text" name="dname" maxlength="50" required>
+                    </label>
+                    <button type="submit" name="del-user" value="del-user">Delete user</button>
+                </form>
+            </div>
+            <div class = "panel-box">
             <form method="post" style="width: auto;">
                 <button type = "submit" name = "backup" value = "backup">Perform Backup</button>
             </form>
+            <form method="post" style="width: auto; margin-top: 15px;">
+                <button type = "submit" name = "logout" value = "logout">Log out</button>
+            </form>
+            </div>
         </div>
     </div>
 <script>

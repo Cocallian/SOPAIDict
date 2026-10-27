@@ -1,5 +1,8 @@
-import os, sys, json, warnings
+import os, sys, json, warnings, threading
+from dataclasses import dataclass, field
+from itertools import count
 from pathlib import Path
+from queue import PriorityQueue
 
 # keep Hugging Face warnings and progress bars out of the terminal
 os.environ["HF_HUB_OFFLINE"] = "1"                     # the model is already downloaded, so don't check online
@@ -20,6 +23,7 @@ PASSAGES_FOLDER = Path(__file__).parent / "PreProcessing" / "Raw_Text"   # passa
 VECTORS_FOLDER = Path(__file__).parent / "PreProcessing" / "Embeds"     # passage_vectors.npy from EmbedScript.py
 TOP_K = 3                                              # passages given to Qwen; raise num_ctx if you raise this
 PORT = 5000                                            # Agent.php and adminAgent.php send questions to this port
+PRIORITIES = {"admin": 0, "user": 1}                   # lower numbers are answered first
 
 with open(Path(__file__).parent / "config.json", encoding="utf-8") as f:
     ORG_NAME = json.load(f)["ORG_NAME"]                 # the organisation named in the prompt below
@@ -61,7 +65,7 @@ def answer(question):
             "stream": False,
             "think": False,
             "keep_alive": "1h",
-            "options": {"num_ctx": 2000, "temperature": 0.2, "num_predict" : 300},   # small context window = less memory; low temperature = sticks to the sources
+            "options": {"num_ctx": 2000, "temperature": 0.2, "num_predict" : 300},   # small context window = less memory; low temperature = sticks to the sources; predict = length of answer
         }, timeout=300)
     except requests.ConnectionError:
         return "Ollama isn't running. Start the Ollama app and try again."
@@ -77,18 +81,51 @@ def answer(question):
     return f"{data['message']['content']}\n\nSources:\n{labels}"
 
 
+# ---- Priority queue: questions wait here and are answered one at a time, admins first ----
+
+@dataclass(order=True)
+class QueuedQuestion:
+    priority: int                                      # from PRIORITIES; the queue sorts on this first
+    arrival_number: int                                # then on this, so equal priorities are answered first come, first served
+    question: str = field(compare=False)
+    answered: threading.Event = field(default_factory=threading.Event, compare=False)   # set once the answer is ready
+    answer: str = field(default="", compare=False)
+
+
+question_queue = PriorityQueue()
+arrival_numbers = count()                             
+
+
+def answer_P():
+    # Runs forever in its own thread: take the most important waiting question, answer it, repeat
+    while True:
+        waiting = question_queue.get()                 # blocks until a question is waiting
+        try:
+            waiting.answer = answer(waiting.question)
+        except Exception as error:                     # one bad question mustn't stop the queue
+            waiting.answer = f"Something went wrong while answering: {error}"
+        waiting.answered.set()                         # wakes up the /ask request that is waiting for this answer
+
+
 app = Flask(__name__)
 
 
 @app.post("/ask")
 def ask():
-    # Agent.php and adminAgent.php post the question as the form field "question" and show the text that comes back
+    # Agent.php and adminAgent.php post the question as "question" and the asker's role ("admin" or "user") as "role"
     question = request.form.get("question", "").strip()
     if not question:
         return "No question was sent.", 400
-    return answer(question), 200, {"Content-Type": "text/plain; charset=utf-8"}
+
+    priority = PRIORITIES.get(request.form.get("role"), PRIORITIES["user"])   # anything unknown is treated as a user
+    queued = QueuedQuestion(priority, next(arrival_numbers), question)
+    question_queue.put(queued)
+    queued.answered.wait()                             # wait here until the worker thread has answered it
+
+    return queued.answer, 200, {"Content-Type": "text/plain; charset=utf-8"}
 
 
 if __name__ == "__main__":
+    threading.Thread(target=answer_P, daemon=True).start()
     print(f"Answer server ready on http://127.0.0.1:{PORT}/ask - leave this window open while the website is in use")
     app.run(host="127.0.0.1", port=PORT, threaded=True)

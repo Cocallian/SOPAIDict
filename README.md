@@ -6,7 +6,7 @@ BEWARE: this does download files from this repository onto your drive, they are 
 <br></br>
 <b>TO NOTE:</b>
 <br></br>
-If you would like to implement this agent in your own envrionment check out the getting started guide (possible launcher or installer soon)
+If you would like to implement this agent in your own envrionment check out the getting started guide (possible executables for setup and running)
 <br>
 
 <hr></hr>
@@ -28,3 +28,20 @@ If you would like to implement this agent in your own envrionment check out the 
 <li>Agent optimization settings and user changes for cut-off answers</li>
 <li>User priority queue implementation</li>
 </ul>
+<br/>
+<br/>
+
+<hr></hr>
+<h1>DISCLAIMER:</h1>
+
+<ul>
+<li>This project makes use of the SAHPRA guidelines at https://www.sahpra.org.za/guidelines/</li>
+<li>The use of these guidelines are entirely for demonstration purposes only</li>
+<li>I do not own the material (guideline pdfs) used here or represent SAHPRA in any way shape or form</li>
+<li>I stand to make no profit or revenue off of the use of these guidelines</li>
+<li>SAHPRA is the sole owner and distributer of their intellectual property</li>
+
+
+</ul>
+</br>
+Please do not sue me.

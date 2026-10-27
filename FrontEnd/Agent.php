@@ -11,6 +11,14 @@ $ASK_URL = "http://127.0.0.1:5000/ask";   // the answer server LocalAITest.py ru
 $q = $_POST['user-input'] ?? '';
 $a = "";
 
+if(array_key_exists('logout', $_POST))
+    {
+        $_SESSION["perm"] = "";    // "" means not logged in, the same as dataconn.php uses
+        $_SESSION["uname"] = "";
+        header("Location: login.php");
+        exit();
+    }
+
         try
         {
             $conn = new mysqli($secrets["db_host"], $secrets["db_user"], $secrets["db_pass"]);
@@ -56,7 +64,7 @@ if($q !== "")
         $reply = @file_get_contents($ASK_URL, false, stream_context_create(["http" => [
             "method"        => "POST",
             "header"        => "Content-Type: application/x-www-form-urlencoded",
-            "content"       => http_build_query(["question" => $q]),
+            "content"       => http_build_query(["question" => $q, "role" => "user"]),   // users wait behind any admin questions
             "timeout"       => 300,
             "ignore_errors" => true,
         ]]));
@@ -134,8 +142,15 @@ if($q !== "")
                 
 
                 
-            
+
             }
+        }
+
+        // opens or closes the pop-out menu
+        function togglePanel(open)
+        {
+            document.getElementById("panel").classList.toggle("open", open);
+            document.getElementById("close-btn").classList.toggle("show", open);
         }
     </script>
     <style>
@@ -195,6 +210,87 @@ if($q !== "")
             font: inherit;
         }
 
+        /* pop-out menu, the same as the admin page's */
+        #menu-btn {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            width: 44px;
+            height: 44px;
+            padding: 11px 9px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            z-index: 10;
+        }
+        #menu-btn span {
+            display: block;
+            height: 4px;
+            border-radius: 2px;
+            background-color: white;
+        }
+
+        #close-btn {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            width: 44px;
+            height: 44px;
+            display: none;
+            background: transparent;
+            border: none;
+            color: white;
+            font-size: 36px;
+            line-height: 1;
+            cursor: pointer;
+            z-index: 30;
+        }
+        #close-btn.show {
+            display: block;
+        }
+
+        #panel {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 92vw;
+            height: 100vh;
+            padding: 80px 40px 40px;
+            overflow-y: auto;
+            background-color: #232323;
+            color: white;
+            box-shadow: 4px 0 20px rgba(0, 0, 0, 0.6);
+            transform: translateX(-100%);
+            visibility: hidden;
+            transition: transform 0.35s ease, visibility 0s linear 0.35s;
+            z-index: 20;
+        }
+        #panel.open {
+            transform: translateX(0);
+            visibility: visible;
+            transition: transform 0.35s ease, visibility 0s;
+        }
+        #panel h2 {
+            margin: 0 0 20px;
+        }
+        .panel-box {
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #312f2f;
+        }
+        .panel-box button[type="submit"] {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            background-color: dimgrey;
+            color: white;
+            font: inherit;
+            cursor: pointer;
+        }
+
         /* popup for errors (e.g. database connection) */
         #errPopup {
             position: fixed;
@@ -245,6 +341,20 @@ if($q !== "")
         <button type="submit" tabindex="-1" hidden>Submit</button>
 
     </form>
+
+    <button id="menu-btn" type="button" aria-label="Open menu" onclick="togglePanel(true)">
+        <span></span><span></span><span></span>
+    </button>
+    <button id="close-btn" type="button" aria-label="Close menu" onclick="togglePanel(false)">&times;</button>
+
+    <div id="panel">
+        <h2>Menu</h2>
+        <div class="panel-box">
+            <form method="post" style="width: auto;">
+                <button type="submit" name="logout" value="logout">Log out</button>
+            </form>
+        </div>
+    </div>
 <script>
     // Close the popup on click, or automatically after 5 seconds
     const popup = document.getElementById("errPopup");
