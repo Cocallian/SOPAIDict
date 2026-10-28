@@ -1,0 +1,19 @@
+# Python packages for the SOP assistant. Install them all from the main LLM folder with:
+#   py -m pip install -r requirements.txt
+# The versions are minimums the project has been tested with.
+
+# Preparing SOPs (PreProcessing folder)
+pymupdf >= 1.24               # PyPDF.py reads the text out of PDFs
+crossfiledialog >= 1.3        # PyPDF.py opens a window to choose your SOP folder
+beautifulsoup4 >= 4.12        # DownloadAll.py only (downloading SAHPRA's public guidelines)
+
+# Embedding and answering
+sentence-transformers >= 3.0  # EmbedScript.py and LocalAIServ.py run the embedding model; also installs PyTorch (large download)
+numpy >= 2.0                  # storing and searching the vectors
+requests >= 2.31              # LocalAIServ.py talks to Ollama; DownloadAll.py
+flask >= 3.0                  # LocalAIServ.py, the answer server the website sends questions to
+
+# Tools
+psutil >= 5.9                 # SysInfo.py
+py-cpuinfo >= 9.0             # SysInfo.py
+pyinstaller >= 6.0            # only for building ScheduleBackup.exe

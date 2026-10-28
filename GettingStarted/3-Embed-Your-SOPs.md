@@ -6,7 +6,7 @@ The embedding model is **BGE** (`BAAI/bge-small-en-v1.5`). It runs on your own P
 
 ## 3.1 Run `EmbedScript.py`
 
-Run it from the main `LLM` folder:
+This is the one step that runs with Python rather than as an `.exe`. Run it from the main `LLM` folder:
 
 ```powershell
 cd "C:\path\to\LLM"
@@ -24,33 +24,33 @@ It reads `PreProcessing/Raw_Text/passages.jsonl` from step 2 and writes two file
 | `passage_vectors.npy` | The vectors, one row per passage |
 | `passage_ids.json` | Which passage each row belongs to, in the same order |
 
-**Check:** both files are in `PreProcessing/Embeds`, and the first number in `Saved vectors: (…, 384)` matches the passage count from `TextCleanUp.py`.
+**Check:** both files are in `PreProcessing/Embeds`, and the first number in `Saved vectors: (…, 384)` matches the passage count from `TextCleanUp.exe`.
 
 ## 3.2 Run it on the PC that will answer questions
 
-`LocalAITest.py`, which answers questions on your PC, deliberately runs offline. It uses the copy of BGE this step downloaded, and doesn't go online to check for updates. So run `EmbedScript.py` at least once on the PC that will answer questions, logged in as the same Windows user. Otherwise `LocalAITest.py` stops with an error that it can't find the model.
+`LocalAIServ.exe`, which answers questions on your PC, deliberately runs offline. It uses the copy of BGE this step downloaded, and doesn't go online to check for updates. So run `EmbedScript.py` at least once on the PC that will answer questions, logged in as the same Windows user that will run `LocalAIServ.exe`. Otherwise `LocalAIServ.exe` stops with an error that it can't find the model.
 
 ## 3.3 When to run it again
 
-`LocalAITest.py` reads your passages from `Raw_Text` and the vectors from `Embeds`, so there's nothing to copy: once `EmbedScript.py` finishes, the answers use your SOPs.
+`LocalAIServ.exe` reads your passages from `Raw_Text` and the vectors from `Embeds`, so there's nothing to copy. It loads them once when it starts, though, so after `EmbedScript.py` finishes, close `LocalAIServ.exe` and start it again to use the new SOPs.
 
 Run the whole sequence again every time you add, remove or update an SOP:
 
 ```
-clear Raw_Text  →  PyPDF.py  →  TextCleanUp.py  →  EmbedScript.py  →  (Colab only) block 1.2
+clear Raw_Text  →  PyPDF.exe  →  TextCleanUp.exe  →  EmbedScript.py  →  restart LocalAIServ.exe  →  (Colab only) block 1.2
 ```
 
-If you forget a step after `TextCleanUp.py`, the answering scripts notice that the number of passages and vectors don't match. They stop with: *"The passages have changed since they were embedded. Run EmbedScript.py again."*
+If you forget a step after `TextCleanUp.exe`, the answering programs notice that the number of passages and vectors don't match. They stop with: *"The passages have changed since they were embedded. Run EmbedScript.py again."*
 
 ## 3.4 Changing the embedding model
 
 Questions and passages must be embedded by the **same** model, or the search returns nonsense. The model name appears in three places:
 
 - `EmbedScript.py`: `MODEL_NAME`
-- `LocalAITest.py`: `EMBED_MODEL`
+- `LocalAIServ.py` (the source of `LocalAIServ.exe`): `EMBED_MODEL`
 - `ColabTest.ipynb`, block 3: `EMBED_MODEL`
 
-If you switch to another model, for example a multilingual one for non-English SOPs, change all three and run `EmbedScript.py` again.
+If you switch to another model, for example a multilingual one for non-English SOPs, change all three, rebuild `LocalAIServ.exe` ([step 4.1](4-Choose-Local-or-Colab.md#changing-the-answer-servers-settings)) and run `EmbedScript.py` again.
 
 ---
 
