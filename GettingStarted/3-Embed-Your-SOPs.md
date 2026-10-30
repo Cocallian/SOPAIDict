@@ -4,14 +4,10 @@ Embedding turns each passage into a list of 384 numbers (a *vector*) that captur
 
 The embedding model is **BGE** (`BAAI/bge-small-en-v1.5`). It runs on your own PC, so your SOP text isn't sent to an online service.
 
-## 3.1 Run `EmbedScript.py`
+## 3.1 Run `EmbedScript.exe`
 
-This is the one step that runs with Python rather than as an `.exe`. Run it from the main `LLM` folder:
+Run the exe in this project folder, on first run it downloads BGE's small model, it will take around half an hour depending on the size of your dataset
 
-```powershell
-cd "C:\path\to\LLM"
-py EmbedScript.py
-```
 
 - **The first run downloads BGE** from Hugging Face. This is about 130 MB and needs an internet connection. It's saved in a cache folder on your PC, and every later run reuses it.
 - It prints `Loaded … passages`, then shows a progress bar while it embeds every passage. On a laptop CPU this takes several minutes for a couple of thousand passages; SAHPRA's guidelines took close to half an hour.
@@ -28,7 +24,7 @@ It reads `PreProcessing/Raw_Text/passages.jsonl` from step 2 and writes two file
 
 ## 3.2 Run it on the PC that will answer questions
 
-`LocalAIServ.exe`, which answers questions on your PC, deliberately runs offline. It uses the copy of BGE this step downloaded, and doesn't go online to check for updates. So run `EmbedScript.py` at least once on the PC that will answer questions, logged in as the same Windows user that will run `LocalAIServ.exe`. Otherwise `LocalAIServ.exe` stops with an error that it can't find the model.
+`LocalAIServ.exe`, which answers questions on your PC, deliberately runs offline. It uses the copy of BGE this step downloaded, and doesn't go online to check for updates. So run `EmbedScript.exe` at least once on the PC that will answer questions, logged in as the same Windows user that will run `LocalAIServ.exe`. Otherwise `LocalAIServ.exe` stops with an error that it can't find the model.
 
 ## 3.3 When to run it again
 

@@ -6,17 +6,31 @@ if($_SESSION["perm"] != "user")
         header("Location: login.php");
         exit();
     }
+require __DIR__ . "/activeusers.php";
 $ASK_URL = "http://127.0.0.1:5000/ask";   // the answer server LocalAITest.py runs
-
+$_SESSION["LastSeen"] = time();
 $q = $_POST['user-input'] ?? '';
 $a = "";
 
-if(array_key_exists('logout', $_POST))
+
+function LogOut($conn, $userN)
     {
         $_SESSION["perm"] = "";    // "" means not logged in, the same as dataconn.php uses
         $_SESSION["uname"] = "";
-        header("Location: login.php");
-        exit();
+        // validation.js sends reason=inactive when the 15 minutes ran out, a click on Log out sends nothing
+        writeLog($conn, $userN, "user", ($_POST["reason"] ?? "") === "inactive" ? "inactive" : "logout");
+        try{
+            $stmt = $conn->prepare("DELETE FROM ActiveUsers WHERE Username = ?");
+                $stmt->bind_param("s", $userN);
+                $stmt->execute();
+                $stmt->close();
+                header("Location: login.php");
+                exit();
+        }catch(mysqli_sql_exception $e)
+        {
+            header("Location: inactive.php");
+            exit();
+        }
     }
 
         try
@@ -28,6 +42,24 @@ if(array_key_exists('logout', $_POST))
         {
             $_SESSION["err"] = "Database connection error, contact your system administrator for assistance";
         }
+
+// Needs the database connection above, so it can't sit with the function
+if(array_key_exists('logout', $_POST))
+    {
+        $userN = $_SESSION["uname"] ?? "";
+        if(isset($conn)) { LogOut($conn, $userN); }
+        $_SESSION["perm"] = "";    // no database to tidy up, just log out
+        $_SESSION["uname"] = "";
+        header("Location: login.php");
+        exit();
+    }
+
+// validation.js asks every so often whether this session is still in use, it only needs LastSeen refreshed
+if(array_key_exists('touch', $_POST))
+    {
+        if(isset($conn)) { touchActiveUser($conn, $_SESSION["uname"]); }
+        exit();
+    }
 
 if($q !== "")
     {
@@ -64,7 +96,7 @@ if($q !== "")
         $reply = @file_get_contents($ASK_URL, false, stream_context_create(["http" => [
             "method"        => "POST",
             "header"        => "Content-Type: application/x-www-form-urlencoded",
-            "content"       => http_build_query(["question" => $q, "role" => "user"]),   // users wait behind any admin questions
+            "content"       => http_build_query(["question" => $q, "role" => "user", "ip" => $_SERVER["REMOTE_ADDR"], "user" => $_SESSION["uname"] ?? ""]),   // users wait behind any admin questions
             "timeout"       => 300,
             "ignore_errors" => true,
         ]]));
@@ -84,8 +116,67 @@ if($q !== "")
                     {
                         $_SESSION["err"] = "The response could not be saved to the database";
                     }
+
+                // LocalAIServ.py ends every answer with "Sources:" and one "[n] document number: title, p. x" line per passage,
+                // what is kept is "document number: title", without the [n] and the page numbers
+                $titles = [];
+                if(preg_match('/\n\nSources:\n(.+)$/s', $a, $block))
+                    {
+                        foreach(explode("\n", trim($block[1])) as $line)
+                            {
+                                if(preg_match('/^\[\d+\] (.+), pp?\. [\d-]+$/', trim($line), $parts)) { $titles[] = $parts[1]; }
+                            }
+                    }
+
+                try
+                    {
+                        $stmt = $conn->prepare("INSERT INTO SourcedDocuments (PromptId, UserId, Title, SourcedAt) VALUES (?, ?, ?, NOW())");
+                        foreach(array_unique($titles) as $title)
+                            {
+                                $stmt->bind_param("iis", $promptId, $userId, $title);
+                                $stmt->execute();
+                            }
+                        $stmt->close();
+                    }
+                catch(mysqli_sql_exception)
+                    {
+                        $_SESSION["err"] = "The source documents could not be saved to the database";
+                    }
             }
     }
+
+    // This user's questions and answers, newest first, for the Prompt history table in the menu
+    $history = [];
+    if(isset($conn))
+        {
+            try
+                {
+                    $uname = $_SESSION["uname"] ?? "";
+                    $stmt = $conn->prepare("SELECT p.PromptText, r.ResponseText, p.CreatedAt
+                                            FROM Prompts p
+                                            JOIN Users u ON u.UserId = p.UserId
+                                            LEFT JOIN Responses r ON r.PromptId = p.PromptId
+                                            WHERE u.Username = ?
+                                            ORDER BY p.CreatedAt DESC, p.PromptId DESC");
+                    $stmt->bind_param("s", $uname);
+                    $stmt->execute();
+                    $stmt->bind_result($question, $answer, $askedAt);
+                    while($stmt->fetch())
+                        {
+                            $history[] = ["question" => $question, "answer" => $answer, "askedAt" => $askedAt];
+                        }
+                    $stmt->close();
+                }
+            catch(mysqli_sql_exception)
+                {
+                    $_SESSION["err"] = "Your prompt history could not be loaded";
+                }
+        }
+
+        if(isset($conn))
+            {
+                touchActiveUser($conn, $_SESSION["uname"]);
+            }
 
     // Read the error, then clear it so it only shows once
     $err = $_SESSION["err"] ?? "";
@@ -96,63 +187,8 @@ if($q !== "")
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <script>
-
-        const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
-
-        function CArr(arr, num)
-        {
-            const leng = arr.length;
-            var safe = ((num % leng) + leng) % leng;
-            return arr[safe];
-        }
-        function startSearch(e)
-        {
-            e.preventDefault();                       // hold the submit back for a moment
-            if(!document.getElementById("user-input").value.trim()) return;
-            throb();                                  // paints the first frame
-            setTimeout(() => e.target.submit(), 100); // then post to PHP
-        }
-
-        async function throb()
-        {
-            const ta = document.getElementById("ta");
-            ta.style.fontFamily = "Consolas, 'Courier New', monospace"; // equal-width characters while throbbing
-            const ani1 = ["▖", "▘","▝" ,"▗", "▖", "▘","▝" ,"▗"]; 
-            const ani2 = ["▞", "▚", "▞", "▚", "▞", "▚", "▞", "▚"];
-            const ani3 = ["▙", "▛", "▜", "▟", "▙", "▛", "▜", "▟"];  
-            const ani4 = ["◣", "◤", "◥", "◢", "◣", "◤", "◥", "◢"];
-            const ani5 = ["◱", "◰", "◳", "◲", "◱", "◰", "◳", "◲"];
-            const ani6 = ["◒", "◐", "◓", "◑", "◒", "◐", "◓", "◑"];
-            const ani7 = ["__", "|", "▔", " |", "__", "|", "▔", " |"];
-            const ani8 = ["◟", "◜", "◠", "◝", "◞", "◡", "◟", "◜", "◠", "◝", "◞", "◡"];
-            const sizes = [ani1, ani2, ani3, ani4, ani5, ani6, ani7, ani8];
-            const min = 0;
-            const max = sizes.length - 1;
-            // runs until the page reloads with the answer
-            while(true)
-            {
-                var rng = Math.floor(Math.random() * (max - min + 1)) + min;
-                const sel = rng;
-                for(var i = 0; i < sizes[sel].length * 2; i++)
-                {
-                    ta.value = "\n Searching database and generating a response..." + CArr(sizes[sel], i);
-                    await sleep(150);
-                }
-                
-
-                
-
-            }
-        }
-
-        // opens or closes the pop-out menu
-        function togglePanel(open)
-        {
-            document.getElementById("panel").classList.toggle("open", open);
-            document.getElementById("close-btn").classList.toggle("show", open);
-        }
-    </script>
+    <script src="idle.js?v=<?php echo filemtime(__DIR__ . "/idle.js"); ?>" defer></script>
+    <script src="validation.js?v=<?php echo filemtime(__DIR__ . "/validation.js"); ?>" defer></script>
     <style>
         * {
             box-sizing: border-box;
@@ -281,7 +317,10 @@ if($q !== "")
             border-radius: 10px;
             background-color: #312f2f;
         }
-        .panel-box button[type="submit"] {
+        .panel-box + .panel-box {
+            margin-top: 20px;
+        }
+        .panel-box button {
             padding: 10px 20px;
             border: none;
             border-radius: 8px;
@@ -289,6 +328,38 @@ if($q !== "")
             color: white;
             font: inherit;
             cursor: pointer;
+        }
+
+        /* Prompt history table, hidden until its button is pressed */
+        #history {
+            display: none;
+            margin-top: 15px;
+            max-height: 60vh;
+            overflow-y: auto;
+        }
+        #history.show {
+            display: block;
+        }
+        #history table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        #history th, #history td {
+            padding: 10px;
+            text-align: left;
+            vertical-align: top;
+            border-bottom: 1px solid dimgrey;
+        }
+        #history th {
+            position: sticky;   /* headings stay visible while scrolling */
+            top: 0;
+            background-color: #312f2f;
+        }
+        #history td {
+            white-space: pre-wrap;   /* keeps the answers' line breaks */
+        }
+        #history td.when {
+            white-space: nowrap;
         }
 
         /* popup for errors (e.g. database connection) */
@@ -317,6 +388,34 @@ if($q !== "")
             font-size: 20px;
             cursor: pointer;
         }
+
+        /* Transparent gray layer over the whole page, hidden until validation.js shows it */
+        #gray-out {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background-color: rgba(35, 35, 35, 0.7);
+            z-index: 2000;
+        }
+        /* The box sits in the middle of the screen, on top of the gray layer */
+        #inactiveBox {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 360px;
+            max-width: calc(100% - 32px);
+            padding: 45px;
+            text-align: center;
+            border-radius: 10px;
+            background-color: #312f2f;
+            box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+            color: white;
+            z-index: 2001;
+        }
     </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -334,7 +433,7 @@ if($q !== "")
 <?php endif; ?>
 
 <div id="res">
-    <textarea id = "ta" readonly>Welcome to the SOP RAG agent, type below to start querying the agent<?php echo htmlspecialchars($a); ?></textarea>
+    <textarea id = "ta" readonly><?php echo $a === "" ? "Welcome to the SOP RAG agent, type below to start querying the agent" : htmlspecialchars($a); ?></textarea>
 </div>
     <form method = "post" onsubmit = "startSearch(event)">
         <input type="text" id="user-input" name="user-input" autofocus>
@@ -350,22 +449,37 @@ if($q !== "")
     <div id="panel">
         <h2>Menu</h2>
         <div class="panel-box">
+            <button type="button" onclick="toggleHistory()">Prompt history</button>
+            <div id="history">
+                <?php if (count($history) === 0): ?>
+                    <p>You haven't asked any questions yet.</p>
+                <?php else: ?>
+                    <table>
+                        <tr><th>Question</th><th>Answer</th><th>Date and time</th></tr>
+                        <?php foreach ($history as $row): ?>
+                            <tr>
+                                <td><?php echo htmlspecialchars($row["question"]); ?></td>
+                                <td><?php echo htmlspecialchars($row["answer"] ?? "No answer was saved"); ?></td>
+                                <td class="when"><?php echo date("Y-m-d H:i", strtotime($row["askedAt"])); ?></td>
+                            </tr>
+                        <?php endforeach; ?>
+                    </table>
+                <?php endif; ?>
+            </div>
+        </div>
+        <div class="panel-box">
             <form method="post" style="width: auto;">
                 <button type="submit" name="logout" value="logout">Log out</button>
             </form>
         </div>
     </div>
-<script>
-    // Close the popup on click, or automatically after 5 seconds
-    const popup = document.getElementById("errPopup");
-    if (popup) {
-        document.getElementById("closePopup").addEventListener("click", function () {
-            popup.classList.add("hidden");
-        });
-        setTimeout(function () {
-            popup.classList.add("hidden");
-        }, 5000);
-    }
-</script>
+
+    <div id = "gray-out">
+        <div id = "inactiveBox">
+            You have been detected as inactive, you will be logged out in : <span id="inactiveCountdown"></span>
+                </br>
+                Move your mouse or click/tap anywhere to reactivate the page.
+        </div>
+    </div>
 </body>
 </html>

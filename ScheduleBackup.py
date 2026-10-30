@@ -42,3 +42,9 @@ dump = subprocess.run(command, capture_output=True, text=True)
 if dump.returncode != 0:
     sys.exit("Backup failed: " + dump.stderr.strip())
 print("Database backed up to", backup_file)
+
+# Remember the chosen folder, so later runs (and Task Scheduler) don't ask again
+if data["BACKUP_PATH"] == "":
+    data["BACKUP_PATH"] = PATH_URL
+    with open(PROJECT / "config.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4)

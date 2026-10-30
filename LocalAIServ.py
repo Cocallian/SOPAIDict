@@ -1,4 +1,5 @@
 import os, sys, json, warnings, threading
+from datetime import datetime
 from dataclasses import dataclass, field
 from itertools import count
 from pathlib import Path
@@ -14,19 +15,27 @@ warnings.filterwarnings("ignore")
 import numpy as np
 import requests
 from flask import Flask, request
+from reportapi import register_report_routes
 from sentence_transformers import SentenceTransformer
 
-MODEL = "qwen3.5:0.8b"
-EMBED_MODEL = "BAAI/bge-small-en-v1.5"                 # must be the same model EmbedScript.py used
-QUERY_PREFIX = "Represent this sentence for searching relevant passages: "   # BGE wants this on questions only
-PASSAGES_FOLDER = Path(__file__).parent / "PreProcessing" / "Raw_Text"   # passages.jsonl from TextCleanUp.py
-VECTORS_FOLDER = Path(__file__).parent / "PreProcessing" / "Embeds"     # passage_vectors.npy from EmbedScript.py
-TOP_K = 3                                              # passages given to Qwen; raise num_ctx if you raise this
-PORT = 5000                                            # Agent.php and adminAgent.php send questions to this port
-PRIORITIES = {"admin": 0, "user": 1}                   # lower numbers are answered first
+PROJECT = Path(sys.executable).parent if getattr(sys, "frozen", False) else Path(__file__).parent   # next to the .exe when built with PyInstaller
 
-with open(Path(__file__).parent / "config.json", encoding="utf-8") as f:
-    ORG_NAME = json.load(f)["ORG_NAME"]                 # the organisation named in the prompt below
+# Settings come from config.json; it stores them as text, so the numbers are converted here
+with open(PROJECT / "config.json", encoding="utf-8") as f:
+    config = json.load(f)
+
+ORG_NAME = config["ORG_NAME"]                          # the organisation named in the prompt below
+MODEL = config["MODEL_NAME"]                           # the Ollama model that writes the answers
+EMBED_MODEL = config["EMBED_MODEL"]                    # must be the same model EmbedScript.py used
+TOP_K = int(config["SOURCES"])                         # passages given to Qwen; raise CONTEXT_WINDOW if you raise this
+CONTEXT_WINDOW = int(config["CONTEXT_WINDOW"])         # how much text Qwen can read; smaller = less memory
+TEMPERATURE = float(config["TEMPERATURE"])             # low = sticks to the sources
+ANSWER_LENGTH = int(config["LENGTH"])                  # longest answer Qwen may write, in tokens
+PORT = int(config["PORT"])                             # Agent.php and adminAgent.php send questions to this port
+QUERY_PREFIX = "Represent this sentence for searching relevant passages: "   # BGE wants this on questions only
+PASSAGES_FOLDER = PROJECT / "PreProcessing" / "Raw_Text"   # passages.jsonl from TextCleanUp.py
+VECTORS_FOLDER = PROJECT / "PreProcessing" / "Embeds"      # passage_vectors.npy from EmbedScript.py
+PRIORITIES = {"admin": 0, "user": 1}                   # lower numbers are answered first
 
 # Load the passages, the vectors EmbedScript.py saved for them and the embedder once, when the server starts
 with open(PASSAGES_FOLDER / "passages.jsonl", encoding="utf-8") as f:
@@ -65,7 +74,7 @@ def answer(question):
             "stream": False,
             "think": False,
             "keep_alive": "1h",
-            "options": {"num_ctx": 2000, "temperature": 0.2, "num_predict" : 300},   # small context window = less memory; low temperature = sticks to the sources; predict = length of answer
+            "options": {"num_ctx": CONTEXT_WINDOW, "temperature": TEMPERATURE, "num_predict": ANSWER_LENGTH},
         }, timeout=300)
     except requests.ConnectionError:
         return "Ollama isn't running. Start the Ollama app and try again."
@@ -108,6 +117,7 @@ def answer_P():
 
 
 app = Flask(__name__)
+register_report_routes(app, PROJECT)                   # adds /report, reports.php asks it for the report file
 
 
 @app.post("/ask")
@@ -116,6 +126,10 @@ def ask():
     question = request.form.get("question", "").strip()
     if not question:
         return "No question was sent.", 400
+
+    # PHP passes on who asked, because from here every request just looks like 127.0.0.1
+    print(f"[{datetime.now():%H:%M:%S}] {request.form.get('ip', 'unknown')} "
+          f"({request.form.get('user') or 'unknown user'}, {request.form.get('role', 'user')}): {question}")
 
     priority = PRIORITIES.get(request.form.get("role"), PRIORITIES["user"])   # anything unknown is treated as a user
     queued = QueuedQuestion(priority, next(arrival_numbers), question)
