@@ -33,6 +33,13 @@ If you would like to implement this agent in your own envrionment check out the 
 <br/>
 
 <hr></hr>
+
+<h2>Credits:</h2>
+<ul>
+<li>Use of the idle class for inactivity tracking by Shawnmclean: https://github.com/shawnmclean/Idle.js</li>
+</ul>
+
+<hr></hr>
 <h1>DISCLAIMER:</h1>
 
 <ul>

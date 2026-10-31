@@ -16,6 +16,7 @@ import numpy as np
 import requests
 from flask import Flask, request
 from reportapi import register_report_routes
+from backupapi import register_backup_routes
 from sentence_transformers import SentenceTransformer
 
 PROJECT = Path(sys.executable).parent if getattr(sys, "frozen", False) else Path(__file__).parent   # next to the .exe when built with PyInstaller
@@ -118,6 +119,7 @@ def answer_P():
 
 app = Flask(__name__)
 register_report_routes(app, PROJECT)                   # adds /report, reports.php asks it for the report file
+register_backup_routes(app, PROJECT)                   # adds /drive/backup-database and /drive/backup-system (not implemented yet)
 
 
 @app.post("/ask")
