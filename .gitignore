@@ -13,3 +13,7 @@ PreProcessingSAHPRAGuidelines/DownloadAll.py
 FrontEnd/vendor/
 .tools/
 __pycache__/
+
+# Google Drive sign in (never commit these)
+client_secret*.json
+GoogleDrive/

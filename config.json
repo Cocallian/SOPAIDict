@@ -10,12 +10,13 @@
     "MODEL_NAME": "qwen3.5:0.8b",
     "EMBED_MODEL": "BAAI/bge-small-en-v1.5",
     "PORT": "5000",
-    "BETWEEN_DAYS": "2026-10-27:2026-10-30",
-    "SPECIFIC_WEEK": "2026-10-05:2026-10-11",
+    "OLLAMA_PATH": "%LOCALAPPDATA%\\Programs\\Ollama\\ollama.exe",
+    "BETWEEN_DAYS": "",
+    "SPECIFIC_WEEK": "",
     "MONTH": "2026-10-01:2026-10-31",
-    "MOST_SOURCED": "True",
-    "BUSIEST_DAYS": "True",
+    "MOST_SOURCED": "False",
+    "BUSIEST_DAYS": "False",
     "TOTAL_RESPONSES": "True",
-    "LONGEST_SESSIONS": "True",
-    "REPORT_NAME": "Report_2026-10-30_SBRL"
+    "LONGEST_SESSIONS": "False",
+    "REPORT_NAME": "Report_2026-11-02_R"
 }

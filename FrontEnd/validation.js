@@ -228,6 +228,197 @@ for (const [id, closeId] of [["errPopup", "closePopup"], ["successPopup", "close
     }
 }
 
+// Backup buttons (adminAgent.php): ask for the admin's password first, then submit the form with it as confirm-password
+const backupConfirm = document.getElementById("backup-confirm");
+if (backupConfirm) {
+    const passwordInput = document.getElementById("backup-confirm-password");
+    let pending = null;   // { form, name, value } of the backup button that was pressed
+
+    function closeBackupConfirm() {
+        backupConfirm.classList.remove("open");
+        passwordInput.value = "";
+        document.getElementById("backup-confirm-error").textContent = "";
+        pending = null;
+    }
+
+    document.querySelectorAll('button[name^="backup"]').forEach(function (button) {
+        button.addEventListener("click", function (e) {
+            e.preventDefault();   // the form is only submitted after the password is entered
+            pending = { form: button.form, name: button.name, value: button.value };
+            backupConfirm.classList.add("open");
+            passwordInput.focus();
+        });
+    });
+
+    // Same throbber frames as throb() and throbReport(), shown in the loading popup until the page reloads with the result
+    async function throbBackup(target, message) {
+        const frames = [
+            ["▖", "▘", "▝", "▗", "▖", "▘", "▝", "▗"],
+            ["▞", "▚", "▞", "▚", "▞", "▚", "▞", "▚"],
+            ["▙", "▛", "▜", "▟", "▙", "▛", "▜", "▟"],
+            ["◣", "◤", "◥", "◢", "◣", "◤", "◥", "◢"],
+            ["◱", "◰", "◳", "◲", "◱", "◰", "◳", "◲"],
+            ["◒", "◐", "◓", "◑", "◒", "◐", "◓", "◑"],
+            ["__", "|", "▔", " |", "__", "|", "▔", " |"],
+            ["◟", "◜", "◠", "◝", "◞", "◡", "◟", "◜", "◠", "◝", "◞", "◡"]
+        ];
+        while (true) {
+            const sel = Math.floor(Math.random() * frames.length);
+            for (let i = 0; i < frames[sel].length * 2; i++) {
+                target.textContent = message + " " + CArr(frames[sel], i);
+                await sleep(150);
+            }
+        }
+    }
+
+    // Checks the password first. A wrong one is shown in the box; a right one hides the box and the dashboard behind the
+    // loading popup (Google Drive backups only) and then sends the form
+    async function submitBackup() {
+        if (!pending || passwordInput.value === "") { return; }
+        const error = document.getElementById("backup-confirm-error");
+        error.textContent = "";
+
+        let answer = "no";
+        try {
+            const reply = await fetch("adminAgent.php", {
+                method: "POST",
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: new URLSearchParams({ "check-backup-password": "1", "confirm-password": passwordInput.value })
+            });
+            answer = (await reply.text()).trim();
+        } catch (problem) {
+            error.textContent = "Couldn't reach the server, try again";
+            return;
+        }
+        if (answer !== "ok") {
+            error.textContent = "Incorrect password";
+            passwordInput.select();
+            return;
+        }
+
+        const toDrive = pending.name.endsWith("drive");
+        if (toDrive) {
+            backupConfirm.classList.remove("open");
+            document.getElementById("backup-loading").classList.add("open");
+            throbBackup(document.getElementById("backup-loading-text"),
+                        pending.name === "backup-drive" ? "Backing up the database to Google Drive..." : "Backing up the system to Google Drive...");
+            await sleep(100);                           // let the popup draw before the page starts waiting for the server
+        }
+
+        for (const [name, value] of [[pending.name, pending.value], ["confirm-password", passwordInput.value]]) {
+            const field = document.createElement("input");
+            field.type = "hidden";
+            field.name = name;
+            field.value = value;
+            pending.form.appendChild(field);
+        }
+        pending.form.submit();
+    }
+
+    document.getElementById("backup-confirm-ok").addEventListener("click", submitBackup);
+    document.getElementById("backup-confirm-cancel").addEventListener("click", closeBackupConfirm);
+    passwordInput.addEventListener("keydown", function (e) {
+        if (e.key === "Enter") { submitBackup(); }
+        if (e.key === "Escape") { closeBackupConfirm(); }
+    });
+}
+
+// Server card (adminAgent.php): Start server shows the loading popup, in the same place as the error popup, with the
+// throbber until the server answers
+const startServerForm = document.getElementById("start-server-form");
+if (startServerForm) {
+    const serverPopup = document.getElementById("loadingPopup");
+    const serverText = document.getElementById("loadingText");
+    const SERVER_WAIT = 5 * 60 * 1000;                  // give up after 5 minutes
+    let waitingForServer = false;
+    let hideTimer = null;
+
+    async function askPage(fields) {
+        const reply = await fetch("adminAgent.php", {
+            method: "POST",
+            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+            body: new URLSearchParams(fields)
+        });
+        return (await reply.text()).trim();
+    }
+
+    // The green / red "Server running" text in the card: asks the page whether anything answers on the server's port
+    const statusText = document.getElementById("server-status");
+    async function refreshServerStatus() {
+        let up = false;
+        try { up = (await askPage({ "server-status": "1" })) === "up"; } catch (problem) { /* shows as not running */ }
+        statusText.textContent = up ? "Server running" : "Server not running";
+        statusText.className = up ? "up" : "down";
+        return up;
+    }
+    setInterval(refreshServerStatus, 5000);
+
+    // Replaces the throbber with a result that goes away by itself after 7 seconds
+    function showServerResult(text, kind) {
+        waitingForServer = false;                       // this is what stops the throbber
+        serverText.textContent = text;
+        serverPopup.className = kind;
+        clearTimeout(hideTimer);
+        hideTimer = setTimeout(function () { serverPopup.classList.add("hidden"); }, 7000);
+    }
+
+    async function throbServer() {
+        const frames = [
+            ["▖", "▘", "▝", "▗", "▖", "▘", "▝", "▗"],
+            ["▞", "▚", "▞", "▚", "▞", "▚", "▞", "▚"],
+            ["▙", "▛", "▜", "▟", "▙", "▛", "▜", "▟"],
+            ["◣", "◤", "◥", "◢", "◣", "◤", "◥", "◢"],
+            ["◱", "◰", "◳", "◲", "◱", "◰", "◳", "◲"],
+            ["◒", "◐", "◓", "◑", "◒", "◐", "◓", "◑"],
+            ["__", "|", "▔", " |", "__", "|", "▔", " |"],
+            ["◟", "◜", "◠", "◝", "◞", "◡", "◟", "◜", "◠", "◝", "◞", "◡"]
+        ];
+        while (waitingForServer) {
+            const sel = Math.floor(Math.random() * frames.length);
+            for (let i = 0; i < frames[sel].length * 2 && waitingForServer; i++) {
+                serverText.textContent = "Starting the server, loading the models... " + CArr(frames[sel], i);
+                await sleep(150);
+            }
+        }
+    }
+
+    document.getElementById("closeLoading").addEventListener("click", function () {
+        waitingForServer = false;                       // also stops the waiting below
+        serverPopup.classList.add("hidden");
+    });
+
+    startServerForm.addEventListener("submit", async function (e) {
+        e.preventDefault();
+        if (waitingForServer) { return; }
+
+        let answer;
+        try {
+            answer = await askPage({ "start-server": "1" });   // the first time this opens the file window to choose LocalAIServ.py
+        } catch (problem) {
+            answer = "error: Couldn't reach the page, try again";
+        }
+        if (answer === "running") { showServerResult("The server is already running", "done"); return; }
+        if (answer !== "started") { showServerResult(answer.replace(/^error:\s*/, "") || "The server couldn't be started", "failed"); return; }
+
+        waitingForServer = true;
+        clearTimeout(hideTimer);
+        serverPopup.className = "";
+        throbServer();
+
+        const giveUpAt = Date.now() + SERVER_WAIT;
+        let up = false;
+        while (waitingForServer && !up && Date.now() < giveUpAt) {
+            await sleep(2000);
+            try { up = (await askPage({ "server-status": "1" })) === "up"; } catch (problem) { /* try again in 2 seconds */ }
+        }
+
+        refreshServerStatus();                          // the text in the card follows straight away
+        if (!waitingForServer) { return; }              // the popup was closed
+        if (up) { showServerResult("The server is running", "done"); }
+        else { showServerResult("The server didn't start in 5 minutes, check its window", "failed"); }
+    });
+}
+
 // Activity watcher for pages with the inactive box. Every 30 seconds the Idle class listens for 5 seconds.
 // Nothing happened in those 5 seconds: the counter goes up. At 24 (12 minutes) the countdown starts and at 30
 // (15 minutes) isInactive() runs. Activity at any point resets the counter and touches the ActiveUsers row.

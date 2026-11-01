@@ -27,62 +27,213 @@ $a = "";
 
     
 
-// Dumps the SOPAgent database into $folder, returns an error message or "" on success
-function dumpDatabase($folder, $secrets)
+// Posts to a backupapi.py route in the Flask server and sets the success or error popup from its answer
+function callBackupApi($route, $fields = [])
     {
-        $file = $folder . "\\SOPagent" . date("Y-m-d") . ".sql";
-        $dump = escapeshellarg("C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysqldump.exe")
-              . " --host=" . escapeshellarg($secrets["db_host"])
-              . " --user=" . escapeshellarg($secrets["db_user"])
-              . ($secrets["db_pass"] !== "" ? " --password=" . escapeshellarg($secrets["db_pass"]) : "")
-              . " --single-transaction --databases SOPAgent"
-              . " --skip-extended-insert"
-              . " --result-file=" . escapeshellarg($file) . " 2>&1";
-        exec($dump, $output, $code);
-        return $code !== 0 ? "Backup failed: " . implode(" ", $output) : "";
+        session_write_close();   // don't hold the session while the backup runs (a first Drive backup also waits for the Google sign in)
+        $reply = @file_get_contents("http://127.0.0.1:5000/" . $route, false, stream_context_create(["http" => [
+            "method"        => "POST",
+            "header"        => "Content-Type: application/x-www-form-urlencoded",
+            "content"       => http_build_query($fields),
+            "timeout"       => 600,
+            "ignore_errors" => true,
+        ]]));
+        $status = 0;
+        foreach($http_response_header ?? [] as $line)
+            {
+                if(preg_match('/^HTTP\/\S+ (\d+)/', $line, $m)) { $status = (int)$m[1]; }
+            }
+        session_start();
+
+        if($reply === false) { $_SESSION["err"] = "The backup server isn't running. Start LocalAIServ.py and try again"; }
+        elseif($status === 200) { $_SESSION["success"] = $reply; }
+        else { $_SESSION["err"] = $reply; }
     }
 
-if(array_key_exists('backup', $_POST)) {
-            // Folder window opens on this PC's desktop (Apache must be started from the XAMPP Control Panel)
-            $pick = 'Add-Type -AssemblyName System.Windows.Forms; '
-                  . '$f = New-Object System.Windows.Forms.FolderBrowserDialog; '
-                  . '$f.Description = "Choose where to save the SOPAgent backup"; '
-                  . 'if($f.ShowDialog((New-Object System.Windows.Forms.Form -Property @{TopMost = $true})) -eq "OK") { $f.SelectedPath }';
-            $folder = trim(shell_exec("powershell -NoProfile -STA -EncodedCommand " . base64_encode(iconv("UTF-8", "UTF-16LE", $pick))) ?? "");
+// True when $password is the logged in admin's password
+function adminPasswordOk($secrets, $userN, $password)
+    {
+        try
+            {
+                $check = new mysqli($secrets["db_host"], $secrets["db_user"], $secrets["db_pass"], "SOPAgent");
+                $stmt = $check->prepare("SELECT 1 FROM Admins WHERE Username = ? AND PasswordHash = ?");
+                $hash = hash("sha256", $password);
+                $stmt->bind_param("ss", $userN, $hash);
+                $stmt->execute();
+                $stmt->store_result();
+                return $stmt->num_rows() > 0;
+            }
+        catch(mysqli_sql_exception) { return false; }
+    }
 
-            if($folder !== "")
-                {
-                    $failed = dumpDatabase($folder, $secrets);
-                    if($failed !== "") { $_SESSION["err"] = $failed; }
-                    else { $_SESSION["success"] = "Database successfully backed up to: " . $folder; }
-                }
+// validation.js asks this first, so the password box can show a wrong password and the loading popup can start
+// as soon as the password is right. Answers "ok" or "no" and draws nothing else.
+if(array_key_exists('check-backup-password', $_POST))
+    {
+        echo adminPasswordOk($secrets, $userN, $_POST["confirm-password"] ?? "") ? "ok" : "no";
+        exit();
+    }
 
-            // Reload as a normal GET so refreshing the page doesn't send the backup again
-            header("Location: adminAgent.php");
-            exit();
-        }
+// Every backup button asks the admin for their password first (validation.js sends it as confirm-password)
+foreach(["backup", "backup-drive", "backup-system", "backup-system-drive"] as $button)
+    {
+        if(!array_key_exists($button, $_POST)) { continue; }
 
-if(array_key_exists('backup-drive', $_POST)) {
-            // Saves into the Google Drive for desktop folder, which uploads it to the cloud by itself
-            $drive = "";
-            foreach(array_merge(glob("[A-Z]:\\My Drive", GLOB_ONLYDIR) ?: [],
-                                [getenv("USERPROFILE") . "\\My Drive", getenv("USERPROFILE") . "\\Google Drive"]) as $candidate)
-                {
-                    if(is_dir($candidate)) { $drive = $candidate; break; }
-                }
+        if(!adminPasswordOk($secrets, $userN, $_POST["confirm-password"] ?? ""))
+            {
+                $_SESSION["err"] = "Incorrect password, the backup was not made";
+                header("Location: adminAgent.php");
+                exit();
+            }
+        break;
+    }
 
-            if($drive === "")
-                {
-                    $_SESSION["err"] = "Google Drive for desktop wasn't found. Install it and sign in, then try again";
-                }else{
-                    $failed = dumpDatabase($drive, $secrets);
-                    if($failed !== "") { $_SESSION["err"] = $failed; }
-                    else { $_SESSION["success"] = "Database successfully backed up to Google Drive: " . $drive; }
-                }
+// The two local buttons: a folder window opens on this PC's desktop (Apache must be started from the XAMPP Control Panel),
+// then backupapi.py in the Flask server makes the backup in the chosen folder
+foreach(["backup" => "local/backup-database", "backup-system" => "local/backup-system"] as $button => $route)
+    {
+        if(!array_key_exists($button, $_POST)) { continue; }
 
-            header("Location: adminAgent.php");
-            exit();
-        }
+        $pick = 'Add-Type -AssemblyName System.Windows.Forms; '
+              . '$f = New-Object System.Windows.Forms.FolderBrowserDialog; '
+              . '$f.Description = "Choose where to save the SOPAgent backup"; '
+              . 'if($f.ShowDialog((New-Object System.Windows.Forms.Form -Property @{TopMost = $true})) -eq "OK") { $f.SelectedPath }';
+        $folder = trim(shell_exec("powershell -NoProfile -STA -EncodedCommand " . base64_encode(iconv("UTF-8", "UTF-16LE", $pick))) ?? "");
+
+        if($folder !== "") { callBackupApi($route, ["path" => $folder]); }
+
+        // Reload as a normal GET so refreshing the page doesn't send the backup again
+        header("Location: adminAgent.php");
+        exit();
+    }
+
+// The Server card. The server is LocalAIServ.py, the same one that answers on $ASK_URL's port. Where the file is lives
+// under [paths] in passwords.txt as server_path (with / slashes); when it isn't set the file window opens to choose it.
+$SERVER_PORT = 5000;                                                  // PORT in config.json
+$PASSWORDS_FILE = __DIR__ . "/passwords.txt";
+
+// True when something is answering on the server's port
+function serverRunning($port)
+    {
+        $socket = @fsockopen("127.0.0.1", $port, $errno, $errstr, 1);
+        if($socket === false) { return false; }
+        fclose($socket);
+        return true;
+    }
+
+// Runs a PowerShell script (base64 encoded, so no quoting problems) and returns what it printed
+function runPowerShell($script)
+    {
+        return trim(shell_exec("powershell -NoProfile -STA -EncodedCommand " . base64_encode(iconv("UTF-8", "UTF-16LE", $script))) ?? "");
+    }
+
+// Opens a file window on this PC's desktop to choose LocalAIServ.py, returns the path with / slashes ("" when cancelled)
+function chooseServerFile()
+    {
+        $pick = 'Add-Type -AssemblyName System.Windows.Forms; '
+              . '$f = New-Object System.Windows.Forms.OpenFileDialog; '
+              . '$f.Title = "Choose LocalAIServ.py"; '
+              . '$f.Filter = "LocalAIServ.py|LocalAIServ.py|Python files (*.py)|*.py"; '
+              . 'if($f.ShowDialog((New-Object System.Windows.Forms.Form -Property @{TopMost = $true})) -eq "OK") { $f.FileName }';
+        return str_replace("\\", "/", runPowerShell($pick));
+    }
+
+// Writes server_path under [paths] in passwords.txt: replaces the line when it is there, otherwise adds it under the heading
+function saveServerPath($file, $path)
+    {
+        $newLine = 'server_path = "' . $path . '"';
+        $lines = file($file, FILE_IGNORE_NEW_LINES);
+        $alreadyThere = preg_grep('/^\s*server_path\s*=/i', $lines) !== [];
+        $out = [];
+        $inPaths = false;
+        $done = false;
+        foreach($lines as $line)
+            {
+                $isHeading = preg_match('/^\s*\[(.+)\]\s*$/', $line, $heading) === 1;
+                if($isHeading) { $inPaths = strtolower($heading[1]) === "paths"; }
+
+                if($alreadyThere && $inPaths && !$isHeading && preg_match('/^\s*server_path\s*=/i', $line))
+                    {
+                        $out[] = $newLine;                   // the line is there: replace it
+                        $done = true;
+                        continue;
+                    }
+                $out[] = $line;
+                if(!$alreadyThere && $inPaths && $isHeading) { $out[] = $newLine; $done = true; }   // not there: add it under [paths]
+            }
+        if(!$done) { array_push($out, "[paths]", $newLine); }
+        file_put_contents($file, implode("\n", $out) . "\n");
+    }
+
+// Answers "up" or "down" and nothing else, validation.js asks it every couple of seconds while the server is starting
+if(array_key_exists('server-status', $_POST))
+    {
+        echo serverRunning($SERVER_PORT) ? "up" : "down";
+        exit();
+    }
+
+// Start server. validation.js sends it with fetch and shows the loading popup, so this answers with one word:
+// "running" (already was), "started" (the window was opened, the server is now loading) or "error: <what went wrong>"
+if(array_key_exists('start-server', $_POST))
+    {
+        if(serverRunning($SERVER_PORT)) { echo "running"; exit(); }
+
+        $serverFile = trim($secrets["server_path"] ?? "");
+        if($serverFile === "" || !is_file($serverFile))
+            {
+                $serverFile = chooseServerFile();            // first start (or the file moved): choose it once and remember it
+                if($serverFile === "") { echo "error: No server file was chosen"; exit(); }
+                saveServerPath($PASSWORDS_FILE, $serverFile);
+            }
+
+        $folder = str_replace("/", "\\", dirname($serverFile));
+        $python = $folder . "\\.venv\\Scripts\\python.exe";
+        if(!is_file($python)) { echo "error: " . $python . " wasn't found"; exit(); }
+
+        // Opens in its own window, so its log lines can be watched; the Start-Process call returns straight away
+        runPowerShell("Start-Process -FilePath '" . $python . "' -ArgumentList '" . basename($serverFile) . "' -WorkingDirectory '" . $folder . "'");
+        echo "started";
+        exit();
+    }
+
+// Change server file: opens the file window again and remembers the new choice
+if(array_key_exists('change-server-path', $_POST))
+    {
+        $serverFile = chooseServerFile();
+        if($serverFile !== "")
+            {
+                saveServerPath($PASSWORDS_FILE, $serverFile);
+                $_SESSION["success"] = "Server file set to: " . $serverFile;
+            }
+        header("Location: adminAgent.php");
+        exit();
+    }
+
+if(array_key_exists('stop-server', $_POST))
+    {
+        if(!serverRunning($SERVER_PORT)) { $_SESSION["err"] = "The server isn't running"; }
+        else
+            {
+                // Stops whatever is listening on the port (its window closes with it)
+                runPowerShell("Get-NetTCPConnection -LocalPort " . $SERVER_PORT . " -State Listen -ErrorAction SilentlyContinue "
+                            . "| ForEach-Object { Stop-Process -Id \$_.OwningProcess -Force }");
+                if(serverRunning($SERVER_PORT)) { $_SESSION["err"] = "The server couldn't be stopped"; }
+                else { $_SESSION["success"] = "The server has been stopped"; }
+            }
+        header("Location: adminAgent.php");
+        exit();
+    }
+
+// The two Google Drive buttons: backupapi.py in the Flask server makes the backup and uploads it to Drive
+foreach(["backup-drive" => "backup-database", "backup-system-drive" => "backup-system"] as $button => $route)
+    {
+        if(!array_key_exists($button, $_POST)) { continue; }
+
+        callBackupApi("drive/" . $route);
+
+        header("Location: adminAgent.php");
+        exit();
+    }
         try
         {
             $conn = new mysqli($secrets["db_host"], $secrets["db_user"], $secrets["db_pass"]);
@@ -377,45 +528,42 @@ if($q !== "")
             }
     }
 
-    // Every period is built once here, the dashboard's dropdown just shows one and hides the rest
-    $periods = ["today", "Week", "Month", "Year"];
+    // Every period is built once here, the dashboard's dropdown just shows one and hides the rest.
+    // The periods are rolling windows that end today: the last 7, 30 and 365 days.
+    $periods = ["7days", "30days", "365days"];
     $views = [];
     foreach($periods as $p)
         {
-            if($p == "today")
+            $axis = [];   // bucket => label on the x axis; the bucket is the text the SQL GROUP BY gives for a row
+            switch($p)
                 {
-                    $from  = "CURDATE()";
-                    $group = "HOUR(CreatedAt)";
-                    $axis  = [];
-                    for($h = 0; $h < 24; $h++) { $axis[$h] = sprintf("%02d", $h); }
-                    $title = "Queries today (by hour)";
-                    $xName = "Hour of day";
-                }
-            if($p == "Week")
-                {
-                    $from  = "DATE_SUB(CURDATE(), INTERVAL WEEKDAY(CURDATE()) DAY)";
-                    $group = "WEEKDAY(CreatedAt)";
-                    $axis  = [0 => "Mon", 1 => "Tue", 2 => "Wed", 3 => "Thu", 4 => "Fri", 5 => "Sat", 6 => "Sun"];
-                    $title = "Queries this week (by day)";
-                    $xName = "Day of week";
-                }
-            if($p == "Month")
-                {
-                    $from  = "DATE_FORMAT(CURDATE(), '%Y-%m-01')";
-                    $group = "DAY(CreatedAt)";
-                    $axis  = [];
-                    for($d = 1; $d <= (int)date("t"); $d++) { $axis[$d] = (string)$d; }
-                    $title = "Queries this month (by day)";
-                    $xName = "Day of month";
-                }
-            if($p == "Year")
-                {
-                    $from  = "DATE_FORMAT(CURDATE(), '%Y-01-01')";
-                    $group = "MONTH(CreatedAt)";
-                    $axis  = [1 => "Jan", 2 => "Feb", 3 => "Mar", 4 => "Apr", 5 => "May", 6 => "Jun",
-                              7 => "Jul", 8 => "Aug", 9 => "Sep", 10 => "Oct", 11 => "Nov", 12 => "Dec"];
-                    $title = "Queries this year (by month)";
-                    $xName = "Month";
+                    case "7days":
+                    case "30days":
+                        $days  = $p == "7days" ? 7 : 30;
+                        $from  = "DATE_SUB(CURDATE(), INTERVAL " . ($days - 1) . " DAY)";
+                        $group = "DATE_FORMAT(CreatedAt, '%Y-%m-%d')";
+                        for($back = $days - 1; $back >= 0; $back--)
+                            {
+                                $day = strtotime("-$back day");
+                                $axis[date("Y-m-d", $day)] = $days == 7 ? date("D j", $day) : date("j M", $day);
+                            }
+                        $title = "Queries in the last $days days (by day)";
+                        $xName = "Day";
+                        break;
+
+                    case "365days":
+                        // By month: the first month is only partly inside the 365 days
+                        $from  = "DATE_SUB(CURDATE(), INTERVAL 364 DAY)";
+                        $group = "DATE_FORMAT(CreatedAt, '%Y-%m')";
+                        $month = new DateTime(date("Y-m-01", strtotime("-364 day")));
+                        while($month->format("Y-m") <= date("Y-m"))
+                            {
+                                $axis[$month->format("Y-m")] = $month->format("M y");
+                                $month->modify("+1 month");
+                            }
+                        $title = "Queries in the last 365 days (by month)";
+                        $xName = "Month";
+                        break;
                 }
 
             $labels = [];
@@ -433,7 +581,7 @@ if($q !== "")
                                          GROUP BY bucket");
                     while($row = $res->fetch_assoc())
                         {
-                            $found[(int)$row["bucket"]] = (int)$row["total"];
+                            $found[$row["bucket"]] = (int)$row["total"];
                         }
 
                     foreach($axis as $bucket => $label)
@@ -488,6 +636,60 @@ if($q !== "")
                 }
 
             $views[$p] = ["users" => $userD, "total" => $TotQ, "title" => $title, "img" => $graphImg];
+        }
+
+    // The Log out button in the Active users card: removes that session's row from ActiveUsers, so the next page it
+    // opens sends it to Inactive.php, and writes a "logout" line to Logs
+    if(array_key_exists('force-logout', $_POST) && isset($conn))
+        {
+            $sid = $_POST["sid"] ?? "";
+            if($sid === session_id()) { $_SESSION["err"] = "You can't log yourself out here, use the Log out button"; }
+            else
+                {
+                    try
+                        {
+                            $stmt = $conn->prepare("SELECT Username FROM ActiveUsers WHERE SessionId = ?");
+                            $stmt->bind_param("s", $sid);
+                            $stmt->execute();
+                            $stmt->bind_result($who);
+                            $found = $stmt->fetch();
+                            $stmt->close();
+
+                            if($found)
+                                {
+                                    writeLog($conn, $who, substr($who, 0, 5) == "admin" ? "admin" : "user", "logout");
+                                    $stmt = $conn->prepare("DELETE FROM ActiveUsers WHERE SessionId = ?");
+                                    $stmt->bind_param("s", $sid);
+                                    $stmt->execute();
+                                    $stmt->close();
+                                    $_SESSION["success"] = $who . " was logged out";
+                                }
+                            else { $_SESSION["err"] = "That user is no longer logged in"; }
+                        }
+                    catch(mysqli_sql_exception) { $_SESSION["err"] = "The user could not be logged out"; }
+                }
+            header("Location: adminAgent.php");
+            exit();
+        }
+
+    // Everyone logged in right now, for the Active users card
+    $activeUsers = [];
+    if(isset($conn))
+        {
+            try
+                {
+                    $res = $conn->query("SELECT SessionId, Username, LastSeen FROM ActiveUsers ORDER BY Username");
+                    while($row = $res->fetch_assoc()) { $activeUsers[] = $row; }
+                }
+            catch(mysqli_sql_exception) {}
+        }
+
+    // "just now", "3 min ago" for the last time a session was seen
+    function seenAgo($lastSeen)
+        {
+            $seconds = max(0, time() - (int)$lastSeen);
+            if($seconds < 60) { return "just now"; }
+            return floor($seconds / 60) . " min ago";
         }
 
     // Everyone in the Users and Admins tables, for the scrollable list under Delete User
@@ -686,6 +888,30 @@ if($q !== "")
         .panel-box.wide {
             flex: 1 1 100%;
         }
+        /* A labelled group of buttons inside a card (Backup: Database / System, Server: Control / Settings / Session) */
+        .button-group {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 15px;
+            padding: 12px 14px;
+            border-radius: 8px;
+            background-color: #232323;
+        }
+        .button-group:last-child {
+            margin-bottom: 0;
+        }
+        .button-group h4 {
+            margin: 0;
+            color: #bdbdbd;
+            font-size: 13px;
+            font-weight: normal;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .button-group form {
+            margin: 0;
+        }
         .panel-box button[type="submit"], #reportBtn {
             display: block;
         }
@@ -738,6 +964,35 @@ if($q !== "")
         }
         #all-users .role {
             color: #bdbdbd;
+        }
+        #active-users {
+            max-height: 200px;
+            margin: 0;
+            padding: 0;
+            overflow-y: auto;
+            list-style: none;
+            border-radius: 8px;
+            background-color: #232323;
+        }
+        #active-users li {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+            padding: 8px;
+            border-bottom: 1px solid #312f2f;
+        }
+        #active-users .seen {
+            color: #bdbdbd;
+            font-size: 13px;
+        }
+        #active-users form {
+            width: auto;
+            margin: 0;
+        }
+        #active-users button {
+            margin: 0;
+            padding: 4px 10px;
         }
         #user-results {
             width: 100%;
@@ -828,7 +1083,7 @@ if($q !== "")
             cursor: pointer;
         }
 
-        #errPopup, #successPopup {
+        #errPopup, #successPopup, #loadingPopup {
             position: fixed;
             top: 20px;
             left: 50%;
@@ -843,10 +1098,32 @@ if($q !== "")
         #successPopup {
             background: #2e7d32;
         }
-        #errPopup.hidden, #successPopup.hidden {
+        /* Server card: green text when the server answers, red when it doesn't */
+        #server-status {
+            margin: 0;
+            font-weight: bold;
+        }
+        #server-status.up {
+            color: #4caf50;
+        }
+        #server-status.down {
+            color: #ef5350;
+        }
+        /* Server starting: dark while it loads (with the throbber), then green when it is up or red when it failed */
+        #loadingPopup {
+            background: #232323;
+            font-family: Consolas, 'Courier New', monospace;
+        }
+        #loadingPopup.done {
+            background: #2e7d32;
+        }
+        #loadingPopup.failed {
+            background: #d32f2f;
+        }
+        #errPopup.hidden, #successPopup.hidden, #loadingPopup.hidden {
             display: none;
         }
-        #errPopup button, #successPopup button {
+        #errPopup button, #successPopup button, #loadingPopup button {
             position: absolute;
             top: 6px;
             right: 10px;
@@ -855,6 +1132,84 @@ if($q !== "")
             color: #fff;
             font-size: 20px;
             cursor: pointer;
+        }
+
+        /* Password box shown when a backup button is pressed */
+        #backup-confirm {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background-color: rgba(35, 35, 35, 0.7);
+            z-index: 1500;
+        }
+        #backup-confirm.open {
+            display: block;
+        }
+        #backup-confirm-box {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #fff;
+            color: #222;
+            padding: 20px 24px;
+            border-radius: 8px;
+            width: 320px;
+            max-width: 90vw;
+            box-sizing: border-box;
+        }
+        #backup-confirm-box input {
+            width: 100%;
+            box-sizing: border-box;
+            margin: 10px 0;
+        }
+
+        #backup-confirm-error {
+            color: #d32f2f;
+            font-size: 13px;
+            min-height: 16px;
+        }
+
+        /* Loading popup for the Google Drive backups: a solid layer that hides the dashboard and the password box */
+        #backup-loading {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background-color: #232323;
+            z-index: 1800;
+        }
+        #backup-loading.open {
+            display: block;
+        }
+        #backup-loading-box {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 420px;
+            max-width: calc(100% - 32px);
+            padding: 40px 30px;
+            text-align: center;
+            border-radius: 10px;
+            background-color: #312f2f;
+            box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+            color: white;
+            line-height: 1.6;
+        }
+        #backup-loading-text {
+            font-family: Consolas, 'Courier New', monospace;
+            font-size: 16px;
+        }
+        #backup-loading-note {
+            margin-top: 14px;
+            color: #bdbdbd;
+            font-size: 13px;
         }
 
         /* Transparent gray layer over the whole page, hidden until the page shows it */
@@ -915,6 +1270,11 @@ if($q !== "")
     </div>
 <?php endif; ?>
 
+<div id = "loadingPopup" class = "hidden">
+    <span id = "loadingText"></span>
+    <button type = "button" id = "closeLoading" aria-label = "Close">&times;</button>
+</div>
+
 <?php if ($success !== ""): ?>
     <div id = "successPopup">
         <?php echo htmlspecialchars($success); ?>
@@ -943,10 +1303,9 @@ if($q !== "")
                 <h3>Overview</h3>
                 <div class="period">
                     <select id="period-select">
-                        <option value="today">Today</option>
-                        <option value="Week">This Week</option>
-                        <option value="Month">This Month</option>
-                        <option value="Year">This Year</option>
+                        <option value="7days">Last 7 days</option>
+                        <option value="30days">Last 30 days</option>
+                        <option value="365days">Last 365 days</option>
                     </select>
                 </div>
                 <?php foreach ($views as $p => $view): ?>
@@ -1021,6 +1380,29 @@ if($q !== "")
                 </ul>
             </div>
             <div class="panel-box">
+                <h3>Active users (<?php echo count($activeUsers); ?>)</h3>
+                <?php if (count($activeUsers) === 0): ?>
+                    <p>Nobody is logged in.</p>
+                <?php else: ?>
+                    <ul id="active-users">
+                        <?php foreach ($activeUsers as $active): ?>
+                            <li>
+                                <span><?php echo htmlspecialchars($active["Username"]); ?></span>
+                                <span class="seen"><?php echo seenAgo($active["LastSeen"]); ?></span>
+                                <?php if ($active["SessionId"] === $sesID): ?>
+                                    <span class="seen">(you)</span>
+                                <?php else: ?>
+                                    <form method="post">
+                                        <input type="hidden" name="sid" value="<?php echo htmlspecialchars($active["SessionId"]); ?>">
+                                        <button type="submit" name="force-logout" value="force-logout">Log out</button>
+                                    </form>
+                                <?php endif; ?>
+                            </li>
+                        <?php endforeach; ?>
+                    </ul>
+                <?php endif; ?>
+            </div>
+            <div class="panel-box wide">
                 <h3>Applications (<?php echo count($applications); ?>)</h3>
                 <?php if (count($applications) === 0): ?>
                     <p>No applications waiting.</p>
@@ -1046,25 +1428,75 @@ if($q !== "")
                     </table>
                 <?php endif; ?>
             </div>
-            <div class = "panel-box">
-            <h3>Backup</h3>
-            <form method="post" style="width: auto;">
-                <button type = "submit" name = "backup" value = "backup">Database backup - locally</button>
-            </form>
-            <form method="post" style="width: auto; margin-top: 15px;">
-                <button type = "submit" name = "backup-drive" value = "backup-drive">Database backup - Google Drive</button>
-            </form>
-            <form method="post" style="width: auto; margin-top: 15px;">
-                <button type = "submit" name = "backup-system" value = "backup-system">System backup - locally</button>
-            </form>
-            <form method="post" style="width: auto; margin-top: 15px;">
-                <button type = "submit" name = "backup-system-drive" value = "backup-system-drive">System backup - Google Drive</button>
-            </form>
-            <form method="post" style="width: auto; margin-top: 15px;">
-                <button type = "submit" name = "logout" value = "logout">Log out</button>
-            </form>
+            <div class="panel-box">
+                <h3>Backup</h3>
+                <div class="button-group">
+                    <h4>Database</h4>
+                    <form method="post" style="width: auto;">
+                        <button type = "submit" name = "backup" value = "backup">Database backup - locally</button>
+                    </form>
+                    <form method="post" style="width: auto;">
+                        <button type = "submit" name = "backup-drive" value = "backup-drive">Database backup - Google Drive</button>
+                    </form>
+                </div>
+                <div class="button-group">
+                    <h4>System</h4>
+                    <form method="post" style="width: auto;">
+                        <button type = "submit" name = "backup-system" value = "backup-system">System backup - locally</button>
+                    </form>
+                    <form method="post" style="width: auto;">
+                        <button type = "submit" name = "backup-system-drive" value = "backup-system-drive">System backup - Google Drive</button>
+                    </form>
+                </div>
             </div>
+            <div class="panel-box">
+                <h3>RAG Pipeline Server</h3>
+                <div class="button-group">
+                    <h4>Control</h4>
+                    <?php $serverUp = serverRunning($SERVER_PORT); ?>
+                    <p id = "server-status" class = "<?php echo $serverUp ? "up" : "down"; ?>">
+                        <?php echo $serverUp ? "Server running" : "Server not running"; ?>
+                    </p>
+                    <form id = "start-server-form" method="post" style="width: auto;">
+                        <button type = "submit" name = "start-server" value = "start-server">Start server</button>
+                    </form>
+                    <form method="post" style="width: auto;">
+                        <button type = "submit" name = "stop-server" value = "stop-server">Stop server</button>
+                    </form>
+                </div>
+                <div class="button-group">
+                    <h4>Settings</h4>
+                    <form method="post" style="width: auto;">
+                        <button type = "submit" name = "change-server-path" value = "change-server-path">Change server file (hosting computer only)</button>
+                    </form>
+                </div>
+                <div class="button-group">
+                    <h4>Session</h4>
+                    <form method="post" style="width: auto;">
+                        <button type = "submit" name = "logout" value = "logout">Log out</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
 
+    <div id = "backup-confirm">
+        <div id = "backup-confirm-box">
+            Enter your password to make this backup
+            <input type = "password" id = "backup-confirm-password" autocomplete = "current-password">
+            <div id = "backup-confirm-error"></div>
+            <button type = "button" id = "backup-confirm-ok">Confirm</button>
+            <button type = "button" id = "backup-confirm-cancel">Cancel</button>
+        </div>
+    </div>
+
+    <div id = "backup-loading">
+        <div id = "backup-loading-box">
+            <div id = "backup-loading-text"></div>
+            <div id = "backup-loading-note">
+                The first Google Drive backup opens a Google sign in in the browser on the server PC.
+                Finish it there within 2 minutes. Please don't close or refresh this page.
+            </div>
         </div>
     </div>
 

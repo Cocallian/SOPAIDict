@@ -155,7 +155,7 @@
                 <input type = "password" placeholder = "password" name = "pass" id = "pass" aria-label = "Password">
                 <div id = "fieldError"></div>
                 <button type = "submit">Log In</button>
-                <p class = "message">Need an account? <a href = "UserRequest.php">Ask your administrator.</a></p>
+                <p class = "message">Need an account? <a href = "UserRequest.php">Request one</a></p>
             </form>
         </div>
     </div>

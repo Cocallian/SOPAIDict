@@ -17,3 +17,8 @@ flask >= 3.0                  # LocalAIServ.py, the answer server the website se
 psutil >= 5.9                 # SysInfo.py
 py-cpuinfo >= 9.0             # SysInfo.py
 pyinstaller >= 6.0            # only for building ScheduleBackup.exe
+
+# Google Drive backups
+google-api-python-client >= 2.0   # backupapi.py uploads backups to Drive
+google-auth-oauthlib >= 1.0       # backupapi.py Google sign in
+google-auth-httplib2 >= 0.2

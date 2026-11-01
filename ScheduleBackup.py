@@ -12,9 +12,9 @@ PROJECT = Path(sys.executable).parent if getattr(sys, "frozen", False) else Path
 with open(PROJECT / "config.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
-PATH_URL = data["BACKUP_PATH"]
+PATH_URL = sys.argv[1] if len(sys.argv) > 1 else data["BACKUP_PATH"]   # backupapi.py passes the folder the admin chose
 
-# Only ask for a folder when config.json doesn't already say where backups go
+# Only ask for a folder when neither the command line nor config.json says where backups go
 if PATH_URL == "":
     pick = ('Add-Type -AssemblyName System.Windows.Forms; '
             '$f = New-Object System.Windows.Forms.FolderBrowserDialog; '
@@ -44,7 +44,7 @@ if dump.returncode != 0:
 print("Database backed up to", backup_file)
 
 # Remember the chosen folder, so later runs (and Task Scheduler) don't ask again
-if data["BACKUP_PATH"] == "":
+if data["BACKUP_PATH"] == "" and len(sys.argv) == 1:
     data["BACKUP_PATH"] = PATH_URL
     with open(PROJECT / "config.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4)

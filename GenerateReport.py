@@ -49,15 +49,21 @@ def periods_from(config):
         days = (last - first).days + 1
         if kind == "day" and days > 1:
             kind = "between"                            # two different dates; the same date twice stays a single day
-        if kind == "day":
-            title = f"Specific date: {first:%a} {first.day} {first:%b %Y}"
-        elif kind == "between":
-            title = f"Between dates: {first:%a} {first.day} {first:%b %Y} - {last:%a} {last.day} {last:%b %Y}"
-        elif kind == "week":
-            title = f"Week: {first:%a} {first.day} {first:%b} - {last:%a} {last.day} {last:%b %Y}"
-        else:
-            title = f"Month: {first:%B %Y}"
-        top = TOP[kind] if kind in TOP else next(rows for limit, rows in TOP_BETWEEN if limit is None or days <= limit)
+
+        match kind:
+            case "day":
+                title = f"Specific date: {first:%a} {first.day} {first:%b %Y}"
+                top = TOP["day"]
+            case "week":
+                title = f"Week: {first:%a} {first.day} {first:%b} - {last:%a} {last.day} {last:%b %Y}"
+                top = TOP["week"]
+            case "month":
+                title = f"Month: {first:%B %Y}"
+                top = TOP["month"]
+            case "between":
+                title = f"Between dates: {first:%a} {first.day} {first:%b %Y} - {last:%a} {last.day} {last:%b %Y}"
+                top = next(rows for limit, rows in TOP_BETWEEN if limit is None or days <= limit)
+
         found.append({"kind": kind, "start": first, "end": last + pd.Timedelta(days=1), "days": days, "top": top, "title": title})   # end is not included
     return found
 
@@ -84,37 +90,34 @@ def inside(table, column, period):
     return table[(table[column] >= period["start"]) & (table[column] < period["end"])]
 
 
-# ---- The four sections ----
+# ---- Total responses: a line graph, the steps along the x axis depend on the kind and length of the period ----
 
-def total_responses(responses, period):
-    # Line graph: responses (y) over the time period (x). A single date is shown by hour, a week and a month by day.
-    # Between two dates it is by day up to about two months, then by week, then by month, so the graph stays readable.
-    rows = inside(responses, "CreatedAt", period)
-    last_day = period["end"] - pd.Timedelta(days=1)
-    if period["kind"] == "day":
-        steps = pd.date_range(period["start"], periods=24, freq="h")
-        counts = rows["CreatedAt"].dt.floor("h").value_counts()
-        labels, x_title = [f"{t:%H}" for t in steps], "Hour of the day"
-    elif period["kind"] == "between" and period["days"] > 366:
-        steps = pd.date_range(period["start"].replace(day=1), last_day, freq="MS")
-        counts = rows["CreatedAt"].dt.to_period("M").dt.to_timestamp().value_counts()
-        labels, x_title = [f"{t:%b %y}" for t in steps], "Month"
-    elif period["kind"] == "between" and period["days"] > 62:
-        monday = period["start"] - pd.Timedelta(days=period["start"].weekday())
-        steps = pd.date_range(monday, last_day, freq="7D")
-        counts = (rows["CreatedAt"].dt.floor("D") - pd.to_timedelta(rows["CreatedAt"].dt.weekday, unit="D")).value_counts()
-        labels, x_title = [f"{t.day} {t:%b}" for t in steps], "Week starting"
-    else:
-        steps = pd.date_range(period["start"], last_day, freq="D")
-        counts = rows["CreatedAt"].dt.floor("D").value_counts()
-        if period["kind"] == "week":
-            labels, x_title = [f"{t:%a} {t.day}" for t in steps], "Day of the week"
-        elif period["kind"] == "between":
-            labels, x_title = [f"{t.day} {t:%b}" for t in steps], "Day"
-        else:
-            labels, x_title = [str(t.day) for t in steps], "Day of the month"
-    values = counts.reindex(steps, fill_value=0).to_numpy()
+def steps_by_hour(rows, period):
+    steps = pd.date_range(period["start"], periods=24, freq="h")
+    counts = rows["CreatedAt"].dt.floor("h").value_counts()
+    return steps, counts, [f"{t:%H}" for t in steps], "Hour of the day"
 
+
+def steps_by_month(rows, period, last_day):
+    steps = pd.date_range(period["start"].replace(day=1), last_day, freq="MS")
+    counts = rows["CreatedAt"].dt.to_period("M").dt.to_timestamp().value_counts()
+    return steps, counts, [f"{t:%b %y}" for t in steps], "Month"
+
+
+def steps_by_week(rows, period, last_day):
+    monday = period["start"] - pd.Timedelta(days=period["start"].weekday())
+    steps = pd.date_range(monday, last_day, freq="7D")
+    counts = (rows["CreatedAt"].dt.floor("D") - pd.to_timedelta(rows["CreatedAt"].dt.weekday, unit="D")).value_counts()
+    return steps, counts, [f"{t.day} {t:%b}" for t in steps], "Week starting"
+
+
+def steps_by_day(rows, period, last_day, label_of, x_title):
+    steps = pd.date_range(period["start"], last_day, freq="D")
+    counts = rows["CreatedAt"].dt.floor("D").value_counts()
+    return steps, counts, [label_of(t) for t in steps], x_title
+
+
+def draw_line_graph(values, labels, x_title):
     step = 1 if len(values) <= 31 else -(-len(values) // 16)            # show about 16 labels when there are many points
     figure, axes = plt.subplots(figsize=(7.5, 3.0), dpi=150)
     axes.plot(np.arange(len(values)), values, color=AMBER, marker="o", linewidth=2, markersize=4 if step > 1 else 6)
@@ -125,8 +128,34 @@ def total_responses(responses, period):
     axes.set_ylim(bottom=0)
     axes.yaxis.set_major_locator(MaxNLocator(integer=True))
     axes.grid(axis="y", alpha=0.3)
-    return {"total": int(values.sum()), "image": png(figure)}
+    return png(figure)
 
+
+def total_responses(responses, period):
+    # Line graph: responses (y) over the time period (x). A single date is shown by hour, a week and a month by day.
+    # Between two dates it is by day up to about two months, then by week, then by month, so the graph stays readable.
+    rows = inside(responses, "CreatedAt", period)
+    last_day = period["end"] - pd.Timedelta(days=1)
+
+    match period["kind"]:
+        case "day":
+            steps, counts, labels, x_title = steps_by_hour(rows, period)
+        case "week":
+            steps, counts, labels, x_title = steps_by_day(rows, period, last_day, lambda t: f"{t:%a} {t.day}", "Day of the week")
+        case "month":
+            steps, counts, labels, x_title = steps_by_day(rows, period, last_day, lambda t: str(t.day), "Day of the month")
+        case "between" if period["days"] > 366:
+            steps, counts, labels, x_title = steps_by_month(rows, period, last_day)
+        case "between" if period["days"] > 62:
+            steps, counts, labels, x_title = steps_by_week(rows, period, last_day)
+        case "between":
+            steps, counts, labels, x_title = steps_by_day(rows, period, last_day, lambda t: f"{t.day} {t:%b}", "Day")
+
+    values = counts.reindex(steps, fill_value=0).to_numpy()
+    return {"total": int(values.sum()), "image": draw_line_graph(values, labels, x_title)}
+
+
+# ---- Busiest hours / days: a ranking table ----
 
 def ranking(rows, column, period, label_of):
     # The top rows of a count, most first; equal counts keep the earlier one first
@@ -135,23 +164,35 @@ def ranking(rows, column, period, label_of):
     return [{"rank": i, "what": label_of(row.what), "count": int(row.total)} for i, row in enumerate(counts.itertuples(), start=1)]
 
 
-def busiest(responses, period):
-    rows = inside(responses, "CreatedAt", period)
-    n = period["top"]
-    if period["kind"] == "day":                         # one date has only one day, so its busiest hours are ranked
-        rows = rows.assign(slot=rows["CreatedAt"].dt.floor("h"))
-        label = lambda t: f"{t:%H}:00 - {t + pd.Timedelta(hours=1):%H}:00"
-        return {"heading": f"Busiest hours (top {n})", "column": "Hour", "rows": ranking(rows, "slot", period, label)}
+def busiest_hours(rows, period):
+    rows = rows.assign(slot=rows["CreatedAt"].dt.floor("h"))
+    label = lambda t: f"{t:%H}:00 - {t + pd.Timedelta(hours=1):%H}:00"
+    return {"heading": f"Busiest hours (top {period['top']})", "column": "Hour", "rows": ranking(rows, "slot", period, label)}
+
+
+def busiest_days(rows, period):
     rows = rows.assign(slot=rows["CreatedAt"].dt.floor("D"))
     label = lambda t: f"{t:%a} {t.day} {t:%b %Y}"
-    return {"heading": f"Busiest days (top {n})", "column": "Day", "rows": ranking(rows, "slot", period, label)}
+    return {"heading": f"Busiest days (top {period['top']})", "column": "Day", "rows": ranking(rows, "slot", period, label)}
 
+
+def busiest(responses, period):
+    rows = inside(responses, "CreatedAt", period)
+    match period["kind"]:
+        case "day":                                     # one date has only one day, so its busiest hours are ranked
+            return busiest_hours(rows, period)
+        case _:
+            return busiest_days(rows, period)
+
+
+# ---- Most sourced documents: a ranking table ----
 
 def most_sourced(sourced, period):
     rows = inside(sourced, "SourcedAt", period)
-    n = period["top"]
-    return {"heading": f"Most sourced documents (top {n})", "rows": ranking(rows, "Title", period, str)}
+    return {"heading": f"Most sourced documents (top {period['top']})", "rows": ranking(rows, "Title", period, str)}
 
+
+# ---- Longest sessions: a horizontal bar graph ----
 
 def all_sessions(logs):
     # A session runs from a login to the next logout or inactive line of the same username
@@ -170,13 +211,7 @@ def all_sessions(logs):
     return table, still_open
 
 
-def longest_sessions(sessions, still_open, period):
-    # Horizontal bar graph, longest session at the top
-    rows = inside(sessions, "start", period).sort_values("seconds", ascending=False).head(TOP_SESSIONS)
-    result = {"count": len(rows), "still_open": still_open, "image": None}
-    if rows.empty:
-        return result
-
+def draw_bar_graph(rows):
     labels = [f"{r.user} - {r.start:%d %b %H:%M}" for r in rows.itertuples()]
     minutes = rows["seconds"].to_numpy() / 60
     figure, axes = plt.subplots(figsize=(7.5, max(1.6, 0.3 * len(rows) + 0.9)), dpi=150)
@@ -189,8 +224,37 @@ def longest_sessions(sessions, still_open, period):
     for i, seconds in enumerate(rows["seconds"]):
         axes.text(minutes[i], i, "  " + length(seconds), va="center", fontsize=7)
     axes.grid(axis="x", alpha=0.3)
-    result["image"] = png(figure)
+    return png(figure)
+
+
+def longest_sessions(sessions, still_open, period):
+    # Horizontal bar graph, longest session at the top
+    rows = inside(sessions, "start", period).sort_values("seconds", ascending=False).head(TOP_SESSIONS)
+    result = {"count": len(rows), "still_open": still_open, "image": None}
+    if not rows.empty:
+        result["image"] = draw_bar_graph(rows)
     return result
+
+
+# ---- One switch over every section a report can contain ----
+
+SECTION_NAMES = {"TOTAL_RESPONSES": "total responses", "BUSIEST_DAYS": "busiest days",
+                 "MOST_SOURCED": "most sourced", "LONGEST_SESSIONS": "longest sessions"}
+
+
+def add_section(period, section, tables):
+    # Builds one section for one period and stores it where the page template looks for it
+    match section:
+        case "TOTAL_RESPONSES":
+            period["total_responses"] = total_responses(tables["responses"], period)
+        case "BUSIEST_DAYS":
+            period["busiest"] = busiest(tables["responses"], period)
+        case "MOST_SOURCED":
+            period["most_sourced"] = most_sourced(tables["sourced"], period)
+        case "LONGEST_SESSIONS":
+            period["longest_sessions"] = longest_sessions(tables["sessions"], tables["still_open"], period)
+        case _:
+            raise ValueError(f"Unknown report section: {section}")
 
 
 # ---- The document ----
@@ -283,29 +347,26 @@ def make_report():
     if not name:
         sys.exit("REPORT_NAME in config.json is empty.")
 
-    wanted = {key: config.get(key, "False") == "True"
-              for key in ("TOTAL_RESPONSES", "BUSIEST_DAYS", "MOST_SOURCED", "LONGEST_SESSIONS")}
-    if not any(wanted.values()):
+    wanted = [key for key in SECTION_NAMES if config.get(key, "False") == "True"]
+    if not wanted:
         sys.exit("None of TOTAL_RESPONSES, BUSIEST_DAYS, MOST_SOURCED or LONGEST_SESSIONS is True in config.json.")
     periods = periods_from(config)
     if not periods:
         sys.exit("None of BETWEEN_DAYS, SPECIFIC_WEEK or MONTH is set in config.json.")
 
     # The tables are read once and every period and section below works on these
-    responses = read_table("Responses", "CreatedAt")
-    sourced = read_table("SourcedDocuments", "SourcedAt")
     sessions, still_open = all_sessions(read_table("Logs", "LoggedAt"))
+    tables = {"responses": read_table("Responses", "CreatedAt"), "sourced": read_table("SourcedDocuments", "SourcedAt"),
+              "sessions": sessions, "still_open": still_open}
 
     for period in periods:
-        period["total_responses"] = total_responses(responses, period) if wanted["TOTAL_RESPONSES"] else None
-        period["busiest"] = busiest(responses, period) if wanted["BUSIEST_DAYS"] else None
-        period["most_sourced"] = most_sourced(sourced, period) if wanted["MOST_SOURCED"] else None
-        period["longest_sessions"] = longest_sessions(sessions, still_open, period) if wanted["LONGEST_SESSIONS"] else None
+        for field in ("total_responses", "busiest", "most_sourced", "longest_sessions"):
+            period[field] = None                        # sections that were not asked for stay empty, so the page leaves them out
+        for section in wanted:
+            add_section(period, section, tables)
 
-    names = {"TOTAL_RESPONSES": "total responses", "BUSIEST_DAYS": "busiest days",
-             "MOST_SOURCED": "most sourced", "LONGEST_SESSIONS": "longest sessions"}
     html = PAGE.render(name=name, created=f"{pd.Timestamp.now():%d %b %Y %H:%M}", periods=periods,
-                       included=", ".join(text for key, text in names.items() if wanted[key]))
+                       included=", ".join(SECTION_NAMES[key] for key in wanted))
 
     REPORTS_FOLDER.mkdir(exist_ok=True)
     part = REPORTS_FOLDER / f"{name}.pdf.part"          # built under another name, so the server never sees half a file

@@ -1,4 +1,4 @@
-import os, sys, json, warnings, threading
+import os, sys, json, time, subprocess, warnings, threading
 from datetime import datetime
 from dataclasses import dataclass, field
 from itertools import count
@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 
 import numpy as np
 import requests
-from flask import Flask, request
+from flask import Flask, g, request
 from reportapi import register_report_routes
 from backupapi import register_backup_routes
 from sentence_transformers import SentenceTransformer
@@ -33,6 +33,8 @@ CONTEXT_WINDOW = int(config["CONTEXT_WINDOW"])         # how much text Qwen can 
 TEMPERATURE = float(config["TEMPERATURE"])             # low = sticks to the sources
 ANSWER_LENGTH = int(config["LENGTH"])                  # longest answer Qwen may write, in tokens
 PORT = int(config["PORT"])                             # Agent.php and adminAgent.php send questions to this port
+OLLAMA_PATH = os.path.expandvars(config.get("OLLAMA_PATH", r"%LOCALAPPDATA%\Programs\Ollama\ollama.exe"))   # the default install location
+OLLAMA_URL = "http://localhost:11434"                  # where Ollama listens
 QUERY_PREFIX = "Represent this sentence for searching relevant passages: "   # BGE wants this on questions only
 PASSAGES_FOLDER = PROJECT / "PreProcessing" / "Raw_Text"   # passages.jsonl from TextCleanUp.py
 VECTORS_FOLDER = PROJECT / "PreProcessing" / "Embeds"      # passage_vectors.npy from EmbedScript.py
@@ -118,8 +120,22 @@ def answer_P():
 
 
 app = Flask(__name__)
+
+
+@app.before_request
+def start_timer():
+    g.started = time.time()
+
+
+@app.after_request
+def log_request(response):
+    # One line per request: which route was called, the answer's status and how long it took (/ask also prints the question itself)
+    print(f"[{datetime.now():%H:%M:%S}] {request.remote_addr} {request.method} {request.path} -> {response.status_code} "
+          f"({time.time() - g.started:.1f}s)", flush=True)
+    return response
+
 register_report_routes(app, PROJECT)                   # adds /report, reports.php asks it for the report file
-register_backup_routes(app, PROJECT)                   # adds /drive/backup-database and /drive/backup-system (not implemented yet)
+register_backup_routes(app, PROJECT)                   # adds /drive/backup-database and /drive/backup-system
 
 
 @app.post("/ask")
@@ -141,7 +157,37 @@ def ask():
     return queued.answer, 200, {"Content-Type": "text/plain; charset=utf-8"}
 
 
+def ollama_running():
+    try:
+        requests.get(OLLAMA_URL, timeout=2)            # Ollama answers "Ollama is running"
+        return True
+    except requests.RequestException:
+        return False
+
+
+def start_ollama():
+    # Starts Ollama in the background when nothing is answering on its port, and waits until it is ready.
+    # An Ollama that is already running (for example the tray app) is left alone.
+    if ollama_running():
+        print("Ollama is already running")
+        return
+    if not Path(OLLAMA_PATH).exists():
+        print(f"Ollama isn't running and {OLLAMA_PATH} wasn't found. Start Ollama yourself or fix OLLAMA_PATH in config.json")
+        return
+
+    print("Starting Ollama...")
+    subprocess.Popen([OLLAMA_PATH, "serve"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+                     creationflags=subprocess.CREATE_NO_WINDOW | subprocess.CREATE_NEW_PROCESS_GROUP)   # no window, and Ctrl+C here doesn't stop it
+    for _ in range(30):                                # up to about 30 seconds
+        if ollama_running():
+            print("Ollama is running")
+            return
+        time.sleep(1)
+    print("Ollama was started but isn't answering yet. Questions will wait for it to be ready")
+
+
 if __name__ == "__main__":
+    start_ollama()
     threading.Thread(target=answer_P, daemon=True).start()
     print(f"Answer server ready on http://127.0.0.1:{PORT}/ask - leave this window open while the website is in use")
     app.run(host="127.0.0.1", port=PORT, threaded=True)
