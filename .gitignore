@@ -1,5 +1,5 @@
 # Passwords, paths and settings used by the PHP front end and the Python scripts (made by Setup.bat)
-FrontEnd/passwords.txt
+FrontEnd/FrontEndConfig.json
 SysInfo.py
 T4Info.ipynb
 

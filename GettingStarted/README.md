@@ -55,11 +55,11 @@ LLM/
 ├── ScheduleBackup.exe       ← backs up the website's database (run it from Windows Task Scheduler)
 ├── ColabTest.ipynb          ← answers questions on Google Colab
 └── FrontEnd/                ← the website (copied into XAMPP)
-    └── passwords.txt        ← your MySQL login, for the website and ScheduleBackup.exe
+    └── FrontEndConfig.json        ← your MySQL login, for the website and ScheduleBackup.exe
 ```
 
-Keep each `.exe` where it is shown. They find `config.json`, `Raw_Text`, `Embeds` and `passwords.txt` relative to their own folder, so a moved `.exe` can't find its files.
+Keep each `.exe` where it is shown. They find `config.json`, `Raw_Text`, `Embeds` and `FrontEndConfig.json` relative to their own folder, so a moved `.exe` can't find its files.
 
 ## Before you start: keep your SOPs and passwords private
 
-Your SOP documents and the files made from them (`Raw_Text/`, `Embeds/`, `PreProcessesV1/`) contain your SOP text. Don't commit them to a public GitHub repository. `FrontEnd/passwords.txt` holds your MySQL password (step 5). The project's `.gitignore` already keeps it out of git; keep it that way. If you use Google Colab, your passages are processed on Google's servers; check that your organisation allows this.
+Your SOP documents and the files made from them (`Raw_Text/`, `Embeds/`, `PreProcessesV1/`) contain your SOP text. Don't commit them to a public GitHub repository. `FrontEnd/FrontEndConfig.json` holds your MySQL password (step 5). The project's `.gitignore` already keeps it out of git; keep it that way. If you use Google Colab, your passages are processed on Google's servers; check that your organisation allows this.

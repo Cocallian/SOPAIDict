@@ -94,7 +94,7 @@
  [],
  False,
  False,
- 1793565224,
+ 1793571636,
  [('run.exe',
    'C:\\Users\\tygra\\Documents\\Code\\Pythom\\LLM\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],

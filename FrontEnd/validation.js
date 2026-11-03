@@ -1,4 +1,4 @@
-// A username is valid when it is "something" followed by one of the domains listed under [org_name] in passwords.txt
+// A username is valid when it is "something" followed by one of the domains listed under "org_names" in FrontEndConfig.json
 function validateUsername(name, domains)
 {
     name = name.trim().toLowerCase();
@@ -178,6 +178,31 @@ if (search) {
     });
 }
 
+// Refresh button (adminAgent.php dashboard): loads the page again in the background, so every database query runs, and
+// swaps the data sections for the new ones. Forms the admin is typing in and the chosen period are left alone.
+const refreshBtn = document.getElementById("refresh-btn");
+if (refreshBtn) {
+    refreshBtn.addEventListener("click", async function () {
+        if (refreshBtn.classList.contains("spinning")) return;
+        refreshBtn.classList.add("spinning");
+        try {
+            const reply = await fetch("adminAgent.php", { cache: "no-store" });
+            const fresh = new DOMParser().parseFromString(await reply.text(), "text/html");
+            if (!fresh.getElementById("period-views")) { location.reload(); return; }   // session ended, the page sends us to login
+
+            for (const id of ["period-views", "all-users-wrap", "active-box", "apps-box", "server-status"]) {
+                const oldEl = document.getElementById(id);
+                const newEl = fresh.getElementById(id);
+                if (!oldEl || !newEl) continue;
+                if (id === "server-status") { oldEl.textContent = newEl.textContent.trim(); oldEl.className = newEl.className; }
+                else oldEl.innerHTML = newEl.innerHTML;
+            }
+            changeGraph();                              // re-hides the period views the new HTML brought in
+        } catch (problem) { /* keep what is on screen */ }
+        refreshBtn.classList.remove("spinning");
+    });
+}
+
 // Login page: block submission unless both fields have a non-blank value
 const loginForm = document.getElementById("loginForm");
 if (loginForm) {
@@ -297,12 +322,55 @@ if (backupConfirm) {
         }
 
         const toDrive = pending.name.endsWith("drive");
-        if (toDrive) {
-            backupConfirm.classList.remove("open");
-            document.getElementById("backup-loading").classList.add("open");
-            throbBackup(document.getElementById("backup-loading-text"),
-                        pending.name === "backup-drive" ? "Backing up the database to Google Drive..." : "Backing up the system to Google Drive...");
-            await sleep(100);                           // let the popup draw before the page starts waiting for the server
+        const messages = {
+            "backup": "Backing up the database...",
+            "backup-system": "Zipping the system...",
+            "backup-drive": "Backing up the database to Google Drive...",
+            "backup-system-drive": "Backing up the system to Google Drive..."
+        };
+        backupConfirm.classList.remove("open");
+        document.getElementById("backup-loading").classList.add("open");
+        document.getElementById("backup-loading-note").style.display = toDrive ? "" : "none";   // the Google sign in note
+        throbBackup(document.getElementById("backup-loading-text"), messages[pending.name]);
+        await sleep(100);                               // let the popup draw before the page starts waiting for the server
+
+        if (!toDrive) {
+            // Local backups come back as a file: wait for it here, save it in this browser, then say so
+            try {
+                const reply = await fetch("adminAgent.php", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                    body: new URLSearchParams({ [pending.name]: pending.value, "confirm-password": passwordInput.value })
+                });
+                if (!reply.ok) { location.reload(); return; }   // the page shows the error popup the server set
+
+                const name = ((reply.headers.get("Content-Disposition") || "").match(/filename="?([^";]+)"?/) || [])[1] || "backup";
+                const url = URL.createObjectURL(await reply.blob());
+                const link = document.createElement("a");
+                link.href = url;
+                link.download = name;
+                document.body.appendChild(link);
+                link.click();
+                link.remove();
+                setTimeout(function () { URL.revokeObjectURL(url); }, 10000);
+
+                document.getElementById("backup-loading").classList.remove("open");
+                closeBackupConfirm();
+                const popup = document.createElement("div");
+                popup.id = "successPopup";
+                popup.textContent = "Backup received: " + name;
+                const close = document.createElement("button");
+                close.type = "button";
+                close.setAttribute("aria-label", "Close");
+                close.innerHTML = "&times;";
+                close.addEventListener("click", function () { popup.remove(); });
+                popup.appendChild(close);
+                document.body.appendChild(popup);
+                setTimeout(function () { popup.remove(); }, 7000);
+            } catch (problem) {
+                location.reload();
+            }
+            return;
         }
 
         for (const [name, value] of [[pending.name, pending.value], ["confirm-password", passwordInput.value]]) {
@@ -419,15 +487,18 @@ if (startServerForm) {
     });
 }
 
-// Activity watcher for pages with the inactive box. Every 30 seconds the Idle class listens for 5 seconds.
-// Nothing happened in those 5 seconds: the counter goes up. At 24 (12 minutes) the countdown starts and at 30
-// (15 minutes) isInactive() runs. Activity at any point resets the counter and touches the ActiveUsers row.
+// Activity watcher for pages with the inactive box. The inactivity timeout (data-timeout-minutes on the box, set from
+// FrontEndConfig.json) is divided into 30 parts. Every part the Idle class listens for 5 seconds.
+// Nothing happened in those 5 seconds: the counter goes up. At 24 (80% of the timeout) the countdown starts and at 30
+// isInactive() runs. Activity at any point resets the counter and touches the ActiveUsers row.
 var gray = document.getElementById("gray-out");
 var inactiveBox = document.getElementById("inactiveBox");
 var watcher = null;
 var ticker = null;
 var countdownTimer = null;
 var idleCount = 0;
+var timeoutMinutes = inactiveBox ? parseFloat(inactiveBox.dataset.timeoutMinutes) || 15 : 15;
+var checkInterval = Math.max(6000, timeoutMinutes * 60000 / 30);   // one of the 30 parts, never shorter than the 5 second listen
 var windowIdle = false;     // the Idle class went away during this 5 second window
 var windowActive = false;   // the Idle class came back during this 5 second window
 
@@ -437,7 +508,7 @@ if (gray && typeof Idle !== "undefined") {
         onAway : function () { windowIdle = true; },
         onAwayBack : function () { windowActive = true; wokeUp(); }
     });
-    ticker = setInterval(checkActivity, 30000);
+    ticker = setInterval(checkActivity, checkInterval);
 }
 
 function checkActivity()
@@ -479,12 +550,12 @@ function touchActiveUser()
     });
 }
 
-// Started when the counter reaches 24: shows the box and counts the 3 minutes down to the 30
+// Started when the counter reaches 24: shows the box and counts the last 6 parts (20% of the timeout) down to the 30
 function showCountdown()
 {
     gray.style.display = "block";
     inactiveBox.style.display = "block";
-    const deadline = Date.now() + 180000;
+    const deadline = Date.now() + 6 * checkInterval;
     clearInterval(countdownTimer);
     function update()
     {

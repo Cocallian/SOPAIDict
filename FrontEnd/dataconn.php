@@ -1,6 +1,7 @@
 <?php
 session_start();
-$secrets = parse_ini_file(__DIR__ . "/passwords.txt");   // MySQL login and Python paths (kept out of the code)
+require_once __DIR__ . "/frontendconfig.php";
+$secrets = loadSecrets();   // MySQL login and settings from FrontEndConfig.json (kept out of the code)
 require __DIR__ . "/activeusers.php";   // writeLog()
 $_SESSION["perm"] = "";
 $uname = "";
@@ -135,7 +136,7 @@ if($conn->connect_error)
 
     
 
-    // Every minute MySQL removes the rows nobody has refreshed for 15 minutes and writes an 'inactive' line to Logs for each.
+    // Every minute MySQL removes the rows nobody has refreshed for the inactivity timeout (FrontEndConfig.json) and writes an 'inactive' line to Logs for each.
     // The event is dropped and made again so an older version of it is replaced.
     try{
         $conn -> query("DROP EVENT IF EXISTS SOPAgent.CleanActiveUsers");
@@ -143,7 +144,7 @@ if($conn->connect_error)
             ON SCHEDULE EVERY 1 MINUTE
             DO
             BEGIN
-                DECLARE cutoff BIGINT DEFAULT UNIX_TIMESTAMP() - 900;
+                DECLARE cutoff BIGINT DEFAULT UNIX_TIMESTAMP() - " . (int)round(inactivityMinutes() * 60) . ";
 
                 INSERT INTO SOPAgent.Logs (UserId, AdminId, Username, Role, Event, LoggedAt)
                     SELECT u.UserId, a.AdminId, s.Username, IF(LEFT(s.Username, 5) = 'admin', 'admin', 'user'), 'inactive', NOW()

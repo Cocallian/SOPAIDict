@@ -59,7 +59,7 @@ Find the message or symptom you're seeing. Messages in quotes are exactly what t
 
 | Message or symptom | Cause | Fix |
 |---|---|---|
-| "Database connection error, contact your system administrator for assistance" | MySQL isn't running, `passwords.txt` is missing from the `htdocs` folder, or `db_pass` is wrong. | Start MySQL in XAMPP. Check `passwords.txt` is next to `dataconn.php` and `db_pass` is right ([step 5.2](5-Set-Up-the-Website.md#52-fill-in-passwordstxt)). XAMPP's default is empty: `""`. |
+| "Database connection error, contact your system administrator for assistance" | MySQL isn't running, `FrontEndConfig.json` is missing from the `htdocs` folder, or `db_pass` is wrong. | Start MySQL in XAMPP. Check `FrontEndConfig.json` is next to `dataconn.php` and `db_pass` is right ([step 5.2](5-Set-Up-the-Website.md#52-fill-in-frontendconfigjson)). XAMPP's default is empty: `""`. |
 | "The answer server isn't running. Start LocalAITest.py and try again." | `LocalAIServ.exe` isn't running. (The message still uses the program's old name.) | Start `LocalAIServ.exe` and leave its window open ([step 4.1](4-Choose-Local-or-Colab.md#41-on-your-pc)). |
 | "Incorrect Login details" with the right password | The admin username doesn't start with `admin`, or the password was changed in phpMyAdmin. | See [step 5.5](5-Set-Up-the-Website.md#55-managing-accounts). |
 | "Admin usernames must start with "admin"" or "User usernames can't start with "admin"" | The **Add new user** form checks the username matches the role. | Pick a username that fits the role ([step 5.5](5-Set-Up-the-Website.md#55-managing-accounts)). |
@@ -73,12 +73,12 @@ Find the message or symptom you're seeing. Messages in quotes are exactly what t
 | Message or symptom | Cause | Fix |
 |---|---|---|
 | Nothing happens after clicking **Perform Backup** | The folder window opened on the PC running XAMPP, maybe behind other windows, or Apache runs as a Windows service and can't show windows. | Look on that PC's desktop. Start Apache from the XAMPP Control Panel, not as a service ([step 5.3](5-Set-Up-the-Website.md#53-start-everything)). |
-| "Backup failed: … 1045 … Access denied" | `mysqldump` couldn't log in to MySQL with the details in `passwords.txt`. | Check `db_user` and `db_pass` in `passwords.txt`. For `ScheduleBackup.exe`, check the copy in the project's `FrontEnd` folder ([step 5.2](5-Set-Up-the-Website.md#52-fill-in-passwordstxt)). |
+| "Backup failed: … 1045 … Access denied" | `mysqldump` couldn't log in to MySQL with the details in `FrontEndConfig.json`. | Check `db_user` and `db_pass` in `FrontEndConfig.json`. For `ScheduleBackup.exe`, check the copy in the project's `FrontEnd` folder ([step 5.2](5-Set-Up-the-Website.md#52-fill-in-frontendconfigjson)). |
 | "Backup failed: …" saying the system cannot find the path, or `FileNotFoundError` for `mysqldump.exe` | MySQL Server 8.0's `mysqldump` isn't at `C:\Program Files\MySQL\MySQL Server 8.0\bin`. | Install MySQL Server 8.0 there, or point `MYSQLDUMP` in `ScheduleBackup.py` and the path in `adminAgent.php` at your `mysqldump.exe`, then rebuild `ScheduleBackup.exe`. |
 | "No folder chosen, so no backup was made." | `BACKUP_PATH` in `config.json` is empty and the folder window was cancelled. | Choose a folder, or set `BACKUP_PATH` ([step 5.7](5-Set-Up-the-Website.md#57-backups)). |
 | A scheduled backup never finishes, or no file appears | `BACKUP_PATH` is empty, so `ScheduleBackup.exe` is waiting for someone to choose a folder. | Set `BACKUP_PATH` in `config.json`, then end the waiting task in Task Scheduler (right-click → **End**). |
 | Task Scheduler's **Last Run Result** isn't `0x0` | The backup failed. | Double-click `ScheduleBackup.exe` and read its message, or run it from a terminal. Check MySQL was running at the scheduled time. |
-| An error about `passwords.txt` or `'database'` from `ScheduleBackup.exe` | The project's `FrontEnd\passwords.txt` is missing. | Copy it there from `htdocs` ([step 5.2](5-Set-Up-the-Website.md#52-fill-in-passwordstxt)). |
+| An error about `FrontEndConfig.json` or `'database'` from `ScheduleBackup.exe` | The project's `FrontEnd\FrontEndConfig.json` is missing. | Copy it there from `htdocs` ([step 5.2](5-Set-Up-the-Website.md#52-fill-in-frontendconfigjson)). |
 
 ## Poor answers
 

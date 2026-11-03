@@ -1,4 +1,4 @@
-import configparser, csv, json, os, subprocess, sys, tempfile, threading, time
+import csv, json, os, subprocess, sys, tempfile, threading, time
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
@@ -64,17 +64,16 @@ def write_config(config_path, changes):
     os.replace(temporary, config_path)                 # swap in one step, so nothing reads a half-written config.json
 
 
-def connect(passwords_file):
+def connect(config_file):
     import pymysql
-    secrets = configparser.ConfigParser(strict=False)  # the same MySQL login the website uses
-    secrets.read(passwords_file, encoding="utf-8")
-    db = {key: value.strip('"') for key, value in secrets["database"].items()}
+    with open(config_file, encoding="utf-8") as f:     # the same MySQL login the website uses (FrontEndConfig.json)
+        db = json.load(f)["database"]
     return pymysql.connect(host=db["db_host"], user=db["db_user"], password=db["db_pass"], database="SOPAgent", connect_timeout=10)
 
 
-def earliest_entry(passwords_file):
+def earliest_entry(config_file):
     # The date of the oldest thing in the tables a report is built from, None while they are all empty
-    connection = connect(passwords_file)
+    connection = connect(config_file)
     try:
         with connection.cursor() as cursor:
             cursor.execute("SELECT MIN(t) FROM (SELECT MIN(CreatedAt) AS t FROM Prompts UNION ALL SELECT MIN(CreatedAt) FROM Responses "
@@ -109,10 +108,10 @@ def check_available(periods, earliest, today):
             raise RequestError(f"The {label} ends before the oldest entry in the database ({nice(earliest)}), so it has no data.")
 
 
-def export_tables(folder, passwords_file):
+def export_tables(folder, config_file):
     # One query per table, the whole table, written to <folder>/<Table>.csv. GenerateReport.py reads these and never calls the database.
     folder.mkdir(exist_ok=True)
-    connection = connect(passwords_file)
+    connection = connect(config_file)
     try:
         with connection.cursor() as cursor:
             for table in TABLES:
@@ -128,9 +127,9 @@ def export_tables(folder, passwords_file):
         connection.close()
 
 
-def register_report_routes(app, project, script=None, max_wait=MAX_WAIT, passwords_file=None):
+def register_report_routes(app, project, script=None, max_wait=MAX_WAIT, config_file=None):
     script = Path(script) if script else project / "GenerateReport.py"
-    passwords_file = Path(passwords_file) if passwords_file else project / "FrontEnd" / "passwords.txt"
+    config_file = Path(config_file) if config_file else project / "FrontEnd" / "FrontEndConfig.json"
     data_folder = project / "ReportData"
     config_path = project / "config.json"
     reports_folder = project / "Reports"
@@ -163,7 +162,7 @@ def register_report_routes(app, project, script=None, max_wait=MAX_WAIT, passwor
             return "Choose at least one of: " + ", ".join(SECTIONS) + ".", 400
 
         try:                                            # dates that don't exist yet, or that are older than anything in the database
-            check_available(periods, earliest_entry(passwords_file), date.today())
+            check_available(periods, earliest_entry(config_file), date.today())
         except RequestError as error:
             return str(error), 400
         except Exception as error:
@@ -187,7 +186,7 @@ def register_report_routes(app, project, script=None, max_wait=MAX_WAIT, passwor
             write_config(config_path, changes)
 
             try:
-                export_tables(data_folder, passwords_file)
+                export_tables(data_folder, config_file)
             except Exception as error:                  # no database driver, wrong login, MySQL not running ...
                 return f"The report could not read the database: {error}", 500
 

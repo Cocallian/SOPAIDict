@@ -26,33 +26,43 @@ Apache only serves files inside `C:\xampp\htdocs`.
 
 The copy in `htdocs` is the one that runs. If you change a file in the project's `FrontEnd` folder later, copy it across again.
 
-## 5.2 Fill in `passwords.txt`
+## 5.2 Fill in `FrontEndConfig.json`
 
-The PHP pages read your MySQL login from `passwords.txt`. It's kept out of git, so a fresh copy of the project doesn't have one. You need it in **two** places:
+The PHP pages read your MySQL login from `FrontEndConfig.json`. It's kept out of git, so a fresh copy of the project doesn't have one. You need it in **two** places:
 
-- `C:\xampp\htdocs\SOPAgent\passwords.txt`, for the website
-- `LLM\FrontEnd\passwords.txt` in the project, for `ScheduleBackup.exe` (step 5.7)
+- `C:\xampp\htdocs\SOPAgent\FrontEndConfig.json`, for the website
+- `LLM\FrontEnd\FrontEndConfig.json` in the project, for `ScheduleBackup.exe` (step 5.7)
 
-Create it in Notepad. When saving, choose **Save as type: All files**, so it isn't saved as `passwords.txt.txt`. Paste this in and fill it out:
+Create it in Notepad. When saving, choose **Save as type: All files**, so it isn't saved as `FrontEndConfig.json.txt`. Paste this in and fill it out:
 
-```ini
-; Passwords the PHP pages and ScheduleBackup.exe read.
-; Keep every value inside double quotes. Do not commit this file to git.
-
-[database]
-db_host = "127.0.0.1"
-db_user = "root"
-db_pass = ""
+```json
+{
+    "database": {
+        "db_host": "127.0.0.1",
+        "db_user": "root",
+        "db_pass": ""
+    },
+    "answers": {
+        "colab_url": ""
+    },
+    "paths": {
+        "server_path": ""
+    },
+    "org_names": ["@example.org"]
+}
 ```
 
 | Setting | What to put |
 |---|---|
 | `db_host`, `db_user` | Leave as they are for XAMPP. |
 | `db_pass` | XAMPP's MySQL `root` user has **no password** out of the box, so leave it as `""`. If you've set one, put it here. |
+| `colab_url` | Leave empty to answer with `LocalAIServ.exe` on this PC. To use the Colab notebook instead, paste the address its last cell prints (it ends in `/ask`). |
+| `server_path` | Where `LocalAIServ.py` is. Leave it empty: the **Start server** button on the admin page asks for the file the first time and saves it here. |
+| `org_names` | The email domains people may sign up with, each starting with `@`. |
 
-Keep **every value in double quotes**, especially passwords containing `;`, `!`, `=` or `#`. Without quotes, PHP can misread them.
+The file must be valid JSON: every value in double quotes, a comma after every entry except the last, and each backslash in a Windows path written twice (or use `/` slashes). A missing comma stops the website reading its settings.
 
-`.htaccess` stops browsers from opening `passwords.txt`, and the project's `.gitignore` keeps it out of git.
+`.htaccess` stops browsers from opening `FrontEndConfig.json`, and the project's `.gitignore` keeps it out of git.
 
 ## 5.3 Start everything
 
@@ -88,7 +98,7 @@ Anyone on the same network can open `http://YOUR-PC-IP/SOPAgent/` if Windows Fir
 
 This setup is meant for a trusted local network:
 - Passwords are stored as unsalted SHA-256 hashes.
-- The MySQL password is stored as plain text in `passwords.txt`.
+- The MySQL password is stored as plain text in `FrontEndConfig.json`.
 - There's no HTTPS.
 
 Don't expose it to the internet without hardening those first. If you do forward a port to it, forward only Apache's port. Never forward 3306 (MySQL) or 5000 (the answer server).
@@ -113,7 +123,7 @@ On the admin page, open the ☰ menu and click **Perform Backup**. A folder wind
 
 If `BACKUP_PATH` is empty, `ScheduleBackup.exe` opens a folder window and waits for someone to choose. That's fine when you run it by hand, but a scheduled run would sit waiting, so always set it before scheduling.
 
-**2. Test it by hand.** Double-click `ScheduleBackup.exe`. It reads the MySQL login from the project's `FrontEnd\passwords.txt` (step 5.2), and a new `SOPagent<date>.sql` should appear in your backup folder.
+**2. Test it by hand.** Double-click `ScheduleBackup.exe`. It reads the MySQL login from the project's `FrontEnd\FrontEndConfig.json` (step 5.2), and a new `SOPagent<date>.sql` should appear in your backup folder.
 
 **3. Create the scheduled task.**
 

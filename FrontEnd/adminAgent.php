@@ -1,6 +1,7 @@
 <?php
 session_start();
-$secrets = parse_ini_file(__DIR__ . "/passwords.txt");   // MySQL login (kept out of the code)
+require_once __DIR__ . "/frontendconfig.php";
+$secrets = loadSecrets();   // MySQL login and settings from FrontEndConfig.json (kept out of the code)
 require __DIR__ . "/vendor/autoload.php";
 use CpChart\Data;
 use CpChart\Image;
@@ -13,7 +14,7 @@ if($_SESSION["perm"] != "admin" )
         $sesID = session_id();
     }
 
-// Every value under [org_name] in passwords.txt is an allowed email domain, whatever its key is called
+// Every entry under "org_names" in FrontEndConfig.json is an allowed email domain
 require __DIR__ . "/orgdomains.php";
 $orgDomains = loadOrgDomains();
 require __DIR__ . "/activeusers.php";
@@ -88,29 +89,49 @@ foreach(["backup", "backup-drive", "backup-system", "backup-system-drive"] as $b
         break;
     }
 
-// The two local buttons: a folder window opens on this PC's desktop (Apache must be started from the XAMPP Control Panel),
-// then backupapi.py in the Flask server makes the backup in the chosen folder
+// The two local buttons: backupapi.py in the Flask server makes the backup and this page passes the file on to the
+// browser of whoever pressed the button, so it downloads there instead of being saved on the host PC
 foreach(["backup" => "local/backup-database", "backup-system" => "local/backup-system"] as $button => $route)
     {
         if(!array_key_exists($button, $_POST)) { continue; }
 
-        $pick = 'Add-Type -AssemblyName System.Windows.Forms; '
-              . '$f = New-Object System.Windows.Forms.FolderBrowserDialog; '
-              . '$f.Description = "Choose where to save the SOPAgent backup"; '
-              . 'if($f.ShowDialog((New-Object System.Windows.Forms.Form -Property @{TopMost = $true})) -eq "OK") { $f.SelectedPath }';
-        $folder = trim(shell_exec("powershell -NoProfile -STA -EncodedCommand " . base64_encode(iconv("UTF-8", "UTF-16LE", $pick))) ?? "");
+        session_write_close();   // don't hold the session while the backup is made
+        $stream = @fopen("http://127.0.0.1:5000/" . $route, "r", false, stream_context_create(["http" => [
+            "method"        => "POST",
+            "header"        => "Content-Type: application/x-www-form-urlencoded",
+            "content"       => "",
+            "timeout"       => 600,
+            "ignore_errors" => true,
+        ]]));
+        $status = 0;
+        foreach($http_response_header ?? [] as $line)
+            {
+                if(preg_match('/^HTTP\/\S+ (\d+)/', $line, $m)) { $status = (int)$m[1]; }
+            }
 
-        if($folder !== "") { callBackupApi($route, ["path" => $folder]); }
+        if($stream !== false && $status === 200)
+            {
+                foreach($http_response_header as $line)
+                    {
+                        if(preg_match('/^(Content-Type|Content-Disposition|Content-Length):/i', $line)) { header($line); }
+                    }
+                fpassthru($stream);   // streamed, so a big system zip doesn't have to fit in PHP's memory
+                fclose($stream);
+                exit();
+            }
 
-        // Reload as a normal GET so refreshing the page doesn't send the backup again
-        header("Location: adminAgent.php");
+        $problem = $stream === false ? false : stream_get_contents($stream);
+        session_start();
+        $_SESSION["err"] = $problem === false ? "The backup server isn't running. Start LocalAIServ.py and try again" : $problem;
+
+        // validation.js sent this with fetch: it reloads the page when it sees the 500, and the popup shows the error
+        http_response_code(500);
         exit();
     }
 
 // The Server card. The server is LocalAIServ.py, the same one that answers on $ASK_URL's port. Where the file is lives
-// under [paths] in passwords.txt as server_path (with / slashes); when it isn't set the file window opens to choose it.
+// under "paths" in FrontEndConfig.json as server_path (with / slashes); when it isn't set the file window opens to choose it.
 $SERVER_PORT = 5000;                                                  // PORT in config.json
-$PASSWORDS_FILE = __DIR__ . "/passwords.txt";
 
 // True when something is answering on the server's port
 function serverRunning($port)
@@ -138,31 +159,12 @@ function chooseServerFile()
         return str_replace("\\", "/", runPowerShell($pick));
     }
 
-// Writes server_path under [paths] in passwords.txt: replaces the line when it is there, otherwise adds it under the heading
-function saveServerPath($file, $path)
+// Writes server_path under "paths" in FrontEndConfig.json
+function saveServerPath($path)
     {
-        $newLine = 'server_path = "' . $path . '"';
-        $lines = file($file, FILE_IGNORE_NEW_LINES);
-        $alreadyThere = preg_grep('/^\s*server_path\s*=/i', $lines) !== [];
-        $out = [];
-        $inPaths = false;
-        $done = false;
-        foreach($lines as $line)
-            {
-                $isHeading = preg_match('/^\s*\[(.+)\]\s*$/', $line, $heading) === 1;
-                if($isHeading) { $inPaths = strtolower($heading[1]) === "paths"; }
-
-                if($alreadyThere && $inPaths && !$isHeading && preg_match('/^\s*server_path\s*=/i', $line))
-                    {
-                        $out[] = $newLine;                   // the line is there: replace it
-                        $done = true;
-                        continue;
-                    }
-                $out[] = $line;
-                if(!$alreadyThere && $inPaths && $isHeading) { $out[] = $newLine; $done = true; }   // not there: add it under [paths]
-            }
-        if(!$done) { array_push($out, "[paths]", $newLine); }
-        file_put_contents($file, implode("\n", $out) . "\n");
+        $config = readFrontEndConfig();
+        $config["paths"]["server_path"] = $path;
+        saveFrontEndConfig($config);
     }
 
 // Answers "up" or "down" and nothing else, validation.js asks it every couple of seconds while the server is starting
@@ -183,7 +185,7 @@ if(array_key_exists('start-server', $_POST))
             {
                 $serverFile = chooseServerFile();            // first start (or the file moved): choose it once and remember it
                 if($serverFile === "") { echo "error: No server file was chosen"; exit(); }
-                saveServerPath($PASSWORDS_FILE, $serverFile);
+                saveServerPath($serverFile);
             }
 
         $folder = str_replace("/", "\\", dirname($serverFile));
@@ -202,7 +204,7 @@ if(array_key_exists('change-server-path', $_POST))
         $serverFile = chooseServerFile();
         if($serverFile !== "")
             {
-                saveServerPath($PASSWORDS_FILE, $serverFile);
+                saveServerPath($serverFile);
                 $_SESSION["success"] = "Server file set to: " . $serverFile;
             }
         header("Location: adminAgent.php");
@@ -873,6 +875,30 @@ if($q !== "")
         #panel h2 {
             margin: 0 0 20px;
         }
+        #refresh-btn {
+            position: absolute;
+            top: 20px;
+            right: 40px;
+            width: 44px;
+            height: 44px;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: transparent;
+            border: none;
+            color: white;
+            cursor: pointer;
+        }
+        #refresh-btn:hover {
+            color: #ffc107;
+        }
+        #refresh-btn.spinning svg {
+            animation: refresh-spin 0.8s linear infinite;
+        }
+        @keyframes refresh-spin {
+            to { transform: rotate(360deg); }
+        }
         .panel-grid {
             display: flex;
             flex-wrap: wrap;
@@ -1298,6 +1324,12 @@ if($q !== "")
 
     <div id="panel">
         <h2>Dashboard</h2>
+        <button id="refresh-btn" type="button" aria-label="Refresh dashboard" title="Refresh dashboard">
+            <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M20 12a8 8 0 1 1-2.34-5.66"></path>
+                <polyline points="20 4 20 9 15 9"></polyline>
+            </svg>
+        </button>
         <div class="panel-grid">
             <div class="panel-box wide">
                 <h3>Overview</h3>
@@ -1308,6 +1340,7 @@ if($q !== "")
                         <option value="365days">Last 365 days</option>
                     </select>
                 </div>
+                <div id="period-views">
                 <?php foreach ($views as $p => $view): ?>
                 <div class="period-view"<?php echo ' data-period="' . $p . '"'; ?> hidden>
                     <div class="stat-row">
@@ -1325,6 +1358,7 @@ if($q !== "")
                     </div>
                 </div>
                 <?php endforeach; ?>
+                </div>
 
                         </br>
                 <a href = "reports.php"><button id = "reportBtn" >Generate Reports</button></a>
@@ -1372,14 +1406,16 @@ if($q !== "")
                     <input type="hidden" name="drole" id="drole">
                     <input type="hidden" name="del-user" value="del-user">
                 </form>
+                <div id="all-users-wrap">
                 <h3 style="margin-top: 20px;">All users (<?php echo count($allUsers); ?>)</h3>
                 <ul id="all-users">
                     <?php foreach ($allUsers as $u): ?>
                         <li><?php echo htmlspecialchars($u["Username"]); ?><span class="role"><?php echo $u["Role"]; ?></span></li>
                     <?php endforeach; ?>
                 </ul>
+                </div>
             </div>
-            <div class="panel-box">
+            <div class="panel-box" id="active-box">
                 <h3>Active users (<?php echo count($activeUsers); ?>)</h3>
                 <?php if (count($activeUsers) === 0): ?>
                     <p>Nobody is logged in.</p>
@@ -1402,7 +1438,7 @@ if($q !== "")
                     </ul>
                 <?php endif; ?>
             </div>
-            <div class="panel-box wide">
+            <div class="panel-box wide" id="apps-box">
                 <h3>Applications (<?php echo count($applications); ?>)</h3>
                 <?php if (count($applications) === 0): ?>
                     <p>No applications waiting.</p>
@@ -1493,7 +1529,7 @@ if($q !== "")
     <div id = "backup-loading">
         <div id = "backup-loading-box">
             <div id = "backup-loading-text"></div>
-            <div id = "backup-loading-note">
+            <div id = "backup-loading-note" data-drive-only>
                 The first Google Drive backup opens a Google sign in in the browser on the server PC.
                 Finish it there within 2 minutes. Please don't close or refresh this page.
             </div>
@@ -1501,7 +1537,7 @@ if($q !== "")
     </div>
 
     <div id = "gray-out">
-        <div id = "inactiveBox">
+        <div id = "inactiveBox" data-timeout-minutes="<?php echo inactivityMinutes(); ?>">
             You have been detected as inactive, you will be logged out in : <span id="inactiveCountdown"></span>
                 </br>
                 Move your mouse or click/tap anywhere to reactivate the page.

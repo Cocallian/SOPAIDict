@@ -1,6 +1,7 @@
 <?php
 session_start();
-$secrets = parse_ini_file(__DIR__ . "/passwords.txt");   // MySQL login (kept out of the code)
+require_once __DIR__ . "/frontendconfig.php";
+$secrets = loadSecrets();   // MySQL login and settings from FrontEndConfig.json (kept out of the code)
 if($_SESSION["perm"] != "user")
     {
         header("Location: login.php");
@@ -475,7 +476,7 @@ if($q !== "")
     </div>
 
     <div id = "gray-out">
-        <div id = "inactiveBox">
+        <div id = "inactiveBox" data-timeout-minutes="<?php echo inactivityMinutes(); ?>">
             You have been detected as inactive, you will be logged out in : <span id="inactiveCountdown"></span>
                 </br>
                 Move your mouse or click/tap anywhere to reactivate the page.

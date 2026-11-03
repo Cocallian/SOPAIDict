@@ -1,0 +1,27 @@
+{
+    "database": {
+        "db_host": "127.0.0.1",
+        "db_user": "root",
+        "db_pass": ""
+    },
+    "seed_accounts": {
+        "admin_user": "admin",
+        "admin_pass": "123",
+        "user_user": "user",
+        "user_pass": "123"
+    },
+    "answers": {
+        "colab_url": ""
+    },
+    "paths": {
+        "server_path": ""
+    },
+    "inactivity": {
+        "inactivity_timeout_minutes": 2
+    },
+    "org_names": [
+        "@Sahpra.co.za",
+        "@gmail.com",
+        "@hotmail.com"
+    ]
+}

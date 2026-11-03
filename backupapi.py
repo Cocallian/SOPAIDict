@@ -1,7 +1,7 @@
-import configparser, json, re, subprocess, tempfile, threading, zipfile
+import io, json, re, subprocess, tempfile, threading, zipfile
 from datetime import datetime
 from pathlib import Path
-from flask import request
+from flask import request, send_file
 
 # Google Drive backups for the Backup card on the admin dashboard. The Drive calls follow Google's Python quickstart
 # (token.json + InstalledAppFlow + build("drive", "v3") + MediaFileUpload), the same steps as the Medium article.
@@ -98,11 +98,10 @@ def upload_file(service, path, folder_id):
     return response["id"]
 
 
-def backup_database_to_drive(project, passwords_file):
+def backup_database_to_drive(project, config_file):
     # Same MySQL login and mysqldump options as ScheduleBackup.py
-    secrets = configparser.ConfigParser(strict=False)
-    secrets.read(passwords_file, encoding="utf-8")
-    db = {key: value.strip('"') for key, value in secrets["database"].items()}
+    with open(config_file, encoding="utf-8") as f:
+        db = json.load(f)["database"]
 
     name = f"SOPagent{datetime.now():%Y-%m-%d_%H-%M}.sql"
     with tempfile.TemporaryDirectory() as temp:
@@ -156,8 +155,8 @@ def backup_system_to_drive(project):
     return name                                         # the temporary folder (and the zip in it) is deleted here
 
 
-def register_backup_routes(app, project, passwords_file=None):
-    passwords_file = Path(passwords_file) if passwords_file else project / "FrontEnd" / "passwords.txt"
+def register_backup_routes(app, project, config_file=None):
+    config_file = Path(config_file) if config_file else project / "FrontEnd" / "FrontEndConfig.json"
 
     def run_backup(label, backup, *args):
         # Runs one backup method and answers with plain text: 200 + the file name in Drive, 500 + the reason when it fails
@@ -172,50 +171,45 @@ def register_backup_routes(app, project, passwords_file=None):
 
     @app.post("/local/backup-database")
     def local_backup_database():
-        # The caller opens the folder dialog and posts the chosen folder as "path"; ScheduleBackup.exe saves the dump there
-        folder = request.form.get("path", "").strip()
-        log(f"Local database backup started, folder: {folder or '(none sent)'}")
-        if not folder:
-            return "No backup folder was sent.", 400
-        if not Path(folder).is_dir():
-            log("Local database backup refused: the folder doesn't exist")
-            return f"The folder {folder} doesn't exist.", 400
+        # ScheduleBackup.exe saves the dump into a temporary folder, then the file is sent back to whoever pressed the button
         exe = project / "ScheduleBackup.exe"
+        log("Local database backup started")
         if not exe.exists():
             log(f"Local database backup FAILED: {exe.name} not found")
             return f"{exe.name} wasn't found in {project}.", 500
 
-        log(f"Running {exe.name}")
-        run = subprocess.run([str(exe), folder], capture_output=True, text=True, timeout=300)
-        if run.returncode != 0:
-            log(f"Local database backup FAILED: {(run.stderr or run.stdout).strip()}")
-            return (run.stderr or run.stdout).strip() or "Backup failed.", 500
-        log("Local database backup finished")
-        return f"Database successfully backed up to: {folder}", 200
+        with tempfile.TemporaryDirectory() as temp:
+            log(f"Running {exe.name}")
+            run = subprocess.run([str(exe), temp], capture_output=True, text=True, timeout=300)
+            dumps = list(Path(temp).glob("*.sql"))
+            if run.returncode != 0 or not dumps:
+                log(f"Local database backup FAILED: {(run.stderr or run.stdout).strip()}")
+                return (run.stderr or run.stdout).strip() or "Backup failed.", 500
+            data = dumps[0].read_bytes()                # read before the temporary folder is deleted
+            name = dumps[0].name
+        log(f"Local database backup finished: {name}")
+        return send_file(io.BytesIO(data), as_attachment=True, download_name=name, mimetype="application/sql")
 
     @app.post("/local/backup-system")
     def local_backup_system():
-        # The caller opens the folder dialog and posts the chosen folder as "path"; the whole system is zipped into it
-        folder = request.form.get("path", "").strip()
-        log(f"Local system backup started, folder: {folder or '(none sent)'}")
-        if not folder:
-            return "No backup folder was sent.", 400
-        if not Path(folder).is_dir():
-            log("Local system backup refused: the folder doesn't exist")
-            return f"The folder {folder} doesn't exist.", 400
+        # The whole system is zipped into a temporary folder, then the zip is sent back to whoever pressed the button
+        log("Local system backup started")
         try:
-            zip_file = Path(folder) / system_zip_name(project)
-            make_system_zip(project, zip_file)
+            name = system_zip_name(project)
+            with tempfile.TemporaryDirectory() as temp:
+                zip_file = Path(temp) / name
+                make_system_zip(project, zip_file)
+                data = zip_file.read_bytes()            # read before the temporary folder is deleted
         except Exception as error:
             log(f"Local system backup FAILED: {error}")
             return f"Backup failed: {error}", 500
-        log("Local system backup finished")
-        return f"System successfully backed up to: {zip_file}", 200
+        log(f"Local system backup finished: {name}")
+        return send_file(io.BytesIO(data), as_attachment=True, download_name=name, mimetype="application/zip")
 
     @app.post("/drive/backup-database")
     def drive_backup_database():
         # adminAgent.php posts here when "Database backup - Google Drive" is pressed: only the database
-        return run_backup("Google Drive database backup", backup_database_to_drive, project, passwords_file)
+        return run_backup("Google Drive database backup", backup_database_to_drive, project, config_file)
 
     @app.post("/drive/backup-system")
     def drive_backup_system():

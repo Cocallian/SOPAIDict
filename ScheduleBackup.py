@@ -1,5 +1,4 @@
 import base64
-import configparser
 import json
 import subprocess
 import sys
@@ -27,9 +26,8 @@ if PATH_URL == "":
         sys.exit("No folder chosen, so no backup was made.")
 
 # The MySQL login is the one the website uses
-secrets = configparser.ConfigParser()
-secrets.read(PROJECT / "FrontEnd" / "passwords.txt", encoding="utf-8")
-db = {key: value.strip('"') for key, value in secrets["database"].items()}   # passwords.txt keeps values in double quotes
+with open(PROJECT / "FrontEnd" / "FrontEndConfig.json", "r", encoding="utf-8") as file:
+    db = json.load(file)["database"]
 
 backup_file = Path(PATH_URL) / f"SOPagent{date.today()}.sql"
 command = [MYSQLDUMP, f"--host={db['db_host']}", f"--user={db['db_user']}",

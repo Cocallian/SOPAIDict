@@ -1,7 +1,8 @@
 <?php
     session_start();
-    $secrets = parse_ini_file(__DIR__ . "/passwords.txt");   // MySQL login (kept out of the code)
-    // Every value under [org_name] in passwords.txt is an allowed email domain, whatever its key is called
+    require_once __DIR__ . "/frontendconfig.php";
+    $secrets = loadSecrets();   // MySQL login and settings from FrontEndConfig.json (kept out of the code)
+    // Every entry under "org_names" in FrontEndConfig.json is an allowed email domain
     require __DIR__ . "/orgdomains.php";
     $orgDomains = loadOrgDomains();
 
