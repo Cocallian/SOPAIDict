@@ -98,6 +98,22 @@ if($conn->connect_error)
         CHECK ((UserId IS NULL) <> (AdminId IS NULL))
     ) ENGINE=InnoDB");
 
+    // A 1 to 5 rating (empty until the user picks one) and extra comments for a response, "N/A" when none were given
+    $conn -> query("CREATE TABLE IF NOT EXISTS Feedback (
+        FeedbackId   INT UNSIGNED NOT NULL AUTO_INCREMENT,
+        ResponseId   INT UNSIGNED NOT NULL,
+        PromptId     INT UNSIGNED NOT NULL,
+        Username     VARCHAR(50)  NOT NULL,
+        Rating       TINYINT UNSIGNED NULL,
+        ExtraFeedback TEXT        NULL,
+        CreatedAt    TIMESTAMP    NOT NULL DEFAULT CURRENT_TIMESTAMP,
+        PRIMARY KEY (FeedbackId),
+        FOREIGN KEY (ResponseId) REFERENCES Responses(ResponseId) ON DELETE CASCADE,
+        FOREIGN KEY (PromptId)   REFERENCES Prompts(PromptId)     ON DELETE CASCADE,
+        CHECK (Rating BETWEEN 1 AND 5)
+    ) ENGINE=InnoDB");
+    try{ $conn -> query("ALTER TABLE Feedback MODIFY Rating TINYINT UNSIGNED NULL"); }catch(mysqli_sql_exception $e){}   // the first version of the table needed a score
+
     // Every login, logout and inactivity logout. The link to Users / Admins is set to NULL when the account is deleted,
     // so the history stays; Username and Role are kept on every line for that reason
     $conn -> query("CREATE TABLE IF NOT EXISTS Logs (
@@ -170,15 +186,16 @@ if($conn->connect_error)
             $stmt -> close();
         }
 
-    //Delete this code after first run or if you manually set admin details
-    $adminUser = 'admin';
-    $adminHash = hash('sha256', "123");
+
+        
+    $adminUser = loadSecrets()["seed_accounts"]["admin_user"];
+    $adminHash = hash('sha256', loadSecrets()["seed_accounts"]["admin_password"] ?? "123");
     $stmt = $conn -> prepare("INSERT IGNORE INTO Admins (Username, PasswordHash) VALUES (?, ?)");
     $stmt -> bind_param("ss", $adminUser, $adminHash);
     $stmt -> execute();
 
-    $dumUser = "user";
-    $userPass = hash("sha256", "123");
+    $dumUser = loadSecrets()["seed_accounts"]["user_user"];
+    $userPass = hash("sha256", loadSecrets()["seed_accounts"]["user_pass"]);
     $stmt2 = $conn -> prepare("INSERT IGNORE INTO Users (Username, PasswordHash) VALUES (?, ?)");
     $stmt2 -> bind_param("ss", $dumUser, $userPass);
     $stmt2 -> execute();

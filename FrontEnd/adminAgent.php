@@ -216,11 +216,17 @@ if(array_key_exists('stop-server', $_POST))
         if(!serverRunning($SERVER_PORT)) { $_SESSION["err"] = "The server isn't running"; }
         else
             {
-                // Stops whatever is listening on the port (its window closes with it)
-                runPowerShell("Get-NetTCPConnection -LocalPort " . $SERVER_PORT . " -State Listen -ErrorAction SilentlyContinue "
-                            . "| ForEach-Object { Stop-Process -Id \$_.OwningProcess -Force }");
+                // LocalAIServ.py stops Ollama and then itself (its window closes with it)
+                session_write_close();   // don't hold the session while the server shuts down
+                @file_get_contents("http://127.0.0.1:" . $SERVER_PORT . "/shutdown", false, stream_context_create(["http" => [
+                    "method"        => "POST",
+                    "timeout"       => 30,
+                    "ignore_errors" => true,
+                ]]));
+                for($i = 0; $i < 10 && serverRunning($SERVER_PORT); $i++) { usleep(500000); }   // up to 5 seconds for the port to close
+                session_start();
                 if(serverRunning($SERVER_PORT)) { $_SESSION["err"] = "The server couldn't be stopped"; }
-                else { $_SESSION["success"] = "The server has been stopped"; }
+                else { $_SESSION["success"] = "Ollama and the server have been stopped"; }
             }
         header("Location: adminAgent.php");
         exit();
@@ -251,6 +257,9 @@ foreach(["backup-drive" => "backup-database", "backup-system-drive" => "backup-s
 if(isset($conn)) { touchActiveUser($conn, $userN); }
 
 if(array_key_exists('touch', $_POST)) { exit(); }   // validation.js only wanted LastSeen refreshed, nothing to draw
+
+require_once __DIR__ . "/feedback.php";
+if(isset($conn)) { handleFeedbackSave($conn); }   // the feedback window's Send button
 
 // Live user search for the Delete User card, answers with a JSON list of usernames
 if(array_key_exists('search-user', $_POST))
@@ -448,6 +457,7 @@ if(array_key_exists('app-action', $_POST) && isset($conn))
         exit();
     }
 
+$feedbackId = null;   // set when this answer got its feedback row
 if($q !== "")
     {
         set_time_limit(300);
@@ -495,7 +505,9 @@ if($q !== "")
                         $stmt = $conn->prepare("INSERT INTO Responses (PromptId, AdminId, ResponseText, CreatedAt) VALUES (?, ?, ?, NOW())");
                         $stmt->bind_param("iis", $promptId, $adminId, $a);
                         $stmt->execute();
+                        $responseId = $conn->insert_id;
                         $stmt->close();
+                        $feedbackId = createFeedbackRow($conn, $responseId, $promptId, $_SESSION["uname"] ?? "");
                     }
                 catch(mysqli_sql_exception)
                     {
@@ -750,6 +762,7 @@ if($q !== "")
 <html lang="en">
 <head>
     <script src="idle.js?v=<?php echo filemtime(__DIR__ . "/idle.js"); ?>" defer></script>
+    <link rel="stylesheet" href="feedback.css?v=<?php echo filemtime(__DIR__ . "/feedback.css"); ?>">
     <script src="validation.js?v=<?php echo filemtime(__DIR__ . "/validation.js"); ?>" defer></script>
     
 
@@ -938,7 +951,7 @@ if($q !== "")
         .button-group form {
             margin: 0;
         }
-        .panel-box button[type="submit"], #reportBtn {
+        .panel-box button[type="submit"], #reportBtn, #settingsBtn {
             display: block;
         }
         #password-rules {
@@ -1099,7 +1112,7 @@ if($q !== "")
             color: white;
             font: inherit;
         }
-        .panel-box button[type="submit"], #reportBtn {
+        .panel-box button[type="submit"], #reportBtn, #settingsBtn {
             padding: 10px 20px;
             border: none;
             border-radius: 8px;
@@ -1308,8 +1321,11 @@ if($q !== "")
     </div>
 <?php endif; ?>
 
+<div id="out"<?php echo $feedbackId ? ' class="has-feedback"' : ""; ?>>
 <div id="res">
     <textarea id = "ta" readonly><?php echo $a === "" ? "Welcome to the SOP RAG agent, type below to start querying the agent" : htmlspecialchars($a); ?></textarea>
+</div>
+<?php renderFeedback($feedbackId); ?>
 </div>
     <form method = "post" onsubmit = "startSearch(event)">
         <input type="text" id="user-input" name="user-input" autofocus>
@@ -1362,6 +1378,7 @@ if($q !== "")
 
                         </br>
                 <a href = "reports.php"><button id = "reportBtn" >Generate Reports</button></a>
+                <a href = "settings.php"><button type = "button" id = "settingsBtn">Settings</button></a>
             </div>
 
             <div class="panel-box">

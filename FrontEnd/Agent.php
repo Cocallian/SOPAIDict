@@ -62,6 +62,10 @@ if(array_key_exists('touch', $_POST))
         exit();
     }
 
+require_once __DIR__ . "/feedback.php";
+if(isset($conn)) { handleFeedbackSave($conn); }   // the feedback window's Send button
+
+$feedbackId = null;   // set when this answer got its feedback row
 if($q !== "")
     {
         set_time_limit(300);   // finding passages + Qwen's answer can take over a minute
@@ -111,7 +115,9 @@ if($q !== "")
                         $stmt = $conn->prepare("INSERT INTO Responses (PromptId, UserId, ResponseText, CreatedAt) VALUES (?, ?, ?, NOW())");
                         $stmt->bind_param("iis", $promptId, $userId, $a);
                         $stmt->execute();
+                        $responseId = $conn->insert_id;
                         $stmt->close();
+                        $feedbackId = createFeedbackRow($conn, $responseId, $promptId, $_SESSION["uname"] ?? "");
                     }
                 catch(mysqli_sql_exception)
                     {
@@ -189,6 +195,7 @@ if($q !== "")
 <html lang="en">
 <head>
     <script src="idle.js?v=<?php echo filemtime(__DIR__ . "/idle.js"); ?>" defer></script>
+    <link rel="stylesheet" href="feedback.css?v=<?php echo filemtime(__DIR__ . "/feedback.css"); ?>">
     <script src="validation.js?v=<?php echo filemtime(__DIR__ . "/validation.js"); ?>" defer></script>
     <style>
         * {
@@ -433,8 +440,11 @@ if($q !== "")
     </div>
 <?php endif; ?>
 
+<div id="out"<?php echo $feedbackId ? ' class="has-feedback"' : ""; ?>>
 <div id="res">
     <textarea id = "ta" readonly><?php echo $a === "" ? "Welcome to the SOP RAG agent, type below to start querying the agent" : htmlspecialchars($a); ?></textarea>
+</div>
+<?php renderFeedback($feedbackId); ?>
 </div>
     <form method = "post" onsubmit = "startSearch(event)">
         <input type="text" id="user-input" name="user-input" autofocus>

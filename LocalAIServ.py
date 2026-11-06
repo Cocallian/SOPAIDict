@@ -17,6 +17,7 @@ import requests
 from flask import Flask, g, request
 from reportapi import register_report_routes
 from backupapi import register_backup_routes
+from settingsapi import register_settings_routes
 from sentence_transformers import SentenceTransformer
 
 PROJECT = Path(sys.executable).parent if getattr(sys, "frozen", False) else Path(__file__).parent   # next to the .exe when built with PyInstaller
@@ -32,6 +33,7 @@ TOP_K = int(config["SOURCES"])                         # passages given to Qwen;
 CONTEXT_WINDOW = int(config["CONTEXT_WINDOW"])         # how much text Qwen can read; smaller = less memory
 TEMPERATURE = float(config["TEMPERATURE"])             # low = sticks to the sources
 ANSWER_LENGTH = int(config["LENGTH"])                  # longest answer Qwen may write, in tokens
+RUNNING_THREADS = int(config.get("RUNNING_THREADS", 1))   # questions Ollama answers at the same time (OLLAMA_NUM_PARALLEL)
 PORT = int(config["PORT"])                             # Agent.php and adminAgent.php send questions to this port
 OLLAMA_PATH = os.path.expandvars(config.get("OLLAMA_PATH", r"%LOCALAPPDATA%\Programs\Ollama\ollama.exe"))   # the default install location
 OLLAMA_URL = "http://localhost:11434"                  # where Ollama listens
@@ -93,7 +95,7 @@ def answer(question):
     return f"{data['message']['content']}\n\nSources:\n{labels}"
 
 
-# ---- Priority queue: questions wait here and are answered one at a time, admins first ----
+# ---- Priority queue: questions wait here and are answered RUNNING_THREADS at a time, admins first ----
 
 @dataclass(order=True)
 class QueuedQuestion:
@@ -109,7 +111,7 @@ arrival_numbers = count()
 
 
 def answer_P():
-    # Runs forever in its own thread: take the most important waiting question, answer it, repeat
+    # Runs forever in its own thread (RUNNING_THREADS of these run side by side): take the most important waiting question, answer it, repeat
     while True:
         waiting = question_queue.get()                 # blocks until a question is waiting
         try:
@@ -136,6 +138,7 @@ def log_request(response):
 
 register_report_routes(app, PROJECT)                   # adds /report, reports.php asks it for the report file
 register_backup_routes(app, PROJECT)                   # adds /drive/backup-database and /drive/backup-system
+register_settings_routes(app, PROJECT)                 # adds /settings, changes the fields in config.json
 
 
 @app.post("/ask")
@@ -175,8 +178,9 @@ def start_ollama():
         print(f"Ollama isn't running and {OLLAMA_PATH} wasn't found. Start Ollama yourself or fix OLLAMA_PATH in config.json")
         return
 
-    print("Starting Ollama...")
-    subprocess.Popen([OLLAMA_PATH, "serve"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+    print(f"Starting Ollama with {RUNNING_THREADS} parallel request(s)...")
+    environment = {**os.environ, "OLLAMA_NUM_PARALLEL": str(RUNNING_THREADS)}   # Ollama only reads this when it starts
+    subprocess.Popen([OLLAMA_PATH, "serve"], env=environment, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
                      creationflags=subprocess.CREATE_NO_WINDOW | subprocess.CREATE_NEW_PROCESS_GROUP)   # no window, and Ctrl+C here doesn't stop it
     for _ in range(30):                                # up to about 30 seconds
         if ollama_running():
@@ -186,8 +190,27 @@ def start_ollama():
     print("Ollama was started but isn't answering yet. Questions will wait for it to be ready")
 
 
+def stop_ollama():
+    # Ollama runs as ollama.exe, and the tray app (ollama app.exe) would start it again, so both are stopped
+    for name in ("ollama app.exe", "ollama.exe"):
+        subprocess.run(["taskkill", "/F", "/T", "/IM", name], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+                       creationflags=subprocess.CREATE_NO_WINDOW)
+
+
+@app.post("/shutdown")
+def shutdown():
+    # adminAgent.php's Stop server button: Ollama is stopped first, then everything in this process ends (the window closes with it)
+    if request.remote_addr != "127.0.0.1":
+        return "Only this PC can stop the server.", 403
+    print("Shutdown requested, stopping Ollama and then the server...", flush=True)
+    stop_ollama()
+    threading.Timer(0.5, lambda: os._exit(0)).start()  # after the reply below has been sent; os._exit also ends the worker threads
+    return "Ollama and the server are stopping.", 200
+
+
 if __name__ == "__main__":
     start_ollama()
-    threading.Thread(target=answer_P, daemon=True).start()
+    for _ in range(max(1, RUNNING_THREADS)):           # one worker per parallel slot Ollama was given
+        threading.Thread(target=answer_P, daemon=True).start()
     print(f"Answer server ready on http://127.0.0.1:{PORT}/ask - leave this window open while the website is in use")
     app.run(host="127.0.0.1", port=PORT, threaded=True)
