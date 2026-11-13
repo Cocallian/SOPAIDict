@@ -1,6 +1,6 @@
 DirectoryIndex login.php
 
-# Stop browsers from opening the passwords file (PHP can still read it)
-<Files "passwords.txt">
+# Stop browsers from opening the config file with the passwords (PHP can still read it)
+<Files "FrontEndConfig.json">
     Require all denied
 </Files>

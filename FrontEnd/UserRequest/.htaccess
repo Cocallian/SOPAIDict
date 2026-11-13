@@ -1,0 +1,4 @@
+# The files in this folder are only for the pages to include
+<FilesMatch "\.php$">
+    Require all denied
+</FilesMatch>

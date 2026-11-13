@@ -1,137 +1,42 @@
 <?php
+// The user page: ask the agent questions and look back at the prompt history.
+// Each part of the work is a function in one of the files below, this file only runs them in order.
 session_start();
-$secrets = parse_ini_file(__DIR__ . "/passwords.txt");   // MySQL login and Python paths (kept out of the code)
-if($_SESSION["perm"] != "user")
-    {
-        header("Location: login.php");
-        exit();
-    }
-$PYTH = $secrets["python"];
-$SCRIPT = $secrets["script"];
 
+require __DIR__ . "/common/config.php";
+require __DIR__ . "/common/session.php";
+require __DIR__ . "/common/database.php";
+require __DIR__ . "/common/popups.php";
+require __DIR__ . "/common/assets.php";
+require __DIR__ . "/common/inactivitybox.php";
+require __DIR__ . "/common/activeusers.php";
+require __DIR__ . "/common/logouthandling.php";
+require __DIR__ . "/common/feedback.php";
+require __DIR__ . "/common/questionhandling.php";
+require __DIR__ . "/Agent/historydata.php";
+
+$userN = requireRole("user");
+$secrets = loadSecrets();
 $q = $_POST['user-input'] ?? '';
 $a = "";
+$feedbackId = null;   // set when this answer got its feedback row
 
-        try
-        {
-            $conn = new mysqli($secrets["db_host"], $secrets["db_user"], $secrets["db_pass"]);
-            $conn->select_db("SOPAgent");
-        }
-        catch(mysqli_sql_exception)
-        {
-            $_SESSION["err"] = "Database connection error, contact your system administrator for assistance";
-        }
+$conn = connectDatabase($secrets, "Database connection error, contact your system administrator for assistance");
 
-if($q !== "")
-    {
-        set_time_limit(300);   // finding passages + Qwen's answer can take over a minute
+handleTouchRequest($conn, $userN);
+handleLogoutRequest($conn, $userN, "user");
+handleFeedbackSave($conn);
 
-        $promptId = null;
+if($q !== "") { [$a, $feedbackId] = answerQuestion($conn, $q, "user"); }
 
-        // save the prompt with the current date and time before the model starts working on it
-        if(isset($conn))
-            {
-                try
-                    {
-                        $uname = $_SESSION["uname"] ?? "";
-                        $stmt = $conn->prepare("SELECT UserId FROM Users WHERE Username = ?");
-                        $stmt->bind_param("s", $uname);
-                        $stmt->execute();
-                        $stmt->bind_result($userId);
-                        $stmt->fetch();
-                        $stmt->close();
+$history = loadHistory($conn);
 
-                        $stmt = $conn->prepare("INSERT INTO Prompts (UserId, PromptText, CreatedAt) VALUES (?, ?, NOW())");
-                        $stmt->bind_param("is", $userId, $q);
-                        $stmt->execute();
-                        $promptId = $conn->insert_id;
-                        $stmt->close();
-                    }
-                catch(mysqli_sql_exception)
-                    {
-                        $_SESSION["err"] = "Your prompt could not be saved to the database";
-                    }
-            }
-
-        $command = escapeshellarg($PYTH) . " " . escapeshellarg($SCRIPT) . " " . escapeshellarg($q) . " 2>&1"; //executes the RAG pipiline via command line (php and python both operate via command line)
-    $a = shell_exec($command);   // blocks here until the script (and Colab, if it uses it) returns
-
-        // the response is back: save it against the prompt, again with the current date and time
-        if($promptId && $a !== null && trim($a) !== "")
-            {
-                try
-                    {
-                        $stmt = $conn->prepare("INSERT INTO Responses (PromptId, UserId, ResponseText, CreatedAt) VALUES (?, ?, ?, NOW())");
-                        $stmt->bind_param("iis", $promptId, $userId, $a);
-                        $stmt->execute();
-                        $stmt->close();
-                    }
-                catch(mysqli_sql_exception)
-                    {
-                        $_SESSION["err"] = "The response could not be saved to the database";
-                    }
-            }
-    }
-
-    // Read the error, then clear it so it only shows once
-    $err = $_SESSION["err"] ?? "";
-    $_SESSION["err"] = "";
-
-
+$err = takeError();
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <script>
-
-        const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
-
-        function CArr(arr, num)
-        {
-            const leng = arr.length;
-            var safe = ((num % leng) + leng) % leng;
-            return arr[safe];
-        }
-        function startSearch(e)
-        {
-            e.preventDefault();                       // hold the submit back for a moment
-            if(!document.getElementById("user-input").value.trim()) return;
-            throb();                                  // paints the first frame
-            setTimeout(() => e.target.submit(), 100); // then post to PHP
-        }
-
-        async function throb()
-        {
-            const ta = document.getElementById("ta");
-            ta.style.fontFamily = "Consolas, 'Courier New', monospace"; // equal-width characters while throbbing
-            const ani1 = ["▖", "▘","▝" ,"▗", "▖", "▘","▝" ,"▗"]; 
-            const ani2 = ["▞", "▚", "▞", "▚", "▞", "▚", "▞", "▚"];
-            const ani3 = ["▙", "▛", "▜", "▟", "▙", "▛", "▜", "▟"];  
-            const ani4 = ["◣", "◤", "◥", "◢", "◣", "◤", "◥", "◢"];
-            const ani5 = ["◱", "◰", "◳", "◲", "◱", "◰", "◳", "◲"];
-            const ani6 = ["◒", "◐", "◓", "◑", "◒", "◐", "◓", "◑"];
-            const ani7 = ["__", "|", "▔", " |", "__", "|", "▔", " |"];
-            const ani8 = ["◟", "◜", "◠", "◝", "◞", "◡", "◟", "◜", "◠", "◝", "◞", "◡"];
-            const sizes = [ani1, ani2, ani3, ani4, ani5, ani6, ani7, ani8];
-            const min = 0;
-            const max = sizes.length - 1;
-            // runs until the page reloads with the answer
-            while(true)
-            {
-                var rng = Math.floor(Math.random() * (max - min + 1)) + min;
-                const sel = rng;
-                for(var i = 0; i < sizes[sel].length * 2; i++)
-                {
-                    ta.value = "\n Searching database and generating a response..." + CArr(sizes[sel], i);
-                    await sleep(150);
-                }
-                
-
-                
-            
-            }
-        }
-    </script>
+    <?php scriptTag("idle.js"); scriptTag("js/common.js"); scriptTag("js/menu.js"); scriptTag("js/inactivity.js"); scriptTag("js/feedback.js"); styleTag("common/feedback.css"); ?>
     <style>
         * {
             box-sizing: border-box;
@@ -189,6 +94,122 @@ if($q !== "")
             font: inherit;
         }
 
+        /* pop-out menu, the same as the admin page's */
+        #menu-btn {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            width: 44px;
+            height: 44px;
+            padding: 11px 9px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            z-index: 10;
+        }
+        #menu-btn span {
+            display: block;
+            height: 4px;
+            border-radius: 2px;
+            background-color: white;
+        }
+
+        #close-btn {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            width: 44px;
+            height: 44px;
+            display: none;
+            background: transparent;
+            border: none;
+            color: white;
+            font-size: 36px;
+            line-height: 1;
+            cursor: pointer;
+            z-index: 30;
+        }
+        #close-btn.show {
+            display: block;
+        }
+
+        #panel {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 92vw;
+            height: 100vh;
+            padding: 80px 40px 40px;
+            overflow-y: auto;
+            background-color: #232323;
+            color: white;
+            box-shadow: 4px 0 20px rgba(0, 0, 0, 0.6);
+            transform: translateX(-100%);
+            visibility: hidden;
+            transition: transform 0.35s ease, visibility 0s linear 0.35s;
+            z-index: 20;
+        }
+        #panel.open {
+            transform: translateX(0);
+            visibility: visible;
+            transition: transform 0.35s ease, visibility 0s;
+        }
+        #panel h2 {
+            margin: 0 0 20px;
+        }
+        .panel-box {
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #312f2f;
+        }
+        .panel-box + .panel-box {
+            margin-top: 20px;
+        }
+        .panel-box button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            background-color: dimgrey;
+            color: white;
+            font: inherit;
+            cursor: pointer;
+        }
+
+        /* Prompt history table, hidden until its button is pressed */
+        #history {
+            display: none;
+            margin-top: 15px;
+            max-height: 60vh;
+            overflow-y: auto;
+        }
+        #history.show {
+            display: block;
+        }
+        #history table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        #history th, #history td {
+            padding: 10px;
+            text-align: left;
+            vertical-align: top;
+            border-bottom: 1px solid dimgrey;
+        }
+        #history th {
+            position: sticky;   /* headings stay visible while scrolling */
+            top: 0;
+            background-color: #312f2f;
+        }
+        #history td {
+            white-space: pre-wrap;   /* keeps the answers' line breaks */
+        }
+        #history td.when {
+            white-space: nowrap;
+        }
+
         /* popup for errors (e.g. database connection) */
         #errPopup {
             position: fixed;
@@ -215,41 +236,88 @@ if($q !== "")
             font-size: 20px;
             cursor: pointer;
         }
+
+        /* Transparent gray layer over the whole page, hidden until validation.js shows it */
+        #gray-out {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background-color: rgba(35, 35, 35, 0.7);
+            z-index: 2000;
+        }
+        /* The box sits in the middle of the screen, on top of the gray layer */
+        #inactiveBox {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 360px;
+            max-width: calc(100% - 32px);
+            padding: 45px;
+            text-align: center;
+            border-radius: 10px;
+            background-color: #312f2f;
+            box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+            color: white;
+            z-index: 2001;
+        }
     </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SOP Agent</title>
 </head>
-
-
 <body>
 
-<?php if ($err !== ""): ?>
-    <div id = "errPopup">
-        <?php echo htmlspecialchars($err); ?>
-        <button type = "button" id = "closePopup" aria-label = "Close">&times;</button>
-    </div>
-<?php endif; ?>
+<?php renderPopups($err); ?>
 
+<div id="out"<?php echo $feedbackId ? ' class="has-feedback"' : ""; ?>>
 <div id="res">
-    <textarea id = "ta" readonly>Welcome to the SOP RAG agent, type below to start querying the agent<?php echo htmlspecialchars($a); ?></textarea>
+    <textarea id = "ta" readonly><?php echo $a === "" ? "Welcome to the SOP RAG agent, type below to start querying the agent" : htmlspecialchars($a); ?></textarea>
+</div>
+<?php renderFeedback($feedbackId); ?>
 </div>
     <form method = "post" onsubmit = "startSearch(event)">
         <input type="text" id="user-input" name="user-input" autofocus>
         <button type="submit" tabindex="-1" hidden>Submit</button>
 
     </form>
-<script>
-    // Close the popup on click, or automatically after 5 seconds
-    const popup = document.getElementById("errPopup");
-    if (popup) {
-        document.getElementById("closePopup").addEventListener("click", function () {
-            popup.classList.add("hidden");
-        });
-        setTimeout(function () {
-            popup.classList.add("hidden");
-        }, 5000);
-    }
-</script>
+
+    <button id="menu-btn" type="button" aria-label="Open menu" onclick="togglePanel(true)">
+        <span></span><span></span><span></span>
+    </button>
+    <button id="close-btn" type="button" aria-label="Close menu" onclick="togglePanel(false)">&times;</button>
+
+    <div id="panel">
+        <h2>Menu</h2>
+        <div class="panel-box">
+            <button type="button" onclick="toggleHistory()">Prompt history</button>
+            <div id="history">
+                <?php if (count($history) === 0): ?>
+                    <p>You haven't asked any questions yet.</p>
+                <?php else: ?>
+                    <table>
+                        <tr><th>Question</th><th>Answer</th><th>Date and time</th></tr>
+                        <?php foreach ($history as $row): ?>
+                            <tr>
+                                <td><?php echo htmlspecialchars($row["question"]); ?></td>
+                                <td><?php echo htmlspecialchars($row["answer"] ?? "No answer was saved"); ?></td>
+                                <td class="when"><?php echo date("Y-m-d H:i", strtotime($row["askedAt"])); ?></td>
+                            </tr>
+                        <?php endforeach; ?>
+                    </table>
+                <?php endif; ?>
+            </div>
+        </div>
+        <div class="panel-box">
+            <form method="post" style="width: auto;">
+                <button type="submit" name="logout" value="logout">Log out</button>
+            </form>
+        </div>
+    </div>
+
+<?php renderInactivityBox(); ?>
 </body>
 </html>

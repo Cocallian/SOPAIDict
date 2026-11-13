@@ -1,5 +1,5 @@
 # Passwords, paths and settings used by the PHP front end and the Python scripts (made by Setup.bat)
-FrontEnd/passwords.txt
+FrontEnd/FrontEndConfig.json
 SysInfo.py
 T4Info.ipynb
 
@@ -13,3 +13,14 @@ PreProcessingSAHPRAGuidelines/DownloadAll.py
 FrontEnd/vendor/
 .tools/
 __pycache__/
+
+# Google Drive sign in (never commit these)
+client_secret*.json
+GoogleDrive/
+
+# PyInstaller output and the saved embedding model
+FrontEnd/passwords.txt
+build/
+dist/
+*.spec
+models/
