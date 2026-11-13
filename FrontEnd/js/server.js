@@ -11,7 +11,7 @@ if (startServerForm) {
     async function askPage(fields) {
         const reply = await fetch("adminAgent.php", {
             method: "POST",
-            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+            headers: { "Content-Type": "application/x-www-form-urlencoded", "X-CSRF-Token": csrfToken() },
             body: new URLSearchParams(fields)
         });
         return (await reply.text()).trim();

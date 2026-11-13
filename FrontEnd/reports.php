@@ -5,6 +5,7 @@ session_start();
 
 require __DIR__ . "/common/config.php";
 require __DIR__ . "/common/session.php";
+require __DIR__ . "/common/csrf.php";
 require __DIR__ . "/common/database.php";
 require __DIR__ . "/common/popups.php";
 require __DIR__ . "/common/assets.php";
@@ -15,6 +16,7 @@ require __DIR__ . "/reports/reporthandling.php";
 require __DIR__ . "/reports/validation.php";
 
 $userN = requireRole("admin");
+verifyCsrf();
 $secrets = loadSecrets();
 $conn = connectDatabase($secrets);
 
@@ -36,6 +38,7 @@ $sections = reportSections();
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <?php echo csrfMeta(); ?>
     <?php scriptTag("idle.js"); scriptTag("js/common.js"); scriptTag("js/inactivity.js"); scriptTag("js/reports.js"); ?>
     <style>
         * {
@@ -361,7 +364,7 @@ $sections = reportSections();
         <h1>Generate report</h1>
         <p class="note">Choose the period and what the report should include. When you press Generate, you will be asked where to save the report.</p>
 
-        <form method="post" id="report-form" novalidate data-earliest="<?php echo $earliest; ?>" data-today="<?php echo $today; ?>">
+        <form method="post" id="report-form" novalidate data-earliest="<?php echo $earliest; ?>" data-today="<?php echo $today; ?>"><?php echo csrfField(); ?>
             <h2>Period</h2>
             <p class="note" style="margin-bottom: 12px;">Set the ones you want. A picker left on "-" (or empty) is not used.</p>
             <p class="field-error" data-error="period" hidden></p>

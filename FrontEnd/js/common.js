@@ -2,6 +2,9 @@
 
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
+// This page's CSRF token (from the <meta name="csrf"> tag), which every fetch POST sends as a header
+const csrfToken = () => document.querySelector('meta[name="csrf"]').content;
+
 function CArr(arr, num)
 {
     const leng = arr.length;

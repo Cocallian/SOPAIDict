@@ -5,11 +5,13 @@ session_start();
 
 require __DIR__ . "/common/config.php";
 require __DIR__ . "/common/popups.php";
+require __DIR__ . "/common/csrf.php";
 require __DIR__ . "/common/assets.php";
 require __DIR__ . "/common/orgdomains.php";
 require __DIR__ . "/common/validation.php";
 require __DIR__ . "/UserRequest/applicationhandling.php";
 
+verifyCsrf();
 $secrets = loadSecrets();
 $orgDomains = loadOrgDomains();
 
@@ -189,7 +191,7 @@ $success = takeSuccess();
     <div class = "login-page">
         <div class = "form">
             <h1>Request an account</h1>
-            <form method = "POST" id = "new-user-form">
+            <form method = "POST" id = "new-user-form"><?php echo csrfField(); ?>
                 <input type = "text" placeholder = "username (your work email)" name = "name" id = "new-username" aria-label = "Username" maxlength = "50"
                        data-domains = "<?php echo htmlspecialchars(json_encode($orgDomains)); ?>" required autofocus>
                 <input type = "password" placeholder = "password" name = "password" id = "new-password" aria-label = "Password" required>

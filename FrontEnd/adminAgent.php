@@ -6,6 +6,7 @@ session_start();
 require __DIR__ . "/vendor/autoload.php";
 require __DIR__ . "/common/config.php";
 require __DIR__ . "/common/session.php";
+require __DIR__ . "/common/csrf.php";
 require __DIR__ . "/common/database.php";
 require __DIR__ . "/common/popups.php";
 require __DIR__ . "/common/assets.php";
@@ -23,6 +24,7 @@ require __DIR__ . "/adminAgent/applicationhandling.php";
 require __DIR__ . "/adminAgent/dashboarddata.php";
 
 $userN = requireRole("admin");
+verifyCsrf();
 $secrets = loadSecrets();
 $orgDomains = loadOrgDomains();
 $q = $_POST['user-input'] ?? '';
@@ -61,6 +63,7 @@ $success = takeSuccess();
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <?php echo csrfMeta(); ?>
     <?php scriptTag("idle.js"); scriptTag("js/common.js"); scriptTag("js/menu.js"); scriptTag("js/accountvalidation.js"); scriptTag("js/dashboard.js"); scriptTag("js/backup.js"); scriptTag("js/server.js"); scriptTag("js/inactivity.js"); scriptTag("js/feedback.js"); styleTag("common/feedback.css"); ?>
     <style>
         * {
@@ -607,7 +610,7 @@ $success = takeSuccess();
 </div>
 <?php renderFeedback($feedbackId); ?>
 </div>
-    <form method = "post" onsubmit = "startSearch(event)">
+    <form method = "post" onsubmit = "startSearch(event)"><?php echo csrfField(); ?>
         <input type="text" id="user-input" name="user-input" autofocus>
         <button type="submit" tabindex="-1" hidden>Submit</button>
 
@@ -663,7 +666,7 @@ $success = takeSuccess();
 
             <div class="panel-box">
                 <h3>Add new user</h3>
-                <form id="new-user-form" method="post" style="width: auto;">
+                <form id="new-user-form" method="post" style="width: auto;"><?php echo csrfField(); ?>
                     <label>Username
                         <input type="text" id="new-username" name="name" maxlength="50" data-domains="<?php echo htmlspecialchars(json_encode($orgDomains)); ?>" required>
                     </label>
@@ -698,7 +701,7 @@ $success = takeSuccess();
                     <thead><tr><th>Username (click to delete)</th><th>Role</th></tr></thead>
                     <tbody></tbody>
                 </table>
-                <form id="del-user" method="post" style="width: auto;">
+                <form id="del-user" method="post" style="width: auto;"><?php echo csrfField(); ?>
                     <input type="hidden" name="dname" id="dname">
                     <input type="hidden" name="drole" id="drole">
                     <input type="hidden" name="del-user" value="del-user">
@@ -725,7 +728,7 @@ $success = takeSuccess();
                                 <?php if ($active["SessionId"] === session_id()): ?>
                                     <span class="seen">(you)</span>
                                 <?php else: ?>
-                                    <form method="post">
+                                    <form method="post"><?php echo csrfField(); ?>
                                         <input type="hidden" name="sid" value="<?php echo htmlspecialchars($active["SessionId"]); ?>">
                                         <button type="submit" name="force-logout" value="force-logout">Log out</button>
                                     </form>
@@ -749,7 +752,7 @@ $success = takeSuccess();
                                 <td><?php echo htmlspecialchars($app["Role"]); ?></td>
                                 <td><?php echo htmlspecialchars($app["SubmittedAt"]); ?></td>
                                 <td>
-                                    <form method="post" style="width: auto;">
+                                    <form method="post" style="width: auto;"><?php echo csrfField(); ?>
                                         <input type="hidden" name="app-id" value="<?php echo (int)$app["ApplicationId"]; ?>">
                                         <button type="submit" name="app-action" value="approve">Approve</button>
                                         <button type="submit" name="app-action" value="reject">Reject</button>
@@ -765,19 +768,19 @@ $success = takeSuccess();
                 <h3>Backup</h3>
                 <div class="button-group">
                     <h4>Database</h4>
-                    <form method="post" style="width: auto;">
+                    <form method="post" style="width: auto;"><?php echo csrfField(); ?>
                         <button type = "submit" name = "backup" value = "backup">Database backup - locally</button>
                     </form>
-                    <form method="post" style="width: auto;">
+                    <form method="post" style="width: auto;"><?php echo csrfField(); ?>
                         <button type = "submit" name = "backup-drive" value = "backup-drive">Database backup - Google Drive</button>
                     </form>
                 </div>
                 <div class="button-group">
                     <h4>System</h4>
-                    <form method="post" style="width: auto;">
+                    <form method="post" style="width: auto;"><?php echo csrfField(); ?>
                         <button type = "submit" name = "backup-system" value = "backup-system">System backup - locally</button>
                     </form>
-                    <form method="post" style="width: auto;">
+                    <form method="post" style="width: auto;"><?php echo csrfField(); ?>
                         <button type = "submit" name = "backup-system-drive" value = "backup-system-drive">System backup - Google Drive</button>
                     </form>
                 </div>
@@ -789,22 +792,22 @@ $success = takeSuccess();
                     <p id = "server-status" class = "<?php echo $serverUp ? "up" : "down"; ?>">
                         <?php echo $serverUp ? "Server running" : "Server not running"; ?>
                     </p>
-                    <form id = "start-server-form" method="post" style="width: auto;">
+                    <form id = "start-server-form" method="post" style="width: auto;"><?php echo csrfField(); ?>
                         <button type = "submit" name = "start-server" value = "start-server">Start server</button>
                     </form>
-                    <form method="post" style="width: auto;">
+                    <form method="post" style="width: auto;"><?php echo csrfField(); ?>
                         <button type = "submit" name = "stop-server" value = "stop-server">Stop server</button>
                     </form>
                 </div>
                 <div class="button-group">
                     <h4>Settings</h4>
-                    <form method="post" style="width: auto;">
+                    <form method="post" style="width: auto;"><?php echo csrfField(); ?>
                         <button type = "submit" name = "change-server-path" value = "change-server-path">Change server file (hosting computer only)</button>
                     </form>
                 </div>
                 <div class="button-group">
                     <h4>Session</h4>
-                    <form method="post" style="width: auto;">
+                    <form method="post" style="width: auto;"><?php echo csrfField(); ?>
                         <button type = "submit" name = "logout" value = "logout">Log out</button>
                     </form>
                 </div>

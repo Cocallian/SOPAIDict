@@ -5,6 +5,7 @@ session_start();
 
 require __DIR__ . "/common/config.php";
 require __DIR__ . "/common/session.php";
+require __DIR__ . "/common/csrf.php";
 require __DIR__ . "/common/database.php";
 require __DIR__ . "/common/popups.php";
 require __DIR__ . "/common/assets.php";
@@ -16,6 +17,7 @@ require __DIR__ . "/common/questionhandling.php";
 require __DIR__ . "/Agent/historydata.php";
 
 $userN = requireRole("user");
+verifyCsrf();
 $secrets = loadSecrets();
 $q = $_POST['user-input'] ?? '';
 $a = "";
@@ -36,6 +38,7 @@ $err = takeError();
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <?php echo csrfMeta(); ?>
     <?php scriptTag("idle.js"); scriptTag("js/common.js"); scriptTag("js/menu.js"); scriptTag("js/inactivity.js"); scriptTag("js/feedback.js"); styleTag("common/feedback.css"); ?>
     <style>
         * {
@@ -279,7 +282,7 @@ $err = takeError();
 </div>
 <?php renderFeedback($feedbackId); ?>
 </div>
-    <form method = "post" onsubmit = "startSearch(event)">
+    <form method = "post" onsubmit = "startSearch(event)"><?php echo csrfField(); ?>
         <input type="text" id="user-input" name="user-input" autofocus>
         <button type="submit" tabindex="-1" hidden>Submit</button>
 
@@ -312,7 +315,7 @@ $err = takeError();
             </div>
         </div>
         <div class="panel-box">
-            <form method="post" style="width: auto;">
+            <form method="post" style="width: auto;"><?php echo csrfField(); ?>
                 <button type="submit" name="logout" value="logout">Log out</button>
             </form>
         </div>

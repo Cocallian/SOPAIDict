@@ -140,9 +140,15 @@ function createCleanupEvent(mysqli $conn): void
     }
 
 // The first accounts, so there is something to log in with: "seed_accounts" in FrontEndConfig.json.
+// Does nothing once that section is gone (removeSeedAccounts() takes it out), so deleted starting accounts don't come back.
 function seedAccounts(mysqli $conn): void
     {
-        $seed = loadSecrets();
+        $seed = readFrontEndConfig()["seed_accounts"] ?? null;
+        foreach(["admin_user", "admin_pass", "user_user", "user_pass"] as $key)
+            {
+                if(!is_array($seed) || !is_string($seed[$key] ?? null) || $seed[$key] === "") { return; }
+            }
+
         $adminUser = $seed["admin_user"];
         $adminHash = hash('sha256', $seed["admin_pass"]);
         $stmt = $conn -> prepare("INSERT IGNORE INTO Admins (Username, PasswordHash) VALUES (?, ?)");
@@ -154,4 +160,40 @@ function seedAccounts(mysqli $conn): void
         $stmt2 = $conn -> prepare("INSERT IGNORE INTO Users (Username, PasswordHash) VALUES (?, ?)");
         $stmt2 -> bind_param("ss", $dumUser, $userPass);
         $stmt2 -> execute();
+    }
+
+// The starting accounts only exist to get the first real admin in. Once an admin other than the starting admin has logged in,
+// both starting accounts are deleted (with their questions and answers, the tables cascade) and "seed_accounts", with its
+// plain text passwords, is taken out of FrontEndConfig.json so they are never made again. $loggedIn is the admin who just logged in.
+function removeSeedAccounts(mysqli $conn, string $loggedIn): void
+    {
+        $config = readFrontEndConfig();
+        $seed = $config["seed_accounts"] ?? null;
+        if(!is_array($seed)) { return; }
+
+        $adminName = (string)($seed["admin_user"] ?? "");
+        $userName = (string)($seed["user_user"] ?? "");
+        if($loggedIn === $adminName || $loggedIn === $userName) { return; }   // the starting accounts themselves don't count
+
+        try
+            {
+                foreach([["Admins", $adminName], ["Users", $userName]] as [$table, $name])   // fixed table names, never taken from the config
+                    {
+                        if($name === "") { continue; }
+                        $stmt = $conn -> prepare("DELETE FROM $table WHERE Username = ?");
+                        $stmt -> bind_param("s", $name);
+                        $stmt -> execute();
+                        $stmt -> close();
+
+                        $stmt = $conn -> prepare("DELETE FROM ActiveUsers WHERE Username = ?");   // end any session still using it
+                        $stmt -> bind_param("s", $name);
+                        $stmt -> execute();
+                        $stmt -> close();
+                    }
+            }
+        catch(mysqli_sql_exception) { return; }   // couldn't delete them: leave the config alone and try again at the next admin login
+
+        unset($config["seed_accounts"]);
+        saveFrontEndConfig($config);
+        $_SESSION["success"] = "The starting accounts were removed, " . $loggedIn . " is now the admin";
     }

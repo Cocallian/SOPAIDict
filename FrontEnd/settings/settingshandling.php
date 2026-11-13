@@ -84,6 +84,49 @@ function handleSaveSettings(array $fields): void
         exit();
     }
 
+// The allowed email domains (the "org_names" list in FrontEndConfig.json). Unlike the other settings they are kept by the
+// website itself, so they can be changed while the answer server isn't running.
+const MAX_ORG_DOMAINS = 50;
+
+// The domains typed in the box (one per line, commas and spaces also separate them) as ["@example.org", ...] with the @ added,
+// lower case and without repeats. Returns [domains, problem]: problem is "" when the list is fine.
+function parseOrgDomains(string $text): array
+    {
+        $domains = [];
+        foreach(preg_split('/[\s,;]+/', $text, -1, PREG_SPLIT_NO_EMPTY) as $typed)
+            {
+                $domain = strtolower(ltrim(trim($typed, "\"'"), "@"));
+                if(strlen($domain) > 100 || !preg_match('/^[a-z0-9]([a-z0-9-]*[a-z0-9])?(\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)+$/', $domain))
+                    {
+                        return [[], "\"" . substr($typed, 0, 40) . "\" isn't a valid domain, it should look like example.org"];
+                    }
+                $domains["@" . $domain] = true;
+            }
+
+        $domains = array_keys($domains);
+        if(count($domains) === 0) { return [[], "Add at least one domain, or nobody could be given an account."]; }
+        if(count($domains) > MAX_ORG_DOMAINS) { return [[], "Use at most " . MAX_ORG_DOMAINS . " domains."]; }
+        return [$domains, ""];
+    }
+
+// Save domains: js/settings.js sends the domains form with fetch, this answers with a plain message (200 saved, otherwise the problem)
+function handleSaveOrgDomains(): void
+    {
+        if(!array_key_exists('save-org-domains', $_POST)) { return; }
+
+        header("Content-Type: text/plain; charset=utf-8");
+        [$domains, $problem] = parseOrgDomains((string)($_POST["org_domains"] ?? ""));
+        if($problem !== "") { http_response_code(400); echo $problem; exit(); }
+
+        $config = readFrontEndConfig();
+        if($config === []) { http_response_code(500); echo "FrontEndConfig.json couldn't be read, so nothing was changed."; exit(); }
+
+        $config["org_names"] = $domains;
+        saveFrontEndConfig($config);
+        echo count($domains) . " allowed " . (count($domains) === 1 ? "domain" : "domains") . " saved. They apply to new accounts and requests straight away.";
+        exit();
+    }
+
 // The current values, asked from the server when the page loads. null when the server isn't running.
 function loadCurrentSettings(): ?array
     {

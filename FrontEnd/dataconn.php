@@ -3,11 +3,14 @@
 // Each part of the work is a function in one of the files below, this file only runs them in order.
 session_start();
 
+require __DIR__ . "/common/csrf.php";
 require __DIR__ . "/common/config.php";
 require __DIR__ . "/common/database.php";
 require __DIR__ . "/common/activeusers.php";
 require __DIR__ . "/dataconn/schema.php";
 require __DIR__ . "/dataconn/loginhandling.php";
+
+verifyCsrf();
 
 $secrets = loadSecrets();
 $_SESSION["perm"] = "";

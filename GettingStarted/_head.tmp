@@ -1,0 +1,14 @@
+# 4. Answer questions: on your PC or Google Colab
+
+The answers are written by Qwen (`qwen3.5:0.8b`), a small AI model run by Ollama. It can run in two places:
+
+|  | **On your PC** (`LocalAIServ.exe`) | **Google Colab** (`ColabTest.ipynb`) |
+|---|---|---|
+| Used by the website | **Yes.** Every question on the website is answered this way. | Not yet. The notebook can start a web address for the website, but the website doesn't use it yet. Use Colab for testing in the notebook. |
+| Speed | Slow on a CPU, roughly **15–30 seconds** per answer on a laptop. | Much faster, on an NVIDIA T4 GPU. |
+| Running it | Ollama and `LocalAIServ.exe` must be running. | Open the notebook and run its blocks at the start of every session. |
+| Privacy | Your SOPs and questions stay on your PC. | Your passages and questions are processed on Google's servers. |
+| Cost | Free. | Free tier, with usage limits. |
+
+Set up "on your PC" first; the website needs it.
+

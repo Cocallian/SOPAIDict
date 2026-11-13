@@ -36,7 +36,7 @@ if (backupConfirm) {
         try {
             const reply = await fetch("adminAgent.php", {
                 method: "POST",
-                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                headers: { "Content-Type": "application/x-www-form-urlencoded", "X-CSRF-Token": csrfToken() },
                 body: new URLSearchParams({ "check-backup-password": "1", "confirm-password": passwordInput.value })
             });
             answer = (await reply.text()).trim();
@@ -68,7 +68,7 @@ if (backupConfirm) {
             try {
                 const reply = await fetch("adminAgent.php", {
                     method: "POST",
-                    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                    headers: { "Content-Type": "application/x-www-form-urlencoded", "X-CSRF-Token": csrfToken() },
                     body: new URLSearchParams({ [pending.name]: pending.value, "confirm-password": passwordInput.value })
                 });
                 if (!reply.ok) { location.reload(); return; }   // the page shows the error popup the server set

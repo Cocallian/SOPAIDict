@@ -5,6 +5,8 @@ session_start();
 
 require __DIR__ . "/common/config.php";
 require __DIR__ . "/common/session.php";
+require __DIR__ . "/common/csrf.php";
+require __DIR__ . "/common/orgdomains.php";
 require __DIR__ . "/common/database.php";
 require __DIR__ . "/common/popups.php";
 require __DIR__ . "/common/assets.php";
@@ -14,6 +16,7 @@ require __DIR__ . "/common/logouthandling.php";
 require __DIR__ . "/settings/settingshandling.php";
 
 $userN = requireRole("admin");
+verifyCsrf();
 $secrets = loadSecrets();
 $conn = connectDatabase($secrets);
 
@@ -21,17 +24,20 @@ handleTouchRequest($conn, $userN);
 handleLogoutRequest($conn, $userN, "admin");
 
 $fields = settingFields();
+handleSaveOrgDomains();
 handleSaveSettings($fields);
 
 $current = loadCurrentSettings();
 $serverDown = $current === null;
 $help = settingsHelp();
+$orgDomains = loadOrgDomains();
 
 $err = takeError();
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <?php echo csrfMeta(); ?>
     <?php scriptTag("idle.js"); scriptTag("js/common.js"); scriptTag("js/inactivity.js"); scriptTag("js/settings.js"); ?>
     <style>
         * {
@@ -111,6 +117,23 @@ $err = takeError();
             color: white;
             font: inherit;
             font-size: 14px;
+        }
+        .settings-page textarea {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            border: 2px solid transparent;
+            border-radius: 8px;
+            outline: 0;
+            background-color: #312f2f;
+            color: white;
+            font: inherit;
+            font-size: 14px;
+            line-height: 1.5;
+            resize: vertical;
+        }
+        .settings-page textarea:focus {
+            border-color: dimgrey;
         }
         .settings-page input[type="text"]:focus {
             border-color: dimgrey;
@@ -278,7 +301,7 @@ $err = takeError();
             <div class="settings-status failed">The answer server isn't running, so the settings can't be loaded. Start LocalAIServ.py from the dashboard and reload this page.</div>
         <?php endif; ?>
 
-        <form method="post" id="settings-form" novalidate>
+        <form method="post" id="settings-form" novalidate><?php echo csrfField(); ?>
             <h2>Settings</h2>
             <?php foreach ($fields as $name => $rule): ?>
                 <div class="setting-block" data-block="<?php echo $name; ?>">
@@ -300,6 +323,23 @@ $err = takeError();
         <div id="settings-status" class="settings-status" aria-live="polite" hidden></div>
 
         <a class="back-link" href="adminAgent.php">Back to the dashboard</a>
+    </div>
+
+    <div class="settings-page">
+        <h1>Allowed email domains</h1>
+        <p class="note">A username must be an email address ending in one of these domains, both when an admin adds someone and when someone requests an account. They are kept in FrontEndConfig.json and apply as soon as they are saved. Accounts that already exist aren't changed.</p>
+
+        <form method="post" id="org-domains-form" novalidate><?php echo csrfField(); ?>
+            <div class="setting-block" data-block="org_domains">
+                <label for="set-org_domains">Allowed domains (<?php echo count($orgDomains); ?>)</label>
+                <textarea id="set-org_domains" name="org_domains" rows="8" maxlength="5000" spellcheck="false" autocomplete="off"><?php echo htmlspecialchars(implode("\n", $orgDomains)); ?></textarea>
+                <p class="hint">One domain per line, like @example.org (the @ is optional). At least one, at most <?php echo MAX_ORG_DOMAINS; ?>.</p>
+                <p class="field-error" data-error="org_domains" hidden></p>
+            </div>
+            <button type="submit" name="save-org-domains" value="save-org-domains" class="save-btn">Save domains</button>
+        </form>
+
+        <div id="org-domains-status" class="settings-status" aria-live="polite" hidden></div>
     </div>
 
     <div class="settings-page">

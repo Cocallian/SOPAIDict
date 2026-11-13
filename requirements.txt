@@ -13,6 +13,13 @@ numpy >= 2.0                  # storing and searching the vectors
 requests >= 2.31              # LocalAIServ.py talks to Ollama; DownloadAll.py
 flask >= 3.0                  # LocalAIServ.py, the answer server the website sends questions to
 
+# Reports (the Generate report page: APIS/reportapi.py and ReportGeneration/GenerateReport.py)
+pymysql >= 1.1                # reads the database tables for the report
+pandas >= 2.0                 # works out the numbers
+matplotlib >= 3.8             # draws the graphs
+jinja2 >= 3.1                 # fills in the report's HTML
+xhtml2pdf >= 0.2.16           # turns that HTML into the PDF
+
 # Tools
 psutil >= 5.9                 # SysInfo.py
 py-cpuinfo >= 9.0             # SysInfo.py

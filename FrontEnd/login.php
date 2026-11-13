@@ -3,6 +3,7 @@
 session_start();
 
 require __DIR__ . "/common/popups.php";
+require __DIR__ . "/common/csrf.php";
 require __DIR__ . "/common/assets.php";
 
 $err = takeError();
@@ -144,7 +145,7 @@ $err = takeError();
     <div class = "login-page">
         <div class = "form">
             <h1>SOP Agent</h1>
-            <form method = "POST" action = "dataconn.php" id = "loginForm" novalidate>
+            <form method = "POST" action = "dataconn.php" id = "loginForm" novalidate><?php echo csrfField(); ?>
                 <input type = "text" placeholder = "username" name = "uname" id = "uname" aria-label = "Username" autofocus>
                 <input type = "password" placeholder = "password" name = "pass" id = "pass" aria-label = "Password">
                 <div id = "fieldError"></div>

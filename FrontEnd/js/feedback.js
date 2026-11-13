@@ -11,7 +11,7 @@ if (feedbackBox) {
     {
         return fetch(window.location.pathname, {
             method: "POST",
-            headers: {"Content-Type": "application/x-www-form-urlencoded"},
+            headers: {"Content-Type": "application/x-www-form-urlencoded", "X-CSRF-Token": csrfToken()},
             body: new URLSearchParams({feedback_id: feedbackBox.dataset.feedbackId, rating: fbRating.value, extra: fbText.value})
         }).then(function (reply) {
             if (!reply.ok) throw new Error();

@@ -60,11 +60,14 @@ function attemptLogin(mysqli $conn, string $uname, string $pass): void
                 refuseLogin("Already logged in on another device");
             }
 
+        session_regenerate_id(true);   // a new session id for the logged in person, so one handed out before the login is useless
+        unset($_SESSION["csrf"]);      // and a new CSRF token with it
         $_SESSION["perm"] = $role;
         $_SESSION["uname"] = $uname;   // used to look up who sent each prompt
         $_SESSION["state"] = "active";
         recordLastSeen($conn, $uname);
         writeLog($conn, $uname, $role, "login");
+        if($isAdmin) { removeSeedAccounts($conn, $uname); }   // the first real admin to log in replaces the starting accounts
         header("Location: " . ($isAdmin ? "adminAgent.php" : "Agent.php"));
         exit;
     }

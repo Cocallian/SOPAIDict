@@ -54,7 +54,7 @@ function touchActiveUser()
 {
     fetch(window.location.pathname, {
         method: "POST",
-        headers: {"Content-Type": "application/x-www-form-urlencoded"},
+        headers: {"Content-Type": "application/x-www-form-urlencoded", "X-CSRF-Token": csrfToken()},
         body: new URLSearchParams({touch: "touch"})
     }).then(function (reply) {
         if (reply.redirected && reply.url.includes("Inactive.php")) window.location = "Inactive.php";   // its row was already removed
@@ -90,7 +90,7 @@ function isInactive()
 {
     fetch(window.location.pathname, {
         method: "POST",
-        headers: {"Content-Type": "application/x-www-form-urlencoded"},
+        headers: {"Content-Type": "application/x-www-form-urlencoded", "X-CSRF-Token": csrfToken()},
         body: new URLSearchParams({logout: "logout", reason: "inactive"})
     }).then(function () {
         window.location = "Inactive.php";

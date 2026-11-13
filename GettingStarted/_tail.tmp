@@ -1,0 +1,23 @@
+## 4.2 Google Colab (testing on a free GPU)
+
+You need a Google account.
+
+**Make the project visible to Colab (once).** A notebook running on Colab's servers can't see folders on your PC. Install [Google Drive for desktop](https://www.google.com/drive/download/) and sync your `LLM` project folder to your Google Drive. The notebook then finds the project's `PreProcessing` folders and `config.json` anywhere in your Drive.
+
+**Each session:**
+
+1. **Open the notebook.** Go to [colab.research.google.com](https://colab.research.google.com), choose **File → Open notebook**, then the **Upload** tab, and pick `ColabTest.ipynb`.
+2. **Choose the GPU:** **Runtime → Change runtime type → T4 GPU → Save**.
+3. **Run block 1.2** ("for your own documents"). Allow access to your Drive when asked. It copies `passages.jsonl` from `PreProcessing/Raw_Text`, `passage_vectors.npy` and `passage_ids.json` from `PreProcessing/Embeds`, and `config.json` from the main project folder into `My Drive/RAGFiles`. Each copied file is listed.
+
+   Block 1.1 does the same with the SAHPRA demo set in `PreProcessesV1`. Run 1.1 **or** 1.2, not both: whichever runs last fills `RAGFiles`.
+4. **Run block 2.** It installs Ollama and downloads Qwen. This takes a few minutes, every session, because Colab starts from a blank machine.
+5. **Run block 3.** Type a test question. You should get an answer with sources. The model is told it answers questions about *ORG_NAME*'s guidelines, using the `config.json` copied in block 1.2.
+
+After changing your SOPs or `ORG_NAME`, let Drive finish syncing, then run block 1.2 again so `RAGFiles` gets the new files.
+
+The last cell starts a public web address for the notebook. The website doesn't use that address yet, so you can skip it.
+
+---
+
+Next: [5. Set up the website](5-Set-Up-the-Website.md)

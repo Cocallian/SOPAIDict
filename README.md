@@ -29,6 +29,18 @@ If you would like to implement this agent in your own envrionment check out the 
 <li>User priority queue implementation</li>
 <li>Update Getting Started guide</li>
 </ul>
+
+<h3>SECURITY TO DO:</h3>
+
+<ul>
+<li>Upgrade PHP (8.2.12 has known CVEs)</li>
+<li>Add security headers: CSP, X-Frame-Options, X-Content-Type-Options</li>
+<li>Hide server and PHP versions (ServerTokens Prod, expose_php Off)</li>
+<li>Harden session cookies: HttpOnly, SameSite, Secure (after HTTPS)</li>
+<li><s>Add CSRF tokens to all POST forms and handlers</s> (done)</li>
+<li><s>Regenerate session ID on login</s> (done); move session_start() into one shared file</li>
+<li>Re-run ZAP logged in to cover Agent, admin, reports and settings pages</li>
+</ul>
 <br/>
 <br/>
 

@@ -33,7 +33,7 @@ if (search) {
             if (search.value.trim() === "") { results.hidden = true; return; }
             const reply = await fetch("adminAgent.php", {
                 method: "POST",
-                headers: {"Content-Type": "application/x-www-form-urlencoded"},
+                headers: {"Content-Type": "application/x-www-form-urlencoded", "X-CSRF-Token": csrfToken()},
                 body: new URLSearchParams({"search-user": search.value})
             });
             const people = await reply.json();

@@ -82,3 +82,48 @@ if (settingsForm) {
         }
     });
 }
+
+// Allowed email domains: separate from the form above because it is saved by the website itself, not the answer server.
+// The server checks every domain again; this only catches an empty box and tidies the list after a save.
+const orgForm = document.getElementById("org-domains-form");
+if (orgForm) {
+    orgForm.addEventListener("submit", async function (e) {
+        e.preventDefault();
+        const box = orgForm.querySelector("textarea");
+        const message = orgForm.querySelector('[data-error="org_domains"]');
+        const status = document.getElementById("org-domains-status");
+        const block = box.closest(".setting-block");
+
+        message.hidden = true;
+        block.classList.remove("invalid");
+        if (box.value.trim() === "") {
+            message.textContent = "Add at least one domain, or nobody could be given an account.";
+            message.hidden = false;
+            block.classList.add("invalid");
+            return;
+        }
+
+        const button = orgForm.querySelector(".save-btn");
+        const data = new FormData(orgForm);
+        data.append("save-org-domains", "save-org-domains");
+        button.disabled = true;
+        try {
+            const reply = await fetch("settings.php", {method: "POST", body: data, headers: {"X-Requested-With": "fetch"}});
+            const text = (await reply.text()).trim();
+            if (!reply.ok) throw new Error(text || "The domains could not be saved.");
+
+            const tidy = [...new Set(box.value.split(/[\s,;]+/).filter(Boolean)
+                .map(function (domain) { return "@" + domain.replace(/^["']+|["']+$/g, "").replace(/^@+/, "").toLowerCase(); }))];
+            box.value = tidy.join("\n");
+            orgForm.querySelector("label").textContent = "Allowed domains (" + tidy.length + ")";
+            status.className = "settings-status done";
+            status.textContent = text;
+        } catch (error) {
+            status.className = "settings-status failed";
+            status.textContent = error.message;
+        } finally {
+            status.hidden = false;
+            button.disabled = false;
+        }
+    });
+}
